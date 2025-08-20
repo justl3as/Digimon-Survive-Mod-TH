@@ -554,7 +554,7 @@
     },
     {
       "key": "HELP_DETAIL_SLG_35",
-      "value": "Evolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (devolve them) voluntarily to conserve SP."
+      "value": "Evolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Child) form when SP runs out. You can also return them to their original form (devolve them) voluntarily to conserve SP."
     },
     {
       "key": "HELP_DETAIL_SLG_36",
@@ -578,7 +578,7 @@
     },
     {
       "key": "HELP_DETAIL_SLG_41",
-      "value": "While a unit is in Rookie form (and for all Rookie-level Free Monster units), ending a turn without attacking, using items or talking will recover 10% of their SP. If said unit also does not move, they recover 30% of their SP instead."
+      "value": "While a unit is in Child form (and for all Child-level Free Monster units), ending a turn without attacking, using items or talking will recover 10% of their SP. If said unit also does not move, they recover 30% of their SP instead."
     },
     {
       "key": "HELP_DETAIL_SLG_42",

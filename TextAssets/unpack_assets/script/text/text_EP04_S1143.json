@@ -2,7 +2,7 @@
   "scenario_text": [
     {
       "key": "EP04_S1143_0001",
-      "value": "Hey, that’s Biyomon! Seems hurt too!"
+      "value": "Hey, that’s Piyomon! Seems hurt too!"
     },
     {
       "key": "EP04_S1143_0002",
@@ -14,7 +14,7 @@
     },
     {
       "key": "EP04_S1143_0004",
-      "value": "Biyomon! Hang in there!"
+      "value": "Piyomon! Hang in there!"
     },
     {
       "key": "EP04_S1143_0005",
@@ -50,7 +50,7 @@
     },
     {
       "key": "EP04_S1143_0013",
-      "value": "And Biyomon, stay safe!"
+      "value": "And Piyomon, stay safe!"
     },
     {
       "key": "EP04_S1143_0014",
@@ -62,7 +62,7 @@
     },
     {
       "key": "EP04_S1143_0016",
-      "value": "You’re hurt, Biyomon?!"
+      "value": "You’re hurt, Piyomon?!"
     },
     {
       "key": "EP04_S1143_0017",
@@ -78,11 +78,11 @@
     },
     {
       "key": "EP04_S1143_0020",
-      "value": "(Then again, Biyomon says it’s nothing. Maybe\nI shouldn’t force the issue.)"
+      "value": "(Then again, Piyomon says it’s nothing. Maybe\nI shouldn’t force the issue.)"
     },
     {
       "key": "EP04_S1143_Q1",
-      "value": "(Should I treat Biyomon?)"
+      "value": "(Should I treat Piyomon?)"
     },
     {
       "key": "EP04_S1143_Q1_A1",
@@ -98,7 +98,7 @@
     },
     {
       "key": "EP04_S1143_0022",
-      "value": "Biyomon, I can treat that wound. Let me take\na look at it."
+      "value": "Piyomon, I can treat that wound. Let me take\na look at it."
     },
     {
       "key": "EP04_S1143_0023",
@@ -150,7 +150,7 @@
     },
     {
       "key": "EP04_S1143_0035",
-      "value": "We’re going to get moving now, so take care\nof yourself, Biyomon!"
+      "value": "We’re going to get moving now, so take care\nof yourself, Piyomon!"
     },
     {
       "key": "EP04_S1143_0036",

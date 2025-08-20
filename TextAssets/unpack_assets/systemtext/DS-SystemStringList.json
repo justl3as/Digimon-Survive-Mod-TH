@@ -286,19 +286,19 @@
     },
     {
       "key": "SYS_WORD_0023",
-      "value": "Rookie"
+      "value": "Child"
     },
     {
       "key": "SYS_WORD_0024",
-      "value": "Champion"
+      "value": "Adult"
     },
     {
       "key": "SYS_WORD_0025",
-      "value": "Ultimate"
+      "value": "Perfect"
     },
     {
       "key": "SYS_WORD_0026",
-      "value": "Mega"
+      "value": "Ultimate"
     },
     {
       "key": "SYS_WORD_0027",
@@ -1862,7 +1862,7 @@
     },
     {
       "key": "NAME_CHARACTER_959_01",
-      "value": "DemiVeemon"
+      "value": "Chibimon"
     },
     {
       "key": "NAME_CHARACTER_001_01",
@@ -1882,7 +1882,7 @@
     },
     {
       "key": "NAME_CHARACTER_005_01",
-      "value": "Syakomon"
+      "value": "Shakomon"
     },
     {
       "key": "NAME_CHARACTER_006_01",
@@ -1898,7 +1898,7 @@
     },
     {
       "key": "NAME_CHARACTER_009_01",
-      "value": "Dracmon"
+      "value": "Dracumon"
     },
     {
       "key": "NAME_CHARACTER_010_01",
@@ -1914,7 +1914,7 @@
     },
     {
       "key": "NAME_CHARACTER_013_01",
-      "value": "Biyomon"
+      "value": "Piyomon"
     },
     {
       "key": "NAME_CHARACTER_014_01",
@@ -1922,7 +1922,7 @@
     },
     {
       "key": "NAME_CHARACTER_015_01",
-      "value": "Gotsumon"
+      "value": "Gottsumon"
     },
     {
       "key": "NAME_CHARACTER_016_01",
@@ -1966,7 +1966,7 @@
     },
     {
       "key": "NAME_CHARACTER_107_01",
-      "value": "Vegiemon"
+      "value": "Vegimon"
     },
     {
       "key": "NAME_CHARACTER_108_01",
@@ -2006,11 +2006,11 @@
     },
     {
       "key": "NAME_CHARACTER_117_01",
-      "value": "Gatomon"
+      "value": "Tailmon"
     },
     {
       "key": "NAME_CHARACTER_118_01",
-      "value": "Seasarmon"
+      "value": "Siesamon"
     },
     {
       "key": "NAME_CHARACTER_119_01",
@@ -2018,7 +2018,7 @@
     },
     {
       "key": "NAME_CHARACTER_120_01",
-      "value": "Tyrannomon"
+      "value": "Tyranomon"
     },
     {
       "key": "NAME_CHARACTER_121_01",
@@ -2034,7 +2034,7 @@
     },
     {
       "key": "NAME_CHARACTER_124_01",
-      "value": "Wendigomon"
+      "value": "Wendimon"
     },
     {
       "key": "NAME_CHARACTER_125_01",
@@ -2050,7 +2050,7 @@
     },
     {
       "key": "NAME_CHARACTER_128_01",
-      "value": "Cyclonemon"
+      "value": "Cyclomon"
     },
     {
       "key": "NAME_CHARACTER_129_01",
@@ -2062,7 +2062,7 @@
     },
     {
       "key": "NAME_CHARACTER_131_01",
-      "value": "Growlmon"
+      "value": "Growmon"
     },
     {
       "key": "NAME_CHARACTER_132_01",
@@ -2070,7 +2070,7 @@
     },
     {
       "key": "NAME_CHARACTER_201_01",
-      "value": "MarineDevimon"
+      "value": "MarinDevimon"
     },
     {
       "key": "NAME_CHARACTER_202_01",
@@ -2098,11 +2098,11 @@
     },
     {
       "key": "NAME_CHARACTER_208_01",
-      "value": "Crowmon"
+      "value": "Yatagaramon"
     },
     {
       "key": "NAME_CHARACTER_209_01",
-      "value": "Arukenimon"
+      "value": "Archnemon"
     },
     {
       "key": "NAME_CHARACTER_209_02",
@@ -2118,11 +2118,11 @@
     },
     {
       "key": "NAME_CHARACTER_212_01",
-      "value": "MagnaAngemon"
+      "value": "HolyAngemon"
     },
     {
       "key": "NAME_CHARACTER_213_01",
-      "value": "MegaKabuterimon"
+      "value": "AtlurKabuterimon"
     },
     {
       "key": "NAME_CHARACTER_214_01",
@@ -2130,7 +2130,7 @@
     },
     {
       "key": "NAME_CHARACTER_215_01",
-      "value": "Lillymon"
+      "value": "Lilimon"
     },
     {
       "key": "NAME_CHARACTER_216_01",
@@ -2146,7 +2146,7 @@
     },
     {
       "key": "NAME_CHARACTER_219_01",
-      "value": "Myotismon"
+      "value": "Vamdemon"
     },
     {
       "key": "NAME_CHARACTER_220_01",
@@ -2154,15 +2154,15 @@
     },
     {
       "key": "NAME_CHARACTER_221_01",
-      "value": "Cerberusmon"
+      "value": "Cerberumon"
     },
     {
       "key": "NAME_CHARACTER_222_01",
-      "value": "Antylamon"
+      "value": "Andiramon"
     },
     {
       "key": "NAME_CHARACTER_223_01",
-      "value": "JewelBeemon"
+      "value": "Jewelbeemon"
     },
     {
       "key": "NAME_CHARACTER_224_01",
@@ -2174,11 +2174,11 @@
     },
     {
       "key": "NAME_CHARACTER_226_01",
-      "value": "IceLeomon"
+      "value": "Panjyamon"
     },
     {
       "key": "NAME_CHARACTER_227_01",
-      "value": "Deramon"
+      "value": "Delumon"
     },
     {
       "key": "NAME_CHARACTER_228_01",
@@ -2194,7 +2194,7 @@
     },
     {
       "key": "NAME_CHARACTER_231_01",
-      "value": "WarGrowlmon"
+      "value": "MegaloGrowmon"
     },
     {
       "key": "NAME_CHARACTER_301_01",
@@ -2214,7 +2214,7 @@
     },
     {
       "key": "NAME_CHARACTER_305_01",
-      "value": "Varodurumon"
+      "value": "Valdurmon"
     },
     {
       "key": "NAME_CHARACTER_306_01",
@@ -2226,15 +2226,15 @@
     },
     {
       "key": "NAME_CHARACTER_308_01",
-      "value": "Azulongmon"
+      "value": "Qinglongmon"
     },
     {
       "key": "NAME_CHARACTER_309_01",
-      "value": "Ebonwumon"
+      "value": "Xuanwumon"
     },
     {
       "key": "NAME_CHARACTER_310_01",
-      "value": "Fanglongmon"
+      "value": "Huanglongmon"
     },
     {
       "key": "NAME_CHARACTER_311_01",
@@ -2242,11 +2242,11 @@
     },
     {
       "key": "NAME_CHARACTER_312_01",
-      "value": "HerculesKabuterimon"
+      "value": "HerakleKabuterimon"
     },
     {
       "key": "NAME_CHARACTER_313_01",
-      "value": "Phoenixmon"
+      "value": "Hououmon"
     },
     {
       "key": "NAME_CHARACTER_314_01",
@@ -2258,15 +2258,15 @@
     },
     {
       "key": "NAME_CHARACTER_316_01",
-      "value": "Magnadramon"
+      "value": "Holydramon"
     },
     {
       "key": "NAME_CHARACTER_317_01",
-      "value": "Piedmon"
+      "value": "Piemon"
     },
     {
       "key": "NAME_CHARACTER_318_01",
-      "value": "Boltboutamon"
+      "value": "Voltobautamon"
     },
     {
       "key": "NAME_CHARACTER_319_01",
@@ -2274,7 +2274,7 @@
     },
     {
       "key": "NAME_CHARACTER_320_01",
-      "value": "Machinedramon"
+      "value": "Mugendramon"
     },
     {
       "key": "NAME_CHARACTER_321_01",
@@ -2286,7 +2286,7 @@
     },
     {
       "key": "NAME_CHARACTER_322_01",
-      "value": "Beelzemon"
+      "value": "Beelzebumon"
     },
     {
       "key": "NAME_CHARACTER_323_01",
@@ -2302,15 +2302,15 @@
     },
     {
       "key": "NAME_CHARACTER_326_01",
-      "value": "MarineAngemon"
+      "value": "MarinAngemon"
     },
     {
       "key": "NAME_CHARACTER_327_01",
-      "value": "Anubismon"
+      "value": "Anubimon"
     },
     {
       "key": "NAME_CHARACTER_328_01",
-      "value": "Maid Mode Sakuyamon"
+      "value": "Shrine Maiden Sakuyamon"
     },
     {
       "key": "NAME_CHARACTER_329_01",
@@ -2322,11 +2322,11 @@
     },
     {
       "key": "NAME_CHARACTER_331_01",
-      "value": "Puppetmon"
+      "value": "Pinochimon"
     },
     {
       "key": "NAME_CHARACTER_332_01",
-      "value": "Gallantmon"
+      "value": "Dukemon"
     },
     {
       "key": "NAME_CHARACTER_333_01",
@@ -2382,19 +2382,19 @@
     },
     {
       "key": "NAME_SKILL_0005",
-      "value": "Pepper Breath"
+      "value": "Baby Flame"
     },
     {
       "key": "NAME_SKILL_0006",
-      "value": "Water Pressure"
+      "value": "Water Screw"
     },
     {
       "key": "NAME_SKILL_0007",
-      "value": "Rain of Pollen"
+      "value": "Allergy Shower"
     },
     {
       "key": "NAME_SKILL_0008",
-      "value": "Blue Blaster"
+      "value": "Petit Fire"
     },
     {
       "key": "NAME_SKILL_0009",
@@ -2402,7 +2402,7 @@
     },
     {
       "key": "NAME_SKILL_0010",
-      "value": "Eye of Nightmares"
+      "value": "Eye of Nightmare"
     },
     {
       "key": "NAME_SKILL_0011",
@@ -2414,11 +2414,11 @@
     },
     {
       "key": "NAME_SKILL_0013",
-      "value": "Super Shocker"
+      "value": "Petit Thunder"
     },
     {
       "key": "NAME_SKILL_0014",
-      "value": "Spiral Twister"
+      "value": "Magical Fire"
     },
     {
       "key": "NAME_SKILL_0015",
@@ -2426,11 +2426,11 @@
     },
     {
       "key": "NAME_SKILL_0016",
-      "value": "Rock Fist"
+      "value": "Angry Rock"
     },
     {
       "key": "NAME_SKILL_0017",
-      "value": "Diamond Storm"
+      "value": "Fox Leaf Arrowheads"
     },
     {
       "key": "NAME_SKILL_0018",
@@ -2438,15 +2438,15 @@
     },
     {
       "key": "NAME_SKILL_0019",
-      "value": "Electric Stun Blast"
+      "value": "Paralyze Breath"
     },
     {
       "key": "NAME_SKILL_0020",
-      "value": "Fire Ball"
+      "value": "Fireball"
     },
     {
       "key": "NAME_SKILL_0021",
-      "value": "Fox Fire"
+      "value": "Foxfire"
     },
     {
       "key": "NAME_SKILL_0022",
@@ -2458,7 +2458,7 @@
     },
     {
       "key": "NAME_SKILL_0024",
-      "value": "Triple Forces"
+      "value": "Triplex Force"
     },
     {
       "key": "NAME_SKILL_0025",
@@ -2466,7 +2466,7 @@
     },
     {
       "key": "NAME_SKILL_0026",
-      "value": "Hydro Blaster"
+      "value": "Hydro Pressure"
     },
     {
       "key": "NAME_SKILL_0027",
@@ -2474,7 +2474,7 @@
     },
     {
       "key": "NAME_SKILL_0028",
-      "value": "Ice Blast"
+      "value": "Ice Arrow"
     },
     {
       "key": "NAME_SKILL_0029",
@@ -2482,7 +2482,7 @@
     },
     {
       "key": "NAME_SKILL_0030",
-      "value": "Brown Stingers"
+      "value": "Deadly Sting"
     },
     {
       "key": "NAME_SKILL_0031",
@@ -2490,7 +2490,7 @@
     },
     {
       "key": "NAME_SKILL_0032",
-      "value": "Electro Shocker"
+      "value": "Mega Blaster"
     },
     {
       "key": "NAME_SKILL_0033",
@@ -2498,23 +2498,23 @@
     },
     {
       "key": "NAME_SKILL_0034",
-      "value": "Needle Spray"
+      "value": "Prickly Bang Bang"
     },
     {
       "key": "NAME_SKILL_0035",
-      "value": "Harpoon Torpedo"
+      "value": "Harpoon Vulcan"
     },
     {
       "key": "NAME_SKILL_0036",
-      "value": "Lightning Paw"
+      "value": "Cat Punch"
     },
     {
       "key": "NAME_SKILL_0037",
-      "value": "Tiida Iya"
+      "value": "Tīda Iya"
     },
     {
       "key": "NAME_SKILL_0038",
-      "value": "Venom Blast"
+      "value": "Stinger Poration"
     },
     {
       "key": "NAME_SKILL_0039",
@@ -2522,7 +2522,7 @@
     },
     {
       "key": "NAME_SKILL_0040",
-      "value": "Slamming Tusk"
+      "value": "Panzer Knuckle"
     },
     {
       "key": "NAME_SKILL_0041",
@@ -2530,23 +2530,23 @@
     },
     {
       "key": "NAME_SKILL_0042",
-      "value": "Ninja Claw"
+      "value": "Gauntlet"
     },
     {
       "key": "NAME_SKILL_0043",
-      "value": "Howling Destroyer"
+      "value": "Destroyed Voice"
     },
     {
       "key": "NAME_SKILL_0044",
-      "value": "Dragon Wheel"
+      "value": "Fox Flame Dragon"
     },
     {
       "key": "NAME_SKILL_0045",
-      "value": "Fist of the Beast King"
+      "value": "Beast King Fist"
     },
     {
       "key": "NAME_SKILL_0046",
-      "value": "Pummel Peck"
+      "value": "Little Pecker"
     },
     {
       "key": "NAME_SKILL_0047",
@@ -2554,7 +2554,7 @@
     },
     {
       "key": "NAME_SKILL_0048",
-      "value": "Scissor Claw"
+      "value": "Scissor Arms"
     },
     {
       "key": "NAME_SKILL_0049",
@@ -2570,11 +2570,11 @@
     },
     {
       "key": "NAME_SKILL_0052",
-      "value": "Dark Deluge"
+      "value": "Guilty Black"
     },
     {
       "key": "NAME_SKILL_0053",
-      "value": "Double Scissor Claw"
+      "value": "Scissor Arms Omega"
     },
     {
       "key": "NAME_SKILL_0054",
@@ -2586,7 +2586,7 @@
     },
     {
       "key": "NAME_SKILL_0056",
-      "value": "Lightning Javelin"
+      "value": "Thunder Javelin"
     },
     {
       "key": "NAME_SKILL_0057",
@@ -2594,11 +2594,11 @@
     },
     {
       "key": "NAME_SKILL_0058",
-      "value": "Hearts Attack"
+      "value": "Lovely Attack"
     },
     {
       "key": "NAME_SKILL_0059",
-      "value": "Savage Emperor"
+      "value": "Mikafutsu-no-Kami"
     },
     {
       "key": "NAME_SKILL_0060",
@@ -2610,7 +2610,7 @@
     },
     {
       "key": "NAME_SKILL_0062",
-      "value": "Eradication Attack"
+      "value": "Genocide Attack"
     },
     {
       "key": "NAME_SKILL_0063",
@@ -2626,11 +2626,11 @@
     },
     {
       "key": "NAME_SKILL_0066",
-      "value": "Flower Cannon"
+      "value": "Flow’ Cannon"
     },
     {
       "key": "NAME_SKILL_0067",
-      "value": "Vulcan’s Hammer"
+      "value": "Hammer Spark"
     },
     {
       "key": "NAME_SKILL_0068",
@@ -2638,7 +2638,7 @@
     },
     {
       "key": "NAME_SKILL_0069",
-      "value": "Wolf Claw"
+      "value": "Kaiser Nail"
     },
     {
       "key": "NAME_SKILL_0070",
@@ -2650,11 +2650,11 @@
     },
     {
       "key": "NAME_SKILL_0072",
-      "value": "Mad Dog Fire"
+      "value": "Hellfire"
     },
     {
       "key": "NAME_SKILL_0073",
-      "value": "Bunny Blades"
+      "value": "Asipatravana"
     },
     {
       "key": "NAME_SKILL_0074",
@@ -2666,11 +2666,11 @@
     },
     {
       "key": "NAME_SKILL_0076",
-      "value": "Talisman of Light"
+      "value": "Buddhist Brush Brandish"
     },
     {
       "key": "NAME_SKILL_0077",
-      "value": "Fist of Ice"
+      "value": "Ice Beast Fist"
     },
     {
       "key": "NAME_SKILL_0078",
@@ -2686,7 +2686,7 @@
     },
     {
       "key": "NAME_SKILL_0081",
-      "value": "Genocidal Gears"
+      "value": "Genocide Gear"
     },
     {
       "key": "NAME_SKILL_0082",
@@ -2694,7 +2694,7 @@
     },
     {
       "key": "NAME_SKILL_0083",
-      "value": "Freezing Breath"
+      "value": "Cocytus Breath"
     },
     {
       "key": "NAME_SKILL_0084",
@@ -2702,11 +2702,11 @@
     },
     {
       "key": "NAME_SKILL_0085",
-      "value": "Terra Force"
+      "value": "Gaia Force"
     },
     {
       "key": "NAME_SKILL_0086",
-      "value": "River of Power"
+      "value": "Ultimate Stream"
     },
     {
       "key": "NAME_SKILL_0087",
@@ -2718,23 +2718,23 @@
     },
     {
       "key": "NAME_SKILL_0089",
-      "value": "Kongou"
+      "value": "Vajra"
     },
     {
       "key": "NAME_SKILL_0090",
-      "value": "Sourai"
+      "value": "Blue Thunder"
     },
     {
       "key": "NAME_SKILL_0091",
-      "value": "Mugen"
+      "value": "Misty Illusion"
     },
     {
       "key": "NAME_SKILL_0092",
-      "value": "Taikyoku"
+      "value": "Taiji"
     },
     {
       "key": "NAME_SKILL_0093",
-      "value": "Strike of the Seven Stars"
+      "value": "Seven Heavens"
     },
     {
       "key": "NAME_SKILL_0094",
@@ -2754,7 +2754,7 @@
     },
     {
       "key": "NAME_SKILL_0098",
-      "value": "Fire Tornado"
+      "value": "Holy Flame"
     },
     {
       "key": "NAME_SKILL_0099",
@@ -2762,7 +2762,7 @@
     },
     {
       "key": "NAME_SKILL_0100",
-      "value": "Pernicious Waltz"
+      "value": "Palazzi Valzer"
     },
     {
       "key": "NAME_SKILL_0101",
@@ -2790,7 +2790,7 @@
     },
     {
       "key": "NAME_SKILL_0107",
-      "value": "Karpos Hulē"
+      "value": "Phales"
     },
     {
       "key": "NAME_SKILL_0108",
@@ -2798,15 +2798,15 @@
     },
     {
       "key": "NAME_SKILL_0109",
-      "value": "Amemit"
+      "value": "Ammit"
     },
     {
       "key": "NAME_SKILL_0110",
-      "value": "Amethyst Mandala"
+      "value": "Diamond Realm Mandala"
     },
     {
       "key": "NAME_SKILL_0111",
-      "value": "Howling Crusher"
+      "value": "Nail Crusher"
     },
     {
       "key": "NAME_SKILL_0112",
@@ -2814,23 +2814,23 @@
     },
     {
       "key": "NAME_SKILL_0113",
-      "value": "Puppet Pummel"
+      "value": "Bullet Hammer"
     },
     {
       "key": "NAME_SKILL_0114",
-      "value": "Shield of the Just"
+      "value": "Final Elysion"
     },
     {
       "key": "NAME_SKILL_0115",
-      "value": "Fruit Flechette"
+      "value": "Fruits Flechette"
     },
     {
       "key": "NAME_SKILL_0116",
-      "value": "Transcendent Sword"
+      "value": "Grey Sword"
     },
     {
       "key": "NAME_SKILL_0117",
-      "value": "Supreme Cannon"
+      "value": "Garuru Cannon"
     },
     {
       "key": "NAME_SKILL_0118",
@@ -2950,7 +2950,7 @@
     },
     {
       "key": "NAME_SKILL_0147",
-      "value": "Palazzi Rentler"
+      "value": "Palazzi Ländler"
     },
     {
       "key": "NAME_SKILL_0148",
@@ -2958,27 +2958,27 @@
     },
     {
       "key": "NAME_SKILL_0149",
-      "value": "Raikou"
+      "value": "Thunder"
     },
     {
       "key": "NAME_SKILL_0150",
-      "value": "Sagiri"
+      "value": "Mist"
     },
     {
       "key": "NAME_SKILL_0151",
-      "value": "Tenkouseki"
+      "value": "Descending Stone"
     },
     {
       "key": "NAME_SKILL_0152",
-      "value": "Mukyoku"
+      "value": "Limitless"
     },
     {
       "key": "NAME_SKILL_0153",
-      "value": "Kaimeisou"
+      "value": "Dark Funeral"
     },
     {
       "key": "NAME_SKILL_0200",
-      "value": "Need for Speed"
+      "value": "Boastful Speed"
     },
     {
       "key": "NAME_SKILL_0201",
@@ -3018,7 +3018,7 @@
     },
     {
       "key": "NAME_SKILL_0210",
-      "value": "Hidden Power"
+      "value": "Hidden Holy Power"
     },
     {
       "key": "NAME_SKILL_0211",
@@ -3242,7 +3242,7 @@
     },
     {
       "key": "NAME_SKILL_0266",
-      "value": "Tall Hammer"
+      "value": "Thor’s Hammer"
     },
     {
       "key": "NAME_SKILL_0267",
@@ -3278,7 +3278,7 @@
     },
     {
       "key": "NAME_SKILL_0275",
-      "value": "Taoist"
+      "value": "Onmyodo"
     },
     {
       "key": "NAME_SKILL_0276",
@@ -3326,19 +3326,19 @@
     },
     {
       "key": "NAME_SKILL_0287",
-      "value": "Sovereign Protection: Blaze"
+      "value": "Holy Beast Protection: Blaze"
     },
     {
       "key": "NAME_SKILL_0288",
-      "value": "Sovereign Protection: Steel"
+      "value": "Holy Beast Protection: Steel"
     },
     {
       "key": "NAME_SKILL_0289",
-      "value": "Sovereign Protection: Thunder"
+      "value": "Holy Beast Protection: Thunder"
     },
     {
       "key": "NAME_SKILL_0290",
-      "value": "Sovereign Protection: Rapids"
+      "value": "Holy Beast Protection: Rapids"
     },
     {
       "key": "NAME_SKILL_0291",
@@ -4790,7 +4790,7 @@
     },
     {
       "key": "NAME_SKILL_0422",
-      "value": "Awesome Quake"
+      "value": "Earthquake"
     },
     {
       "key": "NAME_SKILL_0430",
@@ -4818,7 +4818,7 @@
     },
     {
       "key": "NAME_SKILL_0450",
-      "value": "Destruction Cannon"
+      "value": "Destroyer Cannon"
     },
     {
       "key": "NAME_SKILL_0451",
@@ -4902,11 +4902,11 @@
     },
     {
       "key": "NAME_SKILL_0478",
-      "value": "Acceleration Charge"
+      "value": "Accel Charge"
     },
     {
       "key": "NAME_SKILL_0479",
-      "value": "Acceleration Charge+"
+      "value": "Accel Charge+"
     },
     {
       "key": "NAME_SKILL_0480",
@@ -5154,23 +5154,23 @@
     },
     {
       "key": "NAME_ITEM_0006",
-      "value": "Ribs"
+      "value": "Meat"
     },
     {
       "key": "NAME_ITEM_0007",
-      "value": "Choice Ribs"
+      "value": "Choice Meat"
     },
     {
       "key": "NAME_ITEM_0008",
-      "value": "Prime Ribs"
+      "value": "Prime Meat"
     },
     {
       "key": "NAME_ITEM_0009",
-      "value": "Rib Platter"
+      "value": "Meat Platter"
     },
     {
       "key": "NAME_ITEM_0010",
-      "value": "Rib Party Set"
+      "value": "Meat Party Set"
     },
     {
       "key": "NAME_ITEM_0011",
@@ -5210,7 +5210,7 @@
     },
     {
       "key": "NAME_ITEM_0101",
-      "value": "Giant Mushroom"
+      "value": "Odd Mushroom"
     },
     {
       "key": "NAME_ITEM_0102",
@@ -5578,15 +5578,15 @@
     },
     {
       "key": "NAME_ITEM_1201",
-      "value": "Evolves a Free Monster to Champion.\nI don’t think I can read this... Is it\nan incantation from this world?"
+      "value": "Evolves a Free Monster to Adult.\nI don’t think I can read this... Is it\nan incantation from this world?"
     },
     {
       "key": "NAME_ITEM_1202",
-      "value": "Evolves a Free Monster to Ultimate.\nCan residents of this world read this?\nI think I’ve seen this shape somewhere."
+      "value": "Evolves a Free Monster to Perfect.\nCan residents of this world read this?\nI think I’ve seen this shape somewhere."
     },
     {
       "key": "NAME_ITEM_1203",
-      "value": "Evolves a Free Monster to Mega.\nThe middle of the disc rotates, but why?\nIs something written here?"
+      "value": "Evolves a Free Monster to Ultimate.\nThe middle of the disc rotates, but why?\nIs something written here?"
     },
     {
       "key": "NAME_ITEM_1301",
@@ -6874,7 +6874,7 @@
     },
     {
       "key": "DESC_LOCATION_025",
-      "value": "One of the Four Sovereign Monsters is bound here. It’s a vast chamber made of stone that seems very sturdy."
+      "value": "One of the Four Holy Beasts is bound here. It’s a vast chamber made of stone that seems very sturdy."
     },
     {
       "key": "DESC_LOCATION_026",
@@ -7010,7 +7010,7 @@
     },
     {
       "key": "DESC_LOCATION_052",
-      "value": "One of the Four Sovereign Monsters is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
+      "value": "One of the Four Holy Beasts is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
     },
     {
       "key": "DESC_LOCATION_053",
@@ -7090,7 +7090,7 @@
     },
     {
       "key": "DESC_LOCATION_068",
-      "value": "One of the Four Sovereign Monsters is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
+      "value": "One of the Four Holy Beasts is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
     },
     {
       "key": "DESC_LOCATION_069",
@@ -7146,11 +7146,11 @@
     },
     {
       "key": "DESC_LOCATION_079",
-      "value": "One of the Four Sovereign Monsters is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
+      "value": "One of the Four Holy Beasts is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
     },
     {
       "key": "DESC_LOCATION_080",
-      "value": "One of the Four Sovereign Monsters is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
+      "value": "One of the Four Holy Beasts is\nbound here. It’s a vast chamber made of\nstone that seems very sturdy."
     },
     {
       "key": "DESC_LOCATION_081",
@@ -8154,7 +8154,7 @@
     },
     {
       "key": "SYS_WORD_4054",
-      "value": "In-Training II"
+      "value": "Baby II"
     },
     {
       "key": "SYS_WORD_4055",
@@ -8426,7 +8426,7 @@
     },
     {
       "key": "NAME_DTYPE_003",
-      "value": "Vegetation"
+      "value": "Plant"
     },
     {
       "key": "NAME_DTYPE_004",
@@ -8450,7 +8450,7 @@
     },
     {
       "key": "NAME_DTYPE_009",
-      "value": "Insectoid"
+      "value": "Insect"
     },
     {
       "key": "NAME_DTYPE_010",
@@ -8458,15 +8458,15 @@
     },
     {
       "key": "NAME_DTYPE_011",
-      "value": "Sea Beast"
+      "value": "Marine Animal"
     },
     {
       "key": "NAME_DTYPE_012",
-      "value": "Ore"
+      "value": "Mineral"
     },
     {
       "key": "NAME_DTYPE_013",
-      "value": "Beast Humanoid"
+      "value": "Beastman"
     },
     {
       "key": "NAME_DTYPE_014",
@@ -8478,7 +8478,7 @@
     },
     {
       "key": "NAME_DTYPE_016",
-      "value": "Fire"
+      "value": "Flame"
     },
     {
       "key": "NAME_DTYPE_017",
@@ -8494,7 +8494,7 @@
     },
     {
       "key": "NAME_DTYPE_020",
-      "value": "Demon Beast"
+      "value": "Demonic Beast"
     },
     {
       "key": "NAME_DTYPE_021",
@@ -8518,11 +8518,11 @@
     },
     {
       "key": "NAME_DTYPE_026",
-      "value": "Mysterious Beast"
+      "value": "Bewitching Beast"
     },
     {
       "key": "NAME_DTYPE_027",
-      "value": "Dragon Humanoid"
+      "value": "Draconic Beastman"
     },
     {
       "key": "NAME_DTYPE_028",
@@ -8530,11 +8530,11 @@
     },
     {
       "key": "NAME_DTYPE_029",
-      "value": "Wizard Dragon"
+      "value": "Demonic Dragon"
     },
     {
       "key": "NAME_DTYPE_030",
-      "value": "Aquatic Beast Humanoid"
+      "value": "Aquatic Beastman"
     },
     {
       "key": "NAME_DTYPE_031",
@@ -8546,19 +8546,19 @@
     },
     {
       "key": "NAME_DTYPE_033",
-      "value": "Mysterious Bird"
+      "value": "Bewitching Bird"
     },
     {
       "key": "NAME_DTYPE_034",
-      "value": "High Angel"
+      "value": "Archangel"
     },
     {
       "key": "NAME_DTYPE_035",
-      "value": "Bird Humanoid"
+      "value": "Birdman"
     },
     {
       "key": "NAME_DTYPE_036",
-      "value": "Pixie"
+      "value": "Fairy"
     },
     {
       "key": "NAME_DTYPE_037",
@@ -8566,7 +8566,7 @@
     },
     {
       "key": "NAME_DTYPE_038",
-      "value": "Wizard"
+      "value": "Fiend"
     },
     {
       "key": "NAME_DTYPE_039",
@@ -8582,7 +8582,7 @@
     },
     {
       "key": "NAME_DTYPE_042",
-      "value": "God Beast"
+      "value": "Holy Beast"
     },
     {
       "key": "NAME_DTYPE_043",
@@ -8598,7 +8598,7 @@
     },
     {
       "key": "NAME_DTYPE_046",
-      "value": "Evil King"
+      "value": "Demon Lord"
     },
     {
       "key": "NAME_DTYPE_047",
@@ -8822,11 +8822,11 @@
     },
     {
       "key": "NAME_CHARACTER_508_01",
-      "value": "Boltboutamon (Fusion)"
+      "value": "Voltobautamon (Fusion)"
     },
     {
       "key": "NAME_CHARACTER_509_01",
-      "value": "Fanglongmon Ruin Mode"
+      "value": "Huanglongmon Ruin Mode"
     },
     {
       "key": "NAME_CHARACTER_510_01",
@@ -10050,7 +10050,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_003",
-      "value": "Gotsumon defeated."
+      "value": "Gottsumon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_004",
@@ -10086,7 +10086,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_012",
-      "value": "Wendigomon defeated."
+      "value": "Wendimon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_013",
@@ -10098,7 +10098,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_015",
-      "value": "Syakomon dies."
+      "value": "Shakomon dies."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_016",
@@ -10110,7 +10110,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_018",
-      "value": "Arukenimon defeated."
+      "value": "Archnemon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_019",
@@ -10118,11 +10118,11 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_020",
-      "value": "Piedmon defeated."
+      "value": "Piemon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_021",
-      "value": "Dracmon dies."
+      "value": "Dracumon dies."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_022",
@@ -10130,7 +10130,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_023",
-      "value": "Palmon/Patamon/Biyomon dies."
+      "value": "Palmon/Patamon/Piyomon dies."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_024",
@@ -10138,7 +10138,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_025",
-      "value": "Dracmon/Labramon/Falcomon dies."
+      "value": "Dracumon/Labramon/Falcomon dies."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_026",
@@ -10146,7 +10146,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_027",
-      "value": "Cyclonemon defeated."
+      "value": "Cyclomon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_028",
@@ -10162,7 +10162,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_031",
-      "value": "Boltboutamon defeated."
+      "value": "Voltobautamon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_032",
@@ -10170,7 +10170,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_033",
-      "value": "Puppetmon defeated."
+      "value": "Pinochimon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_034",
@@ -10182,11 +10182,11 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_036",
-      "value": "Fanglongmon defeated."
+      "value": "Huanglongmon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_037",
-      "value": "Azulongmon defeated."
+      "value": "Qinglongmon defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_038",
@@ -10198,7 +10198,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_040",
-      "value": "Ebonwumon defeated."
+      "value": "Xuanwumon defeated."
     },
     {
       "key": "SYS_WORD_LIBRARY_024",
@@ -11582,7 +11582,7 @@
     },
     {
       "key": "Tutorial_Battle_061",
-      "value": "Choose the Attack command like before, then\nselect Blue Blaster from the Skill List."
+      "value": "Choose the Attack command like before, then\nselect Petit Fire from the Skill List."
     },
     {
       "key": "Tutorial_Battle_062",
@@ -11590,7 +11590,7 @@
     },
     {
       "key": "Tutorial_Battle_063",
-      "value": "Choose the Attack command, then select Pepper\nBreath from the Skill List."
+      "value": "Choose the Attack command, then select Baby\nFlame from the Skill List."
     },
     {
       "key": "Tutorial_Battle_064",
@@ -13950,7 +13950,7 @@
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_044",
-      "value": "Boltboutamon (Fusion) defeated."
+      "value": "Voltobautamon (Fusion) defeated."
     },
     {
       "key": "SYS_WORD_BATTLE_CONDITION_045",
@@ -13962,7 +13962,7 @@
     },
     {
       "key": "SYS_WORD_8239",
-      "value": "Kaito’s Dracmon has unlocked evolution to Boltboutamon."
+      "value": "Kaito’s Dracumon has unlocked evolution to Voltobautamon."
     },
     {
       "key": "SYS_WORD_8240",
@@ -13986,7 +13986,7 @@
     },
     {
       "key": "AOC_TEXT_0015",
-      "value": "Dark Skill - Destruction Cannon"
+      "value": "Dark Skill - Destroyer Cannon"
     },
     {
       "key": "SYS_WORD_8241",
@@ -14002,7 +14002,7 @@
     },
     {
       "key": "SYS_WORD_8244",
-      "value": "Takuma’s Agumon has unlocked evolution to Fanglongmon."
+      "value": "Takuma’s Agumon has unlocked evolution to Huanglongmon."
     },
     {
       "key": "SYS_WORD_8245",
@@ -14014,11 +14014,11 @@
     },
     {
       "key": "SYS_WORD_8247",
-      "value": "Miu’s Syakomon has unlocked evolution to Azulongmon."
+      "value": "Miu’s Shakomon has unlocked evolution to Qinglongmon."
     },
     {
       "key": "SYS_WORD_8248",
-      "value": "Saki’s Floramon has unlocked evolution to Ebonwumon."
+      "value": "Saki’s Floramon has unlocked evolution to Xuanwumon."
     },
     {
       "key": "SAVE_INFO_SYSTEMDATA_TITLE_xbox",
@@ -14098,7 +14098,7 @@
     },
     {
       "key": "NAME_DLC_ITEM_0005",
-      "value": "Destruction Cannon - D"
+      "value": "Destroyer Cannon - D"
     },
     {
       "key": "SYS_WORD_DIVERGENCE_03",

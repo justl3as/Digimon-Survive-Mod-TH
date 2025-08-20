@@ -374,7 +374,7 @@
     },
     {
       "key": "TIPS_DETAIL_038",
-      "value": "During battle, monsters evolved through the Evolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (devolve them) voluntarily."
+      "value": "During battle, monsters evolved through the Evolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Child) form when\nSP runs out. You can also return them to their original\nform (devolve them) voluntarily."
     },
     {
       "key": "TIPS_DETAIL_039",
@@ -398,7 +398,7 @@
     },
     {
       "key": "TIPS_DETAIL_044",
-      "value": "During battle, while an ally unit is in Rookie form (and\nfor all Rookie-level Free Monsters), ending a turn without\nattacking or using items will recover 10% of their SP. If\nsaid monster also does not move, they recover 30% of their\nSP instead."
+      "value": "During battle, while an ally unit is in Child form (and\nfor all Child-level Free Monsters), ending a turn without\nattacking or using items will recover 10% of their SP. If\nsaid monster also does not move, they recover 30% of their\nSP instead."
     },
     {
       "key": "TIPS_DETAIL_045",

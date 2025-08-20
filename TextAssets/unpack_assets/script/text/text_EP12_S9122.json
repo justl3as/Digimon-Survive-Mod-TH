@@ -2,11 +2,11 @@
   "scenario_text": [
     {
       "key": "EP12_S9122_0001",
-      "value": "Oh! Takuma, have you seen Syakomon?"
+      "value": "Oh! Takuma, have you seen Shakomon?"
     },
     {
       "key": "EP12_S9122_0002",
-      "value": "Syakomon? No, I haven’t, sorry."
+      "value": "Shakomon? No, I haven’t, sorry."
     },
     {
       "key": "EP12_S9122_0003",
@@ -14,7 +14,7 @@
     },
     {
       "key": "EP12_S9122_0004",
-      "value": "Here’s the thing. All of a sudden, Syakomon\njust kind of...shambled off."
+      "value": "Here’s the thing. All of a sudden, Shakomon\njust kind of...shambled off."
     },
     {
       "key": "EP12_S9122_0005",
@@ -26,7 +26,7 @@
     },
     {
       "key": "EP12_S9122_0007",
-      "value": "Then while we were looking for Syakomon,\nDracmon disappeared too."
+      "value": "Then while we were looking for Shakomon,\nDracumon disappeared too."
     },
     {
       "key": "EP12_S9122_0008",
@@ -34,15 +34,15 @@
     },
     {
       "key": "EP12_S9122_0009",
-      "value": "Takuma, what’re we gonna do?! If anything\nhappens to Syakomon, I... I..."
+      "value": "Takuma, what’re we gonna do?! If anything\nhappens to Shakomon, I... I..."
     },
     {
       "key": "EP12_S9122_0010",
-      "value": "I’m not worried about Dracmon, but if we get\nambushed I don’t know if I can protect Miu..."
+      "value": "I’m not worried about Dracumon, but if we get\nambushed I don’t know if I can protect Miu..."
     },
     {
       "key": "EP12_S9122_0011",
-      "value": "(Miu’s really worried about Syakomon, and\nI can understand Kaito’s concern.)"
+      "value": "(Miu’s really worried about Shakomon, and\nI can understand Kaito’s concern.)"
     },
     {
       "key": "EP12_S9122_Q1",
@@ -58,11 +58,11 @@
     },
     {
       "key": "EP12_S9122_0012",
-      "value": "I’ll find Syakomon."
+      "value": "I’ll find Shakomon."
     },
     {
       "key": "EP12_S9122_0013",
-      "value": "It’s okay, Miu. I’ll go find Syakomon."
+      "value": "It’s okay, Miu. I’ll go find Shakomon."
     },
     {
       "key": "EP12_S9122_0014",
@@ -78,11 +78,11 @@
     },
     {
       "key": "EP12_S9122_0017",
-      "value": "I’ll keep an eye out for Dracmon, too."
+      "value": "I’ll keep an eye out for Dracumon, too."
     },
     {
       "key": "EP12_S9122_0018",
-      "value": "Thanks. Seriously, though, your main focus\nshould be Syakomon."
+      "value": "Thanks. Seriously, though, your main focus\nshould be Shakomon."
     },
     {
       "key": "EP12_S9122_0019",
@@ -98,11 +98,11 @@
     },
     {
       "key": "EP12_S9122_0022",
-      "value": "But...but what if Syakomon comes back here?"
+      "value": "But...but what if Shakomon comes back here?"
     },
     {
       "key": "EP12_S9122_0023",
-      "value": "Leave that to me. I’ll go find Syakomon and\ntake her to you."
+      "value": "Leave that to me. I’ll go find Shakomon and\ntake her to you."
     },
     {
       "key": "EP12_S9122_0024",
@@ -130,7 +130,7 @@
     },
     {
       "key": "EP12_S9122_0030",
-      "value": "You’d better find Syakomon and Dracmon!"
+      "value": "You’d better find Shakomon and Dracumon!"
     }
   ]
 }
