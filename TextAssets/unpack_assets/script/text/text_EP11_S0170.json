@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S0170_0001",
+      "value": "Hey, Takuma! I see something over there!"
+    },
+    {
+      "key": "EP11_S0170_0002",
+      "value": "(Something’s swaying over in the direction\nAgumon’s pointing.)"
+    },
+    {
+      "key": "EP11_S0170_0003",
+      "value": "Takuma, use that...clicky-shooty thingy!\nMaybe we’ll be able to learn something?"
+    },
+    {
+      "key": "EP11_S0170_0004",
+      "value": "Uh, you mean that camera I’m guessing.\nSure, let’s give it a shot!"
+    }
+  ]
+}

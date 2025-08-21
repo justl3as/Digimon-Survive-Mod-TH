@@ -1,0 +1,204 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S0090_0001",
+      "value": "Help! Somebody help, please!"
+    },
+    {
+      "key": "EP03_S0090_0002",
+      "value": "Huh? I thought I heard a voice just now!"
+    },
+    {
+      "key": "EP03_S0090_0003",
+      "value": "You don’t think it’s that Arukenimon again,\ndo you?"
+    },
+    {
+      "key": "EP03_S0090_0004",
+      "value": "No, they were calling for help. I thought\nI heard it coming from around here..."
+    },
+    {
+      "key": "EP03_S0090_0005",
+      "value": "Well, if it’s help they’re after, it’s help\nthey’ll get!"
+    },
+    {
+      "key": "EP03_S0090_0006",
+      "value": "Wait! You don’t even know who it is! What if\nthey want to take advantage of us?"
+    },
+    {
+      "key": "EP03_S0090_0007",
+      "value": "Aw, don’t be like that. We should help them."
+    },
+    {
+      "key": "EP03_S0090_0008",
+      "value": "Shut up! Nobody asked you!"
+    },
+    {
+      "key": "EP03_S0090_0009",
+      "value": "What if we made them agree not to attack us\nin exchange for our help?"
+    },
+    {
+      "key": "EP03_S0090_0010",
+      "value": "Yeah, but don’t stop there! We could tell\nthem to give us all their food, too!"
+    },
+    {
+      "key": "EP03_S0090_0011",
+      "value": "That might as well be robbery."
+    },
+    {
+      "key": "EP03_S0090_0012",
+      "value": "Hey, I found him!"
+    },
+    {
+      "key": "EP03_S0090_0013",
+      "value": "Help!"
+    },
+    {
+      "key": "EP03_S0090_0014",
+      "value": "It’s Tentomon! No need to worry about him!"
+    },
+    {
+      "key": "EP03_S0090_0015",
+      "value": "The poor thing’s caught in a spiderweb."
+    },
+    {
+      "key": "EP03_S0090_Q1",
+      "value": "(So, what do we do about him?)"
+    },
+    {
+      "key": "EP03_S0090_Q1_A1",
+      "value": "We help, of course."
+    },
+    {
+      "key": "EP03_S0090_Q1_A2",
+      "value": "Let’s leave him be."
+    },
+    {
+      "key": "EP03_S0090_Q1_A3",
+      "value": "Depends on what we get."
+    },
+    {
+      "key": "EP03_S0090_0016",
+      "value": "Help."
+    },
+    {
+      "key": "EP03_S0090_0017",
+      "value": "We should get him out of there. Agumon, think\nyou can cut through those threads?"
+    },
+    {
+      "key": "EP03_S0090_0018",
+      "value": "No problem!"
+    },
+    {
+      "key": "EP03_S0090_0019",
+      "value": "Don’t help."
+    },
+    {
+      "key": "EP03_S0090_0020",
+      "value": "I don’t see any reason to help. Let’s just\ngo."
+    },
+    {
+      "key": "EP03_S0090_0021",
+      "value": "Wait, if he’s not going to attack us, we\ncould ask for information."
+    },
+    {
+      "key": "EP03_S0090_0022",
+      "value": "Isn’t that a good reason to help?"
+    },
+    {
+      "key": "EP03_S0090_0023",
+      "value": "I guess... Agumon, get him out of there."
+    },
+    {
+      "key": "EP03_S0090_0024",
+      "value": "You got it!"
+    },
+    {
+      "key": "EP03_S0090_0025",
+      "value": "Help conditionally."
+    },
+    {
+      "key": "EP03_S0090_0026",
+      "value": "We should try to get something out of this.\nFood would be good, but does he have any?"
+    },
+    {
+      "key": "EP03_S0090_0027",
+      "value": "Maybe we could ask if he knows what happened\nto Miu."
+    },
+    {
+      "key": "EP03_S0090_0028",
+      "value": "Oh, good idea. Agumon, can you get him out of\nthere?"
+    },
+    {
+      "key": "EP03_S0090_0029",
+      "value": "You got it!"
+    },
+    {
+      "key": "EP03_S0090_0030",
+      "value": "Oh, I’m saved! Thank you so much for helping\nme."
+    },
+    {
+      "key": "EP03_S0090_0031",
+      "value": "Hm...? Well, would you look at that. More\nhuman children! How unusual."
+    },
+    {
+      "key": "EP03_S0090_0032",
+      "value": "More? Wait, you mean you’ve seen others?!"
+    },
+    {
+      "key": "EP03_S0090_0033",
+      "value": "Right you are. And a lot smaller than the one\nbehind you!"
+    },
+    {
+      "key": "EP03_S0090_0034",
+      "value": "Could that have been Miu?! Was she walking\naround by herself?"
+    },
+    {
+      "key": "EP03_S0090_0035",
+      "value": "Well, she’d been captured by that terrifying\nArukenimon, you see."
+    },
+    {
+      "key": "EP03_S0090_0036",
+      "value": "I couldn’t help but take pity on the girl, so\nI rescued her at the first opportunity."
+    },
+    {
+      "key": "EP03_S0090_0037",
+      "value": "Unfortunately, I was then discovered by\nArukenimon and taken prisoner myself, haha."
+    },
+    {
+      "key": "EP03_S0090_0038",
+      "value": "But what about Miu? What happened to the\ngirl?!"
+    },
+    {
+      "key": "EP03_S0090_0039",
+      "value": "The girl? Why, she ran away. I was right\nbehind her, so there’s no doubt about that."
+    },
+    {
+      "key": "EP03_S0090_0040",
+      "value": "She was headed to that shiny place, you see."
+    },
+    {
+      "key": "EP03_S0090_0041",
+      "value": "Okay, great. Thanks for telling me. And for\nrescuing Miu in the first place."
+    },
+    {
+      "key": "EP03_S0090_0042",
+      "value": "Oh, my. Don’t even mention it!"
+    },
+    {
+      "key": "EP03_S0090_0043",
+      "value": "So, where exactly is this...shiny place?"
+    },
+    {
+      "key": "EP03_S0090_0044",
+      "value": "I’m...not sure how to describe it. Why not\nclimb up somewhere and see for yourselves?"
+    },
+    {
+      "key": "EP03_S0090_0045",
+      "value": "Hey, you think we’d be able to see it from\nthe top of that tower?"
+    },
+    {
+      "key": "EP03_S0090_0046",
+      "value": "Good thinking. Let’s go up and find out."
+    }
+  ]
+}

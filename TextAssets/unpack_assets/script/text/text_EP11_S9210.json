@@ -1,0 +1,344 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9210_0001",
+      "value": "Looks like we’ve made it to the finale."
+    },
+    {
+      "key": "EP11_S9210_0002",
+      "value": "It’s too early to lose focus, my boy."
+    },
+    {
+      "key": "EP11_S9210_0003",
+      "value": "Even if you say that... When I think back to\nwhen we had no idea what’s going on..."
+    },
+    {
+      "key": "EP11_S9210_0004",
+      "value": "You can tell we’re close to the end, can’t\nyou? Our goal is right in front of us."
+    },
+    {
+      "key": "EP11_S9210_0005",
+      "value": "Well yes, I suppose you’re right.\n...We’ve certainly been through a lot."
+    },
+    {
+      "key": "EP11_S9210_0006",
+      "value": "I never imagined things would turn out\nthis way."
+    },
+    {
+      "key": "EP11_S9210_0007",
+      "value": "You’re telling me. My carefree school days\nfeel like something I made up."
+    },
+    {
+      "key": "EP11_S9210_0008",
+      "value": "...Oh, huh. That’s right...I’m a student,\nain’t I? Somehow I forgot that much."
+    },
+    {
+      "key": "EP11_S9210_0009",
+      "value": "I wonder if I can go right back to that\nlife... I’m honestly not sure."
+    },
+    {
+      "key": "EP11_S9210_0010",
+      "value": "You’re telling me. It must have been weird\nwhen you went back that time, huh?"
+    },
+    {
+      "key": "EP11_S9210_0011",
+      "value": "Yeah... But I think this time’s gonna be even\nweirder than the last."
+    },
+    {
+      "key": "EP11_S9210_0012",
+      "value": "You’re...telling me. Brrr, I get chills just\nthinking about it..."
+    },
+    {
+      "key": "EP11_S9210_0013",
+      "value": "(Did I overdo it on the scare factor? Still,\nI’m sure we can power through it together.)"
+    },
+    {
+      "key": "EP11_S9210_Q1",
+      "value": "(So then, what should I say to him?)"
+    },
+    {
+      "key": "EP11_S9210_Q1_A1",
+      "value": "It won’t be so bad."
+    },
+    {
+      "key": "EP11_S9210_Q1_A2",
+      "value": "It’ll be pretty tough."
+    },
+    {
+      "key": "EP11_S9210_0014",
+      "value": "It won’t be so bad."
+    },
+    {
+      "key": "EP11_S9210_0015",
+      "value": "It won’t be so bad."
+    },
+    {
+      "key": "EP11_S9210_0016",
+      "value": "At this point, I feel like we can deal with\nanything. Am I wrong?"
+    },
+    {
+      "key": "EP11_S9210_0017",
+      "value": "You’re right! We’ve been working our butts\noff over here, haven’t we?"
+    },
+    {
+      "key": "EP11_S9210_0018",
+      "value": "We’ll just do the same in our world!"
+    },
+    {
+      "key": "EP11_S9210_0019",
+      "value": "Indeed. Believing in yourself is the start of\neverything."
+    },
+    {
+      "key": "EP11_S9210_0020",
+      "value": "You said it, man! Awright, let’s keep up the\ngood work!"
+    },
+    {
+      "key": "EP11_S9210_0021",
+      "value": "It’ll be pretty tough."
+    },
+    {
+      "key": "EP11_S9210_0022",
+      "value": "It’ll be pretty tough."
+    },
+    {
+      "key": "EP11_S9210_0023",
+      "value": "I’m sure we’ll face things completely outside\nour expectations. Just like in this world."
+    },
+    {
+      "key": "EP11_S9210_0024",
+      "value": "If it’s “just like this world,” then it’ll\nall work out, I bet!"
+    },
+    {
+      "key": "EP11_S9210_0025",
+      "value": "That’s how it’s gone for us here, after all."
+    },
+    {
+      "key": "EP11_S9210_0026",
+      "value": "Nothing wrong with such a positive outlook."
+    },
+    {
+      "key": "EP11_S9210_0027",
+      "value": "I knew you’d make the right call!"
+    },
+    {
+      "key": "EP11_S9210_0028",
+      "value": "Let’s do our best, Takuma!"
+    },
+    {
+      "key": "EP11_S9210_0029",
+      "value": "Yeah, I’m with you, man!"
+    },
+    {
+      "key": "EP11_S9210_0030",
+      "value": "...Still, that conversation from before sure\nthrew me for a loop!"
+    },
+    {
+      "key": "EP11_S9210_0031",
+      "value": "You mean the professor and Renamon?"
+    },
+    {
+      "key": "EP11_S9210_0032",
+      "value": "Yeah. I can’t believe the professor came to\nthis world when he was a kid."
+    },
+    {
+      "key": "EP11_S9210_0033",
+      "value": "Renamon’s been protecting Miyuki ever since\nthe professor was a child, right?"
+    },
+    {
+      "key": "EP11_S9210_0034",
+      "value": "You think you could do something like that\nfor such a long time?"
+    },
+    {
+      "key": "EP11_S9210_0035",
+      "value": "I...want to say yes, but I imagine I couldn’t\nstop her heart from breaking like that."
+    },
+    {
+      "key": "EP11_S9210_0036",
+      "value": "Yeah. After wanting to see someone important\nto you for so long, it’s no surprise."
+    },
+    {
+      "key": "EP11_S9210_0037",
+      "value": "All the more reason we’ve gotta save this\nworld, AND ours."
+    },
+    {
+      "key": "EP11_S9210_0038",
+      "value": "I don’t want any regrets..."
+    },
+    {
+      "key": "EP11_S9210_0039",
+      "value": "I hear that. Don’t think I could stomach\ngoing back to our world with any regrets."
+    },
+    {
+      "key": "EP11_S9210_0040",
+      "value": "Guess that means I gotta do it to it!"
+    },
+    {
+      "key": "EP11_S9210_0041",
+      "value": "(Minoru’s raring to go. I feel his resolve...\nHeck, he could even lead us at this rate.)"
+    },
+    {
+      "key": "EP11_S9210_Q2",
+      "value": "(In that case, I’ll tell Minoru...)"
+    },
+    {
+      "key": "EP11_S9210_Q2_A1",
+      "value": "Wanna be our leader?"
+    },
+    {
+      "key": "EP11_S9210_Q2_A2",
+      "value": "Let’s all cooperate."
+    },
+    {
+      "key": "EP11_S9210_0042",
+      "value": "Wanna be our leader?"
+    },
+    {
+      "key": "EP11_S9210_0043",
+      "value": "Wanna be our leader?"
+    },
+    {
+      "key": "EP11_S9210_0044",
+      "value": "You kidding? I couldn’t get this group to do\na damn thing."
+    },
+    {
+      "key": "EP11_S9210_0045",
+      "value": "Yeah, I was just kidding. Still, you don’t\nthink you could do it?"
+    },
+    {
+      "key": "EP11_S9210_0046",
+      "value": "Not a chance! I wouldn’t even want to try in\nthe first place."
+    },
+    {
+      "key": "EP11_S9210_0047",
+      "value": "People like you, or Aoi, or even Shuuji\nshould take the reins!"
+    },
+    {
+      "key": "EP11_S9210_0048",
+      "value": "Well, you’re certainly not the type to stand\nabove others."
+    },
+    {
+      "key": "EP11_S9210_0049",
+      "value": "Right?"
+    },
+    {
+      "key": "EP11_S9210_0050",
+      "value": "So that’s why I’m leaving all that jazz to\nyou, Takuma!"
+    },
+    {
+      "key": "EP11_S9210_0051",
+      "value": "Let’s all cooperate."
+    },
+    {
+      "key": "EP11_S9210_0052",
+      "value": "Let’s all work together. None of us can do\nmuch on our own..."
+    },
+    {
+      "key": "EP11_S9210_0053",
+      "value": "But when we combine our strengths, we can do\njust about anything."
+    },
+    {
+      "key": "EP11_S9210_0054",
+      "value": "Yeah! It’ll all work out for us!"
+    },
+    {
+      "key": "EP11_S9210_0055",
+      "value": "You know, even if we save the two worlds, no\none’s gonna know about it, are they?"
+    },
+    {
+      "key": "EP11_S9210_0056",
+      "value": "I doubt they will. If they did, things would\nget pretty crazy, I figure."
+    },
+    {
+      "key": "EP11_S9210_0057",
+      "value": "Yeah, that’s true. Still, I wouldn’t mind\na little bit of the hero treatment..."
+    },
+    {
+      "key": "EP11_S9210_0058",
+      "value": "I can’t really say the same..."
+    },
+    {
+      "key": "EP11_S9210_0059",
+      "value": "I’m not saying I want people to fawn all over\nme or nothing."
+    },
+    {
+      "key": "EP11_S9210_0060",
+      "value": "Just a little bit of praise would be nice.\nMaybe a pass on the next test?"
+    },
+    {
+      "key": "EP11_S9210_0061",
+      "value": "That sounds pretty nice."
+    },
+    {
+      "key": "EP11_S9210_0062",
+      "value": "Right? Man, just think about it..."
+    },
+    {
+      "key": "EP11_S9210_0063",
+      "value": "(A reward for saving the world, huh? That’d\nbe great, but the idea feels problematic.)"
+    },
+    {
+      "key": "EP11_S9210_Q3",
+      "value": "(Hmm, what do I think?)"
+    },
+    {
+      "key": "EP11_S9210_Q3_A1",
+      "value": "It’s best without it."
+    },
+    {
+      "key": "EP11_S9210_Q3_A2",
+      "value": "It sure would be nice."
+    },
+    {
+      "key": "EP11_S9210_0064",
+      "value": "It’s best without it."
+    },
+    {
+      "key": "EP11_S9210_0065",
+      "value": "It’s best without it. All that attention\nwould weird me out."
+    },
+    {
+      "key": "EP11_S9210_0066",
+      "value": "I just want a taste, that’s all. I don’t\nwanna...end up on TV or something."
+    },
+    {
+      "key": "EP11_S9210_0067",
+      "value": "I don’t want anything like that. It’d suck if\nwe couldn’t talk like this anymore."
+    },
+    {
+      "key": "EP11_S9210_0068",
+      "value": "...True that. I’d hate it if I couldn’t hang\nout with you or the others."
+    },
+    {
+      "key": "EP11_S9210_0069",
+      "value": "It’s enough if all of us here know what we\nwent through."
+    },
+    {
+      "key": "EP11_S9210_0070",
+      "value": "Yeah. Feels like that’d be more than enough!\nThanks, Takuma."
+    },
+    {
+      "key": "EP11_S9210_0071",
+      "value": "It sure would be nice."
+    },
+    {
+      "key": "EP11_S9210_0072",
+      "value": "It sure would be nice. We’ve been put through\nour paces over here, after all."
+    },
+    {
+      "key": "EP11_S9210_0073",
+      "value": "Right? It’d be nice if people treated us like\nthe cool kids in our class, at least..."
+    },
+    {
+      "key": "EP11_S9210_0074",
+      "value": "Ah man, if we keep gabbing we’ll lose prep\ntime. Gotta pack our bags for the fight."
+    },
+    {
+      "key": "EP11_S9210_0075",
+      "value": "Then I’ll go on ahead. Catch you later."
+    },
+    {
+      "key": "EP11_S9210_0076",
+      "value": "Hmm, I’d like some kinda reward, I guess...\nLike a year’s worth of ramen! Whaddaya think?"
+    }
+  ]
+}

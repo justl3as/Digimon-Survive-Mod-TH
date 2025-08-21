@@ -1,0 +1,40 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9102_0001",
+      "value": "Here we are at the waterway. But hey..."
+    },
+    {
+      "key": "EP11_S9102_0002",
+      "value": "The fog isn’t very thick here, is it?"
+    },
+    {
+      "key": "EP11_S9102_0003",
+      "value": "Is this the wrong place?"
+    },
+    {
+      "key": "EP11_S9102_0004",
+      "value": "No, I sense the Sovereign Monster inside.\nThis is definitely the place."
+    },
+    {
+      "key": "EP11_S9102_0005",
+      "value": "Hmm, considering the other shrine locations,\nthe south-side entrance area is suspicious."
+    },
+    {
+      "key": "EP11_S9102_0006",
+      "value": "Then let’s bust on in, already!"
+    },
+    {
+      "key": "EP11_S9102_0007",
+      "value": "No, hold on. There may be enemies inside.\nShould we look around for clues first?"
+    },
+    {
+      "key": "EP11_S9102_0008",
+      "value": "Yeah, we might find something around here."
+    },
+    {
+      "key": "EP11_S9102_0009",
+      "value": "In that case, let’s investigate the area\naround this entrance first."
+    }
+  ]
+}

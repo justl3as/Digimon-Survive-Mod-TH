@@ -1,0 +1,68 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0032_0001",
+      "value": "We don’t know how long we’ll be here. We’ll\nneed food and water, so let’s look around."
+    },
+    {
+      "key": "EP02_S0032_Q1",
+      "value": "(So, what do we do?)"
+    },
+    {
+      "key": "EP02_S0032_Q1_A1",
+      "value": "Agree with Aoi."
+    },
+    {
+      "key": "EP02_S0032_Q1_A2",
+      "value": "Disagree with Aoi."
+    },
+    {
+      "key": "EP02_S0032_0002",
+      "value": "I’ve got to agree with Aoi on this one."
+    },
+    {
+      "key": "EP02_S0032_0003",
+      "value": "Thank you, Takuma."
+    },
+    {
+      "key": "EP02_S0032_0004",
+      "value": "Well, Aoi is Aoi, after all.\nGood choice, Takuma."
+    },
+    {
+      "key": "EP02_S0032_0005",
+      "value": "Hang on, Labramon..."
+    },
+    {
+      "key": "EP02_S0032_0006",
+      "value": "Well, I thought your opinion was right."
+    },
+    {
+      "key": "EP02_S0032_0007",
+      "value": "Me too!"
+    },
+    {
+      "key": "EP02_S0032_0008",
+      "value": "Thanks anyway, Takuma.\nAnd thank you too, Agumon."
+    },
+    {
+      "key": "EP02_S0032_0009",
+      "value": "So, we’re searching the school then?\nI’ll help."
+    },
+    {
+      "key": "EP02_S0032_0010",
+      "value": "Right. I’ll look for some food. Let me\nknow if you find something, Takuma."
+    },
+    {
+      "key": "EP02_S0032_0011",
+      "value": "We have to come to a decision on this,\ntogether. I want to hear from everyone."
+    },
+    {
+      "key": "EP02_S0032_0012",
+      "value": "Well, think about it some more."
+    },
+    {
+      "key": "EP02_S0032_0013",
+      "value": "Make a fair decision!"
+    }
+  ]
+}

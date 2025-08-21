@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9602_0001",
+      "value": "Hm... It appears to be an old well."
+    },
+    {
+      "key": "EP12_S9602_0002",
+      "value": "Oh, hey, this is like that movie where after\nyou watch a video you die seven days later."
+    },
+    {
+      "key": "EP12_S9602_0003",
+      "value": "Minoru, cut it out! I can’t handle any of\nthat horror stuff!"
+    },
+    {
+      "key": "EP12_S9602_0004",
+      "value": "But it’s...it’s just a well, right? It’s not\nc-cursed or anything, is it?"
+    },
+    {
+      "key": "EP12_S9602_0005",
+      "value": "It’s...empty. The well is dry. Only..."
+    },
+    {
+      "key": "EP12_S9602_0006",
+      "value": "There’s something stuck to the bottom. Looks\nlike a talisman?"
+    },
+    {
+      "key": "EP12_S9602_0007",
+      "value": "Yes, it appears to be some sort of seal..."
+    },
+    {
+      "key": "EP12_S9602_0008",
+      "value": "You...you mean like the kind they put on\nhaunted rooms in old inns? That sounds bad..."
+    },
+    {
+      "key": "EP12_S9602_0009",
+      "value": "Yeah... Maybe we shouldn’t mess with this."
+    },
+    {
+      "key": "EP12_S9602_0010",
+      "value": "I kind of want to take one of those things."
+    },
+    {
+      "key": "EP12_S9602_0011",
+      "value": "Hey, stop! I’m pretty sure those are the real\ndeal."
+    },
+    {
+      "key": "EP12_S9602_0012",
+      "value": "C-c-can’t we just get out of here?"
+    },
+    {
+      "key": "EP12_S9602_0013",
+      "value": "This is definitely where that groaning sound\nis coming from."
+    },
+    {
+      "key": "EP12_S9602_0014",
+      "value": "(I’m really curious, but between the spooky\natmosphere and those seals, I don’t know...)"
+    },
+    {
+      "key": "EP12_S9602_0015",
+      "value": "(I don’t want to go down there, but...we’ve\nbeen everywhere else.)"
+    },
+    {
+      "key": "EP12_S9602_0016",
+      "value": "(That well is our only lead right now. Maybe\nwe should go down and check it out?)"
+    },
+    {
+      "key": "EP12_S9602_Q1",
+      "value": "(Good question...)"
+    },
+    {
+      "key": "EP12_S9602_Q1_A1",
+      "value": "Let’s check it out."
+    },
+    {
+      "key": "EP12_S9602_Q1_A2",
+      "value": "Forget it. I’m scared."
+    },
+    {
+      "key": "EP12_S9602_Q1_A3",
+      "value": "Let’s keep looking."
+    },
+    {
+      "key": "EP12_S9602_0017",
+      "value": "Let’s check it out."
+    },
+    {
+      "key": "EP12_S9602_0018",
+      "value": "Come on, guys, let’s investigate."
+    },
+    {
+      "key": "EP12_S9602_0019",
+      "value": "Wait, don’t you think that’s dangerous?"
+    },
+    {
+      "key": "EP12_S9602_0020",
+      "value": "At this point, what isn’t dangerous? Besides,\nwe won’t learn anything by doing nothing."
+    },
+    {
+      "key": "EP12_S9602_0021",
+      "value": "*gulp* Oh..."
+    },
+    {
+      "key": "EP12_S9602_0022",
+      "value": "You have a point. Okay, let’s go."
+    },
+    {
+      "key": "EP12_S9602_0023",
+      "value": "Now there’s no telling what’s down there, so\neveryone be ready for anything."
+    },
+    {
+      "key": "EP12_S9602_0024",
+      "value": "Forget it. I’m scared."
+    },
+    {
+      "key": "EP12_S9602_0025",
+      "value": "Just forget it. This is way too scary!"
+    },
+    {
+      "key": "EP12_S9602_0026",
+      "value": "Right? It’s just...too creepy, isn’t it?\nLet’s go back. Yeah, glad that’s settled!"
+    },
+    {
+      "key": "EP12_S9602_0027",
+      "value": "I thought you wanted to save the world. Are\nyou really going to let this scare you off?"
+    },
+    {
+      "key": "EP12_S9602_0028",
+      "value": "Oooh... I guess...you’ve got a point."
+    },
+    {
+      "key": "EP12_S9602_0029",
+      "value": "*whimper*..."
+    },
+    {
+      "key": "EP12_S9602_0030",
+      "value": "All right! I’m all set! Time to go!"
+    },
+    {
+      "key": "EP12_S9602_0031",
+      "value": "Minoru?!"
+    },
+    {
+      "key": "EP12_S9602_0032",
+      "value": "If we want to save the world, we c-can’t let\nthis stop us!"
+    },
+    {
+      "key": "EP12_S9602_0033",
+      "value": "You’re right. I’ll go with you. You helped me\nmake up my mind."
+    },
+    {
+      "key": "EP12_S9602_0034",
+      "value": "(By the time I turn back, everyone’s ready to\ngo. Nobody looks scared anymore.)"
+    },
+    {
+      "key": "EP12_S9602_0035",
+      "value": "Let’s keep looking."
+    },
+    {
+      "key": "EP12_S9602_0036",
+      "value": "Let’s keep looking! It never hurts to double\ncheck, and we might have missed something!"
+    },
+    {
+      "key": "EP12_S9602_0037",
+      "value": "Takuma, I understand you must be afraid, but\nplease, stop."
+    },
+    {
+      "key": "EP12_S9602_0038",
+      "value": "This is what we’ve been looking for, and you\nknow it. You’ll just have to be courageous."
+    },
+    {
+      "key": "EP12_S9602_0039",
+      "value": "I...I know, but..."
+    },
+    {
+      "key": "EP12_S9602_0040",
+      "value": "Oh, enough stalling! Let’s just get this over\nwith!"
+    },
+    {
+      "key": "EP12_S9602_0041",
+      "value": "Move it, Takuma. I’m going in."
+    },
+    {
+      "key": "EP12_S9602_0042",
+      "value": "Ryo?!"
+    },
+    {
+      "key": "EP12_S9602_0043",
+      "value": "Just so you all know, I’m goin’ on ahead. You\ncan come after me when you find your guts."
+    },
+    {
+      "key": "EP12_S9602_0044",
+      "value": "Hmph, cut the tough guy act. I’m goin’ too."
+    },
+    {
+      "key": "EP12_S9602_0045",
+      "value": "I... I guess if we have to, we have to!"
+    },
+    {
+      "key": "EP12_S9602_0046",
+      "value": "Thanks, Ryo. But sorry, I’d better go first."
+    },
+    {
+      "key": "EP12_S9602_0047",
+      "value": "I can see your legs are shaking."
+    },
+    {
+      "key": "EP12_S9602_0048",
+      "value": "Aw, man. So much for that."
+    },
+    {
+      "key": "EP12_S9602_0049",
+      "value": "No, it was really helpful. Anyway, I’ll go on\nahead. You take your time."
+    },
+    {
+      "key": "EP12_S9602_0050",
+      "value": "Let’s go, everybody!"
+    },
+    {
+      "key": "EP12_S9602_0051",
+      "value": "Carefully...carefully... There!"
+    },
+    {
+      "key": "EP12_S9602_0052",
+      "value": "So, this is the bottom of the well."
+    },
+    {
+      "key": "EP12_S9602_0053",
+      "value": "Is everyone here?"
+    },
+    {
+      "key": "EP12_S9602_0054",
+      "value": "Yes, everyone’s down. Only it’s pitch black."
+    },
+    {
+      "key": "EP12_S9602_0055",
+      "value": "Wha?! What happened? The bottom collapsed?!"
+    }
+  ]
+}

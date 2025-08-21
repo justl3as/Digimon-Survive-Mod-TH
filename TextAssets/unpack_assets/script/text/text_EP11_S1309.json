@@ -1,0 +1,292 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S1309_0001",
+      "value": "Look, Takuma! I can see Puppetmon’s group\nover there!"
+    },
+    {
+      "key": "EP11_S1309_0002",
+      "value": "Huh, there they are...!"
+    },
+    {
+      "key": "EP11_S1309_0003",
+      "value": "Damn, who thought we’d run into them here?!"
+    },
+    {
+      "key": "EP11_S1309_0004",
+      "value": "Still, it doesn’t look like they’ve noticed\nus yet, right?"
+    },
+    {
+      "key": "EP11_S1309_0005",
+      "value": "In that case, let’s just wait around here\nuntil they head off..."
+    },
+    {
+      "key": "EP11_S1309_0006",
+      "value": "Then, like...we head the long way around to\nthe shrine?"
+    },
+    {
+      "key": "EP11_S1309_0007",
+      "value": "I ain’t exactly proud of the idea, but we\ncould sneak up and catch them by surprise."
+    },
+    {
+      "key": "EP11_S1309_0008",
+      "value": "What should we do, Takuma? They’ll realize\nwe’re here soon!"
+    },
+    {
+      "key": "EP11_S1309_0009",
+      "value": "(We don’t have time to mess around.)"
+    },
+    {
+      "key": "EP11_S1309_0010",
+      "value": "(Should we hide before they find us? Take\na detour to the shrine now?)"
+    },
+    {
+      "key": "EP11_S1309_0011",
+      "value": "(Or maybe we can hit them with a surprise\nattack!)"
+    },
+    {
+      "key": "EP11_S1309_Q1",
+      "value": "(What’s the right plan here?)"
+    },
+    {
+      "key": "EP11_S1309_Q1_A1",
+      "value": "Hide and wait."
+    },
+    {
+      "key": "EP11_S1309_Q1_A2",
+      "value": "Launch an ambush!"
+    },
+    {
+      "key": "EP11_S1309_Q1_A3",
+      "value": "Make for the shrine."
+    },
+    {
+      "key": "EP11_S1309_0012",
+      "value": "Hide and wait."
+    },
+    {
+      "key": "EP11_S1309_0013",
+      "value": "I want to get to Miyuki as soon as we can.\nLet’s hide here and wait."
+    },
+    {
+      "key": "EP11_S1309_0014",
+      "value": "Understood. Everyone, use the trees to hide!"
+    },
+    {
+      "key": "EP11_S1309_0015",
+      "value": "Then do so swiftly, yet silently. They’ll\nsense so many bodies moving at once."
+    },
+    {
+      "key": "EP11_S1309_0016",
+      "value": "I think everyone can hide over there, Takuma!"
+    },
+    {
+      "key": "EP11_S1309_0017",
+      "value": "Okay, then let’s move right away!"
+    },
+    {
+      "key": "EP11_S1309_0018",
+      "value": "I hope it’s that easy..."
+    },
+    {
+      "key": "EP11_S1309_0019",
+      "value": "(Oh no! We’re making too much noise!)"
+    },
+    {
+      "key": "EP11_S1309_0020",
+      "value": "Ah... AHHHHHH! It’s you guys!"
+    },
+    {
+      "key": "EP11_S1309_0021",
+      "value": "Yikes! They spotted us already!"
+    },
+    {
+      "key": "EP11_S1309_0022",
+      "value": "Launch an ambush!"
+    },
+    {
+      "key": "EP11_S1309_0023",
+      "value": "It’s all or nothing here. Let’s dive in with\na surprise attack!"
+    },
+    {
+      "key": "EP11_S1309_0024",
+      "value": "Hey, are you serious? That’s hardly the best\ncourse of action."
+    },
+    {
+      "key": "EP11_S1309_0025",
+      "value": "I second that. If we’re gonna throw down,\nlet’s hit ’em straight on."
+    },
+    {
+      "key": "EP11_S1309_0026",
+      "value": "Er...but if we do that, it’ll just turn into\na fight like before..."
+    },
+    {
+      "key": "EP11_S1309_0027",
+      "value": "If we gotta fight, we gotta fight."
+    },
+    {
+      "key": "EP11_S1309_0028",
+      "value": "Hey, is this really the time for\na discussion? If we keep talking—"
+    },
+    {
+      "key": "EP11_S1309_0029",
+      "value": "You punks made it this far?!"
+    },
+    {
+      "key": "EP11_S1309_0030",
+      "value": "Shoot, they heard us!"
+    },
+    {
+      "key": "EP11_S1309_0031",
+      "value": "Make for the shrine."
+    },
+    {
+      "key": "EP11_S1309_0032",
+      "value": "I wanna head to the shrine right away, but we\nshould avoid running into those guys."
+    },
+    {
+      "key": "EP11_S1309_0033",
+      "value": "That’s why we should take a detour, so we can\nhead to the shrine without them noticing."
+    },
+    {
+      "key": "EP11_S1309_0034",
+      "value": "Not a bad decision."
+    },
+    {
+      "key": "EP11_S1309_0035",
+      "value": "Indeed. Slow and steady wins the race, as\nthey say."
+    },
+    {
+      "key": "EP11_S1309_0036",
+      "value": "But is there even a way around them, Takuma?"
+    },
+    {
+      "key": "EP11_S1309_0037",
+      "value": "Well..."
+    },
+    {
+      "key": "EP11_S1309_0038",
+      "value": "May I show you the way? I know the landscape\naround the shrine more than most."
+    },
+    {
+      "key": "EP11_S1309_0039",
+      "value": "Okay... Lead the way, Professor!"
+    },
+    {
+      "key": "EP11_S1309_0040",
+      "value": "Follow me."
+    },
+    {
+      "key": "EP11_S1309_0041",
+      "value": "...Okay, it should only be a bit farther now."
+    },
+    {
+      "key": "EP11_S1309_0042",
+      "value": "Wait... Stop, Akiharu! Don’t move!"
+    },
+    {
+      "key": "EP11_S1309_0043",
+      "value": "Gabumon...?"
+    },
+    {
+      "key": "EP11_S1309_0044",
+      "value": "Took you long enough!"
+    },
+    {
+      "key": "EP11_S1309_0045",
+      "value": "Argh!"
+    },
+    {
+      "key": "EP11_S1309_0046",
+      "value": "No, they headed us off at the pass?!"
+    },
+    {
+      "key": "EP11_S1309_0047",
+      "value": "Damn... Surprise attack’s out of the question\nnow."
+    },
+    {
+      "key": "EP11_S1309_0048",
+      "value": "Guess we’re doing this!"
+    },
+    {
+      "key": "EP11_S1309_0049",
+      "value": "Wait!"
+    },
+    {
+      "key": "EP11_S1309_0050",
+      "value": "Aoi?!"
+    },
+    {
+      "key": "EP11_S1309_0051",
+      "value": "Please, would you just hear me out?!"
+    },
+    {
+      "key": "EP11_S1309_0052",
+      "value": "Who the heck’re you?!"
+    },
+    {
+      "key": "EP11_S1309_0053",
+      "value": "That’s too dangerous, Aoi! They’re not the\ntype that’ll listen!"
+    },
+    {
+      "key": "EP11_S1309_0054",
+      "value": "But the Master’s deceiving them! How can we\njust attack them without saying anything?!"
+    },
+    {
+      "key": "EP11_S1309_0055",
+      "value": "Deceiving us...?"
+    },
+    {
+      "key": "EP11_S1309_0056",
+      "value": "Yes. The Master’s lying to you."
+    },
+    {
+      "key": "EP11_S1309_0057",
+      "value": "He may have told you that sacrificing human\nchildren will save this world..."
+    },
+    {
+      "key": "EP11_S1309_0058",
+      "value": "But that’s a total lie! The Master’s just\nusing you for his own purposes!"
+    },
+    {
+      "key": "EP11_S1309_0059",
+      "value": "Please, just hear us out! There’s no reason\nfor us to fight, really!"
+    },
+    {
+      "key": "EP11_S1309_0060",
+      "value": "Shut up! Shut up, shut up, shut uuup!"
+    },
+    {
+      "key": "EP11_S1309_0061",
+      "value": "How can I believe the jerks who killed\nPiedmon?!"
+    },
+    {
+      "key": "EP11_S1309_0062",
+      "value": "Well..."
+    },
+    {
+      "key": "EP11_S1309_0063",
+      "value": "If you’re gonna talk nonsense, you’ll be the\nfirst one to die!"
+    },
+    {
+      "key": "EP11_S1309_0064",
+      "value": "Look out, Aoi!"
+    },
+    {
+      "key": "EP11_S1309_0065",
+      "value": "The time for talk is over! We have no choice\nbut to fight!"
+    },
+    {
+      "key": "EP11_S1309_0066",
+      "value": "Damn... You don’t gotta tell me twice!"
+    },
+    {
+      "key": "EP11_S1309_0067",
+      "value": "Yeah! Agumon, everyone... Here we go!"
+    },
+    {
+      "key": "EP11_S1309_0068",
+      "value": "Yeah! That goes without saying!"
+    }
+  ]
+}

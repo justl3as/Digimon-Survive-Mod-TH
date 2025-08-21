@@ -1,0 +1,444 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S7015_0001",
+      "value": "They were pretty tough, but...it looks like\nthat’s the last of them, somehow."
+    },
+    {
+      "key": "EP09_S7015_0002",
+      "value": "Yeah... Still, I’m getting pretty sick of\nbeing attacked over and over."
+    },
+    {
+      "key": "EP09_S7015_0003",
+      "value": "Couldn’t agree more. At any rate, we should\ngo find Saki and the others..."
+    },
+    {
+      "key": "EP09_S7015_0004",
+      "value": "Grr... Grraaawl!"
+    },
+    {
+      "key": "EP09_S7015_0005",
+      "value": "No way?! How can he still stand after taking\nsuch a nasty beating?!"
+    },
+    {
+      "key": "EP09_S7015_0006",
+      "value": "Dammit! We didn’t finish him off?!"
+    },
+    {
+      "key": "EP09_S7015_0007",
+      "value": "Over here, guys! Head farther in while you\nstill can!"
+    },
+    {
+      "key": "EP09_S7015_0008",
+      "value": "GOTTA...GRAB...AT LEAST...ONE...!"
+    },
+    {
+      "key": "EP09_S7015_0009",
+      "value": "Hey!\nThat bastard’s charging straight at Saki!"
+    },
+    {
+      "key": "EP09_S7015_0010",
+      "value": "Argh... Oh no! Run, Saki!!!"
+    },
+    {
+      "key": "EP09_S7015_0011",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP09_S7015_0012",
+      "value": "GOTCHA...!"
+    },
+    {
+      "key": "EP09_S7015_0013",
+      "value": "Saki!!!"
+    },
+    {
+      "key": "EP09_S7015_0014",
+      "value": "Yeeeeeek!"
+    },
+    {
+      "key": "EP09_S7015_0015",
+      "value": "Saki?! No way! Why did the Kenzoku—?!"
+    },
+    {
+      "key": "EP09_S7015_0016",
+      "value": "Eeek! What the—what is this?!\nIt’s dragging me..."
+    },
+    {
+      "key": "EP09_S7015_0017",
+      "value": "Shit! I won’t let you get her!"
+    },
+    {
+      "key": "EP09_S7015_0018",
+      "value": "Agumon! Let’s go, too!"
+    },
+    {
+      "key": "EP09_S7015_0019",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP09_S7015_0020",
+      "value": "Me, too!"
+    },
+    {
+      "key": "EP09_S7015_0021",
+      "value": "(Dammit! How’d it turn out like this?!\nMake it... We gotta make it!)"
+    },
+    {
+      "key": "EP09_S7015_0022",
+      "value": "Hey, hold out your hand! Sakiii!!!"
+    },
+    {
+      "key": "EP09_S7015_0023",
+      "value": "Kaito! No! You’re pulling me apart! My hand...!"
+    },
+    {
+      "key": "EP09_S7015_0024",
+      "value": "CAN’T...ESCAPE...!"
+    },
+    {
+      "key": "EP09_S7015_0025",
+      "value": "(The Kenzoku disappeared into the fog!\nSaki’s about to follow right after!)"
+    },
+    {
+      "key": "EP09_S7015_0026",
+      "value": "No! You can’t give up! I’ll... I’ll save you\nno matter what!"
+    },
+    {
+      "key": "EP09_S7015_0027",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP09_S7015_0028",
+      "value": "(She...barely made it! Thanks to Aoi, Saki\ndidn’t get swallowed up!)"
+    },
+    {
+      "key": "EP09_S7015_0029",
+      "value": "Yes! Don’t you let go of Saki’s hand, Aoi!\nC’mon, Takuma, we gotta pull!"
+    },
+    {
+      "key": "EP09_S7015_0030",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP09_S7015_0031",
+      "value": "My arm... I can’t feel it anymore!"
+    },
+    {
+      "key": "EP09_S7015_0032",
+      "value": "Huh?! Why?! Why is Saki getting sucked into\nthe fog?!"
+    },
+    {
+      "key": "EP09_S7015_0033",
+      "value": "What?! What is this?!"
+    },
+    {
+      "key": "EP09_S7015_0034",
+      "value": "What in the deuce...?!"
+    },
+    {
+      "key": "EP09_S7015_0035",
+      "value": "We’ll explain later! Get over here and help\nus pull Saki, already!"
+    },
+    {
+      "key": "EP09_S7015_0036",
+      "value": "(Half of her body’s already in the fog!\nWe have to hurry, or this won’t end well!)"
+    },
+    {
+      "key": "EP09_S7015_0037",
+      "value": "We’re almost there, Saki! We’ll save you no\nmatter what, so just hang on!"
+    },
+    {
+      "key": "EP09_S7015_0038",
+      "value": "Shit! My palms are getting all slippery from\nthe sweat!"
+    },
+    {
+      "key": "EP09_S7015_0039",
+      "value": "That damn Kenzoku! How much strength can one\nmonster have?!"
+    },
+    {
+      "key": "EP09_S7015_0040",
+      "value": "If this keeps up, everyone will...\nI...I’m sorry, guys."
+    },
+    {
+      "key": "EP09_S7015_0041",
+      "value": "Saki?"
+    },
+    {
+      "key": "EP09_S7015_0042",
+      "value": "I...I’m scared...but...but... *sniff*"
+    },
+    {
+      "key": "EP09_S7015_0043",
+      "value": "(Huh? Saki...let go?)"
+    },
+    {
+      "key": "EP09_S7015_0044",
+      "value": "Aoi... Thank you..."
+    },
+    {
+      "key": "EP09_S7015_0045",
+      "value": "No way... Stop... STOP! NO! NONONONO!\nDon’t let go—!"
+    },
+    {
+      "key": "EP09_S7015_0046",
+      "value": "AIEEEEEEEEEEEEEEEEEE!!!"
+    },
+    {
+      "key": "EP09_S7015_0047",
+      "value": "Saki, Sakiii! No way...\nShe...she was pulled into the fog!!!"
+    },
+    {
+      "key": "EP09_S7015_0048",
+      "value": "No... This can’t be happening..."
+    },
+    {
+      "key": "EP09_S7015_0049",
+      "value": "How could this...!"
+    },
+    {
+      "key": "EP09_S7015_0050",
+      "value": "Saki...\nSaki...?"
+    },
+    {
+      "key": "EP09_S7015_0051",
+      "value": "Saki! Answer us, Saki!\nYou’re in there, aren’t you?!"
+    },
+    {
+      "key": "EP09_S7015_0052",
+      "value": "I’m going into the fog!\nShe must be alive in there!"
+    },
+    {
+      "key": "EP09_S7015_0053",
+      "value": "Don’t be crazy, Aoi! Did you forget what\nhappens when you go in there?!"
+    },
+    {
+      "key": "EP09_S7015_0054",
+      "value": "The professor’s right! It’s too dangerous, no\nmatter what the reason!"
+    },
+    {
+      "key": "EP09_S7015_0055",
+      "value": "B-but how else can we save Saki...?"
+    },
+    {
+      "key": "EP09_S7015_0056",
+      "value": "Saki! Sakiiiiiiiii!!!"
+    },
+    {
+      "key": "EP09_S7015_0057",
+      "value": "(No response...\nNo way, this can’t be happening...)"
+    },
+    {
+      "key": "EP09_S7015_0058",
+      "value": "Aaaaaaaaaaaarrrrrrgh!!!"
+    },
+    {
+      "key": "EP09_S7015_0059",
+      "value": "Floramon...?!"
+    },
+    {
+      "key": "EP09_S7015_0060",
+      "value": "What’s going on?! I’m disappearing?!\nI...I...!"
+    },
+    {
+      "key": "EP09_S7015_0061",
+      "value": "What is this?!\nWhy is Floramon vanishing?!"
+    },
+    {
+      "key": "EP09_S7015_0062",
+      "value": "I don’t know! What the heck’s going on?!"
+    },
+    {
+      "key": "EP09_S7015_0063",
+      "value": "(This is just like the time with Ryo...!)"
+    },
+    {
+      "key": "EP09_S7015_0064",
+      "value": "Hey, does... does that mean...?!"
+    },
+    {
+      "key": "EP09_S7015_0065",
+      "value": "Oh... I get it...\nSorry, everyone, it looks like I’m..."
+    },
+    {
+      "key": "EP09_S7015_0066",
+      "value": "What’re you saying?!\nYou have to hold out for Saki’s sake—"
+    },
+    {
+      "key": "EP09_S7015_0067",
+      "value": "Saki’s gone... That’s why I’m..."
+    },
+    {
+      "key": "EP09_S7015_0068",
+      "value": "Saki...? No way, it can’t be!"
+    },
+    {
+      "key": "EP09_S7015_0069",
+      "value": "Wait, don’t go! Don’t disappear!\nSaki... Oh, Saki...!"
+    },
+    {
+      "key": "EP09_S7015_0070",
+      "value": "Bye bye..."
+    },
+    {
+      "key": "EP09_S7015_0071",
+      "value": "Ah, ahhh...\nAHHHHHHHHHHHHHHH!!!"
+    },
+    {
+      "key": "EP09_S7015_0072",
+      "value": "She’s gone..."
+    },
+    {
+      "key": "EP09_S7015_0073",
+      "value": "(Saki was swallowed by the fog, and Floramon\ndisappeared before our very eyes.)"
+    },
+    {
+      "key": "EP09_S7015_0074",
+      "value": "(That means... That means Saki’s already...!)"
+    },
+    {
+      "key": "EP09_S7015_0075",
+      "value": "Saki is gone, too?"
+    },
+    {
+      "key": "EP09_S7015_0076",
+      "value": "I... No, I... I can’t take this. NOOOOOO!"
+    },
+    {
+      "key": "EP09_S7015_0077",
+      "value": "No! God DAMMIT!!!"
+    },
+    {
+      "key": "EP09_S7015_0078",
+      "value": "Saki... Saki..."
+    },
+    {
+      "key": "EP09_S7015_0079",
+      "value": "T-Takuma! This is bad! The fog’s starting to\nspread!"
+    },
+    {
+      "key": "EP09_S7015_0080",
+      "value": "I fear it aims to consume this entire area!"
+    },
+    {
+      "key": "EP09_S7015_0081",
+      "value": "(No time to mourn! We have to get out of here\nright now!)"
+    },
+    {
+      "key": "EP09_S7015_0082",
+      "value": "Guys, we...we have to get out of here, now!"
+    },
+    {
+      "key": "EP09_S7015_0083",
+      "value": "Takuma? Do you hear what you’re saying?!\nSaki... Saki might still be..."
+    },
+    {
+      "key": "EP09_S7015_0084",
+      "value": "Aoi! You...you get it, don’t you?! If all of\nus die here, then..."
+    },
+    {
+      "key": "EP09_S7015_0085",
+      "value": "Then Saki’s sacrifice will be for nothing..."
+    },
+    {
+      "key": "EP09_S7015_0086",
+      "value": "No... I don’t believe it... I can’t!"
+    },
+    {
+      "key": "EP09_S7015_0087",
+      "value": "Don’t say another word, Aoi. I’ll help you\nup...so stand!"
+    },
+    {
+      "key": "EP09_S7015_0088",
+      "value": "NO! Let me GO! Saki, I’ve got to—! "
+    },
+    {
+      "key": "EP09_S7015_0089",
+      "value": "I said COME ON already!"
+    },
+    {
+      "key": "EP09_S7015_0090",
+      "value": "Kaito! Take care of Aoi!"
+    },
+    {
+      "key": "EP09_S7015_0091",
+      "value": "I got you. Come on, we gotta split."
+    },
+    {
+      "key": "EP09_S7015_0092",
+      "value": "NOOOOOO! Saki... SAKIII!"
+    },
+    {
+      "key": "EP09_S7015_0093",
+      "value": "Ah...all right, then! Me and Falcomon’ll take\nyou to the escape route! C’mon, guys!"
+    },
+    {
+      "key": "EP09_S7015_0094",
+      "value": "Let us make haste!"
+    },
+    {
+      "key": "EP09_S7015_0095",
+      "value": "Run, Miu!"
+    },
+    {
+      "key": "EP09_S7015_0096",
+      "value": "*sniff*... Yeah!"
+    },
+    {
+      "key": "EP09_S7015_0097",
+      "value": "I can do nothing... The only adult..."
+    },
+    {
+      "key": "EP09_S7015_0098",
+      "value": "That’s not true. Your levelheadedness\nbrings a relief to all of us. So..."
+    },
+    {
+      "key": "EP09_S7015_0099",
+      "value": "My apologies, Takuma... It seems I’ve had to\nlean on you for encouragement."
+    },
+    {
+      "key": "EP09_S7015_0100",
+      "value": "First priority is escaping this place safely.\nI shall guide the little creatures."
+    },
+    {
+      "key": "EP09_S7015_0101",
+      "value": "Okay, thank you!"
+    },
+    {
+      "key": "EP09_S7015_0102",
+      "value": "Takuma! We’d better get out of here, too!"
+    },
+    {
+      "key": "EP09_S7015_0103",
+      "value": "Yeah! Let’s hurry!"
+    },
+    {
+      "key": "EP09_S7015_0104",
+      "value": "Stop dragging your damn feet, Aoi!"
+    },
+    {
+      "key": "EP09_S7015_0105",
+      "value": "No! Stop it! Saki...Saki’s still here!"
+    },
+    {
+      "key": "EP09_S7015_0106",
+      "value": "The fog’s gonna swallow you too if it gets\nany closer, you idiot!"
+    },
+    {
+      "key": "EP09_S7015_0107",
+      "value": "Saki! SAKI! NOOOOOOOOOOOOOOO!!!"
+    },
+    {
+      "key": "EP09_S7015_0108",
+      "value": "(Looking back, the fog is hot on our tails.\nWe’re running as fast as we can.)"
+    },
+    {
+      "key": "EP09_S7015_0109",
+      "value": "(The fog’s falling over the amusement park...\nSwallowing it piece by piece.)"
+    },
+    {
+      "key": "EP09_S7015_0110",
+      "value": "(It disappeared...vanishing just like\nSaki...)"
+    }
+  ]
+}

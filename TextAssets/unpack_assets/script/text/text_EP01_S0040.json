@@ -1,0 +1,16 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0040_0001",
+      "value": "(The ground’s collapsed all around here, but\nnone of my friends are around.)"
+    },
+    {
+      "key": "EP01_S0040_0002",
+      "value": "(I should check out <color=#B41919>other places</color>...)"
+    },
+    {
+      "key": "EP01_S0040_0003",
+      "value": "I’ll look somewhere else."
+    }
+  ]
+}

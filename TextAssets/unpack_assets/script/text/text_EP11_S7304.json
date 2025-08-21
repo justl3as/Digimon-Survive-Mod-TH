@@ -1,0 +1,284 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S7304_0001",
+      "value": "Oh, Takuma! You came back too."
+    },
+    {
+      "key": "EP11_S7304_0002",
+      "value": "Yeah, I thought the others might’ve finished\nsearching by now, so I stopped by."
+    },
+    {
+      "key": "EP11_S7304_0003",
+      "value": "Miu and Renamon told me what it’s like out\nthere. Sounds like it’s worse than we feared."
+    },
+    {
+      "key": "EP11_S7304_0004",
+      "value": "Yeah, it’s bad. The fog’s settling in\neverywhere."
+    },
+    {
+      "key": "EP11_S7304_0005",
+      "value": "About the only places that are still safe are\nthis school and the shrine."
+    },
+    {
+      "key": "EP11_S7304_0006",
+      "value": "The area around the inner shrine seems normal\ntoo. I checked on my way back."
+    },
+    {
+      "key": "EP11_S7304_0007",
+      "value": "I see. I must say, I never expected the fog\nwould have spread so far."
+    },
+    {
+      "key": "EP11_S7304_0008",
+      "value": "I hope Aoi and Labramon are still safe out\nthere..."
+    },
+    {
+      "key": "EP11_S7304_0009",
+      "value": "You...you don’t think they’ve already been\nswallowed by the fog, do you?"
+    },
+    {
+      "key": "EP11_S7304_0010",
+      "value": "(Miu seems really upset. I need to find some\nway to calm her down.)"
+    },
+    {
+      "key": "EP11_S7304_0011",
+      "value": "(But no amount of me saying I’m sure they’re\nokay is going to be very convincing.)"
+    },
+    {
+      "key": "EP11_S7304_0012",
+      "value": "(Maybe she’ll be more likely to believe that\ncoming from an adult like the professor.)"
+    },
+    {
+      "key": "EP11_S7304_0013",
+      "value": "(Or then again, maybe asking Syakomon to\nreassure her would be more effective.)"
+    },
+    {
+      "key": "EP11_S7304_0014",
+      "value": "(Maybe if Renamon were to comfort her, that\ncould be really convincing.)"
+    },
+    {
+      "key": "EP11_S7304_Q1",
+      "value": "(Who might best cheer up Miu?)"
+    },
+    {
+      "key": "EP11_S7304_Q1_A1",
+      "value": "Maybe the professor..."
+    },
+    {
+      "key": "EP11_S7304_Q1_A2",
+      "value": "I’d say Syakomon."
+    },
+    {
+      "key": "EP11_S7304_Q1_A3",
+      "value": "Renamon?"
+    },
+    {
+      "key": "EP11_S7304_0015",
+      "value": "The professor"
+    },
+    {
+      "key": "EP11_S7304_0016",
+      "value": "(Since he’s an adult, I think it’d be best to\nhave the professor say something.)"
+    },
+    {
+      "key": "EP11_S7304_0017",
+      "value": "Uh, Professor, do you think maybe you could\nsay something to reassure Miu?"
+    },
+    {
+      "key": "EP11_S7304_0018",
+      "value": "She seems like she’s really upset."
+    },
+    {
+      "key": "EP11_S7304_0019",
+      "value": "Hm? Oh, yes, of course. I’ll give it a try."
+    },
+    {
+      "key": "EP11_S7304_0020",
+      "value": "Miu, might I speak with you?"
+    },
+    {
+      "key": "EP11_S7304_0021",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP11_S7304_0022",
+      "value": "Believe me, I can understand your distress,\nbut you must try not to be dismayed."
+    },
+    {
+      "key": "EP11_S7304_0023",
+      "value": "Being troubled by outcomes you cannot verify\nbrings no solutions, only frustration."
+    },
+    {
+      "key": "EP11_S7304_0024",
+      "value": "Uh... Huh? Sorry, what are you trying to say?"
+    },
+    {
+      "key": "EP11_S7304_0025",
+      "value": "Hm... Perhaps I should have stated things\nmore simply."
+    },
+    {
+      "key": "EP11_S7304_0026",
+      "value": "In other words... It’s important to proceed\nwith the belief that things will work out."
+    },
+    {
+      "key": "EP11_S7304_0027",
+      "value": "Syakomon"
+    },
+    {
+      "key": "EP11_S7304_0028",
+      "value": "(Syakomon knows Miu better than anyone and\nis probably the best choice to comfort her.)"
+    },
+    {
+      "key": "EP11_S7304_0029",
+      "value": "Uh, Syakomon, do you think you can say\nsomething to Miu to help her feel better?"
+    },
+    {
+      "key": "EP11_S7304_0030",
+      "value": "Oh, I had every intention of doing so. Leave\nthis to me!"
+    },
+    {
+      "key": "EP11_S7304_0031",
+      "value": "Don’t worry, Miu. I’m sure they’re both fine."
+    },
+    {
+      "key": "EP11_S7304_0032",
+      "value": "Can you prove that?"
+    },
+    {
+      "key": "EP11_S7304_0033",
+      "value": "Well...no, not exactly, but..."
+    },
+    {
+      "key": "EP11_S7304_0034",
+      "value": "So you don’t know! You shouldn’t just make\nstuff up like that!"
+    },
+    {
+      "key": "EP11_S7304_0035",
+      "value": "But Miu, have I ever lied to you?"
+    },
+    {
+      "key": "EP11_S7304_0036",
+      "value": "Well...no, I don’t think so."
+    },
+    {
+      "key": "EP11_S7304_0037",
+      "value": "You see? You can trust me. I just know that\nAoi and Labramon are safe out there."
+    },
+    {
+      "key": "EP11_S7304_0038",
+      "value": "Yeah, okay..."
+    },
+    {
+      "key": "EP11_S7304_0039",
+      "value": "(Nice going, Syakomon! Relying on the bond of\ntrust you’ve built between you.)"
+    },
+    {
+      "key": "EP11_S7304_0040",
+      "value": "Renamon"
+    },
+    {
+      "key": "EP11_S7304_0041",
+      "value": "(I’m sure Renamon will be able to sound\nconvincing. I’ll ask him.)"
+    },
+    {
+      "key": "EP11_S7304_0042",
+      "value": "Uh, Renamon, do you think you can say\nsomething to Miu to help put her at ease?"
+    },
+    {
+      "key": "EP11_S7304_0043",
+      "value": "I’m not sure if she’ll find what I say very\nreassuring, but I’ll try."
+    },
+    {
+      "key": "EP11_S7304_0044",
+      "value": "Miu..."
+    },
+    {
+      "key": "EP11_S7304_0045",
+      "value": "Hm? What is it, Renamon?"
+    },
+    {
+      "key": "EP11_S7304_0046",
+      "value": "Do you think Aoi and Labramon would simply\nvanish into the fog?"
+    },
+    {
+      "key": "EP11_S7304_0047",
+      "value": "Of course not!"
+    },
+    {
+      "key": "EP11_S7304_0048",
+      "value": "Then that’s all you need to know. If you\nbelieve they’re safe, then that’s that."
+    },
+    {
+      "key": "EP11_S7304_0049",
+      "value": "Oh yeah!"
+    },
+    {
+      "key": "EP11_S7304_0050",
+      "value": "You’re right... That’s all there is to it.\nYeah. I believe in them!"
+    },
+    {
+      "key": "EP11_S7304_0051",
+      "value": "But with all that fog, we won’t be able to\nlook around very well."
+    },
+    {
+      "key": "EP11_S7304_0052",
+      "value": "How are we going to find Aoi and Labramon?"
+    },
+    {
+      "key": "EP11_S7304_0053",
+      "value": "Actually, I think you’ve got it backwards."
+    },
+    {
+      "key": "EP11_S7304_0054",
+      "value": "Backwards?"
+    },
+    {
+      "key": "EP11_S7304_0055",
+      "value": "Ah, I see what you mean. If there are only\na few places left without any fog..."
+    },
+    {
+      "key": "EP11_S7304_0056",
+      "value": "Then Aoi and Labramon can only be in one of\nthose places!"
+    },
+    {
+      "key": "EP11_S7304_0057",
+      "value": "Exactly. They’re probably somewhere near the\nschool, the shrine, or the inner shrine."
+    },
+    {
+      "key": "EP11_S7304_0058",
+      "value": "So, should we go looking for them right away?"
+    },
+    {
+      "key": "EP11_S7304_0059",
+      "value": "No, it could be dangerous for us to get any\nmore split up."
+    },
+    {
+      "key": "EP11_S7304_0060",
+      "value": "First we should get everyone back together,\nthen we can all go looking for Aoi."
+    },
+    {
+      "key": "EP11_S7304_0061",
+      "value": "Yes, that seems best."
+    },
+    {
+      "key": "EP11_S7304_0062",
+      "value": "Agumon and I will track down Kaito and Minoru\nand tell them to head back to the school."
+    },
+    {
+      "key": "EP11_S7304_0063",
+      "value": "Meanwhile, you all wait here."
+    },
+    {
+      "key": "EP11_S7304_0064",
+      "value": "We’ll be counting on you, Takuma!"
+    },
+    {
+      "key": "EP11_S7304_0065",
+      "value": "After everyone gets back, we’ll go find Aoi\nfor sure this time!"
+    },
+    {
+      "key": "EP11_S7304_0066",
+      "value": "We’ll wait here. You go find the others as\nsoon as you can!"
+    }
+  ]
+}

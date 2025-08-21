@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S1900_0001",
+      "value": "..."
+    },
+    {
+      "key": "EP07_S1900_0002",
+      "value": "Hm? Professor?"
+    },
+    {
+      "key": "EP07_S1900_0003",
+      "value": "(The Professor is staring at the mural and\nmuttering something.)"
+    },
+    {
+      "key": "EP07_S1900_0004",
+      "value": "Um...Professor? Hello?"
+    },
+    {
+      "key": "EP07_S1900_0005",
+      "value": "..."
+    },
+    {
+      "key": "EP07_S1900_0006",
+      "value": "(He should be able to hear me. I guess he’s\nreally absorbed in examining that mural?)"
+    },
+    {
+      "key": "EP07_S1900_0007",
+      "value": "(Maybe I shouldn’t bother him.)"
+    }
+  ]
+}

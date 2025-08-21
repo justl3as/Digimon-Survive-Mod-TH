@@ -1,0 +1,180 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S3101_0001",
+      "value": "I’m sorry, Takuma.\nI haven’t found anything yet."
+    },
+    {
+      "key": "EP07_S3101_0002",
+      "value": "I’m checking with the camera but nothing is\nstanding out."
+    },
+    {
+      "key": "EP07_S3101_0003",
+      "value": "It’s fine. Don’t rush."
+    },
+    {
+      "key": "EP07_S3101_0004",
+      "value": "You’re right. I need to stay calm. But the\npanic never goes away..."
+    },
+    {
+      "key": "EP07_S3101_0005",
+      "value": "Really? I couldn’t tell you were panicked.\nI’m impressed, Saki."
+    },
+    {
+      "key": "EP07_S3101_0006",
+      "value": "Impressed? With what?"
+    },
+    {
+      "key": "EP07_S3101_0007",
+      "value": "Compared to the beginning, you’re becoming\nless emotional. Less of a victim."
+    },
+    {
+      "key": "EP07_S3101_0008",
+      "value": "You’ve learned how to think more calmly.\nTo take stock of the situation..."
+    },
+    {
+      "key": "EP07_S3101_0009",
+      "value": "You think so?\nI didn’t notice."
+    },
+    {
+      "key": "EP07_S3101_0010",
+      "value": "(She really is different than she was\nbefore.)"
+    },
+    {
+      "key": "EP07_S3101_0011",
+      "value": "(She still speaks casually, but I can see how\nmuch she worries about everyone.)"
+    },
+    {
+      "key": "EP07_S3101_0012",
+      "value": "(She doesn’t seem to be aware of the changes,\nthough.)"
+    },
+    {
+      "key": "EP07_S3101_Q1",
+      "value": "(I wonder what changed in her?)"
+    },
+    {
+      "key": "EP07_S3101_Q1_A1",
+      "value": "She grew up?"
+    },
+    {
+      "key": "EP07_S3101_Q1_A2",
+      "value": "She’s kinder now?"
+    },
+    {
+      "key": "EP07_S3101_Q1_A3",
+      "value": "She’s less selfish?"
+    },
+    {
+      "key": "EP07_S3101_0013",
+      "value": "She grew up?"
+    },
+    {
+      "key": "EP07_S3101_0014",
+      "value": "You seem a little more grown up.\nAt ease with yourself?"
+    },
+    {
+      "key": "EP07_S3101_0015",
+      "value": "You seem to be gentler when you panic or get\nupset."
+    },
+    {
+      "key": "EP07_S3101_0016",
+      "value": "Right? She’s much more mature."
+    },
+    {
+      "key": "EP07_S3101_0017",
+      "value": "Even though sometimes she doesn’t like to let\non, she cares about everyone a lot."
+    },
+    {
+      "key": "EP07_S3101_0018",
+      "value": "She’s worried about us all. I can tell."
+    },
+    {
+      "key": "EP07_S3101_0019",
+      "value": "Really? I’m not sure what you mean."
+    },
+    {
+      "key": "EP07_S3101_0020",
+      "value": "As long as people stopped getting the wrong\nidea about me..."
+    },
+    {
+      "key": "EP07_S3101_0021",
+      "value": "She’s kinder now?"
+    },
+    {
+      "key": "EP07_S3101_0022",
+      "value": "It’s like Saki is kinder now. How can I describe\nit? She’s not selfish anymore?"
+    },
+    {
+      "key": "EP07_S3101_0023",
+      "value": "What do you mean? It’s still me. You’re the\nselfish one."
+    },
+    {
+      "key": "EP07_S3101_0024",
+      "value": "What? No! That’s not what I meant at all!\nBut maybe you’re right."
+    },
+    {
+      "key": "EP07_S3101_0025",
+      "value": "So rude! You’re right, though."
+    },
+    {
+      "key": "EP07_S3101_0026",
+      "value": "I guess I always thought things would work\nout..."
+    },
+    {
+      "key": "EP07_S3101_0027",
+      "value": "After talking with Floramon, I thought\nI could just let go for a bit."
+    },
+    {
+      "key": "EP07_S3101_0028",
+      "value": "And instead of hoping things work out...\nI make them work out."
+    },
+    {
+      "key": "EP07_S3101_0029",
+      "value": "Saki... You’ve really matured."
+    },
+    {
+      "key": "EP07_S3101_0030",
+      "value": "You think so? I don’t really see it."
+    },
+    {
+      "key": "EP07_S3101_0031",
+      "value": "She’s less selfish?"
+    },
+    {
+      "key": "EP07_S3101_0032",
+      "value": "You stopped being so selfish, I think.\nAnd stopped yelling at everyone."
+    },
+    {
+      "key": "EP07_S3101_0033",
+      "value": "What do you mean by that? I’ve never yelled\nat anyone!"
+    },
+    {
+      "key": "EP07_S3101_0034",
+      "value": "That’s not what I mean..."
+    },
+    {
+      "key": "EP07_S3101_0035",
+      "value": "Takuma probably means you’ve calmed down."
+    },
+    {
+      "key": "EP07_S3101_0036",
+      "value": "I can see how you’ve matured. I love the\nperson you’ve become."
+    },
+    {
+      "key": "EP07_S3101_0037",
+      "value": "I love this Saki too!"
+    },
+    {
+      "key": "EP07_S3101_0038",
+      "value": "Really? I’m not sure what you mean."
+    },
+    {
+      "key": "EP07_S3101_0039",
+      "value": "But I guess it’s not a bad thing if people\nare telling me they love me!"
+    },
+    {
+      "key": "EP07_S3101_0040",
+      "value": "If I find something, I’ll let you know. Make\nsure you come running if that happens!"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S0230_0001",
+      "value": "Oh, Takuma! Are you almost ready to head for\nthe shrine?"
+    },
+    {
+      "key": "EP11_S0230_Q1",
+      "value": "How should I respond to Miu?"
+    },
+    {
+      "key": "EP11_S0230_Q1_A1",
+      "value": "Not even a little."
+    },
+    {
+      "key": "EP11_S0230_Q1_A2",
+      "value": "I’m getting ready now."
+    },
+    {
+      "key": "EP11_S0230_0002",
+      "value": "Not even a little. You’re all set, then?"
+    },
+    {
+      "key": "EP11_S0230_0003",
+      "value": "Eh heh...\nI can’t say I’m finished yet."
+    },
+    {
+      "key": "EP11_S0230_0004",
+      "value": "Miu’s all talk! Whaddaya gonna do?"
+    },
+    {
+      "key": "EP11_S0230_0005",
+      "value": "...It’d be nice if you guys got the lead out."
+    },
+    {
+      "key": "EP11_S0230_0006",
+      "value": "You got it! Come on, Syakomon!\nLet’s get serious!"
+    },
+    {
+      "key": "EP11_S0230_0007",
+      "value": "Sure! Not that I really believe you..."
+    },
+    {
+      "key": "EP11_S0230_0008",
+      "value": "I’m getting ready now. Are you all finished?"
+    },
+    {
+      "key": "EP11_S0230_0009",
+      "value": "Not even a little! That’s Miu for you."
+    },
+    {
+      "key": "EP11_S0230_0010",
+      "value": "Hey, if you didn’t keep yapping about this or\nthat I wouldn’t get so distracted!"
+    },
+    {
+      "key": "EP11_S0230_0011",
+      "value": "Sure, it’s always someone else’s fault!"
+    },
+    {
+      "key": "EP11_S0230_0012",
+      "value": "(Miu and Syakomon are two peas in a pod...)"
+    },
+    {
+      "key": "EP11_S0230_0013",
+      "value": "(The way they fuss at each other only shows\nhow deep their trust goes.)"
+    },
+    {
+      "key": "EP11_S0230_0014",
+      "value": "Huh? What’s so funny, Takuma? If I didn’t\nknow better I’d think you’re sneering at us!"
+    },
+    {
+      "key": "EP11_S0230_Q2",
+      "value": "Miu’s staring at me with a disquieted gaze!"
+    },
+    {
+      "key": "EP11_S0230_Q2_A1",
+      "value": "I’m not smirking!"
+    },
+    {
+      "key": "EP11_S0230_Q2_A2",
+      "value": "You guys’re so close."
+    },
+    {
+      "key": "EP11_S0230_0015",
+      "value": "I’m not smirking! I just thought you two were\nacting cute, that’s all!"
+    },
+    {
+      "key": "EP11_S0230_0016",
+      "value": "Hmm, something’s not right..."
+    },
+    {
+      "key": "EP11_S0230_0017",
+      "value": "Yeah, I don’t trust the look in his eyes!"
+    },
+    {
+      "key": "EP11_S0230_0018",
+      "value": "Now hold on! This is just a misunderstanding!"
+    },
+    {
+      "key": "EP11_S0230_0019",
+      "value": "Ahaha, we’re just kidding! C’mon, Syakomon,\nwe’d better get ready for real!"
+    },
+    {
+      "key": "EP11_S0230_0020",
+      "value": "You guys’re just so close, I can’t help it."
+    },
+    {
+      "key": "EP11_S0230_0021",
+      "value": "Darn tootin’! Me and Syakomon depend on each\nother!"
+    },
+    {
+      "key": "EP11_S0230_0022",
+      "value": "Yeah! I need Miu, and Miu can’t get by\nwithout me!"
+    },
+    {
+      "key": "EP11_S0230_0023",
+      "value": "Takuma? Do you remember when Falcomon left\nMinoru that time?"
+    },
+    {
+      "key": "EP11_S0230_Q3",
+      "value": "How should I respond to Miu?"
+    },
+    {
+      "key": "EP11_S0230_Q3_A1",
+      "value": "Yeah, I remember."
+    },
+    {
+      "key": "EP11_S0230_Q3_A2",
+      "value": "I can’t say I do."
+    },
+    {
+      "key": "EP11_S0230_0024",
+      "value": "Yeah, I remember. That was a hard time for\neveryone."
+    },
+    {
+      "key": "EP11_S0230_0025",
+      "value": "Yeah... You know, I’ve never felt like\nI couldn’t trust Syakomon. Not even once."
+    },
+    {
+      "key": "EP11_S0230_0026",
+      "value": "For some reason, I felt like Syakomon would\nnever betray me."
+    },
+    {
+      "key": "EP11_S0230_0027",
+      "value": "Me, betray Miu?! The thought’s never even\ncrossed my mind!"
+    },
+    {
+      "key": "EP11_S0230_0028",
+      "value": "Yeah, I get it, Syakomon! I never doubted you\nfor a second."
+    },
+    {
+      "key": "EP11_S0230_0029",
+      "value": "(That moment I doubted Agumon...\nI still remember it.)"
+    },
+    {
+      "key": "EP11_S0230_0030",
+      "value": "Yeah... To be honest, I’m a little jealous of\nyou two."
+    },
+    {
+      "key": "EP11_S0230_0031",
+      "value": "Whaaa’? But the bond between you and Agumon\nis super strong, isn’t it?!"
+    },
+    {
+      "key": "EP11_S0230_0032",
+      "value": "Yeah, that’s true, but..."
+    },
+    {
+      "key": "EP11_S0230_0033",
+      "value": "Oh, shoot! I have to finishing getting ready\npretty soon!"
+    },
+    {
+      "key": "EP11_S0230_0034",
+      "value": "Let’s go, Syakomon! Later, Takuma!"
+    },
+    {
+      "key": "EP11_S0230_0035",
+      "value": "I can’t say I remember that time..."
+    },
+    {
+      "key": "EP11_S0230_0036",
+      "value": "You’re kidding! I didn’t think any of us\ncould forget about the time that happened."
+    },
+    {
+      "key": "EP11_S0230_0037",
+      "value": "We all lost faith in these little guys, even\nthough we shared such strong bonds."
+    },
+    {
+      "key": "EP11_S0230_0038",
+      "value": "...That’s why I don’t really like to think\nabout it."
+    },
+    {
+      "key": "EP11_S0230_0039",
+      "value": "Oh...sorry."
+    },
+    {
+      "key": "EP11_S0230_0040",
+      "value": "Oh, shoot! I have to finishing getting ready\npretty soon!"
+    },
+    {
+      "key": "EP11_S0230_0041",
+      "value": "Let’s go, Syakomon! Later, Takuma..."
+    }
+  ]
+}

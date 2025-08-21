@@ -1,0 +1,520 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1000_0001",
+      "value": "(Huh? Over there, that’s... Aoi and Ryo?!)"
+    },
+    {
+      "key": "EP05_S1000_0002",
+      "value": "(Can’t say I expected to see those two\ntogether... What’re they doing, I wonder?)"
+    },
+    {
+      "key": "EP05_S1000_0003",
+      "value": "That’s all the peeling. This good?"
+    },
+    {
+      "key": "EP05_S1000_0004",
+      "value": "Thanks. Let’s see..."
+    },
+    {
+      "key": "EP05_S1000_0005",
+      "value": "Nice. Good job. Who’d’ve thought you had it\nin you?"
+    },
+    {
+      "key": "EP05_S1000_0006",
+      "value": "It ain’t nothing... I’m used to it."
+    },
+    {
+      "key": "EP05_S1000_0007",
+      "value": "Oh? What’re you doing there, Takuma?"
+    },
+    {
+      "key": "EP05_S1000_0008",
+      "value": "Huh? Takuma?"
+    },
+    {
+      "key": "EP05_S1000_0009",
+      "value": "Getting your jollies spying on us, man?"
+    },
+    {
+      "key": "EP05_S1000_0010",
+      "value": "Oh, my bad. It isn’t like that, I was just\nsurprised to see the two of you together."
+    },
+    {
+      "key": "EP05_S1000_0011",
+      "value": "Hehe, you’re telling me. Ryo came and\nvolunteered to help."
+    },
+    {
+      "key": "EP05_S1000_0012",
+      "value": "I was bored outta my skull over here. There\na problem with that?"
+    },
+    {
+      "key": "EP05_S1000_0013",
+      "value": "Not in the least. You’ve been a big help, in\nfact."
+    },
+    {
+      "key": "EP05_S1000_0014",
+      "value": "Ryo’s pretty awesome, you know? He peeled\nthose veggies like a pro!"
+    },
+    {
+      "key": "EP05_S1000_0015",
+      "value": "Is that right? Maybe we’ve got a secret iron\nchef over here?"
+    },
+    {
+      "key": "EP05_S1000_0016",
+      "value": "Well... Had to do it in my mom’s place."
+    },
+    {
+      "key": "EP05_S1000_0017",
+      "value": "Oh, that makes sense."
+    },
+    {
+      "key": "EP05_S1000_0018",
+      "value": "But who cares about all that! If that’s all\nyou got for me, I’m out."
+    },
+    {
+      "key": "EP05_S1000_0019",
+      "value": "Oh, could you wash the rice? Then boil it,\nand prep the meat for cooking."
+    },
+    {
+      "key": "EP05_S1000_0020",
+      "value": "Sheesh, you want me to build the dinner\ntable, too? Fine, fine, I’m on it."
+    },
+    {
+      "key": "EP05_S1000_0021",
+      "value": "(Even Ryo’s trying to do his part for this\ngroup. It’s kind of a relief to see it.)"
+    },
+    {
+      "key": "EP05_S1000_0022",
+      "value": "Anyway, you should take off that ring if\nyou’re gonna cook."
+    },
+    {
+      "key": "EP05_S1000_0023",
+      "value": "Oh? Ah, yes you’re right. I’d forgotten I had\nit on."
+    },
+    {
+      "key": "EP05_S1000_0024",
+      "value": "(Aoi was wearing a ring? I never even\nnoticed.)"
+    },
+    {
+      "key": "EP05_S1000_0025",
+      "value": "(Ryo really notices the little things about\nthe people he talks to.)"
+    },
+    {
+      "key": "EP05_S1000_Q1",
+      "value": "(Well, which of them should I talk to?)"
+    },
+    {
+      "key": "EP05_S1000_Q1_A1",
+      "value": "I’ll talk to Aoi."
+    },
+    {
+      "key": "EP05_S1000_Q1_A2",
+      "value": "I’ll talk to Ryo."
+    },
+    {
+      "key": "EP05_S1000_0027",
+      "value": "So you had a ring on, Aoi. I hadn’t even\nnoticed."
+    },
+    {
+      "key": "EP05_S1000_0028",
+      "value": "Oh no, it’s not an all-the-time thing. I just\nhappened to forget to take it off this time."
+    },
+    {
+      "key": "EP05_S1000_0029",
+      "value": "Oooh, it’s so shiny!"
+    },
+    {
+      "key": "EP05_S1000_0030",
+      "value": "She looks at it a lot before she goes to bed."
+    },
+    {
+      "key": "EP05_S1000_0031",
+      "value": "Hey, Labramon! Don’t tell them that, it’s\nembarrassing!"
+    },
+    {
+      "key": "EP05_S1000_0032",
+      "value": "Is it important to you or something?"
+    },
+    {
+      "key": "EP05_S1000_0033",
+      "value": "Oh no, nothing like that. It’s not special,\na dime-a-dozen trinket you can get anywhere."
+    },
+    {
+      "key": "EP05_S1000_0034",
+      "value": "This is no time for silly fashion stuff, but\nlooking at something cute lifts my spirits."
+    },
+    {
+      "key": "EP05_S1000_0035",
+      "value": "Ah okay... I didn’t expect that, but nothing\nwrong with it. It suits you, even."
+    },
+    {
+      "key": "EP05_S1000_0036",
+      "value": "Hehe, thanks, Takuma."
+    },
+    {
+      "key": "EP05_S1000_0038",
+      "value": "Very perceptive, Ryo. I didn’t even notice\nshe was wearing a ring."
+    },
+    {
+      "key": "EP05_S1000_0039",
+      "value": "Naw, it’s just a coincidence. My eye went to\nit while I was helping out."
+    },
+    {
+      "key": "EP05_S1000_0040",
+      "value": "Looked like something special to her, so\nI wasn’t sure what I should say..."
+    },
+    {
+      "key": "EP05_S1000_0041",
+      "value": "Oh no, it’s nothing like that. It’s just\na little trinket."
+    },
+    {
+      "key": "EP05_S1000_0042",
+      "value": "That right?"
+    },
+    {
+      "key": "EP05_S1000_0043",
+      "value": "Still, for you to worry about that is really\nconsiderate of you."
+    },
+    {
+      "key": "EP05_S1000_0044",
+      "value": "The heck you think I am, man?"
+    },
+    {
+      "key": "EP05_S1000_0045",
+      "value": "I mean, she ain’t the only one with something\nlike that."
+    },
+    {
+      "key": "EP05_S1000_0046",
+      "value": "What, like...some bling?"
+    },
+    {
+      "key": "EP05_S1000_0047",
+      "value": "Hell naw. I mean my bus pass holder."
+    },
+    {
+      "key": "EP05_S1000_0048",
+      "value": "Your what...?"
+    },
+    {
+      "key": "EP05_S1000_0049",
+      "value": "Kewkew...?"
+    },
+    {
+      "key": "EP05_S1000_0050",
+      "value": "Um... Think of it like a protective charm,\nI guess?"
+    },
+    {
+      "key": "EP05_S1000_0051",
+      "value": "Not quite but... Ah well, good enough."
+    },
+    {
+      "key": "EP05_S1000_0052",
+      "value": "I got it from my mom, y’see. Wherever I go,\nyou better believe it goes too."
+    },
+    {
+      "key": "EP05_S1000_0053",
+      "value": "That right? Gotta take care of it, then."
+    },
+    {
+      "key": "EP05_S1000_0054",
+      "value": "Oh, right. You’re really planning on heading\nto the enemy base, Takuma?"
+    },
+    {
+      "key": "EP05_S1000_0055",
+      "value": "Still not sure, to be honest..."
+    },
+    {
+      "key": "EP05_S1000_0056",
+      "value": "I’m guessing you two are against the idea?"
+    },
+    {
+      "key": "EP05_S1000_0057",
+      "value": "Hmm... I wouldn’t say I’m against it, per se."
+    },
+    {
+      "key": "EP05_S1000_0058",
+      "value": "I’ll go, if there’s truly no safer\nalternative."
+    },
+    {
+      "key": "EP05_S1000_0059",
+      "value": "My thoughts exactly. It’s just..."
+    },
+    {
+      "key": "EP05_S1000_0060",
+      "value": "When I think about running into Arukenimon\nagain, I just start freaking out..."
+    },
+    {
+      "key": "EP05_S1000_0061",
+      "value": "Yeah... I get how you two feel."
+    },
+    {
+      "key": "EP05_S1000_0062",
+      "value": "(I wish there was a safer way, but...)"
+    },
+    {
+      "key": "EP05_S1000_0063",
+      "value": "Hey, is that a ring, Aoi?"
+    },
+    {
+      "key": "EP05_S1000_0064",
+      "value": "Oh, um, yes. I brought it with me, thinking\nI might feel like dressing up sometimes..."
+    },
+    {
+      "key": "EP05_S1000_0065",
+      "value": "Oooh, it’s so shiny!"
+    },
+    {
+      "key": "EP05_S1000_0066",
+      "value": "She looks at it a lot before she goes to bed."
+    },
+    {
+      "key": "EP05_S1000_0067",
+      "value": "Hey, Labramon! Don’t tell them that, it’s\nembarrassing!"
+    },
+    {
+      "key": "EP05_S1000_0068",
+      "value": "Is it important to you or something?"
+    },
+    {
+      "key": "EP05_S1000_0069",
+      "value": "Oh no, nothing like that. It’s not special,\na dime-a-dozen trinket you can get anywhere."
+    },
+    {
+      "key": "EP05_S1000_0070",
+      "value": "This is no time for silly fashion stuff, but\nlooking at something cute lifts my spirits."
+    },
+    {
+      "key": "EP05_S1000_0071",
+      "value": "It lifts your spirits?"
+    },
+    {
+      "key": "EP05_S1000_0072",
+      "value": "Yes, didn’t you know? Pretty things give\ngirls power."
+    },
+    {
+      "key": "EP05_S1000_0073",
+      "value": "Or not, hee hee."
+    },
+    {
+      "key": "EP05_S1000_0074",
+      "value": "(I’ve never seen Aoi talking about cute\nthings or dressing up before.)"
+    },
+    {
+      "key": "EP05_S1000_0075",
+      "value": "(I always saw her as calm and mature, but\nshe’s still a girl at heart.)"
+    },
+    {
+      "key": "EP05_S1000_Q2",
+      "value": "(When I see her like this, it’s...)"
+    },
+    {
+      "key": "EP05_S1000_Q2_A1",
+      "value": "Unexpected!"
+    },
+    {
+      "key": "EP05_S1000_Q2_A2",
+      "value": "Refreshing."
+    },
+    {
+      "key": "EP05_S1000_Q2_A3",
+      "value": "Cute..."
+    },
+    {
+      "key": "EP05_S1000_0077",
+      "value": "I admit, I didn’t expect to see you getting\ndolled up for anything."
+    },
+    {
+      "key": "EP05_S1000_0078",
+      "value": "Ah, well... Saki said something similar."
+    },
+    {
+      "key": "EP05_S1000_0079",
+      "value": "She was surprised to think see a serious\nhonor student thinking about accessorizing."
+    },
+    {
+      "key": "EP05_S1000_0080",
+      "value": "I can tell it doesn’t look good on me..."
+    },
+    {
+      "key": "EP05_S1000_0081",
+      "value": "What?! No! I didn’t mean it like that!"
+    },
+    {
+      "key": "EP05_S1000_0082",
+      "value": "Ah, shame on you, Takuma! Making Aoi feel bad\nabout it."
+    },
+    {
+      "key": "EP05_S1000_0083",
+      "value": "I wasn’t, I’m telling you!"
+    },
+    {
+      "key": "EP05_S1000_0084",
+      "value": "It’s unexpected, but that’s not a bad thing!\nI’m more impressed than anything!"
+    },
+    {
+      "key": "EP05_S1000_0085",
+      "value": "Impressed...?"
+    },
+    {
+      "key": "EP05_S1000_0086",
+      "value": "Yeah, I mean, going against type like that.\nIt’s a good look on anybody, y’know?"
+    },
+    {
+      "key": "EP05_S1000_0087",
+      "value": "Huh, so that’s what you mean..."
+    },
+    {
+      "key": "EP05_S1000_0089",
+      "value": "It’s kind of refreshing to see you like this,\nAoi."
+    },
+    {
+      "key": "EP05_S1000_0090",
+      "value": "Refreshing? How so?"
+    },
+    {
+      "key": "EP05_S1000_0091",
+      "value": "Yeah, you look like you’re enjoying yourself.\nI’ve hardly seen you smiling like that."
+    },
+    {
+      "key": "EP05_S1000_0092",
+      "value": "Yes, I guess you’re right."
+    },
+    {
+      "key": "EP05_S1000_0093",
+      "value": "Not since we’ve come here, at least..."
+    },
+    {
+      "key": "EP05_S1000_0094",
+      "value": "(Wait, what? Why’s she in a funk now?)"
+    },
+    {
+      "key": "EP05_S1000_0095",
+      "value": "Are you sad, Aoi?"
+    },
+    {
+      "key": "EP05_S1000_0096",
+      "value": "Aoi? You good?"
+    },
+    {
+      "key": "EP05_S1000_0097",
+      "value": "Ah, yes! I’m fine, don’t worry!"
+    },
+    {
+      "key": "EP05_S1000_0098",
+      "value": "There’s so much going on, all the more reason\nto lift our spirits with the things we like!"
+    },
+    {
+      "key": "EP05_S1000_0099",
+      "value": "Yeah, uh, sure..."
+    },
+    {
+      "key": "EP05_S1000_0100",
+      "value": "(Did I make her put on a brave face?)"
+    },
+    {
+      "key": "EP05_S1000_0102",
+      "value": "Huh, talk about cute."
+    },
+    {
+      "key": "EP05_S1000_0103",
+      "value": "What?!"
+    },
+    {
+      "key": "EP05_S1000_0104",
+      "value": "What?"
+    },
+    {
+      "key": "EP05_S1000_0105",
+      "value": "...Oh! No, that’s not what⁠—the ring! Cute!\nCute ring is cute!"
+    },
+    {
+      "key": "EP05_S1000_0106",
+      "value": "Oh, that’s what you meant... I see. *whew*"
+    },
+    {
+      "key": "EP05_S1000_0107",
+      "value": "(Shoot, my brain-to-mouth filter shut off.\nOf course that’d would creep her out.)"
+    },
+    {
+      "key": "EP05_S1000_0108",
+      "value": "(Still, seeing her enjoying fashion, smiling\nat her ring, Aoi looks pretty...)"
+    },
+    {
+      "key": "EP05_S1000_0109",
+      "value": "(Ah! Pretty nothing! Going down that road’ll\njust put me in some pretty hot water.)"
+    },
+    {
+      "key": "EP05_S1000_0110",
+      "value": "(Aw jeez, I can’t even look her in the\neye...)"
+    },
+    {
+      "key": "EP05_S1000_0111",
+      "value": "Ahaha, what a funny face you have, Takuma!"
+    },
+    {
+      "key": "EP05_S1000_0112",
+      "value": "Please, just zip it..."
+    },
+    {
+      "key": "EP05_S1000_0113",
+      "value": "What’s wrong, Aoi? Your face is all red."
+    },
+    {
+      "key": "EP05_S1000_0114",
+      "value": "It, it’s nothing. Don’t worry about it..."
+    },
+    {
+      "key": "EP05_S1000_0115",
+      "value": "...Takuma? Are you really planning on going\nto the enemy base?"
+    },
+    {
+      "key": "EP05_S1000_0116",
+      "value": "Still not sure, to be honest..."
+    },
+    {
+      "key": "EP05_S1000_0117",
+      "value": "Are you against the idea, Aoi?"
+    },
+    {
+      "key": "EP05_S1000_0118",
+      "value": "Hmm... I wouldn’t say I’m against it, per se."
+    },
+    {
+      "key": "EP05_S1000_0119",
+      "value": "I’m scared of fighting, and I don’t want to\nget hurt. Still, if we must, then we must."
+    },
+    {
+      "key": "EP05_S1000_0120",
+      "value": "I just can’t think of a safer method..."
+    },
+    {
+      "key": "EP05_S1000_0121",
+      "value": "*sigh* But still... All I can do is waffle on\nthe issue. I’m no good..."
+    },
+    {
+      "key": "EP05_S1000_0122",
+      "value": "(Aoi really is scared.)"
+    },
+    {
+      "key": "EP05_S1000_0123",
+      "value": "(A safer method... I wish there was one.)"
+    },
+    {
+      "key": "EP05_S1000_0124",
+      "value": "All right, ring’s off. Time to get back to\ncooking!"
+    },
+    {
+      "key": "EP05_S1000_0125",
+      "value": "Ain’t nothing to get so riled up over..."
+    },
+    {
+      "key": "EP05_S1000_0126",
+      "value": "Aoi! Let me have a closer look at that ring!"
+    },
+    {
+      "key": "EP05_S1000_0127",
+      "value": "Oh, Labramon! Just handle it gently, okay?"
+    }
+  ]
+}

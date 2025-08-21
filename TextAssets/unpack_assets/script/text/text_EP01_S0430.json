@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0430_0001",
+      "value": "Wanna look some more here?"
+    },
+    {
+      "key": "EP01_S0430_0002",
+      "value": "Nah, the door won’t budge, and I don’t think\nanyone’s around. Let’s come back later."
+    },
+    {
+      "key": "EP01_S0430_0003",
+      "value": "Hmm, I think I sense someone inside..."
+    },
+    {
+      "key": "EP01_S0430_0004",
+      "value": "Wait, really?"
+    },
+    {
+      "key": "EP01_S0430_0005",
+      "value": "Hmm... Maybe it’s my imagination?"
+    },
+    {
+      "key": "EP01_S0430_0006",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP01_S0430_0007",
+      "value": "(I’m a bit curious, but... Oh well, we’ll\ncome back in a little bit.)"
+    },
+    {
+      "key": "EP01_S0430_0008",
+      "value": "We can’t get in here. Let’s look somewhere\nelse!"
+    }
+  ]
+}

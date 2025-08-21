@@ -1,0 +1,376 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1100_0001",
+      "value": "Ooh... Urgh..."
+    },
+    {
+      "key": "EP12_S1100_0002",
+      "value": "Help...me... Please... I’m so...scared..."
+    },
+    {
+      "key": "EP12_S1100_0003",
+      "value": "Where...did you go?"
+    },
+    {
+      "key": "EP12_S1100_0004",
+      "value": "Hm?! Did you hear that?"
+    },
+    {
+      "key": "EP12_S1100_0005",
+      "value": "Stay back, Sis! Gabumon, you know what to do!"
+    },
+    {
+      "key": "EP12_S1100_0006",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP12_S1100_0007",
+      "value": "Agumon! Let’s help too!"
+    },
+    {
+      "key": "EP12_S1100_0008",
+      "value": "Right!"
+    },
+    {
+      "key": "EP12_S1100_0009",
+      "value": "No, wait! It’s not what you think!"
+    },
+    {
+      "key": "EP12_S1100_0010",
+      "value": "Help me, please... Haru? Mom? Dad?"
+    },
+    {
+      "key": "EP12_S1100_0011",
+      "value": "Miyuki? Where are you?"
+    },
+    {
+      "key": "EP12_S1100_0012",
+      "value": "Those are...Haru and Miyuki?"
+    },
+    {
+      "key": "EP12_S1100_0013",
+      "value": "What?! It can’t be. It’s...us?"
+    },
+    {
+      "key": "EP12_S1100_0014",
+      "value": "Why...?"
+    },
+    {
+      "key": "EP12_S1100_0015",
+      "value": "Why...did you leave me? I’m so scared...on my\nown... Is nobody...coming to save me?"
+    },
+    {
+      "key": "EP12_S1100_0016",
+      "value": "Miyuki? Where are you? I’m sorry... I’m so\nsorry..."
+    },
+    {
+      "key": "EP12_S1100_0017",
+      "value": "I’m sorry I couldn’t help you. I’m so\nworthless..."
+    },
+    {
+      "key": "EP12_S1100_0018",
+      "value": "(What’s...going on? It’s painful just\nlistening to this...)"
+    },
+    {
+      "key": "EP12_S1100_0019",
+      "value": "Ugh..."
+    },
+    {
+      "key": "EP12_S1100_0020",
+      "value": "I’m so scared...and lonely...it hurts...\nDon’t leave me alone... Somebody, anybody!"
+    },
+    {
+      "key": "EP12_S1100_0021",
+      "value": "Haru...help me!"
+    },
+    {
+      "key": "EP12_S1100_0022",
+      "value": "Waaaaaaaaaaaaaaaugh!"
+    },
+    {
+      "key": "EP12_S1100_0023",
+      "value": "Hm? What’s wrong?!"
+    },
+    {
+      "key": "EP12_S1100_0024",
+      "value": "Professor?!"
+    },
+    {
+      "key": "EP12_S1100_0025",
+      "value": "I knew it! I knew my sister was in trouble!\nBut I couldn’t do anything! Nobody listened!"
+    },
+    {
+      "key": "EP12_S1100_0026",
+      "value": "And so this whole time I... I..."
+    },
+    {
+      "key": "EP12_S1100_0027",
+      "value": "Haru! It’s okay!"
+    },
+    {
+      "key": "EP12_S1100_0028",
+      "value": "Go get them, Gabumon! Rip those two to\nshreds!"
+    },
+    {
+      "key": "EP12_S1100_0029",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP12_S1100_0030",
+      "value": "Oooh... Aaah!"
+    },
+    {
+      "key": "EP12_S1100_0031",
+      "value": "(Did...did that attack even do anything? It’s\nnot making any move to fight back...)"
+    },
+    {
+      "key": "EP12_S1100_0032",
+      "value": "(I’m not sure we should be attacking without\nknowing what this thing is.)"
+    },
+    {
+      "key": "EP12_S1100_0033",
+      "value": "(Shouldn’t we learn more about it? Or should\nI just back up the professor?)"
+    },
+    {
+      "key": "EP12_S1100_Q1",
+      "value": "(What do I do?)"
+    },
+    {
+      "key": "EP12_S1100_Q1_A1",
+      "value": "Stop the professor."
+    },
+    {
+      "key": "EP12_S1100_Q1_A2",
+      "value": "Join the attack."
+    },
+    {
+      "key": "EP12_S1100_Q1_A3",
+      "value": "Try to learn more."
+    },
+    {
+      "key": "EP12_S1100_0034",
+      "value": "Stop the professor."
+    },
+    {
+      "key": "EP12_S1100_0035",
+      "value": "Professor, stop! Something about that thing\nisn’t right!"
+    },
+    {
+      "key": "EP12_S1100_0036",
+      "value": "Ugh... I’m worthless... Good for nothing...\nThat’s why I abandoned my sister..."
+    },
+    {
+      "key": "EP12_S1100_0037",
+      "value": "Stop it! Please, just...stop!"
+    },
+    {
+      "key": "EP12_S1100_0038",
+      "value": "Takuma, you have to let me do this! If this\nkeeps up, Haru’s going to lose his mind!"
+    },
+    {
+      "key": "EP12_S1100_0039",
+      "value": "But..."
+    },
+    {
+      "key": "EP12_S1100_0040",
+      "value": "(Is this really the right thing to do?)"
+    },
+    {
+      "key": "EP12_S1100_0041",
+      "value": "Join the attack."
+    },
+    {
+      "key": "EP12_S1100_0042",
+      "value": "Professor! We’ll back you up!"
+    },
+    {
+      "key": "EP12_S1100_0043",
+      "value": "Takuma, are you sure? He’s...not even doing\nanything."
+    },
+    {
+      "key": "EP12_S1100_0044",
+      "value": "Oh... Oooh..."
+    },
+    {
+      "key": "EP12_S1100_0045",
+      "value": "(Agumon’s right. It just looks like Haru\ncrying.)"
+    },
+    {
+      "key": "EP12_S1100_0046",
+      "value": "This could be another Kenzoku trap. We should\ntake him down while we have the chance."
+    },
+    {
+      "key": "EP12_S1100_0047",
+      "value": "Try to learn more."
+    },
+    {
+      "key": "EP12_S1100_0048",
+      "value": "(Is this another of the Master’s Kenzoku?\nOr something else?)"
+    },
+    {
+      "key": "EP12_S1100_0049",
+      "value": "(We may end up regretting it if we carelessly\nrush in to attack.)"
+    },
+    {
+      "key": "EP12_S1100_0050",
+      "value": "Don’t just stand there, Takuma! Give me\na hand!"
+    },
+    {
+      "key": "EP12_S1100_0051",
+      "value": "Right, sorry! Here goes nothing!"
+    },
+    {
+      "key": "EP12_S1100_0052",
+      "value": "Wait!"
+    },
+    {
+      "key": "EP12_S1100_0053",
+      "value": "It’s okay, just let them be. You don’t have\nto worry about them."
+    },
+    {
+      "key": "EP12_S1100_0054",
+      "value": "Miyuki? Stop! It’s dangerous to get so\nclose..."
+    },
+    {
+      "key": "EP12_S1100_0055",
+      "value": "(Huh? They’re...not attacking?)"
+    },
+    {
+      "key": "EP12_S1100_0056",
+      "value": "It hurts so much... I feel so alone..."
+    },
+    {
+      "key": "EP12_S1100_0057",
+      "value": "Hey, it’s okay now. Don’t worry. You’re not\nalone anymore."
+    },
+    {
+      "key": "EP12_S1100_0058",
+      "value": "Your little brother came back to save you."
+    },
+    {
+      "key": "EP12_S1100_0059",
+      "value": "I’m not alone anymore."
+    },
+    {
+      "key": "EP12_S1100_0060",
+      "value": "Oh... Oooh..."
+    },
+    {
+      "key": "EP12_S1100_0061",
+      "value": "Yes, and it’s the same for me! I found my big\nsister! I found my way back to her!"
+    },
+    {
+      "key": "EP12_S1100_0062",
+      "value": "None of the adults would believe me, so\nI came back as an adult myself."
+    },
+    {
+      "key": "EP12_S1100_0063",
+      "value": "I’m not powerless like I was as a child."
+    },
+    {
+      "key": "EP12_S1100_0064",
+      "value": "So...Miyuki’s going to be okay?"
+    },
+    {
+      "key": "EP12_S1100_0065",
+      "value": "She is."
+    },
+    {
+      "key": "EP12_S1100_0066",
+      "value": "Oh!"
+    },
+    {
+      "key": "EP12_S1100_0067",
+      "value": "Listen to me, my shadow. I’m not alone\nanymore."
+    },
+    {
+      "key": "EP12_S1100_0068",
+      "value": "And you know what? I never really was to\nbegin with. I always had someone at my side."
+    },
+    {
+      "key": "EP12_S1100_0069",
+      "value": "I had my partner, who stayed with me through\neverything."
+    },
+    {
+      "key": "EP12_S1100_0070",
+      "value": "Ooh... Uh...?"
+    },
+    {
+      "key": "EP12_S1100_0071",
+      "value": "Rena...mon?"
+    },
+    {
+      "key": "EP12_S1100_0072",
+      "value": "That’s right."
+    },
+    {
+      "key": "EP12_S1100_0073",
+      "value": "(The fakes aren’t crying anymore. Miyuki and\nthe professor must’ve overcome themselves.)"
+    },
+    {
+      "key": "EP12_S1100_0074",
+      "value": "(That’s pretty amazing. Miyuki really is\nsomething else.)"
+    },
+    {
+      "key": "EP12_S1100_0075",
+      "value": "Miyuki! The egg!"
+    },
+    {
+      "key": "EP12_S1100_0076",
+      "value": "What? Oh!"
+    },
+    {
+      "key": "EP12_S1100_0077",
+      "value": "It’s cracked! It’s starting to break open!"
+    },
+    {
+      "key": "EP12_S1100_0078",
+      "value": "That’s right. I made a promise. I swore that\nI would never leave you alone."
+    },
+    {
+      "key": "EP12_S1100_0079",
+      "value": "Renamon!"
+    },
+    {
+      "key": "EP12_S1100_0080",
+      "value": "Miyuki, thank you. Your heart called me back."
+    },
+    {
+      "key": "EP12_S1100_0081",
+      "value": "Of course. Welcome back, Renamon!"
+    },
+    {
+      "key": "EP12_S1100_0082",
+      "value": "Ooh... Oooh..."
+    },
+    {
+      "key": "EP12_S1100_0083",
+      "value": "Graaaaaagh!"
+    },
+    {
+      "key": "EP12_S1100_0084",
+      "value": "Graaaaaaaaawr!"
+    },
+    {
+      "key": "EP12_S1100_0085",
+      "value": "They’ve transformed? Oh no, they’re on the\nattack!"
+    },
+    {
+      "key": "EP12_S1100_0086",
+      "value": "Professor, Miyuki, get back!"
+    },
+    {
+      "key": "EP12_S1100_0087",
+      "value": "Both of you keep clear! We’ll take care of\nthis!"
+    },
+    {
+      "key": "EP12_S1100_0088",
+      "value": "Let’s go, Renamon!"
+    },
+    {
+      "key": "EP12_S1100_0089",
+      "value": "I will keep Miyuki safe!"
+    }
+  ]
+}

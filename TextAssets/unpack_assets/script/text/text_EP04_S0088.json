@@ -1,0 +1,356 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0088_0001",
+      "value": "Hang in there. By the time we reach the end\nof this path, we’ll be at the surface."
+    },
+    {
+      "key": "EP04_S0088_0002",
+      "value": "Yeek!"
+    },
+    {
+      "key": "EP04_S0088_0003",
+      "value": "Aoi, are you all right?!"
+    },
+    {
+      "key": "EP04_S0088_0004",
+      "value": "What happened?!"
+    },
+    {
+      "key": "EP04_S0088_0005",
+      "value": "Oh... It was nothing. I just tripped. Sorry,\nI’ll be more careful."
+    },
+    {
+      "key": "EP04_S0088_0006",
+      "value": "It is kind of hard to walk down here, isn’t\nit?"
+    },
+    {
+      "key": "EP04_S0088_0007",
+      "value": "Miyuki, you watch your step too, okay?"
+    },
+    {
+      "key": "EP04_S0088_0008",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP04_S0088_0009",
+      "value": "Yes, this area is prone to collapses. I’m\nafraid it’s aging rather poorly."
+    },
+    {
+      "key": "EP04_S0088_0010",
+      "value": "Yeah, this place is pretty beat up, isn’t it?"
+    },
+    {
+      "key": "EP04_S0088_0011",
+      "value": "It is. I remember the state of the school was\na surprise, and this place isn’t much better."
+    },
+    {
+      "key": "EP04_S0088_0012",
+      "value": "I wonder when they built this park."
+    },
+    {
+      "key": "EP04_S0088_0013",
+      "value": "Yes, well, it’s been decades since we started\nliving here."
+    },
+    {
+      "key": "EP04_S0088_0014",
+      "value": "Wait, did you say decades?"
+    },
+    {
+      "key": "EP04_S0088_0015",
+      "value": "Is that a long time, Takuma?"
+    },
+    {
+      "key": "EP04_S0088_0016",
+      "value": "It’s a super long time!"
+    },
+    {
+      "key": "EP04_S0088_0017",
+      "value": "Indeed. But the way time is reckoned here in\nour world may be different than in yours."
+    },
+    {
+      "key": "EP04_S0088_0018",
+      "value": "Still, by my recollection, this park has\nstood here for several decades."
+    },
+    {
+      "key": "EP04_S0088_0019",
+      "value": "How does that make any sense? Who could’ve\nbuilt this place so long ago? And how?"
+    },
+    {
+      "key": "EP04_S0088_0020",
+      "value": "How do they make them in your world?"
+    },
+    {
+      "key": "EP04_S0088_0021",
+      "value": "Well...adults use all this heavy machinery.\nIt’s like a huge construction project."
+    },
+    {
+      "key": "EP04_S0088_0022",
+      "value": "In other words, such places are not built in\na day."
+    },
+    {
+      "key": "EP04_S0088_0023",
+      "value": "Exactly. It takes years to build an amusement\npark."
+    },
+    {
+      "key": "EP04_S0088_0024",
+      "value": "Well, maybe it’s a mistake to think of anyone\nactually building this place."
+    },
+    {
+      "key": "EP04_S0088_0025",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP04_S0088_0026",
+      "value": "Like, all sorts of crazy stuff happens in\nthis world, right?"
+    },
+    {
+      "key": "EP04_S0088_0027",
+      "value": "As an extreme example, what if some mysterious\npower just made this place pop up one day?"
+    },
+    {
+      "key": "EP04_S0088_0028",
+      "value": "Wouldn’t that fit?"
+    },
+    {
+      "key": "EP04_S0088_0029",
+      "value": "Yeah, maybe the same thing happened with the\nschool. It was created by some strange power."
+    },
+    {
+      "key": "EP04_S0088_0030",
+      "value": "It does seem possible."
+    },
+    {
+      "key": "EP04_S0088_0031",
+      "value": "Hey, if this world made any kinda sense, none\nof this would be so bad."
+    },
+    {
+      "key": "EP04_S0088_0032",
+      "value": "Instead we’ve got things like Kunemon, the\nfog, that hand monster, and other nonsense."
+    },
+    {
+      "key": "EP04_S0088_0033",
+      "value": "Even the geography’s messed up. If you said\nthe park popped up overnight, I’d believe it."
+    },
+    {
+      "key": "EP04_S0088_0034",
+      "value": "Yeah, if anything, I think that’s more\nconvincing."
+    },
+    {
+      "key": "EP04_S0088_0035",
+      "value": "I can see it."
+    },
+    {
+      "key": "EP04_S0088_0036",
+      "value": "You think the same thing happened with the\nschool?"
+    },
+    {
+      "key": "EP04_S0088_0037",
+      "value": "That it wasn’t built, but created by some\nstrange power?"
+    },
+    {
+      "key": "EP04_S0088_0038",
+      "value": "You’ve been around since before this place\nwas here, right, Jijimon?"
+    },
+    {
+      "key": "EP04_S0088_0039",
+      "value": "Oh, yes, why do you ask?"
+    },
+    {
+      "key": "EP04_S0088_0040",
+      "value": "Can you tell us anything about how it was\nmade, and how much time it took?"
+    },
+    {
+      "key": "EP04_S0088_0041",
+      "value": "Ah, but first you must first understand the\nnature of this world, and how it came to be."
+    },
+    {
+      "key": "EP04_S0088_0042",
+      "value": "The nature of this world? Another huge topic!"
+    },
+    {
+      "key": "EP04_S0088_0043",
+      "value": "According to legend, this world was created\nlong ago by a supremely powerful being."
+    },
+    {
+      "key": "EP04_S0088_0044",
+      "value": "You could say this being was like a god.\nIndeed, it was a god from our perspective."
+    },
+    {
+      "key": "EP04_S0088_0045",
+      "value": "If this being created your world, then\nschools and amusement parks would be easy."
+    },
+    {
+      "key": "EP04_S0088_0046",
+      "value": "That could explain why that cable car was\nrunning, too."
+    },
+    {
+      "key": "EP04_S0088_0047",
+      "value": "And why the food and medicine are fine, even\nthough the school is old and run-down."
+    },
+    {
+      "key": "EP04_S0088_0048",
+      "value": "So, wait... You’re saying this has all been\nthe work of a god?"
+    },
+    {
+      "key": "EP04_S0088_0049",
+      "value": "Who else do you think could do all this?"
+    },
+    {
+      "key": "EP04_S0088_0050",
+      "value": "I mean, I didn’t have anything in mind, but\nI never thought we were dealing with a god."
+    },
+    {
+      "key": "EP04_S0088_0051",
+      "value": "I’m afraid it’s not that simple. You see,\nthis god-like being faded away long ago."
+    },
+    {
+      "key": "EP04_S0088_0052",
+      "value": "And the current caretaker of our world likely\nwishes to reshape it into its preferred form."
+    },
+    {
+      "key": "EP04_S0088_0053",
+      "value": "(So he’s saying the creator of this world and\nits caretaker are two different beings?)"
+    },
+    {
+      "key": "EP04_S0088_0054",
+      "value": "(Then maybe we’re not dealing with a god. But\nstill...)"
+    },
+    {
+      "key": "EP04_S0088_0055",
+      "value": "Sorry, but I don’t get it."
+    },
+    {
+      "key": "EP04_S0088_0056",
+      "value": "Really? You don’t? I thought for sure you\nwere following all this."
+    },
+    {
+      "key": "EP04_S0088_0057",
+      "value": "How could I? I mean, I don’t see how any of\nthis fits together."
+    },
+    {
+      "key": "EP04_S0088_0058",
+      "value": "I...didn’t get it either. Sorry..."
+    },
+    {
+      "key": "EP04_S0088_0059",
+      "value": "Nah, don’t worry about it. This is beyond all\nof us."
+    },
+    {
+      "key": "EP04_S0088_0060",
+      "value": "I see... Well, I’m afraid I can’t explain\nthings any more clearly than I already have."
+    },
+    {
+      "key": "EP04_S0088_0061",
+      "value": "I’m not sure if I learned something from all\nthat or if I’m more confused than ever."
+    },
+    {
+      "key": "EP04_S0088_0062",
+      "value": "Agumon, you seem like you’ve been thinking\nthings over for a while now."
+    },
+    {
+      "key": "EP04_S0088_0063",
+      "value": "Hmm..."
+    },
+    {
+      "key": "EP04_S0088_0064",
+      "value": "You’re right, he does seem thoughtful."
+    },
+    {
+      "key": "EP04_S0088_0065",
+      "value": "I guess the conversation was just that hard\nto follow."
+    },
+    {
+      "key": "EP04_S0088_0066",
+      "value": "It’s funny..."
+    },
+    {
+      "key": "EP04_S0088_0067",
+      "value": "(Hm? What’s funny?)"
+    },
+    {
+      "key": "EP04_S0088_0068",
+      "value": "I wonder why..."
+    },
+    {
+      "key": "EP04_S0088_0069",
+      "value": "What is it, Agumon?"
+    },
+    {
+      "key": "EP04_S0088_0070",
+      "value": "Did something Jijimon said make you realize\nsomething?"
+    },
+    {
+      "key": "EP04_S0088_0071",
+      "value": "Oh, no. I’m talking about this funny feeling\nI’ve got."
+    },
+    {
+      "key": "EP04_S0088_0072",
+      "value": "You mean you haven’t even been paying\nattention?!"
+    },
+    {
+      "key": "EP04_S0088_0073",
+      "value": "Never mind that, what’s this feeling of\nyours?"
+    },
+    {
+      "key": "EP04_S0088_0074",
+      "value": "Something around here just...isn’t right."
+    },
+    {
+      "key": "EP04_S0088_0075",
+      "value": "Hm? Now that you mention it, I sense it too."
+    },
+    {
+      "key": "EP04_S0088_0076",
+      "value": "Yes, something is off."
+    },
+    {
+      "key": "EP04_S0088_0077",
+      "value": "Oh? Like what?"
+    },
+    {
+      "key": "EP04_S0088_0078",
+      "value": "I feel it too, but I’m not sure what it is."
+    },
+    {
+      "key": "EP04_S0088_0079",
+      "value": "It’s like... It’s hard to describe."
+    },
+    {
+      "key": "EP04_S0088_0080",
+      "value": "But something does feel odd."
+    },
+    {
+      "key": "EP04_S0088_0081",
+      "value": "There must be something to it if you can all\nfeel it, but...what could it be?"
+    },
+    {
+      "key": "EP04_S0088_0082",
+      "value": "We don’t really know..."
+    },
+    {
+      "key": "EP04_S0088_0083",
+      "value": "You think we should look around?"
+    },
+    {
+      "key": "EP04_S0088_0084",
+      "value": "Sorry, Takuma, but I want to get back to Miu\nas soon as we can."
+    },
+    {
+      "key": "EP04_S0088_0085",
+      "value": "Oh, right! We should do that."
+    },
+    {
+      "key": "EP04_S0088_0086",
+      "value": "(We can always take the time to investigate\nlater.)"
+    },
+    {
+      "key": "EP04_S0088_0087",
+      "value": "My bad, Kaito. Let’s start by going back to\nsee Miu."
+    },
+    {
+      "key": "EP04_S0088_0088",
+      "value": "We’re approaching the exit now, but don’t get\ntoo far behind!"
+    }
+  ]
+}

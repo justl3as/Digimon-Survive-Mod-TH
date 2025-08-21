@@ -1,0 +1,396 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0094_0001",
+      "value": "What should I do...?"
+    },
+    {
+      "key": "EP05_S0094_0002",
+      "value": "Ho ho ho..."
+    },
+    {
+      "key": "EP05_S0094_0003",
+      "value": "You, you’re Arukenimon! Wh-what do you want?!"
+    },
+    {
+      "key": "EP05_S0094_0004",
+      "value": "Guys! The enemy’s here! Arukenimon...!"
+    },
+    {
+      "key": "EP05_S0094_0005",
+      "value": "Guys...?"
+    },
+    {
+      "key": "EP05_S0094_0006",
+      "value": "Oh my, poor thing... Totally unaware that\nyou’ve been separated from the pack."
+    },
+    {
+      "key": "EP05_S0094_0007",
+      "value": "I, I have to...oh, right! T-talk! I’m here to\nTALK!"
+    },
+    {
+      "key": "EP05_S0094_0008",
+      "value": "You’re intelligent, right?! Let’s talk it\nout! Okay?!"
+    },
+    {
+      "key": "EP05_S0094_0009",
+      "value": "Well, if you insist. Go on, then. Talk. ♪"
+    },
+    {
+      "key": "EP05_S0094_0010",
+      "value": "Uh...fantastic..."
+    },
+    {
+      "key": "EP05_S0094_0011",
+      "value": "Instead of fighting us, all of you would\nrather go back to your own world, yes?"
+    },
+    {
+      "key": "EP05_S0094_0012",
+      "value": "Yes, exactly! We just want to get home\nsafely, that’s all!"
+    },
+    {
+      "key": "EP05_S0094_0013",
+      "value": "We never wanted to hurt any of you!"
+    },
+    {
+      "key": "EP05_S0094_0014",
+      "value": "If that’s the case, then I suppose I can let\nyou go home."
+    },
+    {
+      "key": "EP05_S0094_0015",
+      "value": "...Really?!"
+    },
+    {
+      "key": "EP05_S0094_0016",
+      "value": "However... ♪"
+    },
+    {
+      "key": "EP05_S0094_0017",
+      "value": "You need to provide some compensation in\nreturn. That sounds reasonable, yes?"
+    },
+    {
+      "key": "EP05_S0094_0018",
+      "value": "I’ll give you anything! Just name it!"
+    },
+    {
+      "key": "EP05_S0094_0019",
+      "value": "We need a sacrifice... A single one will do."
+    },
+    {
+      "key": "EP05_S0094_0020",
+      "value": "So give us just one person... Ho ho ho."
+    },
+    {
+      "key": "EP05_S0094_0021",
+      "value": "Really? Just one?!"
+    },
+    {
+      "key": "EP05_S0094_0022",
+      "value": "Ho ho ho ho..."
+    },
+    {
+      "key": "EP05_S0094_0023",
+      "value": "Shuuji!"
+    },
+    {
+      "key": "EP05_S0094_0024",
+      "value": "Just one, right? Right, Arukenimon?!"
+    },
+    {
+      "key": "EP05_S0094_0025",
+      "value": "...Is Arukenimon there, Shuuji? Where,\nexactly?"
+    },
+    {
+      "key": "EP05_S0094_0026",
+      "value": "Ain’t no one there. Jeez, man...our boy’s\nfreakin’ lost it, hasn’t he?"
+    },
+    {
+      "key": "EP05_S0094_0027",
+      "value": "If Arukenimon’s not there... Then who’s he\ntalking to?"
+    },
+    {
+      "key": "EP05_S0094_0028",
+      "value": "He must be seeing another illusion!"
+    },
+    {
+      "key": "EP05_S0094_0029",
+      "value": "Snap out of it, Shuuji!"
+    },
+    {
+      "key": "EP05_S0094_0030",
+      "value": "Just one... Just one... Who to choose..."
+    },
+    {
+      "key": "EP05_S0094_0031",
+      "value": "No, I... I can’t... There’s no way I can make\nthat choice...!"
+    },
+    {
+      "key": "EP05_S0094_0032",
+      "value": "Hey! Where are you going?!"
+    },
+    {
+      "key": "EP05_S0094_0033",
+      "value": "Tch..."
+    },
+    {
+      "key": "EP05_S0094_0034",
+      "value": "Dammit, Shuuji, stop right there!"
+    },
+    {
+      "key": "EP05_S0094_0035",
+      "value": "You can’t even hear our voices any more?!\nAnd you think you’re our leader?!"
+    },
+    {
+      "key": "EP05_S0094_0036",
+      "value": "Leader... I’m...the leader..."
+    },
+    {
+      "key": "EP05_S0094_0037",
+      "value": "Say something, punk! You waste of space!\nDumpster fire!"
+    },
+    {
+      "key": "EP05_S0094_0038",
+      "value": "Uh, Ryo, isn’t that going a bit too far?"
+    },
+    {
+      "key": "EP05_S0094_0039",
+      "value": "Don’t sweat it, I’m just trying to snap him\nout of it, is all."
+    },
+    {
+      "key": "EP05_S0094_0040",
+      "value": "Still, that’s..."
+    },
+    {
+      "key": "EP05_S0094_0041",
+      "value": "You heard him, didn’t you? That guy’s been\ngoing “Dad,” “Dad.”"
+    },
+    {
+      "key": "EP05_S0094_0042",
+      "value": "Huh? Yeah, uh, he must’ve been showed\na vision of his dad, then."
+    },
+    {
+      "key": "EP05_S0094_0043",
+      "value": "Just look out how shaken up he is. He must\nhave some nasty trauma about his dad."
+    },
+    {
+      "key": "EP05_S0094_0044",
+      "value": "Trauma...?"
+    },
+    {
+      "key": "EP05_S0094_0045",
+      "value": "Can’t say for sure, but that reaction ain’t\nnormal."
+    },
+    {
+      "key": "EP05_S0094_0046",
+      "value": "I bet...he’s like me."
+    },
+    {
+      "key": "EP05_S0094_0047",
+      "value": "The obsession I have with my mom, and the\nfeelings he has about his dad. Seem similar."
+    },
+    {
+      "key": "EP05_S0094_0048",
+      "value": "So...what should we do?"
+    },
+    {
+      "key": "EP05_S0094_0049",
+      "value": "I wouldn’t be yelling like this if I knew!\nWe just gotta get through to him!"
+    },
+    {
+      "key": "EP05_S0094_0050",
+      "value": "I know! Me! The sacrifice should be ME!\nThat would work, right, Arukenimon?!"
+    },
+    {
+      "key": "EP05_S0094_0051",
+      "value": "After him! I’ve got a bad feeling about this!"
+    },
+    {
+      "key": "EP05_S0094_0052",
+      "value": "Yeah. Let’s go, guys!"
+    },
+    {
+      "key": "EP05_S0094_0053",
+      "value": "Answer me, Arukenimon! I’ll be the sacrifice!\nTake me!"
+    },
+    {
+      "key": "EP05_S0094_0054",
+      "value": "What admirable spirit... Still, is that what\nyou really want, my dear boy?"
+    },
+    {
+      "key": "EP05_S0094_0055",
+      "value": "You lack courage...and your sense of justice\nis nothing special. Don’t you think?"
+    },
+    {
+      "key": "EP05_S0094_0056",
+      "value": "You’re just frightened, and you want to leave\nthis place behind."
+    },
+    {
+      "key": "EP05_S0094_0057",
+      "value": "You’d rather pass the buck on to someone else.\nIsn’t that true?"
+    },
+    {
+      "key": "EP05_S0094_0058",
+      "value": "No doubt about it! He’s again stuck in an\nillusion! One just for him!"
+    },
+    {
+      "key": "EP05_S0094_0059",
+      "value": "Just what the enemy wants!"
+    },
+    {
+      "key": "EP05_S0094_0060",
+      "value": "*sniff* *sniff* That scent... Arukenimon!"
+    },
+    {
+      "key": "EP05_S0094_0061",
+      "value": "Shuuji’s seeing a vision of Arukenimon! Why\ndidn’t I realize it before?!"
+    },
+    {
+      "key": "EP05_S0094_0062",
+      "value": "I thought something was wrong. Those fakes\nseemed more like they were buying time."
+    },
+    {
+      "key": "EP05_S0094_0063",
+      "value": "Arukenimon was aiming for Shuuji from the\nstart!"
+    },
+    {
+      "key": "EP05_S0094_0064",
+      "value": "She lured him away from us, and kept showing\nhim these visions..."
+    },
+    {
+      "key": "EP05_S0094_0065",
+      "value": "He’s been seeing something this whole time,\nand we had no idea!"
+    },
+    {
+      "key": "EP05_S0094_0066",
+      "value": "Shuuji... Wait for me!"
+    },
+    {
+      "key": "EP05_S0094_0067",
+      "value": "Ah, hey! Lopmon ran off on his own!"
+    },
+    {
+      "key": "EP05_S0094_0068",
+      "value": "After him! We have to rescue Shuuji!"
+    },
+    {
+      "key": "EP05_S0094_0069",
+      "value": "Lopmon’s going after him! If we follow, we’re\nsure to catch them!"
+    },
+    {
+      "key": "EP05_S0094_0070",
+      "value": "No! I want to save everyone... That’s all\nI need!"
+    },
+    {
+      "key": "EP05_S0094_0071",
+      "value": "My dad will finally be proud of me! More, way\nmore than my brother!"
+    },
+    {
+      "key": "EP05_S0094_0072",
+      "value": "Urgh... *huff*...*huff*..."
+    },
+    {
+      "key": "EP05_S0094_0073",
+      "value": "Well, then. If you really feel that way, why\ndon’t we let this one do the honors?"
+    },
+    {
+      "key": "EP05_S0094_0074",
+      "value": "Grrrwwwlll..."
+    },
+    {
+      "key": "EP05_S0094_0075",
+      "value": "Waaaaaaaaaugh! No, not that! Stay away!"
+    },
+    {
+      "key": "EP05_S0094_0076",
+      "value": "See, now there’s your true colors.\nYou’re afraid of death, aren’t you?"
+    },
+    {
+      "key": "EP05_S0094_0077",
+      "value": "Of course I am! Who wouldn’t be?!"
+    },
+    {
+      "key": "EP05_S0094_0078",
+      "value": "No... I don’t want to die! Not in a place\nlike this! NOOOOOO!"
+    },
+    {
+      "key": "EP05_S0094_0079",
+      "value": "It’s okay, Shuuji! I’ll protect you!"
+    },
+    {
+      "key": "EP05_S0094_0080",
+      "value": "Oops, so sorry, dear. I’m afraid you’re of no\nuse here."
+    },
+    {
+      "key": "EP05_S0094_0081",
+      "value": "Waugh! Rrrk, you won’t beat me!"
+    },
+    {
+      "key": "EP05_S0094_0082",
+      "value": "Yaaaaaaugh!"
+    },
+    {
+      "key": "EP05_S0094_0083",
+      "value": "Seriously?! That’s your idea of protecting\nme?!"
+    },
+    {
+      "key": "EP05_S0094_0084",
+      "value": "Don’t make promises unless you can deliver!\nYou... You useless thing!"
+    },
+    {
+      "key": "EP05_S0094_0085",
+      "value": "And fight better! If you were better at\nfighting, I might not be in this mess!"
+    },
+    {
+      "key": "EP05_S0094_0086",
+      "value": "You can’t even evolve! Maybe you’d be of\nsome use if you could!"
+    },
+    {
+      "key": "EP05_S0094_0087",
+      "value": "Yeah! If you were more useful,\nI could even defeat my enemies!"
+    },
+    {
+      "key": "EP05_S0094_0088",
+      "value": "Enemies... Anyone who looks down on me! You\nshould just erase them all!"
+    },
+    {
+      "key": "EP05_S0094_0089",
+      "value": "Even my dad...even my brother! Everyone!"
+    },
+    {
+      "key": "EP05_S0094_0090",
+      "value": "So evolve already! Right now!"
+    },
+    {
+      "key": "EP05_S0094_0091",
+      "value": "Stop, Shuuji!"
+    },
+    {
+      "key": "EP05_S0094_0092",
+      "value": "I... I...!"
+    },
+    {
+      "key": "EP05_S0094_0093",
+      "value": "Why, why am I so hopeless...? Is this all\nI really am?!"
+    },
+    {
+      "key": "EP05_S0094_0094",
+      "value": "At this rate...\nI won’t get out of this alive!"
+    },
+    {
+      "key": "EP05_S0094_0095",
+      "value": "How can I possibly survive? Where... Where\nis there a place for me?!"
+    },
+    {
+      "key": "EP05_S0094_0096",
+      "value": "What are you doing, Shuuji?! That’s Lopmon!\nCan’t you see?"
+    },
+    {
+      "key": "EP05_S0094_0097",
+      "value": "You can’t do that!"
+    },
+    {
+      "key": "EP05_S0094_0098",
+      "value": "Lopmon’s gonna die! What should we do,\nTakuma?!"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0190_0001",
+      "value": "Whoa, what’s with this fog?"
+    },
+    {
+      "key": "EP01_S0190_0002",
+      "value": "Yeah, man... There wasn’t nothin’ like this\nwhen we came through earlier."
+    },
+    {
+      "key": "EP01_S0190_0003",
+      "value": "If we go out in this now we’ll be just as\nlost as the others."
+    },
+    {
+      "key": "EP01_S0190_0004",
+      "value": "What about Saki? And that scream just now..."
+    },
+    {
+      "key": "EP01_S0190_0005",
+      "value": "Aaaaaaah! Stay away from meee!"
+    },
+    {
+      "key": "EP01_S0190_0006",
+      "value": "Wait... What the heck was that?!"
+    },
+    {
+      "key": "EP01_S0190_0007",
+      "value": "Is...is she being attacked by something?"
+    },
+    {
+      "key": "EP01_S0190_0008",
+      "value": "You mean like a pervert?"
+    },
+    {
+      "key": "EP01_S0190_0009",
+      "value": "A pervert? On a MOUNTAIN?!"
+    },
+    {
+      "key": "EP01_S0190_0010",
+      "value": "Maybe it’s a boar or something? Yeah, I can\nhear...growling, I think?"
+    },
+    {
+      "key": "EP01_S0190_0011",
+      "value": "Whoa, hey! I... Was it just me, or did\nsomething light up over there?"
+    },
+    {
+      "key": "EP01_S0190_0012",
+      "value": "We should head towards her voice!"
+    },
+    {
+      "key": "EP01_S0190_0013",
+      "value": "Are your eyes playing tricks on you?\nI can barely see a thing around here."
+    },
+    {
+      "key": "EP01_S0190_0014",
+      "value": "This fog is seriously weird, man..."
+    },
+    {
+      "key": "EP01_S0190_0015",
+      "value": "It bothers me too, but not as much as Saki’s\nscreams!"
+    },
+    {
+      "key": "EP01_S0190_0016",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP01_S0190_0017",
+      "value": "Hey, Sakiii! Ryooo! Are you okay?!"
+    },
+    {
+      "key": "EP01_S0190_0018",
+      "value": "Wait! Something’s here!"
+    },
+    {
+      "key": "EP01_S0190_0019",
+      "value": "What is that... Some kind of statue?"
+    },
+    {
+      "key": "EP01_S0190_0020",
+      "value": "No...no, that thing’s moving!"
+    },
+    {
+      "key": "EP01_S0190_0021",
+      "value": "What in the world...? That’s impossible..."
+    },
+    {
+      "key": "EP01_S0190_0022",
+      "value": "That sound again! So this weird thing was\nmaking it?"
+    },
+    {
+      "key": "EP01_S0190_0023",
+      "value": "YEEEEEEK!"
+    },
+    {
+      "key": "EP01_S0190_0024",
+      "value": "Yeeep! Back off, you freak show!"
+    },
+    {
+      "key": "EP01_S0190_0025",
+      "value": "What is that?!"
+    },
+    {
+      "key": "EP01_S0190_0026",
+      "value": "Hey, what’s going on?! I heard a bunch of\nscreaming back there!"
+    },
+    {
+      "key": "EP01_S0190_0027",
+      "value": "Miu! You were here the whole time!"
+    },
+    {
+      "key": "EP01_S0190_0028",
+      "value": "What? Kaito?! Why are you here?!"
+    },
+    {
+      "key": "EP01_S0190_0029",
+      "value": "Wait, Saki! We’re coming to help!"
+    },
+    {
+      "key": "EP01_S0190_0030",
+      "value": "Is that you, Aoi?! No, stay away!"
+    },
+    {
+      "key": "EP01_S0190_0031",
+      "value": "No, come here and heeelp!"
+    },
+    {
+      "key": "EP01_S0190_0032",
+      "value": "That creepy thing’s looking this way..."
+    },
+    {
+      "key": "EP01_S0190_0033",
+      "value": "Wh-wha-what should we dooo?!"
+    },
+    {
+      "key": "EP01_S0190_0034",
+      "value": "It’s not like we can just leave them alone,\nright? Even if she tells us to?"
+    },
+    {
+      "key": "EP01_S0190_0035",
+      "value": "(This weird statue-like creature’s set its\nsights on the others...)"
+    },
+    {
+      "key": "EP01_S0190_0036",
+      "value": "(A creature...? No...a monster?!)"
+    },
+    {
+      "key": "EP01_S0190_0037",
+      "value": "What’re you waiting for?! Get the hell over\nhere, already!"
+    },
+    {
+      "key": "EP01_S0190_0038",
+      "value": "Could that be one of the Kemonogami?!\nNo...how could that be?!"
+    },
+    {
+      "key": "EP01_S0190_0039",
+      "value": "(Professor! He followed us from the shrine?)"
+    },
+    {
+      "key": "EP01_S0190_0040",
+      "value": "(We have to save those guys from this\nmonster...!)"
+    },
+    {
+      "key": "EP01_S0190_Q1",
+      "value": "(What should we do?)"
+    },
+    {
+      "key": "EP01_S0190_Q1_A1",
+      "value": "Get closer and talk."
+    },
+    {
+      "key": "EP01_S0190_Q1_A3",
+      "value": "Run while you can!"
+    },
+    {
+      "key": "EP01_S0190_0041",
+      "value": "Get close."
+    },
+    {
+      "key": "EP01_S0190_0042",
+      "value": "Let’s try talking to it..."
+    },
+    {
+      "key": "EP01_S0190_0043",
+      "value": "Yeah, it could just be some kid pulling\na prank. Hey, you there!"
+    },
+    {
+      "key": "EP01_S0190_0044",
+      "value": "Whoa, hold on, Shuuji!"
+    },
+    {
+      "key": "EP01_S0190_0045",
+      "value": "How heavy would a kid have to be to leave\nfootprints that deep?!"
+    },
+    {
+      "key": "EP01_S0190_0046",
+      "value": "Footprints...?"
+    },
+    {
+      "key": "EP01_S0190_0047",
+      "value": "Wha—UWAAAH!"
+    },
+    {
+      "key": "EP01_S0190_0048",
+      "value": "Look out, Shuuji!"
+    },
+    {
+      "key": "EP01_S0190_0049",
+      "value": "Ungh!"
+    },
+    {
+      "key": "EP01_S0190_0050",
+      "value": "Takuma?!"
+    },
+    {
+      "key": "EP01_S0190_0051",
+      "value": "Ugh... What the heck... It barely grazed me,\nand yet...what power..."
+    },
+    {
+      "key": "EP01_S0190_0052",
+      "value": "Are, are you all right?! I’m so sorry...\nYou saved me there..."
+    },
+    {
+      "key": "EP01_S0190_0053",
+      "value": "This is bad! Let’s get out of here!"
+    },
+    {
+      "key": "EP01_S0190_0054",
+      "value": "Run away."
+    },
+    {
+      "key": "EP01_S0190_0055",
+      "value": "Saki, Ryo! Are you okay?!"
+    },
+    {
+      "key": "EP01_S0190_0056",
+      "value": "Is, is that you, Takuma?!"
+    },
+    {
+      "key": "EP01_S0190_0057",
+      "value": "Run now, while you can!"
+    },
+    {
+      "key": "EP01_S0190_0058",
+      "value": "Oh jeez, oh boy..."
+    },
+    {
+      "key": "EP01_S0190_0059",
+      "value": "We’ll go over there, so you go hide, Miu!"
+    },
+    {
+      "key": "EP01_S0190_0060",
+      "value": "All right..."
+    },
+    {
+      "key": "EP01_S0190_0061",
+      "value": "I...I say we run!"
+    },
+    {
+      "key": "EP01_S0190_0062",
+      "value": "You don’t gotta tell me twice.\nLet’s make like a tree and leave!"
+    },
+    {
+      "key": "EP01_S0190_0063",
+      "value": "Really! You REALLY have to make jokes at\na time like this?!"
+    },
+    {
+      "key": "EP01_S0190_0064",
+      "value": "Quiet, guys, let’s get out of here!"
+    },
+    {
+      "key": "EP01_S0190_0065",
+      "value": "...Are you seriously taking out your phone,\nMinoru?!"
+    },
+    {
+      "key": "EP01_S0190_0200",
+      "value": "My camera’s got that night sight, baby! I bet\nit’ll cut through the fog, yeah?"
+    },
+    {
+      "key": "EP01_S0190_0066",
+      "value": "We might never see a thing like this again!\nSo I gotta snap while the snapping’s good!"
+    },
+    {
+      "key": "EP01_S0190_0067",
+      "value": "(Minoru hasn’t noticed how close the monster\nhas gotten! We can’t save him in time!)"
+    },
+    {
+      "key": "EP01_S0190_0068",
+      "value": "Get out of the way, Minoru!"
+    },
+    {
+      "key": "EP01_S0190_0069",
+      "value": "...Say what?"
+    },
+    {
+      "key": "EP01_S0190_0070",
+      "value": "Uwaaah!!!"
+    },
+    {
+      "key": "EP01_S0190_0071",
+      "value": "Minoru!!!"
+    },
+    {
+      "key": "EP01_S0190_0072",
+      "value": "...Freaking OW. This thing isn’t pulling its\npunches..."
+    },
+    {
+      "key": "EP01_S0190_0073",
+      "value": "Thanks, Takuma. I would’ve taken that head-\non if you hadn’t said something."
+    },
+    {
+      "key": "EP01_S0190_0074",
+      "value": "Can you move, Minoru? You must get out of\nthere!"
+    },
+    {
+      "key": "EP01_S0190_0075",
+      "value": "(A creature we’ve never seen before is coming\nright at us! What’s going on?!)"
+    },
+    {
+      "key": "EP01_S0190_0076",
+      "value": "(What a crazy situation we’ve gotten into.\nWhy the heck is this happening?!)"
+    },
+    {
+      "key": "EP01_S0190_0077",
+      "value": "Yeep!"
+    },
+    {
+      "key": "EP01_S0190_0078",
+      "value": "You okay, Aoi?!"
+    },
+    {
+      "key": "EP01_S0190_0079",
+      "value": "(Oh no, Aoi fell down! And that rock monster\nis coming this way!)"
+    },
+    {
+      "key": "EP01_S0190_0080",
+      "value": "Stop! Stay away from her!!!"
+    },
+    {
+      "key": "EP01_S0190_0081",
+      "value": "(I can’t let it hurt Aoi!)"
+    },
+    {
+      "key": "EP01_S0190_0082",
+      "value": "Uwaaaaaaaaaaaaaaah!"
+    },
+    {
+      "key": "EP01_S0190_0083",
+      "value": "(That thing just sent me flying!)"
+    },
+    {
+      "key": "EP01_S0190_0084",
+      "value": "Ahhh, jeez, ow... Man, that thing’s strong..."
+    },
+    {
+      "key": "EP01_S0190_0085",
+      "value": "I’m lucky I got away with a few scratches\nafter a tackle like that..."
+    },
+    {
+      "key": "EP01_S0190_0086",
+      "value": "The others...! Hey! You guys okay?!"
+    },
+    {
+      "key": "EP01_S0190_0087",
+      "value": "Takuma! Are you all right?"
+    },
+    {
+      "key": "EP01_S0190_0088",
+      "value": "I’m sorry... This is all my fault!"
+    },
+    {
+      "key": "EP01_S0190_0089",
+      "value": "(Everyone seems to be okay, somehow...)"
+    },
+    {
+      "key": "EP01_S0190_0090",
+      "value": "(The fog has covered the entire area. There’s\nred spider lilies at my feet. So creepy...)"
+    },
+    {
+      "key": "EP01_S0190_0091",
+      "value": "...Guys! You there?!"
+    },
+    {
+      "key": "EP01_S0190_0097",
+      "value": "Ahhh... AAAAAAH!"
+    },
+    {
+      "key": "EP01_S0190_0092",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP01_S0190_0098",
+      "value": "There’s more of them all around us?!"
+    },
+    {
+      "key": "EP01_S0190_0099",
+      "value": "This is bad...\nIt’s getting closer and closer!"
+    },
+    {
+      "key": "EP01_S0190_0201",
+      "value": "(We’re in for a world of hurt. Is there any\nway we can make a break for it?)"
+    },
+    {
+      "key": "EP01_S0190_0093",
+      "value": "Wha’...huh?"
+    },
+    {
+      "key": "EP01_S0190_0094",
+      "value": "I’m feeling...kinda dizzy..."
+    },
+    {
+      "key": "EP01_S0190_0095",
+      "value": "(Am I going numb? Or did I take a harder hit\nthan I thought?)"
+    },
+    {
+      "key": "EP01_S0190_0096",
+      "value": "(Or is it...?)"
+    },
+    {
+      "key": "EP01_S0190_0100",
+      "value": "Huh? An earthquake, at a time like this?!"
+    },
+    {
+      "key": "EP01_S0190_0101",
+      "value": "Crap... And the fog is getting thicker, too!"
+    },
+    {
+      "key": "EP01_S0190_0102",
+      "value": "Is everyone okay?!"
+    },
+    {
+      "key": "EP01_S0190_0202",
+      "value": "Be careful, everyone! Move without paying\nattention and you’ll—WAHHH!"
+    },
+    {
+      "key": "EP01_S0190_0203",
+      "value": "What is it, Shuuji?!"
+    },
+    {
+      "key": "EP01_S0190_0103",
+      "value": "Whoa!"
+    },
+    {
+      "key": "EP01_S0190_0104",
+      "value": "(I tried taking a step forward, and the\nground crumbled underneath me!)"
+    },
+    {
+      "key": "EP01_S0190_0204",
+      "value": "(I plunged into a gaping hole that seemed to\npull me in...)"
+    },
+    {
+      "key": "EP01_S0190_0205",
+      "value": "(I couldn’t even tell what was happening to\neveryone else..)"
+    },
+    {
+      "key": "EP01_S0190_0105",
+      "value": "(Unchecked development...recent landslides...\nThe professor’s words are coming back to me.)"
+    },
+    {
+      "key": "EP01_S0190_0106",
+      "value": "UWAAAAAAAAAAAAAAAAAAAAAAAH!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0428_0001",
+      "value": "Not here either..."
+    },
+    {
+      "key": "EP01_S0428_0002",
+      "value": "But at least we’ve narrowed down the places\nshe could be. That counts for something."
+    },
+    {
+      "key": "EP01_S0428_0003",
+      "value": "Ohhh, you’re right!"
+    },
+    {
+      "key": "EP01_S0428_0004",
+      "value": "Let’s check out the places we haven’t looked\nyet."
+    },
+    {
+      "key": "EP01_S0428_0005",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP01_S0428_0006",
+      "value": "Let’s go look somewhere else!"
+    }
+  ]
+}

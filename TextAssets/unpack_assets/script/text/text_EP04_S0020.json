@@ -1,0 +1,744 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0020_0001",
+      "value": "(Everyone’s probably in the cafeteria by\nnow.)"
+    },
+    {
+      "key": "EP04_S0020_0002",
+      "value": "(I should head back.)"
+    },
+    {
+      "key": "EP04_S0020_0003",
+      "value": "Oh, good. You’re all here!"
+    },
+    {
+      "key": "EP04_S0020_0004",
+      "value": "Well, how could we say no? You seemed so\ndesperate."
+    },
+    {
+      "key": "EP04_S0020_0005",
+      "value": "You’re one to talk. You were a bundle of\nnerves until just now."
+    },
+    {
+      "key": "EP04_S0020_0006",
+      "value": "Hey! You promised not to mention that!"
+    },
+    {
+      "key": "EP04_S0020_0007",
+      "value": "(Minoru was pretty upset before. Looks like\nhe’s in better shape now.)"
+    },
+    {
+      "key": "EP04_S0020_0008",
+      "value": "(Not to mention the others.)"
+    },
+    {
+      "key": "EP04_S0020_0009",
+      "value": "Sorry to make you worry about me all the\ntime, Takuma. I’m feeling better now."
+    },
+    {
+      "key": "EP04_S0020_0010",
+      "value": "Yeah, you really bounced back!"
+    },
+    {
+      "key": "EP04_S0020_0011",
+      "value": "Good. I’m glad to hear it."
+    },
+    {
+      "key": "EP04_S0020_0012",
+      "value": "I’m sure it was because of you, Takuma!"
+    },
+    {
+      "key": "EP04_S0020_0013",
+      "value": "Haru, Miyuki, thanks for coming too."
+    },
+    {
+      "key": "EP04_S0020_0014",
+      "value": "Sure."
+    },
+    {
+      "key": "EP04_S0020_0015",
+      "value": "Sure..."
+    },
+    {
+      "key": "EP04_S0020_0016",
+      "value": "So, about us going to rescue Miu..."
+    },
+    {
+      "key": "EP04_S0020_0017",
+      "value": "Right, let me just start by saying something."
+    },
+    {
+      "key": "EP04_S0020_0018",
+      "value": "I really didn’t want to get you all involved\nin this, but..."
+    },
+    {
+      "key": "EP04_S0020_0019",
+      "value": "...thanks."
+    },
+    {
+      "key": "EP04_S0020_0020",
+      "value": "Whoa! Did you guys hear that? I think Kaito\nactually showed some appreciation just now."
+    },
+    {
+      "key": "EP04_S0020_0021",
+      "value": "Minoru, no need to be sarcastic."
+    },
+    {
+      "key": "EP04_S0020_0022",
+      "value": "That’s right! Kaito was just being sincere.\nNo need to make fun of him for that."
+    },
+    {
+      "key": "EP04_S0020_0023",
+      "value": "Minoru can’t take anything seriously, can he?"
+    },
+    {
+      "key": "EP04_S0020_0024",
+      "value": "What? Don’t you get it? I’m just trying to\nlighten the mood!"
+    },
+    {
+      "key": "EP04_S0020_0025",
+      "value": "(Yeah, and everyone is really upset right\nnow.)"
+    },
+    {
+      "key": "EP04_S0020_0026",
+      "value": "(Though sometimes Minoru can go too far.)"
+    },
+    {
+      "key": "EP04_S0020_0027",
+      "value": "Listen, Kaito, you don’t have any reason to\nfeel like you’re dragging us into this."
+    },
+    {
+      "key": "EP04_S0020_0028",
+      "value": "Yeah! We all want to rescue Miu anyway!"
+    },
+    {
+      "key": "EP04_S0020_0029",
+      "value": "If anything, I think we owe you an apology."
+    },
+    {
+      "key": "EP04_S0020_0030",
+      "value": "We all knew you were anxious to start looking\nfor Miu. Sorry we took so long."
+    },
+    {
+      "key": "EP04_S0020_0031",
+      "value": "No, it’s cool. After what happened yesterday,\nI get it."
+    },
+    {
+      "key": "EP04_S0020_0032",
+      "value": "Anyway, will you help me out?"
+    },
+    {
+      "key": "EP04_S0020_0033",
+      "value": "You bet!"
+    },
+    {
+      "key": "EP04_S0020_0034",
+      "value": "Hey, not so fast!"
+    },
+    {
+      "key": "EP04_S0020_0035",
+      "value": "Look, given the situation, I hate to bring\nthis up, but are you serious about this?"
+    },
+    {
+      "key": "EP04_S0020_0036",
+      "value": "Shuuji?"
+    },
+    {
+      "key": "EP04_S0020_0037",
+      "value": "What’s that supposed to mean?"
+    },
+    {
+      "key": "EP04_S0020_0038",
+      "value": "Exactly what it sounds like."
+    },
+    {
+      "key": "EP04_S0020_0039",
+      "value": "You know how dangerous it is out there!\nRemember the enemy monsters? The strange fog?"
+    },
+    {
+      "key": "EP04_S0020_0040",
+      "value": "Maybe things worked out for us yesterday, but\nwe don’t know if that’s true for Miu."
+    },
+    {
+      "key": "EP04_S0020_0041",
+      "value": "Shuuji, that is so not cool! You’re tellin’\nKaito to his face his sister might be dead?!"
+    },
+    {
+      "key": "EP04_S0020_0042",
+      "value": "Nooo, I’m just trying to look at this\nobjectively..."
+    },
+    {
+      "key": "EP04_S0020_0043",
+      "value": "What’s to say Miu hasn’t already wound up\nlike Ryo?"
+    },
+    {
+      "key": "EP04_S0020_0044",
+      "value": "Shuuji! How can you even say that?"
+    },
+    {
+      "key": "EP04_S0020_0045",
+      "value": "I... I’m just trying to look at this\nobjectively..."
+    },
+    {
+      "key": "EP04_S0020_0046",
+      "value": "So you’re saying Miu’s objectively doomed?!\nHow dare you?!"
+    },
+    {
+      "key": "EP04_S0020_0047",
+      "value": "Hey! No need for this to get violent! Don’t\nforget we’ve got little kids here."
+    },
+    {
+      "key": "EP04_S0020_0048",
+      "value": "I’m scared..."
+    },
+    {
+      "key": "EP04_S0020_0049",
+      "value": "Scared..."
+    },
+    {
+      "key": "EP04_S0020_0050",
+      "value": "Sorry."
+    },
+    {
+      "key": "EP04_S0020_0051",
+      "value": "But what you’re saying is the one thing\nI will not accept!"
+    },
+    {
+      "key": "EP04_S0020_0052",
+      "value": "I... I have a responsibility for the lives of\neveryone here!"
+    },
+    {
+      "key": "EP04_S0020_0053",
+      "value": "I’m the leader! It’s up to me to weigh the\noptions and make the most prudent decision!"
+    },
+    {
+      "key": "EP04_S0020_0054",
+      "value": "Don’t give me that! You’re just looking for\nan excuse to cover for your own cowardice!"
+    },
+    {
+      "key": "EP04_S0020_0055",
+      "value": "Kaito, stop! That’s enough!"
+    },
+    {
+      "key": "EP04_S0020_0056",
+      "value": "I am NOT a coward!"
+    },
+    {
+      "key": "EP04_S0020_0057",
+      "value": "Maybe a hothead like you can’t see it, but as\nthe oldest one here, I have a responsibility!"
+    },
+    {
+      "key": "EP04_S0020_0058",
+      "value": "Shuuji, please... You should stop too..."
+    },
+    {
+      "key": "EP04_S0020_0059",
+      "value": "Shut up! Not another word from you!"
+    },
+    {
+      "key": "EP04_S0020_0060",
+      "value": "Shuuji! Please, try not to get so worked up."
+    },
+    {
+      "key": "EP04_S0020_0061",
+      "value": "Kaito has his own responsibility. He’s Miu’s\nolder brother. That’s why he’s so desperate."
+    },
+    {
+      "key": "EP04_S0020_0062",
+      "value": "That’s...well..."
+    },
+    {
+      "key": "EP04_S0020_0063",
+      "value": "Hah! As if a spineless creep like you could\never understand how I feel!"
+    },
+    {
+      "key": "EP04_S0020_0064",
+      "value": "You have no idea how much responsibility goes\ninto being a big brother!"
+    },
+    {
+      "key": "EP04_S0020_0065",
+      "value": "So now you’re calling me irresponsible?!"
+    },
+    {
+      "key": "EP04_S0020_0066",
+      "value": "Oh, we’re never going to get anywhere if this\nkeeps up."
+    },
+    {
+      "key": "EP04_S0020_0067",
+      "value": "I don’t like it when everybody fights like\nthis."
+    },
+    {
+      "key": "EP04_S0020_0068",
+      "value": "Yeah, me neither."
+    },
+    {
+      "key": "EP04_S0020_0069",
+      "value": "(I know I should stop this argument before it\ngoes on much longer, but how?)"
+    },
+    {
+      "key": "EP04_S0020_0070",
+      "value": "(Should I side with Kaito? Respect Shuuji’s\nopinion?)"
+    },
+    {
+      "key": "EP04_S0020_0071",
+      "value": "(Or try to enlist help from somebody else?)"
+    },
+    {
+      "key": "EP04_S0020_Q1",
+      "value": "(What’s the best way to stop this fight?)"
+    },
+    {
+      "key": "EP04_S0020_Q1_A1",
+      "value": "Honor Shuuji’s point."
+    },
+    {
+      "key": "EP04_S0020_Q1_A2",
+      "value": "Side with Kaito."
+    },
+    {
+      "key": "EP04_S0020_Q1_A3",
+      "value": "Try to enlist help."
+    },
+    {
+      "key": "EP04_S0020_0072",
+      "value": "Honor Shuuji’s point."
+    },
+    {
+      "key": "EP04_S0020_0073",
+      "value": "Kaito, I need you to calm down and just hear\nShuuji out, okay?"
+    },
+    {
+      "key": "EP04_S0020_0074",
+      "value": "Not you too, Takuma! Are you tellin’ me to\ngive up on Miu?"
+    },
+    {
+      "key": "EP04_S0020_0075",
+      "value": "Because if you are, you’re dead to me."
+    },
+    {
+      "key": "EP04_S0020_0076",
+      "value": "No! All I’m saying is to respect Shuuji’s\nopinion. You can see his point, right?!"
+    },
+    {
+      "key": "EP04_S0020_0077",
+      "value": "We just need to calm down and think of a plan\nbefore we start looking. That’s all."
+    },
+    {
+      "key": "EP04_S0020_0078",
+      "value": "Yes. That’s what I was trying to say."
+    },
+    {
+      "key": "EP04_S0020_0079",
+      "value": "You see? It’s not like Shuuji’s dead set\nagainst going to rescue Miu."
+    },
+    {
+      "key": "EP04_S0020_0080",
+      "value": "I’m not exactly all in favor of it either..."
+    },
+    {
+      "key": "EP04_S0020_0081",
+      "value": "(No, Shuuji! That’s just the kind of comment\nthat keeps us from getting anywhere!)"
+    },
+    {
+      "key": "EP04_S0020_0082",
+      "value": "Side with Kaito."
+    },
+    {
+      "key": "EP04_S0020_0083",
+      "value": "Shuuji, don’t you think we should give Kaito\na hand here?"
+    },
+    {
+      "key": "EP04_S0020_0084",
+      "value": "So you’re saying you’re fine with risking\neveryone’s lives all over again?"
+    },
+    {
+      "key": "EP04_S0020_0085",
+      "value": "Of course not, but we can’t just leave Miu\nout there."
+    },
+    {
+      "key": "EP04_S0020_0086",
+      "value": "Besides, even if we decide not to go, Kaito\nwill take off on his own."
+    },
+    {
+      "key": "EP04_S0020_0087",
+      "value": "It’s what I was plannin’ from the start."
+    },
+    {
+      "key": "EP04_S0020_0088",
+      "value": "And I’ve got no problem going back to that.\nI’ll find Miu alone if I have to."
+    },
+    {
+      "key": "EP04_S0020_0089",
+      "value": "Oh, quit saying you’ll do it alone. For the\nhundredth time, I’ll go with you."
+    },
+    {
+      "key": "EP04_S0020_0090",
+      "value": "Shuuji, do you really intend to let Kaito and\nDracmon go out there by themselves?"
+    },
+    {
+      "key": "EP04_S0020_0091",
+      "value": "No! That’s not an option either!"
+    },
+    {
+      "key": "EP04_S0020_0092",
+      "value": "Shuuji..."
+    },
+    {
+      "key": "EP04_S0020_0093",
+      "value": "Grr..."
+    },
+    {
+      "key": "EP04_S0020_0094",
+      "value": "Try to enlist help."
+    },
+    {
+      "key": "EP04_S0020_0095",
+      "value": "Hey, Minoru! Say something!"
+    },
+    {
+      "key": "EP04_S0020_0096",
+      "value": "What? Me?!"
+    },
+    {
+      "key": "EP04_S0020_0097",
+      "value": "All right, uh, what do you say we take\na vote?"
+    },
+    {
+      "key": "EP04_S0020_0098",
+      "value": "A vote? I don’t know, people’s lives are on\nthe line, here."
+    },
+    {
+      "key": "EP04_S0020_0099",
+      "value": "Ha... Haha, just kidding!"
+    },
+    {
+      "key": "EP04_S0020_0100",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP04_S0020_0101",
+      "value": "I mean, I don’t know what to say!"
+    },
+    {
+      "key": "EP04_S0020_0102",
+      "value": "Anyway, uh, why don’t we split up? Then one\ngroup can search while the other stays here!"
+    },
+    {
+      "key": "EP04_S0020_0103",
+      "value": "I don’t like that. If we’re going to look for\nMiu, we should all go."
+    },
+    {
+      "key": "EP04_S0020_0104",
+      "value": "How are you against all my ideas? Why’d you\neven ask for my opinion then, Takuma?"
+    },
+    {
+      "key": "EP04_S0020_0105",
+      "value": "Sorry!"
+    },
+    {
+      "key": "EP04_S0020_0106",
+      "value": "Forget it. I know I asked for your help, but\nit’s not worth all this trouble."
+    },
+    {
+      "key": "EP04_S0020_0107",
+      "value": "So long! I’m outta here."
+    },
+    {
+      "key": "EP04_S0020_0108",
+      "value": "Stop going off on your own!"
+    },
+    {
+      "key": "EP04_S0020_0109",
+      "value": "Outta my way!"
+    },
+    {
+      "key": "EP04_S0020_0110",
+      "value": "Shuuji! Kaito! Both of you, enough!!!"
+    },
+    {
+      "key": "EP04_S0020_0111",
+      "value": "Wha’?!"
+    },
+    {
+      "key": "EP04_S0020_0112",
+      "value": "Uh...Aoi?"
+    },
+    {
+      "key": "EP04_S0020_0113",
+      "value": "Wow! She sure shut them up!"
+    },
+    {
+      "key": "EP04_S0020_0114",
+      "value": "Yes, that was quite impressive."
+    },
+    {
+      "key": "EP04_S0020_0115",
+      "value": "(I didn’t realize Aoi could get so loud.)"
+    },
+    {
+      "key": "EP04_S0020_0116",
+      "value": "What is the point of you two fighting like\nthis? We’re wasting time!"
+    },
+    {
+      "key": "EP04_S0020_0117",
+      "value": "Kaito, is fighting with Shuuji going to help\nrescue Miu?"
+    },
+    {
+      "key": "EP04_S0020_0118",
+      "value": "Well, no, but—"
+    },
+    {
+      "key": "EP04_S0020_0119",
+      "value": "Shuuji, you keep talking about how dangerous\nit is, but do you never intend to leave?"
+    },
+    {
+      "key": "EP04_S0020_0120",
+      "value": "I didn’t say that—"
+    },
+    {
+      "key": "EP04_S0020_0121",
+      "value": "Obviously, we need to find Miu..."
+    },
+    {
+      "key": "EP04_S0020_0122",
+      "value": "But we also need to try and find a way home.\nAt least...that’s what I think."
+    },
+    {
+      "key": "EP04_S0020_0123",
+      "value": "Huh? Why’d Aoi get so quiet all of a sudden?"
+    },
+    {
+      "key": "EP04_S0020_0124",
+      "value": "Heh, she was really picking up steam there,\nbut then I guess she got self-conscious."
+    },
+    {
+      "key": "EP04_S0020_0125",
+      "value": "You’ve got nothing to be ashamed of, Aoi!\nThat was incredible just now!"
+    },
+    {
+      "key": "EP04_S0020_0126",
+      "value": "Oh no, um, I’m sorry. I didn’t mean to get so\ncarried away..."
+    },
+    {
+      "key": "EP04_S0020_0127",
+      "value": "No, Aoi, you were right. I’m sorry."
+    },
+    {
+      "key": "EP04_S0020_0128",
+      "value": "Me too. Sorry I kinda lost it."
+    },
+    {
+      "key": "EP04_S0020_0129",
+      "value": "Welp, sounds like we’re all agreed! We’re\ngoing to rescue Miu!"
+    },
+    {
+      "key": "EP04_S0020_0130",
+      "value": "Uh, Minoru? Who gave you the final say?"
+    },
+    {
+      "key": "EP04_S0020_0131",
+      "value": "What? Somebody had to say it, right?"
+    },
+    {
+      "key": "EP04_S0020_0132",
+      "value": "So, where do we go?"
+    },
+    {
+      "key": "EP04_S0020_0133",
+      "value": "I think yesterday we decided to check the\namusement park."
+    },
+    {
+      "key": "EP04_S0020_0134",
+      "value": "Right, according to that Tentomon guy, after\nMiu got away from Arukenimon..."
+    },
+    {
+      "key": "EP04_S0020_0135",
+      "value": "...that’s where she was headed."
+    },
+    {
+      "key": "EP04_S0020_0136",
+      "value": "Tentomon was the one who said it was the\nshiny place, right?"
+    },
+    {
+      "key": "EP04_S0020_0137",
+      "value": "The shiny place? It sounds lovely!"
+    },
+    {
+      "key": "EP04_S0020_0138",
+      "value": "But are we sure that’s where she went?"
+    },
+    {
+      "key": "EP04_S0020_0139",
+      "value": "Not a doubt in my mind."
+    },
+    {
+      "key": "EP04_S0020_0140",
+      "value": "She’s always loved amusement parks."
+    },
+    {
+      "key": "EP04_S0020_0141",
+      "value": "So if she suddenly realized one was here,\nshe’d head straight for it."
+    },
+    {
+      "key": "EP04_S0020_0142",
+      "value": "And there was that giant ring in the shiny\nplace. It looked really cool!"
+    },
+    {
+      "key": "EP04_S0020_0143",
+      "value": "Besides, everybody knows kids are crazy about\namusement parks."
+    },
+    {
+      "key": "EP04_S0020_0144",
+      "value": "I bet you both like them too, right Haru?\nMiyuki?"
+    },
+    {
+      "key": "EP04_S0020_0145",
+      "value": "I...dunno."
+    },
+    {
+      "key": "EP04_S0020_0146",
+      "value": "Dunno..."
+    },
+    {
+      "key": "EP04_S0020_0147",
+      "value": "What?! You’ve gotta be kidding me!"
+    },
+    {
+      "key": "EP04_S0020_0148",
+      "value": "(They...don’t know? Does that mean they’ve\nnever been to an amusement park?)"
+    },
+    {
+      "key": "EP04_S0020_0149",
+      "value": "Well, it sounds like she’s probably at the\namusement park. We’d better get going."
+    },
+    {
+      "key": "EP04_S0020_0150",
+      "value": "Bye everyone... Good luck."
+    },
+    {
+      "key": "EP04_S0020_0151",
+      "value": "Oh, no. I don’t think so. You’re both coming\nwith us."
+    },
+    {
+      "key": "EP04_S0020_0152",
+      "value": "Again? Why?"
+    },
+    {
+      "key": "EP04_S0020_0153",
+      "value": "Because we can’t just leave you on your own\nknowing there are monsters kidnapping children!"
+    },
+    {
+      "key": "EP04_S0020_0154",
+      "value": "Isn’t that right, everyone?"
+    },
+    {
+      "key": "EP04_S0020_0155",
+      "value": "Yeah, no objections from me!"
+    },
+    {
+      "key": "EP04_S0020_0156",
+      "value": "Me either!"
+    },
+    {
+      "key": "EP04_S0020_0157",
+      "value": "Oh... Okay."
+    },
+    {
+      "key": "EP04_S0020_0158",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP04_S0020_0159",
+      "value": "But, do we know the way to the amusement\npark?"
+    },
+    {
+      "key": "EP04_S0020_0160",
+      "value": "We saw it from the radio tower yesterday.\nFinding it won’t be a problem."
+    },
+    {
+      "key": "EP04_S0020_0161",
+      "value": "I’m sure there must be a path through the\nforest that leads in that direction."
+    },
+    {
+      "key": "EP04_S0020_0162",
+      "value": "Right. So we just gotta get through the\n<color=#B41919>forest</color>. I’ll take point. You guys stay close."
+    },
+    {
+      "key": "EP04_S0020_0163",
+      "value": "I’ll stay in front of you to protect you,\nShuuji."
+    },
+    {
+      "key": "EP04_S0020_0164",
+      "value": "Did I ask you to do that? No, you just tag\nalong and try not to slow us down."
+    },
+    {
+      "key": "EP04_S0020_0165",
+      "value": "Okay. Sorry."
+    },
+    {
+      "key": "EP04_S0020_0166",
+      "value": "*sigh*"
+    },
+    {
+      "key": "EP04_S0020_0167",
+      "value": "(What’s he sighing about?)"
+    },
+    {
+      "key": "EP04_S0020_0168",
+      "value": "(Actually, that reminds me. He was acting\nkind of weird yesterday.)"
+    },
+    {
+      "key": "EP04_S0020_0169",
+      "value": "Hey, Haru?"
+    },
+    {
+      "key": "EP04_S0020_0170",
+      "value": "What?"
+    },
+    {
+      "key": "EP04_S0020_0171",
+      "value": "About yesterday, uh... What happened exactly?"
+    },
+    {
+      "key": "EP04_S0020_0172",
+      "value": "(Miyuki’s always kind of strange, but\nsometimes Haru just seems...off.)"
+    },
+    {
+      "key": "EP04_S0020_0173",
+      "value": "(Like he’ll suddenly say something mature, or\nact like he’s seen through things.)"
+    },
+    {
+      "key": "EP04_S0020_0174",
+      "value": "I’m not really sure. Sorry."
+    },
+    {
+      "key": "EP04_S0020_0175",
+      "value": "Okay. Sorry if I bothered you."
+    },
+    {
+      "key": "EP04_S0020_0176",
+      "value": "(Is he not aware of it himself?)"
+    },
+    {
+      "key": "EP04_S0020_0177",
+      "value": "Hey, Takuma, Haru, Miyuki! Hurry up or you’ll\nget left behind!"
+    },
+    {
+      "key": "EP04_S0020_0178",
+      "value": "Oh, yeah, wait up!"
+    },
+    {
+      "key": "EP04_S0020_0179",
+      "value": "Come on, you two. We need to hurry."
+    },
+    {
+      "key": "EP04_S0020_0180",
+      "value": "Miyuki, let’s go."
+    },
+    {
+      "key": "EP04_S0020_0181",
+      "value": "Go..."
+    }
+  ]
+}

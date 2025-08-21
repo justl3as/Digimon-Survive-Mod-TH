@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1130_0001",
+      "value": "Looks like another new corridor!"
+    },
+    {
+      "key": "EP04_S1130_0002",
+      "value": "All these hallways look so similar, I think\nI’m starting to get lost..."
+    },
+    {
+      "key": "EP04_S1130_0003",
+      "value": "Haha! Let’s hope this is the last one."
+    },
+    {
+      "key": "EP04_S1130_0004",
+      "value": "Now come on, we gotta find those little guys."
+    },
+    {
+      "key": "EP04_S1130_0005",
+      "value": "Phew... We made it back this far."
+    },
+    {
+      "key": "EP04_S1130_0006",
+      "value": "We’ll have to make sure we don’t get caught\nthis time!"
+    }
+  ]
+}

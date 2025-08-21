@@ -1,0 +1,716 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0091_0001",
+      "value": "*huff*...*huff*... We... We beat her..."
+    },
+    {
+      "key": "EP05_S0091_0002",
+      "value": "I... This can’t be happening..."
+    },
+    {
+      "key": "EP05_S0091_0003",
+      "value": "It wasn’t supposed to go this way! Argh, at\nany rate, I must regroup for now..."
+    },
+    {
+      "key": "EP05_S0091_0004",
+      "value": "I’ll remember this, you little brats!"
+    },
+    {
+      "key": "EP05_S0091_0005",
+      "value": "Yo, Shuuji!"
+    },
+    {
+      "key": "EP05_S0091_0006",
+      "value": "Shuuji!"
+    },
+    {
+      "key": "EP05_S0091_0007",
+      "value": "Wha’, what...? Ah, sorry... Ha ha, all the\nstrength has left my body..."
+    },
+    {
+      "key": "EP05_S0091_0008",
+      "value": "The tension’s gone.\nDon’t worry, just rest for now."
+    },
+    {
+      "key": "EP05_S0091_0009",
+      "value": "Shuujiii!"
+    },
+    {
+      "key": "EP05_S0091_0010",
+      "value": "Oh, Lopmon... Thank you. You really held your\nown out there."
+    },
+    {
+      "key": "EP05_S0091_0011",
+      "value": "Yeah...yeah! You too, Shuuji! Good job!"
+    },
+    {
+      "key": "EP05_S0091_0012",
+      "value": "Haha... I can’t tell you how happy I am to\nhave you say that..."
+    },
+    {
+      "key": "EP05_S0091_0013",
+      "value": "Aw jeez, what’s with the waterworks?\nLaaame."
+    },
+    {
+      "key": "EP05_S0091_0014",
+      "value": "Ah...Ryo..."
+    },
+    {
+      "key": "EP05_S0091_0015",
+      "value": "How’re you gonna be the leader if you ain’t\ngiving us your usual third degree, huh?"
+    },
+    {
+      "key": "EP05_S0091_0016",
+      "value": "Heh... You certainly have a mouth on you."
+    },
+    {
+      "key": "EP05_S0091_0017",
+      "value": "But I’ll set you straight...as the leader,\nI mean."
+    },
+    {
+      "key": "EP05_S0091_0018",
+      "value": "Heh heh, now look who grew a backbone!"
+    },
+    {
+      "key": "EP05_S0091_0019",
+      "value": "Wait, what? How can they argue with those\ngrins across their faces?"
+    },
+    {
+      "key": "EP05_S0091_0020",
+      "value": "It’s low-key creepy..."
+    },
+    {
+      "key": "EP05_S0091_0021",
+      "value": "Well hey, just...think of it as a male\nbonding moment, okay?"
+    },
+    {
+      "key": "EP05_S0091_0022",
+      "value": "Yep. That’s definitely it."
+    },
+    {
+      "key": "EP05_S0091_0023",
+      "value": "Huh? I don’t get you guys. So weird..."
+    },
+    {
+      "key": "EP05_S0091_0024",
+      "value": "Hey! Miu!"
+    },
+    {
+      "key": "EP05_S0091_0025",
+      "value": "Ahahaha!"
+    },
+    {
+      "key": "EP05_S0091_0026",
+      "value": "(This is great. Shuuji and Lopmon are safe,\nand even Ryo’s getting along with them now.)"
+    },
+    {
+      "key": "EP05_S0091_0027",
+      "value": "(No matter what the enemy throws at us, we\ncan overcome it together the way we are now.)"
+    },
+    {
+      "key": "EP05_S0091_0028",
+      "value": "(I believe this from the bottom of my heart.)"
+    },
+    {
+      "key": "EP05_S0091_0029",
+      "value": "Oh, hey, you guys! It’s the fog!"
+    },
+    {
+      "key": "EP05_S0091_0030",
+      "value": "What? No way!"
+    },
+    {
+      "key": "EP05_S0091_0031",
+      "value": "Damn, and we’re all ready to drop over here!"
+    },
+    {
+      "key": "EP05_S0091_Q1",
+      "value": "(Shoot! We have to tell everyone what to do!)"
+    },
+    {
+      "key": "EP05_S0091_Q1_A1",
+      "value": "Gather up, everyone!"
+    },
+    {
+      "key": "EP05_S0091_Q1_A2",
+      "value": "Hurry up and run away!"
+    },
+    {
+      "key": "EP05_S0091_Q1_A3",
+      "value": "Stay calm, guys!"
+    },
+    {
+      "key": "EP05_S0091_0033",
+      "value": "Gather up, everyone! As close as you can!"
+    },
+    {
+      "key": "EP05_S0091_0034",
+      "value": "But then it’ll just surround us, man!"
+    },
+    {
+      "key": "EP05_S0091_0035",
+      "value": "Oh no! The fog’s getting thicker and thicker!"
+    },
+    {
+      "key": "EP05_S0091_0037",
+      "value": "Hurry up and run away, everyone! Don’t let\nthe fog surround you!"
+    },
+    {
+      "key": "EP05_S0091_0038",
+      "value": "But Shuuji can’t move yet!"
+    },
+    {
+      "key": "EP05_S0091_0039",
+      "value": "And we’re already surrounded, anyway!"
+    },
+    {
+      "key": "EP05_S0091_0041",
+      "value": "Don’t panic, everyone! Let’s stay calm and\nassess the situation!"
+    },
+    {
+      "key": "EP05_S0091_0042",
+      "value": "Assess what?! It’s fog. FAST. FOG."
+    },
+    {
+      "key": "EP05_S0091_0043",
+      "value": "The stuff’s already surrounded us, anyway!"
+    },
+    {
+      "key": "EP05_S0091_0044",
+      "value": "Yo, this is bad! The fog’s getting thicker\nand thicker!"
+    },
+    {
+      "key": "EP05_S0091_0045",
+      "value": "Hyah! Stay away!"
+    },
+    {
+      "key": "EP05_S0091_0046",
+      "value": "Miu! ...Ugh, dammit!"
+    },
+    {
+      "key": "EP05_S0091_0047",
+      "value": "What... What should we do?"
+    },
+    {
+      "key": "EP05_S0091_0048",
+      "value": "(Is...this the end?)"
+    },
+    {
+      "key": "EP05_S0091_0049",
+      "value": "All of you! Over here!"
+    },
+    {
+      "key": "EP05_S0091_0050",
+      "value": "Wha’—Professor?!"
+    },
+    {
+      "key": "EP05_S0091_0051",
+      "value": "You’re alive!"
+    },
+    {
+      "key": "EP05_S0091_0052",
+      "value": "P-Professor... Thank goodness..."
+    },
+    {
+      "key": "EP05_S0091_0053",
+      "value": "Looks like I gave you all quite the fright.\nBut come, you must hurry!"
+    },
+    {
+      "key": "EP05_S0091_0054",
+      "value": "We must flee from here with all haste! I have\nmuch to tell you, but that comes after."
+    },
+    {
+      "key": "EP05_S0091_0055",
+      "value": "Let’s go, guys!"
+    },
+    {
+      "key": "EP05_S0091_0056",
+      "value": "This way, Takuma!"
+    },
+    {
+      "key": "EP05_S0091_0057",
+      "value": "(I grabbed Agumon’s hand, and we left the\nwaterway behind us.)"
+    },
+    {
+      "key": "EP05_S0091_0058",
+      "value": "(We were able to save Shuuji, but our\noriginal goal remains unfulfilled...)"
+    },
+    {
+      "key": "EP05_S0091_0059",
+      "value": "(Contacting someone who knows the truth of\nthis world, and how to return to ours.)"
+    },
+    {
+      "key": "EP05_S0091_0060",
+      "value": "(Who knows if we can do that once we push\npast this darkness?)"
+    },
+    {
+      "key": "EP05_S0091_0061",
+      "value": "(Spurred on by the courage I received from\nAgumon’s hand, I ran toward the light.)"
+    },
+    {
+      "key": "EP05_S0091_0062",
+      "value": "...We did it."
+    },
+    {
+      "key": "EP05_S0091_0063",
+      "value": "Yeah...it’s over. Do you think we saved them?"
+    },
+    {
+      "key": "EP05_S0091_0064",
+      "value": "I’m sure we saved them..."
+    },
+    {
+      "key": "EP05_S0091_0065",
+      "value": "(But did we really...? In the end, all we did\nwas attack Lopmon...)"
+    },
+    {
+      "key": "EP05_S0091_0066",
+      "value": "Well... They could still be okay. First, we\nshould check on Lopmon and—"
+    },
+    {
+      "key": "EP05_S0091_0067",
+      "value": "Look! That fog is back!"
+    },
+    {
+      "key": "EP05_S0091_0068",
+      "value": "Whoa, now it’s getting thicker and thicker!"
+    },
+    {
+      "key": "EP05_S0091_0069",
+      "value": "Um, hey... Don’t you think this fog is\nstrange..?"
+    },
+    {
+      "key": "EP05_S0091_0070",
+      "value": "Strange...?"
+    },
+    {
+      "key": "EP05_S0091_0071",
+      "value": "(The fog’s surrounding us, but it’s not\ngetting any closer.)"
+    },
+    {
+      "key": "EP05_S0091_0072",
+      "value": "(Wait, that’s not it...)"
+    },
+    {
+      "key": "EP05_S0091_0073",
+      "value": "It’s...swallowing Lopmon!"
+    },
+    {
+      "key": "EP05_S0091_0074",
+      "value": "Yeep! I’m scared..."
+    },
+    {
+      "key": "EP05_S0091_0075",
+      "value": "What’s going on? It can pick and choose what\nit goes after? It’s like it’s alive..."
+    },
+    {
+      "key": "EP05_S0091_0076",
+      "value": "Ah, hey, wait! Give Shuuji back, dammit!"
+    },
+    {
+      "key": "EP05_S0091_0077",
+      "value": "Hold on, idiot, you can’t do anything now!\nYou’ll just get caught up in it! Get away!"
+    },
+    {
+      "key": "EP05_S0091_0078",
+      "value": "No way... This can’t be true!"
+    },
+    {
+      "key": "EP05_S0091_0079",
+      "value": "Ahhh ha ha ha ha! Truly a sight to behold!"
+    },
+    {
+      "key": "EP05_S0091_0080",
+      "value": "Watching a heart break into pieces is\nabsolutely amazing."
+    },
+    {
+      "key": "EP05_S0091_0081",
+      "value": "You! You did this, didn’t you?!"
+    },
+    {
+      "key": "EP05_S0091_0082",
+      "value": "Why yes indeedy. A wonderful show, wasn’t it?"
+    },
+    {
+      "key": "EP05_S0091_0083",
+      "value": "Give Shuuji and Lopmon back, you eight-legged\nsack of shit!!!"
+    },
+    {
+      "key": "EP05_S0091_0084",
+      "value": "I’m afraid that’s quite impossible. Still,\nyou have to feel a little bad for Lopmon, no?"
+    },
+    {
+      "key": "EP05_S0091_0085",
+      "value": "Things wouldn’t have ended for him this way\nif he’d never gotten involved with humans."
+    },
+    {
+      "key": "EP05_S0091_0086",
+      "value": "This is all your doing! The time for talk is\nover! We’ll crush you!"
+    },
+    {
+      "key": "EP05_S0091_0087",
+      "value": "I could play with you, if you’d like... But\nno, perhaps I’ll call it a day instead."
+    },
+    {
+      "key": "EP05_S0091_0088",
+      "value": "Don’t you dare run! ...Dammit, she’s gone."
+    },
+    {
+      "key": "EP05_S0091_0089",
+      "value": "...Is this real?"
+    },
+    {
+      "key": "EP05_S0091_0090",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP05_S0091_0091",
+      "value": "Shuuji, Lopmon..."
+    },
+    {
+      "key": "EP05_S0091_0092",
+      "value": "I don’t believe this... Hey, what the heck is\ngoing on, here?!"
+    },
+    {
+      "key": "EP05_S0091_0093",
+      "value": "Calm down. Just calm down, okay?!"
+    },
+    {
+      "key": "EP05_S0091_0094",
+      "value": "How can I calm down?! What is this?! Where’s\nLopmon?! Where’s SHUUJI?!"
+    },
+    {
+      "key": "EP05_S0091_0095",
+      "value": "You saw it, didn’t you? You saw what happened\nto them!"
+    },
+    {
+      "key": "EP05_S0091_0096",
+      "value": "This can’t be... This can’t be happening..."
+    },
+    {
+      "key": "EP05_S0091_0097",
+      "value": "Is this the type of thing you were talking\nabout before?"
+    },
+    {
+      "key": "EP05_S0091_0098",
+      "value": "No way I thought things would go this far..."
+    },
+    {
+      "key": "EP05_S0091_0099",
+      "value": "...Dammit!"
+    },
+    {
+      "key": "EP05_S0091_0100",
+      "value": "The signs were there that this could happen.\nAnd yet...we couldn’t do anything!"
+    },
+    {
+      "key": "EP05_S0091_0101",
+      "value": "You said there would be no more sacrifices,\nbut you were the next one, Shuuji!"
+    },
+    {
+      "key": "EP05_S0091_0102",
+      "value": "Oh, Shuuji..."
+    },
+    {
+      "key": "EP05_S0091_0103",
+      "value": "Hold it together, Aoi! You can’t fall apart\nhere, it’s too dangerous!"
+    },
+    {
+      "key": "EP05_S0091_0104",
+      "value": "Thanks..."
+    },
+    {
+      "key": "EP05_S0091_0105",
+      "value": "Shuuji couldn’t trust Lopmon, could he?\nThat’s just so sad..."
+    },
+    {
+      "key": "EP05_S0091_0106",
+      "value": "Still, he said he’d become the sacrifice,\ndidn’t he?"
+    },
+    {
+      "key": "EP05_S0091_0107",
+      "value": "In the end, Shuuji was desperately trying to\nprotect us..."
+    },
+    {
+      "key": "EP05_S0091_0108",
+      "value": "(Yeah. We never saw eye-to-eye, but Shuuji\nwas doing his best, in his own way.)"
+    },
+    {
+      "key": "EP05_S0091_0109",
+      "value": "(Always looking for the least dangerous\nmethods in order to keep us all safe.)"
+    },
+    {
+      "key": "EP05_S0091_0110",
+      "value": "(He always took the lead in our searches and\ntried to guide us.)"
+    },
+    {
+      "key": "EP05_S0091_0111",
+      "value": "(Even his frustrating way of talking to us\nwas just to keep us strong.)"
+    },
+    {
+      "key": "EP05_S0091_0112",
+      "value": "(Even though things turned out this way...\nWe should always remember that.)"
+    },
+    {
+      "key": "EP05_S0091_Q2",
+      "value": "(We should never forget...)"
+    },
+    {
+      "key": "EP05_S0091_Q2_A1",
+      "value": "...that Shuuji worried about us."
+    },
+    {
+      "key": "EP05_S0091_Q2_A2",
+      "value": "...that Shuuji guided us."
+    },
+    {
+      "key": "EP05_S0091_Q2_A3",
+      "value": "...the reason Shuuji kept nagging us."
+    },
+    {
+      "key": "EP05_S0091_0114",
+      "value": "Shuuji always worried about our safety."
+    },
+    {
+      "key": "EP05_S0091_0115",
+      "value": "We should never forget that."
+    },
+    {
+      "key": "EP05_S0091_0117",
+      "value": "Shuuji always lead the way, guiding us."
+    },
+    {
+      "key": "EP05_S0091_0118",
+      "value": "We should never forget that."
+    },
+    {
+      "key": "EP05_S0091_0120",
+      "value": "Shuuji’s tendency to nag was his way of\ntrying to keep us all strong."
+    },
+    {
+      "key": "EP05_S0091_0121",
+      "value": "We can’t lose heart in times like this."
+    },
+    {
+      "key": "EP05_S0091_0122",
+      "value": "We may have pushed Shuuji into a corner\nwithout even realizing it..."
+    },
+    {
+      "key": "EP05_S0091_0123",
+      "value": "Relying on him just because he’s older...\nForcing such a difficult role on him..."
+    },
+    {
+      "key": "EP05_S0091_0124",
+      "value": "This wouldn’t have happened if we’d worked as\na group... If we’d stuck together."
+    },
+    {
+      "key": "EP05_S0091_0125",
+      "value": "You’re beating yourself up too much, Aoi.\nYou’ll exhaust yourself again."
+    },
+    {
+      "key": "EP05_S0091_0126",
+      "value": "...Yeah, you’re right."
+    },
+    {
+      "key": "EP05_S0091_0127",
+      "value": "Ack, hey you guys! The fog’s coming this way!"
+    },
+    {
+      "key": "EP05_S0091_0128",
+      "value": "What? No way!"
+    },
+    {
+      "key": "EP05_S0091_0129",
+      "value": "We’re its next targets?!"
+    },
+    {
+      "key": "EP05_S0091_0130",
+      "value": "Gather up, everyone! As close as you can!"
+    },
+    {
+      "key": "EP05_S0091_0131",
+      "value": "(Damn, now of all times?)"
+    },
+    {
+      "key": "EP05_S0091_0132",
+      "value": "(We don’t even have time to mourn?!)"
+    },
+    {
+      "key": "EP05_S0091_0133",
+      "value": "Yo, this is bad! The fog’s getting thicker\nand thicker!"
+    },
+    {
+      "key": "EP05_S0091_0134",
+      "value": "Hyah! Stay away!"
+    },
+    {
+      "key": "EP05_S0091_0135",
+      "value": "Miu! ...Ugh, dammit!"
+    },
+    {
+      "key": "EP05_S0091_0136",
+      "value": "What... What should we do?"
+    },
+    {
+      "key": "EP05_S0091_0137",
+      "value": "(Is...this the end?)"
+    },
+    {
+      "key": "EP05_S0091_0138",
+      "value": "All of you! Over here!"
+    },
+    {
+      "key": "EP05_S0091_0139",
+      "value": "Wha’—Professor?!"
+    },
+    {
+      "key": "EP05_S0091_0140",
+      "value": "You’re alive!"
+    },
+    {
+      "key": "EP05_S0091_0141",
+      "value": "P-Professor... Thank goodness..."
+    },
+    {
+      "key": "EP05_S0091_0142",
+      "value": "Looks like I gave you all quite the fright.\nBut come, you must hurry!"
+    },
+    {
+      "key": "EP05_S0091_0143",
+      "value": "We must flee from here with all haste! I have\nmuch to tell you, but that comes after."
+    },
+    {
+      "key": "EP05_S0091_0144",
+      "value": "Let’s go, guys!"
+    },
+    {
+      "key": "EP05_S0091_0145",
+      "value": "Are, are you okay, Takuma?"
+    },
+    {
+      "key": "EP05_S0091_0146",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP05_S0091_0147",
+      "value": "(I honestly don’t know how to respond...)"
+    },
+    {
+      "key": "EP05_S0091_0148",
+      "value": "(What should I have said? What was\nI thinking?)"
+    },
+    {
+      "key": "EP05_S0091_0149",
+      "value": "(Shuuji’s odd behavior, his snapping, then\nhis death.)"
+    },
+    {
+      "key": "EP05_S0091_0150",
+      "value": "(Lopmon’s bizarre evolution...and the\nenemy’s goals, which we still don’t know.)"
+    },
+    {
+      "key": "EP05_S0091_0151",
+      "value": "(With all these problems piling on, all we\ncould do was run...)"
+    },
+    {
+      "key": "EP05_S0091_0152",
+      "value": "What should we do, Takuma? I...I’m so scared!"
+    },
+    {
+      "key": "EP05_S0091_0153",
+      "value": "It’s gonna be okay, Aoi. Me, Labramon, we’re\nall here with you."
+    },
+    {
+      "key": "EP05_S0091_0154",
+      "value": "Yeah, you’re right... I’m sorry. Now’s not\nthe time to lose heart."
+    },
+    {
+      "key": "EP05_S0091_0155",
+      "value": "Those with weak hearts will be swallowed\nright up!"
+    },
+    {
+      "key": "EP05_S0091_0156",
+      "value": "Hey, are you okay, Takuma?"
+    },
+    {
+      "key": "EP05_S0091_0157",
+      "value": "Yeah... Yeah, I think so. For now, anyway."
+    },
+    {
+      "key": "EP05_S0091_0158",
+      "value": "Since the oldest one of us is gone and all..."
+    },
+    {
+      "key": "EP05_S0091_0159",
+      "value": "You’ll have to be the next leader. Everyone\nseems to look up to you."
+    },
+    {
+      "key": "EP05_S0091_0160",
+      "value": "I’m surprised at how much I’ve come to rely\non you myself. Just...don’t overdo it, okay?"
+    },
+    {
+      "key": "EP05_S0091_0161",
+      "value": "Are you all right, Saki?"
+    },
+    {
+      "key": "EP05_S0091_0162",
+      "value": "Umm...well... It’s just so awful, you know?\nWhy did things turn out this way?"
+    },
+    {
+      "key": "EP05_S0091_0163",
+      "value": "Try to keep it together. We’ve gotta stay\ncalm and focused."
+    },
+    {
+      "key": "EP05_S0091_0164",
+      "value": "...Yeah, you’re right. Thanks. Um, Takuma..."
+    },
+    {
+      "key": "EP05_S0091_0165",
+      "value": "You...aren’t gonna disappear too, are you?\nPlease... Please don’t..."
+    },
+    {
+      "key": "EP05_S0091_0166",
+      "value": "The little guys are so nice... Why couldn’t\nShuuji trust them?"
+    },
+    {
+      "key": "EP05_S0091_0167",
+      "value": "Other creatures just kept on attacking. The\nfear of that caused him to jump at shadows."
+    },
+    {
+      "key": "EP05_S0091_0168",
+      "value": "I’ve had some scary things happen here, too.\nI don’t think this is a world of joy anymore."
+    },
+    {
+      "key": "EP05_S0091_0169",
+      "value": "But I think the ones around us are pretty\ntrustworthy, myself..."
+    },
+    {
+      "key": "EP05_S0091_0170",
+      "value": "Hold on to that feeling, Miu."
+    },
+    {
+      "key": "EP05_S0091_0171",
+      "value": "Don’t worry! I believe in Syakomon, after\nall!"
+    },
+    {
+      "key": "EP05_S0091_0172",
+      "value": "Things have gotten pretty nuts, haven’t they?"
+    },
+    {
+      "key": "EP05_S0091_0173",
+      "value": "Yeah... I never thought things would turn out\nthis way."
+    },
+    {
+      "key": "EP05_S0091_0174",
+      "value": "I don’t want to say it, but...\nSorry, I’m pretty freaked out."
+    },
+    {
+      "key": "EP05_S0091_0175",
+      "value": "The only reason I’m not bouncing off the\nwalls is you, Takuma."
+    },
+    {
+      "key": "EP05_S0091_0176",
+      "value": "...Thanks, man. Thanks for being here."
+    }
+  ]
+}

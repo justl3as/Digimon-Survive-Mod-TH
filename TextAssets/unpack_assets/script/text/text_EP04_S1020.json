@@ -1,0 +1,260 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1020_0001",
+      "value": "Man, I feel like we’ve been walking forever,\nand still we’re not at the amusement park."
+    },
+    {
+      "key": "EP04_S1020_0002",
+      "value": "It looked a lot closer from up on that tower\nyesterday."
+    },
+    {
+      "key": "EP04_S1020_0003",
+      "value": "Yeah, are we sure this is even the right way?"
+    },
+    {
+      "key": "EP04_S1020_0004",
+      "value": "You think I don’t know where I’m going?"
+    },
+    {
+      "key": "EP04_S1020_0005",
+      "value": "Hey, I’m not blaming you."
+    },
+    {
+      "key": "EP04_S1020_0006",
+      "value": "I’m just saying, we could’ve gotten lost."
+    },
+    {
+      "key": "EP04_S1020_0007",
+      "value": "It is difficult to maintain your sense of\ndirection in the forest."
+    },
+    {
+      "key": "EP04_S1020_0008",
+      "value": "Um...do you want me to see if there’s another\nway?"
+    },
+    {
+      "key": "EP04_S1020_0009",
+      "value": "If you try it and get lost we’ll be in twice\nas much trouble!"
+    },
+    {
+      "key": "EP04_S1020_0010",
+      "value": "Oh... Yeah."
+    },
+    {
+      "key": "EP04_S1020_0011",
+      "value": "Phew... This is too much. I’m really starting\nto get tired."
+    },
+    {
+      "key": "EP04_S1020_0012",
+      "value": "Saki, are you all right?"
+    },
+    {
+      "key": "EP04_S1020_0013",
+      "value": "Should we stop to rest?"
+    },
+    {
+      "key": "EP04_S1020_0014",
+      "value": "We don’t got time to rest! We gotta keep\nmovin’."
+    },
+    {
+      "key": "EP04_S1020_0015",
+      "value": "Yeah. The sun will set before we’re out of\nthe forest at this rate."
+    },
+    {
+      "key": "EP04_S1020_0016",
+      "value": "Sorry, my sister and I can’t walk very fast."
+    },
+    {
+      "key": "EP04_S1020_0017",
+      "value": "Sorry..."
+    },
+    {
+      "key": "EP04_S1020_0018",
+      "value": "It’s not your fault. I think we’re all a bit\ntired."
+    },
+    {
+      "key": "EP04_S1020_0019",
+      "value": "You can say that again! Kaito, Dracmon, try\nto be more considerate!"
+    },
+    {
+      "key": "EP04_S1020_0020",
+      "value": "Sorry."
+    },
+    {
+      "key": "EP04_S1020_0021",
+      "value": "Well, we gotta keep moving, don’t we?"
+    },
+    {
+      "key": "EP04_S1020_0022",
+      "value": "Takuma, are you sure we should keep going\nlike this?"
+    },
+    {
+      "key": "EP04_S1020_0023",
+      "value": "Actually, I’m starting to get a little\nworried about that myself."
+    },
+    {
+      "key": "EP04_S1020_0024",
+      "value": "(Should we keep on like this, or try to find\nanother way?)"
+    },
+    {
+      "key": "EP04_S1020_0025",
+      "value": "(Or do we just turn back?)"
+    },
+    {
+      "key": "EP04_S1020_Q1",
+      "value": "(What should I suggest?)"
+    },
+    {
+      "key": "EP04_S1020_Q1_A1",
+      "value": "Press on like this."
+    },
+    {
+      "key": "EP04_S1020_Q1_A2",
+      "value": "Turn back here."
+    },
+    {
+      "key": "EP04_S1020_Q1_A3",
+      "value": "Find another way."
+    },
+    {
+      "key": "EP04_S1020_0026",
+      "value": "Press on."
+    },
+    {
+      "key": "EP04_S1020_0027",
+      "value": "Shuuji and Kaito are right, we should just\nkeep going."
+    },
+    {
+      "key": "EP04_S1020_0028",
+      "value": "Turning back now would be bad, and even\nif we took a break, we couldn’t really relax."
+    },
+    {
+      "key": "EP04_S1020_0029",
+      "value": "I mean, that’s true I guess."
+    },
+    {
+      "key": "EP04_S1020_0030",
+      "value": "But could you at least slow things down\na bit?"
+    },
+    {
+      "key": "EP04_S1020_0031",
+      "value": "Sure, we’ll try to be more considerate."
+    },
+    {
+      "key": "EP04_S1020_0032",
+      "value": "Turn back."
+    },
+    {
+      "key": "EP04_S1020_0033",
+      "value": "Do you think maybe we should just turn back?"
+    },
+    {
+      "key": "EP04_S1020_0034",
+      "value": "No, I don’t think that’s an option."
+    },
+    {
+      "key": "EP04_S1020_0035",
+      "value": "Yeah, definitely not."
+    },
+    {
+      "key": "EP04_S1020_0036",
+      "value": "Takuma, why would you even suggest that?"
+    },
+    {
+      "key": "EP04_S1020_0037",
+      "value": "Seriously. What’s the point of turnin’ back?"
+    },
+    {
+      "key": "EP04_S1020_0038",
+      "value": "Right, I don’t think that would be\nreasonable."
+    },
+    {
+      "key": "EP04_S1020_0039",
+      "value": "(Oof, now they’re all glaring at me.)"
+    },
+    {
+      "key": "EP04_S1020_0040",
+      "value": "Sorry. Forget I said anything."
+    },
+    {
+      "key": "EP04_S1020_0041",
+      "value": "Find another way."
+    },
+    {
+      "key": "EP04_S1020_0042",
+      "value": "We could turn back and try to find another\nway."
+    },
+    {
+      "key": "EP04_S1020_0043",
+      "value": "No, I don’t think that’s a good idea."
+    },
+    {
+      "key": "EP04_S1020_0044",
+      "value": "If we start trying to go every which way,\nthat just makes us more likely to get lost."
+    },
+    {
+      "key": "EP04_S1020_0045",
+      "value": "But how are things better if we keep pressing\non and never get to the amusement park?"
+    },
+    {
+      "key": "EP04_S1020_0046",
+      "value": "Nah, we’re going the right way."
+    },
+    {
+      "key": "EP04_S1020_0047",
+      "value": "What makes you so sure?"
+    },
+    {
+      "key": "EP04_S1020_0048",
+      "value": "Instinct."
+    },
+    {
+      "key": "EP04_S1020_0049",
+      "value": "You know, I’m impressed you can say that with\na straight face."
+    },
+    {
+      "key": "EP04_S1020_0050",
+      "value": "Hey, standing around arguing like this is\nonly going to wear us out more."
+    },
+    {
+      "key": "EP04_S1020_0051",
+      "value": "We should keep moving, just at a slower pace."
+    },
+    {
+      "key": "EP04_S1020_0052",
+      "value": "Yeah, sure. Whatever you say, boss."
+    },
+    {
+      "key": "EP04_S1020_0053",
+      "value": "What’s got him so tense?"
+    },
+    {
+      "key": "EP04_S1020_0054",
+      "value": "He’s doin’ his best, okay? Just let it go."
+    },
+    {
+      "key": "EP04_S1020_0055",
+      "value": "Wow, Ryo. I never realized you were so\nmature."
+    },
+    {
+      "key": "EP04_S1020_0056",
+      "value": "That’s ’cause you’re just a total brat."
+    },
+    {
+      "key": "EP04_S1020_0057",
+      "value": "Come on, Minoru. Ryo has a point. We should\ntry not to antagonize Shuuji."
+    },
+    {
+      "key": "EP04_S1020_0058",
+      "value": "Yeah, yeah."
+    },
+    {
+      "key": "EP04_S1020_0059",
+      "value": "Whatever it is, he seems pretty irritated.\nTry not to antagonize him too much."
+    },
+    {
+      "key": "EP04_S1020_0060",
+      "value": "Yeah, yeah."
+    }
+  ]
+}

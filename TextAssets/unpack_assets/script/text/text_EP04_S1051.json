@@ -1,0 +1,288 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1051_0001",
+      "value": "Oh no! It’s you guys again!"
+    },
+    {
+      "key": "EP04_S1051_0002",
+      "value": "Took the words right outta my mouth."
+    },
+    {
+      "key": "EP04_S1051_0003",
+      "value": "Why’d we have to run into you three here?"
+    },
+    {
+      "key": "EP04_S1051_0004",
+      "value": "Shut up! You’re the ones who’ve been\nfollowing us!"
+    },
+    {
+      "key": "EP04_S1051_0005",
+      "value": "No, we really haven’t been—"
+    },
+    {
+      "key": "EP04_S1051_0006",
+      "value": "Well it ends now! We won’t allow you to go\nany further!"
+    },
+    {
+      "key": "EP04_S1051_0007",
+      "value": "So what are you gonna do?"
+    },
+    {
+      "key": "EP04_S1051_0008",
+      "value": "This time... This time we’re really going to\neliminate you like Her Majesty ordered!"
+    },
+    {
+      "key": "EP04_S1051_0009",
+      "value": "Not this routine again... So, what’s our\nmove?"
+    },
+    {
+      "key": "EP04_S1051_0010",
+      "value": "I don’t see what else we can do but—"
+    },
+    {
+      "key": "EP04_S1051_0011",
+      "value": "Don’t you dare! You promised you wouldn’t\nhurt them!"
+    },
+    {
+      "key": "EP04_S1051_0012",
+      "value": "Remember?"
+    },
+    {
+      "key": "EP04_S1051_0013",
+      "value": "(Oh, I remember. That means we can either try\nconvincing them again, which seems unlikely,)"
+    },
+    {
+      "key": "EP04_S1051_0014",
+      "value": "(or we can ignore them. Alternatively, maybe\nthey’d run off if we tried to scare them.)"
+    },
+    {
+      "key": "EP04_S1051_Q1",
+      "value": "(How should we deal with this?)"
+    },
+    {
+      "key": "EP04_S1051_Q1_A1",
+      "value": "Try to convince them."
+    },
+    {
+      "key": "EP04_S1051_Q1_A2",
+      "value": "Scare them off."
+    },
+    {
+      "key": "EP04_S1051_Q1_A3",
+      "value": "Ignore them."
+    },
+    {
+      "key": "EP04_S1051_0015",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1051_0016",
+      "value": "Let’s talk through this calmly one more time."
+    },
+    {
+      "key": "EP04_S1051_0017",
+      "value": "Like we said before, we don’t mean you any\nharm."
+    },
+    {
+      "key": "EP04_S1051_0018",
+      "value": "That’s right! We’re just looking for Kaito’s\nsister!"
+    },
+    {
+      "key": "EP04_S1051_0019",
+      "value": "Takuma, do you really think we can reason\nwith monsters?"
+    },
+    {
+      "key": "EP04_S1051_0020",
+      "value": "They’re not mindless beasts. I’m sure they’ll\nget it if we explain things carefully."
+    },
+    {
+      "key": "EP04_S1051_0021",
+      "value": "He’s right, Shuuji. If we can just talk\nthings out, it’ll be fine."
+    },
+    {
+      "key": "EP04_S1051_0022",
+      "value": "Exactly. So please, won’t you at least hear\nus out?"
+    },
+    {
+      "key": "EP04_S1051_0023",
+      "value": "No way! Not a chance! We’re not gonna listen\nto anything you say!"
+    },
+    {
+      "key": "EP04_S1051_0024",
+      "value": "What?! Why not?!"
+    },
+    {
+      "key": "EP04_S1051_0025",
+      "value": "Because then you might trick us with your\nlies! There’s only one thing for us to do!"
+    },
+    {
+      "key": "EP04_S1051_0026",
+      "value": "Retreat!"
+    },
+    {
+      "key": "EP04_S1051_0027",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1051_0028",
+      "value": "Okay guys, I say we risk trying to scare them\noff with a feint."
+    },
+    {
+      "key": "EP04_S1051_0029",
+      "value": "Yeah, I like the sound of that."
+    },
+    {
+      "key": "EP04_S1051_0030",
+      "value": "I’m actually pretty good at that sort of\nthing."
+    },
+    {
+      "key": "EP04_S1051_0031",
+      "value": "So long as it’s only a feint, I will assist\ntoo."
+    },
+    {
+      "key": "EP04_S1051_0032",
+      "value": "Great. So first we’ll do something to\ndistract them. Then—"
+    },
+    {
+      "key": "EP04_S1051_0033",
+      "value": "Hey! What are you plotting?!"
+    },
+    {
+      "key": "EP04_S1051_0034",
+      "value": "Oh, man! Check this out!"
+    },
+    {
+      "key": "EP04_S1051_0035",
+      "value": "Dude, that’s unreal! Is that what I think it\nis?"
+    },
+    {
+      "key": "EP04_S1051_0036",
+      "value": "Wh-what’s this now?"
+    },
+    {
+      "key": "EP04_S1051_0037",
+      "value": "Did they find some sort of treasure?"
+    },
+    {
+      "key": "EP04_S1051_0038",
+      "value": "T-treasure?! What kind of treasure? I wanna\nsee!"
+    },
+    {
+      "key": "EP04_S1051_0039",
+      "value": "Why don’t you come have a look, then?"
+    },
+    {
+      "key": "EP04_S1051_0040",
+      "value": "Seriously, you won’t believe it!"
+    },
+    {
+      "key": "EP04_S1051_0041",
+      "value": "Is...is it really that amazing? I guess it\nwouldn’t hurt to look..."
+    },
+    {
+      "key": "EP04_S1051_0042",
+      "value": "Dracmon! Falcomon! Now!"
+    },
+    {
+      "key": "EP04_S1051_0043",
+      "value": "Hm? Is...is something behind me?"
+    },
+    {
+      "key": "EP04_S1051_0044",
+      "value": "GRROOOAAARRR! I’m gonna eat you!"
+    },
+    {
+      "key": "EP04_S1051_0045",
+      "value": "All of you...prepare to die!"
+    },
+    {
+      "key": "EP04_S1051_0046",
+      "value": "Wah?! Yaaaaaaugh!!!"
+    },
+    {
+      "key": "EP04_S1051_0047",
+      "value": "Uwaaaaaahhh!"
+    },
+    {
+      "key": "EP04_S1051_0048",
+      "value": "Yeeeeeek!"
+    },
+    {
+      "key": "EP04_S1051_0049",
+      "value": "Hahaha! That’ll teach ya!"
+    },
+    {
+      "key": "EP04_S1051_0050",
+      "value": "Now flee! Run as fast as you can!"
+    },
+    {
+      "key": "EP04_S1051_0051",
+      "value": "Ohhh... How dare you sneak up behind us like\nthat! Villains! Cowards!"
+    },
+    {
+      "key": "EP04_S1051_0052",
+      "value": "I’ve had it with you! Patamon! Biyomon! Let’s\ntake them down!"
+    },
+    {
+      "key": "EP04_S1051_0053",
+      "value": "(Oh no! That completely backfired!)"
+    },
+    {
+      "key": "EP04_S1051_0054",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1051_0055",
+      "value": "I guess we’ll just have to ignore them."
+    },
+    {
+      "key": "EP04_S1051_0056",
+      "value": "Yeah, that seems like our best option."
+    },
+    {
+      "key": "EP04_S1051_0057",
+      "value": "If you say so."
+    },
+    {
+      "key": "EP04_S1051_0058",
+      "value": "Are you sure that’ll work? They won’t stop\nglaring at us."
+    },
+    {
+      "key": "EP04_S1051_0059",
+      "value": "So don’t look at them. If we just leave them\nalone—"
+    },
+    {
+      "key": "EP04_S1051_0060",
+      "value": "Turning your backs, eh?! Now you’re wide\nopen! Attack!!!"
+    },
+    {
+      "key": "EP04_S1051_0061",
+      "value": "Ow! Hey! Yeowch!"
+    },
+    {
+      "key": "EP04_S1051_0062",
+      "value": "Cut that out!"
+    },
+    {
+      "key": "EP04_S1051_0063",
+      "value": "How’d you like that?!"
+    },
+    {
+      "key": "EP04_S1051_0064",
+      "value": "Oh no, they look completely unfazed!"
+    },
+    {
+      "key": "EP04_S1051_0065",
+      "value": "Grr... We’ll get them next time! Pull back!\nRetreat!"
+    },
+    {
+      "key": "EP04_S1051_0066",
+      "value": "Takuma, are you all right?"
+    },
+    {
+      "key": "EP04_S1051_0067",
+      "value": "Haha, yeah, I’m totally fine."
+    }
+  ]
+}

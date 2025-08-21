@@ -1,0 +1,224 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S3102_0001",
+      "value": "..."
+    },
+    {
+      "key": "EP07_S3102_0002",
+      "value": "Aoi, did you find anything?"
+    },
+    {
+      "key": "EP07_S3102_0003",
+      "value": "Not at all. What should we do, Takuma?"
+    },
+    {
+      "key": "EP07_S3102_0004",
+      "value": "If they’re torturing Haru and Miyuki right\nat this very moment..."
+    },
+    {
+      "key": "EP07_S3102_0005",
+      "value": "(The anxiety is getting to her.)"
+    },
+    {
+      "key": "EP07_S3102_0006",
+      "value": "I understand your feelings of regret, but we\ncan’t give up now."
+    },
+    {
+      "key": "EP07_S3102_0007",
+      "value": "Stay calm. We just need to keep doing what we\ncan."
+    },
+    {
+      "key": "EP07_S3102_0008",
+      "value": "You’re right...\nRight."
+    },
+    {
+      "key": "EP07_S3102_0009",
+      "value": "(Uh oh... Is there a problem?)"
+    },
+    {
+      "key": "EP07_S3102_0010",
+      "value": "(Is she maybe overwhelmed with the anxiety?\nHas she forgotten what she needs to do next?)"
+    },
+    {
+      "key": "EP07_S3102_0011",
+      "value": "(If that’s it, it might be good to give her\nsome specific instructions.)"
+    },
+    {
+      "key": "EP07_S3102_0012",
+      "value": "(If she’s worried about Haru and Miyuki...)"
+    },
+    {
+      "key": "EP07_S3102_Q1",
+      "value": "(What should I tell Aoi to look for?)"
+    },
+    {
+      "key": "EP07_S3102_Q1_A1",
+      "value": "Traces of Renamon."
+    },
+    {
+      "key": "EP07_S3102_Q1_A2",
+      "value": "Traces of Piedmon."
+    },
+    {
+      "key": "EP07_S3102_Q1_A3",
+      "value": "Traces of Miyuki."
+    },
+    {
+      "key": "EP07_S3102_0013",
+      "value": "Traces of Renamon."
+    },
+    {
+      "key": "EP07_S3102_0014",
+      "value": "Look for traces of Renamon, Aoi."
+    },
+    {
+      "key": "EP07_S3102_0015",
+      "value": "For Renamon?"
+    },
+    {
+      "key": "EP07_S3102_0016",
+      "value": "Renamon is looking for Miyuki."
+    },
+    {
+      "key": "EP07_S3102_0017",
+      "value": "If we know what Renamon is up to, we can tell\nwhat we need to do next."
+    },
+    {
+      "key": "EP07_S3102_0018",
+      "value": "We can avoid searching for Miyuki and Piedmon\nwhere Renamon has already looked, right?"
+    },
+    {
+      "key": "EP07_S3102_0019",
+      "value": "True. And if we help Renamon, it could be\neasier to get Miyuki away from Piedmon."
+    },
+    {
+      "key": "EP07_S3102_0020",
+      "value": "Piedmon is powerful. We’re gonna need allies."
+    },
+    {
+      "key": "EP07_S3102_0021",
+      "value": "It might seem like a long shot, but I think\nthis approach is better."
+    },
+    {
+      "key": "EP07_S3102_0022",
+      "value": "Yeah...\nI think maybe the two of you are right."
+    },
+    {
+      "key": "EP07_S3102_0023",
+      "value": "Okay then, I’ll search for traces of Renamon."
+    },
+    {
+      "key": "EP07_S3102_0024",
+      "value": "Can you give me a hand, Labramon?\nYou might be able to sense Renamon, too."
+    },
+    {
+      "key": "EP07_S3102_0025",
+      "value": "I’m on it! I can’t just sit here!"
+    },
+    {
+      "key": "EP07_S3102_0026",
+      "value": "(Good... With something specific to do, Aoi\nseems to be feeling a little better.)"
+    },
+    {
+      "key": "EP07_S3102_0027",
+      "value": "Traces of Piedmon."
+    },
+    {
+      "key": "EP07_S3102_0028",
+      "value": "Hey, Aoi?\nCould you look for traces of Piedmon?"
+    },
+    {
+      "key": "EP07_S3102_0029",
+      "value": "Piedmon?"
+    },
+    {
+      "key": "EP07_S3102_0030",
+      "value": "We don’t know what Piedmon wants with Miyuki."
+    },
+    {
+      "key": "EP07_S3102_0031",
+      "value": "I’m sure Piedmon will try and get in our way\nif we make a move to get Miyuki back."
+    },
+    {
+      "key": "EP07_S3102_0032",
+      "value": "So I was thinking we should look for Piedmon.\nIf we can defeat him, we can save Miyuki."
+    },
+    {
+      "key": "EP07_S3102_0033",
+      "value": "You’re right. Okay."
+    },
+    {
+      "key": "EP07_S3102_0034",
+      "value": "Can I get your help, Labramon?\nI want you to search for traces of Piedmon."
+    },
+    {
+      "key": "EP07_S3102_0035",
+      "value": "Anything for you, Aoi.\nBut..."
+    },
+    {
+      "key": "EP07_S3102_0036",
+      "value": "Are you sure we only need to look for\nPiedmon?"
+    },
+    {
+      "key": "EP07_S3102_0037",
+      "value": "Labramon..."
+    },
+    {
+      "key": "EP07_S3102_0038",
+      "value": "(There still seems to be some anxiety. It’s\nbetter than seeing her confused, though.)"
+    },
+    {
+      "key": "EP07_S3102_0039",
+      "value": "Traces of Miyuki."
+    },
+    {
+      "key": "EP07_S3102_0040",
+      "value": "Aoi, I want you to concentrate on searching\nfor traces of Miyuki."
+    },
+    {
+      "key": "EP07_S3102_0041",
+      "value": "For Miyuki? Not Piedmon or Renamon?"
+    },
+    {
+      "key": "EP07_S3102_0042",
+      "value": "Yeah, I think we need to help Miyuki first.\nGoing home is important too, but..."
+    },
+    {
+      "key": "EP07_S3102_0043",
+      "value": "We couldn’t go back and leave Miyuki behind."
+    },
+    {
+      "key": "EP07_S3102_0044",
+      "value": "Yes... You’re right, Takuma, but..."
+    },
+    {
+      "key": "EP07_S3102_0045",
+      "value": "I’m not quite sure how to search for *human*\ntraces."
+    },
+    {
+      "key": "EP07_S3102_0046",
+      "value": "If we stick to it we should find something."
+    },
+    {
+      "key": "EP07_S3102_0047",
+      "value": "For example... She might cry out for help!"
+    },
+    {
+      "key": "EP07_S3102_0048",
+      "value": "(I have a hard time imagining that, but...)"
+    },
+    {
+      "key": "EP07_S3102_0049",
+      "value": "Regardless, let’s get down to it. Whatever we\ndo, stopping won’t help."
+    },
+    {
+      "key": "EP07_S3102_0050",
+      "value": "Got it!\nI’ll try to find her!"
+    },
+    {
+      "key": "EP07_S3102_0051",
+      "value": "I hope Miyuki and Haru are okay..."
+    }
+  ]
+}

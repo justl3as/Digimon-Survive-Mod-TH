@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1821_0001",
+      "value": "Hmm... I’m getting a weird feeling."
+    },
+    {
+      "key": "EP05_S1821_0002",
+      "value": "A weird feeling? Like there’s someone here?"
+    },
+    {
+      "key": "EP05_S1821_0003",
+      "value": "Yeah, but they don’t feel like a bad person.\nNot a good person either, though?"
+    },
+    {
+      "key": "EP05_S1821_0004",
+      "value": "That’s not very specific... Let’s just be\ncareful."
+    },
+    {
+      "key": "EP05_S1821_0005",
+      "value": "Yeah, no telling what they’ll do."
+    },
+    {
+      "key": "EP05_S1821_0006",
+      "value": "Careful, we don’t know where they are!"
+    }
+  ]
+}

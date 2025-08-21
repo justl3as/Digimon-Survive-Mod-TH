@@ -1,0 +1,52 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1204_0001",
+      "value": "Is there food here, Takuma?"
+    },
+    {
+      "key": "EP02_S1204_0002",
+      "value": "I don’t know..."
+    },
+    {
+      "key": "EP02_S1204_0003",
+      "value": "We made it this far but come to think of it,\nwhy would there be food in a gym?"
+    },
+    {
+      "key": "EP02_S1204_0004",
+      "value": "Is this food, Takuma?"
+    },
+    {
+      "key": "EP02_S1204_0005",
+      "value": "What? Where?"
+    },
+    {
+      "key": "EP02_S1204_0006",
+      "value": "No, that’s not food.\nBut it will be helpful."
+    },
+    {
+      "key": "EP02_S1204_0007",
+      "value": "Good job finding this, Agumon."
+    },
+    {
+      "key": "EP02_S1204_0008",
+      "value": "You’re very welcome!"
+    },
+    {
+      "key": "EP02_S1204_0009",
+      "value": "Takuma, nothing’s here."
+    },
+    {
+      "key": "EP02_S1204_0010",
+      "value": "Right...\nLet’s check somewhere else?"
+    },
+    {
+      "key": "EP02_S1204_0011",
+      "value": "Aye aye!"
+    },
+    {
+      "key": "EP02_S1204_0012",
+      "value": "There’s nothing here.\nLet’s check somewhere else."
+    }
+  ]
+}

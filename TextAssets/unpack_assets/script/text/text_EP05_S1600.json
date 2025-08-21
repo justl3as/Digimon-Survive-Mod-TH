@@ -1,0 +1,272 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1600_0001",
+      "value": "How ya doin’, Miyuki?"
+    },
+    {
+      "key": "EP05_S1600_0002",
+      "value": "..."
+    },
+    {
+      "key": "EP05_S1600_0003",
+      "value": "Is, is that a “good”? Or a “not so good”?\nI can’t tell!"
+    },
+    {
+      "key": "EP05_S1600_0004",
+      "value": "Miyuki seems to be upset about something."
+    },
+    {
+      "key": "EP05_S1600_0005",
+      "value": "You don’t need to worry about the two of us.\nWe’re used to this sort of thing."
+    },
+    {
+      "key": "EP05_S1600_0006",
+      "value": "Used to...?"
+    },
+    {
+      "key": "EP05_S1600_0007",
+      "value": "When the two of us are together, nothing can\nfaze us."
+    },
+    {
+      "key": "EP05_S1600_0008",
+      "value": "Don’t be like that. There’s no telling when\nenemies will show up here."
+    },
+    {
+      "key": "EP05_S1600_0009",
+      "value": "The girls will sleep here, and they’ll\nprotect you two, like we decided before."
+    },
+    {
+      "key": "EP05_S1600_0010",
+      "value": "Sure. Aoi, Saki and Miu came, so it’s fine."
+    },
+    {
+      "key": "EP05_S1600_0011",
+      "value": "It’s a little noisy, with all these people\naround..."
+    },
+    {
+      "key": "EP05_S1600_0012",
+      "value": "Noisy, he says... Are you guys not getting\nalong or something?"
+    },
+    {
+      "key": "EP05_S1600_0013",
+      "value": "Hmm... Same as usual, I guess."
+    },
+    {
+      "key": "EP05_S1600_0014",
+      "value": "Uh, okay... Is there anything about the setup\nyou don’t like, or that bothers you?"
+    },
+    {
+      "key": "EP05_S1600_0015",
+      "value": "Not really... Everyone helps Miyuki bathe and\nchange clothes, so it’s a big help."
+    },
+    {
+      "key": "EP05_S1600_0016",
+      "value": "Change clothes?!"
+    },
+    {
+      "key": "EP05_S1600_0017",
+      "value": "Right, right... Girls do that sorta thing\ntogether..."
+    },
+    {
+      "key": "EP05_S1600_0018",
+      "value": "(Oh! Wait, does that mean...?)"
+    },
+    {
+      "key": "EP05_S1600_0019",
+      "value": "So do you guys, like...all change here?\nTogether?"
+    },
+    {
+      "key": "EP05_S1600_0020",
+      "value": "Huh? Yeah, so?"
+    },
+    {
+      "key": "EP05_S1600_0021",
+      "value": "So?!"
+    },
+    {
+      "key": "EP05_S1600_Q1",
+      "value": "(Haru changes with the girls?!)"
+    },
+    {
+      "key": "EP05_S1600_Q1_A1",
+      "value": "That’s not cool!"
+    },
+    {
+      "key": "EP05_S1600_Q1_A2",
+      "value": "I’m jealous, Haru!"
+    },
+    {
+      "key": "EP05_S1600_Q1_A3",
+      "value": "Best not think about it."
+    },
+    {
+      "key": "EP05_S1600_0023",
+      "value": "That’s not cool!"
+    },
+    {
+      "key": "EP05_S1600_0024",
+      "value": "What’s not?"
+    },
+    {
+      "key": "EP05_S1600_0025",
+      "value": "You may be a kid, but you’re still a boy,\nHaru!"
+    },
+    {
+      "key": "EP05_S1600_0026",
+      "value": "Yeah? And?"
+    },
+    {
+      "key": "EP05_S1600_0027",
+      "value": "I mean, it’s just..."
+    },
+    {
+      "key": "EP05_S1600_0028",
+      "value": "(How do I even explain this?!)"
+    },
+    {
+      "key": "EP05_S1600_0029",
+      "value": "(You can’t watch girls changing, but how do\nI say that to a kid as clueless as this?)"
+    },
+    {
+      "key": "EP05_S1600_0030",
+      "value": "(Oh... Maybe he’s so clueless, it’s okay?)"
+    },
+    {
+      "key": "EP05_S1600_0031",
+      "value": "Ahaha, your expression’s all over the place\nTakuma!"
+    },
+    {
+      "key": "EP05_S1600_0032",
+      "value": "If I shouldn’t change with the girls, does\nthat mean I should I change with you guys?"
+    },
+    {
+      "key": "EP05_S1600_0033",
+      "value": "I’d have to bring Miyuki with me, of course."
+    },
+    {
+      "key": "EP05_S1600_0034",
+      "value": "Ah... That’d be even worse, so..."
+    },
+    {
+      "key": "EP05_S1600_0036",
+      "value": "I’m jealous, Haru!"
+    },
+    {
+      "key": "EP05_S1600_0037",
+      "value": "Of what?"
+    },
+    {
+      "key": "EP05_S1600_0038",
+      "value": "I mean, I can’t really say while Miyuki’s in\nearshot..."
+    },
+    {
+      "key": "EP05_S1600_0039",
+      "value": "At any rate, you’ve achieved every young\nboy’s dream!"
+    },
+    {
+      "key": "EP05_S1600_0040",
+      "value": "...What do you mean?"
+    },
+    {
+      "key": "EP05_S1600_0041",
+      "value": "I mean, I can’t really go into detail, but..."
+    },
+    {
+      "key": "EP05_S1600_0042",
+      "value": "You’ve got the gentle, pretty Aoi, and the\ncheerful, cute Saki, see."
+    },
+    {
+      "key": "EP05_S1600_0043",
+      "value": "And you, you know, get to...you know!"
+    },
+    {
+      "key": "EP05_S1600_0044",
+      "value": "Honestly, I’m super um, interested in that!"
+    },
+    {
+      "key": "EP05_S1600_0045",
+      "value": "I...have no clue what you’re talking about."
+    },
+    {
+      "key": "EP05_S1600_0046",
+      "value": "(Yeah, makes sense. I couldn’t explain what\nI’m trying to say, either.)"
+    },
+    {
+      "key": "EP05_S1600_0047",
+      "value": "(Miyuki’s gaze has gone kinda cold. That’s\ngotta be my fault...)"
+    },
+    {
+      "key": "EP05_S1600_0049",
+      "value": "(Ah, well... Best not think about it too\ndeeply.)"
+    },
+    {
+      "key": "EP05_S1600_0050",
+      "value": "(He’s just a little boy in the first place,\nI doubt he’ll get any pervy thoughts.)"
+    },
+    {
+      "key": "EP05_S1600_0051",
+      "value": "(Yeah, pervy thoughts. Y’know, like⁠—)"
+    },
+    {
+      "key": "EP05_S1600_0052",
+      "value": "Ah, no! Cold shower, cold shower!"
+    },
+    {
+      "key": "EP05_S1600_0053",
+      "value": "What?"
+    },
+    {
+      "key": "EP05_S1600_0054",
+      "value": "Uh... Sorry, no big deal. Maybe I’m getting\na bit ripe here, eh heh..."
+    },
+    {
+      "key": "EP05_S1600_0055",
+      "value": "(Yeah, I’ll just drop it. It’ll just be that\nmuch harder to face the girls otherwise...)"
+    },
+    {
+      "key": "EP05_S1600_0056",
+      "value": "Well, uh, if everything’s good then I’ll\nleave it at that."
+    },
+    {
+      "key": "EP05_S1600_0057",
+      "value": "I’m sure the problems will keep on coming,\nthough..."
+    },
+    {
+      "key": "EP05_S1600_0058",
+      "value": "Huh? You say something?"
+    },
+    {
+      "key": "EP05_S1600_0059",
+      "value": "No, nothing."
+    },
+    {
+      "key": "EP05_S1600_0060",
+      "value": "Miyuki and I are just fine. We’ll handle\nthings on our own, just like we always have."
+    },
+    {
+      "key": "EP05_S1600_0061",
+      "value": "So like I said, don’t worry about us.\n...We’re different from the rest of you."
+    },
+    {
+      "key": "EP05_S1600_0062",
+      "value": "Different, you say?"
+    },
+    {
+      "key": "EP05_S1600_0063",
+      "value": "It looks like my sister is sleepy, so I have\nto put her to bed. Bye, Takuma."
+    },
+    {
+      "key": "EP05_S1600_0064",
+      "value": "Oh, uh. Sure. Later."
+    },
+    {
+      "key": "EP05_S1600_0065",
+      "value": "(Different... I wonder how?\nWhat separates them from us?)"
+    },
+    {
+      "key": "EP05_S1600_0066",
+      "value": "Don’t worry about the two of us."
+    }
+  ]
+}

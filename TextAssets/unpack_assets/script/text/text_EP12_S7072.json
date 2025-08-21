@@ -1,0 +1,324 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S7072_0001",
+      "value": "Hurry! This way!"
+    },
+    {
+      "key": "EP12_S7072_0002",
+      "value": "Stop! I can’t run any more!"
+    },
+    {
+      "key": "EP12_S7072_0003",
+      "value": "Hold it right there, you filthy monster\nhandler!"
+    },
+    {
+      "key": "EP12_S7072_0004",
+      "value": "Ow! Hey! That hurts! Let me go!"
+    },
+    {
+      "key": "EP12_S7072_0005",
+      "value": "Hands off, you creep!"
+    },
+    {
+      "key": "EP12_S7072_0006",
+      "value": "Shut up, you damn monster!"
+    },
+    {
+      "key": "EP12_S7072_0007",
+      "value": "Argh!"
+    },
+    {
+      "key": "EP12_S7072_0008",
+      "value": "Stop! Don’t you hurt him!"
+    },
+    {
+      "key": "EP12_S7072_0009",
+      "value": "That’s my friend!"
+    },
+    {
+      "key": "EP12_S7072_0010",
+      "value": "Hmph! You should’ve just come quietly!\nDangerous elements must be isolated!"
+    },
+    {
+      "key": "EP12_S7072_0011",
+      "value": "No! Somebody, help me!"
+    },
+    {
+      "key": "EP12_S7072_0012",
+      "value": "Don’t try to resist!"
+    },
+    {
+      "key": "EP12_S7072_0013",
+      "value": "Stop! You’re hurting me!"
+    },
+    {
+      "key": "EP12_S7072_0014",
+      "value": "Shut up! I don’t know why we don’t just kill\nyou freaks."
+    },
+    {
+      "key": "EP12_S7072_0015",
+      "value": "Urgh...! If only I was stronger!"
+    },
+    {
+      "key": "EP12_S7072_0016",
+      "value": "You let go of that kid right now."
+    },
+    {
+      "key": "EP12_S7072_0017",
+      "value": "What?! Who are you?! Back off! I can have you\nall arrested for obstructing an officer!"
+    },
+    {
+      "key": "EP12_S7072_0018",
+      "value": "Looks like there’s no talking to this one,\nTakuma. Let’s get this over with."
+    },
+    {
+      "key": "EP12_S7072_0019",
+      "value": "*sigh*... Yeah, okay."
+    },
+    {
+      "key": "EP12_S7072_0020",
+      "value": "What are you babbling on ab—"
+    },
+    {
+      "key": "EP12_S7072_0021",
+      "value": "Rrk!"
+    },
+    {
+      "key": "EP12_S7072_0022",
+      "value": "That’s that!"
+    },
+    {
+      "key": "EP12_S7072_0023",
+      "value": "All right, let’s get this kid out of here."
+    },
+    {
+      "key": "EP12_S7072_0024",
+      "value": "Hold on, Takuma, I’m getting a call from the\nothers."
+    },
+    {
+      "key": "EP12_S7072_0025",
+      "value": "Heheheh. My info was spot on, wasn’t it?\nHow’d it go? Everything okay?"
+    },
+    {
+      "key": "EP12_S7072_0026",
+      "value": "Yeah, it went fine. We’re about to pull out."
+    },
+    {
+      "key": "EP12_S7072_0027",
+      "value": "You didn’t go too far again, did you, Kaito?"
+    },
+    {
+      "key": "EP12_S7072_0028",
+      "value": "Hey! I never go too far! I beat the guy up\nnice and gently."
+    },
+    {
+      "key": "EP12_S7072_0029",
+      "value": "You’re not supposed to beat people up at all!"
+    },
+    {
+      "key": "EP12_S7072_0030",
+      "value": "I wish you’d get over that temper of yours!"
+    },
+    {
+      "key": "EP12_S7072_0031",
+      "value": "Remember what the professor said? If you keep\ntaking risks, eventually you’ll pay—"
+    },
+    {
+      "key": "EP12_S7072_0032",
+      "value": "Yeah, sorry, but we’ve still gotta bring this\nkid in. Bye!"
+    },
+    {
+      "key": "EP12_S7072_0033",
+      "value": "Wait, Kaito—"
+    },
+    {
+      "key": "EP12_S7072_0034",
+      "value": "Phew... She never shuts up, it’s so annoying.\nWhere does she even get that from?"
+    },
+    {
+      "key": "EP12_S7072_0035",
+      "value": "Hahah... But she has gotten a lot more\nreliable."
+    },
+    {
+      "key": "EP12_S7072_0036",
+      "value": "Apparently she’s been in touch with the\nprofessor a lot lately, asking about things."
+    },
+    {
+      "key": "EP12_S7072_0037",
+      "value": "Yeah, that bugs me too."
+    },
+    {
+      "key": "EP12_S7072_0038",
+      "value": "I mean, sure, with the doorway open she can\ncall the professor up any time, but still."
+    },
+    {
+      "key": "EP12_S7072_0039",
+      "value": "He’s gotta be busy with his own stuff, right?\nWhy can’t she just talk to me..."
+    },
+    {
+      "key": "EP12_S7072_0040",
+      "value": "Um...who are you people?"
+    },
+    {
+      "key": "EP12_S7072_0041",
+      "value": "Oh, sorry to ignore you like that. Don’t\nworry. We’re here to help."
+    },
+    {
+      "key": "EP12_S7072_0042",
+      "value": "But..."
+    },
+    {
+      "key": "EP12_S7072_0043",
+      "value": "Here, does this explain things?"
+    },
+    {
+      "key": "EP12_S7072_0044",
+      "value": "Oh...!"
+    },
+    {
+      "key": "EP12_S7072_0045",
+      "value": "See? No need to worry!"
+    },
+    {
+      "key": "EP12_S7072_0046",
+      "value": "Kaito, let me take a crack at that bad guy\ntoo!"
+    },
+    {
+      "key": "EP12_S7072_0047",
+      "value": "No way! If we overdo it again, Miu will never\nlet me hear the end of it."
+    },
+    {
+      "key": "EP12_S7072_0048",
+      "value": "Are you...the same as us?"
+    },
+    {
+      "key": "EP12_S7072_0049",
+      "value": "Listen, I’m sure you must have been through\na lot, but don’t worry."
+    },
+    {
+      "key": "EP12_S7072_0050",
+      "value": "You’ve got lots of friends who are just like\nyou all over the world."
+    },
+    {
+      "key": "EP12_S7072_0051",
+      "value": "So keep those spirits up. Now, we’re going to\ntake you back to your mom and dad."
+    },
+    {
+      "key": "EP12_S7072_0052",
+      "value": "You can’t... Both my parents got taken away\nto the camp."
+    },
+    {
+      "key": "EP12_S7072_0053",
+      "value": "They did, huh?"
+    },
+    {
+      "key": "EP12_S7072_0054",
+      "value": "Well, would you like to get them back?"
+    },
+    {
+      "key": "EP12_S7072_0055",
+      "value": "I’d love to! Only I’m not strong enough..."
+    },
+    {
+      "key": "EP12_S7072_0056",
+      "value": "Well, if you come with us, we can teach you\nhow to be strong."
+    },
+    {
+      "key": "EP12_S7072_0057",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP12_S7072_0058",
+      "value": "That way you’ll definitely be able to save\nthem someday."
+    },
+    {
+      "key": "EP12_S7072_0059",
+      "value": "All right, take me with you! It’s okay if\nI bring my friend, right?"
+    },
+    {
+      "key": "EP12_S7072_0060",
+      "value": "Of course!"
+    },
+    {
+      "key": "EP12_S7072_0061",
+      "value": "We’ve got a lot to teach you."
+    },
+    {
+      "key": "EP12_S7072_0062",
+      "value": "Yeah, come on! You’re both with us now!"
+    },
+    {
+      "key": "EP12_S7072_0063",
+      "value": "(We’ve formed a group of people with partners\nto fight against oppressive governments.)"
+    },
+    {
+      "key": "EP12_S7072_0064",
+      "value": "(We also work to support confused kids who’ve\njust met their own partners.)"
+    },
+    {
+      "key": "EP12_S7072_0065",
+      "value": "(Because we never want anything like the\ntragedy we lived through to play out again.)"
+    },
+    {
+      "key": "EP12_S7072_0066",
+      "value": "(We don’t want anyone else to have to go\nthrough what Aoi did.)"
+    },
+    {
+      "key": "EP12_S7072_0067",
+      "value": "Takuma, we need to get moving. They’ll be\nonto us soon."
+    },
+    {
+      "key": "EP12_S7072_0068",
+      "value": "Right, let’s go."
+    },
+    {
+      "key": "EP12_S7072_0069",
+      "value": "(We’d returned to find the world in disarray.\nWho knows what lies ahead now?)"
+    },
+    {
+      "key": "EP12_S7072_0070",
+      "value": "(I know it’s not going to be easy to bring\norder back to all this chaos, but even so...)"
+    },
+    {
+      "key": "EP12_S7072_0071",
+      "value": "Hey, Kaito..."
+    },
+    {
+      "key": "EP12_S7072_0072",
+      "value": "What?"
+    },
+    {
+      "key": "EP12_S7072_0073",
+      "value": "Let’s try to build that ideal world Aoi\nwanted...where everyone can live in harmony."
+    },
+    {
+      "key": "EP12_S7072_0074",
+      "value": "Yeah, already on it."
+    },
+    {
+      "key": "EP12_S7072_0075",
+      "value": "She was only really mistaken in her methods.\nHer goal and her reasoning were sound."
+    },
+    {
+      "key": "EP12_S7072_0076",
+      "value": "So we gotta find our own way to make her\nideal world a reality."
+    },
+    {
+      "key": "EP12_S7072_0077",
+      "value": "Right!"
+    },
+    {
+      "key": "EP12_S7072_0078",
+      "value": "(That’s just one more reason why we’ve got to\nkeep fighting...)"
+    },
+    {
+      "key": "EP12_S7072_0079",
+      "value": "(...and believing that one day this long\nstruggle will come to an end.)"
+    },
+    {
+      "key": "EP12_S7072_0080",
+      "value": "(Until then, we will continue to look forward\nand hope, without ever giving in.)"
+    }
+  ]
+}

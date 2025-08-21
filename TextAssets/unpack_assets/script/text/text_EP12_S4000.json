@@ -1,0 +1,376 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S4000_0001",
+      "value": "Morning, everyone."
+    },
+    {
+      "key": "EP12_S4000_0002",
+      "value": "Morning, Takuma. You’re just in time for\nbreakfast."
+    },
+    {
+      "key": "EP12_S4000_0003",
+      "value": "Hey, Takuma. You manage to get some sleep?"
+    },
+    {
+      "key": "EP12_S4000_0004",
+      "value": "Yeah, I slept okay. It felt wrong, though."
+    },
+    {
+      "key": "EP12_S4000_0004_A",
+      "value": "Yeah, I slept okay. Still... I’m worried\nabout Kaito."
+    },
+    {
+      "key": "EP12_S4000_0005",
+      "value": "You know, going to bed when really we need to\nfind Kaito as soon as possible."
+    },
+    {
+      "key": "EP12_S4000_0006",
+      "value": "Believe me, I know the anxiety you’re feeling\nall too well, but we needed that rest."
+    },
+    {
+      "key": "EP12_S4000_0007",
+      "value": "If you fight someone and lose, you won’t win\na rematch without at least resting up first."
+    },
+    {
+      "key": "EP12_S4000_0008",
+      "value": "(Coming from Renamon, that means a lot. He\nmust want to save Miyuki more than anyone.)"
+    },
+    {
+      "key": "EP12_S4000_0009",
+      "value": "(But he kept his and cool and told us to rest,\nbetting on the chance that we’ll save her.)"
+    },
+    {
+      "key": "EP12_S4000_0010",
+      "value": "Besides, we had to explain what happened to\nJijimon and the others."
+    },
+    {
+      "key": "EP12_S4000_0011",
+      "value": "And I deeply appreciate your consideration.\nThank you for telling me everything."
+    },
+    {
+      "key": "EP12_S4000_0012",
+      "value": "What’s more, you needn’t worry about us.\nWe’ve merely traded one home for another."
+    },
+    {
+      "key": "EP12_S4000_0013",
+      "value": "I can look after the little ones and the weak\nas I did before Her Rowdiness arrived."
+    },
+    {
+      "key": "EP12_S4000_0014",
+      "value": "Jijimon..."
+    },
+    {
+      "key": "EP12_S4000_0015",
+      "value": "I must admit, when Her Rowdiness first came\nto us, I found her quite the little terror."
+    },
+    {
+      "key": "EP12_S4000_0016",
+      "value": "But now, when I think of Her Rowdiness, no,\nof our queen, I am filled with pride."
+    },
+    {
+      "key": "EP12_S4000_0017",
+      "value": "So for her sake, I truly hope that you are\nable to save her brother."
+    },
+    {
+      "key": "EP12_S4000_0018",
+      "value": "We will. No matter what."
+    },
+    {
+      "key": "EP12_S4000_0019",
+      "value": "Yes. As long as we refuse to give up, I’m\nsure we’ll find a way."
+    },
+    {
+      "key": "EP12_S4000_0020",
+      "value": "Anyway, now that that’s settled, why don’t we\nall have breakfast?"
+    },
+    {
+      "key": "EP12_S4000_0021",
+      "value": "Hm? Speaking of which, is it just me, or does\nthis look like a real feast?"
+    },
+    {
+      "key": "EP12_S4000_0022",
+      "value": "I worked hard to make this meal something\nspecial."
+    },
+    {
+      "key": "EP12_S4000_0023",
+      "value": "After all, this will be the last thing we eat\nhere."
+    },
+    {
+      "key": "EP12_S4000_0024",
+      "value": "(Oh, right... We’re about to go up against\nBoltboutamon and the Master.)"
+    },
+    {
+      "key": "EP12_S4000_0025",
+      "value": "(Once we’re done with this meal, we’ll\nprobably never come back here again.)"
+    },
+    {
+      "key": "EP12_S4000_0026",
+      "value": "I guess that means we don’t have to worry\nabout making this food last anymore..."
+    },
+    {
+      "key": "EP12_S4000_0027",
+      "value": "So I’m just gonna dig in! This looks great!"
+    },
+    {
+      "key": "EP12_S4000_0028",
+      "value": "Help yourself! Here, this is for you, Takuma."
+    },
+    {
+      "key": "EP12_S4000_0029",
+      "value": "Huh? Uh, thanks, but...isn’t this a little\nmuch?"
+    },
+    {
+      "key": "EP12_S4000_0030",
+      "value": "Since we don’t know what we’re in for, we\nneed to eat a lot to keep our strength up."
+    },
+    {
+      "key": "EP12_S4000_0031",
+      "value": "That’s right. Nobody’s gonna go easy on you\njust because you’re feeling hungry."
+    },
+    {
+      "key": "EP12_S4000_0032",
+      "value": "Honestly, I don’t know what we’d do without\nAoi and her cooking skills."
+    },
+    {
+      "key": "EP12_S4000_0033",
+      "value": "Yeah, we really lucked out that she’s such a\ngood cook. I’ve looked forward to every meal."
+    },
+    {
+      "key": "EP12_S4000_0034",
+      "value": "Oh, enough of that already. You should know,\nflattery will get you nowhere."
+    },
+    {
+      "key": "EP12_S4000_0035",
+      "value": "But will it get us seconds?"
+    },
+    {
+      "key": "EP12_S4000_0036",
+      "value": "Since this is our last meal here, I wanna try\neverything!"
+    },
+    {
+      "key": "EP12_S4000_0037",
+      "value": "(Everyone’s acting so bright and cheerful.)"
+    },
+    {
+      "key": "EP12_S4000_0038",
+      "value": "(They must be working hard to hide their fear\nand anxiety. That takes real strength.)"
+    },
+    {
+      "key": "EP12_S4000_0039",
+      "value": "(The least I can do is smile and eat my fill,\ntoo.)"
+    },
+    {
+      "key": "EP12_S4000_0040",
+      "value": "All right, let’s see how this turned out!"
+    },
+    {
+      "key": "EP12_S4000_0041",
+      "value": "Mm... This is great!"
+    },
+    {
+      "key": "EP12_S4000_0042",
+      "value": "Oh? Are you aiming for seconds too, Takuma?"
+    },
+    {
+      "key": "EP12_S4000_0043",
+      "value": "What?! No! I really think this is good!"
+    },
+    {
+      "key": "EP12_S4000_0044",
+      "value": "Heheh, I was just kidding. Thank you."
+    },
+    {
+      "key": "EP12_S4000_0045",
+      "value": "Well, I got some bad news for you, Takuma.\nI’m taking all the seconds!"
+    },
+    {
+      "key": "EP12_S4000_0046",
+      "value": "Hey, don’t worry. If you want them that\nbadly, you can have them."
+    },
+    {
+      "key": "EP12_S4000_0047",
+      "value": "Oh, Takuma, you’re too kind!"
+    },
+    {
+      "key": "EP12_S4000_0048",
+      "value": "No need to fight. I actually made more than\nwe needed, so Takuma can have seconds too."
+    },
+    {
+      "key": "EP12_S4000_0049",
+      "value": "You made...more than we needed?"
+    },
+    {
+      "key": "EP12_S4000_0050",
+      "value": "Yeah... I, uh, wasn’t really thinking about\nhow many portions I was making..."
+    },
+    {
+      "key": "EP12_S4000_0051",
+      "value": "(Oh... She must’ve made enough for Kaito\ntoo.)"
+    },
+    {
+      "key": "EP12_S4000_0052",
+      "value": "What do you think Kaito’s doing right now?"
+    },
+    {
+      "key": "EP12_S4000_0053",
+      "value": "Eating breakfast like us? Er, actually, never\nmind. That doesn’t seem likely."
+    },
+    {
+      "key": "EP12_S4000_0054",
+      "value": "After all, he wants to destroy this place."
+    },
+    {
+      "key": "EP12_S4000_0055",
+      "value": "But what I don’t get is, if he’s gonna beat\nthe Master for us, can’t we just let him?"
+    },
+    {
+      "key": "EP12_S4000_0056",
+      "value": "No. Even if he opposes the Master, that\ndoesn’t necessarily make him our ally."
+    },
+    {
+      "key": "EP12_S4000_0057",
+      "value": "Besides, nobody knows what will happen to\nthis world if the Master is defeated."
+    },
+    {
+      "key": "EP12_S4000_0058",
+      "value": "And the effect that may have on the real\nworld is even less certain."
+    },
+    {
+      "key": "EP12_S4000_0059",
+      "value": "Plus, Kaito was pretty clear about going\nafter Miyuki, too."
+    },
+    {
+      "key": "EP12_S4000_0060",
+      "value": "And while it pains me to even consider it, if\nshe were to die..."
+    },
+    {
+      "key": "EP12_S4000_0061",
+      "value": "We’d have no way back to our world. We’d be\nstuck here forever."
+    },
+    {
+      "key": "EP12_S4000_0062",
+      "value": "Besides, he aims to destroy everything, and\nI at least want to protect the little ones."
+    },
+    {
+      "key": "EP12_S4000_0063",
+      "value": "Yeah, I guess that won’t work. Man, what’s\nKaito even thinking?"
+    },
+    {
+      "key": "EP12_S4000_0064",
+      "value": "I mean... I can kind of see where he’s coming\nfrom."
+    },
+    {
+      "key": "EP12_S4000_0065",
+      "value": "Miu was everything to him. Losing her must\nhave filled him with anger and pain."
+    },
+    {
+      "key": "EP12_S4000_0066",
+      "value": "He probably can’t bear to see the world go on\nwithout her."
+    },
+    {
+      "key": "EP12_S4000_0067",
+      "value": "Still, that’s no reason to destroy the world."
+    },
+    {
+      "key": "EP12_S4000_0068",
+      "value": "And now that Miu’s gone, we’ll just have to\nstop her annoying older brother for her."
+    },
+    {
+      "key": "EP12_S4000_0069",
+      "value": "Yeah, pretty much. We’ll need to try that\nmuch harder for Miu’s sake."
+    },
+    {
+      "key": "EP12_S4000_0070",
+      "value": "Another reason for a hearty breakfast. Aoi,\nI think I’ll have seconds after all!"
+    },
+    {
+      "key": "EP12_S4000_0071",
+      "value": "Hey! Leave some for me too!"
+    },
+    {
+      "key": "EP12_S4000_0072",
+      "value": "Saki, this is the definition of first come,\nfirst served. You should know that by now."
+    },
+    {
+      "key": "EP12_S4000_0073",
+      "value": "What? Don’t you know eating too fast makes\nyou fat?"
+    },
+    {
+      "key": "EP12_S4000_0074",
+      "value": "Like I care! I’ll have some more too, Aoi!"
+    },
+    {
+      "key": "EP12_S4000_0075",
+      "value": "All right, but don’t eat too fast, okay?\nYou’ll choke."
+    },
+    {
+      "key": "EP12_S4000_0076",
+      "value": "(This may be the last time we get to do this.\nEat together, laugh together, any of it...)"
+    },
+    {
+      "key": "EP12_S4000_0077",
+      "value": "(That thought makes this moment, desperate as\nwe are to act normal, feel precious.)"
+    },
+    {
+      "key": "EP12_S4000_0078",
+      "value": "(I’d be lying if I said I wasn’t scared about\nthe fights ahead, but we can’t run anymore.)"
+    },
+    {
+      "key": "EP12_S4000_0079",
+      "value": "(All we can do right now is keep pushing\nforward.)"
+    },
+    {
+      "key": "EP12_S4000_0080",
+      "value": "Man, that was great!"
+    },
+    {
+      "key": "EP12_S4000_0081",
+      "value": "Minoru, you ate practically everything!"
+    },
+    {
+      "key": "EP12_S4000_0082",
+      "value": "What? You got a problem with that?!"
+    },
+    {
+      "key": "EP12_S4000_0083",
+      "value": "That really was good, Aoi. Thanks for\neverything you’ve done for us."
+    },
+    {
+      "key": "EP12_S4000_0084",
+      "value": "Oh, you don’t have to put it like that. This\nmay have been our last meal here..."
+    },
+    {
+      "key": "EP12_S4000_0085",
+      "value": "...but it’s not like we’ll never eat together\nagain. Let’s go forward with that mindset."
+    },
+    {
+      "key": "EP12_S4000_0086",
+      "value": "Right... Let’s do that."
+    },
+    {
+      "key": "EP12_S4000_0087",
+      "value": "(Having finished breakfast, we quickly got\nour things and met in front of the school.)"
+    },
+    {
+      "key": "EP12_S4000_0088",
+      "value": "(Then, without a word, we all lined up to bid\nfarewell to the run-down school building.)"
+    },
+    {
+      "key": "EP12_S4000_0089",
+      "value": "(We could see Jijimon and the others behind\nthe windows. This place is their home now.)"
+    },
+    {
+      "key": "EP12_S4000_0090",
+      "value": "(We all waved to them, then turned to go.)"
+    },
+    {
+      "key": "EP12_S4000_0091",
+      "value": "(We were headed for the shrine where Kaito,\nBoltboutamon, Miyuki and the Master waited.)"
+    },
+    {
+      "key": "EP12_S4000_0092",
+      "value": "(That was the start of our final day here,\nthe one that would see an end to everything.)"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1200_0101",
+      "value": "Oh, Takuma?"
+    },
+    {
+      "key": "EP02_S1200_0102",
+      "value": "How goes it, Aoi?\nFound anything edible?"
+    },
+    {
+      "key": "EP02_S1200_0103",
+      "value": "Not a thing. Useless."
+    },
+    {
+      "key": "EP02_S1200_0104",
+      "value": "If Aoi couldn’t find anything, then there’s\nnothing to be found!"
+    },
+    {
+      "key": "EP02_S1200_0105",
+      "value": "That’s funny logic, but okay..."
+    },
+    {
+      "key": "EP02_S1200_0106",
+      "value": "Let’s just keep looking."
+    },
+    {
+      "key": "EP02_S1200_0107",
+      "value": "You’re right.\nLet’s look elsewhere."
+    },
+    {
+      "key": "EP02_S1200_0108",
+      "value": "Let us know if you find something, Takuma."
+    },
+    {
+      "key": "EP02_S1200_Q1",
+      "value": "(If we find food, huh?)"
+    },
+    {
+      "key": "EP02_S1200_Q1_A1",
+      "value": "Sure, you got it."
+    },
+    {
+      "key": "EP02_S1200_Q1_A2",
+      "value": "Is there food here?"
+    },
+    {
+      "key": "EP02_S1200_0002",
+      "value": "Sure, you got it."
+    },
+    {
+      "key": "EP02_S1200_0003",
+      "value": "If I told Minoru first he’d just eat it all\nup."
+    },
+    {
+      "key": "EP02_S1200_0004",
+      "value": "I don’t believe Minoru would stoop so low."
+    },
+    {
+      "key": "EP02_S1200_0005",
+      "value": "...Probably not."
+    },
+    {
+      "key": "EP02_S1200_0006",
+      "value": "Oh, I bet he would!\nThat’s the kind of boy he is!"
+    },
+    {
+      "key": "EP02_S1200_0109",
+      "value": "Is there really any food here?\nThere’s probably just monsters..."
+    },
+    {
+      "key": "EP02_S1200_0110",
+      "value": "Well..."
+    },
+    {
+      "key": "EP02_S1200_0111",
+      "value": "You’re right. We don’t know for certain...\nBut we won’t know unless we look."
+    },
+    {
+      "key": "EP02_S1200_0112",
+      "value": "And I’d be worried if we did nothing."
+    },
+    {
+      "key": "EP02_S1200_0113",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP02_S1200_0114",
+      "value": "I’m sorry. You’re doing your best.\nI should shut up..."
+    },
+    {
+      "key": "EP02_S1200_0115",
+      "value": "It’s fine. Things always seem terrible when\nyou’re hungry."
+    },
+    {
+      "key": "EP02_S1200_0116",
+      "value": "You might be right..."
+    },
+    {
+      "key": "EP02_S1200_0007",
+      "value": "All the same, I think it’s best to leave the\nkitchen to you, Aoi."
+    },
+    {
+      "key": "EP02_S1200_0117",
+      "value": "I’ll have to live up to that!"
+    },
+    {
+      "key": "EP02_S1200_0201",
+      "value": "After we find some food, we’ll leave the\ncooking to you."
+    },
+    {
+      "key": "EP02_S1200_0202",
+      "value": "Right. I’ll try not to let you down."
+    },
+    {
+      "key": "EP02_S1200_0118",
+      "value": "Hey, the kitchen! That should be the first\nplace we check!"
+    },
+    {
+      "key": "EP02_S1200_0119",
+      "value": "I’ll go then, Takuma."
+    },
+    {
+      "key": "EP02_S1200_0120",
+      "value": "Let’s go, Labramon."
+    },
+    {
+      "key": "EP02_S1200_0121",
+      "value": "Okay!"
+    }
+  ]
+}

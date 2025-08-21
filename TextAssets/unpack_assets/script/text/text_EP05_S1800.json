@@ -1,0 +1,216 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1800_0001",
+      "value": "(Oh, it’s Agumon, Falcomon and Syakomon. All\nof them were playing here?)"
+    },
+    {
+      "key": "EP05_S1800_0002",
+      "value": "Welcome to the gang, Syakomon!"
+    },
+    {
+      "key": "EP05_S1800_0003",
+      "value": "Thanks, Agumon! And thanks to the rest of\nyou, too!"
+    },
+    {
+      "key": "EP05_S1800_0004",
+      "value": "Indeed, welcome to our ranks.\nDid you introduce yourself to the children?"
+    },
+    {
+      "key": "EP05_S1800_0005",
+      "value": "Sure did! They looked troubled, though.\nDid something happen?"
+    },
+    {
+      "key": "EP05_S1800_0006",
+      "value": "There’s a lot of unknowns, after all.\nEveryone’s a bit on edge."
+    },
+    {
+      "key": "EP05_S1800_0007",
+      "value": "I say things’re just fine as long as we’re\nhere!"
+    },
+    {
+      "key": "EP05_S1800_0008",
+      "value": "Right, I think so too! We can deal with\nanything that comes our way!"
+    },
+    {
+      "key": "EP05_S1800_0009",
+      "value": "If only the children would feel the same way,\nthings would certainly go more smoothly..."
+    },
+    {
+      "key": "EP05_S1800_0010",
+      "value": "We have to keep them all in good spirits!\nLet’s do our best!"
+    },
+    {
+      "key": "EP05_S1800_0011",
+      "value": "(I see, they’re thinking about our best\ninterests.)"
+    },
+    {
+      "key": "EP05_S1800_0012",
+      "value": "(I appreciate the thought. Still...to think\nthey have to keep us in good spirits.)"
+    },
+    {
+      "key": "EP05_S1800_0013",
+      "value": "(No, no, their consideration is important.\nShould I be adult about this?)"
+    },
+    {
+      "key": "EP05_S1800_0014",
+      "value": "(Hmm, still, it’s a little embarrassing to\ncome out and say thanks...)"
+    },
+    {
+      "key": "EP05_S1800_Q1",
+      "value": "(What should I do?)"
+    },
+    {
+      "key": "EP05_S1800_Q1_A1",
+      "value": "Thank them properly."
+    },
+    {
+      "key": "EP05_S1800_Q1_A2",
+      "value": "Speak my real feelings."
+    },
+    {
+      "key": "EP05_S1800_Q1_A3",
+      "value": "Beat around the bush."
+    },
+    {
+      "key": "EP05_S1800_0016",
+      "value": "There you three are."
+    },
+    {
+      "key": "EP05_S1800_0017",
+      "value": "Oh, Takuma!"
+    },
+    {
+      "key": "EP05_S1800_0018",
+      "value": "You were thinking of us, weren’t you? Thanks,\nI really appreciate it."
+    },
+    {
+      "key": "EP05_S1800_0019",
+      "value": "Eheheh, aww shucks!"
+    },
+    {
+      "key": "EP05_S1800_0020",
+      "value": "I’ll make sure to work just as hard for\neveryone’s sake!"
+    },
+    {
+      "key": "EP05_S1800_0021",
+      "value": "Yeah! Let’s do our best!"
+    },
+    {
+      "key": "EP05_S1800_0023",
+      "value": "There you three are."
+    },
+    {
+      "key": "EP05_S1800_0024",
+      "value": "Oh, it is you, Takuma."
+    },
+    {
+      "key": "EP05_S1800_0025",
+      "value": "I heard you guys talking, you know."
+    },
+    {
+      "key": "EP05_S1800_0026",
+      "value": "I appreciate you thinking of us, but right now\nthere’s not much you can do to cheer us up."
+    },
+    {
+      "key": "EP05_S1800_0027",
+      "value": "Hrrm... I see. This is not simply a matter of\nfeelings anymore."
+    },
+    {
+      "key": "EP05_S1800_0028",
+      "value": "Exactly. Oh, but of course I’m happy you all\nfeel that way!"
+    },
+    {
+      "key": "EP05_S1800_0029",
+      "value": "Well, we’ll deal with this problem on our\nown."
+    },
+    {
+      "key": "EP05_S1800_0030",
+      "value": "We’ll need you guys’ help in any fight, so\nback us up when the time comes."
+    },
+    {
+      "key": "EP05_S1800_0031",
+      "value": "Just the ones for the job, as it were. Very\nwell, we shall do our utmost when we must."
+    },
+    {
+      "key": "EP05_S1800_0033",
+      "value": "There you three are."
+    },
+    {
+      "key": "EP05_S1800_0034",
+      "value": "Oh, it’s Takuma."
+    },
+    {
+      "key": "EP05_S1800_0035",
+      "value": "Um, so... I overheard you guys talking. About\nkeeping us all in good spirits."
+    },
+    {
+      "key": "EP05_S1800_0036",
+      "value": "Yep, that’s right! We’ll get you guys to cheer\nup!"
+    },
+    {
+      "key": "EP05_S1800_0037",
+      "value": "Yeah... Well, cheering us up won’t take care\nof anything by itself."
+    },
+    {
+      "key": "EP05_S1800_0038",
+      "value": "Still, things have been so uncomfortable and\ngloomy, maybe some fun would be better..."
+    },
+    {
+      "key": "EP05_S1800_0039",
+      "value": "Hmm? I don’t know what you’re trying to say\nhere."
+    },
+    {
+      "key": "EP05_S1800_0040",
+      "value": "Um, so basically, putting aside whether it’ll\nactually take care of our problems..."
+    },
+    {
+      "key": "EP05_S1800_0041",
+      "value": "Let me just say...thank you."
+    },
+    {
+      "key": "EP05_S1800_0042",
+      "value": "Oh boy... Just give a straight thanks, why\ndon’t you. All that pointless mumbling."
+    },
+    {
+      "key": "EP05_S1800_0043",
+      "value": "Sure. I was trying to hide my embarrassment,\nbut that just made it even worse..."
+    },
+    {
+      "key": "EP05_S1800_0044",
+      "value": "Welp, I’m going to head back to the others."
+    },
+    {
+      "key": "EP05_S1800_0045",
+      "value": "Then I’ll go with you!"
+    },
+    {
+      "key": "EP05_S1800_0046",
+      "value": "Are those two going to be all right?"
+    },
+    {
+      "key": "EP05_S1800_0047",
+      "value": "Yeah! We’ll play again later!"
+    },
+    {
+      "key": "EP05_S1800_0048",
+      "value": "Gotcha. Okay, Agumon, let’s go!"
+    },
+    {
+      "key": "EP05_S1800_0049",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP05_S1800_0050",
+      "value": "Be sure to assist Takuma properly."
+    },
+    {
+      "key": "EP05_S1800_0051",
+      "value": "Don’t go smelling flowers on the way!"
+    },
+    {
+      "key": "EP05_S1800_0052",
+      "value": "Leave it to me!"
+    }
+  ]
+}

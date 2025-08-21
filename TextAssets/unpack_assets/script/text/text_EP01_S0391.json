@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0391_0001",
+      "value": "That’s weird, there’s no one here..."
+    },
+    {
+      "key": "EP01_S0391_0002",
+      "value": "Look, over here, Takuma!"
+    },
+    {
+      "key": "EP01_S0391_0003",
+      "value": "A restroom? Let’s check it out."
+    },
+    {
+      "key": "EP01_S0391_0004",
+      "value": "No one here... But this is the only place\nwhere that child could’ve gone."
+    },
+    {
+      "key": "EP01_S0391_0005",
+      "value": "Hey, this place is empty, Takuma."
+    },
+    {
+      "key": "EP01_S0391_0006",
+      "value": "Really?!"
+    },
+    {
+      "key": "EP01_S0391_0007",
+      "value": "Yeah, but I can feel something here."
+    },
+    {
+      "key": "EP01_S0391_0008",
+      "value": "(If Agumon senses something, I should <color=#B41919>take\na look around</color>!)"
+    }
+  ]
+}

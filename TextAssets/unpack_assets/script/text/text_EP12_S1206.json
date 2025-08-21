@@ -1,0 +1,692 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1206_0001",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0002",
+      "value": "Agumon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0003",
+      "value": "...You bet I do, Takuma!"
+    },
+    {
+      "key": "EP12_S1206_0004",
+      "value": "And thanks. I’m glad you don’t try and tell\nme to stop anymore."
+    },
+    {
+      "key": "EP12_S1206_0005",
+      "value": "It means you trust me!"
+    },
+    {
+      "key": "EP12_S1206_0006",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP12_S1206_0007",
+      "value": "I won’t lose! Not with your heart driving me\nforward. Not when you never give up!"
+    },
+    {
+      "key": "EP12_S1206_0008",
+      "value": "And that goes for everyone else too! Look\naround, Takuma! Look at all our friends!"
+    },
+    {
+      "key": "EP12_S1206_0009",
+      "value": "They’re fighting like true partners, trusting\neach other as if their hearts were one!"
+    },
+    {
+      "key": "EP12_S1206_0010",
+      "value": "Nobody is about to give up now!"
+    },
+    {
+      "key": "EP12_S1206_0011",
+      "value": "Agumon... You’re right. We wouldn’t be here\nwithout the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0012",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0013",
+      "value": "Greymon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0014",
+      "value": "...You bet I do! And one more thing."
+    },
+    {
+      "key": "EP12_S1206_0015",
+      "value": "Thanks, Takuma. Thanks for believing in me."
+    },
+    {
+      "key": "EP12_S1206_0016",
+      "value": "That alone makes me feel a hundred times\nstronger!"
+    },
+    {
+      "key": "EP12_S1206_0017",
+      "value": "Greymon..."
+    },
+    {
+      "key": "EP12_S1206_0018",
+      "value": "As long as you refuse to give up, I will keep\nfighting, keep looking for a way to win!"
+    },
+    {
+      "key": "EP12_S1206_0019",
+      "value": "Seems the others all feel that way too. Look\naround, Takuma! Take a look at our friends!"
+    },
+    {
+      "key": "EP12_S1206_0020",
+      "value": "They fight with their partners as one! They\nall believe in each other!"
+    },
+    {
+      "key": "EP12_S1206_0021",
+      "value": "It’s not just us. Nobody is thinking of\ndropping out of this fight."
+    },
+    {
+      "key": "EP12_S1206_0022",
+      "value": "Greymon... You’re right. We wouldn’t be here\nwithout the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0023",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0024",
+      "value": "Tyrannomon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0025",
+      "value": "I...I’m fine! I could keep this up all day!"
+    },
+    {
+      "key": "EP12_S1206_0026",
+      "value": "Listen, I’m not the smartest, so I don’t know\nhow to put this..."
+    },
+    {
+      "key": "EP12_S1206_0027",
+      "value": "But I’m real glad you believe in me!"
+    },
+    {
+      "key": "EP12_S1206_0028",
+      "value": "Tyrannomon..."
+    },
+    {
+      "key": "EP12_S1206_0029",
+      "value": "I will keep picking myself up and getting\nback in the fight for as long as you want!"
+    },
+    {
+      "key": "EP12_S1206_0030",
+      "value": "And it’s not just me. Look! I want you to see\nhow our friends are doing."
+    },
+    {
+      "key": "EP12_S1206_0031",
+      "value": "They all trust their partners. So no matter\nhow much it hurts, or how hard it gets..."
+    },
+    {
+      "key": "EP12_S1206_0032",
+      "value": "We’ll keep fighting to the end! We’ll do it\nfor our partners!"
+    },
+    {
+      "key": "EP12_S1206_0033",
+      "value": "Tyrannomon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0034",
+      "value": "Let’s do this, Tyrannomon!!!"
+    },
+    {
+      "key": "EP12_S1206_0035",
+      "value": "You got it!!!"
+    },
+    {
+      "key": "EP12_S1206_0036",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0037",
+      "value": "Tuskmon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0038",
+      "value": "...’Course I do! Why would you even ask?\nI’ll tell you one thing, though..."
+    },
+    {
+      "key": "EP12_S1206_0039",
+      "value": "I appreciate your not givin’ up on me."
+    },
+    {
+      "key": "EP12_S1206_0040",
+      "value": "Thanks to you, I can hang in there as long as\nit takes. I’m ready for this!"
+    },
+    {
+      "key": "EP12_S1206_0041",
+      "value": "Tuskmon..."
+    },
+    {
+      "key": "EP12_S1206_0042",
+      "value": "This is the big one, and you’re leaving him\nto me! I’d spit blood before I let you down!"
+    },
+    {
+      "key": "EP12_S1206_0043",
+      "value": "That goes for the others, too! Look around,\nTakuma! Look at all our friends!"
+    },
+    {
+      "key": "EP12_S1206_0044",
+      "value": "The reason they fight on despite their wounds\nis because their partners believe in them."
+    },
+    {
+      "key": "EP12_S1206_0045",
+      "value": "Nobody’s thinkin’ of dropping out of this\nfight!"
+    },
+    {
+      "key": "EP12_S1206_0046",
+      "value": "Tuskmon... You’re right. We wouldn’t be here\nwithout the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0047",
+      "value": "Grrrrrrr..."
+    },
+    {
+      "key": "EP12_S1206_0048",
+      "value": "SkullGreymon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0049",
+      "value": "...Grr... Graaah! Grrr..."
+    },
+    {
+      "key": "EP12_S1206_0050",
+      "value": "Oooh... Aaah... Thaaannnkkksss..."
+    },
+    {
+      "key": "EP12_S1206_0051",
+      "value": "Grrrrrrr..."
+    },
+    {
+      "key": "EP12_S1206_0052",
+      "value": "SkullGreymon..."
+    },
+    {
+      "key": "EP12_S1206_0053",
+      "value": "I’ll...win...for...you..."
+    },
+    {
+      "key": "EP12_S1206_0054",
+      "value": "We...all...feel...same..."
+    },
+    {
+      "key": "EP12_S1206_0055",
+      "value": "Believe...Takuma..."
+    },
+    {
+      "key": "EP12_S1206_0056",
+      "value": "We...all...fight..."
+    },
+    {
+      "key": "EP12_S1206_0057",
+      "value": "SkullGreymon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0058",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0059",
+      "value": "MetalGreymon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0060",
+      "value": "You bet!"
+    },
+    {
+      "key": "EP12_S1206_0061",
+      "value": "...And I’m sure you’re going to get worried,\nbut I want you to do something for me."
+    },
+    {
+      "key": "EP12_S1206_0062",
+      "value": "Believe in me, no matter what!"
+    },
+    {
+      "key": "EP12_S1206_0063",
+      "value": "MetalGreymon..."
+    },
+    {
+      "key": "EP12_S1206_0064",
+      "value": "I’ve decided to fight for you till the end.\nI’ll keep going as long as you don’t give up."
+    },
+    {
+      "key": "EP12_S1206_0065",
+      "value": "The others all feel the same way, I can tell.\nYou can see the determination in their eyes."
+    },
+    {
+      "key": "EP12_S1206_0066",
+      "value": "That’s proof of how much they trust their\npartners! They fully believe in each other!"
+    },
+    {
+      "key": "EP12_S1206_0067",
+      "value": "And we can’t afford to lose either, can we?"
+    },
+    {
+      "key": "EP12_S1206_0068",
+      "value": "MetalGreymon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0069",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0070",
+      "value": "Triceramon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0071",
+      "value": "...I could keep this up all day."
+    },
+    {
+      "key": "EP12_S1206_0072",
+      "value": "No, I shouldn’t mislead you. In truth, I’m\nnear my limit, but I will fight to the end."
+    },
+    {
+      "key": "EP12_S1206_0073",
+      "value": "As long as you keep believing in me."
+    },
+    {
+      "key": "EP12_S1206_0074",
+      "value": "Triceramon..."
+    },
+    {
+      "key": "EP12_S1206_0075",
+      "value": "Don’t sound so sad, Takuma. Right now, I just\nwant you to believe I can do this."
+    },
+    {
+      "key": "EP12_S1206_0076",
+      "value": "It’s not just me. Everyone else feels the\nsame way too."
+    },
+    {
+      "key": "EP12_S1206_0077",
+      "value": "As long as our partners believe in us,\nthere’s nothing we can’t do!!!"
+    },
+    {
+      "key": "EP12_S1206_0078",
+      "value": "I cannot afford to back down now. Not when\nthe others are counting on me!"
+    },
+    {
+      "key": "EP12_S1206_0079",
+      "value": "Triceramon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0080",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0081",
+      "value": "Megadramon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0082",
+      "value": "...What? I’m just getting warmed up."
+    },
+    {
+      "key": "EP12_S1206_0083",
+      "value": "You’re not actually worried, are you, Takuma?"
+    },
+    {
+      "key": "EP12_S1206_0084",
+      "value": "As long as you yearn for my victory, I can\nkeep going, keep fighting forever!"
+    },
+    {
+      "key": "EP12_S1206_0085",
+      "value": "Megadramon..."
+    },
+    {
+      "key": "EP12_S1206_0086",
+      "value": "So what if my flesh is rent or my claws\nbreak? I’ll fight as long as you wish to win!"
+    },
+    {
+      "key": "EP12_S1206_0087",
+      "value": "The others seem to feel the same way. Look,\nthey all fight with their humans as one."
+    },
+    {
+      "key": "EP12_S1206_0088",
+      "value": "We feel fear and pain just as humans do."
+    },
+    {
+      "key": "EP12_S1206_0089",
+      "value": "But you don’t see any of us asking to stop\nthe fight, do you?"
+    },
+    {
+      "key": "EP12_S1206_0090",
+      "value": "Megadramon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0091",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0092",
+      "value": "WarGreymon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0093",
+      "value": "Yeah! No problem!"
+    },
+    {
+      "key": "EP12_S1206_0094",
+      "value": "And I don’t want you taking your eyes off me\nduring this fight, Takuma."
+    },
+    {
+      "key": "EP12_S1206_0095",
+      "value": "Especially if you believe I can win it."
+    },
+    {
+      "key": "EP12_S1206_0096",
+      "value": "WarGreymon..."
+    },
+    {
+      "key": "EP12_S1206_0097",
+      "value": "I never look back. I simply trust that you\nwill be there behind me."
+    },
+    {
+      "key": "EP12_S1206_0098",
+      "value": "The others all seem to feel the same way too.\nLook around."
+    },
+    {
+      "key": "EP12_S1206_0099",
+      "value": "It’s because they trust in their partners\nthat they can fight on without flinching."
+    },
+    {
+      "key": "EP12_S1206_0100",
+      "value": "It’s not just me, and it’s not just you. We\nare all fighting this together."
+    },
+    {
+      "key": "EP12_S1206_0101",
+      "value": "WarGreymon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0102",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0103",
+      "value": "Dinorexmon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0104",
+      "value": "Yes, I am quite well."
+    },
+    {
+      "key": "EP12_S1206_0105",
+      "value": "...Thank you, Takuma. I appreciate that you\nrespect my show of strength."
+    },
+    {
+      "key": "EP12_S1206_0106",
+      "value": "Thank you for refusing to doubt my victory."
+    },
+    {
+      "key": "EP12_S1206_0107",
+      "value": "Dinorexmon..."
+    },
+    {
+      "key": "EP12_S1206_0108",
+      "value": "Fear not. I will not lose. So long as you\nstand firm, I too shall not falter."
+    },
+    {
+      "key": "EP12_S1206_0109",
+      "value": "The others all strive to respond to their\npartners’ wishes as well."
+    },
+    {
+      "key": "EP12_S1206_0110",
+      "value": "Doubtless they too will not fall."
+    },
+    {
+      "key": "EP12_S1206_0111",
+      "value": "Now, Takuma, let me continue on with the\nothers! Let us all win this together!"
+    },
+    {
+      "key": "EP12_S1206_0112",
+      "value": "Dinorexmon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0113",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0114",
+      "value": "Machinedramon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0115",
+      "value": "Indubitably! My combat abilities are far from\nexhausted."
+    },
+    {
+      "key": "EP12_S1206_0116",
+      "value": "...You need only believe, Takuma."
+    },
+    {
+      "key": "EP12_S1206_0117",
+      "value": "Believe that your choosing me was not a\nmistake."
+    },
+    {
+      "key": "EP12_S1206_0118",
+      "value": "Machinedramon..."
+    },
+    {
+      "key": "EP12_S1206_0119",
+      "value": "I trust that you believe in me."
+    },
+    {
+      "key": "EP12_S1206_0120",
+      "value": "Look, it’s the same for the others."
+    },
+    {
+      "key": "EP12_S1206_0121",
+      "value": "I fight on not so we can save the world, but\nbecause I have a partner who believes in me."
+    },
+    {
+      "key": "EP12_S1206_0122",
+      "value": "Yes, I fight because of what we went through\ntogether, because I believe in my friends!"
+    },
+    {
+      "key": "EP12_S1206_0123",
+      "value": "Machinedramon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0124",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0125",
+      "value": "Fanglongmon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0126",
+      "value": "So long as my bond with you remains unbroken,\nI will never be defeated!"
+    },
+    {
+      "key": "EP12_S1206_0127",
+      "value": "And allow me to express my gratitude to you.\nMy ties with that creature are strong."
+    },
+    {
+      "key": "EP12_S1206_0128",
+      "value": "Even so, you elected to have me fight here.\nThat shows how much faith you have in me."
+    },
+    {
+      "key": "EP12_S1206_0129",
+      "value": "Fanglongmon..."
+    },
+    {
+      "key": "EP12_S1206_0130",
+      "value": "As long as you do not give in, I will fight\nwith all I have."
+    },
+    {
+      "key": "EP12_S1206_0131",
+      "value": "And it is not only you and I. Our colleagues\nalso fight for those who believe in them."
+    },
+    {
+      "key": "EP12_S1206_0132",
+      "value": "Behold the valiant figures of our companions,\nfighting with their partners as one!"
+    },
+    {
+      "key": "EP12_S1206_0133",
+      "value": "Now, let me go on, Takuma! I must keep them\nsafe!"
+    },
+    {
+      "key": "EP12_S1206_0134",
+      "value": "Fanglongmon... You’re right. We wouldn’t be\nhere without the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0135",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP12_S1206_0136",
+      "value": "Omegamon! You got more in you?"
+    },
+    {
+      "key": "EP12_S1206_0137",
+      "value": "Yes, don’t worry about me!"
+    },
+    {
+      "key": "EP12_S1206_0138",
+      "value": "...And thank you, Takuma. I can feel what is\nin your heart as you stand behind me."
+    },
+    {
+      "key": "EP12_S1206_0139",
+      "value": "Please, keep believing in me!"
+    },
+    {
+      "key": "EP12_S1206_0140",
+      "value": "Omegamon..."
+    },
+    {
+      "key": "EP12_S1206_0141",
+      "value": "Though my raw strength may have faded, as\nlong as you believe in me, I will fight on!"
+    },
+    {
+      "key": "EP12_S1206_0142",
+      "value": "Heh... Seems the others would agree. Look\naround, Takuma! Look at all our friends!"
+    },
+    {
+      "key": "EP12_S1206_0143",
+      "value": "They all have faith in their partners! They\nbelieve in one another!"
+    },
+    {
+      "key": "EP12_S1206_0144",
+      "value": "Which of course goes for me as well, Takuma."
+    },
+    {
+      "key": "EP12_S1206_0145",
+      "value": "Omegamon... You’re right. We wouldn’t be here\nwithout the others to begin with."
+    },
+    {
+      "key": "EP12_S1206_0146",
+      "value": "Each of us helps the others keep going! So\nI’ll keep going too! No looking back!"
+    },
+    {
+      "key": "EP12_S1206_0147",
+      "value": "Let’s go, Agumon!"
+    },
+    {
+      "key": "EP12_S1206_0148",
+      "value": "I’m on it!"
+    },
+    {
+      "key": "EP12_S1206_0149",
+      "value": "Let’s go, Greymon!"
+    },
+    {
+      "key": "EP12_S1206_0150",
+      "value": "You got it!"
+    },
+    {
+      "key": "EP12_S1206_0151",
+      "value": "Let’s do this, Tyrannomon!!!"
+    },
+    {
+      "key": "EP12_S1206_0152",
+      "value": "I’m gonna do this!"
+    },
+    {
+      "key": "EP12_S1206_0153",
+      "value": "Let’s go, Tuskmon!"
+    },
+    {
+      "key": "EP12_S1206_0154",
+      "value": "All right!"
+    },
+    {
+      "key": "EP12_S1206_0155",
+      "value": "Let’s go, SkullGreymon!"
+    },
+    {
+      "key": "EP12_S1206_0156",
+      "value": "GRAAAAAAAAAAAAAAAAAAAAAAAAWR!!!"
+    },
+    {
+      "key": "EP12_S1206_0157",
+      "value": "Let’s go, MetalGreymon!"
+    },
+    {
+      "key": "EP12_S1206_0158",
+      "value": "Leave it to me!"
+    },
+    {
+      "key": "EP12_S1206_0159",
+      "value": "Let’s go, Triceramon!"
+    },
+    {
+      "key": "EP12_S1206_0160",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP12_S1206_0161",
+      "value": "Let’s go, Megadramon!"
+    },
+    {
+      "key": "EP12_S1206_0162",
+      "value": "You bet!"
+    },
+    {
+      "key": "EP12_S1206_0163",
+      "value": "Let’s go, WarGreymon!"
+    },
+    {
+      "key": "EP12_S1206_0164",
+      "value": "You got it!"
+    },
+    {
+      "key": "EP12_S1206_0165",
+      "value": "Let’s go, Dinorexmon!"
+    },
+    {
+      "key": "EP12_S1206_0166",
+      "value": "Absolutely!"
+    },
+    {
+      "key": "EP12_S1206_0167",
+      "value": "Let’s go, Machinedramon!"
+    },
+    {
+      "key": "EP12_S1206_0168",
+      "value": "I’m on it!"
+    },
+    {
+      "key": "EP12_S1206_0169",
+      "value": "Let’s go, Fanglongmon!"
+    },
+    {
+      "key": "EP12_S1206_0170",
+      "value": "Indeed!"
+    },
+    {
+      "key": "EP12_S1206_0171",
+      "value": "Let’s go, Omegamon!"
+    },
+    {
+      "key": "EP12_S1206_0172",
+      "value": "Leave it to me!"
+    }
+  ]
+}

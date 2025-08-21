@@ -1,0 +1,228 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0052_0001",
+      "value": "What is this place? I’ve never seen anything\nlike it before!"
+    },
+    {
+      "key": "EP04_S0052_0002",
+      "value": "It’s wonderful!"
+    },
+    {
+      "key": "EP04_S0052_0003",
+      "value": "You think so? It gives me the creeps, to be\nhonest."
+    },
+    {
+      "key": "EP04_S0052_0004",
+      "value": "Nobody’s here. There’s no sound from the\ncrowd."
+    },
+    {
+      "key": "EP04_S0052_0005",
+      "value": "Still, it is kind of exciting to be in an\namusement park."
+    },
+    {
+      "key": "EP04_S0052_0006",
+      "value": "You like amusement parks too, Saki?"
+    },
+    {
+      "key": "EP04_S0052_0007",
+      "value": "More like I’ve always liked the idea of\nthem..."
+    },
+    {
+      "key": "EP04_S0052_0008",
+      "value": "What’s that supposed to mean?"
+    },
+    {
+      "key": "EP04_S0052_0009",
+      "value": "Oh, uh, never mind! Forget I said that."
+    },
+    {
+      "key": "EP04_S0052_0010",
+      "value": "Isn’t this wild, though? It feels like we\nhave the whole place to ourselves."
+    },
+    {
+      "key": "EP04_S0052_0011",
+      "value": "I can almost imagine it as a special event,\nlike a magical night of mystery or something."
+    },
+    {
+      "key": "EP04_S0052_0012",
+      "value": "This is a pretty rare experience. And the\nrun-down parts only add to the charm!"
+    },
+    {
+      "key": "EP04_S0052_0013",
+      "value": "Yeah, I could see that..."
+    },
+    {
+      "key": "EP04_S0052_0014",
+      "value": "But I’m a little worried about you, Saki. Are\nyou sure you’re not overdoing it?"
+    },
+    {
+      "key": "EP04_S0052_0015",
+      "value": "Wh-why would you think that?"
+    },
+    {
+      "key": "EP04_S0052_0016",
+      "value": "(I mean, I’d think that would be obvious\nafter how exhausted she was earlier.)"
+    },
+    {
+      "key": "EP04_S0052_0017",
+      "value": "(But I wonder if she’d get mad at me if\nI said her enthusiasm was a little too much.)"
+    },
+    {
+      "key": "EP04_S0052_0018",
+      "value": "(She also seems kind of wistful...though\nmaybe I shouldn’t mention that either.)"
+    },
+    {
+      "key": "EP04_S0052_0019",
+      "value": "(Does that mean the smart thing to do is to\njust say I sort of got that impression?)"
+    },
+    {
+      "key": "EP04_S0052_Q1",
+      "value": "(What should I say to Saki?)"
+    },
+    {
+      "key": "EP04_S0052_Q1_A1",
+      "value": "You’re too excited."
+    },
+    {
+      "key": "EP04_S0052_Q1_A2",
+      "value": "You seem wistful."
+    },
+    {
+      "key": "EP04_S0052_Q1_A3",
+      "value": "No reason."
+    },
+    {
+      "key": "EP04_S0052_0020",
+      "value": ""
+    },
+    {
+      "key": "EP04_S0052_0021",
+      "value": "You seem a little overexcited is all. Like\nyou’re forcing yourself to be cheerful."
+    },
+    {
+      "key": "EP04_S0052_0022",
+      "value": "You think I’ve been acting weird, then?"
+    },
+    {
+      "key": "EP04_S0052_0023",
+      "value": "I don’t know if I’d go that far."
+    },
+    {
+      "key": "EP04_S0052_0024",
+      "value": "But if something’s bothering you, I’d be\nhappy to hear you out."
+    },
+    {
+      "key": "EP04_S0052_0025",
+      "value": "Heheh, you’re a real smooth operator, aren’t\nyou, Takuma?"
+    },
+    {
+      "key": "EP04_S0052_0026",
+      "value": "Huh? Wh-what makes you say that?!"
+    },
+    {
+      "key": "EP04_S0052_0027",
+      "value": "Oh, no reason!"
+    },
+    {
+      "key": "EP04_S0052_0028",
+      "value": "Anyway, don’t worry. It’s nothing you need to\nbe concerned about."
+    },
+    {
+      "key": "EP04_S0052_0029",
+      "value": ""
+    },
+    {
+      "key": "EP04_S0052_0030",
+      "value": "You’ve just had this wistful look in your\neyes for a while now, so I was concerned."
+    },
+    {
+      "key": "EP04_S0052_0031",
+      "value": "Oh my god!"
+    },
+    {
+      "key": "EP04_S0052_0032",
+      "value": "Takuma, have you fallen for me that badly?"
+    },
+    {
+      "key": "EP04_S0052_0033",
+      "value": "No! I didn’t mean it like that..."
+    },
+    {
+      "key": "EP04_S0052_0034",
+      "value": "Heheh, I know, I know. I was only kidding."
+    },
+    {
+      "key": "EP04_S0052_0035",
+      "value": "It’s just nice to be in an amusement park\nagain, that’s all."
+    },
+    {
+      "key": "EP04_S0052_0036",
+      "value": ""
+    },
+    {
+      "key": "EP04_S0052_0037",
+      "value": "Oh, no reason. I just kinda got that\nimpression."
+    },
+    {
+      "key": "EP04_S0052_0038",
+      "value": "You, uh... You did, huh?"
+    },
+    {
+      "key": "EP04_S0052_0039",
+      "value": "(Oh boy... Somehow I get the feeling\nI shouldn’t push this any further.)"
+    },
+    {
+      "key": "EP04_S0052_0040",
+      "value": "You know what? Forget it! I’m sure I just got\nthe wrong idea. Never mind!"
+    },
+    {
+      "key": "EP04_S0052_0041",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S0052_0042",
+      "value": "I mean, after everything we’ve been through\nsince we came to this world..."
+    },
+    {
+      "key": "EP04_S0052_0043",
+      "value": "...why wouldn’t you get excited about being\nin an amusement park?"
+    },
+    {
+      "key": "EP04_S0052_0044",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP04_S0052_0045",
+      "value": "You know, despite the situation we’re in, I’m\nkinda happy to be here too!"
+    },
+    {
+      "key": "EP04_S0052_0046",
+      "value": "Yeah, I think it’s the same for me."
+    },
+    {
+      "key": "EP04_S0052_0047",
+      "value": "And...thanks for not pushing me for more."
+    },
+    {
+      "key": "EP04_S0052_0048",
+      "value": "Hm? Did you say something?"
+    },
+    {
+      "key": "EP04_S0052_0049",
+      "value": "No, not a thing!"
+    },
+    {
+      "key": "EP04_S0052_0050",
+      "value": "But what are we doing? We should be looking\nfor clues to find Miu!"
+    },
+    {
+      "key": "EP04_S0052_0051",
+      "value": "Otherwise Kaito will definitely fly off the\nhandle again."
+    },
+    {
+      "key": "EP04_S0052_0052",
+      "value": "We need to find some clues to point us to Miu\nbefore Kaito flies off the handle again."
+    }
+  ]
+}

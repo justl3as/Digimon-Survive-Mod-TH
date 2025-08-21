@@ -1,0 +1,296 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0082_0001",
+      "value": "Professor! You’re safe!"
+    },
+    {
+      "key": "EP02_S0082_0002",
+      "value": "Yes! Same goes for you, I’m happy to see.\n...Well, not exactly “safe” yet!"
+    },
+    {
+      "key": "EP02_S0082_0003",
+      "value": "Wait right there! I’m here to save the day!"
+    },
+    {
+      "key": "EP02_S0082_0004",
+      "value": "Jeez, Minoru, since when did you grow a pair?"
+    },
+    {
+      "key": "EP02_S0082_0005",
+      "value": "More importantly, Saki, these are...?"
+    },
+    {
+      "key": "EP02_S0082_0006",
+      "value": "Can’t say for sure, but they saved us!"
+    },
+    {
+      "key": "EP02_S0082_0007",
+      "value": "That’s Floramon, and Lopmon!"
+    },
+    {
+      "key": "EP02_S0082_0008",
+      "value": "You know them?"
+    },
+    {
+      "key": "EP02_S0082_0009",
+      "value": "Nope, first time I’ve ever seen ’em!\nNice to meet you!"
+    },
+    {
+      "key": "EP02_S0082_0010",
+      "value": "Save the introductions for later!\nLet’s handle this first!"
+    },
+    {
+      "key": "EP02_S0082_0011",
+      "value": "Grrr...\nOh ho, more prey!"
+    },
+    {
+      "key": "EP02_S0082_0012",
+      "value": "Wait...it talked?!\nWhat the hell?!"
+    },
+    {
+      "key": "EP02_S0082_0013",
+      "value": "This is no time to just stand there staring!"
+    },
+    {
+      "key": "EP02_S0082_0014",
+      "value": "Huh? Ah, whoa!!!"
+    },
+    {
+      "key": "EP02_S0082_0015",
+      "value": "(Oh no, Saki fell down!)"
+    },
+    {
+      "key": "EP02_S0082_0016",
+      "value": "Owww... Hey, wait!!!"
+    },
+    {
+      "key": "EP02_S0082_0017",
+      "value": "(Hey, Shuuji! I can’t believe you left Saki\nbehind...)"
+    },
+    {
+      "key": "EP02_S0082_0018",
+      "value": "Uh oh—more creatures are swarming up behind\nus!"
+    },
+    {
+      "key": "EP02_S0082_0019",
+      "value": "Are those Fangmon’s henchmen? This is bad,\nthey’ll pin us in on both sides!"
+    },
+    {
+      "key": "EP02_S0082_0020",
+      "value": "We can handle these freaks!"
+    },
+    {
+      "key": "EP02_S0082_0021",
+      "value": "Right, leave them to us!"
+    },
+    {
+      "key": "EP02_S0082_0022",
+      "value": "Oh, Professor!"
+    },
+    {
+      "key": "EP02_S0082_0023",
+      "value": "What? You think you can save Saki alone?"
+    },
+    {
+      "key": "EP02_S0082_0024",
+      "value": "That’s crazy!"
+    },
+    {
+      "key": "EP02_S0082_0025",
+      "value": "Hmph..."
+    },
+    {
+      "key": "EP02_S0082_0026",
+      "value": "It’s okay, Saki! Here, I’ll help you up!"
+    },
+    {
+      "key": "EP02_S0082_0027",
+      "value": "Come, over here! We’ve got you, don’t worry."
+    },
+    {
+      "key": "EP02_S0082_0028",
+      "value": "Thank you..."
+    },
+    {
+      "key": "EP02_S0082_0029",
+      "value": "We’re rescued!"
+    },
+    {
+      "key": "EP02_S0082_0030",
+      "value": "Professor! Behind you!"
+    },
+    {
+      "key": "EP02_S0082_0031",
+      "value": "What the—?!"
+    },
+    {
+      "key": "EP02_S0082_0032",
+      "value": "“Don’t worry,” you say?\nNo, I think you should worry!"
+    },
+    {
+      "key": "EP02_S0082_0033",
+      "value": "Uwaaah!"
+    },
+    {
+      "key": "EP02_S0082_0034",
+      "value": "Right... At least let these kids...!"
+    },
+    {
+      "key": "EP02_S0082_0035",
+      "value": "Waaaaaaaaah!!!"
+    },
+    {
+      "key": "EP02_S0082_0036",
+      "value": "What? No way!"
+    },
+    {
+      "key": "EP02_S0082_0037",
+      "value": "Oh, ho? I was after that little one but my\nhand slipped. Hahaha!"
+    },
+    {
+      "key": "EP02_S0082_0038",
+      "value": "Seriously?\nHe fell..."
+    },
+    {
+      "key": "EP02_S0082_0039",
+      "value": "Ahhhh! He’s finished!!! Ah, hahahaaa!"
+    },
+    {
+      "key": "EP02_S0082_0040",
+      "value": "*huff* *huff*...!\nWhat happened?"
+    },
+    {
+      "key": "EP02_S0082_0041",
+      "value": "No... NOOOOOOOOO!!!"
+    },
+    {
+      "key": "EP02_S0082_0042",
+      "value": "(No way... The professor fell?)"
+    },
+    {
+      "key": "EP02_S0082_0043",
+      "value": "And now I’ll drop all of the rest of you,\ntoo. One after the other."
+    },
+    {
+      "key": "EP02_S0082_0044",
+      "value": "(Uh oh. I can’t think... My brain’s stopped!)"
+    },
+    {
+      "key": "EP02_S0082_Q1",
+      "value": "(Are we going to die?)"
+    },
+    {
+      "key": "EP02_S0082_Q1_A1",
+      "value": "Offer encouragement."
+    },
+    {
+      "key": "EP02_S0082_Q1_A2",
+      "value": "Shout."
+    },
+    {
+      "key": "EP02_S0082_Q1_A3",
+      "value": "Stand up."
+    },
+    {
+      "key": "EP02_S0082_0045",
+      "value": "Don’t give up!"
+    },
+    {
+      "key": "EP02_S0082_0046",
+      "value": "Takuma?"
+    },
+    {
+      "key": "EP02_S0082_0047",
+      "value": "Takuma...?"
+    },
+    {
+      "key": "EP02_S0082_0048",
+      "value": "We’ll die if we give up now! Get up if you\nwant to live! Lift your head!"
+    },
+    {
+      "key": "EP02_S0082_0201",
+      "value": "Fight!"
+    },
+    {
+      "key": "EP02_S0082_0049",
+      "value": "There’s no way..."
+    },
+    {
+      "key": "EP02_S0082_0050",
+      "value": "Aaaaaaaaaaaarrrrrrgh!!!"
+    },
+    {
+      "key": "EP02_S0082_0202",
+      "value": "Yeep!"
+    },
+    {
+      "key": "EP02_S0082_0051",
+      "value": "What happened?"
+    },
+    {
+      "key": "EP02_S0082_0052",
+      "value": "Yeeeaaaaaarghhh!"
+    },
+    {
+      "key": "EP02_S0082_0053",
+      "value": "That’s better!"
+    },
+    {
+      "key": "EP02_S0082_0054",
+      "value": "Hey! Lardbutt! I’m not scared of you!"
+    },
+    {
+      "key": "EP02_S0082_0203",
+      "value": "What was that?!"
+    },
+    {
+      "key": "EP02_S0082_0204",
+      "value": "(Perfect. Now that Fangmon’s focused on me,\nthe others will have a chance to recover.)"
+    },
+    {
+      "key": "EP02_S0082_0205",
+      "value": "Didn’t you hear me? I said you don’t scare me\nat all, lard-butt!"
+    },
+    {
+      "key": "EP02_S0082_0055",
+      "value": "You’re going down, and we’re gonna be the\nones walking away afterwards!"
+    },
+    {
+      "key": "EP02_S0082_0206",
+      "value": "Heheheh... You’re askin’ for it, kid! I’ll\njust have to smash you next!"
+    },
+    {
+      "key": "EP02_S0082_0207",
+      "value": "(The others are all back on their feet now.\nWe can do this!)"
+    },
+    {
+      "key": "EP02_S0082_0056",
+      "value": "(What’s happening? I’m terrified.\nI’m totally confused.)"
+    },
+    {
+      "key": "EP02_S0082_0057",
+      "value": "Hey, now... Are you stupid?\nYou just gonna go and get killed?"
+    },
+    {
+      "key": "EP02_S0082_0058",
+      "value": "(Why are my legs moving? I’m heading right\nfor the bad guy!)"
+    },
+    {
+      "key": "EP02_S0082_0059",
+      "value": "What’s wrong? You want to be the first one to\ndie?"
+    },
+    {
+      "key": "EP02_S0082_0060",
+      "value": "(Dying...isn’t in my plans!)"
+    },
+    {
+      "key": "EP02_S0082_0061",
+      "value": "Let’s go, Agumon!"
+    },
+    {
+      "key": "EP02_S0082_0062",
+      "value": "I’m on it!"
+    }
+  ]
+}

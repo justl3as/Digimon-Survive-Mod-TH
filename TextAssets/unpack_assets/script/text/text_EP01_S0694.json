@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0694_0101",
+      "value": "Come on, let’s hustle. The snow should be on\nus soon. Let’s get to the shrine."
+    },
+    {
+      "key": "EP01_S0694_0102",
+      "value": "Yeah, you’re right. Lead the way!"
+    },
+    {
+      "key": "EP01_S0694_0001",
+      "value": "They don’t seem to be anywhere around here.\nThe shrine must be further in..."
+    },
+    {
+      "key": "EP01_S0694_0002",
+      "value": "(The shrine must be just ahead. We should\nhead toward it for now.)"
+    }
+  ]
+}

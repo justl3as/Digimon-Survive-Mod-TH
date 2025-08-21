@@ -1,0 +1,560 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0092_0001",
+      "value": "Phew! So, this is where it comes out!"
+    },
+    {
+      "key": "EP04_S0092_0002",
+      "value": "Hurray! It’s so bright out here!"
+    },
+    {
+      "key": "EP04_S0092_0003",
+      "value": "It feels like ages since I last saw the sun."
+    },
+    {
+      "key": "EP04_S0092_0004",
+      "value": "Maybe it’s been longer since we got dumped\nunderground than we realized."
+    },
+    {
+      "key": "EP04_S0092_0005",
+      "value": "Miyuki, is it too bright?"
+    },
+    {
+      "key": "EP04_S0092_0006",
+      "value": "Bright..."
+    },
+    {
+      "key": "EP04_S0092_0007",
+      "value": "Hoho! I must say, it’s a little bright for me\nas well."
+    },
+    {
+      "key": "EP04_S0092_0008",
+      "value": "So, what’s our next move?"
+    },
+    {
+      "key": "EP04_S0092_0009",
+      "value": "We go back to Miu and get her to come with us."
+    },
+    {
+      "key": "EP04_S0092_0010",
+      "value": "Yes, that’s really our only option."
+    },
+    {
+      "key": "EP04_S0092_0011",
+      "value": "You think we’ll be able to with the way she’s\nbeen acting?"
+    },
+    {
+      "key": "EP04_S0092_0012",
+      "value": "She didn’t seem like she was interested in\nhearing any more from us."
+    },
+    {
+      "key": "EP04_S0092_0013",
+      "value": "Miu can be real stubborn when she makes up\nher mind. She isn’t going to want to listen."
+    },
+    {
+      "key": "EP04_S0092_0014",
+      "value": "But what else can we do?"
+    },
+    {
+      "key": "EP04_S0092_0015",
+      "value": "If only there was some way we could get her\nto listen..."
+    },
+    {
+      "key": "EP04_S0092_0016",
+      "value": "Hey, what if we won over Syakomon?"
+    },
+    {
+      "key": "EP04_S0092_0017",
+      "value": "Uh, you mean, got her on our side?"
+    },
+    {
+      "key": "EP04_S0092_0018",
+      "value": "Don’t you think that’ll be even harder?"
+    },
+    {
+      "key": "EP04_S0092_0019",
+      "value": "But remember how Syakomon tried to stop Miu\njust before she activated the trap?"
+    },
+    {
+      "key": "EP04_S0092_0020",
+      "value": "It could be worth a shot."
+    },
+    {
+      "key": "EP04_S0092_0021",
+      "value": "Well, I wish you the best of luck."
+    },
+    {
+      "key": "EP04_S0092_0022",
+      "value": "I believe I’d better return to the castle."
+    },
+    {
+      "key": "EP04_S0092_0023",
+      "value": "Wait, Jijimon!"
+    },
+    {
+      "key": "EP04_S0092_0024",
+      "value": "Yes?"
+    },
+    {
+      "key": "EP04_S0092_0025",
+      "value": "It, uh, sounds like you’ve been looking out\nfor Miu,"
+    },
+    {
+      "key": "EP04_S0092_0026",
+      "value": "and you helped guide us all the way here,\nso...thanks."
+    },
+    {
+      "key": "EP04_S0092_0027",
+      "value": "Oh, don’t mention it."
+    },
+    {
+      "key": "EP04_S0092_0028",
+      "value": "All right, everybody! Let’s go pay Miu\nanother visit!"
+    },
+    {
+      "key": "EP04_S0092_0029",
+      "value": "Takuma, wait!"
+    },
+    {
+      "key": "EP04_S0092_0030",
+      "value": "Aoi? What’s wrong?"
+    },
+    {
+      "key": "EP04_S0092_0031",
+      "value": "Yeah, seriously? You look surprised by\nsomething. What are you looking at...?"
+    },
+    {
+      "key": "EP04_S0092_0032",
+      "value": "Wait, what?! It’s those little guys..."
+    },
+    {
+      "key": "EP04_S0092_0033",
+      "value": "Uwaaah! Uwaaah!"
+    },
+    {
+      "key": "EP04_S0092_0034",
+      "value": "Help! I’m scared!"
+    },
+    {
+      "key": "EP04_S0092_0035",
+      "value": "The ones who said they were Miu’s servants?"
+    },
+    {
+      "key": "EP04_S0092_0036",
+      "value": "Hm? Well, if it isn’t Palmon and Patamon."
+    },
+    {
+      "key": "EP04_S0092_0037",
+      "value": "Have they been following us?!"
+    },
+    {
+      "key": "EP04_S0092_0038",
+      "value": "No...I don’t think so. Aren’t they acting weird?"
+    },
+    {
+      "key": "EP04_S0092_0039",
+      "value": "Yeah, they seem totally panicked."
+    },
+    {
+      "key": "EP04_S0092_0040",
+      "value": "Run away!"
+    },
+    {
+      "key": "EP04_S0092_0041",
+      "value": "Enemy attack!"
+    },
+    {
+      "key": "EP04_S0092_0042",
+      "value": "What? Hey, what’s going on?!"
+    },
+    {
+      "key": "EP04_S0092_0043",
+      "value": "Huh? Oh, it’s you! Well, we’ve got bigger\nthings to worry about right now!"
+    },
+    {
+      "key": "EP04_S0092_0044",
+      "value": "An even more dangerous group of enemies is\nhere!"
+    },
+    {
+      "key": "EP04_S0092_0045",
+      "value": "What?!"
+    },
+    {
+      "key": "EP04_S0092_0046",
+      "value": "Who is it? Who’s here?!"
+    },
+    {
+      "key": "EP04_S0092_0047",
+      "value": "The kidnappers! They’re after the queen!"
+    },
+    {
+      "key": "EP04_S0092_0048",
+      "value": "They came out of nowhere, surrounding the\npark and pouring in from every direction!"
+    },
+    {
+      "key": "EP04_S0092_0049",
+      "value": "We faced them down back by the throne, but\nthe queen’s servants were all done for!"
+    },
+    {
+      "key": "EP04_S0092_0050",
+      "value": "You think it’s them?!"
+    },
+    {
+      "key": "EP04_S0092_0051",
+      "value": "It certainly sounds like Arukenimon and her\nminions."
+    },
+    {
+      "key": "EP04_S0092_0052",
+      "value": "You’ve gotta be kidding me!"
+    },
+    {
+      "key": "EP04_S0092_0053",
+      "value": "Talk about bad timing!"
+    },
+    {
+      "key": "EP04_S0092_0054",
+      "value": "This can’t be happening... You mean we’ve got\nto go up against them again?"
+    },
+    {
+      "key": "EP04_S0092_0055",
+      "value": "You can’t be serious! This is such crap!"
+    },
+    {
+      "key": "EP04_S0092_0056",
+      "value": "D-d-don’t b-be so scared, Ryo!"
+    },
+    {
+      "key": "EP04_S0092_0057",
+      "value": "Why wouldn’t I be scared?! Arukenimon is\nseriously bad news!"
+    },
+    {
+      "key": "EP04_S0092_0058",
+      "value": "So they’re attacking in order to get to Miu?!"
+    },
+    {
+      "key": "EP04_S0092_0059",
+      "value": "Yes! They’re after the queen!"
+    },
+    {
+      "key": "EP04_S0092_0060",
+      "value": "But we shouldn’t be standing here talking\nlike this! We need to run away!"
+    },
+    {
+      "key": "EP04_S0092_0061",
+      "value": "Hey, wait!"
+    },
+    {
+      "key": "EP04_S0092_0062",
+      "value": "This is bad! Miu’s in danger! I have to go\nsave her!"
+    },
+    {
+      "key": "EP04_S0092_0063",
+      "value": "Wait! Are you just going to abandon those\npoor little things?"
+    },
+    {
+      "key": "EP04_S0092_0064",
+      "value": "Didn’t you hear? The kidnappers are after\nMiu!"
+    },
+    {
+      "key": "EP04_S0092_0065",
+      "value": "Yes. If they’re after the human child, Palmon\nand the others shouldn’t come to much harm."
+    },
+    {
+      "key": "EP04_S0092_0066",
+      "value": "Rushing to Her Rowdiness’s side may be for\nthe best."
+    },
+    {
+      "key": "EP04_S0092_0067",
+      "value": "B-but shouldn’t we at least come up with some\nkind of strategy?"
+    },
+    {
+      "key": "EP04_S0092_0068",
+      "value": "Ascertain the enemy’s number and position..."
+    },
+    {
+      "key": "EP04_S0092_0069",
+      "value": "Yeah, and didn’t they say Miu’s servants were\nall done for?"
+    },
+    {
+      "key": "EP04_S0092_0070",
+      "value": "They may already have her. In which case, we\nshould prioritize our own safety—"
+    },
+    {
+      "key": "EP04_S0092_0071",
+      "value": "We don’t have time to argue about this! Miu’s\nlife is on the line!"
+    },
+    {
+      "key": "EP04_S0092_0072",
+      "value": "(What now? This is the worst possible time\nfor us to be divided!)"
+    },
+    {
+      "key": "EP04_S0092_0073",
+      "value": "Come on, there’s no time! We have to go now!"
+    },
+    {
+      "key": "EP04_S0092_0074",
+      "value": "Takuma, what’s your take?"
+    },
+    {
+      "key": "EP04_S0092_0075",
+      "value": "You’ve always got the most level-headed\nopinion. What should we do?"
+    },
+    {
+      "key": "EP04_S0092_0076",
+      "value": "I, uh..."
+    },
+    {
+      "key": "EP04_S0092_0077",
+      "value": "(I don’t have time to think this over.)"
+    },
+    {
+      "key": "EP04_S0092_0078",
+      "value": "(I do think it’s probably best to prioritize\nsaving Miu, but then again...)"
+    },
+    {
+      "key": "EP04_S0092_0079",
+      "value": "(It’s really dangerous to move with no idea\nwhere the enemy might be.)"
+    },
+    {
+      "key": "EP04_S0092_0080",
+      "value": "(So do we prioritize gaining intel? Or do we\nput our own safety first?)"
+    },
+    {
+      "key": "EP04_S0092_0081",
+      "value": "Takuma! Don’t just stand there, say\nsomething!"
+    },
+    {
+      "key": "EP04_S0092_Q1",
+      "value": "(What should be our first priority?!)"
+    },
+    {
+      "key": "EP04_S0092_Q1_A1",
+      "value": "Rescuing Miu."
+    },
+    {
+      "key": "EP04_S0092_Q1_A2",
+      "value": "Our own safety."
+    },
+    {
+      "key": "EP04_S0092_Q1_A3",
+      "value": "Gathering information."
+    },
+    {
+      "key": "EP04_S0092_0082",
+      "value": "Rescuing Miu."
+    },
+    {
+      "key": "EP04_S0092_0083",
+      "value": "I think our top priority should be to rescue\nMiu."
+    },
+    {
+      "key": "EP04_S0092_0084",
+      "value": "Yeah, sure, but..."
+    },
+    {
+      "key": "EP04_S0092_0085",
+      "value": "If this really is Arukenimon again, she’ll\noffer Miu as a sacrifice!"
+    },
+    {
+      "key": "EP04_S0092_0086",
+      "value": "Once that happens, we’ll be too late!"
+    },
+    {
+      "key": "EP04_S0092_0087",
+      "value": "I’m with Takuma!"
+    },
+    {
+      "key": "EP04_S0092_0088",
+      "value": "B-but..."
+    },
+    {
+      "key": "EP04_S0092_0089",
+      "value": "Minoru, I realize you may be scared, but\nI will protect you without fail."
+    },
+    {
+      "key": "EP04_S0092_0090",
+      "value": "Trust me."
+    },
+    {
+      "key": "EP04_S0092_0091",
+      "value": "Heh...heheh! I...I’m not scared! I was\njust...joking!"
+    },
+    {
+      "key": "EP04_S0092_0092",
+      "value": "(Minoru’s really shaking now...)"
+    },
+    {
+      "key": "EP04_S0092_0093",
+      "value": "Takuma, Minoru...I owe you."
+    },
+    {
+      "key": "EP04_S0092_0094",
+      "value": "Our own safety."
+    },
+    {
+      "key": "EP04_S0092_0095",
+      "value": "If we all rush in to save her and get caught,\nwe won’t do anyone any good."
+    },
+    {
+      "key": "EP04_S0092_0096",
+      "value": "Maybe it’s best if we prioritize our own\nsafety."
+    },
+    {
+      "key": "EP04_S0092_0097",
+      "value": "You think we’ve got time for that?!"
+    },
+    {
+      "key": "EP04_S0092_0098",
+      "value": "Yeah, Kaito’s right!"
+    },
+    {
+      "key": "EP04_S0092_0099",
+      "value": "Besides, this place has gotta be full of\nenemies by now. Probably nowhere’s safe!"
+    },
+    {
+      "key": "EP04_S0092_0100",
+      "value": "Well, no, but—"
+    },
+    {
+      "key": "EP04_S0092_0101",
+      "value": "Please, Takuma, I don’t want to just abandon\nMiu."
+    },
+    {
+      "key": "EP04_S0092_0102",
+      "value": "She’s probably terrified right now."
+    },
+    {
+      "key": "EP04_S0092_0103",
+      "value": "Yeah! Let’s go save her!"
+    },
+    {
+      "key": "EP04_S0092_0104",
+      "value": "Okay, okay! If you all say so, let’s make\nrescuing Miu our top priority!"
+    },
+    {
+      "key": "EP04_S0092_0105",
+      "value": "All right, but everybody be careful and stay\non the alert!"
+    },
+    {
+      "key": "EP04_S0092_0106",
+      "value": "Don’t worry, Shuuji...I’ll be right there\nwith you."
+    },
+    {
+      "key": "EP04_S0092_0107",
+      "value": "Hey, this is an emergency! Don’t go biting\noff more than you can chew!"
+    },
+    {
+      "key": "EP04_S0092_0108",
+      "value": "Gathering information."
+    },
+    {
+      "key": "EP04_S0092_0109",
+      "value": "What if we got a bunch of intel on the enemy\nto help us safely rescue Miu?"
+    },
+    {
+      "key": "EP04_S0092_0110",
+      "value": "Uh, do you really think that’s what we should\nbe doing right now?"
+    },
+    {
+      "key": "EP04_S0092_0111",
+      "value": "Yeah, it’d be one thing if the enemy hadn’t\nattacked yet, but now it’s too late!"
+    },
+    {
+      "key": "EP04_S0092_0112",
+      "value": "B-but if we just charge in blindly, we’ll be\nin danger!"
+    },
+    {
+      "key": "EP04_S0092_0113",
+      "value": "I should think Her Rowdiness is the one in\nthe most danger right now."
+    },
+    {
+      "key": "EP04_S0092_0114",
+      "value": "Well, uh—"
+    },
+    {
+      "key": "EP04_S0092_0115",
+      "value": "Yeah...you’re right. It must be terrifying\nfor her to be on her own right now."
+    },
+    {
+      "key": "EP04_S0092_0116",
+      "value": "If we’re not going to save her, what’s the\npoint?"
+    },
+    {
+      "key": "EP04_S0092_0117",
+      "value": "Minoru!"
+    },
+    {
+      "key": "EP04_S0092_0118",
+      "value": "Takuma! I changed my mind! We have to go save\nMiu!"
+    },
+    {
+      "key": "EP04_S0092_0119",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP04_S0092_0120",
+      "value": "All right! Let’s get in there and save her!"
+    },
+    {
+      "key": "EP04_S0092_0121",
+      "value": "Thank you... Thank you all."
+    },
+    {
+      "key": "EP04_S0092_0122",
+      "value": "Jijimon, thanks for all your help! We’re\ngoing to hurry back to Miu!"
+    },
+    {
+      "key": "EP04_S0092_0123",
+      "value": "Not so fast! What about those two?!"
+    },
+    {
+      "key": "EP04_S0092_0124",
+      "value": "(Oh, he means Haru and Miyuki.)"
+    },
+    {
+      "key": "EP04_S0092_0125",
+      "value": "Don’t worry. My sister and I will keep up."
+    },
+    {
+      "key": "EP04_S0092_0126",
+      "value": "Keep up..."
+    },
+    {
+      "key": "EP04_S0092_0127",
+      "value": "Hmm... No, I don’t like it! I’d better go\nwith you!"
+    },
+    {
+      "key": "EP04_S0092_0128",
+      "value": "All right, let’s hurry back to the throne\nroom!"
+    },
+    {
+      "key": "EP04_S0092_0129",
+      "value": "Sorry guys, but I’m gonna need your help just\na bit longer!"
+    },
+    {
+      "key": "EP04_S0092_0130",
+      "value": "This sucks. These guys are such bad news.\nI can’t believe we’re taking them on again."
+    },
+    {
+      "key": "EP04_S0092_0131",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S0092_0132",
+      "value": "Yeah, I know."
+    },
+    {
+      "key": "EP04_S0092_0133",
+      "value": "I don’t want Miu to have to go through what\nI experienced yesterday."
+    },
+    {
+      "key": "EP04_S0092_0134",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP04_S0092_0135",
+      "value": "Heh! Yeah...you’re right. We’ve just gotta do\nthis!"
+    }
+  ]
+}

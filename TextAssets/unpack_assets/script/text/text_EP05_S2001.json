@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S2001_0001",
+      "value": "Aoi! Have you found Shuuji?!"
+    },
+    {
+      "key": "EP05_S2001_0002",
+      "value": "No, not yet. Sorry..."
+    },
+    {
+      "key": "EP05_S2001_0003",
+      "value": "It’s nothing to apologize for. Still, we\nbetter hurry..."
+    },
+    {
+      "key": "EP05_S2001_0004",
+      "value": "I’ll look somewhere else."
+    },
+    {
+      "key": "EP05_S2001_0005",
+      "value": "I think I’ll stay here a little while longer."
+    },
+    {
+      "key": "EP05_S2001_0006",
+      "value": "Okay!"
+    },
+    {
+      "key": "EP05_S2001_0007",
+      "value": "Huh? I think...I just saw something in the\nwater?"
+    },
+    {
+      "key": "EP05_S2001_0008",
+      "value": "Hmm, maybe I imagined it... Ah, but don’t\nworry. We should focus on finding Shuuji."
+    }
+  ]
+}

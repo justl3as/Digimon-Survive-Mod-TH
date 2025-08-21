@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S2003_0001",
+      "value": "Hey, Takuma?"
+    },
+    {
+      "key": "EP05_S2003_0002",
+      "value": "What is it, Labramon?"
+    },
+    {
+      "key": "EP05_S2003_0003",
+      "value": "There! There’s something in the water!"
+    },
+    {
+      "key": "EP05_S2003_0004",
+      "value": "Really? Where? I don’t see a thing."
+    },
+    {
+      "key": "EP05_S2003_0005",
+      "value": "I’m sure I saw something! Maybe it’s hard for\nhumans to see? My nose says it’s important!"
+    },
+    {
+      "key": "EP05_S2003_0006",
+      "value": "(Humans can’t see it... Oh, I know. I’ll try\n<color=#B41919>looking with my camera</color>.)"
+    },
+    {
+      "key": "EP05_S2003_0007",
+      "value": "It may be related to Shuuji somehow. Maybe\nyou can check in the water?"
+    }
+  ]
+}

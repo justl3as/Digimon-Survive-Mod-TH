@@ -1,0 +1,236 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S1410_0001",
+      "value": "Hey, I see Kaito and Dracmon over there.\nI wonder what those two are up to."
+    },
+    {
+      "key": "EP06_S1410_0002",
+      "value": "How do things look over there?"
+    },
+    {
+      "key": "EP06_S1410_0003",
+      "value": "Some stuff washed up in the waterway,\nbut it’s all useless junk... Wait!"
+    },
+    {
+      "key": "EP06_S1410_0004",
+      "value": "What is it, Dracmon?"
+    },
+    {
+      "key": "EP06_S1410_0005",
+      "value": "Actually, this might be something we can use!"
+    },
+    {
+      "key": "EP06_S1410_0006",
+      "value": "Woah, you’re right! Nice find!"
+    },
+    {
+      "key": "EP06_S1410_0007",
+      "value": "It is pretty nice, if I say so myself! Hehe."
+    },
+    {
+      "key": "EP06_S1410_0008",
+      "value": "So, Kaito...\nYou and Dracmon are back on good terms now?"
+    },
+    {
+      "key": "EP06_S1410_0009",
+      "value": "Say what?"
+    },
+    {
+      "key": "EP06_S1410_0010",
+      "value": "(Oh, crap!)"
+    },
+    {
+      "key": "EP06_S1410_0011",
+      "value": "(Now they might remember all the fighting!)"
+    },
+    {
+      "key": "EP06_S1410_0012",
+      "value": "(What do I do?\nI can’t let this spin out of control.)"
+    },
+    {
+      "key": "EP06_S1410_0013",
+      "value": "(Should I apologize, or change the topic?\nOr maybe hold my ground?)"
+    },
+    {
+      "key": "EP06_S1410_Q1",
+      "value": "(What should I say to keep the situation calm?)"
+    },
+    {
+      "key": "EP06_S1410_Q1_A1",
+      "value": "I’d better apologize."
+    },
+    {
+      "key": "EP06_S1410_Q1_A2",
+      "value": "Change the subject!"
+    },
+    {
+      "key": "EP06_S1410_Q1_A3",
+      "value": "Double down..."
+    },
+    {
+      "key": "EP06_S1410_0015",
+      "value": "Sorry for being weird."
+    },
+    {
+      "key": "EP06_S1410_0016",
+      "value": "Everyone’s on edge, so I thought it’d be nice\nif at least one pair made up."
+    },
+    {
+      "key": "EP06_S1410_0017",
+      "value": "You say “make up”, but I never meant\nto be friendly in the first place."
+    },
+    {
+      "key": "EP06_S1410_0018",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S1410_0019",
+      "value": "I didn’t ask Dracmon to follow me around and\nfight for me!"
+    },
+    {
+      "key": "EP06_S1410_0020",
+      "value": "Don’t say that!"
+    },
+    {
+      "key": "EP06_S1410_0021",
+      "value": "He’s right! This “bond” of ours just popped\nup and tied us all on its own."
+    },
+    {
+      "key": "EP06_S1410_0022",
+      "value": "...Dracmon?"
+    },
+    {
+      "key": "EP06_S1410_0023",
+      "value": "Thanks, Takuma, but I’m fine.\nDon’t worry about me."
+    },
+    {
+      "key": "EP06_S1410_0024",
+      "value": "Alright, Kaito,\nlet’s get back to treasure-hunting!"
+    },
+    {
+      "key": "EP06_S1410_0025",
+      "value": "You better find something good."
+    },
+    {
+      "key": "EP06_S1410_0026",
+      "value": "They’re not doing so well...\nMaybe I said too much."
+    },
+    {
+      "key": "EP06_S1410_0028",
+      "value": "So, what was it you found earlier?"
+    },
+    {
+      "key": "EP06_S1410_0029",
+      "value": "Oh come on, don’t try to change the subject."
+    },
+    {
+      "key": "EP06_S1410_0030",
+      "value": "Sorry..."
+    },
+    {
+      "key": "EP06_S1410_0031",
+      "value": "Whatever, it’s not like I wanted to keep that\nconversation going. I’ll play along."
+    },
+    {
+      "key": "EP06_S1410_0032",
+      "value": "This is what we found."
+    },
+    {
+      "key": "EP06_S1410_0033",
+      "value": "A...coin?\nMust be foreign. I’ve never seen the design.   "
+    },
+    {
+      "key": "EP06_S1410_0034",
+      "value": "Might be ancient.\nMaybe we can sell it in our world."
+    },
+    {
+      "key": "EP06_S1410_0035",
+      "value": "I’m gonna make it back somehow or other.\nAnd bring Miu with me."
+    },
+    {
+      "key": "EP06_S1410_0036",
+      "value": "I’ll use anything I can to make that happen.\nWho knows what’ll come in handy, even this!"
+    },
+    {
+      "key": "EP06_S1410_0037",
+      "value": "Sounds like a plan.\nWe’ll survive this somehow."
+    },
+    {
+      "key": "EP06_S1410_0038",
+      "value": "(Dracmon is talking like normal,\nbut he seems somehow dejected.)"
+    },
+    {
+      "key": "EP06_S1410_0040",
+      "value": "(I can’t undo what I said...\nSo I’ll stay the course!)"
+    },
+    {
+      "key": "EP06_S1410_0041",
+      "value": "It looks like you’re back on good terms,\nlike the old days."
+    },
+    {
+      "key": "EP06_S1410_0042",
+      "value": "Not gonna back down, huh?\nI wouldn’t put it like that, though."
+    },
+    {
+      "key": "EP06_S1410_0043",
+      "value": "Yeah, there’s just a tight bond between us..."
+    },
+    {
+      "key": "EP06_S1410_0044",
+      "value": "That’s not what I meant, either."
+    },
+    {
+      "key": "EP06_S1410_0045",
+      "value": "I don’t care about “trust” or “bonds.”\nJust getting back to our world with Miu."
+    },
+    {
+      "key": "EP06_S1410_0046",
+      "value": "If this THING ever turned against me and\nput Miu in danger..."
+    },
+    {
+      "key": "EP06_S1410_0047",
+      "value": "I would not hold back,\nlemme put it that way."
+    },
+    {
+      "key": "EP06_S1410_0048",
+      "value": "Look at Kaito’s face, Takuma.\nIt’s scary..."
+    },
+    {
+      "key": "EP06_S1410_0049",
+      "value": "(It really is.\nJust like the time he blew up at Dracmon.)"
+    },
+    {
+      "key": "EP06_S1410_0050",
+      "value": "Look, I get that you’re worried about us."
+    },
+    {
+      "key": "EP06_S1410_0051",
+      "value": "I’ll try to be nice while we’re still allies—\nfor now.  "
+    },
+    {
+      "key": "EP06_S1410_0052",
+      "value": "Alright, back to exploring.\nYou coming, Dracmon?"
+    },
+    {
+      "key": "EP06_S1410_0053",
+      "value": "...Right."
+    },
+    {
+      "key": "EP06_S1410_0054",
+      "value": "There they go.\nI hope those two are okay."
+    },
+    {
+      "key": "EP06_S1410_0055",
+      "value": "I don’t know..."
+    },
+    {
+      "key": "EP06_S1410_0056",
+      "value": "Takuma, what do you think those two—"
+    },
+    {
+      "key": "EP06_S1410_0057",
+      "value": "Maybe I should just leave him alone for now."
+    }
+  ]
+}

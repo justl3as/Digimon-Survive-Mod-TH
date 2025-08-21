@@ -1,0 +1,296 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1300_0001",
+      "value": "Oh, good morning Takuma."
+    },
+    {
+      "key": "EP04_S1300_0002",
+      "value": "Morning."
+    },
+    {
+      "key": "EP04_S1300_0003",
+      "value": "Saki seems pretty upset, though I guess\nI feel the same way."
+    },
+    {
+      "key": "EP04_S1300_0004",
+      "value": "What did you make of those ghostly hands\nyesterday, Takuma?"
+    },
+    {
+      "key": "EP04_S1300_0005",
+      "value": "They were horrifying. My legs were shaking so\nbad I couldn’t even move."
+    },
+    {
+      "key": "EP04_S1300_0006",
+      "value": "Oh...so they scared you too."
+    },
+    {
+      "key": "EP04_S1300_0007",
+      "value": "But you know, I thought it was kinda cool how\nyou went to save Ryo like that."
+    },
+    {
+      "key": "EP04_S1300_0008",
+      "value": "Well, I never could’ve done it if it weren’t\nfor Kunemon."
+    },
+    {
+      "key": "EP04_S1300_0009",
+      "value": "And anyway, I was pretty desperate to save\nRyo."
+    },
+    {
+      "key": "EP04_S1300_0010",
+      "value": "So...you don’t actually hate the guy? Despite\nhis bad attitude?"
+    },
+    {
+      "key": "EP04_S1300_0011",
+      "value": "It’s not really about whether I hate him or\nnot. Besides, even Ryo has his good points."
+    },
+    {
+      "key": "EP04_S1300_0012",
+      "value": "Haha, I’m joking! Ryo’s one of us, after all."
+    },
+    {
+      "key": "EP04_S1300_0013",
+      "value": "Heheh, you sure are nice, though. Even Ryo\nhas his good points, huh?"
+    },
+    {
+      "key": "EP04_S1300_0014",
+      "value": "I...don’t feel like I was being especially\nnice. Besides, Ryo does have his good points."
+    },
+    {
+      "key": "EP04_S1300_0015",
+      "value": "You’re right. I think so too."
+    },
+    {
+      "key": "EP04_S1300_0016",
+      "value": "One night just isn’t enough to put something\nlike that behind you, is it?"
+    },
+    {
+      "key": "EP04_S1300_0017",
+      "value": "Yeah. I’m still pretty upset about the whole\nthing, too."
+    },
+    {
+      "key": "EP04_S1300_0018",
+      "value": "(We all watched as one of us disappeared. The\nshock of that moment was unbelievable.)"
+    },
+    {
+      "key": "EP04_S1300_0019",
+      "value": "Ryo was a pretty twisted guy. He was always\nreally grumpy, insulting, and uncooperative."
+    },
+    {
+      "key": "EP04_S1300_0020",
+      "value": "But that doesn’t make it okay that he’s gone."
+    },
+    {
+      "key": "EP04_S1300_0021",
+      "value": "Besides, I knew what his real problem was. He\nnever knew how to express himself."
+    },
+    {
+      "key": "EP04_S1300_0022",
+      "value": "I guess that side of him kinda reminded me of\nmyself. That’s why I stuck by him."
+    },
+    {
+      "key": "EP04_S1300_0023",
+      "value": "(I never understood why Saki, who’s so\ncheerful and outgoing, was always with Ryo.)"
+    },
+    {
+      "key": "EP04_S1300_0024",
+      "value": "(But I think I get it now. She must’ve felt\nlike they were two sides of the same coin.)"
+    },
+    {
+      "key": "EP04_S1300_0025",
+      "value": "(Not that I could ever see it.)"
+    },
+    {
+      "key": "EP04_S1300_0026",
+      "value": "He was always so lonely. That’s why he acted\nthe way he did."
+    },
+    {
+      "key": "EP04_S1300_0027",
+      "value": "That’s right. People can be like that, can’t\nthey?"
+    },
+    {
+      "key": "EP04_S1300_0028",
+      "value": "You could see it too, Floramon?"
+    },
+    {
+      "key": "EP04_S1300_0029",
+      "value": "Nope, not at all."
+    },
+    {
+      "key": "EP04_S1300_0030",
+      "value": "What?!"
+    },
+    {
+      "key": "EP04_S1300_0031",
+      "value": "But I know that you’re really nice, Saki!\nI know that better than anyone."
+    },
+    {
+      "key": "EP04_S1300_0032",
+      "value": "Nice...huh?"
+    },
+    {
+      "key": "EP04_S1300_0033",
+      "value": "Is that what you think too, Takuma?"
+    },
+    {
+      "key": "EP04_S1300_0034",
+      "value": "(Saki seems nice enough to me, but she can be\npretty blunt sometimes.)"
+    },
+    {
+      "key": "EP04_S1300_0035",
+      "value": "(Besides, I feel like I still don’t know her\nall that well.)"
+    },
+    {
+      "key": "EP04_S1300_Q1",
+      "value": "(How should I answer Saki?)"
+    },
+    {
+      "key": "EP04_S1300_Q1_A1",
+      "value": "I think you’re nice."
+    },
+    {
+      "key": "EP04_S1300_Q1_A2",
+      "value": "I think you’re blunt."
+    },
+    {
+      "key": "EP04_S1300_Q1_A3",
+      "value": "I couldn’t say."
+    },
+    {
+      "key": "EP04_S1300_0036",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1300_0037",
+      "value": "Yeah, I’m sure you’re nice enough."
+    },
+    {
+      "key": "EP04_S1300_0038",
+      "value": "Hey! What kind of non-answer is that? I’ll\nhave you know that Saki is very nice!"
+    },
+    {
+      "key": "EP04_S1300_0039",
+      "value": "Yeah, sure, but...I don’t know."
+    },
+    {
+      "key": "EP04_S1300_0040",
+      "value": "I feel like there’s more to it than that."
+    },
+    {
+      "key": "EP04_S1300_0041",
+      "value": "Huh? What’s that supposed to mean?"
+    },
+    {
+      "key": "EP04_S1300_0042",
+      "value": "Well, I’m not sure how best to say it. Like,\nyou clearly understand Ryo really well."
+    },
+    {
+      "key": "EP04_S1300_0043",
+      "value": "It’s like you said before. You may not come\nout and say it, but you care about people."
+    },
+    {
+      "key": "EP04_S1300_0044",
+      "value": "Huh... So that’s how you feel about me?"
+    },
+    {
+      "key": "EP04_S1300_0045",
+      "value": "I’m...kinda happy about that. Thanks, Takuma."
+    },
+    {
+      "key": "EP04_S1300_0046",
+      "value": "What? Oh, sure."
+    },
+    {
+      "key": "EP04_S1300_0047",
+      "value": "Ooh, Takuma, your face is turning red! You\nfeeling shy? Maybe a little nervous?"
+    },
+    {
+      "key": "EP04_S1300_0048",
+      "value": "No! Why would I be nervous?"
+    },
+    {
+      "key": "EP04_S1300_0049",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1300_0050",
+      "value": "I think you’re very honest, Saki."
+    },
+    {
+      "key": "EP04_S1300_0051",
+      "value": "You’re always so blunt about what’s on your\nmind."
+    },
+    {
+      "key": "EP04_S1300_0052",
+      "value": "I...feel like that doesn’t answer my\nquestion."
+    },
+    {
+      "key": "EP04_S1300_0053",
+      "value": "You’re right, it doesn’t. That sounds like\na deflection to me."
+    },
+    {
+      "key": "EP04_S1300_0054",
+      "value": "(Actually, it does kind of sound like that,\ndoesn’t it?)"
+    },
+    {
+      "key": "EP04_S1300_0055",
+      "value": "So...I guess I do come off like that."
+    },
+    {
+      "key": "EP04_S1300_0056",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S1300_0057",
+      "value": "It’s nothing. Never mind."
+    },
+    {
+      "key": "EP04_S1300_0058",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1300_0059",
+      "value": "To be honest, I’m not really sure."
+    },
+    {
+      "key": "EP04_S1300_0060",
+      "value": "What? You mean you don’t think she’s nice?"
+    },
+    {
+      "key": "EP04_S1300_0061",
+      "value": "No, I didn’t mean it like that. It’s just\nthat we only recently got to know each other."
+    },
+    {
+      "key": "EP04_S1300_0062",
+      "value": "So I don’t think it would be honest of me to\nagree when I don’t know Saki all that well."
+    },
+    {
+      "key": "EP04_S1300_0063",
+      "value": "Is that your way of saying you want to get to\nknow me better?"
+    },
+    {
+      "key": "EP04_S1300_0064",
+      "value": "Maybe... I guess."
+    },
+    {
+      "key": "EP04_S1300_0065",
+      "value": "Okay. That...actually doesn’t sound too bad."
+    },
+    {
+      "key": "EP04_S1300_0066",
+      "value": "(I’m not sure I get what just happened,\nbut...Saki seems satisfied.)"
+    },
+    {
+      "key": "EP04_S1300_0067",
+      "value": "You know, I think talking with you helped\nmake me feel a little better. Thanks, Takuma."
+    },
+    {
+      "key": "EP04_S1300_0068",
+      "value": "I was feeling pretty down, but talking with\nyou helped lift my spirits."
+    },
+    {
+      "key": "EP04_S1300_0069",
+      "value": "Thanks."
+    }
+  ]
+}

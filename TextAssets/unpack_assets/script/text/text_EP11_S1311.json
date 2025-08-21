@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S1311_0001",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP11_S1311_0002",
+      "value": "What’s up, Professor?"
+    },
+    {
+      "key": "EP11_S1311_0003",
+      "value": "Something’s on the ground here..."
+    },
+    {
+      "key": "EP11_S1311_0004",
+      "value": "What is it?"
+    },
+    {
+      "key": "EP11_S1311_0005",
+      "value": "Hrrrm... I’m not sure. Perhaps it will be of\nassistance, though."
+    },
+    {
+      "key": "EP11_S1311_0006",
+      "value": "Here, Takuma, I’ll give it to you."
+    },
+    {
+      "key": "EP11_S1311_0007",
+      "value": "Sure, I’ll hold on to it."
+    }
+  ]
+}

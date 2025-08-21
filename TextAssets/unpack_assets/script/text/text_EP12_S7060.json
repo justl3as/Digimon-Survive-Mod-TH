@@ -1,0 +1,372 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S7060_0001",
+      "value": "Where...am I?!"
+    },
+    {
+      "key": "EP12_S7060_0002",
+      "value": "(I feel strangely unsteady on my feet. It’s\nlike I’m on some sort of air cushion.)"
+    },
+    {
+      "key": "EP12_S7060_0003",
+      "value": "Takuma...!"
+    },
+    {
+      "key": "EP12_S7060_0004",
+      "value": "Hurray! You’re all right!"
+    },
+    {
+      "key": "EP12_S7060_0005",
+      "value": "Minoru! Agumon! And...everyone... What is\nthis place?!"
+    },
+    {
+      "key": "EP12_S7060_0006",
+      "value": "Looks like it’s time for our final exam."
+    },
+    {
+      "key": "EP12_S7060_0007",
+      "value": "But things did take an unexpected turn. You\nhear that?"
+    },
+    {
+      "key": "EP12_S7060_0008",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP12_S7060_0009",
+      "value": "Is that...Aoi and the Master fighting?"
+    },
+    {
+      "key": "EP12_S7060_0010",
+      "value": "You are a threat... Urgh... Yet you too are\nto become my prey!"
+    },
+    {
+      "key": "EP12_S7060_0011",
+      "value": "Gah... I don’t think so! I am going to make\nthis happen!"
+    },
+    {
+      "key": "EP12_S7060_0012",
+      "value": "I am going to build an ideal world, and\nyou’re not going to stop me! Yeeaaah!!!"
+    },
+    {
+      "key": "EP12_S7060_0013",
+      "value": "Never!!!"
+    },
+    {
+      "key": "EP12_S7060_0014",
+      "value": "Oh no! Gah... Ah... Urgh..."
+    },
+    {
+      "key": "EP12_S7060_0015",
+      "value": "Oh no! Aoi!"
+    },
+    {
+      "key": "EP12_S7060_0016",
+      "value": "No... No! I can’t fail now!"
+    },
+    {
+      "key": "EP12_S7060_0017",
+      "value": "I still...haven’t gotten...to apologize...\nTakuma...everyone...I’m sor—"
+    },
+    {
+      "key": "EP12_S7060_0018",
+      "value": "(Aoi!!!)"
+    },
+    {
+      "key": "EP12_S7060_0019",
+      "value": "Ah... Yes... Very good..."
+    },
+    {
+      "key": "EP12_S7060_0020",
+      "value": "So, Aoi just got...taken in?"
+    },
+    {
+      "key": "EP12_S7060_0021",
+      "value": "Oh no... What are we going to do now?"
+    },
+    {
+      "key": "EP12_S7060_0022",
+      "value": "The only thing we can do. We take on the\nMaster and settle this once and for all."
+    },
+    {
+      "key": "EP12_S7060_0023",
+      "value": "But now that we’ve lost Miyuki, and even\nAoi’s been taken in, what chance do we have?"
+    },
+    {
+      "key": "EP12_S7060_0024",
+      "value": "Shouldn’t we consider making a retreat?"
+    },
+    {
+      "key": "EP12_S7060_0025",
+      "value": "We don’t need to retreat, but we should at\nleast regroup for now!"
+    },
+    {
+      "key": "EP12_S7060_0026",
+      "value": "(What now? What do we do?!)"
+    },
+    {
+      "key": "EP12_S7060_0027",
+      "value": "(Kaito’s probably right. Now that we’ve come\nthis far, we have to fight.)"
+    },
+    {
+      "key": "EP12_S7060_0028",
+      "value": "(But the Master must be unimaginably strong\nright now.)"
+    },
+    {
+      "key": "EP12_S7060_0029",
+      "value": "(So maybe we should listen to the professor\nand retreat.)"
+    },
+    {
+      "key": "EP12_S7060_0100",
+      "value": "(Or at least pull back so we can regroup like\nMinoru said.)"
+    },
+    {
+      "key": "EP12_S7060_Q1",
+      "value": "(What should we do?)"
+    },
+    {
+      "key": "EP12_S7060_Q1_A1",
+      "value": "We should fight."
+    },
+    {
+      "key": "EP12_S7060_Q1_A2",
+      "value": "We should run."
+    },
+    {
+      "key": "EP12_S7060_Q1_A3",
+      "value": "We should regroup."
+    },
+    {
+      "key": "EP12_S7060_0030",
+      "value": "We should fight."
+    },
+    {
+      "key": "EP12_S7060_0031",
+      "value": "Kaito’s right. Now that we’ve come this far,\nbacking out isn’t an option."
+    },
+    {
+      "key": "EP12_S7060_0032",
+      "value": "Yeah, and even if we did run, we’d still have\nto face the Master at some point."
+    },
+    {
+      "key": "EP12_S7060_0033",
+      "value": "So we might as well take him on here and now."
+    },
+    {
+      "key": "EP12_S7060_0034",
+      "value": "Fortunately, he hasn’t noticed us yet. This\nmay be the best chance we ever get."
+    },
+    {
+      "key": "EP12_S7060_0035",
+      "value": "Yeah...but it’s not just that. I...want to\nget him back for what he did to Aoi."
+    },
+    {
+      "key": "EP12_S7060_0036",
+      "value": "Right at the end, she...she apologized to\nus..."
+    },
+    {
+      "key": "EP12_S7060_0037",
+      "value": "Even...even after she turned into Plutomon,\nAoi was still in there!"
+    },
+    {
+      "key": "EP12_S7060_0038",
+      "value": "I’m sure of it!"
+    },
+    {
+      "key": "EP12_S7060_0039",
+      "value": "Yeah! So let’s go make the Master pay for\nwhat he did to Miyuki and Aoi!"
+    },
+    {
+      "key": "EP12_S7060_0040",
+      "value": "This is all turning out to be a lot worse\nthan we first thought."
+    },
+    {
+      "key": "EP12_S7060_0041",
+      "value": "We should run."
+    },
+    {
+      "key": "EP12_S7060_0042",
+      "value": "Maybe the professor’s right. Maybe we should\nrun..."
+    },
+    {
+      "key": "EP12_S7060_0043",
+      "value": "But if we run now, who knows what’ll happen\nto us, or to our world?!"
+    },
+    {
+      "key": "EP12_S7060_0044",
+      "value": "Yeah! And if we wait until after the Master’s\nmessed everything up, it’ll be too late!"
+    },
+    {
+      "key": "EP12_S7060_0045",
+      "value": "B-but...we know he’s taken in Miyuki, and we\nsaw him take in Aoi in the form of Plutomon."
+    },
+    {
+      "key": "EP12_S7060_0046",
+      "value": "Don’t you think it’s reckless to fight the\nMaster after he just got unimaginably strong?"
+    },
+    {
+      "key": "EP12_S7060_0047",
+      "value": "Then when are we supposed to fight him?!"
+    },
+    {
+      "key": "EP12_S7060_0048",
+      "value": "I...I don’t know..."
+    },
+    {
+      "key": "EP12_S7060_0049",
+      "value": "Takuma, it’s now or never! If we run away\nnow, that’s all we’ll ever do."
+    },
+    {
+      "key": "EP12_S7060_0050",
+      "value": "We’ve got to stand and fight!"
+    },
+    {
+      "key": "EP12_S7060_0051",
+      "value": "Listen, Takuma... I’m...going to fight too."
+    },
+    {
+      "key": "EP12_S7060_0052",
+      "value": "Are you sure, Miu?!"
+    },
+    {
+      "key": "EP12_S7060_0053",
+      "value": "Because if I don’t...I feel like I’d be\nletting Aoi down!"
+    },
+    {
+      "key": "EP12_S7060_0054",
+      "value": "Right at the end, she... She said she was\nsorry... So..."
+    },
+    {
+      "key": "EP12_S7060_0055",
+      "value": "Yes, I see. You can’t bring yourself to leave\nhere without finishing what she started."
+    },
+    {
+      "key": "EP12_S7060_0056",
+      "value": "(That’s right... Aoi may have been misguided\nin what she did, but she did it for us.)"
+    },
+    {
+      "key": "EP12_S7060_0057",
+      "value": "(She fought against the Master and lost.)"
+    },
+    {
+      "key": "EP12_S7060_0058",
+      "value": "(Having witnessed that, do we just turn tail\nand run? No, that would be cowardice!)"
+    },
+    {
+      "key": "EP12_S7060_0059",
+      "value": "I’m sorry, everyone. You’re right, we can’t\nrun now."
+    },
+    {
+      "key": "EP12_S7060_0060",
+      "value": "We need to fight. Let’s go make the Master\npay for what he did to Miyuki and Aoi!"
+    },
+    {
+      "key": "EP12_S7060_0061",
+      "value": "We should regroup."
+    },
+    {
+      "key": "EP12_S7060_0062",
+      "value": "I...I honestly have no idea what we should\ndo, so...why don’t we pull back and regroup?"
+    },
+    {
+      "key": "EP12_S7060_0063",
+      "value": "You think we’ve got time for that?"
+    },
+    {
+      "key": "EP12_S7060_0064",
+      "value": "But if we rush in to fight now, we may not\neven stand a chance."
+    },
+    {
+      "key": "EP12_S7060_0065",
+      "value": "How is that going to change by us pulling\nback and then preparing to go back in?"
+    },
+    {
+      "key": "EP12_S7060_0066",
+      "value": "Uh... Well, now that you put it that way..."
+    },
+    {
+      "key": "EP12_S7060_0067",
+      "value": "Actually, I think now’s our best shot."
+    },
+    {
+      "key": "EP12_S7060_0068",
+      "value": "I don’t know what our chances are, but if we\nact now, we could get Aoi and Miyuki back."
+    },
+    {
+      "key": "EP12_S7060_0069",
+      "value": "And even if that doesn’t work, we should beat\nhim before he masters Plutomon’s power."
+    },
+    {
+      "key": "EP12_S7060_0070",
+      "value": "You mean...you don’t think he’s gotten full\ncontrol of Plutomon’s power yet?"
+    },
+    {
+      "key": "EP12_S7060_0071",
+      "value": "It’s just a hunch, but I think it’s a real\npossibility."
+    },
+    {
+      "key": "EP12_S7060_0072",
+      "value": "Anyway, all that’s besides the point. What\nreally matters is..."
+    },
+    {
+      "key": "EP12_S7060_0073",
+      "value": "...we need to make the Master pay for what he\ndid to Aoi and Miyuki!"
+    },
+    {
+      "key": "EP12_S7060_0074",
+      "value": "Yeah...you’re right. Ultimately, we couldn’t\nsave either one of them."
+    },
+    {
+      "key": "EP12_S7060_0075",
+      "value": "So the least we can do is avenge them..."
+    },
+    {
+      "key": "EP12_S7060_0076",
+      "value": "After all, despite everything that happened,\nAoi was one of us, right to the end."
+    },
+    {
+      "key": "EP12_S7060_0077",
+      "value": "If she hadn’t been, the last thing she said\nwouldn’t have been an apology."
+    },
+    {
+      "key": "EP12_S7060_0078",
+      "value": "So we need to make the Master pay!"
+    },
+    {
+      "key": "EP12_S7060_0079",
+      "value": "Yeah, let’s do it!"
+    },
+    {
+      "key": "EP12_S7060_0080",
+      "value": "The Master doesn’t seem to have noticed us\nyet. We should take advantage of that and—"
+    },
+    {
+      "key": "EP12_S7060_0081",
+      "value": "T-T-T-Takuma!!!"
+    },
+    {
+      "key": "EP12_S7060_0082",
+      "value": "I smell...humans..."
+    },
+    {
+      "key": "EP12_S7060_0083",
+      "value": "Uwaaah!!!"
+    },
+    {
+      "key": "EP12_S7060_0084",
+      "value": "Ah, there you are! Pathetic little intruders!"
+    },
+    {
+      "key": "EP12_S7060_0085",
+      "value": "(Crap! I yelled before I could stop myself!)"
+    },
+    {
+      "key": "EP12_S7060_0086",
+      "value": "How perfect! You too will fall!!!"
+    },
+    {
+      "key": "EP12_S7060_0087",
+      "value": "He’s onto us! We have to fight now!"
+    }
+  ]
+}

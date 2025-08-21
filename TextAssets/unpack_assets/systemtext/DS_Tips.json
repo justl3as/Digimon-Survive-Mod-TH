@@ -1,0 +1,596 @@
+{
+  "DS_Tips": [
+    {
+      "key": "TIPS_TITLE_001",
+      "value": "Tip: Decisions"
+    },
+    {
+      "key": "TIPS_TITLE_002",
+      "value": "Tip: Karma"
+    },
+    {
+      "key": "TIPS_TITLE_003",
+      "value": "Tip: Karma and Evolution"
+    },
+    {
+      "key": "TIPS_TITLE_004",
+      "value": "Tip: Affinity"
+    },
+    {
+      "key": "TIPS_TITLE_005",
+      "value": "Tip: Affinity and Evolution"
+    },
+    {
+      "key": "TIPS_TITLE_006",
+      "value": "Tip: Free Actions"
+    },
+    {
+      "key": "TIPS_TITLE_007",
+      "value": "Tip: Free Action Move Limit"
+    },
+    {
+      "key": "TIPS_TITLE_008",
+      "value": "Tip: Using Moves"
+    },
+    {
+      "key": "TIPS_TITLE_009",
+      "value": "Tip: Free Battle"
+    },
+    {
+      "key": "TIPS_TITLE_010",
+      "value": "Tip: Exploration"
+    },
+    {
+      "key": "TIPS_TITLE_011",
+      "value": "Tip: Exploration Control & Progress"
+    },
+    {
+      "key": "TIPS_TITLE_012",
+      "value": "Tip: Investigation"
+    },
+    {
+      "key": "TIPS_TITLE_013",
+      "value": "Tip: Camera Mode"
+    },
+    {
+      "key": "TIPS_TITLE_014",
+      "value": "Tip: Enemy Encounters"
+    },
+    {
+      "key": "TIPS_TITLE_015",
+      "value": "Tip: Opening the Pause Menu"
+    },
+    {
+      "key": "TIPS_TITLE_016",
+      "value": "Tip: Map Movement"
+    },
+    {
+      "key": "TIPS_TITLE_017",
+      "value": "Tip: Event Points"
+    },
+    {
+      "key": "TIPS_TITLE_018",
+      "value": "Tip: Other Icons"
+    },
+    {
+      "key": "TIPS_TITLE_019",
+      "value": "Tip: Victory and Defeat Conditions"
+    },
+    {
+      "key": "TIPS_TITLE_020",
+      "value": "Tip: Difficulty Selection"
+    },
+    {
+      "key": "TIPS_TITLE_021",
+      "value": "Tip: Free Cursor and Camera Controls"
+    },
+    {
+      "key": "TIPS_TITLE_022",
+      "value": "Tip: Basic Abilities"
+    },
+    {
+      "key": "TIPS_TITLE_023",
+      "value": "Tip: Passive Skills"
+    },
+    {
+      "key": "TIPS_TITLE_024",
+      "value": "Tip: Turn Order"
+    },
+    {
+      "key": "TIPS_TITLE_025",
+      "value": "Tip: Move Command"
+    },
+    {
+      "key": "TIPS_TITLE_026",
+      "value": "Tip: Elevation and Movement"
+    },
+    {
+      "key": "TIPS_TITLE_027",
+      "value": "Tip: Attack Command"
+    },
+    {
+      "key": "TIPS_TITLE_028",
+      "value": "Tip: Attack Effect Predictions"
+    },
+    {
+      "key": "TIPS_TITLE_029",
+      "value": "Tip: Resistance Effects in Battle"
+    },
+    {
+      "key": "TIPS_TITLE_030",
+      "value": "Tip: Orientation in Battle"
+    },
+    {
+      "key": "TIPS_TITLE_031",
+      "value": "Tip: Elevation in Battle"
+    },
+    {
+      "key": "TIPS_TITLE_032",
+      "value": "Tip: Battle Backup with Friends"
+    },
+    {
+      "key": "TIPS_TITLE_033",
+      "value": "Tip: Battle Backup - Encouragement"
+    },
+    {
+      "key": "TIPS_TITLE_034",
+      "value": "Tip: Battle Backup - Team Attack"
+    },
+    {
+      "key": "TIPS_TITLE_035",
+      "value": "Tip: Battle Backup - Support"
+    },
+    {
+      "key": "TIPS_TITLE_036",
+      "value": "Tip: Item Command"
+    },
+    {
+      "key": "TIPS_TITLE_037",
+      "value": "Tip: Evolve Command"
+    },
+    {
+      "key": "TIPS_TITLE_038",
+      "value": "Tip: Evolution, Devolution, and SP"
+    },
+    {
+      "key": "TIPS_TITLE_039",
+      "value": "Tip: Talk Command"
+    },
+    {
+      "key": "TIPS_TITLE_040",
+      "value": "Tip: Talking with Friends"
+    },
+    {
+      "key": "TIPS_TITLE_041",
+      "value": "Tip: Talking with Enemies"
+    },
+    {
+      "key": "TIPS_TITLE_042",
+      "value": "Tip: End Turn Command"
+    },
+    {
+      "key": "TIPS_TITLE_043",
+      "value": "Tip: Activating Defense"
+    },
+    {
+      "key": "TIPS_TITLE_044",
+      "value": "Tip: End Turn SP Recovery"
+    },
+    {
+      "key": "TIPS_TITLE_045",
+      "value": "Tip: Battle Menu"
+    },
+    {
+      "key": "TIPS_TITLE_046",
+      "value": "Tip: Auto-Battle"
+    },
+    {
+      "key": "TIPS_TITLE_047",
+      "value": "Tip: Suspending Battles"
+    },
+    {
+      "key": "TIPS_TITLE_048",
+      "value": "Tip: Stats"
+    },
+    {
+      "key": "TIPS_TITLE_049",
+      "value": "Tip: Checking Skills"
+    },
+    {
+      "key": "TIPS_TITLE_050",
+      "value": "Tip: Changing Equipment"
+    },
+    {
+      "key": "TIPS_TITLE_051",
+      "value": "Tip: Training Monsters"
+    },
+    {
+      "key": "TIPS_TITLE_052",
+      "value": "Tip: Checking Evolution"
+    },
+    {
+      "key": "TIPS_TITLE_053",
+      "value": "Tip: Profiles"
+    },
+    {
+      "key": "TIPS_TITLE_054",
+      "value": "Tip: Character Info and Episodes"
+    },
+    {
+      "key": "TIPS_TITLE_055",
+      "value": "Tip: Items"
+    },
+    {
+      "key": "TIPS_TITLE_056",
+      "value": "Tip: Monster Types"
+    },
+    {
+      "key": "TIPS_DETAIL_001",
+      "value": "Decisions will have to be made at certain points in the\nstory. You can select one of the options displayed\non-screen, affecting your Karma or Affinity to the target\ncharacter depending on the choices you make."
+    },
+    {
+      "key": "TIPS_DETAIL_002",
+      "value": "A value showing the player’s dispositional tendencies that\nchanges with your decisions. You can check your current\nstatus on the Profile screen in the menu. There are three\ntypes of Karma: Harmonious, Wrathful, and Moral. This value\nwill change how the story unfolds."
+    },
+    {
+      "key": "TIPS_DETAIL_003",
+      "value": "Karma will affect Agumon’s evolution."
+    },
+    {
+      "key": "TIPS_DETAIL_004",
+      "value": "A value showing your intimacy with other characters that\nchanges with your decisions. You can check your current\nstatus on the Profile screen in the menu. Affinity affects\nthe evolution of other characters and monsters, the\nfrequency of Battle Backup occurring in battles, and more."
+    },
+    {
+      "key": "TIPS_DETAIL_005",
+      "value": "Special destinations for partner monsters of characters\nwith a certain level of Affinity will be added to the Map\nafter specific chapters. Moving to one of these\ndestinations will trigger an evolution event, unlocking\na new evolution for that character."
+    },
+    {
+      "key": "TIPS_DETAIL_006",
+      "value": "A situation called Free Action can occur during the story.\nFree Action has limited moves, and acts mainly to raise\nAffinity with other characters."
+    },
+    {
+      "key": "TIPS_DETAIL_007",
+      "value": "You have a limited number of moves during Free Action.\nThis limit is displayed at the top-right of the Map screen\n(remaining moves/total moves). When you run out of moves,\nyou must speak to the character whose Affinity you want to\nraise."
+    },
+    {
+      "key": "TIPS_DETAIL_008",
+      "value": "Moves are consumed by talking with characters, or by\ntriggering some events. Conversations and events that\nconsume moves have a <sprite index=4> displayed on the map list or\nfocused target."
+    },
+    {
+      "key": "TIPS_DETAIL_009",
+      "value": "Entering spots on the map with a <sprite index=1> mark will trigger\na Free Battle. These are opportunities to gain experience\nand items, and you can persuade enemies into becoming\nallies through conversation. You can take these on as many\ntimes as you want, making them an excellent option for\nbolstering your battle strength."
+    },
+    {
+      "key": "TIPS_DETAIL_010",
+      "value": "A situation known as Exploration can occur during the\nstory. In Exploration, you can choose where to move on the\nmap, talk with characters, and investigate, all to obtain\nitems and find clues to advance the plot."
+    },
+    {
+      "key": "TIPS_DETAIL_011",
+      "value": "In Exploration, move the cursor to start a conversation or\ninvestigate things. You can focus directly on targets. For\nimportant events, <sprite index=6> is displayed on the focused target."
+    },
+    {
+      "key": "TIPS_DETAIL_012",
+      "value": "During Exploration you can also focus on areas other than characters. Investigate such places and you may discover hidden items."
+    },
+    {
+      "key": "TIPS_DETAIL_013",
+      "value": "During Exploration, you can switch to Camera Mode.\nDistortion may appear on the screen during this mode,\nprogressing the story or letting you obtain items by\ninvestigating it. The camera icon is displayed in the\nupper-left corner for important events."
+    },
+    {
+      "key": "TIPS_DETAIL_014",
+      "value": "You may encounter enemies whenever you investigate\ndistortion in Camera Mode. For these battles, you have the\noptions to fight or avoid them altogether. You also have\nthe option to persuade foes through conversation."
+    },
+    {
+      "key": "TIPS_DETAIL_015",
+      "value": "You can open the Pause Menu during the story or on the Map\nscreen. From the Pause Menu, you can access Stats, Profiles,\nItems, Field Guide, Help, Settings and Data functions."
+    },
+    {
+      "key": "TIPS_DETAIL_016",
+      "value": "During Free Action or Exploration, you can select any\npoints on the map to advance the story. Places you can go\nchange with story progression. Info on each location is\ndisplayed in the lower-right part of the Map screen."
+    },
+    {
+      "key": "TIPS_DETAIL_017",
+      "value": "Important events will occur in places marked with <sprite index=0> or <sprite index=2>\non the map list as the story progresses. <sprite index=0> will trigger\nwhen you move to that location, and <sprite index=2> will trigger events\nwhen you talk with characters in that location."
+    },
+    {
+      "key": "TIPS_DETAIL_018",
+      "value": "<sprite index=3> shows the characters in that location. You can check\nwhat characters are where in the information in the lower\npart of the Map screen. <sprite index=1> shows places where Free Battles\nwill occur. <sprite index=4> consumes moves during Free Action."
+    },
+    {
+      "key": "TIPS_DETAIL_019",
+      "value": "Victory and defeat conditions are displayed at the start\nof battle. You can check victory conditions at any time\nduring battle from the Battle Menu. Victory conditions are\ndisplayed in the Battle Menu."
+    },
+    {
+      "key": "TIPS_DETAIL_020",
+      "value": "You can select a difficulty at the start of battle. There\nare three difficulties: Easy, Normal and Hard. Battles are\nusually set to Normal difficulty."
+    },
+    {
+      "key": "TIPS_DETAIL_021",
+      "value": "You can switch to the free cursor when selecting a command\nin battle, letting you move freely around the battle map.\nYou can also rotate the camera and adjust the camera\ndistance."
+    },
+    {
+      "key": "TIPS_DETAIL_022",
+      "value": "In addition to basic stats like HP, SP and Attribute, each\nunit has various abilities such as speed and mobility, and\nresistances. You can check individual stats on the Stats\npage for each unit."
+    },
+    {
+      "key": "TIPS_DETAIL_023",
+      "value": "Each unit has their own Passive Skills, unique abilities\nthat remain active during the entire battle. You can check\nthese abilities on the Stats page for each unit."
+    },
+    {
+      "key": "TIPS_DETAIL_024",
+      "value": "During battle, unit turn order is determined by the Speed\nof enemy and ally units. Status abnormalities and buffs\nthat alter Speed will change the turn order."
+    },
+    {
+      "key": "TIPS_DETAIL_025",
+      "value": "During battle, selecting the Move command during a unit’s\nturn causes a cursor to appear. Select a point within the\nblue grid (your movement range) to move. After moving, you\ncan cancel back to your original position before you take\nany action."
+    },
+    {
+      "key": "TIPS_DETAIL_026",
+      "value": "Each unit has their own ability to climb (and descend)\ndifferences in elevation. During battle, they cannot climb\nor descend an elevation that exceeds this ability. Hover\nthe cursor over a unit to check their <sprite index=113> Vertical\nMovement (VERT MOVE) stat."
+    },
+    {
+      "key": "TIPS_DETAIL_027",
+      "value": "During battle, selecting the Attack command during a unit’s\nturn displays the Skill List. Select any skill from the\nlist to use it. This command cannot be used with items in\na single turn."
+    },
+    {
+      "key": "TIPS_DETAIL_028",
+      "value": "After you choose a skill and select an attack target,\npredictions like damage, accuracy, and counterattack % are\ndisplayed. The higher the counterattack %, the more likely\nan enemy is to counter when attacked."
+    },
+    {
+      "key": "TIPS_DETAIL_029",
+      "value": "Units have individual resistances to <sprite index=114> Fire, <sprite index=115> Water,\n<sprite index=116> Wind, <sprite index=117> Earth, <sprite index=118> Light and <sprite index=119> Dark element skills. The\nhigher the resistance, the less damage they receive from\na corresponding skill."
+    },
+    {
+      "key": "TIPS_DETAIL_030",
+      "value": "The direction from which you attack your opponent will\naffect its strength. Side attacks are stronger and more\naccurate than frontal attacks, and rear attacks are\nstronger and more accurate than side attacks. Also,\nattacks from the side or rear are not affected by\na opponent defending."
+    },
+    {
+      "key": "TIPS_DETAIL_031",
+      "value": "Attacks from higher elevations increase the chance of\na critical hit. The greater the difference in elevation\nbetween the attacker and the attacked, the greater this\nchance becomes."
+    },
+    {
+      "key": "TIPS_DETAIL_032",
+      "value": "As you attack, friends may try to back you up. There are\nthree types of battle backup: Encouragement, Team Attack,\nand Support. Battle backup rates change depending on\nTakuma’s affinities, as well as unit relationships to each\nother on the battle map."
+    },
+    {
+      "key": "TIPS_DETAIL_033",
+      "value": "“Encouragement” has a set chance to occur before an\nattack, as a friend cheers on the attacking unit and raises\ntheir attack power for that attack only."
+    },
+    {
+      "key": "TIPS_DETAIL_034",
+      "value": "“Team Attack” has a set chance to occur after an attack,\nand automatically adds an Attack after the attacking\nunit. This attack does not use the attacker’s turn. Also,\nTeam Attacks only occur when a friend is close to the\ntarget of the Team Attack."
+    },
+    {
+      "key": "TIPS_DETAIL_035",
+      "value": "“Support” has a set chance to occur after a unit action.\nA friend cheers on a unit after their attack, helping them\nrecover a certain amount of HP and SP."
+    },
+    {
+      "key": "TIPS_DETAIL_036",
+      "value": "During battle, selecting the Item command during a unit’s\nturn opens the Recovery Item List. Select an item from the\nlist to use it. Cannot be used with attacks in a single\nturn."
+    },
+    {
+      "key": "TIPS_DETAIL_037",
+      "value": "During battle, using the Evolve command on a main character\npartner unit displays their evolution tree. Evolution\nrequires a certain amount of SP, in exchange for\ndramatically boosting abilities and changing skills.\nRemaining HP stays at the same percentage as before the\nevolution."
+    },
+    {
+      "key": "TIPS_DETAIL_038",
+      "value": "During battle, monsters evolved through the Evolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (devolve them) voluntarily."
+    },
+    {
+      "key": "TIPS_DETAIL_039",
+      "value": "During battle, the Talk command is only available on the\nturns of main character partner units. Subjects of\nconversation are divided into enemies and allies, and you\ncan only talk to enemies in Free Battles or during\nencounters while exploring."
+    },
+    {
+      "key": "TIPS_DETAIL_040",
+      "value": "During battle, use the Talk command to receive\nencouragement from your friends, gaining a variety of\neffects. The effects are shown under the list of\nconversation subjects. Also, you can only use the Talk\ncommand once per child in battle."
+    },
+    {
+      "key": "TIPS_DETAIL_041",
+      "value": "Using the Talk command during battle with enemies lets you\nanswer their questions from a list of options. Garnering\na certain amount of sympathy from your answers will make\nthem hear you out. Note that the “Be my friend!” request\nmay not succeed."
+    },
+    {
+      "key": "TIPS_DETAIL_042",
+      "value": "During a battle, select the End Turn command to end the\nturn of a unit that has run out of actions you wish to\nperform, and move on to the next unit’s action. When ending\na unit’s turn, you can pick the direction that unit will\nface."
+    },
+    {
+      "key": "TIPS_DETAIL_043",
+      "value": "During battle, units that end a turn without attacking or\nusing items will automatically take a defensive stance.\nUnits automatically stop defending in one turn."
+    },
+    {
+      "key": "TIPS_DETAIL_044",
+      "value": "During battle, while an ally unit is in Rookie form (and\nfor all Rookie-level Free Monsters), ending a turn without\nattacking or using items will recover 10% of their SP. If\nsaid monster also does not move, they recover 30% of their\nSP instead."
+    },
+    {
+      "key": "TIPS_DETAIL_045",
+      "value": "During battle, you can open the Battle Menu at any time\nexcept during animations such as movements or attacks. You\ncan use the following functions from the Battle Menu:\nVictory Conditions, Auto, Suspend, Give Up, Retry, Help and\nSettings."
+    },
+    {
+      "key": "TIPS_DETAIL_046",
+      "value": "Select one of five strategies with different\ncharacteristics, then leave battles to the AI. A summary\nof each strategy is shown under the Strategies list. Also,\nyou can suspend a strategy at any time during auto-battle."
+    },
+    {
+      "key": "TIPS_DETAIL_047",
+      "value": "Suspend a battle, save situation data, and return to the\ntitle screen. Suspended battle data is only a temporary\nsave, and is lost if not used in subsequent play."
+    },
+    {
+      "key": "TIPS_DETAIL_048",
+      "value": "You can check the stats of ally monsters with Stats in the\nPause Menu. Organize monsters by individual stats, \nor release any monster."
+    },
+    {
+      "key": "TIPS_DETAIL_049",
+      "value": "After choosing any monster on the Pause Menu’s Stats screen,\nselect Skills from the top tabs to check their skills.\nOriginal or equipped skills are displayed. You can check\neach skill’s effect, SP used, range, and effect area."
+    },
+    {
+      "key": "TIPS_DETAIL_050",
+      "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Equipment from the top tabs to \ncheck their equipment. All monsters have two equipment slots. With Change, choose and equip \nSkill or Enhancement items."
+    },
+    {
+      "key": "TIPS_DETAIL_051",
+      "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Training from the top tabs to \ntrain them. Select and give training items from the \nlist to raise monster stats."
+    },
+    {
+      "key": "TIPS_DETAIL_052",
+      "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Evolution from the top tabs to \ncheck evolutions. Evolution trees are displayed for \neach monster, letting you check their evolution paths."
+    },
+    {
+      "key": "TIPS_DETAIL_053",
+      "value": "On the Pause Menu’s Profile screen, you can check\nTakuma’s Karma and Affinity with main characters. \nSelecting a character besides Takuma lets you check\ntheir Battle Backup rate in battle."
+    },
+    {
+      "key": "TIPS_DETAIL_054",
+      "value": "After selecting a character from the Pause Menu’s \nProfile screen, you can check character information, \nepisodes and partner monster information from the \ntop tabs. Episodes are gradually unlocked through \nstory progression."
+    },
+    {
+      "key": "TIPS_DETAIL_055",
+      "value": "On the Pause Menu’s Items screen, you can check \nitems obtained during battles or exploration. Items \nare divided into Recovery Items, Enhancement \nItems, Skill Items, Training Items, and Key Items."
+    },
+    {
+      "key": "TIPS_DETAIL_056",
+      "value": "Aside from specific monsters, all units that appear in\nbattle fall into <sprite index=102> Moral (Vaccine), <sprite index=100> Wrathful (Virus) or <sprite index=101>\nHarmonious (Data) types."
+    },
+    {
+      "key": "TIPS_TITLE_057",
+      "value": "Tip: Effect of Defending"
+    },
+    {
+      "key": "TIPS_DETAIL_057",
+      "value": "During battle, defending reduces frontal attack damage\nreceived by half. Attacks from the side or rear are\nunaffected."
+    },
+    {
+      "key": "TIPS_TITLE_058",
+      "value": "Tip: Type Strengths & Weaknesses"
+    },
+    {
+      "key": "TIPS_TITLE_059",
+      "value": "Tip: Movement and Move Type"
+    },
+    {
+      "key": "TIPS_TITLE_060",
+      "value": "Tip: Skills"
+    },
+    {
+      "key": "TIPS_TITLE_061",
+      "value": "Tip: Skills and SP"
+    },
+    {
+      "key": "TIPS_TITLE_062",
+      "value": "Tip: Skill Range and Area"
+    },
+    {
+      "key": "TIPS_TITLE_063",
+      "value": "Tip: Status Abnormalities"
+    },
+    {
+      "key": "TIPS_TITLE_064",
+      "value": "Tip: Status Abnormality Types"
+    },
+    {
+      "key": "TIPS_TITLE_065",
+      "value": "Tip: Give Up and Retry"
+    },
+    {
+      "key": "TIPS_TITLE_066",
+      "value": "Tip: Free Monster Evolution"
+    },
+    {
+      "key": "TIPS_TITLE_067",
+      "value": "Tip: Recovery Items"
+    },
+    {
+      "key": "TIPS_TITLE_068",
+      "value": "Tip: Enhancement Items"
+    },
+    {
+      "key": "TIPS_TITLE_069",
+      "value": "Tip: Skill Items"
+    },
+    {
+      "key": "TIPS_TITLE_070",
+      "value": "Tip: Training Items"
+    },
+    {
+      "key": "TIPS_TITLE_071",
+      "value": "Tip: Key Items"
+    },
+    {
+      "key": "TIPS_TITLE_072",
+      "value": "Tip: Skill Attributes"
+    },
+    {
+      "key": "TIPS_DETAIL_058",
+      "value": "The three monster types have a rock-paper-scissors\nrelationship with each other, boosting attack damage\nagainst weak types and reducing it against strong types.\n<sprite index=102> Moral (Vaccine) is strong against <sprite index=100> Wrathful (Virus),\n<sprite index=100> Wrathful (Virus) is strong against <sprite index=101> Harmonious (Data),\nand <sprite index=101> Harmonious (Data) is strong against <sprite index=102> Moral\n(Vaccine)."
+    },
+    {
+      "key": "TIPS_DETAIL_059",
+      "value": "Units have one of two Move Types: <sprite index=110> Land or <sprite index=111> Air. Air\nMove Types can even move over disconnected ground."
+    },
+    {
+      "key": "TIPS_DETAIL_060",
+      "value": "Skills are moves unique to each unit, and are classified\nas <sprite index=105> Physical Attacks (PHYS ATK) or <sprite index=107> Special Attacks\n(SP ATK). Unit stats include <sprite index=106> Physical Defense (PHYS DEF)\nand <sprite index=108> Special Defense (SP DEF), affecting the damage received\nfrom skills."
+    },
+    {
+      "key": "TIPS_DETAIL_061",
+      "value": "When units use skills, each one consumes a set amount of\nSP. Each unit always has the Attack skill, which doesn’t\nconsume SP."
+    },
+    {
+      "key": "TIPS_DETAIL_062",
+      "value": "A skill’s Range is shows the places said skill can target.\nArea shows how far a skill’s effect spreads around the\npoint of impact."
+    },
+    {
+      "key": "TIPS_DETAIL_063",
+      "value": "During battle, gaining a status abnormality restricts\na unit somehow, preventing them from moving, using skills\nand more. Said monster will recover after a set number of\nturns, or by using a Recovery item. Stunned, Frozen and\nConfused abnormalities are canceled when the afflicted\nunit gets attacked."
+    },
+    {
+      "key": "TIPS_DETAIL_064",
+      "value": "<sprite index=120> Stunned, <sprite index=121> Frozen, and <sprite index=123> Paralyzed render a unit unable\nto move. <sprite index=122> Poisoned inflicts a set amount of damage\nevery turn, and <sprite index=124> Sealed prevents a unit from using any\nskill besides Attack. <sprite index=125> Confused renders a unit\nuncontrollable, causing it to attack itself and its allies."
+    },
+    {
+      "key": "TIPS_DETAIL_065",
+      "value": "The Give Up option ends the current battle and returns you\nto the game’s title screen. In Free Battles, you return back\nto the Map screen. Retry returns you to the start of the\ncurrent battle. (Note that all items obtained or consumed\nduring the battle are reset.)"
+    },
+    {
+      "key": "TIPS_DETAIL_066",
+      "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an evolution path from\nthe evolution tree (note that they cannot be devolved).\nEvolution also requires specific items."
+    },
+    {
+      "key": "TIPS_DETAIL_067",
+      "value": "Use these during battle to restore unit HP and SP. To use\none, select a unit’s Item command to open the list, then\nselect any item."
+    },
+    {
+      "key": "TIPS_DETAIL_068",
+      "value": "Putting equipment on monsters boosts their stats and\nbestows special effects. To equip items, choose any monster\nfrom the Stats screen and select Equipment from the top\ntabs."
+    },
+    {
+      "key": "TIPS_DETAIL_069",
+      "value": "Putting equipment on monsters lets you use that equipment’s\nskills in battle. To equip items, choose any monster from\nthe Stats screen and select Equipment from the top tabs."
+    },
+    {
+      "key": "TIPS_DETAIL_070",
+      "value": "Use these on monsters to boost their stats, evolve Free\nMonsters, and more. To use them, choose any monster from\nthe Stats screen and select Training or Evolution from the\ntop tabs."
+    },
+    {
+      "key": "TIPS_DETAIL_071",
+      "value": "Items needed to progress the plot."
+    },
+    {
+      "key": "TIPS_DETAIL_072",
+      "value": "Skills are divided into different Skill Attributes:\n<sprite index=114> Fire, <sprite index=115> Water, <sprite index=116> Wind, <sprite index=117> Earth, <sprite index=118> Light and <sprite index=119> Dark.\n(There are non-elemental skills as well). The color of\nthe <sprite index=105> or <sprite index=107> icon next to a skill name represents its\nattribute."
+    },
+    {
+      "key": "TIPS_TITLE_073",
+      "value": "Tip: Free Monsters"
+    },
+    {
+      "key": "TIPS_DETAIL_073",
+      "value": "This refers to monsters that aren’t main character\npartners. They appear as enemies in Free Battles, or\nencounters during exploration. Persuading them with the\nTalk command may turn them into allies."
+    },
+    {
+      "key": "TIPS_TITLE_074",
+      "value": "Tip: Stat Tendencies"
+    },
+    {
+      "key": "TIPS_DETAIL_074",
+      "value": "Among the monsters, All-Rounder types are balanced overall,\nwhile Mobility types are specialized in MOVE AMT and VERT\nMOVE. Attack types have high PHYS ATK, Special Attack types\nhave high SP ATK, and Defense types have high PHYS DEF and\nSP DEF."
+    }
+  ]
+}

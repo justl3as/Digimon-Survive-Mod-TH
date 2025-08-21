@@ -1,0 +1,200 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S0240_0001",
+      "value": "Yo, Takuma. Ready to head to the shrine?"
+    },
+    {
+      "key": "EP11_S0240_Q1",
+      "value": "How should I respond to Kaito?"
+    },
+    {
+      "key": "EP11_S0240_Q1_A1",
+      "value": "It’ll take more time."
+    },
+    {
+      "key": "EP11_S0240_Q1_A2",
+      "value": "I’m almost done."
+    },
+    {
+      "key": "EP11_S0240_0002",
+      "value": "It’ll take some more time. I think it’s the\nsame for the others."
+    },
+    {
+      "key": "EP11_S0240_0003",
+      "value": "What about you, Kaito?"
+    },
+    {
+      "key": "EP11_S0240_0004",
+      "value": "I don’t really have anything to prep...\nI’ll be ready to go whenever Miu is."
+    },
+    {
+      "key": "EP11_S0240_0005",
+      "value": "Just gimme a holler when it’s time for us to\nhead out, yeah?"
+    },
+    {
+      "key": "EP11_S0240_0006",
+      "value": "I’m almost done."
+    },
+    {
+      "key": "EP11_S0240_0007",
+      "value": "All right, gimme a shout when we’re going."
+    },
+    {
+      "key": "EP11_S0240_0008",
+      "value": "I don’t really have anything to prep...\nI’ll be ready to go whenever Miu is."
+    },
+    {
+      "key": "EP11_S0240_0009",
+      "value": "You’re always thinking about Miu. Even now,\naren’t you, Kaito?"
+    },
+    {
+      "key": "EP11_S0240_0010",
+      "value": "I gotta say, it’s pretty impressive."
+    },
+    {
+      "key": "EP11_S0240_0011",
+      "value": "Really? I’m just doing what a brother does.\nWe’ve been through a lot together"
+    },
+    {
+      "key": "EP11_S0240_0012",
+      "value": "What about you, Takuma? Is there anything out\nthere you’d do anything to protect?"
+    },
+    {
+      "key": "EP11_S0240_Q2",
+      "value": "Something I want to protect...?"
+    },
+    {
+      "key": "EP11_S0240_Q2_A1",
+      "value": "I don’t really know."
+    },
+    {
+      "key": "EP11_S0240_Q2_A2",
+      "value": "I...don’t think so."
+    },
+    {
+      "key": "EP11_S0240_0013",
+      "value": "I don’t really know..."
+    },
+    {
+      "key": "EP11_S0240_0014",
+      "value": "I mean, I’ve thought about protecting my\nfriends, or Agumon..."
+    },
+    {
+      "key": "EP11_S0240_0015",
+      "value": "That’s different. When it comes to Miu,\nI lose sight of everything else."
+    },
+    {
+      "key": "EP11_S0240_0016",
+      "value": "I...don’t think so."
+    },
+    {
+      "key": "EP11_S0240_0017",
+      "value": "I mean, I’ve thought about protecting my\nfriends, or Agumon..."
+    },
+    {
+      "key": "EP11_S0240_0018",
+      "value": "Still, I get the feeling that’s not what you\nmean, Kaito."
+    },
+    {
+      "key": "EP11_S0240_0019",
+      "value": "Yeah... For me, Miu is the only important\nthing to me. I lose sight of everything else."
+    },
+    {
+      "key": "EP11_S0240_0020",
+      "value": "But I guess that’s why everyone trusts you\nlike they do, Takuma."
+    },
+    {
+      "key": "EP11_S0240_0021",
+      "value": "I can see that."
+    },
+    {
+      "key": "EP11_S0240_0022",
+      "value": "Yeah, I bet that’s why.\nMe, I can’t do things that way."
+    },
+    {
+      "key": "EP11_S0240_0023",
+      "value": "You were super pissed when Miu got kidnapped."
+    },
+    {
+      "key": "EP11_S0240_0024",
+      "value": "Yeah... All I could think about was saving\nher when that happened."
+    },
+    {
+      "key": "EP11_S0240_0025",
+      "value": "In all honesty, I didn’t give two flips about\nanything else."
+    },
+    {
+      "key": "EP11_S0240_0026",
+      "value": "Miu says that’s what she hates about you,\nyou know?"
+    },
+    {
+      "key": "EP11_S0240_0027",
+      "value": "Don’t say that, Dracmon. Even I don’t know\nwhat to do about it."
+    },
+    {
+      "key": "EP11_S0240_0028",
+      "value": "I don’t want Miu to hate me, but I just can’t\nhelp myself..."
+    },
+    {
+      "key": "EP11_S0240_0029",
+      "value": "Hey, Takuma. What do you think I should do?"
+    },
+    {
+      "key": "EP11_S0240_Q3",
+      "value": "How should I answer Kaito’s concerns?"
+    },
+    {
+      "key": "EP11_S0240_Q3_A1",
+      "value": "Try talking to Miu."
+    },
+    {
+      "key": "EP11_S0240_Q3_A2",
+      "value": "I don’t know."
+    },
+    {
+      "key": "EP11_S0240_0030",
+      "value": "I think you should talk to Miu, Kaito."
+    },
+    {
+      "key": "EP11_S0240_0031",
+      "value": "She may not like how protective you are, but\nthat doesn’t mean she hates you."
+    },
+    {
+      "key": "EP11_S0240_0032",
+      "value": "I think so, too.\nYou should do as Takuma says."
+    },
+    {
+      "key": "EP11_S0240_0033",
+      "value": "Talk it out, huh... Not a bad idea. Face to\nface, we should be able to hash it out."
+    },
+    {
+      "key": "EP11_S0240_0034",
+      "value": "I guess you’ll have to think of something."
+    },
+    {
+      "key": "EP11_S0240_0035",
+      "value": "Yeah, guess so... Thanks, Takuma."
+    },
+    {
+      "key": "EP11_S0240_0036",
+      "value": "I don’t know, Kaito. You should think of\nsomething on your own."
+    },
+    {
+      "key": "EP11_S0240_0037",
+      "value": "Yeah... Sorry for asking something weird..."
+    },
+    {
+      "key": "EP11_S0240_0038",
+      "value": "I’ll try thinking on my own for a bit longer."
+    },
+    {
+      "key": "EP11_S0240_0039",
+      "value": "I’ll help out too, Kaito!"
+    },
+    {
+      "key": "EP11_S0240_0040",
+      "value": "Cool. Thanks, Dracmon."
+    }
+  ]
+}

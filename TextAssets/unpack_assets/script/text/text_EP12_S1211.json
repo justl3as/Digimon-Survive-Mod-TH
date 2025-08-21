@@ -1,0 +1,340 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1211_0001",
+      "value": "What is going on?"
+    },
+    {
+      "key": "EP12_S1211_0002",
+      "value": "Oooooohhh..."
+    },
+    {
+      "key": "EP12_S1211_0003",
+      "value": "Oooooohhh?!"
+    },
+    {
+      "key": "EP12_S1211_0004",
+      "value": "It’s...working?! Is this...our chance?!"
+    },
+    {
+      "key": "EP12_S1211_0005",
+      "value": "Labramon! Over here!"
+    },
+    {
+      "key": "EP12_S1211_0006",
+      "value": "You got it, Aoi!"
+    },
+    {
+      "key": "EP12_S1211_0007",
+      "value": "Dobermon! Over here!"
+    },
+    {
+      "key": "EP12_S1211_0008",
+      "value": "Here I am, Aoi!"
+    },
+    {
+      "key": "EP12_S1211_0009",
+      "value": "Cerberusmon! Over here!"
+    },
+    {
+      "key": "EP12_S1211_0010",
+      "value": "The fires of hell are yours to command, Aoi!"
+    },
+    {
+      "key": "EP12_S1211_0011",
+      "value": "Baihumon! Over here!"
+    },
+    {
+      "key": "EP12_S1211_0012",
+      "value": "Understood, Aoi!"
+    },
+    {
+      "key": "EP12_S1211_0013",
+      "value": "Anubismon! Over here!"
+    },
+    {
+      "key": "EP12_S1211_0014",
+      "value": "Ready and willing, Aoi!"
+    },
+    {
+      "key": "EP12_S1211_0015",
+      "value": "Plutomon! Over here!"
+    },
+    {
+      "key": "EP12_S1211_0016",
+      "value": "I will bring down judgment in your name!"
+    },
+    {
+      "key": "EP12_S1211_0017",
+      "value": "Falcomon, we’re up!"
+    },
+    {
+      "key": "EP12_S1211_0018",
+      "value": "You can count on me, Minoru!"
+    },
+    {
+      "key": "EP12_S1211_0019",
+      "value": "Diatrymon, we’re up!"
+    },
+    {
+      "key": "EP12_S1211_0020",
+      "value": "Any time, Minoru!"
+    },
+    {
+      "key": "EP12_S1211_0021",
+      "value": "Crowmon, we’re up!"
+    },
+    {
+      "key": "EP12_S1211_0022",
+      "value": "Heh... Looks like it, Minoru!"
+    },
+    {
+      "key": "EP12_S1211_0023",
+      "value": "Varodurumon, we’re up!"
+    },
+    {
+      "key": "EP12_S1211_0024",
+      "value": "Leave it to me, Minoru!"
+    },
+    {
+      "key": "EP12_S1211_0025",
+      "value": "Zhuqiaomon, we’re up!"
+    },
+    {
+      "key": "EP12_S1211_0026",
+      "value": "Way ahead of you, Minoru!"
+    },
+    {
+      "key": "EP12_S1211_0027",
+      "value": "Get him, Dracmon!"
+    },
+    {
+      "key": "EP12_S1211_0028",
+      "value": "You got it, Kaito!"
+    },
+    {
+      "key": "EP12_S1211_0029",
+      "value": "Get him, Sangloupmon!"
+    },
+    {
+      "key": "EP12_S1211_0030",
+      "value": "I’ll give it all I’ve got, Kaito!"
+    },
+    {
+      "key": "EP12_S1211_0031",
+      "value": "Get him, Myotismon!"
+    },
+    {
+      "key": "EP12_S1211_0032",
+      "value": "As you wish...Kaito!"
+    },
+    {
+      "key": "EP12_S1211_0033",
+      "value": "Get him, Beelzemon!"
+    },
+    {
+      "key": "EP12_S1211_0034",
+      "value": "Hah! He’s mine now, Kaito!"
+    },
+    {
+      "key": "EP12_S1211_0035",
+      "value": "Get him, Boltboutamon!"
+    },
+    {
+      "key": "EP12_S1211_0036",
+      "value": "Heheh, if that’s what you want, Kaito!"
+    },
+    {
+      "key": "EP12_S1211_0037",
+      "value": "Go for it, Syakomon!"
+    },
+    {
+      "key": "EP12_S1211_0038",
+      "value": "Will do, Miu!"
+    },
+    {
+      "key": "EP12_S1211_0039",
+      "value": "Go for it, Shellmon!"
+    },
+    {
+      "key": "EP12_S1211_0040",
+      "value": "Shellshellshell!\n(Here goes nothing, Miu!)"
+    },
+    {
+      "key": "EP12_S1211_0041",
+      "value": "Go for it, Mermaimon!"
+    },
+    {
+      "key": "EP12_S1211_0042",
+      "value": "Yes, leave it to me, Miu!"
+    },
+    {
+      "key": "EP12_S1211_0043",
+      "value": "Go for it, MarineAngemon!"
+    },
+    {
+      "key": "EP12_S1211_0044",
+      "value": "Peep pyu? Peep pyuuupyuupyuu!\n(Thanks, Miu! I’ve got this!)"
+    },
+    {
+      "key": "EP12_S1211_0045",
+      "value": "Go for it, Azulongmon!"
+    },
+    {
+      "key": "EP12_S1211_0046",
+      "value": "Your wish is my command, Miu!"
+    },
+    {
+      "key": "EP12_S1211_0047",
+      "value": "Now it’s our turn, Floramon!"
+    },
+    {
+      "key": "EP12_S1211_0048",
+      "value": "All right, if you say so, Saki!"
+    },
+    {
+      "key": "EP12_S1211_0049",
+      "value": "Now it’s our turn, Vegiemon!"
+    },
+    {
+      "key": "EP12_S1211_0050",
+      "value": "Heheh, is it now? Just kidding, Saki!"
+    },
+    {
+      "key": "EP12_S1211_0051",
+      "value": "Now it’s our turn, Blossomon!"
+    },
+    {
+      "key": "EP12_S1211_0052",
+      "value": "Anything for you, Saki!"
+    },
+    {
+      "key": "EP12_S1211_0053",
+      "value": "Now it’s our turn, Ceresmon!"
+    },
+    {
+      "key": "EP12_S1211_0054",
+      "value": "As you wish, Saki."
+    },
+    {
+      "key": "EP12_S1211_0055",
+      "value": "Now it’s our turn, Ceresmon Medium!"
+    },
+    {
+      "key": "EP12_S1211_0056",
+      "value": "For you, Saki, I would do anything."
+    },
+    {
+      "key": "EP12_S1211_0057",
+      "value": "Now it’s our turn, Ebonwumon!"
+    },
+    {
+      "key": "EP12_S1211_0058",
+      "value": "Very well, Saki."
+    },
+    {
+      "key": "EP12_S1211_0059",
+      "value": "Let’s go, Agumon!"
+    },
+    {
+      "key": "EP12_S1211_0060",
+      "value": "Right, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0061",
+      "value": "Let’s go, Greymon!"
+    },
+    {
+      "key": "EP12_S1211_0062",
+      "value": "You bet, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0063",
+      "value": "Let’s go, Tyrannomon!"
+    },
+    {
+      "key": "EP12_S1211_0064",
+      "value": "Leave this to me, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0065",
+      "value": "Let’s go, Tuskmon!"
+    },
+    {
+      "key": "EP12_S1211_0066",
+      "value": "You bet, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0067",
+      "value": "Let’s go, SkullGreymon!"
+    },
+    {
+      "key": "EP12_S1211_0068",
+      "value": "Gwaaar...!"
+    },
+    {
+      "key": "EP12_S1211_0069",
+      "value": "Let’s go, MetalGreymon!"
+    },
+    {
+      "key": "EP12_S1211_0070",
+      "value": "Let me at him, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0071",
+      "value": "Let’s go, Triceramon!"
+    },
+    {
+      "key": "EP12_S1211_0072",
+      "value": "Takuma... Hear me roar!"
+    },
+    {
+      "key": "EP12_S1211_0073",
+      "value": "Let’s go, Megadramon!"
+    },
+    {
+      "key": "EP12_S1211_0074",
+      "value": "I’ll mess him up, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0075",
+      "value": "Let’s go, WarGreymon!"
+    },
+    {
+      "key": "EP12_S1211_0076",
+      "value": "All your enemies will fall to me, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0077",
+      "value": "Let’s go, Dinorexmon!"
+    },
+    {
+      "key": "EP12_S1211_0078",
+      "value": "I’ll protect you, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0079",
+      "value": "Let’s go, Machinedramon!"
+    },
+    {
+      "key": "EP12_S1211_0080",
+      "value": "Time for some trampling, Takuma!"
+    },
+    {
+      "key": "EP12_S1211_0081",
+      "value": "Let’s go, Fanglongmon!"
+    },
+    {
+      "key": "EP12_S1211_0082",
+      "value": "All shall be as you wish, Takuma."
+    },
+    {
+      "key": "EP12_S1211_0083",
+      "value": "Let’s go, Omegamon!"
+    },
+    {
+      "key": "EP12_S1211_0084",
+      "value": "I knew from the start I’d finish this! Here\ngoes, Takuma!"
+    }
+  ]
+}

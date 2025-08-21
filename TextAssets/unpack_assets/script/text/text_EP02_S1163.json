@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1163_0001",
+      "value": "Any luck, Falcomon?"
+    },
+    {
+      "key": "EP02_S1163_0002",
+      "value": "Unfortunately, no, I have not found anything."
+    },
+    {
+      "key": "EP02_S1163_0003",
+      "value": "However, I am sensing some sort of presence."
+    },
+    {
+      "key": "EP02_S1163_0004",
+      "value": "What do you mean? Is it something dangerous?"
+    },
+    {
+      "key": "EP02_S1163_0005",
+      "value": "I’m not sure. Since I can’t tell what it is,\nit’s hard for me to describe."
+    },
+    {
+      "key": "EP02_S1163_0006",
+      "value": "All right, well, our first priority should\nstill be to find some trace of the others."
+    },
+    {
+      "key": "EP02_S1163_0007",
+      "value": "Very well."
+    },
+    {
+      "key": "EP02_S1163_0008",
+      "value": "I’m sensing something, only...it’s unclear."
+    }
+  ]
+}

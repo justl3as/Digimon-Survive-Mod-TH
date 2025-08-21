@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1165_0001",
+      "value": "*sniff* *sniff* Yes, I’m picking up on\na scent. It smells like some sort of beast."
+    },
+    {
+      "key": "EP02_S1165_0002",
+      "value": "You think it’s that thing from before?\nWhere’s it headed?"
+    },
+    {
+      "key": "EP02_S1165_0003",
+      "value": "Hmm, it’s hard to say. The scent’s coming\nfrom all over."
+    },
+    {
+      "key": "EP02_S1165_0004",
+      "value": "But it’s definitely out there. We should be\ncareful."
+    },
+    {
+      "key": "EP02_S1165_0005",
+      "value": "Oh, okay."
+    },
+    {
+      "key": "EP02_S1165_0006",
+      "value": "That thing has got to be close by. Be\ncareful."
+    }
+  ]
+}

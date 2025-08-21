@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S2112_0001",
+      "value": "I’d say we’ve searched this corner of the\napartment complex top to bottom."
+    },
+    {
+      "key": "EP06_S2112_0002",
+      "value": "We didn’t spot anything that looked like the\nenemy base, huh!"
+    },
+    {
+      "key": "EP06_S2112_0003",
+      "value": "Yeah. Oh, but there’s still the other\nbuilding to investigate, right?"
+    },
+    {
+      "key": "EP06_S2112_0004",
+      "value": "(That reminds me, the Professor mentioned\nsomething about that other building...)"
+    },
+    {
+      "key": "EP06_S2112_0005",
+      "value": "Something tells me I should check it out.\nYou coming with, Agumon?"
+    },
+    {
+      "key": "EP06_S2112_0006",
+      "value": "Of course! Let’s go, go, go!"
+    },
+    {
+      "key": "EP06_S2112_0007",
+      "value": "I bet it’ll be fun to compare this building\nto the other one!"
+    }
+  ]
+}

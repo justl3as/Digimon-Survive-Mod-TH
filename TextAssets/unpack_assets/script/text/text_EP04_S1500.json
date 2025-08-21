@@ -1,0 +1,312 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1500_0001",
+      "value": "Hmm... Everyone seems restless."
+    },
+    {
+      "key": "EP04_S1500_0002",
+      "value": "Restless..."
+    },
+    {
+      "key": "EP04_S1500_0003",
+      "value": "Don’t worry, Miyuki. I’ll always be with you."
+    },
+    {
+      "key": "EP04_S1500_0004",
+      "value": "With you..."
+    },
+    {
+      "key": "EP04_S1500_0005",
+      "value": "(So that’s where these two went.)"
+    },
+    {
+      "key": "EP04_S1500_0006",
+      "value": "(I wonder... Should I say something?)"
+    },
+    {
+      "key": "EP04_S1500_0007",
+      "value": "(Both Haru and Miyuki are kind of hard to\ntalk to sometimes.)"
+    },
+    {
+      "key": "EP04_S1500_0008",
+      "value": "(Although it is nice to see them getting\nalong so well.)"
+    },
+    {
+      "key": "EP04_S1500_0009",
+      "value": "...♪"
+    },
+    {
+      "key": "EP04_S1500_0010",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S1500_0011",
+      "value": "Miyuki, that song..."
+    },
+    {
+      "key": "EP04_S1500_0012",
+      "value": "Hey, Takuma, did you hear that? It sounded\nlike Miyuki was singing something."
+    },
+    {
+      "key": "EP04_S1500_0013",
+      "value": "Yeah, it did. It was too quiet for me to\nreally make it out, but I heard something."
+    },
+    {
+      "key": "EP04_S1500_0014",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S1500_0015",
+      "value": "Never mind."
+    },
+    {
+      "key": "EP04_S1500_0016",
+      "value": "(Or...was I imagining it?)"
+    },
+    {
+      "key": "EP04_S1500_0017",
+      "value": "Hmm... Haru doesn’t seem too happy, does he?"
+    },
+    {
+      "key": "EP04_S1500_0018",
+      "value": "No, if anything, he looks really sad."
+    },
+    {
+      "key": "EP04_S1500_0019",
+      "value": "You think so?"
+    },
+    {
+      "key": "EP04_S1500_0020",
+      "value": "Then let’s go cheer him up!"
+    },
+    {
+      "key": "EP04_S1500_0021",
+      "value": "No, wait, Agumon!"
+    },
+    {
+      "key": "EP04_S1500_0022",
+      "value": "Haru! Miyuki!"
+    },
+    {
+      "key": "EP04_S1500_0023",
+      "value": "Oh...Takuma, Agumon. How long have you been\nthere?"
+    },
+    {
+      "key": "EP04_S1500_0024",
+      "value": "Been there?"
+    },
+    {
+      "key": "EP04_S1500_0025",
+      "value": "Not too long!"
+    },
+    {
+      "key": "EP04_S1500_0026",
+      "value": "Sorry. We didn’t mean to eavesdrop or\nanything."
+    },
+    {
+      "key": "EP04_S1500_0027",
+      "value": "You...heard that?"
+    },
+    {
+      "key": "EP04_S1500_0028",
+      "value": "Heard that?"
+    },
+    {
+      "key": "EP04_S1500_0029",
+      "value": "(He’s...asking about the song, isn’t he?\nMaybe we weren’t supposed to hear it.)"
+    },
+    {
+      "key": "EP04_S1500_0030",
+      "value": "(Should I be honest about this, or pretend\nnot to have noticed?)"
+    },
+    {
+      "key": "EP04_S1500_0031",
+      "value": "(Then again, I am worried about Miyuki. Maybe\nI should turn the question back on them.)"
+    },
+    {
+      "key": "EP04_S1500_Q1",
+      "value": "(How should I respond to these two?)"
+    },
+    {
+      "key": "EP04_S1500_Q1_A1",
+      "value": "Yes, I heard it."
+    },
+    {
+      "key": "EP04_S1500_Q1_A2",
+      "value": "Is it bad if I did?"
+    },
+    {
+      "key": "EP04_S1500_Q1_A3",
+      "value": "Heard what?"
+    },
+    {
+      "key": "EP04_S1500_0032",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1500_0033",
+      "value": "You mean how Miyuki was singing something?\nYeah, it was quiet, but I heard it."
+    },
+    {
+      "key": "EP04_S1500_0034",
+      "value": "Me too! Me too! I definitely heard it."
+    },
+    {
+      "key": "EP04_S1500_0035",
+      "value": "Oh, so you heard it too."
+    },
+    {
+      "key": "EP04_S1500_0036",
+      "value": "Too..."
+    },
+    {
+      "key": "EP04_S1500_0037",
+      "value": "Could it... Could it have been because of\nyou?"
+    },
+    {
+      "key": "EP04_S1500_0038",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S1500_0039",
+      "value": "No, forget it. It’s nothing."
+    },
+    {
+      "key": "EP04_S1500_0040",
+      "value": "(There it is again. That mournful\nexpression.)"
+    },
+    {
+      "key": "EP04_S1500_0041",
+      "value": "Haru... Did you want her to sing more?"
+    },
+    {
+      "key": "EP04_S1500_0042",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP04_S1500_0043",
+      "value": "I’m...not sure."
+    },
+    {
+      "key": "EP04_S1500_0044",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S1500_0045",
+      "value": "(I...feel like he dodged that question.)"
+    },
+    {
+      "key": "EP04_S1500_0046",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1500_0047",
+      "value": "Sorry, is it bad if I did?"
+    },
+    {
+      "key": "EP04_S1500_0048",
+      "value": "Was that song supposed to be something secret\nbetween you two?"
+    },
+    {
+      "key": "EP04_S1500_0049",
+      "value": "Well...not exactly."
+    },
+    {
+      "key": "EP04_S1500_0050",
+      "value": "Not exactly..."
+    },
+    {
+      "key": "EP04_S1500_0051",
+      "value": "(Haru’s expression is difficult to read.)"
+    },
+    {
+      "key": "EP04_S1500_0052",
+      "value": "(The two of them do seem real close.)"
+    },
+    {
+      "key": "EP04_S1500_0053",
+      "value": "(It could be he’s just jealous that someone\nother than him heard his sister singing.)"
+    },
+    {
+      "key": "EP04_S1500_0054",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1500_0055",
+      "value": "Uh, heard what?"
+    },
+    {
+      "key": "EP04_S1500_0056",
+      "value": "Never mind. If you didn’t hear it that’s\nfine."
+    },
+    {
+      "key": "EP04_S1500_0057",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S1500_0058",
+      "value": "(He seems...a little relieved?)"
+    },
+    {
+      "key": "EP04_S1500_0059",
+      "value": "(I guess he didn’t want us to have heard\nanything.)"
+    },
+    {
+      "key": "EP04_S1500_0060",
+      "value": "Hey, Takuma, why’d you lie?"
+    },
+    {
+      "key": "EP04_S1500_0061",
+      "value": "You said you heard Miyuki singing too just—"
+    },
+    {
+      "key": "EP04_S1500_0062",
+      "value": "Shhh!"
+    },
+    {
+      "key": "EP04_S1500_0063",
+      "value": "You heard what Haru said, right? Let’s just\npretend we didn’t hear anything for now."
+    },
+    {
+      "key": "EP04_S1500_0064",
+      "value": "Are you sure? I guess if you say so..."
+    },
+    {
+      "key": "EP04_S1500_0065",
+      "value": "All right, we’re going to see how everyone\nelse is doing,"
+    },
+    {
+      "key": "EP04_S1500_0066",
+      "value": "but we should talk about the search for Miu.\nCan you two be in the cafeteria by noon?"
+    },
+    {
+      "key": "EP04_S1500_0067",
+      "value": "Me and my sister?"
+    },
+    {
+      "key": "EP04_S1500_0068",
+      "value": "Yeah. Kaito’s waiting for everyone to get\ntogether, and I’d hate to leave you two out."
+    },
+    {
+      "key": "EP04_S1500_0069",
+      "value": "Okay."
+    },
+    {
+      "key": "EP04_S1500_0070",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP04_S1500_0071",
+      "value": "All right, see you later, then."
+    },
+    {
+      "key": "EP04_S1500_0072",
+      "value": "My sister and I will be in the cafeteria."
+    },
+    {
+      "key": "EP04_S1500_0073",
+      "value": "Cafeteria..."
+    }
+  ]
+}

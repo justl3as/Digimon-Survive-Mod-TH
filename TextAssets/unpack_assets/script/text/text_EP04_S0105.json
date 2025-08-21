@@ -1,0 +1,44 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0105_0001",
+      "value": "Yeep! Wh-what do you want?!"
+    },
+    {
+      "key": "EP04_S0105_0002",
+      "value": "We’re looking for Miu. If you know where she\nis, could you please tell us?"
+    },
+    {
+      "key": "EP04_S0105_0003",
+      "value": "Her Majesty is hiding somewhere inside this\ncastle."
+    },
+    {
+      "key": "EP04_S0105_0004",
+      "value": "Can’t you be more specific?!"
+    },
+    {
+      "key": "EP04_S0105_0005",
+      "value": "Please! We have to find her before she gets\ntaken away! We want to protect her!"
+    },
+    {
+      "key": "EP04_S0105_0006",
+      "value": "Won’t you tell us where she is?"
+    },
+    {
+      "key": "EP04_S0105_0007",
+      "value": "I... I’ve told you all I know! Really!"
+    },
+    {
+      "key": "EP04_S0105_0008",
+      "value": "Now I have other things to do, so could you\nleave? Here, I’ll give you this, just go!"
+    },
+    {
+      "key": "EP04_S0105_0009",
+      "value": "(What’s this? Some sort of item?)"
+    },
+    {
+      "key": "EP04_S0105_0010",
+      "value": "Coming back here isn’t going to change\nanything! I’m busy! Get out!"
+    }
+  ]
+}

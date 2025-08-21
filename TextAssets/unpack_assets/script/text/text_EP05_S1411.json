@@ -1,0 +1,264 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1411_0001",
+      "value": "(It’s obvious how screwy things are between\nShuuji and Lopmon, even from the outside.)"
+    },
+    {
+      "key": "EP05_S1411_0002",
+      "value": "(I wonder if Kaito and Dracmon are good?)"
+    },
+    {
+      "key": "EP05_S1411_0003",
+      "value": "I wonder what Miu’s up to right about now..."
+    },
+    {
+      "key": "EP05_S1411_0004",
+      "value": "That’s the fifth time, man."
+    },
+    {
+      "key": "EP05_S1411_0005",
+      "value": "Huh? Fifth time what?"
+    },
+    {
+      "key": "EP05_S1411_0006",
+      "value": "The fifth time you said that! You got some\nkinda complex or what?"
+    },
+    {
+      "key": "EP05_S1411_0007",
+      "value": "Word? You got something against a brother\nworrying about his sister?"
+    },
+    {
+      "key": "EP05_S1411_0008",
+      "value": "Hee hee, don’t blow a gasket. That girl’s the\nbiggest button you got to push."
+    },
+    {
+      "key": "EP05_S1411_0009",
+      "value": "See what happens when you do, punk. You won’t\nhave teeth to smirk with when I’m through."
+    },
+    {
+      "key": "EP05_S1411_0010",
+      "value": "Come on, Kaito, he’s just messing with you."
+    },
+    {
+      "key": "EP05_S1411_0011",
+      "value": "And you, Dracmon, you know that’s not\nsomething Kaito wants to joke about."
+    },
+    {
+      "key": "EP05_S1411_0012",
+      "value": "Oh, looks like you’ve gotten to know my boy\npretty well, Takuma! Nice, very nice."
+    },
+    {
+      "key": "EP05_S1411_0013",
+      "value": "Who’s getting to know who? Don’t act like you\nknow a damn thing."
+    },
+    {
+      "key": "EP05_S1411_0014",
+      "value": "*sigh* He’s glaring again..."
+    },
+    {
+      "key": "EP05_S1411_0015",
+      "value": "(It’s true, I still don’t know anything about\nKaito.)"
+    },
+    {
+      "key": "EP05_S1411_0016",
+      "value": "(I feel like he cares a bit too much for his\nsister. Could there be a reason?)"
+    },
+    {
+      "key": "EP05_S1411_0017",
+      "value": "(Did something happen in their past? Hmm,\nI wonder if I can ask...)"
+    },
+    {
+      "key": "EP05_S1411_0018",
+      "value": "(Or should I ask what he likes about her?\nHe’d probably enjoy talking about her.)"
+    },
+    {
+      "key": "EP05_S1411_Q1",
+      "value": "(What should I ask Kaito about?)"
+    },
+    {
+      "key": "EP05_S1411_Q1_A1",
+      "value": "You care a lot..."
+    },
+    {
+      "key": "EP05_S1411_Q1_A2",
+      "value": "Did something happen?"
+    },
+    {
+      "key": "EP05_S1411_Q1_A3",
+      "value": "What he likes about Miu."
+    },
+    {
+      "key": "EP05_S1411_0020",
+      "value": "Why do you care so much about your sister,\nKaito?"
+    },
+    {
+      "key": "EP05_S1411_0021",
+      "value": "’Scuse me? Whaddaya mean, “so much”? Anyone\nwould care as much as I do."
+    },
+    {
+      "key": "EP05_S1411_0022",
+      "value": "Uh, I’d say you’re on the high side of the\ncare spectrum."
+    },
+    {
+      "key": "EP05_S1411_0023",
+      "value": "(More like off the charts. Still, can’t say\nthat or that’s the end of our conversation.)"
+    },
+    {
+      "key": "EP05_S1411_0024",
+      "value": "I mean..."
+    },
+    {
+      "key": "EP05_S1411_0025",
+      "value": "Hmph. It’s not like I have a special reason."
+    },
+    {
+      "key": "EP05_S1411_0026",
+      "value": "I said it before, didn’t I? What’s wrong with\na brother worrying about his sister?"
+    },
+    {
+      "key": "EP05_S1411_0027",
+      "value": "I see..."
+    },
+    {
+      "key": "EP05_S1411_0028",
+      "value": "(It seems like he stopped himself from saying\nsomething? Maybe it’s a hard topic for him.)"
+    },
+    {
+      "key": "EP05_S1411_0029",
+      "value": "(If so, I can’t just force him to talk to me\nabout it.)"
+    },
+    {
+      "key": "EP05_S1411_0031",
+      "value": "Did something happen in the past?"
+    },
+    {
+      "key": "EP05_S1411_0032",
+      "value": "What?!"
+    },
+    {
+      "key": "EP05_S1411_0033",
+      "value": "And like, maybe that’s why you worry about\nMiu so much?"
+    },
+    {
+      "key": "EP05_S1411_0034",
+      "value": "Tch..."
+    },
+    {
+      "key": "EP05_S1411_0035",
+      "value": "Even if there was something, why would I have\nto tell you about it?"
+    },
+    {
+      "key": "EP05_S1411_0036",
+      "value": "Oh, uh... Guess you wouldn’t."
+    },
+    {
+      "key": "EP05_S1411_0037",
+      "value": "(No good. If I push any harder, I get the\nfeeling he’ll slug me.)"
+    },
+    {
+      "key": "EP05_S1411_0039",
+      "value": "Hey, Kaito. What do you like about Miu?"
+    },
+    {
+      "key": "EP05_S1411_0040",
+      "value": "What? The hell’re you asking me for?"
+    },
+    {
+      "key": "EP05_S1411_0041",
+      "value": "You trying to tell me...you got a crush on\nher or something? You sonuva—"
+    },
+    {
+      "key": "EP05_S1411_0042",
+      "value": "Whoa, whoa, you’ve got the wrong idea! I was\njust making conversation!"
+    },
+    {
+      "key": "EP05_S1411_0043",
+      "value": "(If that’s how he reacts to a simple\nquestion, I worry for Miu’s future...)"
+    },
+    {
+      "key": "EP05_S1411_0044",
+      "value": "Hmph, fine then. What do I like about her,\nthen? Let’s see..."
+    },
+    {
+      "key": "EP05_S1411_0045",
+      "value": "First, there’s her looks. She’s small and\ncute. Those slender arms make you wanna"
+    },
+    {
+      "key": "EP05_S1411_0046",
+      "value": "protect her. Watch over her all day. Then you\ngot her cute eyes, just her looking up at you"
+    },
+    {
+      "key": "EP05_S1411_0047",
+      "value": "makes you wanna hug her. Her mouth’s small,\nso she nibbles like a hamster when she eats."
+    },
+    {
+      "key": "EP05_S1411_0048",
+      "value": "She acts cute, too, like a cat, all “leave me\nalone” but then she gives you this look and—"
+    },
+    {
+      "key": "EP05_S1411_0049",
+      "value": "Um, Kaito? I get it, that’s more than enough.\nThanks for talking."
+    },
+    {
+      "key": "EP05_S1411_0050",
+      "value": "Oh yeah? That’s just the tip of the iceberg,\nbut if you say so."
+    },
+    {
+      "key": "EP05_S1411_0051",
+      "value": "Wowzers, I never heard Kaito talk so much!"
+    },
+    {
+      "key": "EP05_S1411_0052",
+      "value": "Right? Ain’t it something?"
+    },
+    {
+      "key": "EP05_S1411_0053",
+      "value": "Yeah... Gotta say I didn’t expect that."
+    },
+    {
+      "key": "EP05_S1411_0054",
+      "value": "(This goes beyond brotherly affection...)"
+    },
+    {
+      "key": "EP05_S1411_0055",
+      "value": "What, you doing a survey or something?"
+    },
+    {
+      "key": "EP05_S1411_0056",
+      "value": "No, it’s just... I realized I don’t know\na thing about you."
+    },
+    {
+      "key": "EP05_S1411_0057",
+      "value": "Doesn’t matter. You don’t care about me,\nanyway."
+    },
+    {
+      "key": "EP05_S1411_0058",
+      "value": "That’s not true."
+    },
+    {
+      "key": "EP05_S1411_0059",
+      "value": "We’re friends, man. If something’s bothering\nyou, we’re here to help."
+    },
+    {
+      "key": "EP05_S1411_0060",
+      "value": "Ah, not that you have to talk if you don’t\nwant to or anything."
+    },
+    {
+      "key": "EP05_S1411_0061",
+      "value": "...That right? If you say so."
+    },
+    {
+      "key": "EP05_S1411_0062",
+      "value": "I may take you up on that sometime."
+    },
+    {
+      "key": "EP05_S1411_0063",
+      "value": "Sure... Anytime, man."
+    },
+    {
+      "key": "EP05_S1411_0064",
+      "value": "A brother always worries about his sister.\nAin’t nothing weird about that."
+    }
+  ]
+}

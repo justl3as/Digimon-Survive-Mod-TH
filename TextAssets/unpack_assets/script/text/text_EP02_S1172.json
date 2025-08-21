@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1172_0001",
+      "value": "Takuma, I found something!"
+    },
+    {
+      "key": "EP02_S1172_0002",
+      "value": "Are you sure? I don’t see anything."
+    },
+    {
+      "key": "EP02_S1172_0003",
+      "value": "But wasn’t there a way you could see things\nthat are invisible?"
+    },
+    {
+      "key": "EP02_S1172_0004",
+      "value": "There’s something here! You should\ninvestigate!"
+    }
+  ]
+}

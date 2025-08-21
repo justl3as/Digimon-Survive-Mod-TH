@@ -1,0 +1,612 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S4060_0001",
+      "value": "It...it can’t be! Guaaaaaah!!!"
+    },
+    {
+      "key": "EP12_S4060_0002",
+      "value": "*huff* *huff*... We did it, Takuma!"
+    },
+    {
+      "key": "EP12_S4060_0003",
+      "value": "Yeah! We won!"
+    },
+    {
+      "key": "EP12_S4060_0004",
+      "value": "Why...? I gave up Dracmon to Boltboutamon to\ngain that power, and it still wasn’t enough?"
+    },
+    {
+      "key": "EP12_S4060_0005",
+      "value": "Kaito..."
+    },
+    {
+      "key": "EP12_S4060_0006",
+      "value": "I only wanted to be strong enough to protect\nMiu. That’s all. Why has it come to this?"
+    },
+    {
+      "key": "EP12_S4060_0007",
+      "value": "You can’t change what you’ve done. What’s\npast is past."
+    },
+    {
+      "key": "EP12_S4060_0008",
+      "value": "But we’re still alive. The world hasn’t been\ndestroyed yet."
+    },
+    {
+      "key": "EP12_S4060_0009",
+      "value": "It’s okay, Kaito. I know you’ll find a way to\nmove forward again."
+    },
+    {
+      "key": "EP12_S4060_0010",
+      "value": "Move forward...again?"
+    },
+    {
+      "key": "EP12_S4060_0011",
+      "value": "If you really want to honor Miu, you should\nprotect what she left behind."
+    },
+    {
+      "key": "EP12_S4060_0012",
+      "value": "Keep Jijimon and everyone from the amusement\npark safe. The ones she wanted to save."
+    },
+    {
+      "key": "EP12_S4060_0013",
+      "value": "Yes... That’s right. Miu tried to save them."
+    },
+    {
+      "key": "EP12_S4060_0014",
+      "value": "Her actions made it clear that that’s what\nshe wished. But I would have destroyed that."
+    },
+    {
+      "key": "EP12_S4060_0015",
+      "value": "I thought I was watching her closer than\nanyone, but I failed to see what she wanted."
+    },
+    {
+      "key": "EP12_S4060_0016",
+      "value": "Hey. Everyone gets so worked up sometimes,\nthey miss what’s right in front of them."
+    },
+    {
+      "key": "EP12_S4060_0017",
+      "value": "It’s happened to us too. Right, Minoru?"
+    },
+    {
+      "key": "EP12_S4060_0018",
+      "value": "Rrk... Yeah, sure. I know what you mean, but\ndo you have to bring that up now?!"
+    },
+    {
+      "key": "EP12_S4060_0019",
+      "value": "Ah yes, there was the time Minoru was so\nfearful of us he started ranting and raving."
+    },
+    {
+      "key": "EP12_S4060_0020",
+      "value": "Still, we did not turn our backs on Minoru.\nYou are much the same, Kaito."
+    },
+    {
+      "key": "EP12_S4060_0021",
+      "value": "Saki cried out in fear when she first saw me\ntoo, and now we’re best friends!"
+    },
+    {
+      "key": "EP12_S4060_0022",
+      "value": "That’s just how it is!"
+    },
+    {
+      "key": "EP12_S4060_0023",
+      "value": "Kaito, you’re our friend. So don’t go and act\nlike you’re on your own."
+    },
+    {
+      "key": "EP12_S4060_0024",
+      "value": "But...I tried to destroy the entire world!"
+    },
+    {
+      "key": "EP12_S4060_0025",
+      "value": "And if you ever try it again, we’ll be sure\nto knock some sense into you."
+    },
+    {
+      "key": "EP12_S4060_0026",
+      "value": "But how can you just brush that off? You\nreally want me as a friend? After everything?"
+    },
+    {
+      "key": "EP12_S4060_0027",
+      "value": "We do. You’re one of us, Kaito."
+    },
+    {
+      "key": "EP12_S4060_0028",
+      "value": "You...really think I deserve a second chance?"
+    },
+    {
+      "key": "EP12_S4060_0029",
+      "value": "Of course you do. Use your power to protect\nthings this time, not destroy them."
+    },
+    {
+      "key": "EP12_S4060_0030",
+      "value": "To protect things..."
+    },
+    {
+      "key": "EP12_S4060_0031",
+      "value": "Now come on. We still need to do something\nabout the Master and get back home."
+    },
+    {
+      "key": "EP12_S4060_0032",
+      "value": "Heh... Heheheh!!!"
+    },
+    {
+      "key": "EP12_S4060_0033",
+      "value": "Hahaha! Ahahahahahahahahahaaa!!!"
+    },
+    {
+      "key": "EP12_S4060_0034",
+      "value": "Huh? Boltboutamon?!"
+    },
+    {
+      "key": "EP12_S4060_0035",
+      "value": "Listen to you going on about second chances,\nabout moving forward... You’re such fools!"
+    },
+    {
+      "key": "EP12_S4060_0036",
+      "value": "What’s gotten into you all of a—"
+    },
+    {
+      "key": "EP12_S4060_0037",
+      "value": "Kaito, stop!"
+    },
+    {
+      "key": "EP12_S4060_0038",
+      "value": "He’s...he’s changed! He’s nothing like he was\nbefore!"
+    },
+    {
+      "key": "EP12_S4060_0039",
+      "value": "Caught on, did you? Well, I’m afraid you’re\na little too late!"
+    },
+    {
+      "key": "EP12_S4060_0040",
+      "value": "Hah!"
+    },
+    {
+      "key": "EP12_S4060_0041",
+      "value": "Wah?!"
+    },
+    {
+      "key": "EP12_S4060_0042",
+      "value": "Gotcha!"
+    },
+    {
+      "key": "EP12_S4060_0043",
+      "value": "Waaaugh?!"
+    },
+    {
+      "key": "EP12_S4060_0044",
+      "value": "(Boltboutamon yanked Miyuki right out of\nRenamon’s hand, capturing her for himself!)"
+    },
+    {
+      "key": "EP12_S4060_0045",
+      "value": "Renamon!"
+    },
+    {
+      "key": "EP12_S4060_0046",
+      "value": "Forget about me! Save Miyuki!"
+    },
+    {
+      "key": "EP12_S4060_0047",
+      "value": "Ungh... Aaah..."
+    },
+    {
+      "key": "EP12_S4060_0048",
+      "value": "Boltboutamon, stop! I never told you to do\nthat!"
+    },
+    {
+      "key": "EP12_S4060_0049",
+      "value": "Oh? But aren’t you the one who told me to\ndestroy the world, Kaito?"
+    },
+    {
+      "key": "EP12_S4060_0050",
+      "value": "I don’t care about that anymore! Now let go\nof Miyuki!"
+    },
+    {
+      "key": "EP12_S4060_0051",
+      "value": "That’s not going to work! Boltboutamon has\nchanged!"
+    },
+    {
+      "key": "EP12_S4060_0052",
+      "value": "He had the feel of Dracmon about him before,\nbut that is gone now."
+    },
+    {
+      "key": "EP12_S4060_0053",
+      "value": "What? No... That would mean we’re really\ntalking to—"
+    },
+    {
+      "key": "EP12_S4060_0054",
+      "value": "Haaahahahaha! I see you’ve finally realized\nwhat happened, Kaito!"
+    },
+    {
+      "key": "EP12_S4060_0055",
+      "value": "It was your wish for revenge, your desire for\ndestruction that powered this fusion."
+    },
+    {
+      "key": "EP12_S4060_0056",
+      "value": "Once those emotions faded from within you,\nyour bond with Boltboutamon was lost..."
+    },
+    {
+      "key": "EP12_S4060_0057",
+      "value": "...and now it is I, Piedmon, the other member\nof this fusion, whose will is ascendant!"
+    },
+    {
+      "key": "EP12_S4060_0058",
+      "value": "You bastard... Was this your plan from the\nstart?!"
+    },
+    {
+      "key": "EP12_S4060_0059",
+      "value": "Oh, had you actually brought an end to both\nworlds, that would have suited me just fine."
+    },
+    {
+      "key": "EP12_S4060_0060",
+      "value": "But it turns out you just didn’t have it in\nyou. A shame. A real shame."
+    },
+    {
+      "key": "EP12_S4060_0061",
+      "value": "However!"
+    },
+    {
+      "key": "EP12_S4060_0062",
+      "value": "The all-consuming fire of revenge, which you\nfelt at our fusion, still burns within me."
+    },
+    {
+      "key": "EP12_S4060_0063",
+      "value": "So I will do what you could not, and destroy\nboth the Master and the two worlds for you!"
+    },
+    {
+      "key": "EP12_S4060_0064",
+      "value": "And you intend to use Miyuki for that\npurpose?"
+    },
+    {
+      "key": "EP12_S4060_0065",
+      "value": "Let her go!!! Didn’t you take her from the\nMaster to begin with?!"
+    },
+    {
+      "key": "EP12_S4060_0066",
+      "value": "Why put her in danger again?!"
+    },
+    {
+      "key": "EP12_S4060_0067",
+      "value": "Isn’t it obvious? So that I can take her in\nand gain her power instead of the Master!"
+    },
+    {
+      "key": "EP12_S4060_0068",
+      "value": "What?! No! Stop!"
+    },
+    {
+      "key": "EP12_S4060_0069",
+      "value": "Now as I recall, you were bound to this girl\nby fate, were you not? In which case..."
+    },
+    {
+      "key": "EP12_S4060_0070",
+      "value": "...once I take her in and she is no more,\nthat will be the end of you as well."
+    },
+    {
+      "key": "EP12_S4060_0071",
+      "value": "Wait...no!"
+    },
+    {
+      "key": "EP12_S4060_0072",
+      "value": "I don’t care about what happens to me!\nPlease, just let Miyuki go!"
+    },
+    {
+      "key": "EP12_S4060_0073",
+      "value": "Ah, how tragic. Really, it’s heartbreaking.\nThe least I could do is end this quickly."
+    },
+    {
+      "key": "EP12_S4060_0074",
+      "value": "Rena...mon..."
+    },
+    {
+      "key": "EP12_S4060_0075",
+      "value": "Miyukiii!!!"
+    },
+    {
+      "key": "EP12_S4060_0076",
+      "value": "RRRAAAAAAHHH!!!"
+    },
+    {
+      "key": "EP12_S4060_0077",
+      "value": "What?! Hmph, how dare you sneak up behind\nme..."
+    },
+    {
+      "key": "EP12_S4060_0078",
+      "value": "YAAAAAAHHH!!!"
+    },
+    {
+      "key": "EP12_S4060_0079",
+      "value": "You too, Kaito?!"
+    },
+    {
+      "key": "EP12_S4060_0080",
+      "value": "He may not be awake right now, but half of\nyou is Dracmon!"
+    },
+    {
+      "key": "EP12_S4060_0081",
+      "value": "And I am not letting you force him to go\nalong with my mistake any more!"
+    },
+    {
+      "key": "EP12_S4060_0082",
+      "value": "Miyuki, now! Run away while we hold him—"
+    },
+    {
+      "key": "EP12_S4060_0083",
+      "value": "Heheheh... Hahahahaha! My, what a farce!"
+    },
+    {
+      "key": "EP12_S4060_0084",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP12_S4060_0085",
+      "value": "What’s happening?!"
+    },
+    {
+      "key": "EP12_S4060_0086",
+      "value": "I...I’m being pulled into Boltboutamon?!"
+    },
+    {
+      "key": "EP12_S4060_0087",
+      "value": "Professor! Kaito!"
+    },
+    {
+      "key": "EP12_S4060_0088",
+      "value": "Fools! Fuse with me along with the maiden,\nand witness the destruction of both worlds!"
+    },
+    {
+      "key": "EP12_S4060_0089",
+      "value": "Kaito!!!"
+    },
+    {
+      "key": "EP12_S4060_0090",
+      "value": "Aoi, no! You’ll just get pulled in too!"
+    },
+    {
+      "key": "EP12_S4060_0091",
+      "value": "But if we don’t do something, we’re going to\nlose Kaito!"
+    },
+    {
+      "key": "EP12_S4060_0092",
+      "value": "Stay back!!!"
+    },
+    {
+      "key": "EP12_S4060_0093",
+      "value": "What?!"
+    },
+    {
+      "key": "EP12_S4060_0094",
+      "value": "Taku...ma... Every...one! I’m sorry... But\nyou...got this..."
+    },
+    {
+      "key": "EP12_S4060_0095",
+      "value": "You know...being friends...wasn’t so bad..."
+    },
+    {
+      "key": "EP12_S4060_0096",
+      "value": "Oh no! Kaito! Professor! Miyuki!"
+    },
+    {
+      "key": "EP12_S4060_0097",
+      "value": "They’ve all been taken in!"
+    },
+    {
+      "key": "EP12_S4060_0098",
+      "value": "Which means... No, it can’t be!"
+    },
+    {
+      "key": "EP12_S4060_0099",
+      "value": "Urgh... Guaaahhh!"
+    },
+    {
+      "key": "EP12_S4060_0100",
+      "value": "AAAAAAAAAAAAAAAHHH!!!"
+    },
+    {
+      "key": "EP12_S4060_0101",
+      "value": "Renamon has reverted to his original form?\nAnd he is in such pain..."
+    },
+    {
+      "key": "EP12_S4060_0102",
+      "value": "(This is just like with Kunemon, Lopmon, and\nSyakomon. He’s disappearing into the light!)"
+    },
+    {
+      "key": "EP12_S4060_0103",
+      "value": "Miyuki! Miyu...ki... I’m sorry...\nI couldn’t...protect..."
+    },
+    {
+      "key": "EP12_S4060_0104",
+      "value": "Renamon! Renamoooooon!!!"
+    },
+    {
+      "key": "EP12_S4060_0105",
+      "value": "Wait! If Renamon’s disappeared, then that\nmeans Miyuki..."
+    },
+    {
+      "key": "EP12_S4060_0106",
+      "value": "It’s not just Miyuki. The professor and Kaito\ngot taken in too."
+    },
+    {
+      "key": "EP12_S4060_0107",
+      "value": "Does that mean they’re all dead?"
+    },
+    {
+      "key": "EP12_S4060_0108",
+      "value": "No... No, this can’t be happening!"
+    },
+    {
+      "key": "EP12_S4060_0109",
+      "value": "Haha! Now I have ultimate power, and the\npower of the maiden! I am supreme!"
+    },
+    {
+      "key": "EP12_S4060_0110",
+      "value": "Prepare yourself, Master! For soon you will\nface me!"
+    },
+    {
+      "key": "EP12_S4060_0111",
+      "value": "Fueled by my hatred for this world burning\nwithin me, I will end your futile existence!"
+    },
+    {
+      "key": "EP12_S4060_0112",
+      "value": "Well...he’s gone."
+    },
+    {
+      "key": "EP12_S4060_0113",
+      "value": "He didn’t seem to care about us at all..."
+    },
+    {
+      "key": "EP12_S4060_0114",
+      "value": "(Minoru’s voice is trembling.)"
+    },
+    {
+      "key": "EP12_S4060_0115",
+      "value": "(And it’s not just Minoru. That was a pretty\nbig shock for all of us.)"
+    },
+    {
+      "key": "EP12_S4060_0116",
+      "value": "(Not only did we not save Miyuki and Kaito,\nwe lost Renamon and the professor too.)"
+    },
+    {
+      "key": "EP12_S4060_0117",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S4060_0118",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S4060_0119",
+      "value": "(I can feel my heart sinking towards some\nblack abyss, and my whole body feels heavy.)"
+    },
+    {
+      "key": "EP12_S4060_0120",
+      "value": "(But despite that, I know we can’t stop here.\nThere’s still something we need to do.)"
+    },
+    {
+      "key": "EP12_S4060_0121",
+      "value": "We...we need to follow Boltboutamon."
+    },
+    {
+      "key": "EP12_S4060_0122",
+      "value": "Takuma, can you really mean that?"
+    },
+    {
+      "key": "EP12_S4060_0123",
+      "value": "I can and I do. I just...can’t let it end\nlike this."
+    },
+    {
+      "key": "EP12_S4060_0124",
+      "value": "Boltboutamon is going to take on the Master,\nbut no matter who wins..."
+    },
+    {
+      "key": "EP12_S4060_0125",
+      "value": "Either way it could mean terrible things for\nour world."
+    },
+    {
+      "key": "EP12_S4060_0126",
+      "value": "Exactly. So no matter how scared or sad we\nmight be, we need to get back on our feet."
+    },
+    {
+      "key": "EP12_S4060_0127",
+      "value": "(Maybe what I’m saying is wishful thinking.\nMaybe I’m putting everyone in danger.)"
+    },
+    {
+      "key": "EP12_S4060_0128",
+      "value": "(But I don’t want to give up! I don’t want\nall those sacrifices to have been in vain!)"
+    },
+    {
+      "key": "EP12_S4060_0129",
+      "value": "You’re right. We need to save this world."
+    },
+    {
+      "key": "EP12_S4060_0130",
+      "value": "Kaito and the professor, Haru and Miyuki...\nThey’re all gone now."
+    },
+    {
+      "key": "EP12_S4060_0131",
+      "value": "But that just means it all comes down to us!"
+    },
+    {
+      "key": "EP12_S4060_0132",
+      "value": "Even if we win, we may not be able to go\nhome."
+    },
+    {
+      "key": "EP12_S4060_0133",
+      "value": "You mean because we lost Miyuki?"
+    },
+    {
+      "key": "EP12_S4060_0134",
+      "value": "Yeah. And even if we defeat Boltboutamon,\nwe’ll have to take on the Master after that."
+    },
+    {
+      "key": "EP12_S4060_0135",
+      "value": "I’m not gonna lie, we’re in for some tough\nfights. It may mean losing more of us."
+    },
+    {
+      "key": "EP12_S4060_0136",
+      "value": "But if we don’t do anything, we won’t have\nany world left to live in."
+    },
+    {
+      "key": "EP12_S4060_0137",
+      "value": "So I’m going. What do you say?"
+    },
+    {
+      "key": "EP12_S4060_0138",
+      "value": "I’m going too."
+    },
+    {
+      "key": "EP12_S4060_0139",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP12_S4060_0140",
+      "value": "There’s nowhere left to run. This is our only\noption, so I’m gonna give this all I got!"
+    },
+    {
+      "key": "EP12_S4060_0141",
+      "value": "I’m... I’m going too. Yes. I will fight by\nyour side."
+    },
+    {
+      "key": "EP12_S4060_0142",
+      "value": "Me too! After all, I don’t want to die."
+    },
+    {
+      "key": "EP12_S4060_0143",
+      "value": "And I don’t want anyone to have to go through\nthis again!"
+    },
+    {
+      "key": "EP12_S4060_0144",
+      "value": "You said it, Saki! We need to keep going."
+    },
+    {
+      "key": "EP12_S4060_0145",
+      "value": "If that is what we are doing, I will go as\nwell. I will watch over Minoru’s every step."
+    },
+    {
+      "key": "EP12_S4060_0146",
+      "value": "And I’ll look out for Aoi. So let’s all go\nsave the world!"
+    },
+    {
+      "key": "EP12_S4060_0147",
+      "value": "Yeah! You know I’m going too! I’m sticking\nwith Takuma right to the end!"
+    },
+    {
+      "key": "EP12_S4060_0148",
+      "value": "And I want you to be there with me, Agumon."
+    },
+    {
+      "key": "EP12_S4060_0149",
+      "value": "After all, you’re my partner, and we’ve been\nbound together by fate."
+    },
+    {
+      "key": "EP12_S4060_0150",
+      "value": "Right, we’re partners!"
+    },
+    {
+      "key": "EP12_S4060_0151",
+      "value": "And the fate of the world is in our hands!"
+    },
+    {
+      "key": "EP12_S4060_0152",
+      "value": "Now let’s go get Boltboutamon!"
+    }
+  ]
+}

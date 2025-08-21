@@ -1,0 +1,348 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0101_0001",
+      "value": "(Incredible! It really beat that monster!)"
+    },
+    {
+      "key": "EP01_S0101_0002",
+      "value": "(And what’s with his appearance? This is the\nsame Koromon as before...right?)"
+    },
+    {
+      "key": "EP01_S0101_0003",
+      "value": "Whew! I was able to win thanks to you,\nTakuma!"
+    },
+    {
+      "key": "EP01_S0101_0004",
+      "value": "You were a beast out there, Koromon!"
+    },
+    {
+      "key": "EP01_S0101_0005",
+      "value": "I thought you were crazy to fight that thing,\nbut then you freaking took it out..."
+    },
+    {
+      "key": "EP01_S0101_0006",
+      "value": "Not Koromon, silly. Right now I’m Agumon!"
+    },
+    {
+      "key": "EP01_S0101_0007",
+      "value": "Agu...mon? I thought you said Koromon?"
+    },
+    {
+      "key": "EP01_S0101_0008",
+      "value": "Yep, I was Koromon before. Now I’m Agumon!"
+    },
+    {
+      "key": "EP01_S0101_0009",
+      "value": "O...kay. I really don’t get it. But anyway..."
+    },
+    {
+      "key": "EP01_S0101_0010",
+      "value": "You really saved my bacon back there.\nI owe you one..."
+    },
+    {
+      "key": "EP01_S0101_0011",
+      "value": "Eh heh heh... That goes double for me,\nTakuma!"
+    },
+    {
+      "key": "EP01_S0101_0012",
+      "value": "You got me out of a tight spot back there,\nand I could only evolve thanks to you!"
+    },
+    {
+      "key": "EP01_S0101_0013",
+      "value": "Thanks to me? But...I didn’t do anything."
+    },
+    {
+      "key": "EP01_S0101_0014",
+      "value": "That’s not true!"
+    },
+    {
+      "key": "EP01_S0101_0015",
+      "value": "I can’t explain it, but when I’m with you I\nfeel all this power swelling up inside of me!"
+    },
+    {
+      "key": "EP01_S0101_0016",
+      "value": "Thanks so much, Takuma!"
+    },
+    {
+      "key": "EP01_S0101_0017",
+      "value": "What do you mean? Is that what made you\ntransform?"
+    },
+    {
+      "key": "EP01_S0101_0018",
+      "value": "Seriously, what the heck’s going on here?"
+    },
+    {
+      "key": "EP01_S0101_0019",
+      "value": "Beats me!"
+    },
+    {
+      "key": "EP01_S0101_0020",
+      "value": "...Right, makes sense. I guess It’s my fault\nfor asking you in the first place."
+    },
+    {
+      "key": "EP01_S0101_0021",
+      "value": "Hee hee, you’re too kind."
+    },
+    {
+      "key": "EP01_S0101_0022",
+      "value": "What about that sounded like kindness?!"
+    },
+    {
+      "key": "EP01_S0101_0023",
+      "value": "Man, everyone’s gonna freak out when they see\nyou..."
+    },
+    {
+      "key": "EP01_S0101_0024",
+      "value": "Everyone...that’s right, I have to go look\nfor them!"
+    },
+    {
+      "key": "EP01_S0101_0025",
+      "value": "Everyone? Who’s that?"
+    },
+    {
+      "key": "EP01_S0101_0026",
+      "value": "Oh, I mean all my friends. A weird chain of\nevents brought us to this shrine, see..."
+    },
+    {
+      "key": "EP01_S0101_0027",
+      "value": "We all ended up together at one point, but\na landslide separated us again."
+    },
+    {
+      "key": "EP01_S0101_0028",
+      "value": "Is that right!"
+    },
+    {
+      "key": "EP01_S0101_0029",
+      "value": "(If they aren’t around here, then maybe they\nwent back to the school already.)"
+    },
+    {
+      "key": "EP01_S0101_0030",
+      "value": "Well, first things first. I have to make it\nback to the school building."
+    },
+    {
+      "key": "EP01_S0101_0031",
+      "value": "But I have no idea where I am in these woods.\nThe fog doesn’t help, that’s for sure."
+    },
+    {
+      "key": "EP01_S0101_0032",
+      "value": "Hey! Don’t go into the fog, Takuma!"
+    },
+    {
+      "key": "EP01_S0101_0033",
+      "value": "(The fog? Huh, I didn’t really notice before,\nbut I think the fog got thicker.)"
+    },
+    {
+      "key": "EP01_S0101_0034",
+      "value": "I’m not going because I want to. Even without\nit I’d have trouble figuring out where I am."
+    },
+    {
+      "key": "EP01_S0101_0035",
+      "value": "If we’re attacked by that weird thing again\nit won’t end well for us."
+    },
+    {
+      "key": "EP01_S0101_0036",
+      "value": "I wonder how likely another attack would be,\nanyway? Hard to tell..."
+    },
+    {
+      "key": "EP01_S0101_0037",
+      "value": "Hey Agumon, about that rock monster thing..."
+    },
+    {
+      "key": "EP01_S0101_0038",
+      "value": "Is that a friend of yours or what?"
+    },
+    {
+      "key": "EP01_S0101_0039",
+      "value": "(First I’ve ever seen a thing like that. Is\nthis the true nature of the Kemonogami?)"
+    },
+    {
+      "key": "EP01_S0101_0040",
+      "value": "Friend? No way!"
+    },
+    {
+      "key": "EP01_S0101_0041",
+      "value": "I’d never be friends with someone who just\nbum-rushes you like that!"
+    },
+    {
+      "key": "EP01_S0101_0042",
+      "value": "Oh, I didn’t mean like a FRIEND-friend,\njust—"
+    },
+    {
+      "key": "EP01_S0101_0043",
+      "value": "FIRST of all, I’d never attack kids the way\nthey do!"
+    },
+    {
+      "key": "EP01_S0101_0044",
+      "value": "All I’m asking is whether you guys are the\nsame kind of being, that’s all..."
+    },
+    {
+      "key": "EP01_S0101_0045",
+      "value": "Wait. “They”?"
+    },
+    {
+      "key": "EP01_S0101_0046",
+      "value": "Don’t tell me there are others out there\nbesides that rock thing?"
+    },
+    {
+      "key": "EP01_S0101_0047",
+      "value": "Oh yeah, tons and tons!"
+    },
+    {
+      "key": "EP01_S0101_0048",
+      "value": "Big ones, tough ones, ones that fly!\nFast ones, fuzzy ones, you name it!"
+    },
+    {
+      "key": "EP01_S0101_0049",
+      "value": "Of course, there are good ones and bad ones.\nAnd ones that are neither!"
+    },
+    {
+      "key": "EP01_S0101_0050",
+      "value": "Tons and tons, you say? I feel a headache\ncoming on..."
+    },
+    {
+      "key": "EP01_S0101_0051",
+      "value": "(There’s “tons” of things like that out\nthere?!)"
+    },
+    {
+      "key": "EP01_S0101_0052",
+      "value": "(...This is my first time hearing about this,\nand definitely my first time seeing it.)"
+    },
+    {
+      "key": "EP01_S0101_0053",
+      "value": "(And there’s a bunch of different types, too!\nWhat’s going on?!)"
+    },
+    {
+      "key": "EP01_S0101_0054",
+      "value": "(Maybe something happened back at the shrine\nto the Kemonogami?)"
+    },
+    {
+      "key": "EP01_S0101_0055",
+      "value": "(Like we accidentally broke some sort of seal\non the place or something...)"
+    },
+    {
+      "key": "EP01_S0101_0056",
+      "value": "(That could have released those bizarre\ncreatures into the world, right?)"
+    },
+    {
+      "key": "EP01_S0101_0057",
+      "value": "(That reminds me, Miu was talking about some\n“retribution” thing back there, wasn’t she?)"
+    },
+    {
+      "key": "EP01_S0101_0058",
+      "value": "(No way... I thought that kid just had\na weird sense of humor!)"
+    },
+    {
+      "key": "EP01_S0101_0059",
+      "value": "(Still, it doesn’t feel weird to be with this\ntalking creature...)"
+    },
+    {
+      "key": "EP01_S0101_0060",
+      "value": "(It’s almost as if...I’ve known this little\nguy for a long, long time...)"
+    },
+    {
+      "key": "EP01_S0101_0061",
+      "value": "Did the fall do something to my head?"
+    },
+    {
+      "key": "EP01_S0101_0062",
+      "value": "Hmm? What’s wrong, Takuma?"
+    },
+    {
+      "key": "EP01_S0101_0063",
+      "value": "Well... I was wondering what to do."
+    },
+    {
+      "key": "EP01_S0101_0064",
+      "value": "(This place shouldn’t be that far from the\nshrine.)"
+    },
+    {
+      "key": "EP01_S0101_0065",
+      "value": "I doubt that rock monster went and beat up\neveryone in our group back there."
+    },
+    {
+      "key": "EP01_S0101_0066",
+      "value": "One of my friends might still be around here."
+    },
+    {
+      "key": "EP01_S0101_0067",
+      "value": "“Monster” isn’t right. That rock guy, for\nexample, he’s Gotsumon!"
+    },
+    {
+      "key": "EP01_S0101_0068",
+      "value": "Oh... So all of you have names? Got it."
+    },
+    {
+      "key": "EP01_S0101_0069",
+      "value": "(Wait, I swear I’ve heard a story like this\nbefore...)"
+    },
+    {
+      "key": "EP01_S0101_0070",
+      "value": "(Oh yeah, the Professor mentioned a name back\nat that mural in the shrine.)"
+    },
+    {
+      "key": "EP01_S0101_0071",
+      "value": "(So these things really are the Kemonogami\nafter all?)"
+    },
+    {
+      "key": "EP01_S0101_0072",
+      "value": "Now let’s see. I think we should head back to\nthe school for now."
+    },
+    {
+      "key": "EP01_S0101_0073",
+      "value": "I want to look for my friends along the way."
+    },
+    {
+      "key": "EP01_S0101_0074",
+      "value": "Would you mind helping me, Agumon?"
+    },
+    {
+      "key": "EP01_S0101_0075",
+      "value": "Yeah! I’m with you, Takuma!"
+    },
+    {
+      "key": "EP01_S0101_0076",
+      "value": "All right... Let’s go."
+    },
+    {
+      "key": "EP01_S0101_0077",
+      "value": "AUUUUUURGH!"
+    },
+    {
+      "key": "EP01_S0101_0078",
+      "value": "Was that a scream I just heard?!"
+    },
+    {
+      "key": "EP01_S0101_0079",
+      "value": "Yeah! It sounded like a human! I heard it\ncoming from over there!"
+    },
+    {
+      "key": "EP01_S0101_0080",
+      "value": "That voice... I swear it sounded like Minoru.\nOver by the shrine! Okay, let’s go!"
+    },
+    {
+      "key": "EP01_S0101_0081",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP01_S0101_0082",
+      "value": "(I reflexively started running when I heard\nMinoru cry out...)"
+    },
+    {
+      "key": "EP01_S0101_0083",
+      "value": "(At that point, I hadn’t given much thought\nto the situation I’d found myself in.)"
+    },
+    {
+      "key": "EP01_S0101_0084",
+      "value": "(About the mysterious creature Agumon, or the\nplace I’d wandered into.)"
+    },
+    {
+      "key": "EP01_S0101_0085",
+      "value": "(Who knew things would turn out like this...\nAn adventure with our lives on the line.)"
+    },
+    {
+      "key": "EP01_S0101_0086",
+      "value": "(I couldn’t have imagined it back then if I’d\ntried.)"
+    }
+  ]
+}

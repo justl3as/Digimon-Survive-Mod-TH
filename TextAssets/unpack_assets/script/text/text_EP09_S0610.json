@@ -1,0 +1,188 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S0610_0001",
+      "value": "Kew! Kew!"
+    },
+    {
+      "key": "EP09_S0610_0002",
+      "value": "Looks like Kunemon wants to welcome you back\ntoo, Takuma."
+    },
+    {
+      "key": "EP09_S0610_0003",
+      "value": "Is that right? Thanks, Kunemon."
+    },
+    {
+      "key": "EP09_S0610_0004",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP09_S0610_0005",
+      "value": "It’s good you came back, but... \nIs Miyuki really the key?"
+    },
+    {
+      "key": "EP09_S0610_0006",
+      "value": "Yeah. No doubt about it."
+    },
+    {
+      "key": "EP09_S0610_0007",
+      "value": "If you say so, I’ll believe it...\nReal talk though, I seriously don’t get it."
+    },
+    {
+      "key": "EP09_S0610_0008",
+      "value": "We’re running around like maniacs just to\nsurvive, then there’s this Miyuki business..."
+    },
+    {
+      "key": "EP09_S0610_0009",
+      "value": "I can’t spare even an iota of energy on\ntrying to figure out a way back home."
+    },
+    {
+      "key": "EP09_S0610_0010",
+      "value": "(Ryo definitely seems calmer than before, but\nhe’s still super anxious.)"
+    },
+    {
+      "key": "EP09_S0610_0011",
+      "value": "(And yet from what everyone says, he’s\ndefinitely a helpful part of the team now.)"
+    },
+    {
+      "key": "EP09_S0610_0012",
+      "value": "(It also sounds like he knows the deal with\nMiyuki. Maybe I can get details from him?)"
+    },
+    {
+      "key": "EP09_S0610_Q1",
+      "value": "(What should I ask Ryo?)"
+    },
+    {
+      "key": "EP09_S0610_Q1_A1",
+      "value": "What’s up with Miyuki?"
+    },
+    {
+      "key": "EP09_S0610_Q1_A2",
+      "value": "What do you think?"
+    },
+    {
+      "key": "EP09_S0610_Q1_A3",
+      "value": "Let’s brainstorm."
+    },
+    {
+      "key": "EP09_S0610_0013",
+      "value": "What’s up with Miyuki?"
+    },
+    {
+      "key": "EP09_S0610_0014",
+      "value": "What’s the deal with Miyuki?"
+    },
+    {
+      "key": "EP09_S0610_0015",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0610_0016",
+      "value": "Sorry, man. I can’t really explain it well."
+    },
+    {
+      "key": "EP09_S0610_0017",
+      "value": "It’ll be faster if you see it for yourself.\nHeck, you probably won’t get it till you do."
+    },
+    {
+      "key": "EP09_S0610_0018",
+      "value": "Ah, I got you..."
+    },
+    {
+      "key": "EP09_S0610_0019",
+      "value": "What do you think?"
+    },
+    {
+      "key": "EP09_S0610_0020",
+      "value": "What do you think about this “Miyuki is the\nkey” stuff, Ryo?"
+    },
+    {
+      "key": "EP09_S0610_0021",
+      "value": "Huh? Well at the very least, that means we’re\nscrewed if we don’t save her, right?"
+    },
+    {
+      "key": "EP09_S0610_0022",
+      "value": "So you’re not against the idea, like Kaito?"
+    },
+    {
+      "key": "EP09_S0610_0023",
+      "value": "Yeah, that’s what I’m saying."
+    },
+    {
+      "key": "EP09_S0610_0024",
+      "value": "I mean, I get where the guy’s coming from...\nbut ain’t there some way to save her?"
+    },
+    {
+      "key": "EP09_S0610_0025",
+      "value": "We still don’t know a damn thing about what\nthe deal is here."
+    },
+    {
+      "key": "EP09_S0610_0026",
+      "value": "Let’s brainstorm."
+    },
+    {
+      "key": "EP09_S0610_0027",
+      "value": "Let’s think it over together, man. First, we\nneed to find Miyuki. Then—"
+    },
+    {
+      "key": "EP09_S0610_0028",
+      "value": "Dude... Ain’t you a ray of sunshine, given\nyou know diddly-squat about Miyuki’s sitch."
+    },
+    {
+      "key": "EP09_S0610_0029",
+      "value": "No, it’s just—"
+    },
+    {
+      "key": "EP09_S0610_0030",
+      "value": "I know, I know. I’m not saying we should just\nsit on our hands like a couple of slackers."
+    },
+    {
+      "key": "EP09_S0610_0031",
+      "value": "We gotta save the girl no matter what, yeah?\nSo we have to figure out how to do that."
+    },
+    {
+      "key": "EP09_S0610_0032",
+      "value": "Ryo... Can’t say I expected you to be so\non-board with this."
+    },
+    {
+      "key": "EP09_S0610_0033",
+      "value": "*cough* Uh, well... Maybe I wouldn’t have\nbeen before, so I can’t blame ya."
+    },
+    {
+      "key": "EP09_S0610_0034",
+      "value": "If we gotta make it happen, then we’ll make\nit happen. That’s all."
+    },
+    {
+      "key": "EP09_S0610_0035",
+      "value": "Yeah, let’s do it together!"
+    },
+    {
+      "key": "EP09_S0610_0036",
+      "value": "Guess I’ll just have to do what I can based\non what you say."
+    },
+    {
+      "key": "EP09_S0610_0037",
+      "value": "...Heh, doesn’t sound like me, does it?"
+    },
+    {
+      "key": "EP09_S0610_0038",
+      "value": "Not true, man. Thanks for trusting me."
+    },
+    {
+      "key": "EP09_S0610_0039",
+      "value": "Hey, knock that off.\nIt’s no big deal."
+    },
+    {
+      "key": "EP09_S0610_0040",
+      "value": "(So he says, but he looks pretty happy.)"
+    },
+    {
+      "key": "EP09_S0610_0041",
+      "value": "(I’ve got to keep at it. People are putting\ntheir faith in me!)"
+    },
+    {
+      "key": "EP09_S0610_0042",
+      "value": "We gotta do it, don’t we? Then we might as\nwell do it quick."
+    }
+  ]
+}

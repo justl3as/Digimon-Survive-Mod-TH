@@ -1,0 +1,304 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9200_0001",
+      "value": "Something bothering you, Aoi? You seem\na little out of it."
+    },
+    {
+      "key": "EP13_S9200_0002",
+      "value": "Oh, Takuma..."
+    },
+    {
+      "key": "EP13_S9200_0003",
+      "value": "It’s nothing, really. I was just thinking\nback over all that’s happened..."
+    },
+    {
+      "key": "EP13_S9200_0004",
+      "value": "Remembering what it was like after we first\ncame here."
+    },
+    {
+      "key": "EP13_S9200_0005",
+      "value": "For me, living in this world has been...\nWell, I’m not sure how to put it exactly..."
+    },
+    {
+      "key": "EP13_S9200_0006",
+      "value": "(Seems like Aoi’s having a hard time finding\nthe right words. Maybe I should help.)"
+    },
+    {
+      "key": "EP13_S9200_Q1",
+      "value": "(What’s she trying to say?)"
+    },
+    {
+      "key": "EP13_S9200_Q1_A1",
+      "value": "It wasn’t all bad."
+    },
+    {
+      "key": "EP13_S9200_Q1_A2",
+      "value": "Everything was awful."
+    },
+    {
+      "key": "EP13_S9200_0007",
+      "value": "It wasn’t all bad."
+    },
+    {
+      "key": "EP13_S9200_0008",
+      "value": "You mean you feel like not everything about\nour time here was bad?"
+    },
+    {
+      "key": "EP13_S9200_0009",
+      "value": "Yes, exactly. I mean, sure, a lot of things\nwere hard, and sad things happened too..."
+    },
+    {
+      "key": "EP13_S9200_0010",
+      "value": "But for some reason, looking back, it’s the\ngood things, the fun times, that stand out."
+    },
+    {
+      "key": "EP13_S9200_0011",
+      "value": "Everything was awful."
+    },
+    {
+      "key": "EP13_S9200_0012",
+      "value": "Are you talking about how awful everything\nwas? Like this was all a series of trials?"
+    },
+    {
+      "key": "EP13_S9200_0013",
+      "value": "Yeah, pretty much. I’m not saying it was\nanyone’s fault, though."
+    },
+    {
+      "key": "EP13_S9200_0014",
+      "value": "I think maybe I wasn’t cut out to run things.\nI kept wishing we could just go home already."
+    },
+    {
+      "key": "EP13_S9200_0015",
+      "value": "Don’t worry, we’ll beat the Master and go\nhome. Until then, hang in there. I’m with you."
+    },
+    {
+      "key": "EP13_S9200_0016",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP13_S9200_0017",
+      "value": "See? That wasn’t such a hard thing to say."
+    },
+    {
+      "key": "EP13_S9200_0018",
+      "value": "I guess not. You don’t think that came across\nas inappropriate?"
+    },
+    {
+      "key": "EP13_S9200_0019",
+      "value": "Not at all. Why would you think it was?"
+    },
+    {
+      "key": "EP13_S9200_0020",
+      "value": "Because I don’t trust all my decisions. Maybe\nI made things harder than they needed to be."
+    },
+    {
+      "key": "EP13_S9200_0021",
+      "value": "(Hmm, I feel like that’s going too far. But\nAoi does tend to put everything on herself.)"
+    },
+    {
+      "key": "EP13_S9200_0022",
+      "value": "I appreciate your sense of responsibility,\nAoi, but try not to take things too far."
+    },
+    {
+      "key": "EP13_S9200_0023",
+      "value": "If you’re going to look back on what\nhappened, try to focus on the good stuff."
+    },
+    {
+      "key": "EP13_S9200_0024",
+      "value": "Like what?"
+    },
+    {
+      "key": "EP13_S9200_0025",
+      "value": "I don’t know. What would you say was the best\nthing about coming here?"
+    },
+    {
+      "key": "EP13_S9200_0026",
+      "value": "Well, a lot of good things happened, but\nI think the best was meeting each other."
+    },
+    {
+      "key": "EP13_S9200_Q2",
+      "value": "(Meeting each other? Who does she mean?)"
+    },
+    {
+      "key": "EP13_S9200_Q2_A1",
+      "value": "Meeting all of us?"
+    },
+    {
+      "key": "EP13_S9200_Q2_A2",
+      "value": "Meeting Labramon?"
+    },
+    {
+      "key": "EP13_S9200_0027",
+      "value": "Meeting all of us?"
+    },
+    {
+      "key": "EP13_S9200_0028",
+      "value": "Meeting all of us?"
+    },
+    {
+      "key": "EP13_S9200_0029",
+      "value": "Yes. You and Minoru and..."
+    },
+    {
+      "key": "EP13_S9200_0030",
+      "value": "Me too, right?"
+    },
+    {
+      "key": "EP13_S9200_0031",
+      "value": "Yes, of course you too, Labramon!"
+    },
+    {
+      "key": "EP13_S9200_0032",
+      "value": "I’m so glad we all became such good friends."
+    },
+    {
+      "key": "EP13_S9200_0033",
+      "value": "Meeting Labramon?"
+    },
+    {
+      "key": "EP13_S9200_0034",
+      "value": "You mean meeting Labramon?"
+    },
+    {
+      "key": "EP13_S9200_0035",
+      "value": "Yes, of course, but not just that..."
+    },
+    {
+      "key": "EP13_S9200_0036",
+      "value": "It was pretty great, wasn’t it?"
+    },
+    {
+      "key": "EP13_S9200_0037",
+      "value": "Hey, Aoi..."
+    },
+    {
+      "key": "EP13_S9200_0038",
+      "value": "Let’s stay friends, even after you go back to\nyour world, okay?"
+    },
+    {
+      "key": "EP13_S9200_0039",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP13_S9200_0040",
+      "value": "You know, you’re right. We wouldn’t be where\nwe are now if it weren’t for each other."
+    },
+    {
+      "key": "EP13_S9200_0041",
+      "value": "It all started with us coming here from that\nshrine. Then we met Labramon and the others,"
+    },
+    {
+      "key": "EP13_S9200_0042",
+      "value": "climbed that radio tower, went to the\namusement park... We’ve been through a lot."
+    },
+    {
+      "key": "EP13_S9200_0043",
+      "value": "Yes, we really have."
+    },
+    {
+      "key": "EP13_S9200_0044",
+      "value": "And after we defeat the Master, everyone will\ngo home. That makes me feel kind of lonely."
+    },
+    {
+      "key": "EP13_S9200_0045",
+      "value": "Yeah...me too."
+    },
+    {
+      "key": "EP13_S9200_0046",
+      "value": "(Aoi must not want to leave Labramon.)"
+    },
+    {
+      "key": "EP13_S9200_Q3",
+      "value": "(I’ll tell Aoi that...)"
+    },
+    {
+      "key": "EP13_S9200_Q3_A1",
+      "value": "...you could stay."
+    },
+    {
+      "key": "EP13_S9200_Q3_A2",
+      "value": "...you’ll be friends."
+    },
+    {
+      "key": "EP13_S9200_0047",
+      "value": "...you could stay."
+    },
+    {
+      "key": "EP13_S9200_0048",
+      "value": "You could just stay in this world."
+    },
+    {
+      "key": "EP13_S9200_0049",
+      "value": "Hee hee, maybe that’s not such a bad idea.\nWhat do you think, Labramon?"
+    },
+    {
+      "key": "EP13_S9200_0050",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP13_S9200_0051",
+      "value": "Don’t even joke about that! You’ve got your\nown life you need to live."
+    },
+    {
+      "key": "EP13_S9200_0052",
+      "value": "So I don’t want you talking about that, okay?\nIt just makes me feel that much lonelier."
+    },
+    {
+      "key": "EP13_S9200_0053",
+      "value": "Okay. I’m sorry, Labramon."
+    },
+    {
+      "key": "EP13_S9200_0054",
+      "value": "Yeah, I’m sorry too. I shouldn’t have brought\nthat up so casually."
+    },
+    {
+      "key": "EP13_S9200_0055",
+      "value": "...you’ll stay close."
+    },
+    {
+      "key": "EP13_S9200_0056",
+      "value": "Even though the two of you will be apart,\nyou’ll still be friends."
+    },
+    {
+      "key": "EP13_S9200_0057",
+      "value": "Yes, that’s true. We’ll stay friends forever."
+    },
+    {
+      "key": "EP13_S9200_0058",
+      "value": "I’ll never forget about you, even after I go\nback."
+    },
+    {
+      "key": "EP13_S9200_0059",
+      "value": "Yeah! Never, ever, ever forget!"
+    },
+    {
+      "key": "EP13_S9200_0060",
+      "value": "Aoi!!!"
+    },
+    {
+      "key": "EP13_S9200_0061",
+      "value": "Labramon..."
+    },
+    {
+      "key": "EP13_S9200_0062",
+      "value": "You know, Takuma, for everything we’ve been\nthrough, I think it’s all been worthwhile."
+    },
+    {
+      "key": "EP13_S9200_0063",
+      "value": "No, I want to make sure it’s all been\nworthwhile. Which is just one more reason..."
+    },
+    {
+      "key": "EP13_S9200_0064",
+      "value": "...we need to rescue Miyuki, and save both\nworlds."
+    },
+    {
+      "key": "EP13_S9200_0065",
+      "value": "Yeah, let’s do it!"
+    },
+    {
+      "key": "EP13_S9200_0066",
+      "value": "I’m never going to forget what happened in\nthis world. Not ever."
+    }
+  ]
+}

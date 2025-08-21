@@ -1,0 +1,220 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1300_0001",
+      "value": "*sigh*"
+    },
+    {
+      "key": "EP05_S1300_0002",
+      "value": "Cheer up, Saki!"
+    },
+    {
+      "key": "EP05_S1300_0003",
+      "value": "...That’s a tall order, isn’t it?"
+    },
+    {
+      "key": "EP05_S1300_0004",
+      "value": "Saki..."
+    },
+    {
+      "key": "EP05_S1300_0005",
+      "value": "If you’re feeling that bad, shouldn’t you lie\ndown or something?"
+    },
+    {
+      "key": "EP05_S1300_0006",
+      "value": "It’s not that I’m down, it’s more like...\nthere’s just so much we don’t know..."
+    },
+    {
+      "key": "EP05_S1300_0007",
+      "value": "Kinda hard to keep my spirits up, you know?"
+    },
+    {
+      "key": "EP05_S1300_0008",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP05_S1300_0009",
+      "value": "What the heck’s all this? This talk of\nsacrifices or whatever...weirds me out."
+    },
+    {
+      "key": "EP05_S1300_0010",
+      "value": "Yeah...\nWhat’s that all about?"
+    },
+    {
+      "key": "EP05_S1300_0011",
+      "value": "(If we’ve been summoned here as sacrifices...\n...No, hang on.)"
+    },
+    {
+      "key": "EP05_S1300_0012",
+      "value": "(If we become sacrifices here...\n...what will happen to us?)"
+    },
+    {
+      "key": "EP05_S1300_0013",
+      "value": "(Will we get to return to our world? Will we\njust die? Or maybe something else?)"
+    },
+    {
+      "key": "EP05_S1300_0014",
+      "value": "Hey Takuma, what’ll happen if we become\nsacrifices in this world?"
+    },
+    {
+      "key": "EP05_S1300_0015",
+      "value": "Uh, well..."
+    },
+    {
+      "key": "EP05_S1300_0016",
+      "value": "(That’s exactly what I was wondering. So\nSaki’s worried about it, too?)"
+    },
+    {
+      "key": "EP05_S1300_Q1",
+      "value": "(If we become sacrifices, then...)"
+    },
+    {
+      "key": "EP05_S1300_Q1_A1",
+      "value": "We can go home."
+    },
+    {
+      "key": "EP05_S1300_Q1_A2",
+      "value": "We’ll die, won’t we?"
+    },
+    {
+      "key": "EP05_S1300_Q1_A3",
+      "value": "I don’t know."
+    },
+    {
+      "key": "EP05_S1300_0022",
+      "value": "Maybe we’ll be able to go back to our world."
+    },
+    {
+      "key": "EP05_S1300_0023",
+      "value": "Is that right? Then maybe we should give it\na try."
+    },
+    {
+      "key": "EP05_S1300_0024",
+      "value": "Don’t do it, Saki!"
+    },
+    {
+      "key": "EP05_S1300_0025",
+      "value": "Hey, I’m just considering our options..."
+    },
+    {
+      "key": "EP05_S1300_0026",
+      "value": "I know. Still, I bet that won’t get us home."
+    },
+    {
+      "key": "EP05_S1300_0027",
+      "value": "Why do you say that?"
+    },
+    {
+      "key": "EP05_S1300_0028",
+      "value": "If going home was that easy, I bet people\nwould already know more about this world."
+    },
+    {
+      "key": "EP05_S1300_0029",
+      "value": "Well... Yeah, that makes sense."
+    },
+    {
+      "key": "EP05_S1300_0030",
+      "value": "Besides, if Floramon is so against it, then\nit can’t be safe for us."
+    },
+    {
+      "key": "EP05_S1300_0031",
+      "value": "Yeah! I can’t say what’d happen, but those\njerks don’t give two figs about human kids."
+    },
+    {
+      "key": "EP05_S1300_0032",
+      "value": "I don’t wanna hand Saki over to guys like\nthat."
+    },
+    {
+      "key": "EP05_S1300_0033",
+      "value": "I’m glad you feel that way, Floramon."
+    },
+    {
+      "key": "EP05_S1300_0034",
+      "value": "You too, Takuma. You were trying to cheer me\nup, weren’t you?"
+    },
+    {
+      "key": "EP05_S1300_0035",
+      "value": "I feel a bit better now."
+    },
+    {
+      "key": "EP05_S1300_0037",
+      "value": "We’d just die, wouldn’t we? Those guys seem\nway too dangerous."
+    },
+    {
+      "key": "EP05_S1300_0038",
+      "value": "Oh, jeez..."
+    },
+    {
+      "key": "EP05_S1300_0039",
+      "value": "What? Why the sigh?"
+    },
+    {
+      "key": "EP05_S1300_0040",
+      "value": "It’s because you’re stating the obvious,\nTakuma."
+    },
+    {
+      "key": "EP05_S1300_0041",
+      "value": "Of course I know that much. I was looking for\na little hope to cling to, that’s all."
+    },
+    {
+      "key": "EP05_S1300_0042",
+      "value": "What am I supposed to do with a statement\nlike that? “We’d just die,” he says."
+    },
+    {
+      "key": "EP05_S1300_0043",
+      "value": "I, I’m sorry! I just didn’t want to dodge the\nquestion!"
+    },
+    {
+      "key": "EP05_S1300_0044",
+      "value": "This isn’t about dodging questions! It’s\nabout making a lady feel better!"
+    },
+    {
+      "key": "EP05_S1300_0045",
+      "value": "I mean, I hear you, but..."
+    },
+    {
+      "key": "EP05_S1300_0046",
+      "value": "Oh boy. You’ve got a lot to learn about the\nways of a woman’s heart, my friend."
+    },
+    {
+      "key": "EP05_S1300_0048",
+      "value": "I don’t know... Guessing won’t help, and\nthere’s no point in lying about it."
+    },
+    {
+      "key": "EP05_S1300_0049",
+      "value": "A white lie that would make me feel better\nwouldn’t be all bad, you know?"
+    },
+    {
+      "key": "EP05_S1300_0050",
+      "value": "I mean..."
+    },
+    {
+      "key": "EP05_S1300_0051",
+      "value": "I’m kidding. If you don’t get that, I guess\nsweet lies are beyond you, too."
+    },
+    {
+      "key": "EP05_S1300_0052",
+      "value": "Sorry, Saki, I dunno either..."
+    },
+    {
+      "key": "EP05_S1300_0053",
+      "value": "It’s nothing to apologize for, Agumon. You\ndon’t know what you don’t know."
+    },
+    {
+      "key": "EP05_S1300_0054",
+      "value": "Aww man, when all’s said and done, none of us\nknow a darn thing."
+    },
+    {
+      "key": "EP05_S1300_0055",
+      "value": "In the end, we’ll just have to ask someone\nwho actually knows what’s what."
+    },
+    {
+      "key": "EP05_S1300_0056",
+      "value": "Guess that means we’ll have to fight, huh?"
+    },
+    {
+      "key": "EP05_S1300_0057",
+      "value": "We’re totally clueless here. I can’t stand\nit."
+    }
+  ]
+}

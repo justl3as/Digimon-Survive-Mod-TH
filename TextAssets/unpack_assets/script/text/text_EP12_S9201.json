@@ -1,0 +1,168 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9201_0004",
+      "value": "There they are! Looks like they didn’t go too\nfar."
+    },
+    {
+      "key": "EP12_S9201_0005",
+      "value": "Hey, Shuuji! What’s going on?"
+    },
+    {
+      "key": "EP12_S9201_0006",
+      "value": "Hm? Oh, Takuma. I feel like I should ask you\nthat. You seem concerned about something."
+    },
+    {
+      "key": "EP12_S9201_0007",
+      "value": "Me? No, I was just worried something was\nwrong when I saw you head into the woods."
+    },
+    {
+      "key": "EP12_S9201_0008",
+      "value": "What? Oh! Us wandering off on our own must\nhave made you concerned."
+    },
+    {
+      "key": "EP12_S9201_0009",
+      "value": "It wasn’t Shuuji’s fault! I heard something\nweird and he came with me to investigate."
+    },
+    {
+      "key": "EP12_S9201_0010",
+      "value": "Sorry to make you worry. I didn’t realize how\nfar we’d gone."
+    },
+    {
+      "key": "EP12_S9201_0011",
+      "value": "But you’ll probably tell me I shouldn’t be\ngoing off on my own in the first place."
+    },
+    {
+      "key": "EP12_S9201_0012",
+      "value": "Oh, uh, well..."
+    },
+    {
+      "key": "EP12_S9201_0013",
+      "value": "(Shuuji noticed something odd and followed up\nright away. It’s good that he was decisive.)"
+    },
+    {
+      "key": "EP12_S9201_0014",
+      "value": "(But he’s right. Acting independently without\ntelling anyone could lead to trouble.)"
+    },
+    {
+      "key": "EP12_S9201_Q1",
+      "value": "(What should I tell him?)"
+    },
+    {
+      "key": "EP12_S9201_Q1_A1",
+      "value": "Thanks, Shuuji."
+    },
+    {
+      "key": "EP12_S9201_Q1_A2",
+      "value": "Say something first."
+    },
+    {
+      "key": "EP12_S9201_Q1_A3",
+      "value": "That was wrong."
+    },
+    {
+      "key": "EP12_S9201_0015",
+      "value": "Thanks, Shuuji."
+    },
+    {
+      "key": "EP12_S9201_0016",
+      "value": "There’s no need to apologize. You went to see\nif there was something dangerous out there."
+    },
+    {
+      "key": "EP12_S9201_0017",
+      "value": "If anything, I feel like I should be thanking\nyou. So, thanks, Shuuji."
+    },
+    {
+      "key": "EP12_S9201_0018",
+      "value": "You mean it? I...I don’t know what to say\nwhen you come out and thank me like that."
+    },
+    {
+      "key": "EP12_S9201_0019",
+      "value": "*ahem* Still, I shouldn’t have acted alone.\nThat I regret. I’ll tell someone next time."
+    },
+    {
+      "key": "EP12_S9201_0020",
+      "value": "Wow, Shuuji! That was so level-headed!"
+    },
+    {
+      "key": "EP12_S9201_0021",
+      "value": "Haha, which is to say, my actions up until\nnow haven’t been very well thought out."
+    },
+    {
+      "key": "EP12_S9201_0022",
+      "value": "Yes, I still have a ways to go."
+    },
+    {
+      "key": "EP12_S9201_0023",
+      "value": "Say something first."
+    },
+    {
+      "key": "EP12_S9201_0024",
+      "value": "I can understand why you’d want to check that\nout, and I appreciate it..."
+    },
+    {
+      "key": "EP12_S9201_0025",
+      "value": "...but I wish you’d said something to us.\nIt’d be awful if anything happened to you."
+    },
+    {
+      "key": "EP12_S9201_0026",
+      "value": "Yeah... I’m sorry. I should’ve though things\nout more carefully."
+    },
+    {
+      "key": "EP12_S9201_0027",
+      "value": "You’re right, Takuma. I’ll make sure to tell\nsomeone next time."
+    },
+    {
+      "key": "EP12_S9201_0028",
+      "value": "That was wrong."
+    },
+    {
+      "key": "EP12_S9201_0029",
+      "value": "Yeah, you shouldn’t have acted on your own\nlike that."
+    },
+    {
+      "key": "EP12_S9201_0030",
+      "value": "We’re all friends here. It’s okay for you to\nrely on us."
+    },
+    {
+      "key": "EP12_S9201_0031",
+      "value": "You’re right. I’m sorry."
+    },
+    {
+      "key": "EP12_S9201_0032",
+      "value": "I’ll make sure to tell someone next time.\nGuess I still have a long way to go."
+    },
+    {
+      "key": "EP12_S9201_0033",
+      "value": "So that weird sound was coming from around\nhere?"
+    },
+    {
+      "key": "EP12_S9201_0034",
+      "value": "Oh, yeah. It seemed like there was a lot of\nrustling in the grass, so I was worried."
+    },
+    {
+      "key": "EP12_S9201_0035",
+      "value": "We’re still not sure if it’s an enemy or not,\nso I won’t go too far. Don’t worry."
+    },
+    {
+      "key": "EP12_S9201_0036",
+      "value": "I’ll just check it out and come back. Plus,\nwith Lopmon to protect me, I’ll be fine."
+    },
+    {
+      "key": "EP12_S9201_0037",
+      "value": "Eheheh, that’s right, Shuuji."
+    },
+    {
+      "key": "EP12_S9201_0038",
+      "value": "Well, in that case, I’ll leave this to you\ntwo. Just don’t do anything crazy, okay?"
+    },
+    {
+      "key": "EP12_S9201_0039",
+      "value": "We won’t, don’t worry."
+    },
+    {
+      "key": "EP12_S9201_0040",
+      "value": "We didn’t turn up anything. Maybe Lopmon was\njust imagining things."
+    }
+  ]
+}

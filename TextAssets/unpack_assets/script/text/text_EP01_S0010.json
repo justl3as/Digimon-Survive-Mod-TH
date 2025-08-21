@@ -1,0 +1,40 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0010_0001",
+      "value": "*huff* *huff* *puff*"
+    },
+    {
+      "key": "EP01_S0010_0002",
+      "value": "I’m scared..."
+    },
+    {
+      "key": "EP01_S0010_0003",
+      "value": "Don’t worry, we’re okay!\nCome on, over here..."
+    },
+    {
+      "key": "EP01_S0010_0004",
+      "value": "Yeep!"
+    },
+    {
+      "key": "EP01_S0010_0005",
+      "value": "Oh no!\nThey made it over here already!"
+    },
+    {
+      "key": "EP01_S0010_0006",
+      "value": "Get away from there!"
+    },
+    {
+      "key": "EP01_S0010_0007",
+      "value": "I won’t let you lay a hand on them!"
+    },
+    {
+      "key": "EP01_S0010_0008",
+      "value": "You guys...!"
+    },
+    {
+      "key": "EP01_S0010_0009",
+      "value": "I’m so scared..."
+    }
+  ]
+}

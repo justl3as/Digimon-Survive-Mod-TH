@@ -1,0 +1,56 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S4107_0001",
+      "value": "Hey, check it out! I got a text too!"
+    },
+    {
+      "key": "EP12_S4107_0002",
+      "value": "Let’s see, the part I can read is asking if\nI’m okay, and taking my medicine."
+    },
+    {
+      "key": "EP12_S4107_0003",
+      "value": "Well, it’s clear someone’s concerned about\nyou, but it’s hard to make out the details."
+    },
+    {
+      "key": "EP12_S4107_0004",
+      "value": "Sure, I guess."
+    },
+    {
+      "key": "EP12_S4107_0005",
+      "value": "But wait, I don’t remember hearing your phone\ngo off."
+    },
+    {
+      "key": "EP12_S4107_0006",
+      "value": "That’s because I put it on silent."
+    },
+    {
+      "key": "EP12_S4107_0007",
+      "value": "Wait, that’s a good idea. Everyone, silence\nyour phones so the alerts don’t surprise us."
+    },
+    {
+      "key": "EP12_S4107_0008",
+      "value": "Oh, right, okay."
+    },
+    {
+      "key": "EP12_S4107_0009",
+      "value": "Done!"
+    },
+    {
+      "key": "EP12_S4107_0010",
+      "value": "Sorry to scare you, everyone. I’ve just set\nmine to silent too."
+    },
+    {
+      "key": "EP12_S4107_0011",
+      "value": "Thanks! Guess we’re ready to go, then."
+    },
+    {
+      "key": "EP12_S4107_0012",
+      "value": "Let’s head straight for the Master!"
+    },
+    {
+      "key": "EP12_S4107_0013",
+      "value": "Takuma, did you silence your phone? Once\nyou’re ready, it’s time to face the Master!"
+    }
+  ]
+}

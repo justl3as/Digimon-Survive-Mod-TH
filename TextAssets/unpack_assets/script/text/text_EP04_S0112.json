@@ -1,0 +1,616 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0112_0001",
+      "value": "*huff*...*huff* We actually...made it!"
+    },
+    {
+      "key": "EP04_S0112_0002",
+      "value": "Looks like we all got out in time."
+    },
+    {
+      "key": "EP04_S0112_0003",
+      "value": "Saki, how’s your leg?"
+    },
+    {
+      "key": "EP04_S0112_0004",
+      "value": "I think I can walk on it now."
+    },
+    {
+      "key": "EP04_S0112_0005",
+      "value": "Thanks, Kaito."
+    },
+    {
+      "key": "EP04_S0112_0006",
+      "value": "Nah, I should be thanking you. You saved Miu."
+    },
+    {
+      "key": "EP04_S0112_0007",
+      "value": "Speaking of which, Miu, are you all right?"
+    },
+    {
+      "key": "EP04_S0112_0008",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S0112_0009",
+      "value": "Seems like she’s having a hard time taking\nall of this in."
+    },
+    {
+      "key": "EP04_S0112_0010",
+      "value": "I bet. She probably never imagined things\ncould get this bad."
+    },
+    {
+      "key": "EP04_S0112_0011",
+      "value": "That’s what it was like for me, too."
+    },
+    {
+      "key": "EP04_S0112_0012",
+      "value": "Grr... If only I’d been with her, this never\nwould’ve happened!"
+    },
+    {
+      "key": "EP04_S0112_0013",
+      "value": "And she may never have realized how cruel\nthis world can be."
+    },
+    {
+      "key": "EP04_S0112_0014",
+      "value": "Urk..."
+    },
+    {
+      "key": "EP04_S0112_0015",
+      "value": "Sometimes you gotta suffer to learn a hard\nlesson."
+    },
+    {
+      "key": "EP04_S0112_0016",
+      "value": "I think we oughtta give her some space."
+    },
+    {
+      "key": "EP04_S0112_0017",
+      "value": "Anyway, we need to keep moving."
+    },
+    {
+      "key": "EP04_S0112_0018",
+      "value": "Let’s get out of here before some enemy\nmonster—"
+    },
+    {
+      "key": "EP04_S0112_0019",
+      "value": "Are those...screams?"
+    },
+    {
+      "key": "EP04_S0112_0020",
+      "value": "Huh? Haru, what was that?"
+    },
+    {
+      "key": "EP04_S0112_0021",
+      "value": "I hear screams... Over that way."
+    },
+    {
+      "key": "EP04_S0112_0022",
+      "value": "That way..."
+    },
+    {
+      "key": "EP04_S0112_0023",
+      "value": "(Don’t tell me...)"
+    },
+    {
+      "key": "EP04_S0112_0024",
+      "value": "Aaaaaah!!!"
+    },
+    {
+      "key": "EP04_S0112_0025",
+      "value": "Stop! Please, stop!"
+    },
+    {
+      "key": "EP04_S0112_0026",
+      "value": "It’s them! Palmon and Patamon!"
+    },
+    {
+      "key": "EP04_S0112_0027",
+      "value": "Wh-what the heck?! Something’s coming this\nway!"
+    },
+    {
+      "key": "EP04_S0112_0028",
+      "value": "Bad news, Takuma! Some real strong enemies\nare headed straight for us!"
+    },
+    {
+      "key": "EP04_S0112_0029",
+      "value": "My senses tell me...these are no ordinary\nfoes!"
+    },
+    {
+      "key": "EP04_S0112_0030",
+      "value": "There! It’s them!"
+    },
+    {
+      "key": "EP04_S0112_0031",
+      "value": "Hmph! So, this is where those fools with the\nhuman children have come!"
+    },
+    {
+      "key": "EP04_S0112_0032",
+      "value": "Prey... So much...prey..."
+    },
+    {
+      "key": "EP04_S0112_0033",
+      "value": "(These are the attackers?!)"
+    },
+    {
+      "key": "EP04_S0112_0034",
+      "value": "They give me the chills!"
+    },
+    {
+      "key": "EP04_S0112_0035",
+      "value": "What is with those guys? Did you catch the\nlook in their eyes? They gotta be bad news."
+    },
+    {
+      "key": "EP04_S0112_0036",
+      "value": "Er... Uh... What? These aren’t like the\nmonsters I know at all..."
+    },
+    {
+      "key": "EP04_S0112_0037",
+      "value": "Miu, you stay right next to me, okay?"
+    },
+    {
+      "key": "EP04_S0112_0038",
+      "value": "Leave the children...to me..."
+    },
+    {
+      "key": "EP04_S0112_0039",
+      "value": "Of course. The children are no concern of\nmine."
+    },
+    {
+      "key": "EP04_S0112_0040",
+      "value": "Oh yeah? We’ll see about that, Mr. Big Bad\nWolf!"
+    },
+    {
+      "key": "EP04_S0112_0041",
+      "value": "Don’t you call me that! I am Garurumon!"
+    },
+    {
+      "key": "EP04_S0112_0042",
+      "value": "Are... Are you with Arukenimon?!"
+    },
+    {
+      "key": "EP04_S0112_0043",
+      "value": "Pah! I care nothing for trash like her! Now,\nlet’s see, I think..."
+    },
+    {
+      "key": "EP04_S0112_0044",
+      "value": "You’re the biggest threat!"
+    },
+    {
+      "key": "EP04_S0112_0045",
+      "value": "Urk!"
+    },
+    {
+      "key": "EP04_S0112_0046",
+      "value": "Take this!"
+    },
+    {
+      "key": "EP04_S0112_0047",
+      "value": "Bah! How dare you!"
+    },
+    {
+      "key": "EP04_S0112_0048",
+      "value": "(Garurumon just leapt at Falcomon!)"
+    },
+    {
+      "key": "EP04_S0112_0049",
+      "value": "I hear you’ve formed a bond with these human\nwhelps!"
+    },
+    {
+      "key": "EP04_S0112_0050",
+      "value": "Argh... He’s quite strong! Watch out!"
+    },
+    {
+      "key": "EP04_S0112_0051",
+      "value": "Falcomon!"
+    },
+    {
+      "key": "EP04_S0112_0052",
+      "value": "Hahaha, now let’s see this power of yours!"
+    },
+    {
+      "key": "EP04_S0112_0053",
+      "value": "Let go of Falcomon!"
+    },
+    {
+      "key": "EP04_S0112_0054",
+      "value": "Whoa! He’s strong!"
+    },
+    {
+      "key": "EP04_S0112_0055",
+      "value": "Take this!"
+    },
+    {
+      "key": "EP04_S0112_0056",
+      "value": "What?! I’m being pushed back?"
+    },
+    {
+      "key": "EP04_S0112_0057",
+      "value": "Unnngh..."
+    },
+    {
+      "key": "EP04_S0112_0058",
+      "value": "Aren’t you going to help them?!"
+    },
+    {
+      "key": "EP04_S0112_0059",
+      "value": "Oh... I... I..."
+    },
+    {
+      "key": "EP04_S0112_0060",
+      "value": "Bah! Why are you always so useless?"
+    },
+    {
+      "key": "EP04_S0112_0061",
+      "value": "Unngh..."
+    },
+    {
+      "key": "EP04_S0112_0062",
+      "value": "What, don’t tell me that’s all you’ve got?\nI thought you were supposed to be strong!"
+    },
+    {
+      "key": "EP04_S0112_0063",
+      "value": "Now’s my chance..."
+    },
+    {
+      "key": "EP04_S0112_0064",
+      "value": "These children...are mine..."
+    },
+    {
+      "key": "EP04_S0112_0065",
+      "value": "Hey! B-back off!"
+    },
+    {
+      "key": "EP04_S0112_0066",
+      "value": "No... Stop!"
+    },
+    {
+      "key": "EP04_S0112_0067",
+      "value": "Get away from Miu!"
+    },
+    {
+      "key": "EP04_S0112_0068",
+      "value": "You... You keep away from our queen!"
+    },
+    {
+      "key": "EP04_S0112_0069",
+      "value": "We won’t let you take her!"
+    },
+    {
+      "key": "EP04_S0112_0070",
+      "value": "Save the queen!!!"
+    },
+    {
+      "key": "EP04_S0112_0071",
+      "value": "No! All of you, stop!"
+    },
+    {
+      "key": "EP04_S0112_0072",
+      "value": "Don’t...interfere..."
+    },
+    {
+      "key": "EP04_S0112_0073",
+      "value": "Urgh!"
+    },
+    {
+      "key": "EP04_S0112_0074",
+      "value": "Yeowch!"
+    },
+    {
+      "key": "EP04_S0112_0075",
+      "value": "Gah..."
+    },
+    {
+      "key": "EP04_S0112_0076",
+      "value": "No... No... They’re all suffering...\nAll because of me..."
+    },
+    {
+      "key": "EP04_S0112_0077",
+      "value": "Pathetic..."
+    },
+    {
+      "key": "EP04_S0112_0078",
+      "value": "Rrk... We’re not...finished yet! We will...\nprotect...the queen!"
+    },
+    {
+      "key": "EP04_S0112_0079",
+      "value": "No, stop! That’s enough! Please, you don’t\nhave to fight for me!"
+    },
+    {
+      "key": "EP04_S0112_0080",
+      "value": "Miu?! What’re you thinking?! Get back here!"
+    },
+    {
+      "key": "EP04_S0112_0081",
+      "value": "So this...is the child...who escaped from\nArukenimon... I’ll get her!"
+    },
+    {
+      "key": "EP04_S0112_0082",
+      "value": "Eep!"
+    },
+    {
+      "key": "EP04_S0112_0083",
+      "value": "I don’t think so!"
+    },
+    {
+      "key": "EP04_S0112_0084",
+      "value": "Out of...my way..."
+    },
+    {
+      "key": "EP04_S0112_0085",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP04_S0112_0086",
+      "value": "It’s after Miu! We have to get her out of\nhere!"
+    },
+    {
+      "key": "EP04_S0112_0087",
+      "value": "Right! Miu, come this way!"
+    },
+    {
+      "key": "EP04_S0112_0088",
+      "value": "You’re not getting away..."
+    },
+    {
+      "key": "EP04_S0112_0089",
+      "value": "Well, first you’ll have to go through us!\nBring it on!"
+    },
+    {
+      "key": "EP04_S0112_0090",
+      "value": "Hurry, this way!"
+    },
+    {
+      "key": "EP04_S0112_0091",
+      "value": "But...what about everyone else?"
+    },
+    {
+      "key": "EP04_S0112_0092",
+      "value": "They all really thought I was a sorceress!\nThey fought to protect me!"
+    },
+    {
+      "key": "EP04_S0112_0093",
+      "value": "But I haven’t done anything for them!"
+    },
+    {
+      "key": "EP04_S0112_0094",
+      "value": "You’re the one in the most danger right now!\nSo you’ll need to hide in the castle for—"
+    },
+    {
+      "key": "EP04_S0112_0095",
+      "value": "Wha’? Aaah!"
+    },
+    {
+      "key": "EP04_S0112_0096",
+      "value": "You’re not going anywhere..."
+    },
+    {
+      "key": "EP04_S0112_0097",
+      "value": "You already beat Agumon and the others?!\nWell, I won’t let you hurt Aoi or Miu!"
+    },
+    {
+      "key": "EP04_S0112_0098",
+      "value": "Hmph, I barely even touched them.\nSo pathetic."
+    },
+    {
+      "key": "EP04_S0112_0099",
+      "value": "But what about you? Looks like you’ve got\nsome fight in you."
+    },
+    {
+      "key": "EP04_S0112_0100",
+      "value": "I’m not letting you hurt Miu!"
+    },
+    {
+      "key": "EP04_S0112_0101",
+      "value": "That’s the spirit, Aoi! So what if you’re\ntrembling? Leave this to me! I can handle it!"
+    },
+    {
+      "key": "EP04_S0112_0102",
+      "value": "Oh, this is awful! I’m so scared!"
+    },
+    {
+      "key": "EP04_S0112_0103",
+      "value": "You should be. Not all monsters are cute and\ncuddly."
+    },
+    {
+      "key": "EP04_S0112_0104",
+      "value": "Hmph. Pathetic."
+    },
+    {
+      "key": "EP04_S0112_0105",
+      "value": "What? He’s...leaving?"
+    },
+    {
+      "key": "EP04_S0112_0106",
+      "value": "The human brats..."
+    },
+    {
+      "key": "EP04_S0112_0107",
+      "value": "You will let them go...?"
+    },
+    {
+      "key": "EP04_S0112_0108",
+      "value": "I came here so I could crush the fools who\nbonded with the human children."
+    },
+    {
+      "key": "EP04_S0112_0109",
+      "value": "I’m not on some stupid hunt for children like\nyou and your friends."
+    },
+    {
+      "key": "EP04_S0112_0110",
+      "value": "Garurumon... You traitor..."
+    },
+    {
+      "key": "EP04_S0112_0111",
+      "value": "Traitor? How am I a traitor? I’ve never been\none of you!"
+    },
+    {
+      "key": "EP04_S0112_0112",
+      "value": "I’m not sure what’s going on, but it looks\nlike...they’re fighting?!"
+    },
+    {
+      "key": "EP04_S0112_0113",
+      "value": "You...\nYou think this is our chance to escape?"
+    },
+    {
+      "key": "EP04_S0112_0114",
+      "value": "I will take...the child sacrifice..."
+    },
+    {
+      "key": "EP04_S0112_0115",
+      "value": "Hey! You’re not taking Miu anywhere!"
+    },
+    {
+      "key": "EP04_S0112_0116",
+      "value": "What can you do? You’re only human..."
+    },
+    {
+      "key": "EP04_S0112_0117",
+      "value": "You will not harm our friends and partners!"
+    },
+    {
+      "key": "EP04_S0112_0118",
+      "value": "Hmph... Don’t you know when to stay down?"
+    },
+    {
+      "key": "EP04_S0112_0119",
+      "value": "I just tripped ’cause you surprised me!\nI ain’t done yet!"
+    },
+    {
+      "key": "EP04_S0112_0120",
+      "value": "Yeah, that’s right!"
+    },
+    {
+      "key": "EP04_S0112_0121",
+      "value": "Well, at least you’ve got guts."
+    },
+    {
+      "key": "EP04_S0112_0122",
+      "value": "All right, then. Let’s see what you can do in\na real fight, not just a contest of strength."
+    },
+    {
+      "key": "EP04_S0112_0123",
+      "value": "Wouldn’t have it any other way!"
+    },
+    {
+      "key": "EP04_S0112_0124",
+      "value": "(I don’t see any way out of this without\na fight, but these two are crazy strong.)"
+    },
+    {
+      "key": "EP04_S0112_0125",
+      "value": "(If only there was something I could say to\nhelp our partners give their all...)"
+    },
+    {
+      "key": "EP04_S0112_Q1",
+      "value": "(But what might that be?!)"
+    },
+    {
+      "key": "EP04_S0112_Q1_A1",
+      "value": "Challenge Garurumon to a fight!"
+    },
+    {
+      "key": "EP04_S0112_Q1_A2",
+      "value": "Agumon and the gang are too much for you."
+    },
+    {
+      "key": "EP04_S0112_Q1_A3",
+      "value": "Agitate Garurumon!"
+    },
+    {
+      "key": "EP04_S0112_0126",
+      "value": "Bring it, Garurumon!"
+    },
+    {
+      "key": "EP04_S0112_0127",
+      "value": "(If it’s a fight he wants, I’ll show him it’s\na fight he’s gonna get!)"
+    },
+    {
+      "key": "EP04_S0112_0128",
+      "value": "Bring it on, Garurumon!"
+    },
+    {
+      "key": "EP04_S0112_0129",
+      "value": "Hmph! Well, at least you’ve got the guts to\nstand and fight, I’ll give you that!"
+    },
+    {
+      "key": "EP04_S0112_0130",
+      "value": "Oh, we’ve got more than just guts! We’re\ngonna take you down!"
+    },
+    {
+      "key": "EP04_S0112_0131",
+      "value": "Well said, Agumon! Victory will be ours!"
+    },
+    {
+      "key": "EP04_S0112_0132",
+      "value": "We’ll see about that."
+    },
+    {
+      "key": "EP04_S0112_0133",
+      "value": "I believe in Agumon, and in every one of our\npartners!"
+    },
+    {
+      "key": "EP04_S0112_0134",
+      "value": "Then this should be interesting."
+    },
+    {
+      "key": "EP04_S0112_0135",
+      "value": "Heheheh... Bring it on!"
+    },
+    {
+      "key": "EP04_S0112_0136",
+      "value": "You’re done for!"
+    },
+    {
+      "key": "EP04_S0112_0137",
+      "value": "Agumon and the gang are too much for you!"
+    },
+    {
+      "key": "EP04_S0112_0138",
+      "value": "I may have let my guard down a bit earlier,\nbut I’m not letting that happen again!"
+    },
+    {
+      "key": "EP04_S0112_0139",
+      "value": "Yeah, we’ll show you just what we can do!"
+    },
+    {
+      "key": "EP04_S0112_0140",
+      "value": "Hahaha! Just what I wanted to hear!\nBring it on!"
+    },
+    {
+      "key": "EP04_S0112_0141",
+      "value": "Aren’t you ashamed?"
+    },
+    {
+      "key": "EP04_S0112_0142",
+      "value": "How dare you pick on little kids like that!\nOn girls!"
+    },
+    {
+      "key": "EP04_S0112_0143",
+      "value": "What?! That’s...that’s not what’s happening!"
+    },
+    {
+      "key": "EP04_S0112_0144",
+      "value": "Cowards like you are the worst!"
+    },
+    {
+      "key": "EP04_S0112_0145",
+      "value": "Yeah... I’m with you!"
+    },
+    {
+      "key": "EP04_S0112_0146",
+      "value": "Me? A COWARD?!"
+    },
+    {
+      "key": "EP04_S0112_0147",
+      "value": "(Aha, he’s starting to get flustered.)"
+    },
+    {
+      "key": "EP04_S0112_0148",
+      "value": "(He may be tough, but he seems like the type\nthat takes pride in a fair fight.)"
+    },
+    {
+      "key": "EP04_S0112_0149",
+      "value": "(He’s an intimidating opponent all right,\nbut...here goes nothing!)"
+    }
+  ]
+}

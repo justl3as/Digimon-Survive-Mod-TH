@@ -1,0 +1,308 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S4010_0001",
+      "value": "This isn’t good, Takuma. Kaito still hasn’t\ncome back."
+    },
+    {
+      "key": "EP11_S4010_0002",
+      "value": "Huh... I wonder where he went."
+    },
+    {
+      "key": "EP11_S4010_0003",
+      "value": "I can’t believe I didn’t notice they were\ngone sooner."
+    },
+    {
+      "key": "EP11_S4010_0004",
+      "value": "If I’d been keeping an eye out, this never\nwould’ve happened."
+    },
+    {
+      "key": "EP11_S4010_0005",
+      "value": "Where are you, Kaito? And why’d you disappear\nlike that?"
+    },
+    {
+      "key": "EP11_S4010_0006",
+      "value": "Maybe the bad guys got a hold of him..."
+    },
+    {
+      "key": "EP11_S4010_0007",
+      "value": "Don’t say that, Saki!"
+    },
+    {
+      "key": "EP11_S4010_0008",
+      "value": "Sorry... But we have to consider the\npossibility that something bad happened."
+    },
+    {
+      "key": "EP11_S4010_0009",
+      "value": "I mean, the last thing I want is for him to\ndie, but still..."
+    },
+    {
+      "key": "EP11_S4010_0010",
+      "value": "It’s my fault for showing him that vision."
+    },
+    {
+      "key": "EP11_S4010_0011",
+      "value": "He’s gone because of me... I’m sorry."
+    },
+    {
+      "key": "EP11_S4010_0012",
+      "value": "Haru—I mean, Renamon—why are you in that\nform, anyway?"
+    },
+    {
+      "key": "EP11_S4010_0013",
+      "value": "We know who you really are now. You don’t\nhave to keep pretending to be him."
+    },
+    {
+      "key": "EP11_S4010_0014",
+      "value": "I’ve been in this form so long it just\nstarted to feel natural."
+    },
+    {
+      "key": "EP11_S4010_0015",
+      "value": "There’s also the way Miyuki looks at me when\nI’m in this form."
+    },
+    {
+      "key": "EP11_S4010_0016",
+      "value": "I just want to have her back at my side so\nbadly..."
+    },
+    {
+      "key": "EP11_S4010_0017",
+      "value": "Renamon..."
+    },
+    {
+      "key": "EP11_S4010_0018",
+      "value": "Do you mind, though, Professor?"
+    },
+    {
+      "key": "EP11_S4010_0019",
+      "value": "If that’s how you’d prefer to be, then\nI don’t mind one bit."
+    },
+    {
+      "key": "EP11_S4010_0020",
+      "value": "We understand how you feel, Renamon."
+    },
+    {
+      "key": "EP11_S4010_0021",
+      "value": "Sorry to rewind the conversation...but what\nabout Kaito?"
+    },
+    {
+      "key": "EP11_S4010_0022",
+      "value": "I hounded you guys with those visions as part\nof a deal with the Master."
+    },
+    {
+      "key": "EP11_S4010_0023",
+      "value": "I was trying to scare you so you’d be\nswallowed up by the fog."
+    },
+    {
+      "key": "EP11_S4010_0024",
+      "value": "There must have been some memory in Kaito’s\nvision that was too hard for him to face."
+    },
+    {
+      "key": "EP11_S4010_0025",
+      "value": "...So he ran off because he couldn’t deal\nwith it?"
+    },
+    {
+      "key": "EP11_S4010_0026",
+      "value": "(Whatever the memory was, it must have been\nsomething about Miu.)"
+    },
+    {
+      "key": "EP11_S4010_0027",
+      "value": "In that case we are truly in a pickle."
+    },
+    {
+      "key": "EP11_S4010_0028",
+      "value": "When someone acts with intention, it is\npossible to deduce where they may have gone."
+    },
+    {
+      "key": "EP11_S4010_0029",
+      "value": "But if he acted on impulse, there’s no\ntelling where Kaito might be now."
+    },
+    {
+      "key": "EP11_S4010_0030",
+      "value": "Oh, gosh! What should we do then?"
+    },
+    {
+      "key": "EP11_S4010_0031",
+      "value": "I’m sorry for making this happen. I take all\nthe blame."
+    },
+    {
+      "key": "EP11_S4010_0032",
+      "value": "You believed it would help Miyuki. I can\nunderstand that."
+    },
+    {
+      "key": "EP11_S4010_0033",
+      "value": "I might do the same if I thought it would\nhelp Aoi."
+    },
+    {
+      "key": "EP11_S4010_0034",
+      "value": "Right. Anyway, now’s not the time for finger-\npointing."
+    },
+    {
+      "key": "EP11_S4010_0035",
+      "value": "What do you think we should do, Takuma?"
+    },
+    {
+      "key": "EP11_S4010_0036",
+      "value": "Um, well, what are our options?"
+    },
+    {
+      "key": "EP11_S4010_0037",
+      "value": "We could look for him, or forge ahead...but\nwe hardly have time for both."
+    },
+    {
+      "key": "EP11_S4010_0038",
+      "value": "What do you mean by “forge ahead”?"
+    },
+    {
+      "key": "EP11_S4010_0039",
+      "value": "I mean prioritizing escaping with those of us\nleft. The first step is rescuing Miyuki."
+    },
+    {
+      "key": "EP11_S4010_0040",
+      "value": "As harsh as it sounds, that would also mean\ngiving up on the search for Kaito..."
+    },
+    {
+      "key": "EP11_S4010_0041",
+      "value": "What?! We can’t just do that! I thought he\nwas one of us—our friend?!"
+    },
+    {
+      "key": "EP11_S4010_0042",
+      "value": "We have to find him and go back together!\nRight, everyone? RIGHT?"
+    },
+    {
+      "key": "EP11_S4010_0043",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S4010_0044",
+      "value": "This is hard for me to say, Aoi, but..."
+    },
+    {
+      "key": "EP11_S4010_0045",
+      "value": "I don’t think I can disagree with what the\nprofessor is saying."
+    },
+    {
+      "key": "EP11_S4010_0046",
+      "value": "Not you, too, Saki..."
+    },
+    {
+      "key": "EP11_S4010_0047",
+      "value": "I want Kaito to be safe. I want all of us to\nmake it back home together!"
+    },
+    {
+      "key": "EP11_S4010_0048",
+      "value": "But it’s hard to imagine that Kaito wants the\nsame for us..."
+    },
+    {
+      "key": "EP11_S4010_0049",
+      "value": "Ah..."
+    },
+    {
+      "key": "EP11_S4010_0050",
+      "value": "We should at least consider the professor’s\nsuggestion instead of rejecting it outright."
+    },
+    {
+      "key": "EP11_S4010_0051",
+      "value": "But...I can’t accept the idea of just giving\nup on Kaito. I just can’t."
+    },
+    {
+      "key": "EP11_S4010_0052",
+      "value": "(I see where both of them are coming from.\nThey want to prevent further loss of life...)"
+    },
+    {
+      "key": "EP11_S4010_0053",
+      "value": "(And I don’t want to abandon Kaito either,\nmyself.)"
+    },
+    {
+      "key": "EP11_S4010_0054",
+      "value": "Hang on a sec."
+    },
+    {
+      "key": "EP11_S4010_0055",
+      "value": "Did you think of a solution?"
+    },
+    {
+      "key": "EP11_S4010_0056",
+      "value": "Not exactly. But Dracmon disappeared with\nKaito, right?"
+    },
+    {
+      "key": "EP11_S4010_0057",
+      "value": "That means Dracmon is keeping him safe, same\nas always."
+    },
+    {
+      "key": "EP11_S4010_0058",
+      "value": "True. Otherwise he would’ve abandoned Kaito,\nlike what I did that time."
+    },
+    {
+      "key": "EP11_S4010_0059",
+      "value": "Hm, you might be right..."
+    },
+    {
+      "key": "EP11_S4010_0060",
+      "value": "So we can at least assume he’s still alive."
+    },
+    {
+      "key": "EP11_S4010_0061",
+      "value": "I’m more worried about Dracmon changing\nforms. If Kaito is mentally unstable..."
+    },
+    {
+      "key": "EP11_S4010_0062",
+      "value": "You mean he could transform into something\nbad and attack Kaito?"
+    },
+    {
+      "key": "EP11_S4010_0063",
+      "value": "And after Kaito, who do you think would be\nnext? Us."
+    },
+    {
+      "key": "EP11_S4010_0064",
+      "value": "(So that’s why the professor wants to leave\nso badly...)"
+    },
+    {
+      "key": "EP11_S4010_0065",
+      "value": "(He and Saki just don’t want any more of us\nto die, probably.)"
+    },
+    {
+      "key": "EP11_S4010_0066",
+      "value": "So we should find Kaito quickly to prevent\na negative transformation?"
+    },
+    {
+      "key": "EP11_S4010_0067",
+      "value": "Yeah, that makes sense. I think we should\nlisten to Agumon."
+    },
+    {
+      "key": "EP11_S4010_0068",
+      "value": "Now’s not the time to abandon Kaito."
+    },
+    {
+      "key": "EP11_S4010_0069",
+      "value": "Fog taking over places, new buildings\nappearing... This world’s changing fast."
+    },
+    {
+      "key": "EP11_S4010_0070",
+      "value": "We don’t know what’ll happen next, so I can\nunderstand why the professor is worried."
+    },
+    {
+      "key": "EP11_S4010_0071",
+      "value": "We should prioritize safety and promise to\nmeet at the school if anything happens."
+    },
+    {
+      "key": "EP11_S4010_0072",
+      "value": "Sounds good to me. I don’t wanna give up on\nhim, either."
+    },
+    {
+      "key": "EP11_S4010_0073",
+      "value": "I understand, and I respect your opinions. So\nof course, I’ll do what I can to help."
+    },
+    {
+      "key": "EP11_S4010_0074",
+      "value": "Right. If it’s possible to get Kaito back\nsafely, then we have to try."
+    },
+    {
+      "key": "EP11_S4010_0075",
+      "value": "We will find you, Kaito. I promise."
+    },
+    {
+      "key": "EP11_S4010_0076",
+      "value": "(We don’t have much time left. We have to\n<color=#B41919>hurry</color> and find Kaito.)"
+    }
+  ]
+}

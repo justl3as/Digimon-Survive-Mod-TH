@@ -1,0 +1,168 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S9710_0001",
+      "value": "There’s nothing here! Are we sure we’re even\nin the right area?"
+    },
+    {
+      "key": "EP10_S9710_0002",
+      "value": "Let’s keep at it. Besides, even if we don’t\nfind anything at least we’re making progress."
+    },
+    {
+      "key": "EP10_S9710_0003",
+      "value": "How do you figure?"
+    },
+    {
+      "key": "EP10_S9710_0004",
+      "value": "It just means there’s one less place for us\nto check."
+    },
+    {
+      "key": "EP10_S9710_0005",
+      "value": "Oh, I get it! Doesn’t it seem like a lot of\nwasted effort, though?"
+    },
+    {
+      "key": "EP10_S9710_0006",
+      "value": "I guess I can’t argue with you there."
+    },
+    {
+      "key": "EP10_S9710_0007",
+      "value": "Oh. It’s you, Takuma."
+    },
+    {
+      "key": "EP10_S9710_0008",
+      "value": "Looks like you’ve having a rough time of it."
+    },
+    {
+      "key": "EP10_S9710_0009",
+      "value": "Yes... Looking this long with nothing to show\nfor it would upset anyone, not just Saki."
+    },
+    {
+      "key": "EP10_S9710_0010",
+      "value": "Aren’t you tired, Aoi? We’ve been looking so\nlong, we should take a break."
+    },
+    {
+      "key": "EP10_S9710_0011",
+      "value": "You’re right. If we force it while tired,\nwe’ll miss the things we would’ve found."
+    },
+    {
+      "key": "EP10_S9710_0012",
+      "value": "Still, if we don’t find the shrine soon, the\nMaster’s Kenzoku could get there first..."
+    },
+    {
+      "key": "EP10_S9710_0013",
+      "value": "That’s true, too... We can’t just hang around\nhere forever."
+    },
+    {
+      "key": "EP10_S9710_0014",
+      "value": "But..."
+    },
+    {
+      "key": "EP10_S9710_0015",
+      "value": "(Hmm, I think they should rest. Anyone could\nsee how exhausted they are.)"
+    },
+    {
+      "key": "EP10_S9710_0016",
+      "value": "(But Aoi’s right. We need to find the shrine\nas soon as we can.)"
+    },
+    {
+      "key": "EP10_S9710_Q1",
+      "value": "(What should we do?)"
+    },
+    {
+      "key": "EP10_S9710_Q1_A1",
+      "value": "Let’s take a break?"
+    },
+    {
+      "key": "EP10_S9710_Q1_A2",
+      "value": "Keep looking."
+    },
+    {
+      "key": "EP10_S9710_0017",
+      "value": "Floramon’s right, you should rest when you’re\ntired. Why don’t we take a break?"
+    },
+    {
+      "key": "EP10_S9710_0018",
+      "value": "Hmm... Okay, if everyone insists, I can’t be\nstubborn about it, now can I?"
+    },
+    {
+      "key": "EP10_S9710_0019",
+      "value": "We’ll take a break. Just a short one."
+    },
+    {
+      "key": "EP10_S9710_0020",
+      "value": "Great... You can’t overdo it, you know?"
+    },
+    {
+      "key": "EP10_S9710_0021",
+      "value": "I’m sorry. But I’ll be back to the search\nonce I’m rested up."
+    },
+    {
+      "key": "EP10_S9710_0022",
+      "value": "Thanks, Takuma. You actually got Aoi to take\nfive."
+    },
+    {
+      "key": "EP10_S9710_0023",
+      "value": "Hey, I wouldn’t even have noticed she was\ntired if you hadn’t said anything."
+    },
+    {
+      "key": "EP10_S9710_0024",
+      "value": "You’re pretty considerate, aren’t you, Saki?"
+    },
+    {
+      "key": "EP10_S9710_0025",
+      "value": "Heh heh, yeah. I guess!"
+    },
+    {
+      "key": "EP10_S9710_0026",
+      "value": "Well, we don’t have much choice but to keep\nlooking. We can always complain later."
+    },
+    {
+      "key": "EP10_S9710_0027",
+      "value": "Ha! Okay, you said it."
+    },
+    {
+      "key": "EP10_S9710_0028",
+      "value": "Okay, if we don’t find anything, I’ll have an\nearful saved up for you. Or not! Haha."
+    },
+    {
+      "key": "EP10_S9710_0029",
+      "value": "Now then, I’ve got a little more searching\nleft in me. Let’s go, Floramon!"
+    },
+    {
+      "key": "EP10_S9710_0030",
+      "value": "Yeah, I’ll give Takuma a piece of my mind if\nwe don’t find anything!"
+    },
+    {
+      "key": "EP10_S9710_0031",
+      "value": "Uh... Take your time, then..."
+    },
+    {
+      "key": "EP10_S9710_0032",
+      "value": "Thank you, Takuma. Looks like Saki’s cheered\nup a bit."
+    },
+    {
+      "key": "EP10_S9710_0033",
+      "value": "My pleasure. Still, don’t push it if you’re\ntired, okay?"
+    },
+    {
+      "key": "EP10_S9710_0034",
+      "value": "Yes, and I’ll make sure no one else has to,\neither. You don’t have to worry!"
+    },
+    {
+      "key": "EP10_S9710_0035",
+      "value": "Glad I can count on you, Aoi."
+    },
+    {
+      "key": "EP10_S9710_0036",
+      "value": "Takuma, why don’t you leave this spot to us?"
+    },
+    {
+      "key": "EP10_S9710_0037",
+      "value": "Sure thing. I’ll go try somewhere else. Good\nluck, you two!"
+    },
+    {
+      "key": "EP10_S9710_0038",
+      "value": "Saki and I have got this place covered,\nTakuma."
+    }
+  ]
+}

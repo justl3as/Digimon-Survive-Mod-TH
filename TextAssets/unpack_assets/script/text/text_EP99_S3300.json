@@ -1,0 +1,196 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S3300_0001",
+      "value": "Here I am again."
+    },
+    {
+      "key": "EP99_S3300_0002",
+      "value": "I just can’t help but get my hopes up,\nimagining that maybe I’ll run into Aoi."
+    },
+    {
+      "key": "EP99_S3300_0003",
+      "value": "I thought I’d find you here, Takuma."
+    },
+    {
+      "key": "EP99_S3300_0004",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP99_S3300_0005",
+      "value": "(We’re alone here again! Only, something\nseems off...)"
+    },
+    {
+      "key": "EP99_S3300_0006",
+      "value": "What is it? What’s wrong?"
+    },
+    {
+      "key": "EP99_S3300_0007",
+      "value": "You look like something’s bothering you."
+    },
+    {
+      "key": "EP99_S3300_0008",
+      "value": "Takuma...do you think I’m a burden on the\nothers?"
+    },
+    {
+      "key": "EP99_S3300_0009",
+      "value": "What? Why would you think that?"
+    },
+    {
+      "key": "EP99_S3300_0010",
+      "value": "This isn’t like you, Aoi. What’s gotten into\nyou?"
+    },
+    {
+      "key": "EP99_S3300_0011",
+      "value": "Please, Takuma, be honest with me."
+    },
+    {
+      "key": "EP99_S3300_0012",
+      "value": "Am I a burden on the others?"
+    },
+    {
+      "key": "EP99_S3300_0013",
+      "value": "(This sounds really important! What should\nI say to Aoi?)"
+    },
+    {
+      "key": "EP99_S3300_Q1",
+      "value": "How should I answer?"
+    },
+    {
+      "key": "EP99_S3300_Q1_A1",
+      "value": "What happened?"
+    },
+    {
+      "key": "EP99_S3300_Q1_A2",
+      "value": "Were you insulted?"
+    },
+    {
+      "key": "EP99_S3300_Q1_A3",
+      "value": "Try a diet!"
+    },
+    {
+      "key": "EP99_S3300_0014",
+      "value": "Look, why don’t you tell me what happened?"
+    },
+    {
+      "key": "EP99_S3300_0015",
+      "value": "Nothing happened. Could you please just\nanswer my question?"
+    },
+    {
+      "key": "EP99_S3300_0016",
+      "value": "I don’t believe it. If nothing happened, why\nwould you ask about this?"
+    },
+    {
+      "key": "EP99_S3300_0017",
+      "value": "I mean, I’d be happy to give you my advice.\nSeriously, you can tell me anything."
+    },
+    {
+      "key": "EP99_S3300_0018",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP99_S3300_0019",
+      "value": "Did someone insult you or something?"
+    },
+    {
+      "key": "EP99_S3300_0020",
+      "value": "What? Wh-why would you think that?!"
+    },
+    {
+      "key": "EP99_S3300_0021",
+      "value": "Well, why else would you be asking me\nsomething like this?"
+    },
+    {
+      "key": "EP99_S3300_0022",
+      "value": "Oh no, it wasn’t like that! It was just...\nUh..."
+    },
+    {
+      "key": "EP99_S3300_0023",
+      "value": "*sob*!"
+    },
+    {
+      "key": "EP99_S3300_0024",
+      "value": "Aoi... Hey, it’s okay. No need to cry."
+    },
+    {
+      "key": "EP99_S3300_0025",
+      "value": "I’m on your side, all right? I’m here to\nhelp."
+    },
+    {
+      "key": "EP99_S3300_0026",
+      "value": "No, it’s not that, I just... I’m sorry..."
+    },
+    {
+      "key": "EP99_S3300_0027",
+      "value": "I felt so happy, I couldn’t help it."
+    },
+    {
+      "key": "EP99_S3300_0028",
+      "value": "You should try a diet!"
+    },
+    {
+      "key": "EP99_S3300_0029",
+      "value": "What? A diet? What are you talking about?"
+    },
+    {
+      "key": "EP99_S3300_0030",
+      "value": "(Oh no! I was so sure that joke would make\nher feel better, but she doesn’t get it...)"
+    },
+    {
+      "key": "EP99_S3300_0031",
+      "value": "Oh, you know, because you were asking about\nbeing a burden?"
+    },
+    {
+      "key": "EP99_S3300_0032",
+      "value": "What?!"
+    },
+    {
+      "key": "EP99_S3300_0033",
+      "value": "A burden is heavy, right? So I was saying you\nshould go on a diet..."
+    },
+    {
+      "key": "EP99_S3300_0034",
+      "value": "(Ugh, this is awful! It’s never funny when\nyou have to explain a joke...)"
+    },
+    {
+      "key": "EP99_S3300_0035",
+      "value": "Hah! Hahahaha!"
+    },
+    {
+      "key": "EP99_S3300_0036",
+      "value": "Um, Aoi?"
+    },
+    {
+      "key": "EP99_S3300_0037",
+      "value": "I’m sorry, it’s just so funny..."
+    },
+    {
+      "key": "EP99_S3300_0038",
+      "value": "I never took you as the type to joke around\nlike that, Takuma. Hee hee!"
+    },
+    {
+      "key": "EP99_S3300_0039",
+      "value": "You...thought that was funny?"
+    },
+    {
+      "key": "EP99_S3300_0040",
+      "value": "To tell you the truth, lately I’ve been\nstarting to worry."
+    },
+    {
+      "key": "EP99_S3300_0041",
+      "value": "I’ve been wondering if maybe I’ve been\nholding everyone else back."
+    },
+    {
+      "key": "EP99_S3300_0042",
+      "value": "And when I start to feel down about that sort\nof thing, I like to come here to be alone."
+    },
+    {
+      "key": "EP99_S3300_0043",
+      "value": "But I guess recently that’s changed."
+    },
+    {
+      "key": "EP99_S3300_0044",
+      "value": "Now it’s more like this is where I come when\nI want to talk with you."
+    }
+  ]
+}

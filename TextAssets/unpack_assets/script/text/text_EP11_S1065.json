@@ -1,0 +1,436 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S1065_0001",
+      "value": "Ha...ru?"
+    },
+    {
+      "key": "EP11_S1065_0002",
+      "value": "(Is Miyuki back to normal now?)"
+    },
+    {
+      "key": "EP11_S1065_0003",
+      "value": "So you can still recognize me? Even with all\nthese wrinkles?"
+    },
+    {
+      "key": "EP11_S1065_0004",
+      "value": "Your eyes haven’t changed one bit..."
+    },
+    {
+      "key": "EP11_S1065_0005",
+      "value": "And Renamon... You haven’t changed at all,\neither."
+    },
+    {
+      "key": "EP11_S1065_0006",
+      "value": "Oh, Miyuki! I finally get to hear you say my\nname again!"
+    },
+    {
+      "key": "EP11_S1065_0007",
+      "value": "Sorry for keeping you waiting so long."
+    },
+    {
+      "key": "EP11_S1065_0008",
+      "value": "It’s okay! Just having you back means the\nworld to me..."
+    },
+    {
+      "key": "EP11_S1065_0009",
+      "value": "I wanted to come back, too, you know. Hehe...\nBut where are we, anyway?"
+    },
+    {
+      "key": "EP11_S1065_0010",
+      "value": "Guys! Save that for later! We need to\nskedaddle!"
+    },
+    {
+      "key": "EP11_S1065_0011",
+      "value": "Saving Miyuki is Priority #1, like we\ndiscussed! Remember?"
+    },
+    {
+      "key": "EP11_S1065_0012",
+      "value": "Akiharu! Renamon! Let’s get Miyuki out of\nhere!"
+    },
+    {
+      "key": "EP11_S1065_0013",
+      "value": "All right, everyone! We’ve got Miyuki... Now\nit’s time to escape!"
+    },
+    {
+      "key": "EP11_S1065_0014",
+      "value": "Wait... I can’t move! Something’s coming from\nbehind!"
+    },
+    {
+      "key": "EP11_S1065_0015",
+      "value": "You can’t have her! My priestess will bring\nmy ultimate desire to fruition!"
+    },
+    {
+      "key": "EP11_S1065_0016",
+      "value": "Ugh, I can’t... Too strong... AHHH!"
+    },
+    {
+      "key": "EP11_S1065_0017",
+      "value": "Dammit! We can’t let that hand grab Miyuki!"
+    },
+    {
+      "key": "EP11_S1065_0018",
+      "value": "Run...! I’m still under...his control..."
+    },
+    {
+      "key": "EP11_S1065_0019",
+      "value": "No! Miyuki!"
+    },
+    {
+      "key": "EP11_S1065_0020",
+      "value": "I promised I’d never abandon you again!"
+    },
+    {
+      "key": "EP11_S1065_0021",
+      "value": "That’s why I have to... Ergh! Get away from\nMiyuki!"
+    },
+    {
+      "key": "EP11_S1065_0022",
+      "value": "Akiharu! Don’t!"
+    },
+    {
+      "key": "EP11_S1065_0023",
+      "value": "(The professor’s trying to pry Miyuki free\nfrom the Master!)"
+    },
+    {
+      "key": "EP11_S1065_0024",
+      "value": "Hmph! Pitiful!"
+    },
+    {
+      "key": "EP11_S1065_0025",
+      "value": "Stop, Professor, it’s too dangerous! Let go\nalready!"
+    },
+    {
+      "key": "EP11_S1065_0026",
+      "value": "I can’t! I’ll never let go of her again!"
+    },
+    {
+      "key": "EP11_S1065_0027",
+      "value": "Then I’ll tear you apart!"
+    },
+    {
+      "key": "EP11_S1065_0028",
+      "value": "Look out!"
+    },
+    {
+      "key": "EP11_S1065_0029",
+      "value": "I’m not gonna let this happen, not on my\nwatch!"
+    },
+    {
+      "key": "EP11_S1065_0030",
+      "value": "(The Master’s hand pierced Renamon’s body!)"
+    },
+    {
+      "key": "EP11_S1065_0031",
+      "value": "Haru...hurry!"
+    },
+    {
+      "key": "EP11_S1065_0032",
+      "value": "Why would you...protect me?"
+    },
+    {
+      "key": "EP11_S1065_0033",
+      "value": "Hurry... Save Miyuki!"
+    },
+    {
+      "key": "EP11_S1065_0034",
+      "value": "What’s...going on?"
+    },
+    {
+      "key": "EP11_S1065_0035",
+      "value": "Rena...mon? What are you doing?"
+    },
+    {
+      "key": "EP11_S1065_0036",
+      "value": "It’s okay, Miyuki. Nothing for you to worry\nabout."
+    },
+    {
+      "key": "EP11_S1065_0037",
+      "value": "So, please... Agh!"
+    },
+    {
+      "key": "EP11_S1065_0038",
+      "value": "No, this can’t be happening... And it’s all\nmy fault?"
+    },
+    {
+      "key": "EP11_S1065_0039",
+      "value": "Don’t feel bad... I’m just happy I could\nprotect you..."
+    },
+    {
+      "key": "EP11_S1065_0040",
+      "value": "If you and your brother... If you two are\nboth okay, then I..."
+    },
+    {
+      "key": "EP11_S1065_0041",
+      "value": "Renamon!"
+    },
+    {
+      "key": "EP11_S1065_0042",
+      "value": "I leave the rest to you...the real Haru. Go\nnow, save your sister!"
+    },
+    {
+      "key": "EP11_S1065_0043",
+      "value": "Renamon! NO! Renamon!!!"
+    },
+    {
+      "key": "EP11_S1065_0044",
+      "value": "You mean so much to me... My destined\npartner, Miyuki..."
+    },
+    {
+      "key": "EP11_S1065_0045",
+      "value": "Renamon... No... AHHHHHHHHH!"
+    },
+    {
+      "key": "EP11_S1065_0046",
+      "value": "Sis!"
+    },
+    {
+      "key": "EP11_S1065_0047",
+      "value": "No, Miyuki! Stay with us!"
+    },
+    {
+      "key": "EP11_S1065_0048",
+      "value": "The girl shall never return. I shall never\nallow it!"
+    },
+    {
+      "key": "EP11_S1065_0049",
+      "value": "Damn, he’s back again! Damn it all, Takuma!"
+    },
+    {
+      "key": "EP11_S1065_0050",
+      "value": "(We finally make it this far, and now we lose\nanother one of us?)"
+    },
+    {
+      "key": "EP11_S1065_0051",
+      "value": "What do we do now, Takuma?! Keep going or\npull back?!"
+    },
+    {
+      "key": "EP11_S1065_0052",
+      "value": "It’s over! We have no chance! We have to run!"
+    },
+    {
+      "key": "EP11_S1065_0053",
+      "value": "(It was reckless of us to face him in the\nfirst place...)"
+    },
+    {
+      "key": "EP11_S1065_0054",
+      "value": "Keep it together, Takuma, or else none of us\nwill make it!"
+    },
+    {
+      "key": "EP11_S1065_0055",
+      "value": "Dammit! If Takuma isn’t running, then neither\nam I!"
+    },
+    {
+      "key": "EP11_S1065_0056",
+      "value": "Don’t be reckless, Minoru!"
+    },
+    {
+      "key": "EP11_S1065_0057",
+      "value": "(Everyone’s freaking out...)"
+    },
+    {
+      "key": "EP11_S1065_0058",
+      "value": "If we’re gonna do something crazy, now’s the\ntime! We’re with you, Minoru!"
+    },
+    {
+      "key": "EP11_S1065_0059",
+      "value": "No, Kaito! You’ll die!"
+    },
+    {
+      "key": "EP11_S1065_0060",
+      "value": "Sis! I...I just wanted to..."
+    },
+    {
+      "key": "EP11_S1065_0061",
+      "value": "(The professor’s in the depths of despair...)"
+    },
+    {
+      "key": "EP11_S1065_0062",
+      "value": "What about me?"
+    },
+    {
+      "key": "EP11_S1065_0063",
+      "value": "What the hell should I do?"
+    },
+    {
+      "key": "EP11_S1065_0064",
+      "value": "I’m here with you, Takuma. I always will be,\ndon’t forget that!"
+    },
+    {
+      "key": "EP11_S1065_0065",
+      "value": "Thank you, Agumon..."
+    },
+    {
+      "key": "EP11_S1065_0066",
+      "value": "If you start to falter, just lean on me."
+    },
+    {
+      "key": "EP11_S1065_0067",
+      "value": "Even if you think you can’t go on, I’ll never\ngive up on you! On your future!"
+    },
+    {
+      "key": "EP11_S1065_0068",
+      "value": "I’ll make sure you don’t have anything to\nworry about or fear!"
+    },
+    {
+      "key": "EP11_S1065_0069",
+      "value": "Are you trying to say..."
+    },
+    {
+      "key": "EP11_S1065_0070",
+      "value": "It’s too soon to give up?"
+    },
+    {
+      "key": "EP11_S1065_0071",
+      "value": "And it’s okay to want to rescue Miyuki...?\nIt’s okay to want to save the world?!"
+    },
+    {
+      "key": "EP11_S1065_0072",
+      "value": "Of course it is! And I’ll make those wishes\ncome true!"
+    },
+    {
+      "key": "EP11_S1065_0073",
+      "value": "Hah! Looks like they beat me to it, Akiharu!"
+    },
+    {
+      "key": "EP11_S1065_0074",
+      "value": "What do you mean, Gabumon?"
+    },
+    {
+      "key": "EP11_S1065_0075",
+      "value": "You’re just like him. You’d never give up on\nher."
+    },
+    {
+      "key": "EP11_S1065_0076",
+      "value": "You said you promise to save Miyuki this\ntime, didn’t you?"
+    },
+    {
+      "key": "EP11_S1065_0077",
+      "value": "Yes, but in the end, I..."
+    },
+    {
+      "key": "EP11_S1065_0078",
+      "value": "Renamon was willing to risk her life because\nyou didn’t give up!"
+    },
+    {
+      "key": "EP11_S1065_0079",
+      "value": "Let me support you! I’m your partner through\nanything and everything!"
+    },
+    {
+      "key": "EP11_S1065_0080",
+      "value": "If you can’t save Miyuki on your own, I’ll\ngive you the extra push you need!"
+    },
+    {
+      "key": "EP11_S1065_0081",
+      "value": "I’m done with questioning myself, Professor!"
+    },
+    {
+      "key": "EP11_S1065_0082",
+      "value": "We have Agumon and the others with us!\nThey’re our partners in battle to the end!"
+    },
+    {
+      "key": "EP11_S1065_0083",
+      "value": "So please don’t give up! Together, we can\nrescue Miyuki, and..."
+    },
+    {
+      "key": "EP11_S1065_0084",
+      "value": "...then we’ll save the world, I swear it!"
+    },
+    {
+      "key": "EP11_S1065_0085",
+      "value": "Right... You’re right, Takuma! We have\na purpose!"
+    },
+    {
+      "key": "EP11_S1065_0086",
+      "value": "To save my sister! That’s the only path\nforward!"
+    },
+    {
+      "key": "EP11_S1065_0087",
+      "value": "What’s happening? I feel all hot inside..."
+    },
+    {
+      "key": "EP11_S1065_0088",
+      "value": "Rrgh?! This is...like nothing I’ve ever felt\nbefore! So many feelings..."
+    },
+    {
+      "key": "EP11_S1065_0089",
+      "value": "Agumon? Gabumon? What’s going on with you\ntwo?"
+    },
+    {
+      "key": "EP11_S1065_0090",
+      "value": "I feel the intensity of Takuma’s emotions!\nIt’s like I’ve always been waiting for this!"
+    },
+    {
+      "key": "EP11_S1065_0091",
+      "value": "Same for me! I feel the power of Akiharu’s\nresolve surging inside me!"
+    },
+    {
+      "key": "EP11_S1065_0092",
+      "value": "I can’t take it anymore! AAAHHHHHH!"
+    },
+    {
+      "key": "EP11_S1065_0093",
+      "value": "Our current forms can’t handle such intense\nemotions, Agumon!"
+    },
+    {
+      "key": "EP11_S1065_0094",
+      "value": "You’re right! We must...become one!"
+    },
+    {
+      "key": "EP11_S1065_0095",
+      "value": "Agumon, evolve tooo...!"
+    },
+    {
+      "key": "EP11_S1065_0096",
+      "value": "Gabumon, evolve tooo...!"
+    },
+    {
+      "key": "EP11_S1065_0097",
+      "value": "OMEGAMON!"
+    },
+    {
+      "key": "EP11_S1065_0098",
+      "value": "Agumon and Gabumon merged into one!"
+    },
+    {
+      "key": "EP11_S1065_0099",
+      "value": "How can this be happening?!"
+    },
+    {
+      "key": "EP11_S1065_0100",
+      "value": "Takuma, Akiharu! I, Omegamon, will handle\nthis!"
+    },
+    {
+      "key": "EP11_S1065_0101",
+      "value": "Omegamon?"
+    },
+    {
+      "key": "EP11_S1065_0102",
+      "value": "Is this for real? This could turn the tide..."
+    },
+    {
+      "key": "EP11_S1065_0103",
+      "value": "Maybe we have a better chance now..."
+    },
+    {
+      "key": "EP11_S1065_0104",
+      "value": "We do! We’re gonna make it!"
+    },
+    {
+      "key": "EP11_S1065_0105",
+      "value": "We’re following you, Takuma!"
+    },
+    {
+      "key": "EP11_S1065_0106",
+      "value": "Okay, Omegamon! Can you get Miyuki free for\nus?"
+    },
+    {
+      "key": "EP11_S1065_0107",
+      "value": "We’re counting on you, Omegamon. Please save\nmy sister!"
+    },
+    {
+      "key": "EP11_S1065_0108",
+      "value": "No problem! Leave it to me!"
+    }
+  ]
+}

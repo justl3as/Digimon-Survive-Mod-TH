@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1150_0001",
+      "value": "...Huh? What’s this?"
+    },
+    {
+      "key": "EP02_S1150_0002",
+      "value": "What is it?"
+    },
+    {
+      "key": "EP02_S1150_0003",
+      "value": "I picked this up.\nDo you know what it is, Agumon?"
+    },
+    {
+      "key": "EP02_S1150_0004",
+      "value": "Nope!"
+    },
+    {
+      "key": "EP02_S1150_0005",
+      "value": "It doesn’t look dangerous.\nI’ll take it."
+    }
+  ]
+}

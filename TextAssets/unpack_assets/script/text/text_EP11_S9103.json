@@ -1,0 +1,108 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9103_0001",
+      "value": "What’s up, Minoru? Find anything?"
+    },
+    {
+      "key": "EP11_S9103_0002",
+      "value": "Nope, not at all..."
+    },
+    {
+      "key": "EP11_S9103_0003",
+      "value": "I figured we’d have better luck here..."
+    },
+    {
+      "key": "EP11_S9103_0004",
+      "value": "(I’m glad Minoru’s focused, but he might be\noverdoing it a little...)"
+    },
+    {
+      "key": "EP11_S9103_0005",
+      "value": "(I want to let him rest, but we’re on the\nclock to find that shrine...)"
+    },
+    {
+      "key": "EP11_S9103_Q1",
+      "value": "(What should I say to him?)"
+    },
+    {
+      "key": "EP11_S9103_Q1_A1",
+      "value": "Let him rest."
+    },
+    {
+      "key": "EP11_S9103_Q1_A2",
+      "value": "Have him keep looking."
+    },
+    {
+      "key": "EP11_S9103_0006",
+      "value": "Let him rest."
+    },
+    {
+      "key": "EP11_S9103_0007",
+      "value": "Let’s take a little break. Pushing any more\nwill just wear us out."
+    },
+    {
+      "key": "EP11_S9103_0008",
+      "value": "Are you sure? We don’t have much time, and if\nwe don’t hurry..."
+    },
+    {
+      "key": "EP11_S9103_0009",
+      "value": "What’s the point in finding the Sovereign\nMonsters if we’re exhausted?"
+    },
+    {
+      "key": "EP11_S9103_0010",
+      "value": "Plus, one way or another..."
+    },
+    {
+      "key": "EP11_S9103_0011",
+      "value": "We were able to find them before. That’s why\nwe’ll definitely do it again."
+    },
+    {
+      "key": "EP11_S9103_0012",
+      "value": "...Yeah, okay. Let’s take a little rest."
+    },
+    {
+      "key": "EP11_S9103_0013",
+      "value": "I agree to this course of action. A rest is\nsure to makes certain things more apparent."
+    },
+    {
+      "key": "EP11_S9103_0014",
+      "value": "Thanks, Takuma."
+    },
+    {
+      "key": "EP11_S9103_0015",
+      "value": "Have him keep looking."
+    },
+    {
+      "key": "EP11_S9103_0016",
+      "value": "Let’s look a bit longer. We should be able to\nfind them if we stick it out."
+    },
+    {
+      "key": "EP11_S9103_0017",
+      "value": "Yeah, you’re right. C’mon, Falcomon, let’s\nput our elbows into it!"
+    },
+    {
+      "key": "EP11_S9103_0018",
+      "value": "Indeed. Let’s continue our search."
+    },
+    {
+      "key": "EP11_S9103_0019",
+      "value": "Later. Yell if you find anything!"
+    },
+    {
+      "key": "EP11_S9103_0020",
+      "value": "Yeah, you’ve got this!"
+    },
+    {
+      "key": "EP11_S9103_0021",
+      "value": "(Minoru’s all over this. Should I go check\na different spot?)"
+    },
+    {
+      "key": "EP11_S9103_0022",
+      "value": "Should be around here... I’ll look around\nthis area a little longer!"
+    },
+    {
+      "key": "EP11_S9103_0023",
+      "value": "Ho, the lad’s resolve is unerring. Fear not,\nfor I am with him."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9101_0001",
+      "value": "Okay everyone, have you rested up enough?"
+    },
+    {
+      "key": "EP11_S9101_0002",
+      "value": "Absolutely!"
+    },
+    {
+      "key": "EP11_S9101_0003",
+      "value": "Never felt better!"
+    },
+    {
+      "key": "EP11_S9101_0004",
+      "value": "I’m ready to go anytime!"
+    },
+    {
+      "key": "EP11_S9101_0005",
+      "value": "Then we’ll head off, but before that, let’s\nreview our goals."
+    },
+    {
+      "key": "EP11_S9101_0006",
+      "value": "We’re heading to the third shrine: the shrine\nof the east."
+    },
+    {
+      "key": "EP11_S9101_0007",
+      "value": "And which way is east, exactly?"
+    },
+    {
+      "key": "EP11_S9101_0008",
+      "value": "I know! That’s the way the sun rises!"
+    },
+    {
+      "key": "EP11_S9101_0009",
+      "value": "...And you know the direction that is?"
+    },
+    {
+      "key": "EP11_S9101_0010",
+      "value": "Nope!"
+    },
+    {
+      "key": "EP11_S9101_0011",
+      "value": "Well that’s a big help..."
+    },
+    {
+      "key": "EP11_S9101_0012",
+      "value": "Well, if the last shrine was to the north..."
+    },
+    {
+      "key": "EP11_S9101_0013",
+      "value": "Then that area near the waterway is a good\nbet. Right?"
+    },
+    {
+      "key": "EP11_S9101_0014",
+      "value": "Yes, exactly!"
+    },
+    {
+      "key": "EP11_S9101_0015",
+      "value": "Speaking of which, I did feel a strong\npresence somewhere in there..."
+    },
+    {
+      "key": "EP11_S9101_0016",
+      "value": "Yeah, it reminds me of the Sovereign Monster\nI felt at the last shrine."
+    },
+    {
+      "key": "EP11_S9101_0017",
+      "value": "That’s some valuable information. Thank you,\nRenamon."
+    },
+    {
+      "key": "EP11_S9101_0018",
+      "value": "Now then, we’ll head to the eastern shrine..."
+    },
+    {
+      "key": "EP11_S9101_Q1",
+      "value": "(We’ll find the Sovereign Monster and...)"
+    },
+    {
+      "key": "EP11_S9101_Q1_A1",
+      "value": "Ask for help."
+    },
+    {
+      "key": "EP11_S9101_Q1_A2",
+      "value": "Fight and defeat him."
+    },
+    {
+      "key": "EP11_S9101_Q1_A3",
+      "value": "Clear away the fog."
+    },
+    {
+      "key": "EP11_S9101_0019",
+      "value": "Ask for help."
+    },
+    {
+      "key": "EP11_S9101_0020",
+      "value": "Let’s ask him to help us."
+    },
+    {
+      "key": "EP11_S9101_0021",
+      "value": "Yes, let’s do just that!"
+    },
+    {
+      "key": "EP11_S9101_0022",
+      "value": "I hope we can actually talk things out this\ntime, but..."
+    },
+    {
+      "key": "EP11_S9101_0023",
+      "value": "Yeah, I’ve already given up on expecting\nanything. He’ll just wanna test us anyway."
+    },
+    {
+      "key": "EP11_S9101_0024",
+      "value": "If we head there with that in mind, it should\nall work out."
+    },
+    {
+      "key": "EP11_S9101_0025",
+      "value": "Fight and defeat him."
+    },
+    {
+      "key": "EP11_S9101_0026",
+      "value": "We’ll fight him, and defeat him."
+    },
+    {
+      "key": "EP11_S9101_0027",
+      "value": "Hmm... Well, events will likely unfold that\nway. Still..."
+    },
+    {
+      "key": "EP11_S9101_0028",
+      "value": "Works for me. That’ll make things quicker."
+    },
+    {
+      "key": "EP11_S9101_0029",
+      "value": "Haha, yeah, exactly! We just gotta beat him\ndown to get his power. Easy-peasy!"
+    },
+    {
+      "key": "EP11_S9101_0030",
+      "value": "Um, you know we’re trying to save the world\nhere, right? Not going to pick a fight."
+    },
+    {
+      "key": "EP11_S9101_0031",
+      "value": "Yeah, pump the brakes, you two!"
+    },
+    {
+      "key": "EP11_S9101_0032",
+      "value": "Clear away the fog."
+    },
+    {
+      "key": "EP11_S9101_0033",
+      "value": "Let’s clear away the fog."
+    },
+    {
+      "key": "EP11_S9101_0034",
+      "value": "Yes, that should remove one of the Master’s\nthreats!"
+    },
+    {
+      "key": "EP11_S9101_0035",
+      "value": "I like the sound of that. As soon as we leave\nthe shrine, it’ll be blue skies ahead!"
+    },
+    {
+      "key": "EP11_S9101_0036",
+      "value": "Yeah! Soaking in the sunlight feels amazing!"
+    },
+    {
+      "key": "EP11_S9101_0037",
+      "value": "Let’s give those kids living in fear of the\nfog and Kenzoku a sense of relief."
+    },
+    {
+      "key": "EP11_S9101_0038",
+      "value": "Those are all of our goals! Any questions?"
+    },
+    {
+      "key": "EP11_S9101_0039",
+      "value": "The goals are good and all that, but we\nshould take a break in a safe place."
+    },
+    {
+      "key": "EP11_S9101_0040",
+      "value": "Yeah, I hear you. I wanna head back to the\nschool now."
+    },
+    {
+      "key": "EP11_S9101_0041",
+      "value": "It’s in the same direction. Let’s head back\nafter we find the next Sovereign Monster."
+    },
+    {
+      "key": "EP11_S9101_0042",
+      "value": "Great, we can finally sleep under a roof!"
+    },
+    {
+      "key": "EP11_S9101_0043",
+      "value": "I wanna take a bath!"
+    },
+    {
+      "key": "EP11_S9101_0044",
+      "value": "I wanna eat some of Aoi’s food!"
+    },
+    {
+      "key": "EP11_S9101_0045",
+      "value": "Oh yeah, it sure is tasty. Makes me wanna\ntake a nap..."
+    },
+    {
+      "key": "EP11_S9101_0046",
+      "value": "Right?! That’s our honorary mama for you!"
+    },
+    {
+      "key": "EP11_S9101_0047",
+      "value": "Ah, shoot... Just thinking about her food’s\ngot my stomach growling..."
+    },
+    {
+      "key": "EP11_S9101_0048",
+      "value": "Ahaha! The heck, Minoru!"
+    },
+    {
+      "key": "EP11_S9101_0049",
+      "value": "Ahaha! I can hear it from here!"
+    },
+    {
+      "key": "EP11_S9101_0050",
+      "value": "Amazing. Just talking about the school\nbrought smiles to everyone’s faces."
+    },
+    {
+      "key": "EP11_S9101_0051",
+      "value": "That just goes to show the sense of security\nthe school brings us."
+    },
+    {
+      "key": "EP11_S9101_0052",
+      "value": "Saying that school is a home to us isn’t an\nexaggeration."
+    },
+    {
+      "key": "EP11_S9101_0053",
+      "value": "Yup. Let’s head back as soon as we can."
+    },
+    {
+      "key": "EP11_S9101_0054",
+      "value": "You’re right."
+    },
+    {
+      "key": "EP11_S9101_0055",
+      "value": "Okay, you guys, time to head to the waterway!"
+    }
+  ]
+}

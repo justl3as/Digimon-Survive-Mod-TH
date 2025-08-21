@@ -1,0 +1,428 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2572_0001",
+      "value": "Ryo! Haru!"
+    },
+    {
+      "key": "EP03_S2572_0002",
+      "value": "Here, we found them! They’re both okay!"
+    },
+    {
+      "key": "EP03_S2572_0003",
+      "value": "Haru..."
+    },
+    {
+      "key": "EP03_S2572_0004",
+      "value": "Oh, what a relief!"
+    },
+    {
+      "key": "EP03_S2572_0005",
+      "value": "Saki, your face is a mess from all those\ntears."
+    },
+    {
+      "key": "EP03_S2572_0006",
+      "value": "I’m so glad we found them, though!"
+    },
+    {
+      "key": "EP03_S2572_0007",
+      "value": "Yes, and now we must make haste! The fog is\nstarting to spread."
+    },
+    {
+      "key": "EP03_S2572_0008",
+      "value": "Okay, but doesn’t something about these two\nseem off to you?"
+    },
+    {
+      "key": "EP03_S2572_0009",
+      "value": "Things seem...strained. You think they were\nfighting?"
+    },
+    {
+      "key": "EP03_S2572_0010",
+      "value": "Ryo... Are you okay?"
+    },
+    {
+      "key": "EP03_S2572_0011",
+      "value": "(Ryo is staring at the ground, not moving,\nwhile Haru regards him coldly.)"
+    },
+    {
+      "key": "EP03_S2572_0012",
+      "value": "(What exactly went on between these two?)"
+    },
+    {
+      "key": "EP03_S2572_0013",
+      "value": "Oh no... Guys, this is not looking good. The\nfog is getting real dense!"
+    },
+    {
+      "key": "EP03_S2572_0014",
+      "value": "You’re right, this is bad. Ryo, Haru! You’re\nboth in danger! Get over here, quick!"
+    },
+    {
+      "key": "EP03_S2572_0015",
+      "value": "Um... What’s that?"
+    },
+    {
+      "key": "EP03_S2572_0016",
+      "value": "(Looking to where Aoi is pointing, I see\na black...shadow?)"
+    },
+    {
+      "key": "EP03_S2572_0017",
+      "value": "Am I seeing things? It looked like some sort\nof tentacle came out of that shadow."
+    },
+    {
+      "key": "EP03_S2572_0018",
+      "value": "No way... It’s heading straight for Ryo?!"
+    },
+    {
+      "key": "EP03_S2572_0019",
+      "value": "Oh man... Oh man, oh man, oh man! That thing\nlooks like real bad news!"
+    },
+    {
+      "key": "EP03_S2572_Q1",
+      "value": "(Ryo’s in trouble! Do we help?!)"
+    },
+    {
+      "key": "EP03_S2572_Q1_A1",
+      "value": "It’s risky, but yeah."
+    },
+    {
+      "key": "EP03_S2572_Q1_A2",
+      "value": "Can we even make it?"
+    },
+    {
+      "key": "EP03_S2572_Q1_A3",
+      "value": "Of course we’ll help!"
+    },
+    {
+      "key": "EP03_S2572_0020",
+      "value": "Help."
+    },
+    {
+      "key": "EP03_S2572_0021",
+      "value": "Takuma! Stop!"
+    },
+    {
+      "key": "EP03_S2572_0022",
+      "value": "Ryo’s in trouble! You expect me to just leave\nhim?!"
+    },
+    {
+      "key": "EP03_S2572_0023",
+      "value": "You’re not going to make it! The fog will get\nyou, too!"
+    },
+    {
+      "key": "EP03_S2572_0024",
+      "value": "Help."
+    },
+    {
+      "key": "EP03_S2572_0025",
+      "value": "Takuma! Stop!"
+    },
+    {
+      "key": "EP03_S2572_0026",
+      "value": "Agumon, let go of me! We have to do whatever\nit takes to save him!"
+    },
+    {
+      "key": "EP03_S2572_0027",
+      "value": "It’s too late! There’s nothing we can do!"
+    },
+    {
+      "key": "EP03_S2572_0028",
+      "value": "Help."
+    },
+    {
+      "key": "EP03_S2572_0029",
+      "value": "Takuma! Stop!"
+    },
+    {
+      "key": "EP03_S2572_0030",
+      "value": "Agumon, isn’t there anything we can do?!"
+    },
+    {
+      "key": "EP03_S2572_0031",
+      "value": "No...not a thing. That’s just how it works."
+    },
+    {
+      "key": "EP03_S2572_0032",
+      "value": "But... No..."
+    },
+    {
+      "key": "EP03_S2572_0033",
+      "value": "That...tentacle...is pulling him into the\nshadow...  "
+    },
+    {
+      "key": "EP03_S2572_0034",
+      "value": "Ryo! What’s wrong with you?! Get out of\nthere!"
+    },
+    {
+      "key": "EP03_S2572_0035",
+      "value": "Ryo, you need to run!"
+    },
+    {
+      "key": "EP03_S2572_0036",
+      "value": "Ryo, why? Why won’t you run?  "
+    },
+    {
+      "key": "EP03_S2572_0037",
+      "value": "...Hm? I think...he’s saying something."
+    },
+    {
+      "key": "EP03_S2572_0038",
+      "value": "I...I forgot Mommy was dead... Kept waiting\nfor a call that was never coming."
+    },
+    {
+      "key": "EP03_S2572_0039",
+      "value": "There’s... There’s no place for me. Not in\nthis world, or any other..."
+    },
+    {
+      "key": "EP03_S2572_1039",
+      "value": "Wha...?"
+    },
+    {
+      "key": "EP03_S2572_1040",
+      "value": "Waaaaaaaaah!!!"
+    },
+    {
+      "key": "EP03_S2572_0040",
+      "value": "The fog... It took him."
+    },
+    {
+      "key": "EP03_S2572_0041",
+      "value": "Huh... Wha...?"
+    },
+    {
+      "key": "EP03_S2572_0042",
+      "value": "That’s... That’s horrible..."
+    },
+    {
+      "key": "EP03_S2572_0043",
+      "value": "No way... I can’t believe this!"
+    },
+    {
+      "key": "EP03_S2572_0044",
+      "value": "No... No..."
+    },
+    {
+      "key": "EP03_S2572_0045",
+      "value": "(Oh, there’s Kunemon. I didn’t see him there\nnext to Haru.)"
+    },
+    {
+      "key": "EP03_S2572_0046",
+      "value": "(Somehow, in a way that I don’t fully\nunderstand, I can tell that Kunemon is sad.)"
+    },
+    {
+      "key": "EP03_S2572_0047",
+      "value": "Not Kunemon, too..."
+    },
+    {
+      "key": "EP03_S2572_0048",
+      "value": "He’s...disappearing."
+    },
+    {
+      "key": "EP03_S2572_0049",
+      "value": "(It can’t be... Kunemon’s disappearing...)"
+    },
+    {
+      "key": "EP03_S2572_0050",
+      "value": "Wait... Hold on... Ryo has to still be there,\nright?"
+    },
+    {
+      "key": "EP03_S2572_0051",
+      "value": "No..."
+    },
+    {
+      "key": "EP03_S2572_0052",
+      "value": "What? Miyuki?"
+    },
+    {
+      "key": "EP03_S2572_0053",
+      "value": "..."
+    },
+    {
+      "key": "EP03_S2572_0054",
+      "value": "(Why is she shaking her head like that?\nIs she telling me I should give up?)"
+    },
+    {
+      "key": "EP03_S2572_0055",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP03_S2572_0056",
+      "value": "Haru..."
+    },
+    {
+      "key": "EP03_S2572_0057",
+      "value": "What happened to Ryo was he gave up on\nhimself..."
+    },
+    {
+      "key": "EP03_S2572_0058",
+      "value": "So this world consumed him."
+    },
+    {
+      "key": "EP03_S2572_0059",
+      "value": "(Even after the fog lifted, and the shadow\nvanished, there was still no sign of Ryo.)"
+    },
+    {
+      "key": "EP03_S2572_0060",
+      "value": "(I’m not really sure what Haru meant by what\nhe told me.)"
+    },
+    {
+      "key": "EP03_S2572_0061",
+      "value": "(But I do know one thing for certain.)"
+    },
+    {
+      "key": "EP03_S2572_0062",
+      "value": "(Ryo is dead.)"
+    },
+    {
+      "key": "EP03_S2572_0500",
+      "value": "Uh, hey, call me crazy, but...is Ryo running\nINTO the fog?"
+    },
+    {
+      "key": "EP03_S2572_0501",
+      "value": "What?!"
+    },
+    {
+      "key": "EP03_S2572_0502",
+      "value": "Ahahahaha! Mommy! Mommy! Heeheehee! Hahaha!"
+    },
+    {
+      "key": "EP03_S2572_0503",
+      "value": "Ryo, uh, doesn’t sound like he’s doing too\nwell..."
+    },
+    {
+      "key": "EP03_S2572_0504",
+      "value": "Yeah, I thought I heard him laughing..."
+    },
+    {
+      "key": "EP03_S2572_0505",
+      "value": "KEWWW!!!"
+    },
+    {
+      "key": "EP03_S2572_0506",
+      "value": "Wah!"
+    },
+    {
+      "key": "EP03_S2572_0507",
+      "value": "Kunemon?!"
+    },
+    {
+      "key": "EP03_S2572_0508",
+      "value": "Now’s our chance! Come on, everyone! We have\nto save Ryo!"
+    },
+    {
+      "key": "EP03_S2572_0509",
+      "value": "You got it!"
+    },
+    {
+      "key": "EP03_S2572_0510",
+      "value": "Man, he is nothing but trouble!"
+    },
+    {
+      "key": "EP03_S2572_0511",
+      "value": "Tch, what a pain..."
+    },
+    {
+      "key": "EP03_S2572_0512",
+      "value": "Wait! What do you guys think you’re doing?!"
+    },
+    {
+      "key": "EP03_S2572_0513",
+      "value": "All right, I got him!"
+    },
+    {
+      "key": "EP03_S2572_0514",
+      "value": "Hold still, Ryo!"
+    },
+    {
+      "key": "EP03_S2572_0515",
+      "value": "Ryo! Are you okay? Hang in there!"
+    },
+    {
+      "key": "EP03_S2572_0516",
+      "value": "...hurts."
+    },
+    {
+      "key": "EP03_S2572_0517",
+      "value": "Hm? What was that, Ryo?"
+    },
+    {
+      "key": "EP03_S2572_0518",
+      "value": "I said that hurts, you idiots! You didn’t\nhave to tackle me!"
+    },
+    {
+      "key": "EP03_S2572_0519",
+      "value": "Ryo! You sound like you’re all right now!\nHave you come to your senses?"
+    },
+    {
+      "key": "EP03_S2572_0520",
+      "value": "What’s that supposed to mean? I never lost my\nsenses, genius!"
+    },
+    {
+      "key": "EP03_S2572_0521",
+      "value": "I just...got a little overwhelmed, that’s\nall."
+    },
+    {
+      "key": "EP03_S2572_0522",
+      "value": "Don’t worry about me. I’m fine now."
+    },
+    {
+      "key": "EP03_S2572_0523",
+      "value": "Hey, the shadow..."
+    },
+    {
+      "key": "EP03_S2572_0524",
+      "value": "Heyyy! Everyone!"
+    },
+    {
+      "key": "EP03_S2572_0525",
+      "value": "Is Ryo all right?!"
+    },
+    {
+      "key": "EP03_S2572_0526",
+      "value": "*huff* *huff* Oh, thank god! The fog’s\ncleared up!"
+    },
+    {
+      "key": "EP03_S2572_0527",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP03_S2572_0528",
+      "value": "You’re still here? Don’t think I forgot about\nhow you bumped into me, you little creep!"
+    },
+    {
+      "key": "EP03_S2572_0529",
+      "value": "But...I guess it did save me, so...thanks.\nI’ll let it go this time."
+    },
+    {
+      "key": "EP03_S2572_0530",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP03_S2572_0531",
+      "value": "Ryo...did you actually thank Kunemon just\nnow?"
+    },
+    {
+      "key": "EP03_S2572_0532",
+      "value": "Well, yeah. I mean, it did save my life.\nI figured it was the least I could do."
+    },
+    {
+      "key": "EP03_S2572_0533",
+      "value": "Funny, I think maybe you’re forgetting some\npeople there. You gonna thank us, Ryo?"
+    },
+    {
+      "key": "EP03_S2572_0534",
+      "value": "Hey, shut up! You don’t have to be so smug!"
+    },
+    {
+      "key": "EP03_S2572_0535",
+      "value": "Ahaha!"
+    },
+    {
+      "key": "EP03_S2572_0536",
+      "value": "Hahaha... I finally got to see you again,\nMommy..."
+    },
+    {
+      "key": "EP03_S2572_0537",
+      "value": "And now we’ll always be together... Please\ndon’t leave me again..."
+    }
+  ]
+}

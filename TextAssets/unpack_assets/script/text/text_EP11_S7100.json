@@ -1,0 +1,200 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S7100_0001",
+      "value": "I figured Aoi might’ve come back by now, so\nI looked around the school, but..."
+    },
+    {
+      "key": "EP11_S7100_0002",
+      "value": "Guess it’s not gonna be that easy."
+    },
+    {
+      "key": "EP11_S7100_0003",
+      "value": "Yeah, I guess not."
+    },
+    {
+      "key": "EP11_S7100_0004",
+      "value": "Aw, come on, Kaito! Don’t look so down!"
+    },
+    {
+      "key": "EP11_S7100_0005",
+      "value": "What? You expect me to grin like an idiot\nwhile Aoi’s lost out there?"
+    },
+    {
+      "key": "EP11_S7100_0006",
+      "value": "(Really, his expression does seem grim. He\nlooks like he did when Miu was missing.)"
+    },
+    {
+      "key": "EP11_S7100_0007",
+      "value": "You’re seriously worried about Aoi, aren’t\nyou, Kaito?"
+    },
+    {
+      "key": "EP11_S7100_0008",
+      "value": "Well of course I am! We all are!"
+    },
+    {
+      "key": "EP11_S7100_0009",
+      "value": "I mean, yeah, that’s true, but..."
+    },
+    {
+      "key": "EP11_S7100_0010",
+      "value": "But you’ve been dwelling on it too much!\nShe’s all you’ve been thinking about!"
+    },
+    {
+      "key": "EP11_S7100_0011",
+      "value": "You didn’t sleep at all last night, and if\nyou keep this up, you’re gonna burn out!"
+    },
+    {
+      "key": "EP11_S7100_0012",
+      "value": "Hey, didn’t I tell you to keep quiet about\nthat?"
+    },
+    {
+      "key": "EP11_S7100_0013",
+      "value": "(Wow, I had no idea Kaito was so concerned\nabout Aoi.)"
+    },
+    {
+      "key": "EP11_S7100_0014",
+      "value": "(Why would he be this worked up about her?)"
+    },
+    {
+      "key": "EP11_S7100_0015",
+      "value": "(Obviously she’s a friend, I get that, but\nKaito’s top priority has always been Miu.)"
+    },
+    {
+      "key": "EP11_S7100_0016",
+      "value": "(Is there something more going on here? Of\ncourse, he’ll probably get upset if I ask.)"
+    },
+    {
+      "key": "EP11_S7100_0017",
+      "value": "(And it’s true that we’re all worried about\nAoi. Should I press him on it anyway?)"
+    },
+    {
+      "key": "EP11_S7100_Q1",
+      "value": "(Do I ask why Kaito’s so worried?)"
+    },
+    {
+      "key": "EP11_S7100_Q1_A1",
+      "value": "Ask."
+    },
+    {
+      "key": "EP11_S7100_Q1_A2",
+      "value": "Don’t ask."
+    },
+    {
+      "key": "EP11_S7100_0018",
+      "value": "Ask."
+    },
+    {
+      "key": "EP11_S7100_0019",
+      "value": "You know, now I’m curious. What’s got you so\nconcerned about Aoi that you’re losing sleep?"
+    },
+    {
+      "key": "EP11_S7100_0020",
+      "value": "Is there some...special reason?"
+    },
+    {
+      "key": "EP11_S7100_0021",
+      "value": "Takuma, are you givin’ me a hard time on this\ntoo? Now, when we should be out searching?"
+    },
+    {
+      "key": "EP11_S7100_0022",
+      "value": "Hey, don’t try to dodge the question."
+    },
+    {
+      "key": "EP11_S7100_0023",
+      "value": "You’ve always put Miu before anything else,\nbut now you seem more worried about Aoi."
+    },
+    {
+      "key": "EP11_S7100_0024",
+      "value": "I was just wondering if there was some\nspecial reason for that."
+    },
+    {
+      "key": "EP11_S7100_0025",
+      "value": "Not really. At least, it’s not the kind of\n“special reason” you two have in mind."
+    },
+    {
+      "key": "EP11_S7100_0026",
+      "value": "It’s just...she’s done so much to look out\nfor us since we came to this world."
+    },
+    {
+      "key": "EP11_S7100_0027",
+      "value": "Plus, I get how she must be feeling, blaming\nherself for what happened with Saki."
+    },
+    {
+      "key": "EP11_S7100_0028",
+      "value": "And it just bothers me, okay! That’s all\nthere is to it!"
+    },
+    {
+      "key": "EP11_S7100_0029",
+      "value": "Don’t ask."
+    },
+    {
+      "key": "EP11_S7100_0030",
+      "value": "Uh, well, whatever the reason, I can see why\nyou’d be worried about a friend. Yeah."
+    },
+    {
+      "key": "EP11_S7100_0031",
+      "value": "Takuma... That’s the worst poker face I’ve\never seen."
+    },
+    {
+      "key": "EP11_S7100_0032",
+      "value": "You couldn’t look more curious if you tried.\nSo come on, out with it already."
+    },
+    {
+      "key": "EP11_S7100_0033",
+      "value": "Urk..."
+    },
+    {
+      "key": "EP11_S7100_0034",
+      "value": "All right, I’ll ask. Kaito, what’s got you so\nconcerned about Aoi?"
+    },
+    {
+      "key": "EP11_S7100_0035",
+      "value": "It’s not like I’ve got some special reason or\nanything."
+    },
+    {
+      "key": "EP11_S7100_0036",
+      "value": "It’s just...I feel like I owe her for all\nshe’s done for us since we came here."
+    },
+    {
+      "key": "EP11_S7100_0037",
+      "value": "After all that, I’d hate to just abandon her\nout there."
+    },
+    {
+      "key": "EP11_S7100_0038",
+      "value": "Anyway, the important thing is we gotta find\nher before anything happens to her."
+    },
+    {
+      "key": "EP11_S7100_0039",
+      "value": "She’s got Labramon with her. I’m sure she’s\nfine."
+    },
+    {
+      "key": "EP11_S7100_0040",
+      "value": "Yeah, that’s what I think too!"
+    },
+    {
+      "key": "EP11_S7100_0041",
+      "value": "I guess. You never know about that fog,\nthough, so we can’t just sit around."
+    },
+    {
+      "key": "EP11_S7100_0042",
+      "value": "We’re going to go look by the shrine. Takuma,\nyou and Agumon keep an eye out too!"
+    },
+    {
+      "key": "EP11_S7100_0043",
+      "value": "We will!"
+    },
+    {
+      "key": "EP11_S7100_0044",
+      "value": "Stay safe, you two!"
+    },
+    {
+      "key": "EP11_S7100_0045",
+      "value": "Aoi helped us out so much... We gotta find\nher so we can all go back together!"
+    },
+    {
+      "key": "EP11_S7100_0046",
+      "value": "We’re going to go look by the shrine. Takuma,\nyou and Agumon keep an eye out too!"
+    }
+  ]
+}

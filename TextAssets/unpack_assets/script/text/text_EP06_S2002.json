@@ -1,0 +1,284 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S2002_0001",
+      "value": "Hey, Saki. Did you find anything?"
+    },
+    {
+      "key": "EP06_S2002_0002",
+      "value": "Yeep!!!"
+    },
+    {
+      "key": "EP06_S2002_0003",
+      "value": "Whoa! Don’t scare me like that! Did I take\nyou by surprise?"
+    },
+    {
+      "key": "EP06_S2002_0004",
+      "value": "Heck yeah you did! How do you think I’d react\nif someone snuck up on me like that?"
+    },
+    {
+      "key": "EP06_S2002_0005",
+      "value": "Sorry, sorry. I didn’t think you’d get so\nscared."
+    },
+    {
+      "key": "EP06_S2002_0006",
+      "value": "Of course I would! Something could kill me in\nthe blink of an eye here!"
+    },
+    {
+      "key": "EP06_S2002_0007",
+      "value": "That isn’t gonna happen, Saki. I’m here to\nprotect you!"
+    },
+    {
+      "key": "EP06_S2002_0008",
+      "value": "Even if you say that..."
+    },
+    {
+      "key": "EP06_S2002_0009",
+      "value": "Hey... Don’t tell me you’re still scared of\nme, are you? "
+    },
+    {
+      "key": "EP06_S2002_0010",
+      "value": "Yeah, sorry. I’m honestly still scared."
+    },
+    {
+      "key": "EP06_S2002_0011",
+      "value": "I mean, you have enough strength in that\nlittle body to kill a man. "
+    },
+    {
+      "key": "EP06_S2002_0012",
+      "value": "Saki..."
+    },
+    {
+      "key": "EP06_S2002_0013",
+      "value": "(Saki’s anxiety and her cold treatment of\nFloramon both stem from her fear.)"
+    },
+    {
+      "key": "EP06_S2002_0014",
+      "value": "(Still, if she can overcome that fear, then\nmaybe they can open up to each other again?) "
+    },
+    {
+      "key": "EP06_S2002_0015",
+      "value": "(Toward that end, I should appease Saki...\nor maybe persuade? What can I say?)"
+    },
+    {
+      "key": "EP06_S2002_0016",
+      "value": "(Saki always acts on feelings. Maybe I should\nappeal to that instead of using logic.)"
+    },
+    {
+      "key": "EP06_S2002_Q1",
+      "value": "(What can I say to rid Saki of her fear?)"
+    },
+    {
+      "key": "EP06_S2002_Q1_A1",
+      "value": "You won’t be killed!"
+    },
+    {
+      "key": "EP06_S2002_Q1_A2",
+      "value": "I feel bad for Floramon."
+    },
+    {
+      "key": "EP06_S2002_Q1_A3",
+      "value": "Her power protects you."
+    },
+    {
+      "key": "EP06_S2002_0018",
+      "value": "Floramon would never kill you, Saki. She’s\nbeen fighting this whole time to protect you."
+    },
+    {
+      "key": "EP06_S2002_0019",
+      "value": "I know that, it’s just..."
+    },
+    {
+      "key": "EP06_S2002_0020",
+      "value": "What if that’s just for now? If she has a bad\nevolution like the professor said..."
+    },
+    {
+      "key": "EP06_S2002_0021",
+      "value": "Hey, Saki. I don’t wanna turn out like that,\nyou know."
+    },
+    {
+      "key": "EP06_S2002_0022",
+      "value": "I don’t know what to do either. All I know is\nthat I hate the idea of killing you."
+    },
+    {
+      "key": "EP06_S2002_0024",
+      "value": "I feel bad for Floramon."
+    },
+    {
+      "key": "EP06_S2002_0025",
+      "value": "Feel bad?"
+    },
+    {
+      "key": "EP06_S2002_0026",
+      "value": "She doesn’t want to scare you, Saki, but she\nhas no control over the fact that she does."
+    },
+    {
+      "key": "EP06_S2002_0027",
+      "value": "I know you’re anxious, but acting cold is\njust going to hurt her."
+    },
+    {
+      "key": "EP06_S2002_0028",
+      "value": "Yeah... I mean I know that much, but I don’t\nknow what I’m supposed to do about it."
+    },
+    {
+      "key": "EP06_S2002_0030",
+      "value": "Floramon’s power is there to protect you, not\nhurt you."
+    },
+    {
+      "key": "EP06_S2002_0031",
+      "value": "You shouldn’t have to fear it, should you?"
+    },
+    {
+      "key": "EP06_S2002_0032",
+      "value": "But what scares me, scares me!"
+    },
+    {
+      "key": "EP06_S2002_0033",
+      "value": "If a knife was sitting here, you’d be scared\nof it, wouldn’t you? It’s the same principle."
+    },
+    {
+      "key": "EP06_S2002_0034",
+      "value": "It’s not about logic; you can’t help what\nyou’re scared of."
+    },
+    {
+      "key": "EP06_S2002_0035",
+      "value": "I get what you’re saying, but..."
+    },
+    {
+      "key": "EP06_S2002_0036",
+      "value": "Floramon..."
+    },
+    {
+      "key": "EP06_S2002_0037",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S2002_0038",
+      "value": "...Floramon, I’m really sorry for being so\nscared of you before."
+    },
+    {
+      "key": "EP06_S2002_0039",
+      "value": "When I saw that black fog come out of\nLopmon, I got scared..."
+    },
+    {
+      "key": "EP06_S2002_0040",
+      "value": "So did I... That stuff has to be bad news."
+    },
+    {
+      "key": "EP06_S2002_0041",
+      "value": "But that appeared because of the gap that\nopened between Shuuji and Lopmon’s hearts."
+    },
+    {
+      "key": "EP06_S2002_0042",
+      "value": "The gap between their hearts...?"
+    },
+    {
+      "key": "EP06_S2002_0043",
+      "value": "When I saw that, I wasn’t sure whether\nI could still trust you or not."
+    },
+    {
+      "key": "EP06_S2002_0044",
+      "value": "I mean, Lopmon used to be so cute.\nHow did that happen?"
+    },
+    {
+      "key": "EP06_S2002_0045",
+      "value": "I’m not sure. But I could tell the voice in\nhis heart had gotten really quiet."
+    },
+    {
+      "key": "EP06_S2002_0046",
+      "value": "It’s hard to put into words. It’s something\nthat we just understand naturally."
+    },
+    {
+      "key": "EP06_S2002_0047",
+      "value": "But unless we and our partners both trust\neach other, our hearts...they die."
+    },
+    {
+      "key": "EP06_S2002_0048",
+      "value": "Your hearts...die?"
+    },
+    {
+      "key": "EP06_S2002_0049",
+      "value": "I’m so sorry, Floramon! I can’t believe\nI almost killed you!"
+    },
+    {
+      "key": "EP06_S2002_0050",
+      "value": "Saki? Why’re you so shaken up?"
+    },
+    {
+      "key": "EP06_S2002_0051",
+      "value": "Of course I am! I mean, you’ll die, won’t\nyou?!"
+    },
+    {
+      "key": "EP06_S2002_0052",
+      "value": "Just because I don’t want to die, I have to\nkill you, Floramon?! That’s just wrong!"
+    },
+    {
+      "key": "EP06_S2002_0053",
+      "value": "(I see, Saki’s not just scared of herself\ndying...)"
+    },
+    {
+      "key": "EP06_S2002_0054",
+      "value": "(She doesn’t want any of her friends to\ndie either.)"
+    },
+    {
+      "key": "EP06_S2002_0055",
+      "value": "I think she’s let some of the tension out of\nher shoulders."
+    },
+    {
+      "key": "EP06_S2002_0056",
+      "value": "You’re right. Come on, let’s go, Agumon."
+    },
+    {
+      "key": "EP06_S2002_0057",
+      "value": "I don’t think those two need us to make up\nnow."
+    },
+    {
+      "key": "EP06_S2002_0058",
+      "value": "Yeah, I agree!"
+    },
+    {
+      "key": "EP06_S2002_0059",
+      "value": "I really don’t get it, but I hate the idea of\nsaying goodbye so suddenly."
+    },
+    {
+      "key": "EP06_S2002_0060",
+      "value": "I also don’t want to label someone bad when\nI don’t know anything about them."
+    },
+    {
+      "key": "EP06_S2002_0061",
+      "value": "More than anything, I can’t stand the idea of\nothers disappearing because of me."
+    },
+    {
+      "key": "EP06_S2002_0062",
+      "value": "Jeez, tell me something you CAN stand!"
+    },
+    {
+      "key": "EP06_S2002_0063",
+      "value": "Still, all those things seemed like real\npossibilities. I dunno know what to do..."
+    },
+    {
+      "key": "EP06_S2002_0064",
+      "value": "Don’t worry, none of those things will come\nto pass."
+    },
+    {
+      "key": "EP06_S2002_0065",
+      "value": "There’s always a chance I’ll hurt you, Saki,\nbut I’ll do everything I can to prevent that."
+    },
+    {
+      "key": "EP06_S2002_0066",
+      "value": "Floramon..."
+    },
+    {
+      "key": "EP06_S2002_0067",
+      "value": "Huh? I guess Takuma and Agumon left..."
+    },
+    {
+      "key": "EP06_S2002_0068",
+      "value": "Yikes! Floramon, we got enemies!"
+    },
+    {
+      "key": "EP06_S2002_0069",
+      "value": "Hide behind me, Saki!"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP08_S0050_0001",
+      "value": "Is this really...?"
+    },
+    {
+      "key": "EP08_S0050_0002",
+      "value": "I’ve definitely never been here before."
+    },
+    {
+      "key": "EP08_S0050_0003",
+      "value": "Ha! Hahaha!"
+    },
+    {
+      "key": "EP08_S0050_0004",
+      "value": "Yes! I remember this!"
+    },
+    {
+      "key": "EP08_S0050_0005",
+      "value": "This is the road that led to the shrine! That\nstrange fog is gone!"
+    },
+    {
+      "key": "EP08_S0050_0006",
+      "value": "I thought it was too good to be true, but it\nwasn’t! This is it! We’re back!"
+    },
+    {
+      "key": "EP08_S0050_0007",
+      "value": "We made it back from that other world!"
+    },
+    {
+      "key": "EP08_S0050_0008",
+      "value": "Wait..."
+    },
+    {
+      "key": "EP08_S0050_0009",
+      "value": "Whaaat?!"
+    },
+    {
+      "key": "EP08_S0050_0010",
+      "value": "You mean, this is the world where you and\nyour friends all came from, Takuma?!"
+    },
+    {
+      "key": "EP08_S0050_0011",
+      "value": "That’s right! This is it!"
+    },
+    {
+      "key": "EP08_S0050_0012",
+      "value": "Wow, so this is your world? That’s great,\nTakuma!"
+    },
+    {
+      "key": "EP08_S0050_0013",
+      "value": "Yeah. Thanks, Agumon."
+    },
+    {
+      "key": "EP08_S0050_0014",
+      "value": "Well, I sure wasn’t expecting that! You know,\nthis place is kinda weird, but..."
+    },
+    {
+      "key": "EP08_S0050_0015",
+      "value": "...I’m glad I got to go back with you to your\nworld, Takuma!"
+    },
+    {
+      "key": "EP08_S0050_0016",
+      "value": "And I’m glad you’re here too!"
+    },
+    {
+      "key": "EP08_S0050_0017",
+      "value": "I’m so happy it worked."
+    },
+    {
+      "key": "EP08_S0050_0018",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP08_S0050_0019",
+      "value": "Wait, what do you mean, “it worked”?"
+    },
+    {
+      "key": "EP08_S0050_0020",
+      "value": "You don’t remember what happened in the music\nroom?"
+    },
+    {
+      "key": "EP08_S0050_0021",
+      "value": "The...music room?"
+    },
+    {
+      "key": "EP08_S0050_0022",
+      "value": "Wait, now that I think back on it... Yes!\nI remember!"
+    },
+    {
+      "key": "EP08_S0050_0023",
+      "value": "You were singing a song! And then all this\nwhite light started to surround us!"
+    },
+    {
+      "key": "EP08_S0050_0024",
+      "value": "You mean you did that, Miyuki?"
+    },
+    {
+      "key": "EP08_S0050_0025",
+      "value": "With the other half of my soul returned, it\nlooks like I managed to save you, Takuma."
+    },
+    {
+      "key": "EP08_S0050_0026",
+      "value": "So the reason we’re here right now...is\nbecause of something you did?"
+    },
+    {
+      "key": "EP08_S0050_0027",
+      "value": "I wasn’t sure if it would really work or not,\nmyself."
+    },
+    {
+      "key": "EP08_S0050_0028",
+      "value": "Looks like it did, though. I’m so glad!"
+    },
+    {
+      "key": "EP08_S0050_0029",
+      "value": "Wait...what?"
+    },
+    {
+      "key": "EP08_S0050_0030",
+      "value": "(This whole conversation is so unexpected I’m\nhaving a hard time keeping up.)"
+    },
+    {
+      "key": "EP08_S0050_0031",
+      "value": "(If Miyuki brought us back to this world,\nthat means she must know something, right?)"
+    },
+    {
+      "key": "EP08_S0050_0032",
+      "value": "(And what’s she mean about half her soul? She\nmentioned that in the music room too.)"
+    },
+    {
+      "key": "EP08_S0050_0033",
+      "value": "(Come to think of it, what was she even doing\nin that world in the first place?)"
+    },
+    {
+      "key": "EP08_S0050_0034",
+      "value": "(And more importantly, does she know what\nhappened to the others?!)"
+    },
+    {
+      "key": "EP08_S0050_Q1",
+      "value": "(I have so many questions! Where do I start?)"
+    },
+    {
+      "key": "EP08_S0050_Q1_A1",
+      "value": "What about the others?"
+    },
+    {
+      "key": "EP08_S0050_Q1_A2",
+      "value": "What about your soul?"
+    },
+    {
+      "key": "EP08_S0050_Q1_A3",
+      "value": "Why were you there?"
+    },
+    {
+      "key": "EP08_S0050_0035",
+      "value": "What about the others?"
+    },
+    {
+      "key": "EP08_S0050_0036",
+      "value": "So, if we made it back because of you, can\nyou tell me what happened to the others?"
+    },
+    {
+      "key": "EP08_S0050_0037",
+      "value": "I don’t know."
+    },
+    {
+      "key": "EP08_S0050_0038",
+      "value": "I’ve never tried to find out how much power\nwas in my song before."
+    },
+    {
+      "key": "EP08_S0050_0039",
+      "value": "Your song? You mean the one you were singing\nin that music room?"
+    },
+    {
+      "key": "EP08_S0050_0040",
+      "value": "Does it have something to do with us coming\nto this world?"
+    },
+    {
+      "key": "EP08_S0050_0041",
+      "value": "That song has been passed down in my family\nfor generations."
+    },
+    {
+      "key": "EP08_S0050_0042",
+      "value": "It has the power to link that world with this\none."
+    },
+    {
+      "key": "EP08_S0050_0043",
+      "value": "(In other words, the real reason we’re here\nright now...)"
+    },
+    {
+      "key": "EP08_S0050_0044",
+      "value": "(...is because of the power of that song?)"
+    },
+    {
+      "key": "EP08_S0050_0045",
+      "value": "What about your soul?"
+    },
+    {
+      "key": "EP08_S0050_0046",
+      "value": "I feel like maybe I asked you about this\nalready in that music room, but..."
+    },
+    {
+      "key": "EP08_S0050_0047",
+      "value": "What’s this about half your soul?"
+    },
+    {
+      "key": "EP08_S0050_0048",
+      "value": "It was all the Master’s doing."
+    },
+    {
+      "key": "EP08_S0050_0049",
+      "value": "The Master of that world took half my soul\nfrom me."
+    },
+    {
+      "key": "EP08_S0050_0050",
+      "value": "(She lost half her soul? That’s...not exactly\nthe most believable story.)"
+    },
+    {
+      "key": "EP08_S0050_0051",
+      "value": "(But then again, I’ve seen some pretty\nunbelievable things.)"
+    },
+    {
+      "key": "EP08_S0050_0052",
+      "value": "(Like a cable car that runs without power,\nand monster hands that appear inside fog.)"
+    },
+    {
+      "key": "EP08_S0050_0053",
+      "value": "(Between that and how much Miyuki is talking\nnow when before she could barely say a word,)"
+    },
+    {
+      "key": "EP08_S0050_0054",
+      "value": "(I’m inclined to believe her when she says\nshe lost half her soul.)"
+    },
+    {
+      "key": "EP08_S0050_0055",
+      "value": "It made it hard for me to think and remember\nthings. I couldn’t speak very well, either."
+    },
+    {
+      "key": "EP08_S0050_0056",
+      "value": "So...what happened to you? Why did you end up\nlosing half your soul?"
+    },
+    {
+      "key": "EP08_S0050_0057",
+      "value": "I don’t know. Or maybe I just don’t want to\nbelieve it."
+    },
+    {
+      "key": "EP08_S0050_0058",
+      "value": "..."
+    },
+    {
+      "key": "EP08_S0050_0059",
+      "value": "(Maybe her own memory is still fuzzy.)"
+    },
+    {
+      "key": "EP08_S0050_0060",
+      "value": "Why were you there?"
+    },
+    {
+      "key": "EP08_S0050_0061",
+      "value": "Why were you even in that world to begin\nwith, Miyuki?"
+    },
+    {
+      "key": "EP08_S0050_0062",
+      "value": "Because I broke the rules."
+    },
+    {
+      "key": "EP08_S0050_0063",
+      "value": "My dad said to never go near the shrine, that\nmonsters who kidnap children would get me."
+    },
+    {
+      "key": "EP08_S0050_0064",
+      "value": "He tried to warn me..."
+    },
+    {
+      "key": "EP08_S0050_0065",
+      "value": "Wait, your dad warned you about monsters?"
+    },
+    {
+      "key": "EP08_S0050_0066",
+      "value": "(What does that mean? Was he talking about\nthe Kemonogami?)"
+    },
+    {
+      "key": "EP08_S0050_0067",
+      "value": "Anyway, I didn’t have a choice at the time."
+    },
+    {
+      "key": "EP08_S0050_0068",
+      "value": "We went there for a field trip, and then the\nfog... That horrible fog... Ugh!"
+    },
+    {
+      "key": "EP08_S0050_0069",
+      "value": "Was it the same scary fog that we know?"
+    },
+    {
+      "key": "EP08_S0050_0070",
+      "value": "Yes... That fog appeared and... Oh, it was\nterrible! Augh!"
+    },
+    {
+      "key": "EP08_S0050_0071",
+      "value": "Okay, okay, stop. You don’t have to force\nyourself to remember if it’s too painful."
+    },
+    {
+      "key": "EP08_S0050_0072",
+      "value": "I’m sorry. I didn’t mean to bring up any bad\nmemories."
+    },
+    {
+      "key": "EP08_S0050_0073",
+      "value": "No... It’s okay. If anything, I should be\napologizing to you. I feel so mixed up."
+    },
+    {
+      "key": "EP08_S0050_0074",
+      "value": "(I’m not surprised. After all, she was pretty\nout of it by the time we showed up.)"
+    },
+    {
+      "key": "EP08_S0050_0075",
+      "value": "(It’s possible she went through a lot more\nthan we did.)"
+    },
+    {
+      "key": "EP08_S0050_0076",
+      "value": "(Well, I guess the big takeaway is still that\nMiyuki is the reason we made it back.)"
+    },
+    {
+      "key": "EP08_S0050_0077",
+      "value": "(Now we’ll have to think about what our next\nmove is going to be.)"
+    },
+    {
+      "key": "EP08_S0050_0078",
+      "value": "Hey, Takuma! There’s something over there!"
+    },
+    {
+      "key": "EP08_S0050_0079",
+      "value": "What?! It’s not Piedmon and his cronies, is\nit?!"
+    },
+    {
+      "key": "EP08_S0050_0080",
+      "value": "(Was I wrong about us being back home? Are we\nstill in that other world?!)"
+    },
+    {
+      "key": "EP08_S0050_0081",
+      "value": "No, it doesn’t feel like one of us. I think\nit’s other humans like you."
+    },
+    {
+      "key": "EP08_S0050_0082",
+      "value": "Oh, phew! I started to panic for a second\nthere."
+    },
+    {
+      "key": "EP08_S0050_0083",
+      "value": "But if you’re sensing humans, do you think\nmaybe it’s the others?"
+    },
+    {
+      "key": "EP08_S0050_0084",
+      "value": "It does seem possible that it could be Minoru\nor Aoi, or anyone else."
+    },
+    {
+      "key": "EP08_S0050_0085",
+      "value": "What do you think?"
+    },
+    {
+      "key": "EP08_S0050_0086",
+      "value": "Hmm... I can’t really tell."
+    },
+    {
+      "key": "EP08_S0050_0087",
+      "value": "(So it might be the others, or it might not.)"
+    },
+    {
+      "key": "EP08_S0050_0088",
+      "value": "(Am I really back in my world? Or am I still\nin that other one?)"
+    },
+    {
+      "key": "EP08_S0050_0089",
+      "value": "(This should settle things once and for all.)"
+    },
+    {
+      "key": "EP08_S0050_0090",
+      "value": "Agumon, Miyuki! Let’s keep going just a bit\nfarther!"
+    }
+  ]
+}

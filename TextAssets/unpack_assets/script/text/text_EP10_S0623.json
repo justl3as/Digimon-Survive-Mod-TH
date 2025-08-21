@@ -1,0 +1,96 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S0623_0001",
+      "value": "Hey, Takuma! Over there!"
+    },
+    {
+      "key": "EP10_S0623_0002",
+      "value": "..."
+    },
+    {
+      "key": "EP10_S0623_0003",
+      "value": "It looks ready for a fight."
+    },
+    {
+      "key": "EP10_S0623_0004",
+      "value": "(It’s hostile, but I don’t think it’s working\nwith Arukenimon.)"
+    },
+    {
+      "key": "EP10_S0623_0005",
+      "value": "(I don’t wish it harm, and I’m not looking\nfor a fight. Maybe we can talk?)"
+    },
+    {
+      "key": "EP10_S0623_Q1",
+      "value": "(What to do about this hostile monster?)"
+    },
+    {
+      "key": "EP10_S0623_Q1_A1",
+      "value": "Drive it off."
+    },
+    {
+      "key": "EP10_S0623_Q1_A2",
+      "value": "Wave a white flag."
+    },
+    {
+      "key": "EP10_S0623_0006",
+      "value": "I’ll try driving it off. Maybe if I use this\ndirt clod..."
+    },
+    {
+      "key": "EP10_S0623_0007",
+      "value": "Yah!"
+    },
+    {
+      "key": "EP10_S0623_0008",
+      "value": "!!!"
+    },
+    {
+      "key": "EP10_S0623_0009",
+      "value": "Takuma! You really teed her off now!"
+    },
+    {
+      "key": "EP10_S0623_0010",
+      "value": "Wha’? Guess that was a mistake..."
+    },
+    {
+      "key": "EP10_S0623_0011",
+      "value": "Damn, guess we have to fight!"
+    },
+    {
+      "key": "EP10_S0623_0012",
+      "value": "We won’t hurt you. See? Hands in the air and\neverything."
+    },
+    {
+      "key": "EP10_S0623_0013",
+      "value": "Careful, Takuma!"
+    },
+    {
+      "key": "EP10_S0623_0014",
+      "value": "...?"
+    },
+    {
+      "key": "EP10_S0623_0015",
+      "value": "(It’s not bristling like before... I guess it\ngot the picture?)"
+    },
+    {
+      "key": "EP10_S0623_0016",
+      "value": "Sorry we frightened you back there. Do you\nwant to come with us?"
+    },
+    {
+      "key": "EP10_S0623_0017",
+      "value": "There’s a bunch of critters like you back at\nour home base."
+    },
+    {
+      "key": "EP10_S0623_0018",
+      "value": "!"
+    },
+    {
+      "key": "EP10_S0623_0019",
+      "value": "It looks happy! Good going, Takuma!"
+    },
+    {
+      "key": "EP10_S0623_0020",
+      "value": "(I’m just glad we didn’t have to fight.)"
+    }
+  ]
+}

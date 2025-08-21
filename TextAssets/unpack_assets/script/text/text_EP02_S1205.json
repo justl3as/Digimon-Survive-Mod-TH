@@ -1,0 +1,96 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1205_0001",
+      "value": "We found more! There’s a lot growing here!"
+    },
+    {
+      "key": "EP02_S1205_0002",
+      "value": "Hey Minoru, what’re you doing!?"
+    },
+    {
+      "key": "EP02_S1205_0003",
+      "value": "Hey, Takuma! Check out these mushrooms!"
+    },
+    {
+      "key": "EP02_S1205_0004",
+      "value": "Wow! So many!"
+    },
+    {
+      "key": "EP02_S1205_0005",
+      "value": "Can we eat them?"
+    },
+    {
+      "key": "EP02_S1205_Q1",
+      "value": "(I wonder...)"
+    },
+    {
+      "key": "EP02_S1205_Q1_A1",
+      "value": "I’m guessing not?"
+    },
+    {
+      "key": "EP02_S1205_Q1_A2",
+      "value": "Have Minoru find out."
+    },
+    {
+      "key": "EP02_S1205_0006",
+      "value": "I’m pretty sure these are not edible."
+    },
+    {
+      "key": "EP02_S1205_0007",
+      "value": "Are they poisonous?"
+    },
+    {
+      "key": "EP02_S1205_0008",
+      "value": "Probably. Thanks for the heads up."
+    },
+    {
+      "key": "EP02_S1205_0009",
+      "value": "I’m too hungry to think.\nIf I’d eaten those mushrooms..."
+    },
+    {
+      "key": "EP02_S1205_0010",
+      "value": "I’m sure they’re edible!\nTaste them, Minoru!"
+    },
+    {
+      "key": "EP02_S1205_0011",
+      "value": "Yeah! I was just starting to get really\nhungry. Perfect timing!"
+    },
+    {
+      "key": "EP02_S1205_0012",
+      "value": "Down the hatch!"
+    },
+    {
+      "key": "EP02_S1205_0013",
+      "value": "Hmm! Well!"
+    },
+    {
+      "key": "EP02_S1205_0014",
+      "value": "Is something wrong, Falcomon?"
+    },
+    {
+      "key": "EP02_S1205_0015",
+      "value": "We love those mushrooms, but I heard they are\npoisonous to humans..."
+    },
+    {
+      "key": "EP02_S1205_0016",
+      "value": "What? Poisonous to humans?"
+    },
+    {
+      "key": "EP02_S1205_0017",
+      "value": "I can’t eat it, so it’s all yours, Takuma!"
+    },
+    {
+      "key": "EP02_S1205_0018",
+      "value": "Thank you..."
+    },
+    {
+      "key": "EP02_S1205_0019",
+      "value": "Well, uh...later!"
+    },
+    {
+      "key": "EP02_S1205_0020",
+      "value": "We’ll find edible ones this time!"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S4013_0001",
+      "value": "Minoru! Are you okay?!"
+    },
+    {
+      "key": "EP09_S4013_0002",
+      "value": "That’s my line! All of you got ten fingers\nand ten toes?!"
+    },
+    {
+      "key": "EP09_S4013_0003",
+      "value": "For sure. Sorry if we worried you."
+    },
+    {
+      "key": "EP09_S4013_0004",
+      "value": "Did we go a little too far, maybe?"
+    },
+    {
+      "key": "EP09_S4013_0005",
+      "value": "Thank you... Truly, thank you. No one\nwould’ve blamed you for abandoning them..."
+    },
+    {
+      "key": "EP09_S4013_0006",
+      "value": "I couldn’t have lived with myself. I’m just\nglad we got to save everyone!"
+    },
+    {
+      "key": "EP09_S4013_0007",
+      "value": "Let’s save the chit-chat for later. The fog\nis getting way thicker here."
+    },
+    {
+      "key": "EP09_S4013_0008",
+      "value": "We have to escape soon. Minoru, have Kaito\nand the others left already?"
+    },
+    {
+      "key": "EP09_S4013_0009",
+      "value": "Oh yeah, not yet!"
+    },
+    {
+      "key": "EP09_S4013_0010",
+      "value": "They’re still fighting?! Don’t they realize\nthe fog is coming?!"
+    },
+    {
+      "key": "EP09_S4013_0011",
+      "value": "Even if they did, I’d imagine they can’t\nexactly get away."
+    },
+    {
+      "key": "EP09_S4013_0012",
+      "value": "We gotta do something, or those guys’ll..."
+    },
+    {
+      "key": "EP09_S4013_0013",
+      "value": "(It’s not even a question... We’ll go and\nsave them.)"
+    },
+    {
+      "key": "EP09_S4013_0014",
+      "value": "(Still, all of us can’t go at once. Someone’s\ngot to protect Jijimon and the others.)"
+    },
+    {
+      "key": "EP09_S4013_0015",
+      "value": "(Of course, whoever goes faces the most risk.\nI can’t ask that of anyone else... I’ll go.)"
+    },
+    {
+      "key": "EP09_S4013_0016",
+      "value": "(Will they object, I wonder? What could I say\nto make them understand?)"
+    },
+    {
+      "key": "EP09_S4013_Q1",
+      "value": "(I want to go help Kaito and the others...)"
+    },
+    {
+      "key": "EP09_S4013_Q1_A1",
+      "value": "I wanna go!"
+    },
+    {
+      "key": "EP09_S4013_Q1_A2",
+      "value": "I’ll go look."
+    },
+    {
+      "key": "EP09_S4013_Q1_A3",
+      "value": "Let’s all escape."
+    },
+    {
+      "key": "EP09_S4013_0017",
+      "value": "I wanna go!"
+    },
+    {
+      "key": "EP09_S4013_0018",
+      "value": "I’m gonna go meet up with those two. You guys\nget out of here!"
+    },
+    {
+      "key": "EP09_S4013_0019",
+      "value": "Do...do you know what you’re saying?!"
+    },
+    {
+      "key": "EP09_S4013_0020",
+      "value": "We’re in this mess because everyone went off\nto do what they wanted, you know?!"
+    },
+    {
+      "key": "EP09_S4013_0021",
+      "value": "I just can’t imagine they’ll be okay if we\nleave them to fend for themselves."
+    },
+    {
+      "key": "EP09_S4013_0022",
+      "value": "You may be right, but still!"
+    },
+    {
+      "key": "EP09_S4013_0023",
+      "value": "We’ll need to split up if we’re going to\nprotect these creatures and save the others."
+    },
+    {
+      "key": "EP09_S4013_0024",
+      "value": "In that case, I want to go. Please, Aoi!"
+    },
+    {
+      "key": "EP09_S4013_0025",
+      "value": "Ohh...fine! I understand, do what you have to\ndo."
+    },
+    {
+      "key": "EP09_S4013_0026",
+      "value": "I’ll go look."
+    },
+    {
+      "key": "EP09_S4013_0027",
+      "value": "I’ll go look for those two!"
+    },
+    {
+      "key": "EP09_S4013_0028",
+      "value": "You’ll come too, won’t you, Agumon?"
+    },
+    {
+      "key": "EP09_S4013_0029",
+      "value": "You know it! Let’s go already!"
+    },
+    {
+      "key": "EP09_S4013_0030",
+      "value": "Just the two of you alone? As if. I’m going,\ntoo!"
+    },
+    {
+      "key": "EP09_S4013_0031",
+      "value": "Yeah! We’ve come this far, I’ll stick with\nyou to the end!"
+    },
+    {
+      "key": "EP09_S4013_0032",
+      "value": "No, I need you guys to protect everyone\nescaping. The fewer people to go, the better."
+    },
+    {
+      "key": "EP09_S4013_0033",
+      "value": "But, man..."
+    },
+    {
+      "key": "EP09_S4013_0034",
+      "value": "Don’t worry! I’ll protect Takuma!"
+    },
+    {
+      "key": "EP09_S4013_0035",
+      "value": "...Okay.\nWe’ll escort everyone out of here."
+    },
+    {
+      "key": "EP09_S4013_0036",
+      "value": "Are you sure, Aoi?!"
+    },
+    {
+      "key": "EP09_S4013_0037",
+      "value": "Takuma will be fine, I’m sure. We’ll just\nhave to wait for them to return."
+    },
+    {
+      "key": "EP09_S4013_0038",
+      "value": "Let’s all escape."
+    },
+    {
+      "key": "EP09_S4013_0039",
+      "value": "It’s dangerous here. We gotta run. Agumon and\nI will look for the others."
+    },
+    {
+      "key": "EP09_S4013_0040",
+      "value": "Just the two of you alone? As if. I’m going,\ntoo!"
+    },
+    {
+      "key": "EP09_S4013_0041",
+      "value": "No, I want you to stay here, Aoi. I need you\nguys to protect everyone escaping."
+    },
+    {
+      "key": "EP09_S4013_0042",
+      "value": "You’ll...come back safe, won’t you?"
+    },
+    {
+      "key": "EP09_S4013_0043",
+      "value": "Yeah, that’s the plan. Take care of Jijimon,\nwill you?"
+    },
+    {
+      "key": "EP09_S4013_0044",
+      "value": "...Okay.\nWe’ll escort everyone out of here."
+    },
+    {
+      "key": "EP09_S4013_0045",
+      "value": "Look at you, acting all cool! And here I get\nso much crap when I go off on my own."
+    },
+    {
+      "key": "EP09_S4013_0046",
+      "value": "You’d better promise, you hear? Bring those\ntwo knuckleheads back with you!"
+    },
+    {
+      "key": "EP09_S4013_0047",
+      "value": "Yeah, I promise."
+    },
+    {
+      "key": "EP09_S4013_0048",
+      "value": "Well then, everyone, let us take refuge! We\nmust join up with the other evacuees!"
+    },
+    {
+      "key": "EP09_S4013_0049",
+      "value": "Takuma, Agumon, take care of yourselves!"
+    },
+    {
+      "key": "EP09_S4013_0050",
+      "value": "We’ll be a-okay! You better do the same!"
+    },
+    {
+      "key": "EP09_S4013_0051",
+      "value": "(Hmm... The fog is thick here. There can’t be\nmuch time left.)"
+    },
+    {
+      "key": "EP09_S4013_0052",
+      "value": "(Kaito, Miu... Please be okay.)"
+    }
+  ]
+}

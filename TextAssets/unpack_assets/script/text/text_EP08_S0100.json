@@ -1,0 +1,388 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP08_S0100_0001",
+      "value": "Grr... What is this place? Where am I?"
+    },
+    {
+      "key": "EP08_S0100_0002",
+      "value": "Wah! What’s with that guy?!"
+    },
+    {
+      "key": "EP08_S0100_0003",
+      "value": "What’s going on? Is that some sort of\ncosplay?"
+    },
+    {
+      "key": "EP08_S0100_0004",
+      "value": "Everyone, stay back! This area is so unstable\nthat even the inner shrine has collapsed!"
+    },
+    {
+      "key": "EP08_S0100_0005",
+      "value": "Humans?! And so many of them... What’s going\non?!"
+    },
+    {
+      "key": "EP08_S0100_0006",
+      "value": "I was swallowed up by the maelstrom and\nthen... The Master...did he betray me?!"
+    },
+    {
+      "key": "EP08_S0100_0007",
+      "value": "Aaah! Who is that?! What’s going on?!"
+    },
+    {
+      "key": "EP08_S0100_0008",
+      "value": "Sir? I’m not sure what you’re doing, but\nI want you to turn around and come quietly—"
+    },
+    {
+      "key": "EP08_S0100_0009",
+      "value": "Bah! Enough!!!"
+    },
+    {
+      "key": "EP08_S0100_0010",
+      "value": "Uwaaah!!!"
+    },
+    {
+      "key": "EP08_S0100_0011",
+      "value": "Takuma, did you hear that?!"
+    },
+    {
+      "key": "EP08_S0100_0012",
+      "value": "And I know this feeling... Takuma, there’s an\nenemy up ahead!"
+    },
+    {
+      "key": "EP08_S0100_0013",
+      "value": "(Damn it! This is just what I hoped wasn’t\nhappening!)"
+    },
+    {
+      "key": "EP08_S0100_0014",
+      "value": "Takuma, look!"
+    },
+    {
+      "key": "EP08_S0100_0015",
+      "value": "It was Piedmon! He’s here in this world!"
+    },
+    {
+      "key": "EP08_S0100_0016",
+      "value": "(Only something’s not right. He’s covered in\nwounds, and he looks absolutely furious.)"
+    },
+    {
+      "key": "EP08_S0100_0017",
+      "value": "Oh... Oh no, this is awful! The shrine’s\ncompletely collapsed!"
+    },
+    {
+      "key": "EP08_S0100_0018",
+      "value": "Even the inner shrine must’ve been destroyed."
+    },
+    {
+      "key": "EP08_S0100_0019",
+      "value": "Huh? The inner shrine? What’s that got to do\nwith anything?"
+    },
+    {
+      "key": "EP08_S0100_0020",
+      "value": "(Was there something important inside it?)"
+    },
+    {
+      "key": "EP08_S0100_0021",
+      "value": "(But I shouldn’t get distracted. Right now we\nneed to find a way to deal with Piedmon!)"
+    },
+    {
+      "key": "EP08_S0100_0022",
+      "value": "Hey, kids! This place is dangerous! Stay\nback!"
+    },
+    {
+      "key": "EP08_S0100_0023",
+      "value": "Grrr! Raaaaaah!"
+    },
+    {
+      "key": "EP08_S0100_0024",
+      "value": "This is bad! Back! Everyone get back!"
+    },
+    {
+      "key": "EP08_S0100_0025",
+      "value": "Yeep!"
+    },
+    {
+      "key": "EP08_S0100_0026",
+      "value": "How can this be?! Master, did I not serve you\nwell?!"
+    },
+    {
+      "key": "EP08_S0100_0027",
+      "value": "Why is this to be my fate?"
+    },
+    {
+      "key": "EP08_S0100_0028",
+      "value": "Piedmon..."
+    },
+    {
+      "key": "EP08_S0100_0029",
+      "value": "Miyuki, stay back! He’s out of his mind!"
+    },
+    {
+      "key": "EP08_S0100_0030",
+      "value": "Piedmon, you’re wrong."
+    },
+    {
+      "key": "EP08_S0100_0031",
+      "value": "Wrong?! How am I wrong?!"
+    },
+    {
+      "key": "EP08_S0100_0032",
+      "value": "Your Master... He’s not what you think."
+    },
+    {
+      "key": "EP08_S0100_0033",
+      "value": "Do not speak such lies!"
+    },
+    {
+      "key": "EP08_S0100_0034",
+      "value": "(Oh no! Piedmon’s going to attack Miyuki!)"
+    },
+    {
+      "key": "EP08_S0100_Q1",
+      "value": "(I need to help her, but how?)"
+    },
+    {
+      "key": "EP08_S0100_Q1_A1",
+      "value": "Cover for her."
+    },
+    {
+      "key": "EP08_S0100_Q1_A2",
+      "value": "Tell her to run."
+    },
+    {
+      "key": "EP08_S0100_Q1_A3",
+      "value": "Get Agumon to help."
+    },
+    {
+      "key": "EP08_S0100_0035",
+      "value": "Cover for her."
+    },
+    {
+      "key": "EP08_S0100_0036",
+      "value": "(If I don’t do something, Miyuki’s done for!\nThere’s only one thing to do!)"
+    },
+    {
+      "key": "EP08_S0100_0037",
+      "value": "You leave her alone!!!"
+    },
+    {
+      "key": "EP08_S0100_0038",
+      "value": "Takuma? What are you doing?!"
+    },
+    {
+      "key": "EP08_S0100_0039",
+      "value": "Rrk?!"
+    },
+    {
+      "key": "EP08_S0100_0040",
+      "value": "Miyuki! Back off before it’s too late!"
+    },
+    {
+      "key": "EP08_S0100_0041",
+      "value": "All right!"
+    },
+    {
+      "key": "EP08_S0100_0042",
+      "value": "You...filthy human! You would dare strike\nme?!"
+    },
+    {
+      "key": "EP08_S0100_0043",
+      "value": "Unforgivable! You’ll pay for that with your\nlife!"
+    },
+    {
+      "key": "EP08_S0100_0044",
+      "value": "(Well, that’s not good. He’s really mad now!)"
+    },
+    {
+      "key": "EP08_S0100_0045",
+      "value": "Tell her to run."
+    },
+    {
+      "key": "EP08_S0100_0046",
+      "value": "(I want to save her, but my legs just won’t\nmove! Damn it! I gotta do something!)"
+    },
+    {
+      "key": "EP08_S0100_0047",
+      "value": "Miyuki! You need to run!"
+    },
+    {
+      "key": "EP08_S0100_0048",
+      "value": "You’re not going anywhere!"
+    },
+    {
+      "key": "EP08_S0100_0049",
+      "value": "Aaaaaah!!!"
+    },
+    {
+      "key": "EP08_S0100_0050",
+      "value": "Hey, watch out!"
+    },
+    {
+      "key": "EP08_S0100_0051",
+      "value": "Oh no! I’m sorry, now you’re hurt, and it’s\nall because of me..."
+    },
+    {
+      "key": "EP08_S0100_0052",
+      "value": "It’s...fine. Now stay back! Let me handle\nthis!"
+    },
+    {
+      "key": "EP08_S0100_0053",
+      "value": "Stay out of this, human!"
+    },
+    {
+      "key": "EP08_S0100_0054",
+      "value": "Uwaaah!"
+    },
+    {
+      "key": "EP08_S0100_0055",
+      "value": "Takuma, what do we do?!"
+    },
+    {
+      "key": "EP08_S0100_0056",
+      "value": "You’re asking me?"
+    },
+    {
+      "key": "EP08_S0100_0057",
+      "value": "(I couldn’t even bring myself to save Miyuki.\nWhat am I supposed to do?)"
+    },
+    {
+      "key": "EP08_S0100_0058",
+      "value": "(Then again, if I don’t do anything, innocent\npeople are going to be in danger!)"
+    },
+    {
+      "key": "EP08_S0100_0059",
+      "value": "Get Agumon to help."
+    },
+    {
+      "key": "EP08_S0100_0060",
+      "value": "(I don’t know if I’m strong enough to protect\nMiyuki myself, but I know someone who is!)"
+    },
+    {
+      "key": "EP08_S0100_0061",
+      "value": "Agumon, please! You have to protect Miyuki!"
+    },
+    {
+      "key": "EP08_S0100_0062",
+      "value": "You got it, Takuma! I’ll do anything you ask!"
+    },
+    {
+      "key": "EP08_S0100_0063",
+      "value": "Yaaaaaah!"
+    },
+    {
+      "key": "EP08_S0100_0064",
+      "value": "Nnf?!"
+    },
+    {
+      "key": "EP08_S0100_0065",
+      "value": "Miyuki! Over here! Now!"
+    },
+    {
+      "key": "EP08_S0100_0066",
+      "value": "Right!"
+    },
+    {
+      "key": "EP08_S0100_0067",
+      "value": "Grr... Traitorous human lackey... Does your\ntreachery know no bounds?"
+    },
+    {
+      "key": "EP08_S0100_0068",
+      "value": "You will pay for thwarting me just now!"
+    },
+    {
+      "key": "EP08_S0100_0069",
+      "value": "Please, would you just hear me out?!"
+    },
+    {
+      "key": "EP08_S0100_0070",
+      "value": "I don’t know what you hope to accomplish with\nyour trickery, but it isn’t going to work!"
+    },
+    {
+      "key": "EP08_S0100_0071",
+      "value": "You’ve got it all wrong! All I want is for\nyou to listen to me!"
+    },
+    {
+      "key": "EP08_S0100_0072",
+      "value": "Miyuki! Stay back!"
+    },
+    {
+      "key": "EP08_S0100_0073",
+      "value": "But I need to get through to him!"
+    },
+    {
+      "key": "EP08_S0100_0074",
+      "value": "(Does she really think she can convince\nPiedmon? I don’t think she has much chance.)"
+    },
+    {
+      "key": "EP08_S0100_0075",
+      "value": "I am going to drag you back, and regain my\nMaster’s favor!"
+    },
+    {
+      "key": "EP08_S0100_0076",
+      "value": "That’s not how it works! That’s what I’ve\nbeen trying to tell you!"
+    },
+    {
+      "key": "EP08_S0100_0077",
+      "value": "More lies!"
+    },
+    {
+      "key": "EP08_S0100_0078",
+      "value": "Believe me, I know! The whole time my soul\nwas lost, I saw the world as your Master did!"
+    },
+    {
+      "key": "EP08_S0100_0079",
+      "value": "He never cared about you to begin with!"
+    },
+    {
+      "key": "EP08_S0100_0080",
+      "value": "The only thing he does care about is wreaking\nvengeance on the world."
+    },
+    {
+      "key": "EP08_S0100_0081",
+      "value": "And as it stands, you’ve no hope of seeing\nyour allies again. This isn’t your world."
+    },
+    {
+      "key": "EP08_S0100_0082",
+      "value": "Lies and deceit! Why should I believe you?"
+    },
+    {
+      "key": "EP08_S0100_0083",
+      "value": "You speak only in falsehoods! Not a word you\nsay is true!"
+    },
+    {
+      "key": "EP08_S0100_0084",
+      "value": "I will not stand for such blasphemy against\nthe Master!"
+    },
+    {
+      "key": "EP08_S0100_0085",
+      "value": "(It’s no use. Any more of this will only make\nthings worse. We have to stop Piedmon now!)"
+    },
+    {
+      "key": "EP08_S0100_0086",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP08_S0100_0087",
+      "value": "On it, Takuma! Ready to fight whenever you\nsay the word!"
+    },
+    {
+      "key": "EP08_S0100_0088",
+      "value": "I will start by slaughtering these pests, and\nthen I will return you to the Master, maiden!"
+    },
+    {
+      "key": "EP08_S0100_0089",
+      "value": "Here he comes, Takuma!"
+    },
+    {
+      "key": "EP08_S0100_0090",
+      "value": "Right!"
+    },
+    {
+      "key": "EP08_S0100_0091",
+      "value": "(I don’t see any way around a fight now.\nI can save my second thoughts for later.)"
+    },
+    {
+      "key": "EP08_S0100_0092",
+      "value": "Agumon! We’re doing this!"
+    }
+  ]
+}

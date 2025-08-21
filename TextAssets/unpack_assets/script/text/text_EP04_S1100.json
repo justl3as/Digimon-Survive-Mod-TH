@@ -1,0 +1,392 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1100_0001",
+      "value": "Oh, uh, hey Takuma. What’s up?"
+    },
+    {
+      "key": "EP04_S1100_0002",
+      "value": "I’m going around checking in on people since\nnobody came to the cafeteria this morning."
+    },
+    {
+      "key": "EP04_S1100_0003",
+      "value": "Kaito’s pretty worked up. He’s talking about\ngoing to look for Miu on his own."
+    },
+    {
+      "key": "EP04_S1100_0004",
+      "value": "I see. Then it sounds like this is no time\nfor us to remain idle."
+    },
+    {
+      "key": "EP04_S1100_0005",
+      "value": "Yeah, Kaito can get pretty fixated on things,\ncan’t he?"
+    },
+    {
+      "key": "EP04_S1100_0006",
+      "value": "Especially when they involve his sister."
+    },
+    {
+      "key": "EP04_S1100_0007",
+      "value": "Yeah, who’d have thought a tough guy like him\nwould have such a soft spot for his sister?"
+    },
+    {
+      "key": "EP04_S1100_0008",
+      "value": "(Well, this is a nice surprise. It seems like\nMinoru’s holding up better than I thought.)"
+    },
+    {
+      "key": "EP04_S1100_0009",
+      "value": "By the way, Takuma,"
+    },
+    {
+      "key": "EP04_S1100_0010",
+      "value": "what sort of comics do you like?"
+    },
+    {
+      "key": "EP04_S1100_0011",
+      "value": "What? Where’s this coming from?"
+    },
+    {
+      "key": "EP04_S1100_0012",
+      "value": "I do not believe now is an appropriate time\nfor such conversation."
+    },
+    {
+      "key": "EP04_S1100_0013",
+      "value": "Oh, come on, relax. Besides, there’s some\nthings I wanna ask because of this situation."
+    },
+    {
+      "key": "EP04_S1100_0014",
+      "value": "(I...don’t really get why he’s asking me\nthis, but let me see...)"
+    },
+    {
+      "key": "EP04_S1100_0015",
+      "value": "(I’m not exactly big into comics. Mostly just\nyour typical hero stuff.)"
+    },
+    {
+      "key": "EP04_S1100_0016",
+      "value": "(I do enjoy the occasional romantic comedy\ntoo, but I bet Minoru’d tease me about that.)"
+    },
+    {
+      "key": "EP04_S1100_Q1",
+      "value": "(What should I say to Minoru?)"
+    },
+    {
+      "key": "EP04_S1100_Q1_A1",
+      "value": "Those comics he likes."
+    },
+    {
+      "key": "EP04_S1100_Q1_A2",
+      "value": "I’m not telling."
+    },
+    {
+      "key": "EP04_S1100_Q1_A3",
+      "value": "Why are you asking?"
+    },
+    {
+      "key": "EP04_S1100_0021",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1100_0022",
+      "value": "Well, I’ll read anything if I think it’s\ninteresting, but I’m mostly into superheroes."
+    },
+    {
+      "key": "EP04_S1100_0023",
+      "value": "Yeah, I knew it!"
+    },
+    {
+      "key": "EP04_S1100_0024",
+      "value": "Superhero comics are the best, right?"
+    },
+    {
+      "key": "EP04_S1100_0025",
+      "value": "When we make it back to our world, I’ve got\ntons of recommendations for you!"
+    },
+    {
+      "key": "EP04_S1100_0026",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1100_0027",
+      "value": "I...I think I’d rather not say."
+    },
+    {
+      "key": "EP04_S1100_0028",
+      "value": "Hmm, judging by your reaction..."
+    },
+    {
+      "key": "EP04_S1100_0029",
+      "value": "...you must be really into naughty comics, am\nI right?"
+    },
+    {
+      "key": "EP04_S1100_0030",
+      "value": "Wh-what? No! I just like romantic comedies!"
+    },
+    {
+      "key": "EP04_S1100_0031",
+      "value": "Oh, sure. Those nerves of yours are a dead\ngiveaway."
+    },
+    {
+      "key": "EP04_S1100_0032",
+      "value": "(I guess he wound up teasing me anyway.)"
+    },
+    {
+      "key": "EP04_S1100_0033",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1100_0034",
+      "value": "So, why is it you’re asking? Is there some\nspecial meaning?"
+    },
+    {
+      "key": "EP04_S1100_0035",
+      "value": "No, not really."
+    },
+    {
+      "key": "EP04_S1100_0036",
+      "value": "It’s just, things have been so crazy since we\ngot here, I wanted a normal conversation."
+    },
+    {
+      "key": "EP04_S1100_0037",
+      "value": "You are one happy-go-lucky guy, aren’t you,\nMinoru?"
+    },
+    {
+      "key": "EP04_S1100_0038",
+      "value": "Haha, yeah, it’s one of my strong points."
+    },
+    {
+      "key": "EP04_S1100_0039",
+      "value": "So, I’ve got a favorite I’ve been reading\nforever. I can never wait for the next issue!"
+    },
+    {
+      "key": "EP04_S1100_0040",
+      "value": "Hey, Ryo, have you heard of this one? It’s\nsuper good."
+    },
+    {
+      "key": "EP04_S1100_0041",
+      "value": "What’re you talking about? Comics? Are you\ncrazy? Look at the situation we’re in!"
+    },
+    {
+      "key": "EP04_S1100_0042",
+      "value": "Aw, don’t be such a downer, Ryo. Why, are you\nscared? Huh?"
+    },
+    {
+      "key": "EP04_S1100_0043",
+      "value": "You—"
+    },
+    {
+      "key": "EP04_S1100_0044",
+      "value": "Haha, gotcha!"
+    },
+    {
+      "key": "EP04_S1100_0045",
+      "value": "Minoru! You should not tease him so!"
+    },
+    {
+      "key": "EP04_S1100_0046",
+      "value": "Oh, it’s fine. This is just our way of\ngetting along. Right, Ryo?"
+    },
+    {
+      "key": "EP04_S1100_0047",
+      "value": "I can’t believe it. You never change, do you,\nMinoru?"
+    },
+    {
+      "key": "EP04_S1100_0048",
+      "value": "Hmph... You’re so full of it. What, you think\nyou’re being reassuring?"
+    },
+    {
+      "key": "EP04_S1100_0049",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S1100_0050",
+      "value": "Oh... Haha, was it that obvious?"
+    },
+    {
+      "key": "EP04_S1100_0051",
+      "value": "Completely. I bet you thought I was upset and\nthis was your stupid way of cheering me up."
+    },
+    {
+      "key": "EP04_S1100_0052",
+      "value": "Oh, I get it."
+    },
+    {
+      "key": "EP04_S1100_0053",
+      "value": "See, you can’t fool me, loser."
+    },
+    {
+      "key": "EP04_S1100_0054",
+      "value": "Hey, stop! It’s really embarrassing when you\nspell it out like that. Give it a rest, okay?"
+    },
+    {
+      "key": "EP04_S1100_0055",
+      "value": "Look...I do appreciate the sentiment."
+    },
+    {
+      "key": "EP04_S1100_0056",
+      "value": "What? Was...was that like an apology? From\nyou, Ryo? To me?"
+    },
+    {
+      "key": "EP04_S1100_0057",
+      "value": "Hey, I never said I was sorry, okay?!"
+    },
+    {
+      "key": "EP04_S1100_0058",
+      "value": "(Minoru may not have been especially smooth\njust now, but then again, neither was Ryo.)"
+    },
+    {
+      "key": "EP04_S1100_0059",
+      "value": "Man, I can’t wait to find out what happens\nnext!"
+    },
+    {
+      "key": "EP04_S1100_0060",
+      "value": "(Hm? Is it just me, or does Minoru seem like\nhe’s acting a little forced?)"
+    },
+    {
+      "key": "EP04_S1100_0061",
+      "value": "Anyway, the hero’s just the coolest! Like, of\nall the heroes I know, it’s not even close!"
+    },
+    {
+      "key": "EP04_S1100_0062",
+      "value": "When I read it, I think about how I want to\nbe like that. I’m not even joking."
+    },
+    {
+      "key": "EP04_S1100_0063",
+      "value": "Minoru, please..."
+    },
+    {
+      "key": "EP04_S1100_0064",
+      "value": "Oh, right, you don’t really know what we’re\ntalking about, do you, Falcomon? Sorry!"
+    },
+    {
+      "key": "EP04_S1100_0065",
+      "value": "Man, if only there were comics in this world\ntoo! Ain’t that a shame?"
+    },
+    {
+      "key": "EP04_S1100_0066",
+      "value": "Do not push yourself so hard, Minoru."
+    },
+    {
+      "key": "EP04_S1100_0067",
+      "value": "What? What do you mean?"
+    },
+    {
+      "key": "EP04_S1100_0068",
+      "value": "It is plain to see your heart is not truly in\nthis conversation."
+    },
+    {
+      "key": "EP04_S1100_0069",
+      "value": "No way! Don’t be ridiculous! Hahaha...\nHaha... Ha..."
+    },
+    {
+      "key": "EP04_S1100_0070",
+      "value": "*sigh*"
+    },
+    {
+      "key": "EP04_S1100_0071",
+      "value": "(I thought so. He’s been putting on an act.)"
+    },
+    {
+      "key": "EP04_S1100_0072",
+      "value": "Minoru, you seem pretty down."
+    },
+    {
+      "key": "EP04_S1100_0073",
+      "value": "Haha, guess I couldn’t fool you. But you\nknow..."
+    },
+    {
+      "key": "EP04_S1100_0074",
+      "value": "It’s not just me. It’s everyone."
+    },
+    {
+      "key": "EP04_S1100_0075",
+      "value": "(Everyone’s in a bad mood after Ryo’s\ndisappearance yesterday.)"
+    },
+    {
+      "key": "EP04_S1100_0076",
+      "value": "(And I guess Minoru is no exception.)"
+    },
+    {
+      "key": "EP04_S1100_0077",
+      "value": "Why couldn’t I do anything?"
+    },
+    {
+      "key": "EP04_S1100_0078",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP04_S1100_0079",
+      "value": "It’s not like Ryo and I even got along all\nthat well. He was kind of a loser, really."
+    },
+    {
+      "key": "EP04_S1100_0080",
+      "value": "But I’m still not thrilled that he’s gone!"
+    },
+    {
+      "key": "EP04_S1100_0081",
+      "value": "Minoru, calm down!"
+    },
+    {
+      "key": "EP04_S1100_0082",
+      "value": "And it sucks because I knew he was\nstruggling. He had been since we came here."
+    },
+    {
+      "key": "EP04_S1100_0083",
+      "value": "Why did I just keep ignoring him right up to\nthe end?"
+    },
+    {
+      "key": "EP04_S1100_0084",
+      "value": "Yeah, I’ve been asking myself that too."
+    },
+    {
+      "key": "EP04_S1100_0085",
+      "value": "And I didn’t just ignore him. I kept teasing\nand insulting him, even though he was older."
+    },
+    {
+      "key": "EP04_S1100_0086",
+      "value": "Ugh... I’m the worst!"
+    },
+    {
+      "key": "EP04_S1100_0087",
+      "value": "It wasn’t your fault, Minoru. You shouldn’t\nblame yourself so much."
+    },
+    {
+      "key": "EP04_S1100_0088",
+      "value": "You don’t have to try and comfort me. I know\nwhat I did was awful."
+    },
+    {
+      "key": "EP04_S1100_0089",
+      "value": "I don’t think I ever treated Ryo right."
+    },
+    {
+      "key": "EP04_S1100_0090",
+      "value": "(It’s hard to believe Minoru could get this\ndepressed. It’s so different from usual.)"
+    },
+    {
+      "key": "EP04_S1100_0091",
+      "value": "(I guess in his own way, he’s been thinking\na lot about Ryo.)"
+    },
+    {
+      "key": "EP04_S1100_0092",
+      "value": "Falcomon, I think we should give Minoru some\nspace right now."
+    },
+    {
+      "key": "EP04_S1100_0093",
+      "value": "I concur. Yet I believe as long as Minoru can\nreflect on his actions in this way..."
+    },
+    {
+      "key": "EP04_S1100_0094",
+      "value": "...his heart is in the right place."
+    },
+    {
+      "key": "EP04_S1100_0095",
+      "value": "Hey, the important thing is, let’s stay\npositive, okay?"
+    },
+    {
+      "key": "EP04_S1100_0096",
+      "value": "I’m such a joke. Some hero I turned out to\nbe."
+    },
+    {
+      "key": "EP04_S1100_0097",
+      "value": "(So, Minoru is pretty upset too. I’d better\ngive him time, and leave this to Falcomon.)"
+    }
+  ]
+}

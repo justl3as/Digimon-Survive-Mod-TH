@@ -1,0 +1,196 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S9102_0001",
+      "value": "Shit, they showed up after all..."
+    },
+    {
+      "key": "EP10_S9102_0002",
+      "value": "Whew, we beat them somehow!"
+    },
+    {
+      "key": "EP10_S9102_0003",
+      "value": "So, you all right, Takuma?!"
+    },
+    {
+      "key": "EP10_S9102_0004",
+      "value": "Yeah. Thanks, guys."
+    },
+    {
+      "key": "EP10_S9102_0005",
+      "value": "What was that, Shuuji?"
+    },
+    {
+      "key": "EP10_S9102_0006",
+      "value": "  I couldn’t say... I was shocked myself."
+    },
+    {
+      "key": "EP10_S9102_0007",
+      "value": "She just attacked us when she first appeared\nat the school. Didn’t use tactics like that."
+    },
+    {
+      "key": "EP10_S9102_0008",
+      "value": "Hmph, it’s like they saw how well we banded\ntogether, and aimed for a chink in our armor."
+    },
+    {
+      "key": "EP10_S9102_0009",
+      "value": "Yo, we can’t make light of this! If a better\nfake shows up next time, we’re in trouble..."
+    },
+    {
+      "key": "EP10_S9102_0010",
+      "value": "Yeah, that’d be bad..."
+    },
+    {
+      "key": "EP10_S9102_0011",
+      "value": "More importantly, we’d better regroup and\nresume the search. Stay on guard, everyone."
+    },
+    {
+      "key": "EP10_S9102_0012",
+      "value": "Hold on, Shuuji. The fog is thickening. We\nbetter stick together."
+    },
+    {
+      "key": "EP10_S9102_0013",
+      "value": "Yes, I guess you’re right, it’s just..."
+    },
+    {
+      "key": "EP10_S9102_0014",
+      "value": "If we stick together, the fog’ll grab us all\nbefore we even find the shrine."
+    },
+    {
+      "key": "EP10_S9102_0015",
+      "value": "But if they attack us while we’re separated,\nsearching will be the least of our problems."
+    },
+    {
+      "key": "EP10_S9102_0016",
+      "value": "(Should we prioritize our safety? Or the\nsearch for the shrine?)"
+    },
+    {
+      "key": "EP10_S9102_Q1",
+      "value": "(What makes more sense?)"
+    },
+    {
+      "key": "EP10_S9102_Q1_A1",
+      "value": "Let’s stick together."
+    },
+    {
+      "key": "EP10_S9102_Q1_A2",
+      "value": "Searching comes first."
+    },
+    {
+      "key": "EP10_S9102_Q1_A3",
+      "value": "Try the buddy system?"
+    },
+    {
+      "key": "EP10_S9102_0017",
+      "value": "Let’s stick together. Nothing comes before\nour safety."
+    },
+    {
+      "key": "EP10_S9102_0018",
+      "value": "But... If the Kenzoku are here, doesn’t that\nmean the enemy’s beat us to the punch?"
+    },
+    {
+      "key": "EP10_S9102_0019",
+      "value": "Yeah! We gotta hurry up, even if that means\ntaking a few risks!"
+    },
+    {
+      "key": "EP10_S9102_0020",
+      "value": "No way! What’s the point in forcing things if\nit ends with all of us vanishing?!"
+    },
+    {
+      "key": "EP10_S9102_0021",
+      "value": "Hey, won’t we be safe if we pair up?"
+    },
+    {
+      "key": "EP10_S9102_0022",
+      "value": "Oh, that’s a good idea!"
+    },
+    {
+      "key": "EP10_S9102_0023",
+      "value": "The search comes first. A little danger isn’t\nas important as finding the shrine."
+    },
+    {
+      "key": "EP10_S9102_0024",
+      "value": "He’s right. If we avoid pointless fights and\nrun when we can, it should work out..."
+    },
+    {
+      "key": "EP10_S9102_0025",
+      "value": "B-but still..."
+    },
+    {
+      "key": "EP10_S9102_0026",
+      "value": "I’m against it. I ain’t putting Miu in any\nmore danger than I gotta."
+    },
+    {
+      "key": "EP10_S9102_0027",
+      "value": "It’s better to stick with someone else.\nImagine if someone gets attacked flying solo."
+    },
+    {
+      "key": "EP10_S9102_0028",
+      "value": "But if we waste time here, the enemy’s gonna\nbeat us to the punch, right?"
+    },
+    {
+      "key": "EP10_S9102_0029",
+      "value": "Hey, won’t we be safe if we pair up?"
+    },
+    {
+      "key": "EP10_S9102_0030",
+      "value": "Oh, that’s a good idea!"
+    },
+    {
+      "key": "EP10_S9102_0031",
+      "value": "Why don’t we try the buddy system?"
+    },
+    {
+      "key": "EP10_S9102_0032",
+      "value": "Ohh that’s a good idea! We can work together\nif we stick with someone else!"
+    },
+    {
+      "key": "EP10_S9102_0033",
+      "value": "Yeah, that’ll work!"
+    },
+    {
+      "key": "EP10_S9102_0034",
+      "value": "Hmm... Yeah, that should be fine."
+    },
+    {
+      "key": "EP10_S9102_0035",
+      "value": "Right, no objections here."
+    },
+    {
+      "key": "EP10_S9102_0036",
+      "value": "In that case, how do we split up?"
+    },
+    {
+      "key": "EP10_S9102_0037",
+      "value": "Whatever works, right? I’ll go with Miu."
+    },
+    {
+      "key": "EP10_S9102_0038",
+      "value": "Hold up! Don’t decide on your own!"
+    },
+    {
+      "key": "EP10_S9102_0039",
+      "value": "Then I’ll go with Aoi!"
+    },
+    {
+      "key": "EP10_S9102_0040",
+      "value": "Okay, let’s do this, Saki."
+    },
+    {
+      "key": "EP10_S9102_0041",
+      "value": "Hmm... Then Ryo and I will pair up."
+    },
+    {
+      "key": "EP10_S9102_0042",
+      "value": "Works for me."
+    },
+    {
+      "key": "EP10_S9102_0043",
+      "value": "That means it’s you and me in the picked last\npair, Takuma! What a dream team!"
+    },
+    {
+      "key": "EP10_S9102_0044",
+      "value": "You dream about getting picked last?"
+    }
+  ]
+}

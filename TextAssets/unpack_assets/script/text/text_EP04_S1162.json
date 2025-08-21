@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1162_0001",
+      "value": "Hm? What’s this?"
+    },
+    {
+      "key": "EP04_S1162_0002",
+      "value": "Minoru? What is it?"
+    },
+    {
+      "key": "EP04_S1162_0003",
+      "value": "Check it out, Takuma! I found this...thing!"
+    },
+    {
+      "key": "EP04_S1162_0004",
+      "value": "That’s not very descriptive..."
+    },
+    {
+      "key": "EP04_S1162_0005",
+      "value": "Yeah, I’m not sure what it is, but I bet\nit’ll come in useful!"
+    },
+    {
+      "key": "EP04_S1162_0006",
+      "value": "I guess it couldn’t hurt to hold on to it."
+    },
+    {
+      "key": "EP04_S1162_0007",
+      "value": "Exactly! Man, we’re lucky I spotted it!"
+    },
+    {
+      "key": "EP04_S1162_0008",
+      "value": "Looks like there was only one of that thing\nI picked up earlier. Shame, huh?"
+    }
+  ]
+}

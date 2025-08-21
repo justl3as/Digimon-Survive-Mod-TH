@@ -1,0 +1,420 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0153_0001",
+      "value": "Hey look, that’s Ryo and Saki over there."
+    },
+    {
+      "key": "EP01_S0153_0002",
+      "value": "They went ahead, but I guess they took the\nlong way around?"
+    },
+    {
+      "key": "EP01_S0153_0003",
+      "value": "More importantly, who’s that girl, I wonder?"
+    },
+    {
+      "key": "EP01_S0153_0004",
+      "value": "Okay! You listening? These rockslides are\nretribution from the Kemonogami."
+    },
+    {
+      "key": "EP01_S0153_0005",
+      "value": "“Retribution”?\nIn this day and age?"
+    },
+    {
+      "key": "EP01_S0153_0006",
+      "value": "Give me a break..."
+    },
+    {
+      "key": "EP01_S0153_0007",
+      "value": "Yes! When disrespectful outsiders cause\ntrouble on the mountain, they get mad!"
+    },
+    {
+      "key": "EP01_S0153_0008",
+      "value": "This holy mountain is the Kemonorium,\na sacred shrine to the Kemonogami!"
+    },
+    {
+      "key": "EP01_S0153_0009",
+      "value": "This is no place for someone to just wander\naround!"
+    },
+    {
+      "key": "EP01_S0153_0010",
+      "value": "The heck’s a “Kemonorium”?"
+    },
+    {
+      "key": "EP01_S0153_0100",
+      "value": "I bet it’s some weird rock or bear carving.\nThey worship that stuff in the boonies."
+    },
+    {
+      "key": "EP01_S0153_0012",
+      "value": "Chill out, Ryo. She’s just a kid. You don’t\nhave to get so nasty with her."
+    },
+    {
+      "key": "EP01_S0153_0013",
+      "value": "Nasty?! I was just—!"
+    },
+    {
+      "key": "EP01_S0153_0101",
+      "value": "Hmph! The boonies, you say. How rude!"
+    },
+    {
+      "key": "EP01_S0153_0102",
+      "value": "This is the site of a glorious shrine!"
+    },
+    {
+      "key": "EP01_S0153_0103",
+      "value": "Not some new imitation, but a historic,\nlegendary shrine known only to locals!"
+    },
+    {
+      "key": "EP01_S0153_0016",
+      "value": "A shrine? You mean like the ones supposed to\nhave ancient gods?"
+    },
+    {
+      "key": "EP01_S0153_0017",
+      "value": "I’ve read about those before. Gods of the\nharvest, or fertility, things like that."
+    },
+    {
+      "key": "EP01_S0153_0018",
+      "value": "Nah, this is different. These are ancient\nBeast Gods known only to the locals!"
+    },
+    {
+      "key": "EP01_S0153_0019",
+      "value": "I’d never seen anything like these gods until\nI came here. They’re really something else."
+    },
+    {
+      "key": "EP01_S0153_0020",
+      "value": "Sounds like a fairy tale to me."
+    },
+    {
+      "key": "EP01_S0153_0021",
+      "value": "It isn’t! They’re real!"
+    },
+    {
+      "key": "EP01_S0153_0022",
+      "value": "What’s your name, kid?"
+    },
+    {
+      "key": "EP01_S0153_0023",
+      "value": "It’s Miu! What’s your name?"
+    },
+    {
+      "key": "EP01_S0153_0024",
+      "value": "I’m Saki, and this guy with the ’tude is Ryo."
+    },
+    {
+      "key": "EP01_S0153_0025",
+      "value": "So Miu, do you think you could take us to\nthis hidden shrine you’re talking about?"
+    },
+    {
+      "key": "EP01_S0153_0026",
+      "value": "Take you? Umm... I guess so..."
+    },
+    {
+      "key": "EP01_S0153_0027",
+      "value": "Curious, huh? You don’t really believe in\nthis stuff, do you?"
+    },
+    {
+      "key": "EP01_S0153_0028",
+      "value": "I’m telling you it’s real!"
+    },
+    {
+      "key": "EP01_S0153_0029",
+      "value": "Why not? Our field trip’s been canceled,\nso it’s not like we don’t have the time..."
+    },
+    {
+      "key": "EP01_S0153_0030",
+      "value": "All we have waiting for us back at camp is\nsome busywork, right? You hate that stuff."
+    },
+    {
+      "key": "EP01_S0153_0031",
+      "value": "Are you seriously telling me you’re not even\na tiny bit interested in all this?"
+    },
+    {
+      "key": "EP01_S0153_0032",
+      "value": "...I still say this is stupid."
+    },
+    {
+      "key": "EP01_S0153_0033",
+      "value": "It is NOT stupid!"
+    },
+    {
+      "key": "EP01_S0153_0034",
+      "value": "Yeah, yeah, whatever you say, kid."
+    },
+    {
+      "key": "EP01_S0153_0035",
+      "value": "It’s not “kid”! It’s Miu!"
+    },
+    {
+      "key": "EP01_S0153_0036",
+      "value": "Well lead the way, Miu. I’m not gonna be\nhappy if you’re messin’ with us, got it?"
+    },
+    {
+      "key": "EP01_S0153_0037",
+      "value": "For real? They just went off with that kid!"
+    },
+    {
+      "key": "EP01_S0153_0038",
+      "value": "There’s no way that’s going to be credited\nin place of our landmark... Oh, that Saki..."
+    },
+    {
+      "key": "EP01_S0153_0039",
+      "value": "Something tells me they’re not up to anything\nso commendable."
+    },
+    {
+      "key": "EP01_S0153_0040",
+      "value": "We don’t even know what kind of shrine it is!\nThey can’t just go on their own."
+    },
+    {
+      "key": "EP01_S0153_0041",
+      "value": "We don’t know?"
+    },
+    {
+      "key": "EP01_S0153_0042",
+      "value": "Hmm, at the very least, I don’t see anything\nlike it on the map."
+    },
+    {
+      "key": "EP01_S0153_0043",
+      "value": "Could there really be a hidden shrine?\nOr is it just some kid’s imagination?"
+    },
+    {
+      "key": "EP01_S0153_0044",
+      "value": "What do you think, Takuma?"
+    },
+    {
+      "key": "EP01_S0153_Q1",
+      "value": "(Hmm, how should I respond?)"
+    },
+    {
+      "key": "EP01_S0153_Q1_A1",
+      "value": "Sounds fun!"
+    },
+    {
+      "key": "EP01_S0153_Q1_A2",
+      "value": "We have to stop them!"
+    },
+    {
+      "key": "EP01_S0153_Q1_A3",
+      "value": "Let them have fun."
+    },
+    {
+      "key": "EP01_S0153_0104",
+      "value": "Follow Saki and Ryo."
+    },
+    {
+      "key": "EP01_S0153_0045",
+      "value": "Sounds like a good time.\nLet’s follow them!"
+    },
+    {
+      "key": "EP01_S0153_0046",
+      "value": "Yeah, now that’s what I’m talking about!\nHeyyy, you guys!"
+    },
+    {
+      "key": "EP01_S0153_0047",
+      "value": "Oh great, just what we needed..."
+    },
+    {
+      "key": "EP01_S0153_0048",
+      "value": "The shrine of the Kemonogami? Sounds fun!\nCan we go with you?"
+    },
+    {
+      "key": "EP01_S0153_0049",
+      "value": "Sure, the more the merrier!"
+    },
+    {
+      "key": "EP01_S0153_0092",
+      "value": "Thanks! Nice to meet you!　"
+    },
+    {
+      "key": "EP01_S0153_0093",
+      "value": "You too!"
+    },
+    {
+      "key": "EP01_S0153_0050",
+      "value": "Sounds like we had a couple of\neavesdroppers..."
+    },
+    {
+      "key": "EP01_S0153_0051",
+      "value": "Why don’t you and your merry band of bozos\ngo back to your school trip?!"
+    },
+    {
+      "key": "EP01_S0153_0052",
+      "value": "Let’s get a move-on, Miu!"
+    },
+    {
+      "key": "EP01_S0153_0053",
+      "value": "Come on, don’t be like that!"
+    },
+    {
+      "key": "EP01_S0153_0054",
+      "value": "...Jeez, Ryo. That attitude of yours needs\nsome work!"
+    },
+    {
+      "key": "EP01_S0153_0055",
+      "value": "Sorry about that, you guys."
+    },
+    {
+      "key": "EP01_S0153_0056",
+      "value": "Ryo, you and Miu wait up!"
+    },
+    {
+      "key": "EP01_S0153_0057",
+      "value": "There they go again."
+    },
+    {
+      "key": "EP01_S0153_0105",
+      "value": "Keep away from danger."
+    },
+    {
+      "key": "EP01_S0153_0058",
+      "value": "Yeah, I figured you’d say that, Takuma."
+    },
+    {
+      "key": "EP01_S0153_0059",
+      "value": "Now hold on, all of you!"
+    },
+    {
+      "key": "EP01_S0153_0060",
+      "value": "Hmm? What is it, Aoi?"
+    },
+    {
+      "key": "EP01_S0153_0061",
+      "value": "It’s dangerous past this point, right? We\nshouldn’t go without adult permission."
+    },
+    {
+      "key": "EP01_S0153_0062",
+      "value": "Oh come ooon, don’t be such a stickler, Aoi!"
+    },
+    {
+      "key": "EP01_S0153_0063",
+      "value": "Yeah, what a stickler!"
+    },
+    {
+      "key": "EP01_S0153_0064",
+      "value": "Yeah! You’re like a walking rule book."
+    },
+    {
+      "key": "EP01_S0153_0065",
+      "value": "A walking rule book..."
+    },
+    {
+      "key": "EP01_S0153_0066",
+      "value": "Goody-two-shoes girls aren’t popular with the\nguys, you know."
+    },
+    {
+      "key": "EP01_S0153_0067",
+      "value": "But she’s got two boys with her! She must be\nsuper popular!"
+    },
+    {
+      "key": "EP01_S0153_0068",
+      "value": "Heh, you got me there."
+    },
+    {
+      "key": "EP01_S0153_0069",
+      "value": "You’ve completely lost me!"
+    },
+    {
+      "key": "EP01_S0153_0070",
+      "value": "Is the sun getting to you, Aoi?\nYou’re red as a beet."
+    },
+    {
+      "key": "EP01_S0153_0071",
+      "value": "They’d cordon the place off if it was that\nbad. Think of this as independent research!"
+    },
+    {
+      "key": "EP01_S0153_0072",
+      "value": "The Kemonogami shrine isn’t dangerous!"
+    },
+    {
+      "key": "EP01_S0153_0094",
+      "value": "We can’t get through there after the\nlandslide. You sure about this?"
+    },
+    {
+      "key": "EP01_S0153_0095",
+      "value": "Sure I’m sure! There’s another trail to the\nshrine, one out of the landslide’s path."
+    },
+    {
+      "key": "EP01_S0153_0073",
+      "value": "Yeah, but..."
+    },
+    {
+      "key": "EP01_S0153_0074",
+      "value": "So let’s keep going. Unless you have\nsomething to say, Ryo?"
+    },
+    {
+      "key": "EP01_S0153_0075",
+      "value": "Shut it..."
+    },
+    {
+      "key": "EP01_S0153_0076",
+      "value": "And there he goes.\nGuess he didn’t feel like listening."
+    },
+    {
+      "key": "EP01_S0153_0077",
+      "value": "Leave it alone, man. You too, Aoi, no need to\nlook so down in the dumps."
+    },
+    {
+      "key": "EP01_S0153_0078",
+      "value": "Down in the dumps? Hardly..."
+    },
+    {
+      "key": "EP01_S0153_0106",
+      "value": "Wait here and see."
+    },
+    {
+      "key": "EP01_S0153_0079",
+      "value": "And where do you think you’re going, Ryo?\nHey, I said hold on!"
+    },
+    {
+      "key": "EP01_S0153_0080",
+      "value": "Pipe down and back off!"
+    },
+    {
+      "key": "EP01_S0153_0081",
+      "value": "Now, now, don’t be like that..."
+    },
+    {
+      "key": "EP01_S0153_0096",
+      "value": "Hey, are you sure it’s safe to go to this\nshrine of yours?"
+    },
+    {
+      "key": "EP01_S0153_0097",
+      "value": "You betcha! The Kemonogami shrine isn’t\ndangerous at all!"
+    },
+    {
+      "key": "EP01_S0153_0082",
+      "value": "Where do you think you’re going, Minoru?!"
+    },
+    {
+      "key": "EP01_S0153_0083",
+      "value": "You plan on going with them? You know we\ncan’t just go off on our own."
+    },
+    {
+      "key": "EP01_S0153_0084",
+      "value": "Huh?\n...Well yeah, that’s true."
+    },
+    {
+      "key": "EP01_S0153_0085",
+      "value": "Aaand there goes Ryo, off again."
+    },
+    {
+      "key": "EP01_S0153_0086",
+      "value": "For now, we’d better wait here for someone\nto tell us where to go next."
+    },
+    {
+      "key": "EP01_S0153_0087",
+      "value": "That, or head back to the school..."
+    },
+    {
+      "key": "EP01_S0153_0088",
+      "value": "Gotta admit, that sounds like a pain."
+    },
+    {
+      "key": "EP01_S0153_0090",
+      "value": "More importantly, we have no idea what might\nhappen. We should chase after those three!"
+    },
+    {
+      "key": "EP01_S0153_0091",
+      "value": "Yeah, let’s follow them!"
+    }
+  ]
+}

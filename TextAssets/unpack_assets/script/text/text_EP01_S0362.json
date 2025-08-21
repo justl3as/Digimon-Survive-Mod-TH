@@ -1,0 +1,316 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0362_0001",
+      "value": "Ick, the webs even got inside the drawers..."
+    },
+    {
+      "key": "EP01_S0362_0002",
+      "value": "Hmm? Is this...a spirit lamp?"
+    },
+    {
+      "key": "EP01_S0362_0003",
+      "value": "Huh, what kinda gadget is this? How do we use\nthis thing?"
+    },
+    {
+      "key": "EP01_S0362_0200",
+      "value": "Huh, what kinda gadget is that? How do we use\nthis thing?"
+    },
+    {
+      "key": "EP01_S0362_0004",
+      "value": "You can light it on fire and burn things...\nWe could use it for light now, too."
+    },
+    {
+      "key": "EP01_S0362_0005",
+      "value": "But we can’t grab it now. The cobwebs are in\nthe way."
+    },
+    {
+      "key": "EP01_S0362_0006",
+      "value": "Hyaaah! ...Yeesh, you aren’t kidding. Not\neven my claws can dig it out. Ewww, so sticky..."
+    },
+    {
+      "key": "EP01_S0362_0007",
+      "value": "Hmm, I bet it would be useful to us, but\nwe have to take care of those webs first..."
+    },
+    {
+      "key": "EP01_S0362_0008",
+      "value": "Hey, what the heck’re you guys doing?"
+    },
+    {
+      "key": "EP01_S0362_0009",
+      "value": "Oh, it’s you, Ryo. Uh, how do I explain..."
+    },
+    {
+      "key": "EP01_S0362_0010",
+      "value": "I heard ya, I heard ya. Trying to melt webs,\nright? Jeez, let me sneak right up on you..."
+    },
+    {
+      "key": "EP01_S0362_0011",
+      "value": "Kewww..."
+    },
+    {
+      "key": "EP01_S0362_0012",
+      "value": "I bet vinegar would do the trick.."
+    },
+    {
+      "key": "EP01_S0362_0013",
+      "value": "Really? You think so?"
+    },
+    {
+      "key": "EP01_S0362_0014",
+      "value": "I went around my house as a kid putting\nstickers on stuff. Man, my mom was piiissed."
+    },
+    {
+      "key": "EP01_S0362_0015",
+      "value": "Back then, I was taught that it’s easier to\nremove stickers with vinegar."
+    },
+    {
+      "key": "EP01_S0362_0016",
+      "value": "Man, my mommy sure was cool back then..."
+    },
+    {
+      "key": "EP01_S0362_0017",
+      "value": "Kewy?"
+    },
+    {
+      "key": "EP01_S0362_0018",
+      "value": "Mommy...?"
+    },
+    {
+      "key": "EP01_S0362_0019",
+      "value": "I, I didn’t say nothing!"
+    },
+    {
+      "key": "EP01_S0362_0020",
+      "value": "Anyway, all you need to know is that vinegar\nunsticks the sticky stuff!"
+    },
+    {
+      "key": "EP01_S0362_0021",
+      "value": "Vinegar, uh... Thanks, Ryo, that’s a big\nhelp."
+    },
+    {
+      "key": "EP01_S0362_0022",
+      "value": "Hmph..."
+    },
+    {
+      "key": "EP01_S0362_0023",
+      "value": "We’d better look for some vinegar, Agumon.\nLets go!"
+    },
+    {
+      "key": "EP01_S0362_0024",
+      "value": "Way ahead of you!"
+    },
+    {
+      "key": "EP01_S0362_0025",
+      "value": "Vinegar works against sticky stuff. Not\na lotta places they’d keep it in school, huh?"
+    },
+    {
+      "key": "EP01_S0362_0026",
+      "value": "Ick, the webs even got inside the drawers..."
+    },
+    {
+      "key": "EP01_S0362_0027",
+      "value": "Hmm? Is this...a spirit lamp?"
+    },
+    {
+      "key": "EP01_S0362_0028",
+      "value": "Huh, what kinda gadget is that? How do we use\nthis thing?"
+    },
+    {
+      "key": "EP01_S0362_0029",
+      "value": "You can light it on fire and burn things...\nWe could use it for light now, too."
+    },
+    {
+      "key": "EP01_S0362_0030",
+      "value": "But we can’t grab it now. The cobwebs are in\nthe way."
+    },
+    {
+      "key": "EP01_S0362_0031",
+      "value": "Hyaaah! ...Yeesh, you aren’t kidding. Not\neven my claws can dig it out. Ewww, so sticky..."
+    },
+    {
+      "key": "EP01_S0362_0032",
+      "value": "Hmm, I bet it would be useful to us, but\nwe have to take care of those webs first..."
+    },
+    {
+      "key": "EP01_S0362_0033",
+      "value": "Let’s leave it alone for now."
+    },
+    {
+      "key": "EP01_S0362_0034",
+      "value": "We can’t do anything with those webs in the\nway. Let’s leave it be."
+    },
+    {
+      "key": "EP01_S0362_0035",
+      "value": "I tried pouring some vinegar on the webs, but\nI didn’t see any difference..."
+    },
+    {
+      "key": "EP01_S0362_0036",
+      "value": "I didn’t say it’d work on the webs. Just that\nit stops sticky things from being sticky."
+    },
+    {
+      "key": "EP01_S0362_0037",
+      "value": "Hyaaah! Ohhh, look, Takuma! It isn’t sticky\nanymore!"
+    },
+    {
+      "key": "EP01_S0362_0038",
+      "value": "I can pull the webs off, no problem!"
+    },
+    {
+      "key": "EP01_S0362_0039",
+      "value": "Really?! Go on, then, take care of the rest!"
+    },
+    {
+      "key": "EP01_S0362_0040",
+      "value": "Way ahead of you!"
+    },
+    {
+      "key": "EP01_S0362_0041",
+      "value": "There, I took it all off!"
+    },
+    {
+      "key": "EP01_S0362_0042",
+      "value": "That vinegar really did the trick. Thanks\nagain, Ryo!"
+    },
+    {
+      "key": "EP01_S0362_0043",
+      "value": "Yeah, thanks!"
+    },
+    {
+      "key": "EP01_S0362_0044",
+      "value": "Kewwwy!"
+    },
+    {
+      "key": "EP01_S0362_0045",
+      "value": "Whatever. Don’t get worked up over every\nlittle thing..."
+    },
+    {
+      "key": "EP01_S0362_0201",
+      "value": "(Still, there’s not a lot of this stuff left.\nBetter use it wisely.)"
+    },
+    {
+      "key": "EP01_S0362_0046",
+      "value": "Now we can take the spirit lamp with us."
+    },
+    {
+      "key": "EP01_S0362_0047",
+      "value": "Oh, but we’ll need something to light it.\nHopefully we find something around here..."
+    },
+    {
+      "key": "EP01_S0362_0048",
+      "value": "You want fire? I can spit fire, you know!"
+    },
+    {
+      "key": "EP01_S0362_0049",
+      "value": "Wait, WHAT? You can do that, too?"
+    },
+    {
+      "key": "EP01_S0362_0050",
+      "value": "Yeah! I’m strong, I tell ya!"
+    },
+    {
+      "key": "EP01_S0362_0051",
+      "value": "I see... And how strong is this flame,\nexactly?"
+    },
+    {
+      "key": "EP01_S0362_0052",
+      "value": "Well, we’ll cross that bridge when we come\nto it."
+    },
+    {
+      "key": "EP01_S0362_0053",
+      "value": "At least we got our hands on something good.\nNow we just have to find Aoi!"
+    },
+    {
+      "key": "EP01_S0362_0054",
+      "value": "To the search!"
+    },
+    {
+      "key": "EP01_S0362_0055",
+      "value": "...Huh, that’s strange."
+    },
+    {
+      "key": "EP01_S0362_0056",
+      "value": "This room is falling apart, but the lamp is\nin good shape."
+    },
+    {
+      "key": "EP01_S0362_0057",
+      "value": "Just like the first-aid kit Aoi found. This\nkeeps getting weirder and weirder..."
+    },
+    {
+      "key": "EP01_S0362_0058",
+      "value": "I tried pouring some vinegar on the webs, but\nI didn’t see any difference..."
+    },
+    {
+      "key": "EP01_S0362_0059",
+      "value": "Hyaaah! Ohhh, look, Takuma! It isn’t sticky\nanymore!"
+    },
+    {
+      "key": "EP01_S0362_0060",
+      "value": "I can pull the webs off, no problem!"
+    },
+    {
+      "key": "EP01_S0362_0061",
+      "value": "Really?! Go on, then, take care of the rest!"
+    },
+    {
+      "key": "EP01_S0362_0062",
+      "value": "Way ahead of you!"
+    },
+    {
+      "key": "EP01_S0362_0063",
+      "value": "There, I took it all off!"
+    },
+    {
+      "key": "EP01_S0362_0202",
+      "value": "You did it, Agumon!"
+    },
+    {
+      "key": "EP01_S0362_0203",
+      "value": "(Still, there’s not a lot of this stuff left.\nBetter use it wisely.)"
+    },
+    {
+      "key": "EP01_S0362_0064",
+      "value": "That vinegar really did the trick."
+    },
+    {
+      "key": "EP01_S0362_0065",
+      "value": "And it’s all thanks to Ryo..."
+    },
+    {
+      "key": "EP01_S0362_0066",
+      "value": "I’m sure he’s safe, Takuma. Let’s do our best\nto save him!"
+    },
+    {
+      "key": "EP01_S0362_0067",
+      "value": "Yeah...yeah, you’re right. We’ll rescue\neveryone who got taken!"
+    },
+    {
+      "key": "EP01_S0362_0068",
+      "value": "We can’t light this spirit lamp, but maybe\nit’ll be useful somehow. I’ll take it."
+    },
+    {
+      "key": "EP01_S0362_0069",
+      "value": "You want fire? I can spit fire, you know!"
+    },
+    {
+      "key": "EP01_S0362_0070",
+      "value": "Wait, WHAT? You can do that, too?"
+    },
+    {
+      "key": "EP01_S0362_0071",
+      "value": "Yeah! I’m strong, I tell ya!"
+    },
+    {
+      "key": "EP01_S0362_0072",
+      "value": "I see... And how strong is this flame,\nexactly?"
+    },
+    {
+      "key": "EP01_S0362_0073",
+      "value": "Well, we’ll cross that bridge when we come\nto it."
+    },
+    {
+      "key": "EP01_S0362_0074",
+      "value": "At least we got our hands on something good.\nNow we just have to save the others!"
+    }
+  ]
+}

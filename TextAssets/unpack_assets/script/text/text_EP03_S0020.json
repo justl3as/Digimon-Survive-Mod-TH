@@ -1,0 +1,848 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S0020_0001",
+      "value": "Morning, Agumon."
+    },
+    {
+      "key": "EP03_S0020_0002",
+      "value": "Morning, Takuma!"
+    },
+    {
+      "key": "EP03_S0020_0003",
+      "value": "Hm, looks like Minoru and the others are\nstill asleep."
+    },
+    {
+      "key": "EP03_S0020_0004",
+      "value": "I wonder if the girls are up."
+    },
+    {
+      "key": "EP03_S0020_0005",
+      "value": "Yeah, I wonder. Wanna go see?"
+    },
+    {
+      "key": "EP03_S0020_0006",
+      "value": "Um...nah, better not. They’ll come to the\ncafeteria when they’re ready anyway."
+    },
+    {
+      "key": "EP03_S0020_0007",
+      "value": "(After finding Shuuji and Saki yesterday, we\nmanaged to make it back here safe.)"
+    },
+    {
+      "key": "EP03_S0020_0008",
+      "value": "(But I was not ready for the conversation\nthat happened next.)"
+    },
+    {
+      "key": "EP03_S0020_0009",
+      "value": "Well, I’m sure we’re all pretty worn out, in\nmore ways than one. We should get some rest."
+    },
+    {
+      "key": "EP03_S0020_0010",
+      "value": "Yeah, I can barely stay on my feet."
+    },
+    {
+      "key": "EP03_S0020_0011",
+      "value": "Shuuji...what’s wrong?"
+    },
+    {
+      "key": "EP03_S0020_0012",
+      "value": "Ugh... Stay away from me."
+    },
+    {
+      "key": "EP03_S0020_0013",
+      "value": "I’m sorry..."
+    },
+    {
+      "key": "EP03_S0020_0014",
+      "value": "Uh, wait, am I missing something? You don’t\nexpect all of us to sleep in here, do you?"
+    },
+    {
+      "key": "EP03_S0020_0015",
+      "value": "There’s plenty of space. What’s the problem?"
+    },
+    {
+      "key": "EP03_S0020_0016",
+      "value": "Look at all these nice clean sheets, too."
+    },
+    {
+      "key": "EP03_S0020_0017",
+      "value": "No, I mean, boys and girls in the same room!"
+    },
+    {
+      "key": "EP03_S0020_0018",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP03_S0020_0019",
+      "value": "Hey, don’t worry about it. We’ve got way\nbigger problems than that right now."
+    },
+    {
+      "key": "EP03_S0020_0020",
+      "value": "Are you crazy? How is this something you\nexpect me to just not worry about?"
+    },
+    {
+      "key": "EP03_S0020_0021",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP03_S0020_0022",
+      "value": "Girls need privacy! What about when we need\nto get changed or take a bath?"
+    },
+    {
+      "key": "EP03_S0020_0023",
+      "value": "She does have a point. Up until now, I’ve\njust been doing all that somewhere else."
+    },
+    {
+      "key": "EP03_S0020_0024",
+      "value": "What? So you boys had her go off on her own?\nThat’s awful! Show some consideration!"
+    },
+    {
+      "key": "EP03_S0020_0025",
+      "value": "Yeah, you tell them, Saki!"
+    },
+    {
+      "key": "EP03_S0020_0026",
+      "value": "Floramon, please do not make things worse."
+    },
+    {
+      "key": "EP03_S0020_0027",
+      "value": "But we never know when we might be attacked.\nWe thought it was safest to stick together."
+    },
+    {
+      "key": "EP03_S0020_0028",
+      "value": "Anywhere in the school would be fine!"
+    },
+    {
+      "key": "EP03_S0020_0029",
+      "value": "Or is that your deviant little excuse to spy\non us while we get changed? Ugh, gross!"
+    },
+    {
+      "key": "EP03_S0020_0030",
+      "value": "What?! Takuma?"
+    },
+    {
+      "key": "EP03_S0020_0031",
+      "value": "No! It’s not like that at all!"
+    },
+    {
+      "key": "EP03_S0020_0032",
+      "value": "What does she mean, “deviant”?"
+    },
+    {
+      "key": "EP03_S0020_0033",
+      "value": "You don’t know, Agumon? It’s something that\nchanges from one thing into another."
+    },
+    {
+      "key": "EP03_S0020_0034",
+      "value": "Like a caterpillar that becomes a butterfly.\nIsn’t that right, Kunemon?"
+    },
+    {
+      "key": "EP03_S0020_0035",
+      "value": "Kew, kew?"
+    },
+    {
+      "key": "EP03_S0020_0036",
+      "value": "Wow, you’re both really smart."
+    },
+    {
+      "key": "EP03_S0020_0037",
+      "value": "That sounds like evolving!"
+    },
+    {
+      "key": "EP03_S0020_0038",
+      "value": "Hee hee! If there’s ever anything you want to\nknow, just ask me!"
+    },
+    {
+      "key": "EP03_S0020_0039",
+      "value": "No, I believe in this instance... On second\nthought, never mind."
+    },
+    {
+      "key": "EP03_S0020_0040",
+      "value": "The point is, we should have separate rooms."
+    },
+    {
+      "key": "EP03_S0020_0041",
+      "value": "Honestly, I hadn’t really thought about it\nbefore, but Saki’s right."
+    },
+    {
+      "key": "EP03_S0020_0042",
+      "value": "It seems like an obvious thing to me."
+    },
+    {
+      "key": "EP03_S0020_0043",
+      "value": "Hmph, like it even matters. We’re never\ngetting out of here... Never..."
+    },
+    {
+      "key": "EP03_S0020_0044",
+      "value": "I feel like we’re being wrongly accused here.\nLook, what do you think, Takuma?"
+    },
+    {
+      "key": "EP03_S0020_Q1",
+      "value": "(Separate rooms for boys and girls? Hmm...)"
+    },
+    {
+      "key": "EP03_S0020_Q1_A1",
+      "value": "Saki’s right."
+    },
+    {
+      "key": "EP03_S0020_Q1_A2",
+      "value": "Safety in numbers."
+    },
+    {
+      "key": "EP03_S0020_0045",
+      "value": "Saki’s right."
+    },
+    {
+      "key": "EP03_S0020_0046",
+      "value": "Saki has a point. I feel like we’ve been\nrude."
+    },
+    {
+      "key": "EP03_S0020_0047",
+      "value": "No, I should have said something."
+    },
+    {
+      "key": "EP03_S0020_0048",
+      "value": "Don’t blame yourself, Aoi. They’re the ones\nwho need to apologize."
+    },
+    {
+      "key": "EP03_S0020_0049",
+      "value": "Really, Saki, it’s okay."
+    },
+    {
+      "key": "EP03_S0020_0050",
+      "value": "As for where the two of you should sleep...\nHaru, can I ask something?"
+    },
+    {
+      "key": "EP03_S0020_0051",
+      "value": "Safety in numbers."
+    },
+    {
+      "key": "EP03_S0020_0052",
+      "value": "Like I said before, we might get attacked at\nany time. There’s safety in numbers, right?"
+    },
+    {
+      "key": "EP03_S0020_0053",
+      "value": "I don’t know... I think you’d need a lot of\nguts to try and make that argument again."
+    },
+    {
+      "key": "EP03_S0020_0054",
+      "value": "And don’t let Saki hear you. She’d lose it."
+    },
+    {
+      "key": "EP03_S0020_0055",
+      "value": "Good point. In that case, Haru, can I ask you\nsomething?"
+    },
+    {
+      "key": "EP03_S0020_0056",
+      "value": "How would everybody feel if the girls slept\nin the music room with Haru and Miyuki?"
+    },
+    {
+      "key": "EP03_S0020_0057",
+      "value": "Miyuki’s a girl, and Haru’s still young."
+    },
+    {
+      "key": "EP03_S0020_0058",
+      "value": "I guess I’d be okay with that."
+    },
+    {
+      "key": "EP03_S0020_0059",
+      "value": "Yeah, me too."
+    },
+    {
+      "key": "EP03_S0020_0060",
+      "value": "Okay, so, would it be all right if these two\nslept in the music room with you?"
+    },
+    {
+      "key": "EP03_S0020_0061",
+      "value": "Yeah, sure."
+    },
+    {
+      "key": "EP03_S0020_0062",
+      "value": "Sure... "
+    },
+    {
+      "key": "EP03_S0020_0063",
+      "value": "Thanks."
+    },
+    {
+      "key": "EP03_S0020_0200",
+      "value": "What? But we don’t..."
+    },
+    {
+      "key": "EP03_S0020_0201",
+      "value": "... "
+    },
+    {
+      "key": "EP03_S0020_0202",
+      "value": "(Hmm? Miyuki’s giving Haru some kind of\nlook...)"
+    },
+    {
+      "key": "EP03_S0020_0203",
+      "value": "*sigh*... Fine. It’s okay, I guess."
+    },
+    {
+      "key": "EP03_S0020_0204",
+      "value": "Great, thanks a bunch."
+    },
+    {
+      "key": "EP03_S0020_0205",
+      "value": "(Did she convince him? She may be on the\nquiet side, but she is the older of the two.)"
+    },
+    {
+      "key": "EP03_S0020_0064",
+      "value": "All right, now seriously, let’s all get some\nrest."
+    },
+    {
+      "key": "EP03_S0020_0206",
+      "value": "(Can’t say I expected Saki to jump to that\nconclusion... Give a guy a little credit!)"
+    },
+    {
+      "key": "EP03_S0020_0207",
+      "value": "(Still, could be that she’s just kicking up\na fuss to put on a brave face.)"
+    },
+    {
+      "key": "EP03_S0020_0208",
+      "value": "(We were freaking out about losing everyone,\nthen ran into the professor.)"
+    },
+    {
+      "key": "EP03_S0020_0209",
+      "value": "(And then look what happened to him...)"
+    },
+    {
+      "key": "EP03_S0020_0210",
+      "value": "(Oh, we all agreed to meet in the cafeteria\nlast night, right? Maybe I should head over.)"
+    },
+    {
+      "key": "EP03_S0020_0065",
+      "value": "(Thinking back on it now, Saki was right, and\nI’m glad we agreed to meet in the cafeteria.) "
+    },
+    {
+      "key": "EP03_S0020_0066",
+      "value": "(Besides, she didn’t bring it up, but she\nmust’ve been upset about the professor.)"
+    },
+    {
+      "key": "EP03_S0020_0067",
+      "value": "Morning, Takuma."
+    },
+    {
+      "key": "EP03_S0020_0068",
+      "value": "Hey, Minoru. Morning."
+    },
+    {
+      "key": "EP03_S0020_0069",
+      "value": "..."
+    },
+    {
+      "key": "EP03_S0020_0070",
+      "value": "..."
+    },
+    {
+      "key": "EP03_S0020_0071",
+      "value": "Ryo, Shuuji, good morning to you too."
+    },
+    {
+      "key": "EP03_S0020_0072",
+      "value": "(Minoru doesn’t exactly look chipper, but\nthese two seem particularly upset.)"
+    },
+    {
+      "key": "EP03_S0020_0073",
+      "value": "(Not that I blame them, after what we saw.)"
+    },
+    {
+      "key": "EP03_S0020_0074",
+      "value": "I... I... What am I supposed to do now,\nProfessor?"
+    },
+    {
+      "key": "EP03_S0020_0075",
+      "value": "I still can’t believe what happened. Even\nnow, it doesn’t seem real."
+    },
+    {
+      "key": "EP03_S0020_0076",
+      "value": "*sniff*... *sob*..."
+    },
+    {
+      "key": "EP03_S0020_0077",
+      "value": "Yeah, same here. It just... It just doesn’t\nseem right."
+    },
+    {
+      "key": "EP03_S0020_0078",
+      "value": "(Crying about it now isn’t going to change\nanything.)"
+    },
+    {
+      "key": "EP03_S0020_0079",
+      "value": "(On some level, we all know that, but that\ndoesn’t make it any easier to swallow.)"
+    },
+    {
+      "key": "EP03_S0020_0080",
+      "value": "(The professor was the only adult here, and\nhe vanished into the fog.)"
+    },
+    {
+      "key": "EP03_S0020_0081",
+      "value": "(Now it’s just us kids. And none of us know what to do.)"
+    },
+    {
+      "key": "EP03_S0020_0082",
+      "value": "Man, we’ve got all these people to go\nadventuring with..."
+    },
+    {
+      "key": "EP03_S0020_0083",
+      "value": "But it’s no fun if everyone’s down in the dumps."
+    },
+    {
+      "key": "EP03_S0020_0084",
+      "value": "Yes. Even my jokester of a partner seems\nrather despondent."
+    },
+    {
+      "key": "EP03_S0020_0085",
+      "value": "I wish we could cheer them up."
+    },
+    {
+      "key": "EP03_S0020_0086",
+      "value": "I know! I’ll do something silly to make them\nlaugh!"
+    },
+    {
+      "key": "EP03_S0020_0087",
+      "value": "No! Don’t do that! Can’t you read the room?"
+    },
+    {
+      "key": "EP03_S0020_0088",
+      "value": "The room?! How? You can read rooms?!"
+    },
+    {
+      "key": "EP03_S0020_0089",
+      "value": "What?! Oh, uh, that’s...not what that means."
+    },
+    {
+      "key": "EP03_S0020_0090",
+      "value": "Aaah! Help!"
+    },
+    {
+      "key": "EP03_S0020_0091",
+      "value": "Now, now. Agumon doesn’t mean anything by it."
+    },
+    {
+      "key": "EP03_S0020_0092",
+      "value": "Are you guys always like this?"
+    },
+    {
+      "key": "EP03_S0020_0093",
+      "value": "Such behavior is typical for Agumon. Likewise\nfor Kunemon and myself."
+    },
+    {
+      "key": "EP03_S0020_0094",
+      "value": "Kew?"
+    },
+    {
+      "key": "EP03_S0020_0095",
+      "value": "Labramon isn’t here right now, but she\nusually keeps Agumon in line."
+    },
+    {
+      "key": "EP03_S0020_0096",
+      "value": "Oh, okay. Things didn’t get so rowdy with us."
+    },
+    {
+      "key": "EP03_S0020_0097",
+      "value": "The professor kept everyone going, while\nFloramon and Saki would encourage me."
+    },
+    {
+      "key": "EP03_S0020_0098",
+      "value": "Yes, from what I saw yesterday, your partner\nseems rather unreliable."
+    },
+    {
+      "key": "EP03_S0020_0099",
+      "value": "Even though he’s the biggest one?"
+    },
+    {
+      "key": "EP03_S0020_0100",
+      "value": "Bigger doesn’t always mean better. Besides,\nhe seems rather harsh with Lopmon."
+    },
+    {
+      "key": "EP03_S0020_0101",
+      "value": "It... It’s not that bad."
+    },
+    {
+      "key": "EP03_S0020_0102",
+      "value": "Well, all of our partners are young. We\ncannot expect them to be perfect."
+    },
+    {
+      "key": "EP03_S0020_0103",
+      "value": "It falls to us to protect and support them so\nthey might act properly."
+    },
+    {
+      "key": "EP03_S0020_0104",
+      "value": "I... I’m the oldest one here. I have to do\nbetter."
+    },
+    {
+      "key": "EP03_S0020_0105",
+      "value": "I’m going...to do this, Professor. Just\nwatch. I’ll get everyone out of here. I will."
+    },
+    {
+      "key": "EP03_S0020_0106",
+      "value": "Okay, everybody! We...we need to make a plan."
+    },
+    {
+      "key": "EP03_S0020_0107",
+      "value": "We can’t just keep g-grieving forever!"
+    },
+    {
+      "key": "EP03_S0020_0108",
+      "value": "*sniff*...*sniff*..."
+    },
+    {
+      "key": "EP03_S0020_0109",
+      "value": "Those tears don’t exactly help your argument,\nShuuji."
+    },
+    {
+      "key": "EP03_S0020_0110",
+      "value": "I... I know...but!"
+    },
+    {
+      "key": "EP03_S0020_0111",
+      "value": "I need to be strong!\n*sob*... *sniff*...!"
+    },
+    {
+      "key": "EP03_S0020_0112",
+      "value": "Uh, it’d be great if you could actually pull\nit together, but...that doesn’t seem likely."
+    },
+    {
+      "key": "EP03_S0020_0113",
+      "value": "Minoru, try to appreciate what Shuuji is\ngoing through."
+    },
+    {
+      "key": "EP03_S0020_0114",
+      "value": "He spent a lot more time with the professor,\nso it’s a bigger loss for him. Give him time."
+    },
+    {
+      "key": "EP03_S0020_0115",
+      "value": "I mean, I’d like to, but we kinda need Shuuji\nas our leader."
+    },
+    {
+      "key": "EP03_S0020_0116",
+      "value": "After him, the next oldest is Aoi. Oh, and\nRyo, I guess."
+    },
+    {
+      "key": "EP03_S0020_0117",
+      "value": "Of those three, Shuuji’s the only real\nchoice."
+    },
+    {
+      "key": "EP03_S0020_0118",
+      "value": "Mommy’s alive... Mommy... Hee hee...\nHee-hee hee..."
+    },
+    {
+      "key": "EP03_S0020_0119",
+      "value": "Ugh, would you stop? You’re creeping me out.\nWhat’s with all the mumbling lately?"
+    },
+    {
+      "key": "EP03_S0020_0211",
+      "value": "Still, we have to pull ourselves together...\n*hic*... Ungh..."
+    },
+    {
+      "key": "EP03_S0020_0120",
+      "value": "Minoru’s right. Now that the professor’s\ngone, I need to step up!"
+    },
+    {
+      "key": "EP03_S0020_0121",
+      "value": "(Yeah. We definitely can’t spend all our time\ngrieving.)"
+    },
+    {
+      "key": "EP03_S0020_0122",
+      "value": "We need to assess the situation. Now, you\ntold me about the school and your supplies..."
+    },
+    {
+      "key": "EP03_S0020_0123",
+      "value": "Actually, now that I think of it, how did you\nspend the night, Shuuji?"
+    },
+    {
+      "key": "EP03_S0020_0124",
+      "value": "...Outside."
+    },
+    {
+      "key": "EP03_S0020_0125",
+      "value": "Yikes, that’s rough."
+    },
+    {
+      "key": "EP03_S0020_0126",
+      "value": "I... I was constantly on the run, getting\nchased around. It felt like I was doomed."
+    },
+    {
+      "key": "EP03_S0020_0127",
+      "value": "(No wonder he’s been so overwhelmed by\neverything.)"
+    },
+    {
+      "key": "EP03_S0020_0128",
+      "value": "(He spent an entire day running for his\nlife.)"
+    },
+    {
+      "key": "EP03_S0020_0212",
+      "value": "(No wonder he’s been so high-strung this\nwhole time.)"
+    },
+    {
+      "key": "EP03_S0020_0213",
+      "value": "(I’d be the same if I spent an entire day\nrunning for my life...)"
+    },
+    {
+      "key": "EP03_S0020_0129",
+      "value": "All right, let me tell you everything that\nhappened from the beginning."
+    },
+    {
+      "key": "EP03_S0020_0130",
+      "value": "(I explained about how we found the school,\nmeeting Agumon and the others...)"
+    },
+    {
+      "key": "EP03_S0020_0131",
+      "value": "(...the fight against the spider monster,\nmeeting Haru and Miyuki, and more.)"
+    },
+    {
+      "key": "EP03_S0020_0132",
+      "value": "Wow, you guys have been through a lot, too."
+    },
+    {
+      "key": "EP03_S0020_0133",
+      "value": "Yeah, but I’d still say you were the ones\nplaying in hard mode."
+    },
+    {
+      "key": "EP03_S0020_0134",
+      "value": "True. If it hadn’t been for the professor,\nI don’t know what might have happened."
+    },
+    {
+      "key": "EP03_S0020_0135",
+      "value": "Just the thought of being hunted down by that\nterrifying thing... No thanks!"
+    },
+    {
+      "key": "EP03_S0020_0136",
+      "value": "What even was that, anyway?! It kept babbling\non about children and sacrifices..."
+    },
+    {
+      "key": "EP03_S0020_0214",
+      "value": "That fits with what the professor had said\nabout the Kemonogami and human sacrifices."
+    },
+    {
+      "key": "EP03_S0020_0215",
+      "value": "Maybe we wouldn’t be in the dark like this if\nwe could just ask the guy—er, I mean..."
+    },
+    {
+      "key": "EP03_S0020_0216",
+      "value": "...I should probably shut my mouth, huh."
+    },
+    {
+      "key": "EP03_S0020_0217",
+      "value": "Yeah, there’s no turning back the clock\nnow..."
+    },
+    {
+      "key": "EP03_S0020_0218",
+      "value": "One thing’s for sure—there are some weird\nmonsters out there. Not to mention that fog."
+    },
+    {
+      "key": "EP03_S0020_0137",
+      "value": "One thing’s for sure, there’s some weird\nmonsters out there. Not to mention that fog."
+    },
+    {
+      "key": "EP03_S0020_0138",
+      "value": "Yeah, that big wolf thing just vanished right\ninto it."
+    },
+    {
+      "key": "EP03_S0020_0139",
+      "value": "I wonder what happens if you get swallowed by\nthe fog."
+    },
+    {
+      "key": "EP03_S0020_0219",
+      "value": "Can’t say. Agumon and the others want nothing\nto do with it, that’s for sure."
+    },
+    {
+      "key": "EP03_S0020_0220",
+      "value": "Clearly we’d better watch our step, too."
+    },
+    {
+      "key": "EP03_S0020_0221",
+      "value": "When you’re right, you’re right... "
+    },
+    {
+      "key": "EP03_S0020_0140",
+      "value": "Anyway, if this is where child sacrifices are\n“banished,” like the professor thought,"
+    },
+    {
+      "key": "EP03_S0020_0141",
+      "value": "then Minoru’s right. We’re not in the real\nworld anymore."
+    },
+    {
+      "key": "EP03_S0020_0142",
+      "value": "I don’t know if this is the future or another\ndimension, but it’s nowhere normal."
+    },
+    {
+      "key": "EP03_S0020_0143",
+      "value": "What if there’s just copies of the school and\nthe mountain way out over these ruins?"
+    },
+    {
+      "key": "EP03_S0020_0144",
+      "value": "What if this is all some kind of huge prank?"
+    },
+    {
+      "key": "EP03_S0020_0145",
+      "value": "What’s a prank?"
+    },
+    {
+      "key": "EP03_S0020_0146",
+      "value": "It’s this type of joke where you trick people\nfor laughs, especially celebrities."
+    },
+    {
+      "key": "EP03_S0020_0147",
+      "value": "Although, I can’t see the point of going to\nall this effort just to prank us."
+    },
+    {
+      "key": "EP03_S0020_0148",
+      "value": "So, if this isn’t a prank..."
+    },
+    {
+      "key": "EP03_S0020_0149",
+      "value": "If this is another world, it would help\nexplain some things."
+    },
+    {
+      "key": "EP03_S0020_0150",
+      "value": "Like, why hasn’t there been any sign of\na rescue team? Not even a helicopter?"
+    },
+    {
+      "key": "EP03_S0020_0151",
+      "value": "It’s not like this place is that remote. It\nhas trails, a shrine, and an old school."
+    },
+    {
+      "key": "EP03_S0020_0152",
+      "value": "I-I don’t want to hear this!"
+    },
+    {
+      "key": "EP03_S0020_0153",
+      "value": "(Shuuji falls silent after Ryo’s outburst,\nbut the implications are clear.)"
+    },
+    {
+      "key": "EP03_S0020_0154",
+      "value": "(If this isn’t our world, it won’t matter how\nlong we wait. Help isn’t coming.)"
+    },
+    {
+      "key": "EP03_S0020_0155",
+      "value": "Rrright, let’s try to stay calm. I shouldn’t\nsay anything to upset you."
+    },
+    {
+      "key": "EP03_S0020_0156",
+      "value": "We need to think about how we’re going to get\nout of here."
+    },
+    {
+      "key": "EP03_S0020_0157",
+      "value": "*sniff*...*sob*..."
+    },
+    {
+      "key": "EP03_S0020_0158",
+      "value": "Takuma, this isn’t getting us anywhere."
+    },
+    {
+      "key": "EP03_S0020_0159",
+      "value": "Shuuji’s just crying at this point."
+    },
+    {
+      "key": "EP03_S0020_0160",
+      "value": "I’m sorry..."
+    },
+    {
+      "key": "EP03_S0020_0161",
+      "value": "*mumble* *mumble*"
+    },
+    {
+      "key": "EP03_S0020_0162",
+      "value": "And Ryo is losing it. It’s not even worth\npicking on him like this."
+    },
+    {
+      "key": "EP03_S0020_0163",
+      "value": "You shouldn’t pick on him at all."
+    },
+    {
+      "key": "EP03_S0020_0164",
+      "value": "Kew! Kew!"
+    },
+    {
+      "key": "EP03_S0020_0165",
+      "value": "Well, you heard Kunemon. I suggest we\nreconvene somewhere else."
+    },
+    {
+      "key": "EP03_S0020_0166",
+      "value": "Yeah and besides, I’m getting hungry."
+    },
+    {
+      "key": "EP03_S0020_0167",
+      "value": "And we should hear what the girls have to\nsay."
+    },
+    {
+      "key": "EP03_S0020_0168",
+      "value": "(Those are all good points.)"
+    },
+    {
+      "key": "EP03_S0020_Q2",
+      "value": "(We should get our priorities straight...)"
+    },
+    {
+      "key": "EP03_S0020_Q2_A1",
+      "value": "Let’s start with food."
+    },
+    {
+      "key": "EP03_S0020_Q2_A2",
+      "value": "Let’s ask the girls."
+    },
+    {
+      "key": "EP03_S0020_0169",
+      "value": "I’m feeling hungry."
+    },
+    {
+      "key": "EP03_S0020_0170",
+      "value": "Let’s start with something to eat. It’s\nharder to think on an empty stomach."
+    },
+    {
+      "key": "EP03_S0020_0171",
+      "value": "You said it! And man, am I starving."
+    },
+    {
+      "key": "EP03_S0020_0172",
+      "value": "Maybe by now the girls will be in the\ncafeteria, too."
+    },
+    {
+      "key": "EP03_S0020_0173",
+      "value": "We can talk over breakfast."
+    },
+    {
+      "key": "EP03_S0020_0174",
+      "value": "Let’s ask the girls."
+    },
+    {
+      "key": "EP03_S0020_0175",
+      "value": "We’ll need their input before we make any\ndecisions anyway."
+    },
+    {
+      "key": "EP03_S0020_0176",
+      "value": "Uh, yeah, that’s true."
+    },
+    {
+      "key": "EP03_S0020_0177",
+      "value": "Then let’s pick this up again in the\ncafeteria, because I am starving!"
+    },
+    {
+      "key": "EP03_S0020_0178",
+      "value": "All right, we can talk over breakfast."
+    },
+    {
+      "key": "EP03_S0020_0179",
+      "value": "(Oh, and come to think of it, I still need to\nuse the bathroom.)"
+    },
+    {
+      "key": "EP03_S0020_0180",
+      "value": "Uh, you guys go on ahead, okay?"
+    },
+    {
+      "key": "EP03_S0020_0181",
+      "value": "Why? Something wrong, Takuma?"
+    },
+    {
+      "key": "EP03_S0020_0182",
+      "value": "I just need to use the bathroom. Be right\nthere!"
+    },
+    {
+      "key": "EP03_S0020_0183",
+      "value": "Oh, okay. You could’ve just said so."
+    }
+  ]
+}

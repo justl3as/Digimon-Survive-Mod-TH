@@ -1,0 +1,340 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S4015_0001",
+      "value": "Miu! You’re not hurt, are you?!"
+    },
+    {
+      "key": "EP09_S4015_0002",
+      "value": "No, I’m all right. Boy, that was scary!"
+    },
+    {
+      "key": "EP09_S4015_0003",
+      "value": "I’m so sorry. I got so caught up in the fight\nthat we got separated."
+    },
+    {
+      "key": "EP09_S4015_0004",
+      "value": "I failed you as a brother..."
+    },
+    {
+      "key": "EP09_S4015_0005",
+      "value": "That’s why...back then, I couldn’t..."
+    },
+    {
+      "key": "EP09_S4015_0006",
+      "value": "Seriously! You never really see me!"
+    },
+    {
+      "key": "EP09_S4015_0007",
+      "value": "You always push me behind you, and show your\nback to me. You never turn my way!"
+    },
+    {
+      "key": "EP09_S4015_0008",
+      "value": "Urk..."
+    },
+    {
+      "key": "EP09_S4015_0009",
+      "value": "Miu depends on you, you know. So ya see..."
+    },
+    {
+      "key": "EP09_S4015_0010",
+      "value": "You gotta actually hear her out, not just\nkeep her outta harm’s way, okay, big bro?"
+    },
+    {
+      "key": "EP09_S4015_0011",
+      "value": "Yeah, big bro!"
+    },
+    {
+      "key": "EP09_S4015_0012",
+      "value": "I had no idea..."
+    },
+    {
+      "key": "EP09_S4015_0013",
+      "value": "I’m sorry, Miu. I guess I never had it in me\nto really think about what you wanted, and—"
+    },
+    {
+      "key": "EP09_S4015_0014",
+      "value": "Yes, great, now ain’t this a pretty picture.\nBut look around, it’s about to get ugly here!"
+    },
+    {
+      "key": "EP09_S4015_0015",
+      "value": "The fog... It’s creeping closer!"
+    },
+    {
+      "key": "EP09_S4015_0016",
+      "value": "Yeah, so time to go!"
+    },
+    {
+      "key": "EP09_S4015_0017",
+      "value": "The others have already evacuated. We’re the\nonly ones left. We should try and catch up."
+    },
+    {
+      "key": "EP09_S4015_0018",
+      "value": "Everyone? So all the others are safe? Really?"
+    },
+    {
+      "key": "EP09_S4015_0019",
+      "value": "Saki and Aoi did everything they could."
+    },
+    {
+      "key": "EP09_S4015_0020",
+      "value": "We’ll have to thank them, too...\nRight, Miu?"
+    },
+    {
+      "key": "EP09_S4015_0021",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP09_S4015_0022",
+      "value": "Okay, let’s go!"
+    },
+    {
+      "key": "EP09_S4015_0023",
+      "value": "...ELP..."
+    },
+    {
+      "key": "EP09_S4015_0024",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP09_S4015_0025",
+      "value": "...ME... ...ELP...ME...HELP..."
+    },
+    {
+      "key": "EP09_S4015_0026",
+      "value": "Oh! I just heard a voice!\nSomeone’s still here!"
+    },
+    {
+      "key": "EP09_S4015_0027",
+      "value": "I didn’t hear anything.\nSure you didn’t imagine it?"
+    },
+    {
+      "key": "EP09_S4015_0028",
+      "value": "No, I heard it, I swear! Over there..."
+    },
+    {
+      "key": "EP09_S4015_0029",
+      "value": "Miu! Hey, come back! You know you can’t just\nrun off on your own!"
+    },
+    {
+      "key": "EP09_S4015_0030",
+      "value": "But you guys can’t hear it, can you? That\nmeans I gotta lead the way!"
+    },
+    {
+      "key": "EP09_S4015_0031",
+      "value": "We don’t have time for a side trip! You know\nwhat it means when the fog gets thicker!"
+    },
+    {
+      "key": "EP09_S4015_0032",
+      "value": "Of course I know! That doesn’t mean I can\njust abandon them!"
+    },
+    {
+      "key": "EP09_S4015_0033",
+      "value": "I was the queen here for a little while, you\nknow! These guys are like family to me!"
+    },
+    {
+      "key": "EP09_S4015_0034",
+      "value": "I won’t abandon them, not ever! I’d never let\nthem experience such sadness..."
+    },
+    {
+      "key": "EP09_S4015_0035",
+      "value": "Wait, Miu! I’ll go with you!"
+    },
+    {
+      "key": "EP09_S4015_0036",
+      "value": "Hey, hold on! I said it’s—"
+    },
+    {
+      "key": "EP09_S4015_0037",
+      "value": "Wait... Hold up, is this what she’s talking\nabout when she goes off on me?"
+    },
+    {
+      "key": "EP09_S4015_0038",
+      "value": "I mean, it’s not like you’re wrong, Kaito."
+    },
+    {
+      "key": "EP09_S4015_0039",
+      "value": "Yeah, it’s way too dangerous to go alone at\na time like this!"
+    },
+    {
+      "key": "EP09_S4015_0040",
+      "value": "Yeah... Yeah, you’re right. C’mon, man, we\ngotta go after her!"
+    },
+    {
+      "key": "EP09_S4015_0041",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP09_S4015_0042",
+      "value": "HELP...ME..."
+    },
+    {
+      "key": "EP09_S4015_0043",
+      "value": "Don’t worry, your queen is here to save you!"
+    },
+    {
+      "key": "EP09_S4015_0044",
+      "value": "Hey Miu! You find them already?!"
+    },
+    {
+      "key": "EP09_S4015_0045",
+      "value": "Yeah, over here, Kaito!"
+    },
+    {
+      "key": "EP09_S4015_0046",
+      "value": "YEAH... YOU FOUND ME, ALL RIGHT."
+    },
+    {
+      "key": "EP09_S4015_0047",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP09_S4015_0048",
+      "value": "(The creature in front of Miu...turned into\nfog?!)"
+    },
+    {
+      "key": "EP09_S4015_0049",
+      "value": "FUUUSSSHAAAAAAAAAAAA!"
+    },
+    {
+      "key": "EP09_S4015_0050",
+      "value": "Is that...an enemy?! Is this a trick?!"
+    },
+    {
+      "key": "EP09_S4015_0051",
+      "value": "Miu...!!!"
+    },
+    {
+      "key": "EP09_S4015_0052",
+      "value": "(Oh no! Kaito, Syakomon... Neither of them\ncan reach her in time!)"
+    },
+    {
+      "key": "EP09_S4015_0053",
+      "value": "Kaito—"
+    },
+    {
+      "key": "EP09_S4015_0054",
+      "value": "MIUUUUUUUUU!"
+    },
+    {
+      "key": "EP09_S4015_0055",
+      "value": "The fog swallowed her up...!"
+    },
+    {
+      "key": "EP09_S4015_0056",
+      "value": "Wait, Miu! I’m... I’m...!"
+    },
+    {
+      "key": "EP09_S4015_0057",
+      "value": "My...my legs..."
+    },
+    {
+      "key": "EP09_S4015_0058",
+      "value": "Kaito, what’s wrong?"
+    },
+    {
+      "key": "EP09_S4015_0059",
+      "value": "Wha’...what am I hesitating for?! I’ve gotta\ngo save her...!"
+    },
+    {
+      "key": "EP09_S4015_0060",
+      "value": "No, Kaito!\nYou’ll get sucked into the fog, too!"
+    },
+    {
+      "key": "EP09_S4015_0061",
+      "value": "Shaddup! Let me go! I... Miu... I’ll be too\nlate!"
+    },
+    {
+      "key": "EP09_S4015_0062",
+      "value": "UWAAAAAAAAAAAAAAAAAAAAAAAAH!"
+    },
+    {
+      "key": "EP09_S4015_0063",
+      "value": "Syakomon!"
+    },
+    {
+      "key": "EP09_S4015_0064",
+      "value": "(Syakomon’s body is disappearing?! Just like\nwhat happened back with Ryo!)"
+    },
+    {
+      "key": "EP09_S4015_0065",
+      "value": "Yeah... That’s how it goes.\nSorry, Miu, everyone..."
+    },
+    {
+      "key": "EP09_S4015_0066",
+      "value": "I couldn’t...protect her. My...precious..."
+    },
+    {
+      "key": "EP09_S4015_0067",
+      "value": "Syakomon!!! No... It can’t be..."
+    },
+    {
+      "key": "EP09_S4015_0068",
+      "value": "Hey! HEY!!! What happened to Miu?! Answer\nme!!!"
+    },
+    {
+      "key": "EP09_S4015_0069",
+      "value": "Urk..."
+    },
+    {
+      "key": "EP09_S4015_0070",
+      "value": "(The only reason I survived being swallowed\nup by the fog was because Miyuki was there.)"
+    },
+    {
+      "key": "EP09_S4015_0071",
+      "value": "(Miu was swallowed up, and Syakomon\nvanished... That can only mean...)"
+    },
+    {
+      "key": "EP09_S4015_0072",
+      "value": "...Shit!"
+    },
+    {
+      "key": "EP09_S4015_0073",
+      "value": "No! Don’t go, Kaito!!!"
+    },
+    {
+      "key": "EP09_S4015_0074",
+      "value": "...Let go of me!"
+    },
+    {
+      "key": "EP09_S4015_0075",
+      "value": "She’s... She’s gone..."
+    },
+    {
+      "key": "EP09_S4015_0076",
+      "value": "Don’t you get it, man?!\nMiu’s gone!!!"
+    },
+    {
+      "key": "EP09_S4015_0077",
+      "value": "You don’t know that! I can’t... I can’t\nbelieve that...!"
+    },
+    {
+      "key": "EP09_S4015_0078",
+      "value": "She could still be alive, just like that time\nwith you!"
+    },
+    {
+      "key": "EP09_S4015_0079",
+      "value": "Let GO of me, goddammit! LET GOOOOOO!"
+    },
+    {
+      "key": "EP09_S4015_0080",
+      "value": "Dracmon, Agumon. We need to get Kaito out of\nhere."
+    },
+    {
+      "key": "EP09_S4015_0081",
+      "value": "B-but... Takuma..."
+    },
+    {
+      "key": "EP09_S4015_0082",
+      "value": "At this rate, everyone will get sucked up by\nthe fog. I won’t let that happen."
+    },
+    {
+      "key": "EP09_S4015_0083",
+      "value": "Yeah... I can’t let Kaito die, too."
+    },
+    {
+      "key": "EP09_S4015_0084",
+      "value": "Let’s go, Kaito. I’ll get you out of here\nif I have to drag you myself!"
+    }
+  ]
+}

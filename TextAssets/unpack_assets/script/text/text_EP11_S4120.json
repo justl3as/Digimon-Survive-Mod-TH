@@ -1,0 +1,212 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S4120_0001",
+      "value": "Oh my gosh, it’s... It must be Kaito that did\nthis!"
+    },
+    {
+      "key": "EP11_S4120_0002",
+      "value": "What is it, Aoi?!"
+    },
+    {
+      "key": "EP11_S4120_0003",
+      "value": "Over here, Takuma! Look!"
+    },
+    {
+      "key": "EP11_S4120_0004",
+      "value": "Is that an enemy? Looks like someone took\ncare of it already..."
+    },
+    {
+      "key": "EP11_S4120_0005",
+      "value": "It must have been Kaito! I caught a glimpse\nof someone deeper in the forest."
+    },
+    {
+      "key": "EP11_S4120_0006",
+      "value": "Really?!"
+    },
+    {
+      "key": "EP11_S4120_0007",
+      "value": "I think the person I saw was Kaito. There was\na shadow that looked like Dracmon, too."
+    },
+    {
+      "key": "EP11_S4120_0008",
+      "value": "But they disappeared so fast..."
+    },
+    {
+      "key": "EP11_S4120_0009",
+      "value": "Which way did they go?!"
+    },
+    {
+      "key": "EP11_S4120_0010",
+      "value": "That way, deeper into the woods."
+    },
+    {
+      "key": "EP11_S4120_0011",
+      "value": "(That’s the opposite of the direction to the\nschool.)"
+    },
+    {
+      "key": "EP11_S4120_0012",
+      "value": "(We should divide in two. One group to tell\nthe others, and one to follow Kaito.)"
+    },
+    {
+      "key": "EP11_S4120_0013",
+      "value": "(Aoi should probably go with the ones looking\nfor Kaito...)"
+    },
+    {
+      "key": "EP11_S4120_0014",
+      "value": "(But she’s so desperate to find him, I feel\nlike she might do something rash.)"
+    },
+    {
+      "key": "EP11_S4120_0015",
+      "value": "Listen, Takuma. Agumon."
+    },
+    {
+      "key": "EP11_S4120_0016",
+      "value": "Huh? What?!"
+    },
+    {
+      "key": "EP11_S4120_0017",
+      "value": "I’ll go get everyone."
+    },
+    {
+      "key": "EP11_S4120_0018",
+      "value": "I want you two to follow after Kaito and\nDracmon."
+    },
+    {
+      "key": "EP11_S4120_0019",
+      "value": "Are you sure? I know you’re worried about\nhim..."
+    },
+    {
+      "key": "EP11_S4120_0020",
+      "value": "And you’re worried about trusting me with\nthat. It’s written all over your face."
+    },
+    {
+      "key": "EP11_S4120_0021",
+      "value": "Um..."
+    },
+    {
+      "key": "EP11_S4120_0022",
+      "value": "We don’t have the time to discuss this.\nPlease, Takuma."
+    },
+    {
+      "key": "EP11_S4120_0023",
+      "value": "(I know she wants to, but she’s counting on\nme to do it instead.)"
+    },
+    {
+      "key": "EP11_S4120_0024",
+      "value": "(I can’t say no to that.)"
+    },
+    {
+      "key": "EP11_S4120_Q1",
+      "value": "(How should I respond to Aoi?)"
+    },
+    {
+      "key": "EP11_S4120_Q1_A1",
+      "value": "We’ll find him."
+    },
+    {
+      "key": "EP11_S4120_Q1_A2",
+      "value": "I’m on it."
+    },
+    {
+      "key": "EP11_S4120_Q1_A3",
+      "value": "Are you sure?"
+    },
+    {
+      "key": "EP11_S4120_0025",
+      "value": "We’ll find him."
+    },
+    {
+      "key": "EP11_S4120_0026",
+      "value": "All right, I’ll find him. I promise."
+    },
+    {
+      "key": "EP11_S4120_0027",
+      "value": "And in case we find him before everyone gets\nback, we’ll be waiting here."
+    },
+    {
+      "key": "EP11_S4120_0028",
+      "value": "I knew you’d say that, Takuma."
+    },
+    {
+      "key": "EP11_S4120_0029",
+      "value": "Please keep him safe, Agumon."
+    },
+    {
+      "key": "EP11_S4120_0030",
+      "value": "Of course! Good luck informing the others!"
+    },
+    {
+      "key": "EP11_S4120_0031",
+      "value": "Let’s get going then, Labramon!"
+    },
+    {
+      "key": "EP11_S4120_0032",
+      "value": "Roger that!"
+    },
+    {
+      "key": "EP11_S4120_0033",
+      "value": "I’m on it."
+    },
+    {
+      "key": "EP11_S4120_0034",
+      "value": "I’m on it. We’ll find him!"
+    },
+    {
+      "key": "EP11_S4120_0035",
+      "value": "Sorry to ask so much of you. I’ll be back\nbefore long."
+    },
+    {
+      "key": "EP11_S4120_0036",
+      "value": "Let’s hurry and get this over with, Aoi."
+    },
+    {
+      "key": "EP11_S4120_0037",
+      "value": "Right! Thanks, Takuma."
+    },
+    {
+      "key": "EP11_S4120_0038",
+      "value": "Are you sure?"
+    },
+    {
+      "key": "EP11_S4120_0039",
+      "value": "Are you sure you don’t want to go after him\nyourself?"
+    },
+    {
+      "key": "EP11_S4120_0040",
+      "value": "Huh? Why would you say that?"
+    },
+    {
+      "key": "EP11_S4120_0041",
+      "value": "You’re really focused, so I don’t doubt you\ncan do it. And I thought you might want to..."
+    },
+    {
+      "key": "EP11_S4120_0042",
+      "value": "Can’t you see she’s trying to be thoughtful\nand restrain herself? Sheesh!"
+    },
+    {
+      "key": "EP11_S4120_0043",
+      "value": "Don’t mess with her like that! We don’t have\nthe time!"
+    },
+    {
+      "key": "EP11_S4120_0044",
+      "value": "Sorry! Me and Agumon will go after Kaito\nthen..."
+    },
+    {
+      "key": "EP11_S4120_0045",
+      "value": "Ugh! Come on, Aoi, let’s go!"
+    },
+    {
+      "key": "EP11_S4120_0046",
+      "value": "Sorry to ask so much of you. I’ll be back\nbefore long."
+    },
+    {
+      "key": "EP11_S4120_0047",
+      "value": "Thanks for the help, Takuma! And Agumon, too!"
+    },
+    {
+      "key": "EP11_S4120_0048",
+      "value": "Sure thing! You can count on us!"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "DS_memoir": [
+    {
+      "key": "MEMOIR_PAGE_01",
+      "value": "Perceived Memories"
+    },
+    {
+      "key": "MEMOIR_PAGE_02",
+      "value": "Perceived Memories"
+    },
+    {
+      "key": "MEMOIR_TITLE_01",
+      "value": "Spirited Away"
+    },
+    {
+      "key": "MEMOIR_TITLE_02",
+      "value": "All in the Seasoning"
+    },
+    {
+      "key": "MEMOIR_TITLE_03",
+      "value": "The Tale of the Mural"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_01",
+      "value": "Chapter 1"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_02",
+      "value": "Chapter 2"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_03",
+      "value": "Chapter 3"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_04",
+      "value": "Chapter 4"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_05",
+      "value": "Chapter 5"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_11",
+      "value": "Chapter 1"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_12",
+      "value": "Chapter 2"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_13",
+      "value": "Chapter 3"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_14",
+      "value": "Chapter 4"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_15",
+      "value": "Chapter 5"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_21",
+      "value": "Chapter 1"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_22",
+      "value": "Chapter 2"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_23",
+      "value": "Chapter 3"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_24",
+      "value": "Chapter 4"
+    },
+    {
+      "key": "MEMOIR_CHAPTER_25",
+      "value": "Chapter 5"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_01",
+      "value": "I continued on through the woods.\n\nWhat? Strange, the road should keep going past here.\n\nShoot, guess I’ll have to head back the way I—\n\nBut as I turn around...\n\nWait, what? How can this be?! The road I came down is\ngone...\n\nThis can’t be happening! Even if this is the shrine’s\nforbidden ground, it isn’t big enough to get lost in.\n\nDamn, how could this happen to me? I was just looking for\nsomething to eat..."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_02",
+      "value": "\n...Oh man. Okay. I just need to get down the mountain.\n\nI’m okay, I’m okay. I can survive on my own!\n\nThere’s nothing to be scared of. Papa went to fight in the\nwar. Mama was in the house when the air raids sent it up\nin flames.\n\nWith no one to turn to, I came out to this village in the\nsticks to be with relatives.\n\nMy grandparents were cold—cruel, even. Made me fend for\nmyself."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_03",
+      "value": "\nOther adults, children, all the same: they treated an\noutsider like me with disgust.\n\nDamn...damn their eyes! Why do they have to look at me\nlike that?!\n\nPapa fights for this land! Mama died protecting our home!\n\nAnd me, I’m doing everything I can! I’ll get big and\nstrong, become a soldier like my papa!\n\nSo why...why do you treat me like a burden?"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_04",
+      "value": "\nA shrine lay at the end of my desperate advance.\n\nI’d always climbed the mountain on my own. I had nowhere\nelse to go, and hunger clawed at me.\n\nThe abundance of wild vegetables meant I never lacked\nsustenance. And even better, no one was around to\nbother me.\n\nThe people of the village always said that coming in here\nwould get you spirited away, but that’s just an old wives’\ntale.\n\nFine by me! What do they know?! I’ll live on my own from\nnow on!\n\nI passed through the shrine, and into the woods beyond..."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_05",
+      "value": "\nAnd here I’d tried to spur myself on, yet...I can’t find a\npath, no matter how far I go.\n\nFor heaven’s sake...am I going to die?\n\nWithout helping my country? With everyone treating me as\na burden?\n\nDamn, I can’t take it. I don’t want to die...\n\nPapa, Mama...\n\nHmm? What’s that curious sound?\nI turned at the sound of it.\n\n“Wh-who’s there?!”\n\n“...Huhhh? Say, are you...one of those human children?”\n\n“...Um, what?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_06",
+      "value": "\nThe blazes? What is this strange beast?\n\n“Are...are you a demon?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_07",
+      "value": "\nI’d somehow lost my way in the mountain while scrounging\nfor food.\n\nTraipsing through he woods, I was just about to give up\nwhen a queer creature appeared before me.\n\nIt clearly wasn’t human, from the looks of it. Yet it\napproached me, speaking my language.\n\n“Wha...what are you, a demon?! Stay away from me!”\n\n“Yipes! What’s your problem?! Stop throwing rocks at me!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_08",
+      "value": "\nThe demon pathetically defended itself from the stones\nI threw.\n\nUpon closer inspection, it seems pretty weak. Maybe it\nisn’t a bad monster?\n\n“So...you don’t want to eat me?”\n\n“Eat you?! Perish the thought! I just wanna be your\nfriend!”\n\n“My...friend?”\n\nIf a monster suddenly showed up talking about being\nfriends with you, anyone would get scared, wouldn’t they?"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_09",
+      "value": "\nBut the strange thing is, I trusted what it said almost\nimmediately.\n\nI couldn’t put my finger on it, but one thing was clear:\nthis creature was on my side.\n\n“All right, sure. I... I want to be your friend, too.”\n\n“Honest?! Yaaay, I’m so happy!”\n\n“Say, um, sorry about throwing that stuff at you. Did\nI hurt you?”\n\n“I’m pretty tough, no worries. Still, it’s nice to know\nyou care, hee hee!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_10",
+      "value": "\n“Shut up. You’ve got a mouth on you, for a monster.”\n\n“Again with that ‘monster,’ ‘monster.’ You’ve got me\npegged wrong, y’know?”\n\n“Excuse me?”\n\n“Hmph, don’t think I fully trust you yet. I’m calling it\nlike I see it!”\n\n“Oh boy... Well, what should I call you, anyway?”\n\n“Me? My name is...”\n\nJust like that, this strange monster joined me for a time.\n\nStrange indeed, but...I didn’t mind. It was on my side,\nafter all."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_11",
+      "value": "\nFor now, I’ll head back to the village, show off my new\nfriend, and prove to that lot who looked down on me just\nhow wrong they are.\n\nHeh, I’m sure all of them will be blown away! Ahh, I can\nhardly wait... That just means I have to get down this\nmountain that much faster."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_12",
+      "value": "\nI met a strange monster while lost on the mountain, and\ntogether, we somehow made it back down.\n\nEven so, what greeted me in the foothills was not the\nvillage I knew...\n\n“Wha’-what? A cliff? There shouldn’t be one in a place\nlike this. Did, did we come down the wrong side of the\nmountain? Ha, haha, that’s it, right?”\n\nThe monster regarded my confusion with a vacant stare of\nits own."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_13",
+      "value": "\n“Uhh, I’m not sure what the problem is. Hasn’t it always\nbeen like this around here?”\n\n“B-but what about my village? Forget the village, just\ntake me someplace with people!”\n\n“Hey, just, just calm down, okay?\nThere’s no village in these parts, and I’d NEVER seen\na human before you!”\n\n“...Come again?”\n\nAccording to the monster, this area is teeming with\ncreatures just like it. On rare occasions, humans will\nwander to this place."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_14",
+      "value": "\nSome of the monsters believe that human children have\nmysterious power, and kidnap them for it.\n\n“But don’t worry! I’ll protect you. If a bad guy like that\ncomes around, I’ll send them packing!”\n\n“What, what are you talking about... Hahaha...”\n\nIn other words, this is another world. I really have been\nspirited away.\n\n“So does that mean I’ll never go back to my own world?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_15",
+      "value": "\n“Hey, don’t cry! It’ll be okay, I’m here for you!”\n\nAfter that, I languished day after day; doing nothing,\npassing the time in a despondent daze.\n\nThe monster stayed at my side, giving me food and teaching\nme about this world.\n\nIt was pretty irritating at first, but perhaps it was the\nonly reason I retained my sanity."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_16",
+      "value": "\n“Back where I come from, everyone treated me like\na nuisance. I always...always lived with a bitter taste in\nmy mouth.”\n\n“So that’s how it was...”\n\n“But this place is different. There’s plenty to eat, no\none to resent...\n\nAnd most of all...you’re here.\n\nI’m going to live here now. There’s nowhere for me to\nreturn to back home. I want to forget everything, and stay\nhere with you.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_17",
+      "value": "\n“...Okay. If that’s what you want. Let’s make it a happy\nlife, then!”\n\n“Hee hee, yeah, let’s do it!”\n\nI’m going to live here. Me and the monster, together!"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_18",
+      "value": "\nMy time with the monster was peaceful once I’d decided to\nlive in this world.\n\nUnlike the days of resentment I had endured, my life in\nthis world was free of strife.\n\n“Hey, where do you want to go today?”\n\n“Hmm, there’s nothing but cliffs around here, not a lot of\nspots to check out.\n\nOh, I know! If we go somewhere high up, we could see\na long, long way, right?”\n\n“Somewhere high up? In other words...”\n\n“You know it! Let’s head to the mountaintop!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_19",
+      "value": "\nSo we traveled up to the summit, but from there it was\nnothing but tall cliffs around us, with only forest\nbeyond.\n\n“Welp, I guess there’s no one else around after all.”\n\n“...You were looking for other humans?”\n\n“I just thought, maybe there were others you didn’t know\nabout. Guess I was wrong, though. I really am all alone—”\n\nThen at the edge of my vision, I saw something\nunbelievable.\n\n“Ah! But that’s...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_20",
+      "value": "\n“Hmm? What is it?”\n\n“Look, to the south! It’s, it’s a city! I know that\nplace... Yes, no doubt about it! That’s my old city!”\n\n“What?”\n\nIt was the city I’d lived in with my mama and papa. I was\nsure it’d been razed to the ground, but it was back!\n\n“We have to go!”\n\n“A city, he says... I don’t see anything like that?”\n\nI made a mad dash for the city.\n\n“Yes, I knew it! This is my city! Just the way it was!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_21",
+      "value": "\n*huff* *huff*... “Hey, is there something here? I don’t\nsee a thing!”\n\n“Seriously? Get your eyes checked! See here, this is my\nhouse!”\n\n“Um, all I see are rocks and cliffs. Hey, are you okay?\nMaybe we should go back and—”\n\n“...Oh I get it. A monster’s a monster, after all. I bet\nyou plan on spiriting me away.”\n\n“How could you say such a thing? I wouldn’t do something\nlike that!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_22",
+      "value": "\n“Shut up, you freak! Get away from me! I’m going home,\ndon’t get in my way!”\n\nJust then, a voice near and dear to me echoed through my\nhead.\n\n“That voice...oh! Mama? Ha...ha ha ha! I knew it! It’s\nyou, Mama! I’m so glad you’re all right!”\n\n“Wait, hold on! Don’t go off by yourself!”\n\n“Mama! Mama! I understand, I’ll come with you!”\n\n“Just wait for me, please! I beg you!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_23",
+      "value": "\nI tried to stop him, really I did. But he ran off without\nanother thought.\n\n*huff* *huff* “Oh no... I’ve totally lost sight of him...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_24",
+      "value": "\nHow much time has passed? The boy was long gone, I hadn’t\ncaught hide or hair of him since.\n\nI know all the spots he would usually go to, and yet...\nI still don’t sense him anywhere.\n\nI’m worried... I’m scared. It’s lonely, being by myself.\nDid I rely on the boy so much?\n\nI couldn’t believe my eyes when we first met: a child so\nweak, so unwilling to trust. He wasn’t long for this\nworld, I figured."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_25",
+      "value": "\nI was real happy! I mean, the strong protect the weak,\nright? So if I protect this kid, that means I’m strong!\n\nYeah, everyone will change their minds. If I get stronger,\nno one will make fun of me.\n\nI didn’t care if the child trusted me or not. Or so\nI thought...\n\nHe was so down once he knew he couldn’t go back to his\nworld.\n\nSometimes he’d wander off looking for something, eyes cast\nsadly to the ground."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_26",
+      "value": "\nIt isn’t like he trusted me or anything. He just sat there\nall mopey, like nothing mattered.\n\nMy chest tightened when I saw him like that...\n\nI would put on a blatant brave front—saying I could live\nhere, all the while shivering when I was on my own.\nLooking at him, I finally realized... He’s just like me.\n\nMy brave front, my unwillingness to trust people; it was\nall to hide my own weakness."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_27",
+      "value": "\nI didn’t want anyone to hate me for how weak and pathetic\nI was.\n\nWhen I realized that, I thought... I thought we could\nfinally be real friends. So then why? Why did you run\naway?\n\n“Come on, I’m begging you... Don’t leave me by my\nlonesome.”\n\nAs I ran around looking for him, a bizarre pain wracked my\nbody.\n\n“Ouch! Wha’, augh... GWAAAAAAAAAUGH!!!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_28",
+      "value": "\nMy body was so hot—wait, cold? At any rate, the discomfort\nfrightens me...\n\nOne thing was for sure: I was about to disappear.\n\nBoy, what a way to go. If things were gonna turn out like\nthis, I should’ve... No, this couldn’t have gone any other\nway. Our connection was messed up from the start.\n\nNo trust, putting ourselves first. There’s no way we’d be\nfriends.\n\nOf course it’d end like this. Still, at least..."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_29",
+      "value": "\n“Augh, rrrgh! At least... At least let that boy be safe!\nAH, UWAAAAAAAAAGH!”\n\nBefore things went totally dark, I thought I saw the\nchild.\n\nFacing an empty space in the same darkness as me, writhing\naround with a broken smile on his face.\n\nGhastly hands grasped his ankles; it looked as though he\nwere being dragged down into a bottomless swamp."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP01_30",
+      "value": "\nThis illusion shown too me at the very end left a vile\ntaste in my mouth. He’s just like me...\n\n“Honestly... What should I...have done?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_01",
+      "value": "\nThat day was the first time I’d ever seen a human child.\n\nI couldn’t explain it well.. How could I know what it was,\nhaving never seen one before?\n\nEven so, the moment I laid eyes on her, my heart leapt.\n“I’ve finally met her!”\n\n“Hey... Hey, you! Are you okay?!\n\n“Mmm hmm...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_02",
+      "value": "\nThe child was obviously in a bad way. I don’t know a thing\nabout humans, but I could tell this one wouldn’t last much\nlonger.\n\nThat baseless, yet assured concern made me desperate to\nlook after her.\n\nI warmed her with fire, fed her nectar... By the time the\nsun was high in the sky, the child finally opened her eyes.\n\n“Ah... Ohhh... What?”\n\n“You’re awake! How do you feel? Does it hurt anywhere?!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_03",
+      "value": "\n“Huh?! Uh, where...? Who are you?”\n\n“Who, me?”\n\n“It’s strange... I feel like you’re not human?”\n\n“Yeah... Well, I’m not like you, that’s for sure. But\ndon’t be scared! I’m a good girl!”\n\n“Girl...? You’re a girl? Huh, who would’ve thunk a creepy\nbody like that belonged to a lady?”\n\n“Creepy?! Of all the rude things to say! And after\nI looked after you all this time!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_04",
+      "value": "\n“Huh? You looked after me? But why?”\n\n“Um, you were on death’s door just a little while ago, you\nknow? Barely breathing, just skin and bones...\n\nWell, the ‘skin and bones’ part hasn’t changed. I mean,\nare you even eating properly?”\n\n“Eating? I don’t get much to eat, no. And not just me,\neveryone’s in the same boat.”\n\n“Wha’... None of your people are eating? What’s going on?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_05",
+      "value": "\nAccording to her tale, the place she came from is going\nthrough an awful harvest.\n\nAnd not just her village: the same was happening all over\nthat land of “Hinomoto,” so her entire world was\ngoing through turmoil.\n\nEven in the royal capital, rice shops were falling into\nruin. With nothing to eat, what else could they do?\n\n“So you see, I was offered as a human sacrifice to beg the\ngods for help.”\n\n“A human sacrifice?!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_06",
+      "value": "\n“Yes. I would go to the land of the gods, and beg them to\nbestow a bounty upon us.”\n\nThis child’s had it rough, that’s for sure. To think\nthey’d offer up an ankle-biter like this...\n\n“And when I woke up, I was here. So were you, and...huh?\nHey, you aren’t a god, are you?”\n\n“Um... What? Me? A god?!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_07",
+      "value": "\n“Well yeah, you’re the first thing I met after becoming\na sacrifice. That must mean you’re a god, huh? Well? Am\nI right, or am I right?”\n\n“Now, now hold on one second! Let me get a word in here!”\n\nThat was the first time I’d ever met a human child, and\nthe first time I’d been treated like a god."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_08",
+      "value": "\nThe girl I’d saved set about entreating me.\n\n“Hey, you’re a god, ain’t you? Save my village, you’ve\njust gotta!”\n\n“How many times do I have to tell you?! I’m not a god or\nanything!”\n\nSaving a human child on the verge of death had gotten it\ntreating me like some deity.\n\nI don’t exactly hate the idea, just...how do I put it...\nIt gives me the heebie jeebies!\n\n“Oh puh-LEASE, your holiness! Save us, I’m begging you!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_09",
+      "value": "\nAs the girl pleaded with me, she wobbled on the spot, her\nstomach growling.\n\n“So...hungry...”\n\n“Ah, hey! Pull yourself together! It’s food! You need\nfood, right?!”\n\n“Ugh... I wanna eat until my stomach bursts.”\n\nThis is bad, I’ve got to do something! I may regret it,\nbut...what choice did I have?\n\nI had to do something.\n\n“Hey, wake up. I made some food!”\n\n“Ooh... Wha’-what? Something smells delicious!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_10",
+      "value": "\nI brought the child to my den. Not just my den—a bunch of\nmy friends live here, too.\n\nNone of us are very strong, so we don’t usually let\noutsiders in... Still, this child shouldn’t be a problem.\n\n“These are my buddies. All of us whipped up some food\nfor you.”\n\n“Wooow, look at all of them... I knew it, this is the land\nof the gods...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_11",
+      "value": "\n“I told you, I’m not... Ahh, forget it. Here, blessings\nfrom the gods. Eat up, short stuff.”\n\n“Yessir! Thank you very much, your holiness!”\n\nThe child reached for a roasted fish, pinched it around\nthe middle, and popped the whole thing into her mouth.\n\n*munch* *munch*... *gulp!* “MMMM, DELICIOUS! I’ve never\nhad anything so tasty in my life!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_12",
+      "value": "\n“Ahaha, you don’t say! That baby’s pretty hard to find,\nyou know! Here, try something else!”\n\n“Okay! Hmm, how about this mushroom, then... Wait, what?\nIs this a mushroom? There’s rocks on it.”\n\n“Oh, you can’t eat those? Then eat around the hard parts.”\n\n“Okay, let’s see...” *chomp* *chomp* *gulp* “Oh wow, this\nis great, too!”\n\n“Whew... Glad you like it!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_13",
+      "value": "\nFrom the looks of it, humans like this girl can’t stomach\neverything we can. What a shame. The minerals on these\nmushrooms taste so good...\n\n“Thank you, my god! This is the first time my belly’s ever\nbeen so full!”\n\n“Is that right? Glad to hear it.”\n\nWe’re different beasts, to be sure... Still, I could feel\nit: the desire to protect her smile."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_14",
+      "value": "\nI learned that humans have things they can and can’t eat.\n\nSeeing as how this child couldn’t eat her fill back in her\nworld, I wanted to give her the chance to do so if I can.\n\nAnd so, I set off with the girl to look for food even\nhumans could eat.\n\n“Oh, I found something good. Here, try this!”\n\n“Huh? What’s this, your holiness? It’s green, and round...\nA vegetable, maybe? Never seen this before...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_15",
+      "value": "\n“Here, first you... Mmph! Split it like this, then eat it.\nOoo, this one’s nice and ripe. Here, try a bite.”\n\n*chomp* *chomp* “Bleaugh! So nasty...”\n\n“Really?! It’s no good?”\n\n“Yuck, so sour...my tongue’s on fire. So gross!\n\n“You think? I can’t get enough of this flavor. Okay, on to\nthe next one! How about this?”\n\n“Hmm? This thin orange thing? I think I’ve seen it\nbefore... You can make some rare medicine out of it.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_16",
+      "value": "\n“Is that right? We just up and eat it. Here, like this...”\n*munch* *crunch*... “Mmm, this chewiness, the faint\nbitterness. So good!”\n\n“Huh! Okay, down the hatch!” *chomp* “Um...your holiness?\nIt’s sooo bitter...”\n\n“Oh dear, I guess it doesn’t suit you. Just spit it out!”\n\n*peh!* “Ugh... My mouth’s all itchy... Hey,\nthere’s no poison in this, is there?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_17",
+      "value": "\n“Ah! I see, some of the stuff we eat might be poisonous to\nyou humans...”\n\nI’m just glad none of what she ate had a bad effect on\nher. If we’re not careful, we might put her life in\ndanger.\n\n“I’m sorry, your holiness... You’re trying so hard to get\nfood for me, and I—”\n\n“Don’t sweat it! If I learn what you can and can’t eat,\nthat way I won’t feed you something bad by accident.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_18",
+      "value": "\n“Wow, you gods sure are a generous bunch! Oh hey, the\nleafy parts aren’t bitter.” *chomp* *chomp*... “Mmm,\npretty sweet, actually!”\n\nWe don’t eat that part.. Still, if this child likes it,\nI’ll feed her all the leaves she wants.\n\n“Hmm? Hey your holiness, what’s that over there?”\n\nThe girl sets eyes on the most dangerous thing we know.\n\n“Hold on! Can’t you see the fog over there? It’s really\ndangerous.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_19",
+      "value": "\n“The fog? What’s so dangerous about it?”\n\n“Well if you touch it, it’ll mess with your head. They say\nyou get swallowed up by the fog, never to return...”\n\nI’d never actually seen this fate befall anyone; still, if\nit’s even possible, I can’t put this child in harm’s way.\n\n“If you say so, I’ll be careful your holiness! All right,\n\nwhat’re that white stone over there?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_20",
+      "value": "\n“Oh, those are just brackish rocks. They don’t fill your\nbelly, or provide any nutrition. Totally useless.”\n\n“I think I’ve seen it before! Just a second!”\n\n“Ah, hey! Don’t go off on your own!”\n\n*lick*... “I knew it! This is salt!”\n\n“Salt?”\n\n“We don’t make it in my village, but it adds flavor to\nanything!”\n\nI’d never seen such an excited look on her face before.\nSomehow, just looking at it got me excited as well."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_21",
+      "value": "\nThat white rock I always spied around here—this “salt” she\nspoke of—turned out to be an amazing discovery.\n\n“Right! Try this, your holiness.”\n\n“You drizzled white rock shavings on the fish? Don’t know\nwhat difference it’ll make, but...” *chomp*\n\n“Wha-wha-whaaaaat?! It’s delicious! Delectable!\nDELIGHTFUL!”\n\n“Heheh, pretty good, ain’t it? Salt’s just the thing for\ngrilled fish.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_22",
+      "value": "\n“What is this?! What’s going on here?! It’s just some\nbriny rock, and yet...”\n\n“We call this ‘cooking’ where I come from. Mother said\nit’s what you do to good food to make it even tastier. She\nsaid she won father’s heart with this.”\n\n“Well, now... Can’t say I get it, but this is something\nelse.”\n\n“You like it, your holiness? Would you like some more?”\n\n“There’s more? Then sure, by all means!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_23",
+      "value": "\n“You got it!” Then she started a fire, boiled some water,\nand set to chopping, stabbing, crushing, and mixing\nthings. I didn’t understand most of it, but it was like\nshe was almost creating the food.\n\nSome things she cooked differently, but the food was all\npretty, especially portioned out on plates. Finally she\nsaid, “All done! I made you grilled fish with boiled\nvegetables.”\n\n“So, this is cooking...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_24",
+      "value": "\n“I made plenty for everyone too! You gods can all have as\nmuch as you like!”\n\nI realized the others had gathered to watch from afar, and\nwhen the girl said this, they all came forward to enjoy\nher “cooking.”\n\nI can’t even describe what that first bite tasted like. It\nwas so good, I thought I could never get enough of it.\n\n“Heheh, do you like it, my god?”\n\n“Oh, I do... I really, really do!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_25",
+      "value": "“I hoped you would. You’ve done so much for me, and\nI haven’t had any way to repay you. I’m so glad you like\nmy cooking.”\n\n“D-don’t say that! You...you never had to repay me for\nanything...” *sniff*\n\n“God? What’s wrong? Why are you crying?”\n\n“I...I’m not crying! Don’t be ridiculous!” *sniff* *sob*"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_26",
+      "value": "\n“Well, if you say so.\n\nIt’s too bad, though. I wish I could’ve cooked a meal like\nthis for Mom and Dad and everyone in my village.”\n\nSo she is homesick. I guess that shouldn’t be a surprise.\nIf there was some way I could send her back, I would, but\nnobody knows how to do something like that.\n\n“Hm? God? Is something wrong?”\n\n“Oh, no, nothing. Do you think you could cook for me again\nsometime?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_27",
+      "value": "\n“Of course! I’ll cook for you all you want! Why don’t we\ntry making something together next time?”\n\n“Ahaha! Good idea! That sounds fun!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_28",
+      "value": "\nIt’s been a long time now since the human girl first\ncooked for me. She’s gone from looking thin and pale to\nfull and hearty. Every now and then, though, she gets this\nsad look on her face, and it breaks my heart to see her\nlike that.\n\n“Oh, look, a potato! We used to grow these in my village!\nThey’re really tasty.”\n\n“They are? Well, around here they grow all over the\nplace.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_29",
+      "value": "\n“Can I take a bunch of them, then? You can do so much with\npotatoes!”\n\n“Take as many as you like! I’m excited to try some new\ncooking.”\n\n“Heheh! Now, what should we make with them? They’re not\nbad on their own, but we could steam them or mash them...”\n\n“Hey...do you...want to go back to your village?”\n\n“Hm? What makes you ask that? I guess...I would like to go\nback and see everyone again, but...”\n\n“...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_30",
+      "value": "\n“...but I’d get lonely without you, my god.”\n\n“You...would?”\n\n“Of course I would. I really care about you.”\n\n“You miss your parents though, don’t you?”\n\n“Yeah, I do. I’d love to see my mom and dad again. But is\nthere some way for me to go back?”\n\n“I... I’m sorry. I don’t know about that any more than you\ndo.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_31",
+      "value": "\n“Yeah, so...it’s not worth thinking about, is it? I’m\nlonely, but...there’s no point worrying about that unless\nwe do find a way back.”\n\n“Yeah, you’re right.”\n\nI’ve always wanted to be the one to look out for her, and\nyet... When did she grow up so much?\n\nThat’s when I realize the fog is everywhere.\n\n“Huh?! Where’d all this fog come from?! Quick! This way!\nYou shouldn’t be out on your own in the fog!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_32",
+      "value": "\n“Mom?”\n\n“What is it?! Do you see something?!”\n\n“It’s my mom. She’s...crying. She’s looking for me but she\ncan’t find me... She’s there, in the fog... Oh, and\nI can...I can hear her crying...”\n\nIn the fog? I can’t see or hear anything, but now the girl\nis crying.\n\n*sob* “Please, my god. I want to go see my mom. I miss her\nso much...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_33",
+      "value": "“Then...go see her. If you miss her that much, you should\ngo to her.”\n\n“Oh, thank you! Don’t worry, I’ll come back to see you\nagain!”\n\n“Right, I’ll be waiting for you!”\n\nI stayed right where I was, watching her run into the fog\nuntil I couldn’t see her anymore.\n\nI guess humans really do belong in the human world. That\nmust be why those giant hands reached out to draw her in."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP02_34",
+      "value": "\nI don’t understand why I hurt so much. Didn’t I do the\nright thing? I hope that girl is happy with her mother.\nI hope I get to see her again.\n\nFor some reason, after the girl vanished into the fog, my\nbody started to break down into little pieces, even though\nI was the one who was just watching. My last thought, as\nI felt myself fading away, was to wonder if the girl made\nit back safely."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_01",
+      "value": "\nI forget how long it’s been since the emissary of the\nshogun told me,\n\n“You are hereby ordered to complete the murals for the new\nshrine. The shogun himself chose you for this task after\nhearing of your great skill. Give this your best efforts.”\n\nI happily accepted the commission, of course, responding\nwith a, “Sir! It is an honor!”\n\nNow here I am, thrilled as I walk up to the entrance of\nthe shrine."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_02",
+      "value": "\nFinally, I thought, my talents are appreciated! Personally\nchosen by the shogun to create the centerpiece for a new\nshrine! I’m sure to be seen as Hinomoto’s chief artist!\nThe thought was enough to make me laugh.\n\n“What’s so funny, you stupid painter? Have you no respect\nfor this shrine?”\n\nWho was this kid? Probably just some brat.\n\n“Oh, if it isn’t the head of the shogun’s personal guard.\nI’m honored.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_03",
+      "value": "\n“Very funny. You’re the rising star. I heard the shogun\npersonally chose you for something?”\n\n“That’s right! I’ll be decorating the walls of a new\nshrine that’s going to be built here with my masterful\nmurals! Mark my words, these works will be spoken of for\ngenerations, like the new reliquary hall at Kitayamatei.”\n\nI was the picture of enthusiasm as I said this, but the\nboy didn’t seem impressed."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_04",
+      "value": "\n“You mean that hall covered in gold leaf? You think it’ll\nbe spoken of for generations? If you ask me, something\nmore subdued would—”\n\n“Hey, got any ideas for the subjects of these murals?”\n\nFor all that I’d accepted this commission, I’d gotten so\ncarried away I still had no idea what to paint.\n\n“Thoroughly self-absorbed, I see.\n\n“As for subjects, are you familiar with the local\nKemonogami faith?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_05",
+      "value": "\n“Nope. What’s a Kemonogami?”\n\n“They say people once performed a ritual here that\ninvolved sending sacrifices to another world. Then\npowerful gods appeared from that other world. They called\nthem the Kemonogami, and some people still worship them.\nA pretty typical local faith.”\n\n“Hmm, the Kemonogami... I like the sound of that! Tell me\nmore about these local gods, or point me to someone who\ncan!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_06",
+      "value": "\n“What a way to ask for help! Anyway, you should talk to\nthe shrine maiden. Her job is to pass on the history of\nthis place, so she knows more than anyone.”\n\n“Great, thanks!”\n\nSo I went to meet with the shrine maiden. She heard me out\nwith composure, then said, “So you would learn more about\nthe Kemonogami faith.”\n\n“Yeah, I got the gist earlier, but I was hoping you could\ntell me something more striking!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_07",
+      "value": "\n“Heheh. You are the very definition of rudeness. How\namusing.”\n\nThe story she told was long and rambling, but the events\nwere fascinating. It was about a boy sacrifice and his\nolder sister.\n\nLong ago, when the world was in chaos, a group of children\nwere sent to another world to save this one. There, in the\nworld of the gods, they gained the power of Kemonogami,\nand brought peace to humanity, or something."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_08",
+      "value": "\nThe shrine maiden spoke of this as a great achievement,\nbut it sounded like pointless human sacrifice to me.\nWhat’s worse, one of those children was a boy sacrificed\nby his own sister.\n\nDid the boy hate her for what she did? What was the girl\nthinking?\n\nAnyway, after hearing the story, I got to work. I threw\nmyself into painting the murals, my head full of what I’d\nheard from the shrine maiden and others."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_09",
+      "value": "\nI lost track of time completely, working until I got tired\nand decided to go out for a break.\n\nI’d been in the dim light of the shrine for so long the\nsunlight stung my eyes.\n\nThen, as my eyes adjusted, I grew completely astonished.\nHowever long I’d been in that shrine, I still remembered\nwhat it looked like outside.\n\n“What is this? Where am I?!” I cried, staring out at an\nentirely different world."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_10",
+      "value": "\nI’d just finished some initial drawings on an important\ncommission, only to find myself in a strange new place.\n\n“What is this? Where am I? Who even am I? No, forget that\nlast one, I’m the world’s best painter!”\n\n“Shut up! Stop yelling right next to me when I’m trying to\nsleep!”\n\n“Huh?! Who’s that?!”\n\nI turned around to find a strange monster at my feet.\n\n“Never mind that! You... You’re a human, aren’t you?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_11",
+      "value": "\n“That’s right! I’m as human as they come! What are you,\nsome kind of spirit?”\n\n“Hahah, well, at least you’ve got spunk. I like your\nattitude!\n\n“I’m gonna see what you’re capable of, Boss!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_12",
+      "value": "\n“Boss, huh? I like that. And if you want to see what I’m\nmade of, look all you want! Though, I am in some trouble\nright now.\n\n“I’m here to paint the murals for this shrine, but while\nI was working everything changed.\n\n“Can you tell me where in Hinomoto this is? Is there\na village nearby?”\n\n“I don’t know about ‘Hinomoto,’ but there’s no village\naround here. You’re the first human I’ve ever seen, Boss!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_13",
+      "value": "\nAccording to this spirit, I seem to have been transported\nto another world, and if the shrine maiden’s legends are\ntrue, no one has ever come back from here alive. That\nmeans nobody knows anything about this place.\n\n“Well that’s not good. I’m really in another world?\nListen, you don’t know of a way to get back, do you? I’ve\ngot a job to do.”\n\n“A way back? I only just found out about your world!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_14",
+      "value": "\n“Well, then... This is going to take some doing.”\n\nIf there was no way for me to get back, I’d have to\nsurvive in this world.\n\n“All right, I’ve made up my mind. I’d better keep working\non those murals.”\n\n“Hey, Boss? What are these ‘murals’ you keep talking\nabout?”\n\n“You don’t know? A mural’s a mural! Er, how can\nI explain... Actually, I’ll just show you. Follow me! Then\nyou’ll see what I’m capable of.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_15",
+      "value": "\nThen the spirit and I went back inside the shrine.\n\n“There! Feast your eyes upon my magnificent murals! Though\nthey’re not done yet.”\n\n“Wow! I’ve never seen anything like these before! I don’t\nknow what to say, they’re incredible! It’s like there’s\na human right there!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_16",
+      "value": "\n“Heheh, it’s nice to see you’re so thoroughly impressed.\nThere’s no higher compliment you can give to an artist.\n\n“I drew these based on legends that I heard about in my\nworld. Who knew I’d wind up living out those legends\nmyself? Gahahaha!”\n\n“Oh, so humans know about us too?”\n\n“Anyway, heheheh, now that I’m here, I can hardly just sit\naround painting all the time.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_17",
+      "value": "\n“What’s with that grin, Boss? Something on your mind?”\n\n“Yeah, this whole world! Ever since I figured out where\nthis was, there’s one thing I’ve just been thrilled about.\nAccording to that shrine maiden, this place is full of\ngods. Like, they’re all over the place! Isn’t that great?!\nI can’t wait to learn more!”\n\n“Oh! You mean you want to learn about us, Boss?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_18",
+      "value": "\n“You bet I do! There’s a whole world out there to explore,\nfull of strange and powerful beings. It’s an artist’s\ndream!\n\nI’m ready to get out there and see the world. Let’s go,\nbuddy!”\n\n“You got it, Boss! Where you lead, I follow!”\n\nAnd so I set out with that spirit-like creature on an\nincredible artistic journey. I didn’t care if we met with\ngood luck or bad, so long as it was fun."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_19",
+      "value": "\nSomehow I’d been transported to another world. The place\nwas brimming with spirit-like beings, and everything about\nit was constantly changing, from the mountains and trees\nto the very ground.\n\n“Whoa! That was a close one!”\n\n“You okay, Boss?”\n\n“I’m fine! One more step, though, and I’d have gone head\nover heals down a cliff!”\n\n“Well, I’m glad you’re all right, but could you try not to\nget so carried away?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_20",
+      "value": "\n“Yeah, sorry. It’s just hard not to react when everything\nhere is so amazing. Right when I thought the ground had\nvanished, a new patch of earth was born in its place. It’s\nlike we can’t trust the ground anymore, and we’re standing\non water. Heheh, I love it! This place is the best!\nI can’t wait to learn all about it!”\n\n“Then I know someone you’ll want to meet, Boss.”\n\n“Sounds great! Take me to ’em!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_21",
+      "value": "\n“You don’t want to hear more? Wait, why am I surprised?\nFollow me!”\n\nSo the spirit led me to a river.\n\n“Found ’em! My friend there’s a real old-timer, and can\nprobably answer any of your questions.”\n\nThen the spirit introduced me to another, more impressive\nspirit. If I’d been on my own, I may have gotten the\nshivers.\n\nInstead, I asked the old-timer my most burning question:\nhow this world came to be."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_22",
+      "value": "\nTo be honest, the answer surprised me. I expected to hear\na myth or a legend, but the way the old-timer talked it\nwas like he’d seen it happen.\n\nIn fact, he said he had! Now that’s an old spirit!\n\nAnd that’s to say nothing of the tale itself, which was\njust astonishing. I learned not only about the creation of\nthis world, but about an even larger truth!\n\n“You satisfied, Boss?”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_23",
+      "value": "\n“I couldn’t ask for more. I want to draw it so badly it’s\nkilling me. Between this and the legend I heard in my\nworld... Well, it’ll make for some incredible art!\nHeheheh!”\n\n“That’s great! Because you won’t be hearing another story\nlike that.”\n\n“Why not?”\n\n“I don’t know any other monster as old as that old-timer.\nThey’ve all been getting lost as this world changes.”\n\n“That...sounds like a real shame.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_24",
+      "value": "\n“Heheh, you comforting me, Boss? Well...thanks, you crazy\nhuman.”\n\n“Listen, Buddy, I can’t go home anymore, but I want to\nkeep painting. The world may be changing, but I’m not\nabout to let that change the core of who I am.”\n\n“Boss...”\n\n“Come on, let’s go. It’s too early for us to just give up.\nI’m going to shake you down to your soul with my\nincredible art!”\n\n“Well, now! That’s something I’ve got to see!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_25",
+      "value": "\nAfter hearing about this world’s creation from that old-\ntimer, part of me was ready to start painting, but another\npart wanted to hear more.\n\nAfter all, that spirit didn’t know everything, and while\nmy buddy said the ancient monsters were disappearing,\nthere had to be more of them.\n\n“Excuse me. Might I speak with you two?”\n\nSomeone had turned up while my buddy and I were in the\nshrine."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_26",
+      "value": "\n“Oh, you must be...\n\n“Boss, you’re in luck! It’s another ancient monster!\n\n“This is amazing! I’ve never met you before!”\n\n“Yes, I heard about you from a mutual friend. Said\nI should speak with the human boy.”\n\nThis was such a stroke of luck, I couldn’t help dancing\nwith joy.\n\n“That’s great! Perfect timing! I was just thinking how I’d\nlove to hear more stories!”\n\nThrilled, I led the old monster into the shrine."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_27",
+      "value": "\n“Ah, so these are what you call paintings. Impressive.\n\n“Oh, but this scene could stand to be more impactful. It’s\ndepicting the moment of the world’s creation, after all.”\n\n“Oh, so you think it should be even grander?”\n\n“Yes, and this one here... How can I put this? The link\nbetween humans and monsters is lacking.\n\n“Once, you know, humans and monsters shared the same\nsoul. It was a world of harmony.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_28",
+      "value": "\n“Shared souls... A world of harmony... Yes, I’ll have to\nstart over.”\n\nMore ancient monsters who’d heard about my work kept\nshowing up. Listening to their tales of how the world used\nto be improved my art.\n\nIt also made me sad that they were now facing extinction.\nIf all their memories, everything they’d lived was going\nto disappear, I wanted to at least capture some of that in\nmy art."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_29",
+      "value": "\n“Hm...this color’s a little off.”\n\n“Hey Boss, you sure you want to leave the art upstairs\nunfinished?”\n\n“Yes, I want to preserve the flow of the story. The order\nis important.”\n\n“Oh, okay. Well, I’m excited to see it when it’s done.”\n\n“It’s not striking enough, but I can’t change the\ncomposition. Should I add lines? What if I painted over\nthis?”\n\n“Just don’t take too long, Boss, or you won’t make it in\ntime.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_30",
+      "value": "\nSeveral days went by as I lost myself in painting.\n\n“Hmm... Hmm... Yes. I’ve captured the impression I got\nfrom hearing all those stories. I don’t think I need to\nadd anything more.”\n\nHow long has it been since I started these murals? I’d\ngotten so absorbed in my work I’d lost all sense of time,\nand now I needed a break.\n\nWhen I went back to the entrance of the shrine, my buddy\nwas standing there stunned."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_31",
+      "value": "\n“Hey Buddy! Let’s take a break. What’re you doing just\nstanding there?”\n\n“Boss, I think we’re out of time.”\n\n“What happened to the exit? Why’s it just a wall now?”\n\n“That’s all that’s left. The doorway’s been sealed and\nthis world is about to end. Who knows what’s happening out\nthere?”\n\n“Hmph!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_32",
+      "value": "\n“Boss? Where are you going?! You’re heading back inside?!”\n\n“That’s right! I haven’t finished my murals, and if we\ncan’t leave, all that’s left for me to do is paint!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_33",
+      "value": "\n“Damn it! So what if the world is ending? I need to finish\nthese murals! I just need to do the coloring, but that’s\nthe part that takes the longest!”\n\nHow much time do I have before the world ends? How much\nmore can I paint?\n\n“Hey, Boss! Something’s on the floor beneath us, and\nI don’t like it!”\n\n“What the—?! Fog?!”\n\n“Boss, no! Don’t touch it! I don’t know what it is, but\nit’s dangerous!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_34",
+      "value": "\n“The fog’s rising in here, and the world’s ending outside.\nHah, talk about being caught between a rock and a hard\nplace! How am I supposed to work like this?”\n\n“Should we run, Boss?”\n\n“There’s nowhere to run to. Besides, if I’m going to die,\nI want to finish these murals. That way part of me will\nlive on.\n\n“...These murals are done. Let’s head up, Buddy.”\n\nAnd so we climbed to the shrine’s upper level."
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_35",
+      "value": "\n“We don’t know when that fog will get us, Boss. You can’t\njust take your time!”\n\n“I know that! I’ll paint as fast as I can! But this mural\nis missing something. The worlds were divided, and the\nfour great beasts subdued the chaos among monsters... But\nwhat about the humans? I need to add them!”\n\n“There’s no time for that! The fog is going to—”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_36",
+      "value": "\n“Shut up! I’m not leaving behind a half-finished legacy!\n\n“There, done! Perfectly colored too. I’m the best! Now for\nthe next one.”\n\n“Boss, the fog is starting to move faster!”\n\n“So before long it’s going to fill the whole shrine? Fine,\nbring it on!” I’d left these murals mostly unfinished, but\nnow we’ll see how fast I can work.\n\n“Oh no! The fog’s starting to pour in!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_37",
+      "value": "\n“Damn it, it’s getting hard to see. This mural is...the\nworlds divided, but with the door between them still in\nplace.” *cough* *gasp*\n\n“Boss?! Did you breathe in the fog? Maybe you should\nrest—”\n\n“I’m fine! I need to finish! This is the end, right? Let\nme finish what I started.”\n\n“Boss...”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_38",
+      "value": "\n“The door...I don’t know what it looks like, so I’ll just\nhave to make it up. What about the two worlds? What must\nit have been like for the creatures living in them?\n\n“There, that’s it! Now for the people and monsters\nmanipulated by the door!\n\n“Okay, how’s that?”\n\n“It’s incredible, Boss! Really striking!”\n\n“Heheh, of course it is! I painted it!” *hack* *cough*"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_39",
+      "value": "\n“Ugh, I’ve breathed in too much fog. It’s getting pretty\nthick in here.\n\n*gasp* *pant* “Just...one more. Let’s...go...”\n\nIt took all my strength to climb up to\nthe top floor of the shrine.\n\n“That’s...funny. I can’t...lift my arm...”\n\n“Boss...let me help.”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_40",
+      "value": "“Couldn’t ask...for more, Buddy. Now...that color goes...\nYeah, you got it.\n\nHeheh, this is...great. I can just...take it easy...”\n\nIt took some time, but we finished painting the mural.\n\n“I’m done painting, Boss. This is...incredible. You really\nare the best. I’ve never seen anything so beautiful.\n\n“Hey, why don’t we go back down and look at them all in\norder? I’m sure I’ll be moved to tears!”"
+    },
+    {
+      "key": "MEMOIR_TEXT_EP03_41",
+      "value": "“Hey, Boss! Boss! Did you hear me? *sob* Wake up, please!\nWe have to go see...all the great murals we painted\ntogether! Please, Boss! Please, wake up!”"
+    }
+  ]
+}

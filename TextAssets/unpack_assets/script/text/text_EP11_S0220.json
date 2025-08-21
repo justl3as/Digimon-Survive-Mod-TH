@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S0220_0001",
+      "value": "Hey, Takuma?"
+    },
+    {
+      "key": "EP11_S0220_0002",
+      "value": "Yeah, Saki? What is it?"
+    },
+    {
+      "key": "EP11_S0220_0003",
+      "value": "Do you remember the first time we saw this\nwhole world? From the top of the TV tower?"
+    },
+    {
+      "key": "EP11_S0220_Q1",
+      "value": "How should I respond to Saki?"
+    },
+    {
+      "key": "EP11_S0220_Q1_A1",
+      "value": "I remember it well."
+    },
+    {
+      "key": "EP11_S0220_Q1_A2",
+      "value": "Did we do that?"
+    },
+    {
+      "key": "EP11_S0220_0004",
+      "value": "I remember it well. There’s no way I’d forget\nsomething like that."
+    },
+    {
+      "key": "EP11_S0220_0005",
+      "value": "Yeah... The school and the shrine were\nfamiliar, but the land was so different..."
+    },
+    {
+      "key": "EP11_S0220_0006",
+      "value": "We could even see the ocean... I was shocked!\nThe whole place had become an island..."
+    },
+    {
+      "key": "EP11_S0220_0007",
+      "value": "Did we do that?\nOh, now that you mention it..."
+    },
+    {
+      "key": "EP11_S0220_0008",
+      "value": "Seriously?! You forgot?"
+    },
+    {
+      "key": "EP11_S0220_0009",
+      "value": "What do you expect, Saki?\nTakuma’s been super busy out here!"
+    },
+    {
+      "key": "EP11_S0220_0010",
+      "value": "Yeah, I guess you’re right. Sorry for saying\nsomething so weird... Forget about it!"
+    },
+    {
+      "key": "EP11_S0220_0011",
+      "value": "What made you think about back then, all of\na sudden?"
+    },
+    {
+      "key": "EP11_S0220_0012",
+      "value": "Yeah, Saki’s kinda out of it."
+    },
+    {
+      "key": "EP11_S0220_0013",
+      "value": "Well, I just got thinking... I wonder what’s\nbeyond this island?"
+    },
+    {
+      "key": "EP11_S0220_0014",
+      "value": "Beyond the island?"
+    },
+    {
+      "key": "EP11_S0220_0015",
+      "value": " Well, yeah! If this is an island, there must\nbe land somewhere else, right?"
+    },
+    {
+      "key": "EP11_S0220_Q2",
+      "value": "Do I think there’s land out there?"
+    },
+    {
+      "key": "EP11_S0220_Q2_A1",
+      "value": "I sure do!"
+    },
+    {
+      "key": "EP11_S0220_Q2_A2",
+      "value": "I can’t imagine it..."
+    },
+    {
+      "key": "EP11_S0220_0016",
+      "value": "I’m sure there is! I can’t imagine this is\nthe only island out there."
+    },
+    {
+      "key": "EP11_S0220_0017",
+      "value": "Huh, I never took you for such a daydreamer."
+    },
+    {
+      "key": "EP11_S0220_0018",
+      "value": "A daydreamer? Are you saying you don’t think\nthere’s anything out there?"
+    },
+    {
+      "key": "EP11_S0220_0019",
+      "value": "Well, sometimes I think so. But thinking that\nway makes me kinda depressed."
+    },
+    {
+      "key": "EP11_S0220_0020",
+      "value": "Hey Floramon, do you know if there are any\nlands in this world besides this one?"
+    },
+    {
+      "key": "EP11_S0220_0021",
+      "value": "Hmm, no idea. I’ve never thought about it."
+    },
+    {
+      "key": "EP11_S0220_0022",
+      "value": "Ahh, all right."
+    },
+    {
+      "key": "EP11_S0220_0023",
+      "value": "Hmm, I can’t even imagine. I’ve had my hands\nfull dealing with this island alone..."
+    },
+    {
+      "key": "EP11_S0220_0024",
+      "value": "You’ve been a busy bee, Takuma!"
+    },
+    {
+      "key": "EP11_S0220_0025",
+      "value": "Yeah... You know, I kind of hope there is."
+    },
+    {
+      "key": "EP11_S0220_0026",
+      "value": "If not, it feels a little claustrophobic."
+    },
+    {
+      "key": "EP11_S0220_0027",
+      "value": "A “world” is a big, wide place, right?\nIf this island is the whole world..."
+    },
+    {
+      "key": "EP11_S0220_0028",
+      "value": "It’s like...a scene in a snow globe."
+    },
+    {
+      "key": "EP11_S0220_0029",
+      "value": "A scene in a snow globe...\nYeah, I see what you mean."
+    },
+    {
+      "key": "EP11_S0220_0030",
+      "value": "Well, it’s no biggie. Just popped into my\nhead. Sorry to bother you with it."
+    },
+    {
+      "key": "EP11_S0220_0031",
+      "value": "I hope there’s more out there... If the whole\nworld’s just an island I swear I’ll freak."
+    },
+    {
+      "key": "EP11_S0220_0032",
+      "value": "I won’t be able to breathe, I swear."
+    },
+    {
+      "key": "EP11_S0220_0033",
+      "value": "I...never considered how oppressive that\ncould feel."
+    },
+    {
+      "key": "EP11_S0220_0034",
+      "value": "A “world” is a big, wide place, right?\nIf this is the whole world..."
+    },
+    {
+      "key": "EP11_S0220_0035",
+      "value": "It’s like...a scene in a snow globe.\nDon’t you think?"
+    },
+    {
+      "key": "EP11_S0220_Q3",
+      "value": "Is this world like a scene in a snow globe?"
+    },
+    {
+      "key": "EP11_S0220_Q3_A1",
+      "value": "I see what you mean."
+    },
+    {
+      "key": "EP11_S0220_Q3_A2",
+      "value": "I don’t think so."
+    },
+    {
+      "key": "EP11_S0220_0036",
+      "value": "I can see what you mean. If this island is\nthe whole world here..."
+    },
+    {
+      "key": "EP11_S0220_0037",
+      "value": "It’s like someone built the whole thing."
+    },
+    {
+      "key": "EP11_S0220_0038",
+      "value": "Right? RIGHT?!\nYou think so too?"
+    },
+    {
+      "key": "EP11_S0220_0039",
+      "value": "You know, I’ve been thinking lately about the\nview from that TV tower..."
+    },
+    {
+      "key": "EP11_S0220_0040",
+      "value": "I figure there must be something beyond that\nvast ocean..."
+    },
+    {
+      "key": "EP11_S0220_0041",
+      "value": "Maybe you’re thinking this way because we’ll\nbe heading back to our world soon."
+    },
+    {
+      "key": "EP11_S0220_0042",
+      "value": "Yeah... Sure, that makes sense."
+    },
+    {
+      "key": "EP11_S0220_0043",
+      "value": "I don’t think so. There’s too much nature and\ntoo many creatures to be just manufactured."
+    },
+    {
+      "key": "EP11_S0220_0044",
+      "value": "If this island makes up this whole world, it\njust means that’s the kind of world this is."
+    },
+    {
+      "key": "EP11_S0220_0045",
+      "value": "You’re kind of a wet blanket, huh, Takuma?"
+    },
+    {
+      "key": "EP11_S0220_0046",
+      "value": "What? Really?"
+    },
+    {
+      "key": "EP11_S0220_0047",
+      "value": "Well, it’s not exactly the end of the world.\nStill, next time try playing along a bit."
+    },
+    {
+      "key": "EP11_S0220_0048",
+      "value": "Uh, sure... My bad."
+    },
+    {
+      "key": "EP11_S0220_0049",
+      "value": "Aww, you poor thing!"
+    },
+    {
+      "key": "EP11_S0220_0050",
+      "value": "Don’t sweat it! Come on, let’s go grab some\nfood!"
+    }
+  ]
+}

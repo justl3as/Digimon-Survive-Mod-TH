@@ -1,0 +1,296 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1500_0001",
+      "value": "Oh my! Everyone, come here!"
+    },
+    {
+      "key": "EP02_S1500_0002",
+      "value": "Are these... emergency food stores?!"
+    },
+    {
+      "key": "EP02_S1500_0003",
+      "value": "Ohh, I get it. This sort of place would be\nused as a disaster shelter, after all."
+    },
+    {
+      "key": "EP02_S1500_0004",
+      "value": "Thank goodness... We can make do with these\nfor the time being."
+    },
+    {
+      "key": "EP02_S1500_0005",
+      "value": "...Now hold on a minute. Are you sure this\nstuff is edible?"
+    },
+    {
+      "key": "EP02_S1500_0006",
+      "value": "Looking at the shape of the school, you’d\nbetter check for an expiration date."
+    },
+    {
+      "key": "EP02_S1500_0007",
+      "value": "Umm...huh?\nI don’t see one written anywhere."
+    },
+    {
+      "key": "EP02_S1500_0008",
+      "value": "What’d I tell ya?! I ain’t gonna put anything\nthat suspicious in my mouth!"
+    },
+    {
+      "key": "EP02_S1500_0009",
+      "value": "Huh... I gotta say, it does sound iffy..."
+    },
+    {
+      "key": "EP02_S1500_0010",
+      "value": "Even to a pig like you, Minoru?!"
+    },
+    {
+      "key": "EP02_S1500_0011",
+      "value": "Hmm, now even I’m a bit worried..."
+    },
+    {
+      "key": "EP02_S1500_0012",
+      "value": "Okay! Then that means it’s aaall mine!"
+    },
+    {
+      "key": "EP02_S1500_0013",
+      "value": "*chomp*"
+    },
+    {
+      "key": "EP02_S1500_0014",
+      "value": "Agumon!!!\nWhat’re you—?!"
+    },
+    {
+      "key": "EP02_S1500_0015",
+      "value": "*chew *chew*...\nMmm-MMM! Now that’s tasty!"
+    },
+    {
+      "key": "EP02_S1500_0016",
+      "value": "Well sure, who knows what taste buds a\nmonster’s got..."
+    },
+    {
+      "key": "EP02_S1500_0017",
+      "value": "When in Rome...\n*chomp* *chomp*"
+    },
+    {
+      "key": "EP02_S1500_0101",
+      "value": "Hang on! Minoru!"
+    },
+    {
+      "key": "EP02_S1500_0018",
+      "value": "...Minoru?!"
+    },
+    {
+      "key": "EP02_S1500_0019",
+      "value": "Hnnngh?!\nUgh, gaaah?!"
+    },
+    {
+      "key": "EP02_S1500_0020",
+      "value": "(Minoru started squirming...!)"
+    },
+    {
+      "key": "EP02_S1500_0021",
+      "value": "...HEY! ARE YOU OKAY?!"
+    },
+    {
+      "key": "EP02_S1500_0022",
+      "value": "GAAAAAAUGH!!!"
+    },
+    {
+      "key": "EP02_S1500_0102",
+      "value": "(Nnn...nnngh...)"
+    },
+    {
+      "key": "EP02_S1500_0103",
+      "value": "(Minoru’s writhing around just to see if\nwe’ll react. He’s playing us for idiots.)"
+    },
+    {
+      "key": "EP02_S1500_Q1",
+      "value": "(How should I react?)"
+    },
+    {
+      "key": "EP02_S1500_Q1_A1",
+      "value": "Knock it off."
+    },
+    {
+      "key": "EP02_S1500_Q1_A2",
+      "value": "Let me try, too!"
+    },
+    {
+      "key": "EP02_S1500_Q1_A3",
+      "value": "Go along with it..."
+    },
+    {
+      "key": "EP02_S1500_0104",
+      "value": "Stop fooling around, Minoru."
+    },
+    {
+      "key": "EP02_S1500_0105",
+      "value": "Whaddya mean, Takuma?\nI’m really in pain right now!"
+    },
+    {
+      "key": "EP02_S1500_0106",
+      "value": "I know you’ve been watching us for\na reaction."
+    },
+    {
+      "key": "EP02_S1500_0107",
+      "value": "Ugh...\nThis is the end..."
+    },
+    {
+      "key": "EP02_S1500_0108",
+      "value": "Oh shut up already, Minoru."
+    },
+    {
+      "key": "EP02_S1500_0109",
+      "value": "Everything else might be fine.\nI’m trying some, too."
+    },
+    {
+      "key": "EP02_S1500_0110",
+      "value": "What? Hang on, Takuma!\nStop that! Don’t!"
+    },
+    {
+      "key": "EP02_S1500_0111",
+      "value": "*chomp*"
+    },
+    {
+      "key": "EP02_S1500_0112",
+      "value": "You’re sneaky, Takuma!"
+    },
+    {
+      "key": "EP02_S1500_0113",
+      "value": "Ugh...! This is awful!"
+    },
+    {
+      "key": "EP02_S1500_0114",
+      "value": "Not you too, Takuma!"
+    },
+    {
+      "key": "EP02_S1500_0115",
+      "value": "Takuma! Pull yourself together, Takuma!"
+    },
+    {
+      "key": "EP02_S1500_0116",
+      "value": "(Aoi is on the brink of tears.\nI’m feeling sorry for her...)"
+    },
+    {
+      "key": "EP02_S1500_0117",
+      "value": "Minoru! Hang in there!"
+    },
+    {
+      "key": "EP02_S1500_0118",
+      "value": "Takuma... I’m...done...for...."
+    },
+    {
+      "key": "EP02_S1500_0119",
+      "value": "What? This isn’t the end!"
+    },
+    {
+      "key": "EP02_S1500_0120",
+      "value": "You go home without me... Just make sure \nyou...delete my browser history...!"
+    },
+    {
+      "key": "EP02_S1500_0121",
+      "value": "Augh!"
+    },
+    {
+      "key": "EP02_S1500_0122",
+      "value": "Minoru...! MINORUUU?!"
+    },
+    {
+      "key": "EP02_S1500_0123",
+      "value": "What’re you two doing?"
+    },
+    {
+      "key": "EP02_S1500_0023",
+      "value": "Psych!!!\nGotcha!"
+    },
+    {
+      "key": "EP02_S1500_0024",
+      "value": "MINORU!!! I thought my heart was gonna\nexplode outta my CHEST!"
+    },
+    {
+      "key": "EP02_S1500_0025",
+      "value": "YOU SONUVA—! There’s a time and a place for\njoking around!"
+    },
+    {
+      "key": "EP02_S1500_0124",
+      "value": "You idiot! Knock it off!"
+    },
+    {
+      "key": "EP02_S1500_0125",
+      "value": "Now you just think about what you’ve done!"
+    },
+    {
+      "key": "EP02_S1500_0026",
+      "value": "Heh heh...\nWell, looks like the stuff passes!"
+    },
+    {
+      "key": "EP02_S1500_0027",
+      "value": "We’ve found a lifeline of water and food for\nnow."
+    },
+    {
+      "key": "EP02_S1500_0028",
+      "value": "Still, we don’t know how long these supplies\nwill last, do we?"
+    },
+    {
+      "key": "EP02_S1500_0029",
+      "value": "Between us and the little ones, I would say\nhalf a year?"
+    },
+    {
+      "key": "EP02_S1500_0030",
+      "value": "Half a year... Are you out of your mind?!\nThe past two days almost killed me!"
+    },
+    {
+      "key": "EP02_S1500_0031",
+      "value": "Half a year is optimistic, man. We haven’t\nseen any sign of rescue, you know."
+    },
+    {
+      "key": "EP02_S1500_0032",
+      "value": "...It pains me to say this, but I guess\nyou’re right."
+    },
+    {
+      "key": "EP02_S1500_0126",
+      "value": "Oh boy, human food is so tasty!"
+    },
+    {
+      "key": "EP02_S1500_0127",
+      "value": "Oh yeah? Let me try some, too!"
+    },
+    {
+      "key": "EP02_S1500_0128",
+      "value": "Hmm, well... I  cannot say I’m as intrigued as\nyou two, but..."
+    },
+    {
+      "key": "EP02_S1500_0129",
+      "value": "I should at least check it for poison—\nfor Minoru’s sake, that is."
+    },
+    {
+      "key": "EP02_S1500_0130",
+      "value": "I’d say Minoru’s taken care of that for us\nalready!"
+    },
+    {
+      "key": "EP02_S1500_0131",
+      "value": "Come on now, don’t spend the food\nso carelessly!"
+    },
+    {
+      "key": "EP02_S1500_0132",
+      "value": "Anyway, why don’t we search for other food,\njust in case?"
+    },
+    {
+      "key": "EP02_S1500_0133",
+      "value": "Yeah! And we’ll look for our own food too,\nour own way!"
+    },
+    {
+      "key": "EP02_S1500_0134",
+      "value": "Then the supplies will last you guys at least\na year!"
+    },
+    {
+      "key": "EP02_S1500_0135",
+      "value": "A year... I can’t imagine staying here that\nlong."
+    },
+    {
+      "key": "EP02_S1500_0136",
+      "value": "We might end up burying each other here if\nwe’re unlucky."
+    },
+    {
+      "key": "EP02_S1500_0137",
+      "value": "I told you I didn’t want to hear that kind\nof talk!"
+    }
+  ]
+}

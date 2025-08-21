@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0691_0001",
+      "value": "Abnormal weather occurs in this area.\nMaybe it was a localized snowstorm?"
+    },
+    {
+      "key": "EP01_S0691_0002",
+      "value": "First I’ve heard of something like that.\nThat blizzard was no joke."
+    },
+    {
+      "key": "EP01_S0691_0003",
+      "value": "Then there are the red spider lilies, which\nonly bloom in the fall..."
+    },
+    {
+      "key": "EP01_S0691_0004",
+      "value": "I’m telling you, man, spring is in the air!"
+    },
+    {
+      "key": "EP01_S0691_0005",
+      "value": "Hmph... What the heck is this?"
+    }
+  ]
+}

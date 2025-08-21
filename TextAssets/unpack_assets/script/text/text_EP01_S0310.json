@@ -1,0 +1,196 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0310_0001",
+      "value": "Great, we made it back before sunset!"
+    },
+    {
+      "key": "EP01_S0310_0002",
+      "value": "This is your uh, “skewl,” Takuma?"
+    },
+    {
+      "key": "EP01_S0310_0003",
+      "value": "Not exactly. I go to a different school. This\nis just the one we’re staying in for camp."
+    },
+    {
+      "key": "EP01_S0310_0036",
+      "value": "Still, I guess a school is a school..."
+    },
+    {
+      "key": "EP01_S0310_0004",
+      "value": "But what IS a “skewl,” Takuma?"
+    },
+    {
+      "key": "EP01_S0310_0101",
+      "value": "(Oh, uh... What IS a school, anyway?)"
+    },
+    {
+      "key": "EP01_S0310_0102",
+      "value": "(I’ve never really thought about it...\nI’m not sure how to answer.)"
+    },
+    {
+      "key": "EP01_S0310_0103",
+      "value": "(Maybe with something a teacher would say?\nNo, no, I should say my real feelings...)"
+    },
+    {
+      "key": "EP01_S0310_0104",
+      "value": "(Ah, but now’s not the time for this anyway!)"
+    },
+    {
+      "key": "EP01_S0310_Q1",
+      "value": "(How do I answer Agumon’s question?)"
+    },
+    {
+      "key": "EP01_S0310_Q1_A1",
+      "value": "Focus on first aid."
+    },
+    {
+      "key": "EP01_S0310_Q1_A2",
+      "value": "Answer vaguely."
+    },
+    {
+      "key": "EP01_S0310_Q1_A3",
+      "value": "Answer directly."
+    },
+    {
+      "key": "EP01_S0310_0105",
+      "value": "I’ll explain that another time.\nWe need to find first aid."
+    },
+    {
+      "key": "EP01_S0310_0106",
+      "value": "Oh yeah! How’re ya holding up, Labramon?"
+    },
+    {
+      "key": "EP01_S0310_0107",
+      "value": "I’m fine! This is nothing!"
+    },
+    {
+      "key": "EP01_S0310_0108",
+      "value": "(She may say that, but I’m still worried. We\nneed to treat her soon.)"
+    },
+    {
+      "key": "EP01_S0310_0109",
+      "value": "A school is a place for kids to become\nadults, I guess."
+    },
+    {
+      "key": "EP01_S0310_0110",
+      "value": "You study, sure, but you learn about life,\nfriendships...all the important stuff."
+    },
+    {
+      "key": "EP01_S0310_0111",
+      "value": "Uh huh! So “skewl” is a good place to go if\nyou have any problems!"
+    },
+    {
+      "key": "EP01_S0310_0112",
+      "value": "Yeah, you hit the nail on the head."
+    },
+    {
+      "key": "EP01_S0310_0113",
+      "value": "We go there to study, go to class, take\ntests, the whole shebang."
+    },
+    {
+      "key": "EP01_S0310_0114",
+      "value": "“Klas”? “Tess”? “She-bang”? What the heck is\nall that?!"
+    },
+    {
+      "key": "EP01_S0310_0115",
+      "value": "Yes, yes, I’ll give you a rundown on all of\nit later, okay?"
+    },
+    {
+      "key": "EP01_S0310_0116",
+      "value": "Right now we’d better take care of Labramon.\nLet’s head on inside."
+    },
+    {
+      "key": "EP01_S0310_0006",
+      "value": "...Wait, what? No one’s here."
+    },
+    {
+      "key": "EP01_S0310_0007",
+      "value": "And that’s not even the weirdest part...\nWould ya just look at this place!"
+    },
+    {
+      "key": "EP01_S0310_0008",
+      "value": "Yeah... Why is everything all so messed up?!"
+    },
+    {
+      "key": "EP01_S0310_0117",
+      "value": "You think a huge earthquake tore through this\nplace while we were all passed out?"
+    },
+    {
+      "key": "EP01_S0310_0118",
+      "value": "Oh, you passed out too, Minoru?"
+    },
+    {
+      "key": "EP01_S0310_0119",
+      "value": "Yeah, and Aoi, too. But..."
+    },
+    {
+      "key": "EP01_S0310_0120",
+      "value": "What in the world... What could have happened\nhere?!"
+    },
+    {
+      "key": "EP01_S0310_0121",
+      "value": "That’s what I wanna know!"
+    },
+    {
+      "key": "EP01_S0310_0122",
+      "value": "What’s the deal with this place...? And it’s\ngonna get dark soon, right?"
+    },
+    {
+      "key": "EP01_S0310_0123",
+      "value": "A school building at night would be freaky by\nitself... But all beat up like this? Brrr..."
+    },
+    {
+      "key": "EP01_S0310_0124",
+      "value": "Stop it... You’re scaring me!"
+    },
+    {
+      "key": "EP01_S0310_0200",
+      "value": "Calm yourself, Minoru. Worry not, I’m right\nhere with you."
+    },
+    {
+      "key": "EP01_S0310_0201",
+      "value": "Yeah! And I’ll protect Aoi!"
+    },
+    {
+      "key": "EP01_S0310_0125",
+      "value": "I wonder how long we were out? It couldn’t\nhave been more than an hour for me."
+    },
+    {
+      "key": "EP01_S0310_0126",
+      "value": "That sounds about the same as us, I think."
+    },
+    {
+      "key": "EP01_S0310_0127",
+      "value": "According to my phone’s clock, that seems\nabout right. The date hasn’t changed, either."
+    },
+    {
+      "key": "EP01_S0310_0128",
+      "value": "Even if it can’t connect to the network, the\ntime should still be right."
+    },
+    {
+      "key": "EP01_S0310_0129",
+      "value": "Then something must’ve happened in that short\namount of time, right?"
+    },
+    {
+      "key": "EP01_S0310_0130",
+      "value": "A weapon of mass destruction, a natural\ndisaster...something like that?"
+    },
+    {
+      "key": "EP01_S0310_0131",
+      "value": "Then how come this place is so overgrown?"
+    },
+    {
+      "key": "EP01_S0310_0132",
+      "value": "...Good point. This doesn’t look like it was\ndestroyed. More like it fell apart over time."
+    },
+    {
+      "key": "EP01_S0310_0133",
+      "value": "I admit I am curious... But Labramon’s wound\ntakes higher priority now."
+    },
+    {
+      "key": "EP01_S0310_0134",
+      "value": "Anyway, let’s go inside!"
+    }
+  ]
+}

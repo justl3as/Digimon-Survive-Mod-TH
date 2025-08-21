@@ -1,0 +1,548 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0020_0013",
+      "value": "*yawn*"
+    },
+    {
+      "key": "EP02_S0020_0001",
+      "value": "...Morning, Minoru."
+    },
+    {
+      "key": "EP02_S0020_0002",
+      "value": "Back at you, Takuma."
+    },
+    {
+      "key": "EP02_S0020_0003",
+      "value": "So it wasn’t a dream, huh?"
+    },
+    {
+      "key": "EP02_S0020_0004",
+      "value": "Looks like it."
+    },
+    {
+      "key": "EP02_S0020_0005",
+      "value": "(I figured I’d wake up by now...)"
+    },
+    {
+      "key": "EP02_S0020_0006",
+      "value": "We slept like babies after everything\nyesterday."
+    },
+    {
+      "key": "EP02_S0020_0007",
+      "value": "Tell me about it. What a day!"
+    },
+    {
+      "key": "EP02_S0020_0008",
+      "value": "Man, looking around again in the daylight,\nthis place’s definitely seen better days."
+    },
+    {
+      "key": "EP02_S0020_0009",
+      "value": "We fought against monsters yesterday!"
+    },
+    {
+      "key": "EP02_S0020_0010",
+      "value": "Tell me about it!"
+    },
+    {
+      "key": "EP02_S0020_0011",
+      "value": "Indeed!"
+    },
+    {
+      "key": "EP02_S0020_0012",
+      "value": "...This is real."
+    },
+    {
+      "key": "EP02_S0020_0014",
+      "value": "Good morning, Takuma. Minoru."
+    },
+    {
+      "key": "EP02_S0020_0015",
+      "value": "Hey Aoi. Mornin’!"
+    },
+    {
+      "key": "EP02_S0020_0016",
+      "value": "Good morning, Aoi.\nDid you sleep well?"
+    },
+    {
+      "key": "EP02_S0020_0017",
+      "value": "I did. Still a little tired, but my head has\nfinally cleared."
+    },
+    {
+      "key": "EP02_S0020_0018",
+      "value": "That’s good to hear."
+    },
+    {
+      "key": "EP02_S0020_0019",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP02_S0020_0020",
+      "value": "Oh, Ryo! Sorry we woke up before you."
+    },
+    {
+      "key": "EP02_S0020_0021",
+      "value": "Shaddup. How’m I s’posed to sleep?"
+    },
+    {
+      "key": "EP02_S0020_0022",
+      "value": "You were all out like lights.\nHow could you even sleep after all this?"
+    },
+    {
+      "key": "EP02_S0020_0023",
+      "value": "Well, you’d spent all your time sitting in the\nclassroom or fainting, so you weren’t tired!"
+    },
+    {
+      "key": "EP02_S0020_0024",
+      "value": "Say that again!"
+    },
+    {
+      "key": "EP02_S0020_0025",
+      "value": "Now that everyone’s awake, we should put our\nheads together and think about the next step."
+    },
+    {
+      "key": "EP02_S0020_0026",
+      "value": "Yeah, with everything that went on yesterday\nwe were too tired to do anything but sleep."
+    },
+    {
+      "key": "EP02_S0020_0027",
+      "value": "Hey, wait! Who died and made you the boss,\nTakuma?!"
+    },
+    {
+      "key": "EP02_S0020_0028",
+      "value": "Yeah, what he said!"
+    },
+    {
+      "key": "EP02_S0020_0029",
+      "value": "Why’re you taking his side, Agumon?!"
+    },
+    {
+      "key": "EP02_S0020_0030",
+      "value": "This sort of thing is better left to the\nolder kids. Aoi, Ryo, you’re up!"
+    },
+    {
+      "key": "EP02_S0020_0031",
+      "value": "You treat me with respect now, of all times?"
+    },
+    {
+      "key": "EP02_S0020_0032",
+      "value": "I mean... To be honest, I..."
+    },
+    {
+      "key": "EP02_S0020_0033",
+      "value": "It ain’t gonna make any difference, is it?!"
+    },
+    {
+      "key": "EP02_S0020_0034",
+      "value": "(That’s Ryo for you...)"
+    },
+    {
+      "key": "EP02_S0020_0035",
+      "value": "(I guess last night’s events didn’t help...)"
+    },
+    {
+      "key": "EP02_S0020_0036",
+      "value": "I ain’t got the time or the inclination to\nlead you losers around."
+    },
+    {
+      "key": "EP02_S0020_0037",
+      "value": "..."
+    },
+    {
+      "key": "EP02_S0020_0038",
+      "value": "Yeah, that sounds about right."
+    },
+    {
+      "key": "EP02_S0020_0039",
+      "value": "Guess that leaves you, Aoi."
+    },
+    {
+      "key": "EP02_S0020_0040",
+      "value": "I’m afraid I also lack what it takes to be\na leader."
+    },
+    {
+      "key": "EP02_S0020_0041",
+      "value": "But...but you’re so serious!"
+    },
+    {
+      "key": "EP02_S0020_0042",
+      "value": "What does that have to do with anything?"
+    },
+    {
+      "key": "EP02_S0020_0043",
+      "value": "But Aoi! You’re not just serious, you’re also\nnice! You’d be a great leader!"
+    },
+    {
+      "key": "EP02_S0020_0044",
+      "value": "You overestimate me.\nEven now I’m full of anxiety..."
+    },
+    {
+      "key": "EP02_S0020_0045",
+      "value": "Seriously, what is going on? Think about it:\na group of children went missing overnight..."
+    },
+    {
+      "key": "EP02_S0020_0046",
+      "value": "You would expect this to cause a major\nuproar, and yet..."
+    },
+    {
+      "key": "EP02_S0020_0047",
+      "value": "Ohhh, I get what you’re saying. You’d expect\nthem to send out a helicopter or something."
+    },
+    {
+      "key": "EP02_S0020_0048",
+      "value": "It’s already morning, but there’s no sign of\na search party. This is just too strange..."
+    },
+    {
+      "key": "EP02_S0020_0049",
+      "value": "And we’re not stuck on some mountain or\nsomething. We’re in a school!"
+    },
+    {
+      "key": "EP02_S0020_0050",
+      "value": "But ain’t it weird there’s nobody else around?\nLike the rest of humanity’s missing, not us."
+    },
+    {
+      "key": "EP02_S0020_0051",
+      "value": "You’re not making me feel any better..."
+    },
+    {
+      "key": "EP02_S0020_0052",
+      "value": "I’m just telling it like it is, right?! Look,\neven our phones are out of service!"
+    },
+    {
+      "key": "EP02_S0020_0053",
+      "value": "What the heck?! Did the world just end or\nsomething?!"
+    },
+    {
+      "key": "EP02_S0020_0054",
+      "value": "If that ain’t the case, then stick a fork in\nus, ’cause we’re done!"
+    },
+    {
+      "key": "EP02_S0020_0055",
+      "value": "You think some disaster occurred? It’d\nexplain why they ain’t looking for lost kids."
+    },
+    {
+      "key": "EP02_S0020_0056",
+      "value": "Stop it, I’m begging you..."
+    },
+    {
+      "key": "EP02_S0020_0057",
+      "value": "I’m just saying, look around! We weren’t out\nthat long, and the school’s all messed up."
+    },
+    {
+      "key": "EP02_S0020_0058",
+      "value": "The whole landscape changed, too. Stuff like\nthis doesn’t exactly happen every day!"
+    },
+    {
+      "key": "EP02_S0020_0059",
+      "value": "Maybe we ended up in some parallel world?\nOr, like, traveled through time?"
+    },
+    {
+      "key": "EP02_S0020_0060",
+      "value": "Or maybe someone fired off some superweapon?\nThat could explain the school and everything."
+    },
+    {
+      "key": "EP02_S0020_0061",
+      "value": "Wait, that can’t be it. This place looks more\n“run down” than “blown up,” you know?"
+    },
+    {
+      "key": "EP02_S0020_0062",
+      "value": "Man, this is all so COOL!!!\nDon’t ya think?!"
+    },
+    {
+      "key": "EP02_S0020_0063",
+      "value": "...Were you listening at all?"
+    },
+    {
+      "key": "EP02_S0020_0064",
+      "value": "Is your brain broken or something?"
+    },
+    {
+      "key": "EP02_S0020_0065",
+      "value": "(I’m actually agreeing with Ryo...)"
+    },
+    {
+      "key": "EP02_S0020_0066",
+      "value": "And what were those creatures last night?"
+    },
+    {
+      "key": "EP02_S0020_0067",
+      "value": "What were they...? I hate to say it, but we\ndon’t know what these little guys are, either."
+    },
+    {
+      "key": "EP02_S0020_0068",
+      "value": "Whoa! Even me?"
+    },
+    {
+      "key": "EP02_S0020_0069",
+      "value": "All we can say for sure is that everyone’s\ngone, and the school building’s in ruins..."
+    },
+    {
+      "key": "EP02_S0020_0070",
+      "value": "The area around here’s completely different\nfor some reason..."
+    },
+    {
+      "key": "EP02_S0020_0071",
+      "value": "And the fog all around here makes it\nimpossible to figure out what’s going on."
+    },
+    {
+      "key": "EP02_S0020_0072",
+      "value": "The fog is apparently too dangerous to touch."
+    },
+    {
+      "key": "EP02_S0020_0073",
+      "value": "Not “apparently”! It’s really dangerous!"
+    },
+    {
+      "key": "EP02_S0020_0074",
+      "value": "So you say. And to top it all off, all those\nweird things are crawling around out there."
+    },
+    {
+      "key": "EP02_S0020_0075",
+      "value": "Who’s a weird thing?!"
+    },
+    {
+      "key": "EP02_S0020_0076",
+      "value": "Well then what are you, exactly?"
+    },
+    {
+      "key": "EP02_S0020_0077",
+      "value": "We’re us, and they’re them!"
+    },
+    {
+      "key": "EP02_S0020_0078",
+      "value": "That doesn’t explain anything!"
+    },
+    {
+      "key": "EP02_S0020_0079",
+      "value": "That’s right, I can’t explain anything!"
+    },
+    {
+      "key": "EP02_S0020_0080",
+      "value": "Then why are you talking so confidently?!"
+    },
+    {
+      "key": "EP02_S0020_0081",
+      "value": "So then, let’s ask the smartest one.\nFalcomon, what do you think?"
+    },
+    {
+      "key": "EP02_S0020_0082",
+      "value": "Me?"
+    },
+    {
+      "key": "EP02_S0020_0083",
+      "value": "Seriously, we’re not getting anywhere\nover here..."
+    },
+    {
+      "key": "EP02_S0020_0084",
+      "value": "Very well. Let’s see... I can say that we\nhave no doubts about our own existence."
+    },
+    {
+      "key": "EP02_S0020_0085",
+      "value": "Still, it’s clear that our world is separate\nfrom the world of you humans..."
+    },
+    {
+      "key": "EP02_S0020_0086",
+      "value": "So this really is a parallel world?!"
+    },
+    {
+      "key": "EP02_S0020_0087",
+      "value": "I’m not sure what those words mean..."
+    },
+    {
+      "key": "EP02_S0020_0088",
+      "value": "I admit that our situation is weird, but we\ncan’t be sure that this is a different world."
+    },
+    {
+      "key": "EP02_S0020_0089",
+      "value": "If this is a different world, then where did\nthis human building come from?"
+    },
+    {
+      "key": "EP02_S0020_0090",
+      "value": "Well that’s...hmm...\nMaybe the building got transported, too?"
+    },
+    {
+      "key": "EP02_S0020_0091",
+      "value": "Then wouldn’t the school be in the same\ncondition, instead of falling apart?"
+    },
+    {
+      "key": "EP02_S0020_0092",
+      "value": "It looks like the building where we set up\ncamp, but I think this one is different."
+    },
+    {
+      "key": "EP02_S0020_0093",
+      "value": "This is a mystery to me, too. The hills and\ntrees, the rocks, ocean and rivers..."
+    },
+    {
+      "key": "EP02_S0020_0094",
+      "value": "Unlike these natural formations, the building\njust suddenly appeared one day. So I heard."
+    },
+    {
+      "key": "EP02_S0020_0095",
+      "value": "Who could’ve done it? And how?"
+    },
+    {
+      "key": "EP02_S0020_0096",
+      "value": "I’m not sure. Perhaps it was some divine\nbeing, or one of my brethren with such power."
+    },
+    {
+      "key": "EP02_S0020_0097",
+      "value": "I cannot say for sure. The residents of this\nworld possess various powers and forms."
+    },
+    {
+      "key": "EP02_S0020_0098",
+      "value": "Entities of terrible strength; some weak and\nfrail; capable beings; helpless creatures..."
+    },
+    {
+      "key": "EP02_S0020_0099",
+      "value": "So you’re saying one of your kind could have\nmade this?"
+    },
+    {
+      "key": "EP02_S0020_0100",
+      "value": "One could’ve built it to resemble a human\nbuilding, or transported it from our world."
+    },
+    {
+      "key": "EP02_S0020_0101",
+      "value": "I do not know. All I can say is that there is\nmuch variation among those who live here."
+    },
+    {
+      "key": "EP02_S0020_0102",
+      "value": "Some are capable of speech and compromise;\nothers are frenzied and incapable of either."
+    },
+    {
+      "key": "EP02_S0020_0103",
+      "value": "What’s more... Humans are considered nothing\nmore than fairy tales among our kind."
+    },
+    {
+      "key": "EP02_S0020_0104",
+      "value": "In truth, you’re the first I’ve ever met.\nAnd yet, it has been said..."
+    },
+    {
+      "key": "EP02_S0020_0105",
+      "value": "That actual human children would appear,\ncapable of drawing out our true power..."
+    },
+    {
+      "key": "EP02_S0020_0106",
+      "value": "Oh. That sounds like..."
+    },
+    {
+      "key": "EP02_S0020_0107",
+      "value": "(The story about Kemonogami spiriting away\nchildren... This is like the exact opposite!)"
+    },
+    {
+      "key": "EP02_S0020_0108",
+      "value": "And some of us can assume stronger forms,\nlike Agumon did as he fought Dokugumon."
+    },
+    {
+      "key": "EP02_S0020_0109",
+      "value": "Why did Agumon suddenly change shape and\npower up like that?"
+    },
+    {
+      "key": "EP02_S0020_0110",
+      "value": "Beats me!"
+    },
+    {
+      "key": "EP02_S0020_0111",
+      "value": "Hmm... Maybe an external force—contact with\nhumans—triggered a sudden mutation?"
+    },
+    {
+      "key": "EP02_S0020_0112",
+      "value": "Selective mutation...a sort of instant,\ninstinctive evolution. It’s amazing!"
+    },
+    {
+      "key": "EP02_S0020_0113",
+      "value": "Heh heh! Yeah, I’m amazing!\nI guess?"
+    },
+    {
+      "key": "EP02_S0020_0114",
+      "value": "Hmm... This is only natural for us. It’s\nnever struck me as anything special."
+    },
+    {
+      "key": "EP02_S0020_0115",
+      "value": "Of course, there may be more to our evolution\nand we don’t know how children are involved."
+    },
+    {
+      "key": "EP02_S0020_0116",
+      "value": "Some of our kind would use such power to\ndestroy the world, others to save it."
+    },
+    {
+      "key": "EP02_S0020_0117",
+      "value": "Others would take human children and—\nah, perhaps we should avoid such subjects..."
+    },
+    {
+      "key": "EP02_S0020_0118",
+      "value": "For now, this is all I can tell you about our\nexistence."
+    },
+    {
+      "key": "EP02_S0020_0119",
+      "value": "I am ashamed I could not provide you with the\nclear answer you wanted, Minoru."
+    },
+    {
+      "key": "EP02_S0020_0120",
+      "value": "Naw, man, that was more than enough!"
+    },
+    {
+      "key": "EP02_S0020_0121",
+      "value": "Enough?\nWe still have no clue what’s going on!"
+    },
+    {
+      "key": "EP02_S0020_0122",
+      "value": "It’s like saying we don’t know anything, so\nanything’s possible! What a load of crap."
+    },
+    {
+      "key": "EP02_S0020_0123",
+      "value": "Don’t listen to comments from the peanut\ngallery, Falcomon."
+    },
+    {
+      "key": "EP02_S0020_0124",
+      "value": "If you say so, Minoru."
+    },
+    {
+      "key": "EP02_S0020_0125",
+      "value": "And yet, what really happened?\n*sigh*"
+    },
+    {
+      "key": "EP02_S0020_0126",
+      "value": "Hey, Haru and Miyuki are awake."
+    },
+    {
+      "key": "EP02_S0020_0127",
+      "value": "WHOA!!!"
+    },
+    {
+      "key": "EP02_S0020_0128",
+      "value": "Lookit that chicken, he’s still scared of them!"
+    },
+    {
+      "key": "EP02_S0020_0129",
+      "value": "Come on, now. He’s still technically older."
+    },
+    {
+      "key": "EP02_S0020_0130",
+      "value": "Pfff, “technically”? That’s harsh, Takuma!\nHa ha ha!"
+    },
+    {
+      "key": "EP02_S0020_0131",
+      "value": "Tch...\nJust shut up already."
+    },
+    {
+      "key": "EP02_S0020_0132",
+      "value": "Whoops, there he goes."
+    },
+    {
+      "key": "EP02_S0020_0133",
+      "value": "Haru and Miyuki might know something.\nLet’s head back and decide what to do next."
+    },
+    {
+      "key": "EP02_S0020_0134",
+      "value": "Is that okay with you, Falcomon?"
+    },
+    {
+      "key": "EP02_S0020_0135",
+      "value": "Yes. Understood."
+    },
+    {
+      "key": "EP02_S0020_0136",
+      "value": "I believe we should continue our talk inside\nthe school building, wouldn’t you say?"
+    }
+  ]
+}

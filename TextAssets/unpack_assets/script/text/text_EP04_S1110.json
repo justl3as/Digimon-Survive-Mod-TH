@@ -1,0 +1,460 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1110_0001",
+      "value": "Oh, Takuma. Perfect timing."
+    },
+    {
+      "key": "EP04_S1110_0002",
+      "value": "Is something wrong, Falcomon?"
+    },
+    {
+      "key": "EP04_S1110_0003",
+      "value": "It would seem Kunemon has something he would\nlike to show you."
+    },
+    {
+      "key": "EP04_S1110_0004",
+      "value": "Kewkeww!"
+    },
+    {
+      "key": "EP04_S1110_0005",
+      "value": "He does? I wonder what it could be."
+    },
+    {
+      "key": "EP04_S1110_0006",
+      "value": "Kewww!"
+    },
+    {
+      "key": "EP04_S1110_0007",
+      "value": "It seems Kunemon has made some equipment for\nRyo. Here, take a look."
+    },
+    {
+      "key": "EP04_S1110_0008",
+      "value": "Uh...what is it?"
+    },
+    {
+      "key": "EP04_S1110_0009",
+      "value": "Kew..."
+    },
+    {
+      "key": "EP04_S1110_0010",
+      "value": "To be honest, we are not the most well-\ninformed when it comes to human equipment."
+    },
+    {
+      "key": "EP04_S1110_0011",
+      "value": "For that reason, Kunemon would like your\nopinion on its merits and quality."
+    },
+    {
+      "key": "EP04_S1110_0012",
+      "value": "I see..."
+    },
+    {
+      "key": "EP04_S1110_0013",
+      "value": "Kewkew, kewee!"
+    },
+    {
+      "key": "EP04_S1110_0014",
+      "value": "He asks for your honest opinion. Takuma, what\ndo you think of this equipment?"
+    },
+    {
+      "key": "EP04_S1110_0015",
+      "value": "(What do I think of it? I’m not sure I even\nknow what it’s supposed to be.)"
+    },
+    {
+      "key": "EP04_S1110_0016",
+      "value": "(Still, I’m sure Kunemon worked very hard\nmaking this for Ryo.)"
+    },
+    {
+      "key": "EP04_S1110_0017",
+      "value": "(I’d like to tell Falcomon he did a good job,\nbut Falcomon did ask for an honest opinion.)"
+    },
+    {
+      "key": "EP04_S1110_Q1",
+      "value": "(What’s my impression, here...?)"
+    },
+    {
+      "key": "EP04_S1110_Q1_A1",
+      "value": "This is well-made!"
+    },
+    {
+      "key": "EP04_S1110_Q1_A2",
+      "value": "This is terrible!"
+    },
+    {
+      "key": "EP04_S1110_Q1_A3",
+      "value": "I’m not sure."
+    },
+    {
+      "key": "EP04_S1110_0018",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1110_0019",
+      "value": "Oh, this is really well-made!"
+    },
+    {
+      "key": "EP04_S1110_0020",
+      "value": "I bet Ryo will be thrilled with it too."
+    },
+    {
+      "key": "EP04_S1110_0021",
+      "value": "Kewww...?"
+    },
+    {
+      "key": "EP04_S1110_0022",
+      "value": "Hm, Kunemon seems anxious about whether Ryo\nwill indeed be thrilled."
+    },
+    {
+      "key": "EP04_S1110_0023",
+      "value": "Well, Ryo may not always be the most\nstraightforward guy,"
+    },
+    {
+      "key": "EP04_S1110_0024",
+      "value": "but he cares about you, Kunemon. From how\nhe’s been acting lately, that seems clear."
+    },
+    {
+      "key": "EP04_S1110_0025",
+      "value": "Kewkeww?! Kewww, kewww!"
+    },
+    {
+      "key": "EP04_S1110_0026",
+      "value": "Haha, I think even I got that one. You look\nreally happy, Kunemon."
+    },
+    {
+      "key": "EP04_S1110_0027",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP04_S1110_0028",
+      "value": "He would like you to have this."
+    },
+    {
+      "key": "EP04_S1110_0029",
+      "value": "What? Are you sure?"
+    },
+    {
+      "key": "EP04_S1110_0030",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP04_S1110_0031",
+      "value": "He says it is only a prototype, so he does\nnot mind. I would encourage you to take it."
+    },
+    {
+      "key": "EP04_S1110_0032",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1110_0033",
+      "value": "This is terrible!"
+    },
+    {
+      "key": "EP04_S1110_0034",
+      "value": "Kewww..."
+    },
+    {
+      "key": "EP04_S1110_0035",
+      "value": "(Oh, that seemed to visibly upset Kunemon.)"
+    },
+    {
+      "key": "EP04_S1110_0036",
+      "value": "(Maybe I should have sugar-coated it a bit\nmore.)"
+    },
+    {
+      "key": "EP04_S1110_0037",
+      "value": "Well... It might not look great, but I’m sure\nRyo will appreciate the sentiment!"
+    },
+    {
+      "key": "EP04_S1110_0038",
+      "value": "Kew, kewww..."
+    },
+    {
+      "key": "EP04_S1110_0039",
+      "value": "Hm, Kunemon seems satisfied."
+    },
+    {
+      "key": "EP04_S1110_0040",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP04_S1110_0041",
+      "value": "He says he would like you to have this."
+    },
+    {
+      "key": "EP04_S1110_0042",
+      "value": "Uh, are you sure?"
+    },
+    {
+      "key": "EP04_S1110_0043",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP04_S1110_0044",
+      "value": "He says it is only a prototype, so he does\nnot mind. I would encourage you to take it."
+    },
+    {
+      "key": "EP04_S1110_0045",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1110_0046",
+      "value": "I’m not sure."
+    },
+    {
+      "key": "EP04_S1110_0047",
+      "value": "Kew?"
+    },
+    {
+      "key": "EP04_S1110_0048",
+      "value": "Hmm... Then let us reserve judgment."
+    },
+    {
+      "key": "EP04_S1110_0049",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP04_S1110_0050",
+      "value": "He says he would like you to have this."
+    },
+    {
+      "key": "EP04_S1110_0051",
+      "value": "Really? For me?"
+    },
+    {
+      "key": "EP04_S1110_0052",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP04_S1110_0053",
+      "value": "He says it is only a prototype, so he does\nnot mind. I would encourage you to take it."
+    },
+    {
+      "key": "EP04_S1110_0054",
+      "value": "That will be all, Takuma. Thank you for your\ntime."
+    },
+    {
+      "key": "EP04_S1110_0055",
+      "value": "Keweekewwee!"
+    },
+    {
+      "key": "EP04_S1110_0056",
+      "value": "It’s about Kunemon."
+    },
+    {
+      "key": "EP04_S1110_0057",
+      "value": "As you know, he was unable to communicate\nwith you humans."
+    },
+    {
+      "key": "EP04_S1110_0058",
+      "value": "Yeah. Apparently he had a hard time\ncommunicating properly."
+    },
+    {
+      "key": "EP04_S1110_0059",
+      "value": "If Kunemon had been more concerned with this,\nand if he had gotten through to Ryo..."
+    },
+    {
+      "key": "EP04_S1110_0060",
+      "value": "...I believe things may not have turned out\nas they did."
+    },
+    {
+      "key": "EP04_S1110_0061",
+      "value": "Yeah, I think you’re probably right."
+    },
+    {
+      "key": "EP04_S1110_0062",
+      "value": "And yet, Kunemon tried his best in his own\nway."
+    },
+    {
+      "key": "EP04_S1110_0063",
+      "value": "He thought to communicate using actions, not words."
+    },
+    {
+      "key": "EP04_S1110_0064",
+      "value": "He did?"
+    },
+    {
+      "key": "EP04_S1110_0065",
+      "value": "Yes. Kunemon made a piece of equipment for\nRyo. This is the result."
+    },
+    {
+      "key": "EP04_S1110_0066",
+      "value": "Uh...what is it?"
+    },
+    {
+      "key": "EP04_S1110_0067",
+      "value": "I’m afraid I’m not sure, except that it is\nequipment made for a human."
+    },
+    {
+      "key": "EP04_S1110_0068",
+      "value": "I cannot speak to its merits or its quality\neither. That’s why I’m asking you."
+    },
+    {
+      "key": "EP04_S1110_0069",
+      "value": "Oh, I get it..."
+    },
+    {
+      "key": "EP04_S1110_0070",
+      "value": "Tell me truthfully. What do you think of this\nequipment?"
+    },
+    {
+      "key": "EP04_S1110_0071",
+      "value": "(What do I think of it? I don’t even know\nwhat it’s supposed to be.)"
+    },
+    {
+      "key": "EP04_S1110_0072",
+      "value": "(Still, I’m sure Kunemon worked very hard\nmaking this for Ryo.)"
+    },
+    {
+      "key": "EP04_S1110_0073",
+      "value": "(I’d like to tell Falcomon he did a good job,\nbut Falcomon did ask for an honest opinion.)"
+    },
+    {
+      "key": "EP04_S1110_Q2",
+      "value": "(What’s my impression, here...?)"
+    },
+    {
+      "key": "EP04_S1110_Q2_A1",
+      "value": "It’s really well-made!"
+    },
+    {
+      "key": "EP04_S1110_Q2_A2",
+      "value": "This is terrible!"
+    },
+    {
+      "key": "EP04_S1110_Q2_A3",
+      "value": "I’m not sure."
+    },
+    {
+      "key": "EP04_S1110_0074",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1110_0075",
+      "value": "It’s really well-made!"
+    },
+    {
+      "key": "EP04_S1110_0076",
+      "value": "I’m sure Ryo would’ve been thrilled to have\nit."
+    },
+    {
+      "key": "EP04_S1110_0077",
+      "value": "Do you truly think so?"
+    },
+    {
+      "key": "EP04_S1110_0078",
+      "value": "Well, Ryo was pretty mean to Kunemon, and he\nwasn’t the most straightforward guy,"
+    },
+    {
+      "key": "EP04_S1110_0079",
+      "value": "but if they’d spent more time together, I’m\nsure they’d have gotten along eventually."
+    },
+    {
+      "key": "EP04_S1110_0080",
+      "value": "I see. Kunemon would no doubt be pleased."
+    },
+    {
+      "key": "EP04_S1110_0081",
+      "value": "Thank you, Takuma. You may take it, if you\nwish."
+    },
+    {
+      "key": "EP04_S1110_0082",
+      "value": "What? Are you sure?"
+    },
+    {
+      "key": "EP04_S1110_0083",
+      "value": "It was only ever meant as a prototype, and\nI have no use for such a thing."
+    },
+    {
+      "key": "EP04_S1110_0084",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1110_0085",
+      "value": "This is terrible!"
+    },
+    {
+      "key": "EP04_S1110_0086",
+      "value": "I see. Well, thank you for speaking frankly."
+    },
+    {
+      "key": "EP04_S1110_0087",
+      "value": "(Maybe I should have sugar-coated it a bit\nmore.)"
+    },
+    {
+      "key": "EP04_S1110_0088",
+      "value": "(After all, Kunemon did work very hard on it,\nI’m sure.)"
+    },
+    {
+      "key": "EP04_S1110_0089",
+      "value": "Well... It might not look great, but I’m sure\nRyo would’ve appreciated the sentiment."
+    },
+    {
+      "key": "EP04_S1110_0090",
+      "value": "I see. No doubt Kunemon would have been\npleased to hear that."
+    },
+    {
+      "key": "EP04_S1110_0091",
+      "value": "You may have this, if you wish."
+    },
+    {
+      "key": "EP04_S1110_0092",
+      "value": "Uh, are you sure?"
+    },
+    {
+      "key": "EP04_S1110_0093",
+      "value": "It was only ever meant as a prototype, and\nI have no use for such a thing."
+    },
+    {
+      "key": "EP04_S1110_0094",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1110_0095",
+      "value": "I’m not sure."
+    },
+    {
+      "key": "EP04_S1110_0096",
+      "value": "Hmm... Then let us reserve judgment."
+    },
+    {
+      "key": "EP04_S1110_0097",
+      "value": "There is one thing I can say, though."
+    },
+    {
+      "key": "EP04_S1110_0098",
+      "value": "Oh? What is that?"
+    },
+    {
+      "key": "EP04_S1110_0099",
+      "value": "It reminds me of Kunemon. In that sense,\nI think it’s well done."
+    },
+    {
+      "key": "EP04_S1110_0100",
+      "value": "I see. In that case, I will leave this to\nyou."
+    },
+    {
+      "key": "EP04_S1110_0101",
+      "value": "Really? Are you sure?"
+    },
+    {
+      "key": "EP04_S1110_0102",
+      "value": "It was only a prototype, and I have no use\nfor such a thing. I’d like you to have it."
+    },
+    {
+      "key": "EP04_S1110_0103",
+      "value": "I’m sorry I troubled you with this, Takuma."
+    },
+    {
+      "key": "EP04_S1110_0104",
+      "value": "Kewwwy kew, kew!"
+    },
+    {
+      "key": "EP04_S1110_0105",
+      "value": "Kunemon thanks you for your feedback."
+    },
+    {
+      "key": "EP04_S1110_0106",
+      "value": "Your opinion was informative. Thank you for\nyour time."
+    }
+  ]
+}

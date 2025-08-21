@@ -1,0 +1,212 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1209_0001",
+      "value": "Hmm...\nThey’re not around here."
+    },
+    {
+      "key": "EP02_S1209_0002",
+      "value": "Where did they all go?"
+    },
+    {
+      "key": "EP02_S1209_0003",
+      "value": "Did you find something, Takuma?"
+    },
+    {
+      "key": "EP02_S1209_0004",
+      "value": "No, not really..."
+    },
+    {
+      "key": "EP02_S1209_0005",
+      "value": "Okay...\nI’ll keep looking around back there."
+    },
+    {
+      "key": "EP02_S1209_0006",
+      "value": "Let me take a look around the school again.\nWe might have just missed them."
+    },
+    {
+      "key": "EP02_S1209_0007",
+      "value": "I’m also worried about Miyuki and Haru."
+    },
+    {
+      "key": "EP02_S1209_0008",
+      "value": "I’ll follow you..."
+    },
+    {
+      "key": "EP02_S1209_0009",
+      "value": "With no signal, we need to stick together!"
+    },
+    {
+      "key": "EP02_S1209_0010",
+      "value": "Get going, then!"
+    },
+    {
+      "key": "EP02_S1209_0011",
+      "value": "(Everyone’s looking so hard...\nWhy haven’t we found them yet?)"
+    },
+    {
+      "key": "EP02_S1209_Q1",
+      "value": "(Those guys, are they...)"
+    },
+    {
+      "key": "EP02_S1209_Q1_A1",
+      "value": "Safe? I’m worried..."
+    },
+    {
+      "key": "EP02_S1209_Q1_A2",
+      "value": "Really around here?"
+    },
+    {
+      "key": "EP02_S1209_Q1_A3",
+      "value": "Hungry, you think?"
+    },
+    {
+      "key": "EP02_S1209_0012",
+      "value": "Are they all okay?"
+    },
+    {
+      "key": "EP02_S1209_0013",
+      "value": "I know, right? They might have run into\nsomething like that Dokugumon..."
+    },
+    {
+      "key": "EP02_S1209_0014",
+      "value": "I’m worried..."
+    },
+    {
+      "key": "EP02_S1209_0015",
+      "value": "They’d die if that happened."
+    },
+    {
+      "key": "EP02_S1209_0016",
+      "value": "Stop it, Ryo!"
+    },
+    {
+      "key": "EP02_S1209_0017",
+      "value": "We’ve just been lucky.\nLook around you..."
+    },
+    {
+      "key": "EP02_S1209_0018",
+      "value": "That may be true, but..."
+    },
+    {
+      "key": "EP02_S1209_0019",
+      "value": "Are they really here somewhere?"
+    },
+    {
+      "key": "EP02_S1209_0020",
+      "value": "Hey. Don’t give up on them now."
+    },
+    {
+      "key": "EP02_S1209_0021",
+      "value": "But we’ve looked and looked..."
+    },
+    {
+      "key": "EP02_S1209_0022",
+      "value": "You saw the professor’s hat, right?\nYou think only his hat made it here?"
+    },
+    {
+      "key": "EP02_S1209_0023",
+      "value": "That wouldn’t be impossible, but..."
+    },
+    {
+      "key": "EP02_S1209_0024",
+      "value": "I’m all confused now."
+    },
+    {
+      "key": "EP02_S1209_0025",
+      "value": "Keep it together, Takuma.\nWe’re all counting on you!"
+    },
+    {
+      "key": "EP02_S1209_0026",
+      "value": "For now, let’s focus on looking for them!"
+    },
+    {
+      "key": "EP02_S1209_0027",
+      "value": "Yeah, you’re right. Sorry..."
+    },
+    {
+      "key": "EP02_S1209_0028",
+      "value": "They must be hungry."
+    },
+    {
+      "key": "EP02_S1209_0029",
+      "value": "Does that matter now?"
+    },
+    {
+      "key": "EP02_S1209_0030",
+      "value": "Ha ha! But that’s important too."
+    },
+    {
+      "key": "EP02_S1209_0031",
+      "value": "Hunger makes you irrational.\nAnd it makes it hard to survive!"
+    },
+    {
+      "key": "EP02_S1209_0032",
+      "value": "And you’re sad when you’re hungry..."
+    },
+    {
+      "key": "EP02_S1209_0033",
+      "value": "That’s why we need to find them!\nWe’ve got to get them some food!"
+    },
+    {
+      "key": "EP02_S1209_0034",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP02_S1209_0035",
+      "value": "Huh? Labramon?\nYou okay?"
+    },
+    {
+      "key": "EP02_S1209_0036",
+      "value": "There’s a scent here...\nBut I can’t tell where, exactly."
+    },
+    {
+      "key": "EP02_S1209_0037",
+      "value": "Is something hiding out there?"
+    },
+    {
+      "key": "EP02_S1209_0038",
+      "value": "I’m not sure whether it’s friend or foe..."
+    },
+    {
+      "key": "EP02_S1209_0039",
+      "value": "But it’s someone pretty strong..."
+    },
+    {
+      "key": "EP02_S1209_0040",
+      "value": "There are traces of something around here."
+    },
+    {
+      "key": "EP02_S1209_0041",
+      "value": "Traces?\nBut nowhere else?"
+    },
+    {
+      "key": "EP02_S1209_0042",
+      "value": "Something might show up on camera!\nTake a look, Takuma!"
+    },
+    {
+      "key": "EP02_S1209_0043",
+      "value": "Whoa!"
+    },
+    {
+      "key": "EP02_S1209_0044",
+      "value": "What is this?!"
+    },
+    {
+      "key": "EP02_S1209_0045",
+      "value": "A whole bunch of creature footprints!\nThe professor’s in danger!"
+    },
+    {
+      "key": "EP02_S1209_0046",
+      "value": "They’re heading away from us..."
+    },
+    {
+      "key": "EP02_S1209_0047",
+      "value": "To the inner shrine!"
+    },
+    {
+      "key": "EP02_S1209_0048",
+      "value": "(Is something dangerous coming?\nI hope the professor is safe...)"
+    }
+  ]
+}

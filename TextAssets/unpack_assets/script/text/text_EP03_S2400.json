@@ -1,0 +1,220 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2400_0001",
+      "value": "Professor... What should I do?"
+    },
+    {
+      "key": "EP03_S2400_0002",
+      "value": "Shuuji, stop that, would you? All that\ntalking to the professor is driving me crazy."
+    },
+    {
+      "key": "EP03_S2400_0003",
+      "value": "But Saki...aren’t you sad? He was so good to\nus, and then...then he was gone."
+    },
+    {
+      "key": "EP03_S2400_0004",
+      "value": "That’s why I’m telling you to stop! Because\nI can’t help thinking about what happened!"
+    },
+    {
+      "key": "EP03_S2400_0005",
+      "value": "The professor saved me too! He was very nice\nto me."
+    },
+    {
+      "key": "EP03_S2400_0006",
+      "value": "And then, when I think about what happened...\n*sob*"
+    },
+    {
+      "key": "EP03_S2400_0007",
+      "value": "I... I’m sorry."
+    },
+    {
+      "key": "EP03_S2400_0008",
+      "value": "Man, they’re both so sad."
+    },
+    {
+      "key": "EP03_S2400_0009",
+      "value": "(Clearly they’re upset about what happened to\nthe professor.)"
+    },
+    {
+      "key": "EP03_S2400_Q1",
+      "value": "(How should I try to approach them?)"
+    },
+    {
+      "key": "EP03_S2400_Q1_A1",
+      "value": "Comfort Saki."
+    },
+    {
+      "key": "EP03_S2400_Q1_A2",
+      "value": "Encourage Shuuji."
+    },
+    {
+      "key": "EP03_S2400_Q1_A3",
+      "value": "Cheer up both."
+    },
+    {
+      "key": "EP03_S2400_0010",
+      "value": "Comfort Saki."
+    },
+    {
+      "key": "EP03_S2400_0011",
+      "value": "It’s hard, isn’t it, Saki? I know just how\nyou feel."
+    },
+    {
+      "key": "EP03_S2400_0012",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP03_S2400_0013",
+      "value": "We didn’t spend a lot of time together, but\nI owe a lot to the professor."
+    },
+    {
+      "key": "EP03_S2400_0014",
+      "value": "Which is why, for his sake, we all need to\nfind a way to make it home, safe and sound. "
+    },
+    {
+      "key": "EP03_S2400_0015",
+      "value": "Yeah... You’re right. Thanks, Takuma."
+    },
+    {
+      "key": "EP03_S2400_0016",
+      "value": "Hey, that wasn’t half bad. I guess Takuma’s\nall right."
+    },
+    {
+      "key": "EP03_S2400_0017",
+      "value": "Heheh, yeah, isn’t he great?"
+    },
+    {
+      "key": "EP03_S2400_0018",
+      "value": "I don’t see what you’re so proud about."
+    },
+    {
+      "key": "EP03_S2400_0019",
+      "value": "Encourage Shuuji."
+    },
+    {
+      "key": "EP03_S2400_0020",
+      "value": "Shuuji, I rely on you. Not because you’re the\noldest, but because I believe in you."
+    },
+    {
+      "key": "EP03_S2400_0021",
+      "value": "Oh? Really?"
+    },
+    {
+      "key": "EP03_S2400_0022",
+      "value": "Really. I mean, you’re working harder than\nanyone to take charge right now."
+    },
+    {
+      "key": "EP03_S2400_0023",
+      "value": "I think that’s inspiring, and I know the\nprofessor would be proud."
+    },
+    {
+      "key": "EP03_S2400_0024",
+      "value": "You think so? That’s...that’s great to hear.\nThanks."
+    },
+    {
+      "key": "EP03_S2400_0025",
+      "value": "All right! I am going to do this! I am going\nto step up and keep everybody safe!"
+    },
+    {
+      "key": "EP03_S2400_0026",
+      "value": "I’m glad Shuuji’s feeling better."
+    },
+    {
+      "key": "EP03_S2400_0027",
+      "value": "Yeah... Me too."
+    },
+    {
+      "key": "EP03_S2400_0028",
+      "value": "Cheer up both."
+    },
+    {
+      "key": "EP03_S2400_0029",
+      "value": "Come on, you two, don’t get so down. That’s\nnot what the professor would want, is it?"
+    },
+    {
+      "key": "EP03_S2400_0030",
+      "value": "You’re right... It’s not."
+    },
+    {
+      "key": "EP03_S2400_0031",
+      "value": "And I mean, I know that, but still..."
+    },
+    {
+      "key": "EP03_S2400_0032",
+      "value": "Come on, how long are you two going to mope\naround? You were both so fired up before!"
+    },
+    {
+      "key": "EP03_S2400_0033",
+      "value": "Have you stopped caring about whether we stay\nhere or go exploring?"
+    },
+    {
+      "key": "EP03_S2400_0034",
+      "value": "No, wait! Don’t bring that up..."
+    },
+    {
+      "key": "EP03_S2400_0035",
+      "value": "You think I’ve stopped caring?! I’ve been\nsaying we should go explore this whole time!"
+    },
+    {
+      "key": "EP03_S2400_0036",
+      "value": "What? You know I can’t allow something so\ndangerous!"
+    },
+    {
+      "key": "EP03_S2400_0037",
+      "value": "I can’t believe you! How can you be so\nstubborn?!"
+    },
+    {
+      "key": "EP03_S2400_0038",
+      "value": "I’m the oldest one here! It’s my\nresponsibility!"
+    },
+    {
+      "key": "EP03_S2400_0039",
+      "value": "Well, I’m a lot more concerned about getting\nhome than I am about your responsibility!"
+    },
+    {
+      "key": "EP03_S2400_0040",
+      "value": "Oh no, now they’re fighting again..."
+    },
+    {
+      "key": "EP03_S2400_0041",
+      "value": "You see? This is what I was afraid was going\nto happen."
+    },
+    {
+      "key": "EP03_S2400_0042",
+      "value": "Well, at least they’re both fired up again."
+    },
+    {
+      "key": "EP03_S2400_0043",
+      "value": "So, uh, I take it neither one of you has\nchanged their mind."
+    },
+    {
+      "key": "EP03_S2400_0044",
+      "value": "That’s right! We’re going exploring!"
+    },
+    {
+      "key": "EP03_S2400_0045",
+      "value": "No, you’ve got it backwards! We’re staying\nright here!"
+    },
+    {
+      "key": "EP03_S2400_0046",
+      "value": "We’re going!"
+    },
+    {
+      "key": "EP03_S2400_0047",
+      "value": "We’re staying!"
+    },
+    {
+      "key": "EP03_S2400_0048",
+      "value": "*sigh*... I guess I’ll come back again later."
+    },
+    {
+      "key": "EP03_S2400_0049",
+      "value": "Keep it friendly!"
+    },
+    {
+      "key": "EP03_S2400_0050",
+      "value": "(Man, they’re still at it. This could take\na while. I’d better go talk to the others.)"
+    }
+  ]
+}

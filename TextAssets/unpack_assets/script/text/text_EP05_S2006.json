@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S2006_0001",
+      "value": "Oh, hey, Takuma! C’mere!"
+    },
+    {
+      "key": "EP05_S2006_0002",
+      "value": "What is it, Floramon?"
+    },
+    {
+      "key": "EP05_S2006_0003",
+      "value": "Look here! There’s something in the water!"
+    },
+    {
+      "key": "EP05_S2006_0004",
+      "value": "There is? I don’t see anything..."
+    },
+    {
+      "key": "EP05_S2006_0005",
+      "value": "It’s there, I swear! Maybe humans can’t see\nit? I bet it’s pretty important, though!"
+    },
+    {
+      "key": "EP05_S2006_0006",
+      "value": "(Humans can’t see it... Oh, I know. I’ll try\n<color=#B41919>looking with my camera</color>.)"
+    },
+    {
+      "key": "EP05_S2006_0007",
+      "value": "Can’t tell if it’s related to Shuuji at all,\nbut you should check it out!"
+    }
+  ]
+}

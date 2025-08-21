@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2421_0001",
+      "value": "Hm? It...won’t open?"
+    },
+    {
+      "key": "EP03_S2421_0002",
+      "value": "Oh no... Could this be Dokugumon again?!"
+    },
+    {
+      "key": "EP03_S2421_0003",
+      "value": "Wait. I think the door’s actually just\nlocked."
+    },
+    {
+      "key": "EP03_S2421_0004",
+      "value": "But...why would it be?"
+    },
+    {
+      "key": "EP03_S2421_0005",
+      "value": "Well, whatever the reason, I’m not getting\nthrough here. I’d better move on."
+    }
+  ]
+}

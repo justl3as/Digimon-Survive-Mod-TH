@@ -1,0 +1,276 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0090_0001",
+      "value": "We did it...\nIt was tough, but we took it down!!!"
+    },
+    {
+      "key": "EP02_S0090_0002",
+      "value": "You, you guys are amazing!"
+    },
+    {
+      "key": "EP02_S0090_0003",
+      "value": "What the heck is going on?"
+    },
+    {
+      "key": "EP02_S0090_0004",
+      "value": "There’s a lot to explain..."
+    },
+    {
+      "key": "EP02_S0090_0005",
+      "value": "Did you all..."
+    },
+    {
+      "key": "EP02_S0090_0006",
+      "value": "Like you said, a lot to explain..."
+    },
+    {
+      "key": "EP02_S0090_0007",
+      "value": "Lopmon is best friends with him now."
+    },
+    {
+      "key": "EP02_S0090_0008",
+      "value": "...I wouldn’t call us friends."
+    },
+    {
+      "key": "EP02_S0090_0009",
+      "value": "That’s because you’re so mean..."
+    },
+    {
+      "key": "EP02_S0090_0010",
+      "value": "Unnngh..."
+    },
+    {
+      "key": "EP02_S0090_0011",
+      "value": "But you’re so cute..."
+    },
+    {
+      "key": "EP02_S0090_0012",
+      "value": "Heh heh... HAHAHAHA!"
+    },
+    {
+      "key": "EP02_S0090_0014",
+      "value": "Huh?!\nUWAAAH!"
+    },
+    {
+      "key": "EP02_S0090_0101",
+      "value": "Hahaha... *ack*! *cough*, *cough*"
+    },
+    {
+      "key": "EP02_S0090_0102",
+      "value": "You’re much tougher than I thought, dammit!"
+    },
+    {
+      "key": "EP02_S0090_0103",
+      "value": "What? After all that, you can still move?"
+    },
+    {
+      "key": "EP02_S0090_0104",
+      "value": "He’s really stubborn!"
+    },
+    {
+      "key": "EP02_S0090_0105",
+      "value": "No! We can’t afford to give up now!"
+    },
+    {
+      "key": "EP02_S0090_0106",
+      "value": "Yeah! And I’ll protect Aoi!"
+    },
+    {
+      "key": "EP02_S0090_0107",
+      "value": "But you’re totally beat!"
+    },
+    {
+      "key": "EP02_S0090_0108",
+      "value": "You’re still willing to fight for us..."
+    },
+    {
+      "key": "EP02_S0090_0109",
+      "value": "(They must have reached their limit by now.)"
+    },
+    {
+      "key": "EP02_S0090_0110",
+      "value": "(I don’t think we have any strength left...)"
+    },
+    {
+      "key": "EP02_S0090_0111",
+      "value": "One against so many? Hardly seems fair."
+    },
+    {
+      "key": "EP02_S0090_0112",
+      "value": "Wait...did it run away?"
+    },
+    {
+      "key": "EP02_S0090_0113",
+      "value": "We’re saved..."
+    },
+    {
+      "key": "EP02_S0090_0114",
+      "value": "(We survived somehow!)"
+    },
+    {
+      "key": "EP02_S0090_Q1",
+      "value": "(For the time being...)"
+    },
+    {
+      "key": "EP02_S0090_Q1_A1",
+      "value": "Let’s get out of here."
+    },
+    {
+      "key": "EP02_S0090_Q1_A2",
+      "value": "Let’s go after it."
+    },
+    {
+      "key": "EP02_S0090_Q1_A3",
+      "value": "Let’s rest a little."
+    },
+    {
+      "key": "EP02_S0090_0115",
+      "value": "I know we’re all tired, but we have to get\ngoing."
+    },
+    {
+      "key": "EP02_S0090_0116",
+      "value": "It’s not safe here, right?"
+    },
+    {
+      "key": "EP02_S0090_0117",
+      "value": "That’s true, but I don’t think we can move\nyet."
+    },
+    {
+      "key": "EP02_S0090_0118",
+      "value": "Let’s go after it. We have to eliminate the\nthreat."
+    },
+    {
+      "key": "EP02_S0090_0119",
+      "value": "I’m sorry, Takuma... I’m too tired..."
+    },
+    {
+      "key": "EP02_S0090_0120",
+      "value": "I’m sorry too... I can’t..."
+    },
+    {
+      "key": "EP02_S0090_0121",
+      "value": "We couldn’t possibly move now!\nWhat’re you thinking?"
+    },
+    {
+      "key": "EP02_S0090_0122",
+      "value": "You’re right. Sorry."
+    },
+    {
+      "key": "EP02_S0090_0123",
+      "value": "We need to get somewhere safe, but let’s\nrest for a bit first. I can’t even stand..."
+    },
+    {
+      "key": "EP02_S0090_0124",
+      "value": "Yeah, it’s fine. We’re too exhausted."
+    },
+    {
+      "key": "EP02_S0090_0125",
+      "value": "I’m in no state to complain anymore..."
+    },
+    {
+      "key": "EP02_S0090_0126",
+      "value": "Thanks...\nLet’s rest a little and then head home."
+    },
+    {
+      "key": "EP02_S0090_0127",
+      "value": "But... what happened to the professor?"
+    },
+    {
+      "key": "EP02_S0090_0128",
+      "value": "Urgh..."
+    },
+    {
+      "key": "EP02_S0090_0129",
+      "value": "(It was hard to say, and as I hesitated,\nsomeone else said it.)"
+    },
+    {
+      "key": "EP02_S0090_0130",
+      "value": "Hey, look! Down there."
+    },
+    {
+      "key": "EP02_S0090_0131",
+      "value": "Oh... The fog..."
+    },
+    {
+      "key": "EP02_S0090_0061",
+      "value": "That fog... It’s so scary..."
+    },
+    {
+      "key": "EP02_S0090_0201",
+      "value": "Let’s get out of here, Takuma. That fog is\ndangerous..."
+    },
+    {
+      "key": "EP02_S0090_0202",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP02_S0090_0132",
+      "value": "(It’s so thick. Just looking at it gives me\nthe shakes.)"
+    },
+    {
+      "key": "EP02_S0090_0133",
+      "value": "But maybe...just maybe...the professor might\nbe still alive?"
+    },
+    {
+      "key": "EP02_S0090_0134",
+      "value": "Huh...?"
+    },
+    {
+      "key": "EP02_S0090_0135",
+      "value": "He fell before the fog came in, right?\nMaybe the fog didn’t touch him."
+    },
+    {
+      "key": "EP02_S0090_0066",
+      "value": "I mean...we don’t know for a fact that he’s\ndead, right?!"
+    },
+    {
+      "key": "EP02_S0090_0067",
+      "value": "True. We lack proof. We cannot even see\na body from here."
+    },
+    {
+      "key": "EP02_S0090_0068",
+      "value": "Yet even without the fog, a fall from this\nheight..."
+    },
+    {
+      "key": "EP02_S0090_0136",
+      "value": "We can’t know for sure!"
+    },
+    {
+      "key": "EP02_S0090_0137",
+      "value": "I’ll go down and look!"
+    },
+    {
+      "key": "EP02_S0090_0138",
+      "value": "Minoru, hang on!"
+    },
+    {
+      "key": "EP02_S0090_0139",
+      "value": "Don’t stop me!"
+    },
+    {
+      "key": "EP02_S0090_0140",
+      "value": "No, I’ll go with you.\nI want to make sure."
+    },
+    {
+      "key": "EP02_S0090_0141",
+      "value": "I’ll go too! If there’s even a chance he’s\nstill alive, we have to help him!"
+    },
+    {
+      "key": "EP02_S0090_0142",
+      "value": "I’ll help too!"
+    },
+    {
+      "key": "EP02_S0090_0143",
+      "value": "I can’t let you go without me!\nLet me go first!"
+    },
+    {
+      "key": "EP02_S0090_0144",
+      "value": "Hey, I’m going too!"
+    },
+    {
+      "key": "EP02_S0090_0145",
+      "value": "Okay... Let’s all search for the professor."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S0550_0001",
+      "value": "You’re looking kind of grim, Saki."
+    },
+    {
+      "key": "EP10_S0550_0002",
+      "value": "Takuma... I’m scared."
+    },
+    {
+      "key": "EP10_S0550_0003",
+      "value": "Things are only going to get more dangerous,\naren’t they? I could get hurt, or even die."
+    },
+    {
+      "key": "EP10_S0550_0004",
+      "value": "Don’t worry! We’ll protect everyone!"
+    },
+    {
+      "key": "EP10_S0550_0005",
+      "value": "I know things are dangerous here, but don’t\nforget about us!"
+    },
+    {
+      "key": "EP10_S0550_0006",
+      "value": "Agumon, Floramon..."
+    },
+    {
+      "key": "EP10_S0550_0007",
+      "value": "Thank you. I believe in you both."
+    },
+    {
+      "key": "EP10_S0550_0008",
+      "value": "But I still can’t get over my own weakness."
+    },
+    {
+      "key": "EP10_S0550_0009",
+      "value": "(Saki seems to be considering her next course\nof action way more seriously than usual.)"
+    },
+    {
+      "key": "EP10_S0550_0010",
+      "value": "(That’s why she’s overthinking, and getting\nherself all worked up.)"
+    },
+    {
+      "key": "EP10_S0550_0011",
+      "value": "(Still, I wanna support what she’s trying to\ndo—encourage the way she’s thinking now.)"
+    },
+    {
+      "key": "EP10_S0550_Q1",
+      "value": "(How can I encourage Saki?)"
+    },
+    {
+      "key": "EP10_S0550_Q1_A1",
+      "value": "We can trust them."
+    },
+    {
+      "key": "EP10_S0550_Q1_A2",
+      "value": "Don’t worry!"
+    },
+    {
+      "key": "EP10_S0550_Q1_A3",
+      "value": "Okay to be weak."
+    },
+    {
+      "key": "EP10_S0550_0012",
+      "value": "Don’t worry, Agumon and the others will\nprotect us for sure. Let’s trust them."
+    },
+    {
+      "key": "EP10_S0550_0013",
+      "value": "Yeah... Yeah, you’re right."
+    },
+    {
+      "key": "EP10_S0550_0014",
+      "value": "Hey, Floramon. You’ll still protect me, even\nif I’m not as brave as before?"
+    },
+    {
+      "key": "EP10_S0550_0015",
+      "value": "Do you think that makes me a coward? Do you\nhate me for it?"
+    },
+    {
+      "key": "EP10_S0550_0016",
+      "value": "It doesn’t bother me. I think it’s normal to\nbe scared."
+    },
+    {
+      "key": "EP10_S0550_0017",
+      "value": "And you shouldn’t hate yourself just because\nyou’re not as strong as you want to be."
+    },
+    {
+      "key": "EP10_S0550_0018",
+      "value": "I don’t think any less of you for it."
+    },
+    {
+      "key": "EP10_S0550_0019",
+      "value": "You’re my friend, Saki!"
+    },
+    {
+      "key": "EP10_S0550_0020",
+      "value": "Oh, Floramon..."
+    },
+    {
+      "key": "EP10_S0550_0021",
+      "value": "Don’t worry, Saki! I know it’s dangerous, but\nthings will all work out."
+    },
+    {
+      "key": "EP10_S0550_0022",
+      "value": "How do you know that?"
+    },
+    {
+      "key": "EP10_S0550_0023",
+      "value": "I don’t know any proof or anything... Just,\nwe have to think that way to make it happen."
+    },
+    {
+      "key": "EP10_S0550_0024",
+      "value": "But that’s hardly..."
+    },
+    {
+      "key": "EP10_S0550_0025",
+      "value": "Ahhh, no, this is all wrong!"
+    },
+    {
+      "key": "EP10_S0550_0026",
+      "value": "Spouting all these negative things isn’t my\nstyle at all!"
+    },
+    {
+      "key": "EP10_S0550_0027",
+      "value": "It doesn’t bother me. I think it’s normal to\nfeel negative sometimes."
+    },
+    {
+      "key": "EP10_S0550_0028",
+      "value": "When you acknowledge your own weakness,\nthat’s when you can really move forward."
+    },
+    {
+      "key": "EP10_S0550_0029",
+      "value": "Huh... So that’s how it works?"
+    },
+    {
+      "key": "EP10_S0550_0030",
+      "value": "It’s not something to put yourself down over.\nWeakness isn’t a bad thing."
+    },
+    {
+      "key": "EP10_S0550_0031",
+      "value": "Yeah, that just means you see things more\nrealistically than before."
+    },
+    {
+      "key": "EP10_S0550_0032",
+      "value": "Huh, you think so?"
+    },
+    {
+      "key": "EP10_S0550_0033",
+      "value": "Yeah. I feel like you tried to avoid seeing\nthe tough stuff before."
+    },
+    {
+      "key": "EP10_S0550_0034",
+      "value": "But now you’re taking in everything—that’s\nwhat makes you anxious and worried."
+    },
+    {
+      "key": "EP10_S0550_0035",
+      "value": "Next, take a good, hard look at how you’re\nscared of being able to see your weakness."
+    },
+    {
+      "key": "EP10_S0550_0036",
+      "value": "Yeah, Floramon’s right."
+    },
+    {
+      "key": "EP10_S0550_0037",
+      "value": "If you accept your own weakness, I’m sure\nyou’ll know how to handle it next time."
+    },
+    {
+      "key": "EP10_S0550_0038",
+      "value": "Yeah... Yeah, you’re right. I feel better\nnow, somehow."
+    },
+    {
+      "key": "EP10_S0550_0039",
+      "value": "There’s nothing wrong with being me."
+    },
+    {
+      "key": "EP10_S0550_0040",
+      "value": "Yep, not a thing."
+    },
+    {
+      "key": "EP10_S0550_0041",
+      "value": "I wonder what’s coming our way? It’s gonna\nget even dicier from here on out, I bet."
+    }
+  ]
+}

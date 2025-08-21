@@ -1,0 +1,304 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S1308_0001",
+      "value": "This shrine goes farther in than I first\nexpected."
+    },
+    {
+      "key": "EP11_S1308_0002",
+      "value": "Yeah. As far as I know—"
+    },
+    {
+      "key": "EP11_S1308_0003",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP11_S1308_0004",
+      "value": "Renamon? What is it?"
+    },
+    {
+      "key": "EP11_S1308_0005",
+      "value": "Shh! I thought I heard something!"
+    },
+    {
+      "key": "EP11_S1308_0006",
+      "value": "Shit! Next time we meet, I’ll make you\nregret—"
+    },
+    {
+      "key": "EP11_S1308_0007",
+      "value": "(Hey, that voice!)"
+    },
+    {
+      "key": "EP11_S1308_0008",
+      "value": "Hey! It’s them!"
+    },
+    {
+      "key": "EP11_S1308_0009",
+      "value": "Tch... They found us."
+    },
+    {
+      "key": "EP11_S1308_0010",
+      "value": "Dammit! I knew it!"
+    },
+    {
+      "key": "EP11_S1308_0011",
+      "value": "Wh-what the heck are you guys doing here?!"
+    },
+    {
+      "key": "EP11_S1308_0012",
+      "value": "What, he says... Ain’t it obvious? We’re\ngoing straight for the Master!"
+    },
+    {
+      "key": "EP11_S1308_0013",
+      "value": "I suppose you were all off licking your\nwounds... Am I correct?"
+    },
+    {
+      "key": "EP11_S1308_0014",
+      "value": "Ulp... How’d you know?!"
+    },
+    {
+      "key": "EP11_S1308_0015",
+      "value": "We knocked you jerks on your asses with that\nlast fight, huh?"
+    },
+    {
+      "key": "EP11_S1308_0016",
+      "value": "Now you’ve done it! I guess you need another\nlesson in pain?!"
+    },
+    {
+      "key": "EP11_S1308_0017",
+      "value": "No... Don’t tell me they mean to fight us\nhere?!"
+    },
+    {
+      "key": "EP11_S1308_0018",
+      "value": "No way! But they’re still injured from the\nlast battle!"
+    },
+    {
+      "key": "EP11_S1308_0019",
+      "value": "You say that, but they ain’t looking for\npeace. More like a piece of us!"
+    },
+    {
+      "key": "EP11_S1308_0020",
+      "value": "We should just take the fight to them, yeah?"
+    },
+    {
+      "key": "EP11_S1308_0021",
+      "value": "(So it’s really come to this?!)"
+    },
+    {
+      "key": "EP11_S1308_Q1",
+      "value": "(What strategy should we follow, here?)"
+    },
+    {
+      "key": "EP11_S1308_Q1_A1",
+      "value": "Take them head-on!"
+    },
+    {
+      "key": "EP11_S1308_Q1_A2",
+      "value": "Strike first!"
+    },
+    {
+      "key": "EP11_S1308_Q1_A3",
+      "value": "Try and talk first."
+    },
+    {
+      "key": "EP11_S1308_0022",
+      "value": "Meet them head-on!"
+    },
+    {
+      "key": "EP11_S1308_0023",
+      "value": "For now...let’s take them head-on!"
+    },
+    {
+      "key": "EP11_S1308_0024",
+      "value": "Got it, Takuma! Leave it to me!"
+    },
+    {
+      "key": "EP11_S1308_0025",
+      "value": "Looks like you’re ready for what’s coming!\nKenzokuuu! GO GET ’EM!"
+    },
+    {
+      "key": "EP11_S1308_0026",
+      "value": "Kishhaaaaaah!"
+    },
+    {
+      "key": "EP11_S1308_0027",
+      "value": "You’ll not defeat us so easily!"
+    },
+    {
+      "key": "EP11_S1308_0028",
+      "value": "Yeah! I’d say it’s time for payback!"
+    },
+    {
+      "key": "EP11_S1308_0029",
+      "value": "Rrrk...?!"
+    },
+    {
+      "key": "EP11_S1308_0030",
+      "value": "Nooo, you wouldn’t..."
+    },
+    {
+      "key": "EP11_S1308_0031",
+      "value": "Strike first!"
+    },
+    {
+      "key": "EP11_S1308_0032",
+      "value": "We’ve gotta break through here quickly! Let’s\nstrike first!"
+    },
+    {
+      "key": "EP11_S1308_0033",
+      "value": "In that case, leave it to me."
+    },
+    {
+      "key": "EP11_S1308_0034",
+      "value": "We’re here for a fight, too!"
+    },
+    {
+      "key": "EP11_S1308_0035",
+      "value": "Ladies and gents... Get ready to RUMBLE!"
+    },
+    {
+      "key": "EP11_S1308_0036",
+      "value": "Ack! They’re coming right for us!"
+    },
+    {
+      "key": "EP11_S1308_0037",
+      "value": "Gah... Rrrgh..."
+    },
+    {
+      "key": "EP11_S1308_0038",
+      "value": "You gotta be kidding!"
+    },
+    {
+      "key": "EP11_S1308_0039",
+      "value": "Try and talk first."
+    },
+    {
+      "key": "EP11_S1308_0040",
+      "value": "Let’s try and talk things over first!"
+    },
+    {
+      "key": "EP11_S1308_0041",
+      "value": "What, you wanna make nicey-nice? That ain’t\ngonna happen, pal!"
+    },
+    {
+      "key": "EP11_S1308_0042",
+      "value": "Come on, Kenzoku! Make mincemeat outta these\nsneaky mice!"
+    },
+    {
+      "key": "EP11_S1308_0043",
+      "value": "Hey, that’s not fair! At least hear us out\nfirst!"
+    },
+    {
+      "key": "EP11_S1308_0044",
+      "value": "Ahahaha! And why the heck would we do that?!"
+    },
+    {
+      "key": "EP11_S1308_0045",
+      "value": "Takuma! We’ll lose everyone at this rate!"
+    },
+    {
+      "key": "EP11_S1308_0046",
+      "value": "Damn... It didn’t work! Guess we have to\nfight after all!"
+    },
+    {
+      "key": "EP11_S1308_0047",
+      "value": "I’ll take care of this, Takuma!"
+    },
+    {
+      "key": "EP11_S1308_0048",
+      "value": "Gah-shaaaaaa!"
+    },
+    {
+      "key": "EP11_S1308_0049",
+      "value": "Ugh... Bastards..."
+    },
+    {
+      "key": "EP11_S1308_0050",
+      "value": "Uh, huh...? He talked some mad game, but they\nfell apart almost instantly."
+    },
+    {
+      "key": "EP11_S1308_0051",
+      "value": "The previous battle must have taken a real\ntoll. Their injuries likely hadn’t healed."
+    },
+    {
+      "key": "EP11_S1308_0052",
+      "value": "Shut up! Wounds like this won’t—"
+    },
+    {
+      "key": "EP11_S1308_0053",
+      "value": "Aaack!"
+    },
+    {
+      "key": "EP11_S1308_0054",
+      "value": "Stop it. There’s nothing to gain from pushing\nyourself now."
+    },
+    {
+      "key": "EP11_S1308_0055",
+      "value": "Big talk for a bunch of traitors... You’re\njust here to finish us off anyway, ain’t you?"
+    },
+    {
+      "key": "EP11_S1308_0056",
+      "value": "Then just get on with it!"
+    },
+    {
+      "key": "EP11_S1308_0057",
+      "value": "Instead... How about a deal?"
+    },
+    {
+      "key": "EP11_S1308_0058",
+      "value": "A deal?!"
+    },
+    {
+      "key": "EP11_S1308_0059",
+      "value": "Hand over the Magatama... The one used to\nopen the door to the inner area."
+    },
+    {
+      "key": "EP11_S1308_0060",
+      "value": "We’ll leave if you do."
+    },
+    {
+      "key": "EP11_S1308_0061",
+      "value": "Renamon..."
+    },
+    {
+      "key": "EP11_S1308_0062",
+      "value": "Our goal is to save Miyuki, after all. So...\nthis works, right?"
+    },
+    {
+      "key": "EP11_S1308_0063",
+      "value": "Yeah, Renamon’s right. So what do you say?"
+    },
+    {
+      "key": "EP11_S1308_0064",
+      "value": "Hmph... Hate to break it to you, but we don’t\nhave the Magatama. Someone else does."
+    },
+    {
+      "key": "EP11_S1308_0065",
+      "value": "What?!"
+    },
+    {
+      "key": "EP11_S1308_0066",
+      "value": "You ain’t pulling our leg, are ya?!"
+    },
+    {
+      "key": "EP11_S1308_0067",
+      "value": "Don’t believe me! Fine, do whatever you want!"
+    },
+    {
+      "key": "EP11_S1308_0068",
+      "value": "You’ll just be wasting precious time!"
+    },
+    {
+      "key": "EP11_S1308_0069",
+      "value": "I don’t think he’s lying. What should we do?"
+    },
+    {
+      "key": "EP11_S1308_0070",
+      "value": "If someone else has it, then of course we\nhave to track them down."
+    },
+    {
+      "key": "EP11_S1308_0071",
+      "value": "Okay... Then let’s go look somewhere else."
+    }
+  ]
+}

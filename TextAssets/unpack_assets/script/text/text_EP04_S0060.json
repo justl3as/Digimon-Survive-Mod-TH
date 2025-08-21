@@ -1,0 +1,608 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0060_0001",
+      "value": "(Following the monsters that attacked us, we\nfinally found what seems like a hideout.)"
+    },
+    {
+      "key": "EP04_S0060_0002",
+      "value": "What is this place?"
+    },
+    {
+      "key": "EP04_S0060_0003",
+      "value": "It’s like where you’d expect to talk to the\nking in some fantasy RPG."
+    },
+    {
+      "key": "EP04_S0060_0004",
+      "value": "Yeah, you think that’s an actual throne?"
+    },
+    {
+      "key": "EP04_S0060_0005",
+      "value": "That’s the word for where a king or queen\nsits, right?"
+    },
+    {
+      "key": "EP04_S0060_0006",
+      "value": "How can you be talking definitions right now?\nThere could be an evil queen here somewhere!"
+    },
+    {
+      "key": "EP04_S0060_0007",
+      "value": "More importantly, we still haven’t found Miu!"
+    },
+    {
+      "key": "EP04_S0060_0008",
+      "value": "Miu! Where are you?! I know you’re here\nsomewhere!"
+    },
+    {
+      "key": "EP04_S0060_0009",
+      "value": "Hey, Kaito! Cut it out! Keep yelling like\nthat, and the queen’s sure to find us!"
+    },
+    {
+      "key": "EP04_S0060_0010",
+      "value": "What’s going on? Who’s making all that noise?"
+    },
+    {
+      "key": "EP04_S0060_0011",
+      "value": "That voice...!"
+    },
+    {
+      "key": "EP04_S0060_0012",
+      "value": "Huh?! Is that who I think it is up on that\nthrone?"
+    },
+    {
+      "key": "EP04_S0060_0013",
+      "value": "I thought so."
+    },
+    {
+      "key": "EP04_S0060_0014",
+      "value": "Wait, Miu was the queen?!"
+    },
+    {
+      "key": "EP04_S0060_0015",
+      "value": "Whoa! No way!"
+    },
+    {
+      "key": "EP04_S0060_0016",
+      "value": "I... I had no idea."
+    },
+    {
+      "key": "EP04_S0060_0017",
+      "value": "Well, who else would it be?"
+    },
+    {
+      "key": "EP04_S0060_0018",
+      "value": "Yeah, I had my suspicions too."
+    },
+    {
+      "key": "EP04_S0060_0019",
+      "value": "So did I. I thought it might be her once we\nheard the queen was a little girl."
+    },
+    {
+      "key": "EP04_S0060_0020",
+      "value": "Yes, though I found that somewhat hard to\nbelieve until I had seen it for myself."
+    },
+    {
+      "key": "EP04_S0060_0021",
+      "value": "You mean you all knew?!"
+    },
+    {
+      "key": "EP04_S0060_0022",
+      "value": "Of course! I got it right from the start!"
+    },
+    {
+      "key": "EP04_S0060_0023",
+      "value": "Nah, I’m not buying that from you, Dracmon."
+    },
+    {
+      "key": "EP04_S0060_0024",
+      "value": "Well, now we can be sure the queen isn’t some\nhorrible monster. That’s the important thing."
+    },
+    {
+      "key": "EP04_S0060_0025",
+      "value": "(I don’t think Shuuji had any idea either.)"
+    },
+    {
+      "key": "EP04_S0060_0026",
+      "value": "Hey! What are you all doing barging in here?"
+    },
+    {
+      "key": "EP04_S0060_0027",
+      "value": "Miu! I finally found you! And you’re all\nright!"
+    },
+    {
+      "key": "EP04_S0060_0028",
+      "value": "Oh, I’m so glad. I’m so glad you’re not hurt."
+    },
+    {
+      "key": "EP04_S0060_0029",
+      "value": "(Kaito has tears in his eyes. Exactly what\nyou’d expect out of a touching reunion.)"
+    },
+    {
+      "key": "EP04_S0060_0030",
+      "value": "(No doubt Miu is glad to see him t—)"
+    },
+    {
+      "key": "EP04_S0060_0031",
+      "value": "Ugh. Shut up!"
+    },
+    {
+      "key": "EP04_S0060_0032",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S0060_0033",
+      "value": "This is the worst! Did you chase me all the\nway here?"
+    },
+    {
+      "key": "EP04_S0060_0034",
+      "value": "You know I did. Now come on, it’s not safe\nfor you to be out here on your own."
+    },
+    {
+      "key": "EP04_S0060_0035",
+      "value": "I’m not on my own! I’ve got everyone here!"
+    },
+    {
+      "key": "EP04_S0060_0036",
+      "value": "Everyone here? What do you mean?"
+    },
+    {
+      "key": "EP04_S0060_0037",
+      "value": "Are you talking about all those little\nguys?"
+    },
+    {
+      "key": "EP04_S0060_0038",
+      "value": "Well, they did say they were servants of the\nqueen."
+    },
+    {
+      "key": "EP04_S0060_0039",
+      "value": "That’s right! They’re all my servants! Oh,\nexcept for Syakomon. She’s my best friend!"
+    },
+    {
+      "key": "EP04_S0060_0040",
+      "value": "Ser...vants..."
+    },
+    {
+      "key": "EP04_S0060_0041",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S0060_0042",
+      "value": "Hey, I said Syakomon was different, didn’t I?\nYou tell them, Syakomon!"
+    },
+    {
+      "key": "EP04_S0060_0043",
+      "value": "It’s a pleasure to meet you, Kaito."
+    },
+    {
+      "key": "EP04_S0060_0044",
+      "value": "An-another monster?!"
+    },
+    {
+      "key": "EP04_S0060_0045",
+      "value": "Don’t you call her a monster! Syakomon’s the\nonly one who understands me!"
+    },
+    {
+      "key": "EP04_S0060_0046",
+      "value": "That’s right, Miu!"
+    },
+    {
+      "key": "EP04_S0060_0047",
+      "value": "So, you’re the one who put her up to this?"
+    },
+    {
+      "key": "EP04_S0060_0048",
+      "value": "Syakomon’s not like that! I don’t believe\nwhat I’m hearing!"
+    },
+    {
+      "key": "EP04_S0060_0049",
+      "value": "You’re always like this! You act tough, pick\nfights, won’t shut up, and are so annoying!"
+    },
+    {
+      "key": "EP04_S0060_0050",
+      "value": "No, I just..."
+    },
+    {
+      "key": "EP04_S0060_0051",
+      "value": "And anyway, I don’t want to be around those\nstrangers from some other school!"
+    },
+    {
+      "key": "EP04_S0060_0052",
+      "value": "Uh, you mean us?"
+    },
+    {
+      "key": "EP04_S0060_0053",
+      "value": "Figures. You can’t put kids from different\nschools together and expect ’em to get along."
+    },
+    {
+      "key": "EP04_S0060_0054",
+      "value": "Uh-huh. You say that, but I don’t think you\nreally mean it. I mean, come on..."
+    },
+    {
+      "key": "EP04_S0060_0055",
+      "value": "Oh, shut up."
+    },
+    {
+      "key": "EP04_S0060_0056",
+      "value": "Miu, you can trust Takuma and the others.\nThey’re actually really nice."
+    },
+    {
+      "key": "EP04_S0060_0057",
+      "value": "Now come on, I’ve been worried sick about\nyou. Stop goofing off, let’s get moving!"
+    },
+    {
+      "key": "EP04_S0060_0058",
+      "value": "You being bratty about this is just making\nthings worse for everyone!"
+    },
+    {
+      "key": "EP04_S0060_0059",
+      "value": "Ugh. Listen to you. You think you’re sooo\nmuch better than me!"
+    },
+    {
+      "key": "EP04_S0060_0060",
+      "value": "Well, I hate you, Kaito! So there!"
+    },
+    {
+      "key": "EP04_S0060_0061",
+      "value": "Miu..."
+    },
+    {
+      "key": "EP04_S0060_0062",
+      "value": "So much for the caring and supportive brother\nand sister. These two are out of control."
+    },
+    {
+      "key": "EP04_S0060_0063",
+      "value": "Kaito’s always trying to act all cool, but\ncan’t keep it up in front of his sister, huh?"
+    },
+    {
+      "key": "EP04_S0060_0064",
+      "value": "You never can tell what things are really\nlike between siblings."
+    },
+    {
+      "key": "EP04_S0060_0065",
+      "value": "(Strangely enough, out of everyone here,\nShuuji seems the most calm.)"
+    },
+    {
+      "key": "EP04_S0060_0066",
+      "value": "(But I should be focused on what to do in\nthis situation.)"
+    },
+    {
+      "key": "EP04_S0060_0067",
+      "value": "So, what do we do about this? It doesn’t seem\nlike Miu is going to just give in."
+    },
+    {
+      "key": "EP04_S0060_0068",
+      "value": "I was wondering the same thing."
+    },
+    {
+      "key": "EP04_S0060_0069",
+      "value": "And Kaito isn’t in much shape to help right\nnow."
+    },
+    {
+      "key": "EP04_S0060_0070",
+      "value": "She hates me... She said she hates me..."
+    },
+    {
+      "key": "EP04_S0060_0071",
+      "value": "Kaito, really?"
+    },
+    {
+      "key": "EP04_S0060_0072",
+      "value": "She dealt him one heck of a blow. Miu might\njust be the strongest one here."
+    },
+    {
+      "key": "EP04_S0060_0073",
+      "value": "So, what are we going to do?"
+    },
+    {
+      "key": "EP04_S0060_0074",
+      "value": "She’s still just a child. We should scold her\nfor acting out."
+    },
+    {
+      "key": "EP04_S0060_0075",
+      "value": "Without even listening to her side of things?\nYou’ll probably just make her more upset."
+    },
+    {
+      "key": "EP04_S0060_0076",
+      "value": "What concerns me most of all is Miu’s lack of\nany sense of danger."
+    },
+    {
+      "key": "EP04_S0060_0077",
+      "value": "It’s kind of amazing she wasn’t scared on her\nown, even with Syakomon and the others."
+    },
+    {
+      "key": "EP04_S0060_0078",
+      "value": "Maybe we should explain to her just how\ndangerous this world can be."
+    },
+    {
+      "key": "EP04_S0060_0079",
+      "value": "But don’t you think it’d be faster to tempt\nher with stuff? She’s still a kid, after all."
+    },
+    {
+      "key": "EP04_S0060_0080",
+      "value": "If Haru or Miyuki said we had toys and candy,\nI bet she’d love it!"
+    },
+    {
+      "key": "EP04_S0060_0081",
+      "value": "I don’t think so... I’d rather play with my\nsister."
+    },
+    {
+      "key": "EP04_S0060_0082",
+      "value": "Play..."
+    },
+    {
+      "key": "EP04_S0060_0083",
+      "value": "Oh, right, I forgot you two were like this."
+    },
+    {
+      "key": "EP04_S0060_0084",
+      "value": "Okay, enough whispering! It’s getting on my\nnerves. Get out of here already!"
+    },
+    {
+      "key": "EP04_S0060_0085",
+      "value": "Or else!"
+    },
+    {
+      "key": "EP04_S0060_0086",
+      "value": "Uh, I’m not sure what she’s got planned, but\nshe’s up to something."
+    },
+    {
+      "key": "EP04_S0060_0087",
+      "value": "Takuma, what do we do?"
+    },
+    {
+      "key": "EP04_S0060_0088",
+      "value": "(Whatever it is, we need to act fast!)"
+    },
+    {
+      "key": "EP04_S0060_0089",
+      "value": "(Should we scold her, like Shuuji thought?\nEmphasize the danger, like Aoi suggested?)"
+    },
+    {
+      "key": "EP04_S0060_0090",
+      "value": "(Or should we take Minoru’s approach and try\nappealing to her with something she’d want?)"
+    },
+    {
+      "key": "EP04_S0060_Q1",
+      "value": "(What can I say to persuade Miu?)"
+    },
+    {
+      "key": "EP04_S0060_Q1_A1",
+      "value": "This world is dangerous."
+    },
+    {
+      "key": "EP04_S0060_Q1_A2",
+      "value": "Stop acting up!"
+    },
+    {
+      "key": "EP04_S0060_Q1_A3",
+      "value": "We’ve got great food!"
+    },
+    {
+      "key": "EP04_S0060_0091",
+      "value": "The world is dangerous."
+    },
+    {
+      "key": "EP04_S0060_0092",
+      "value": "Miu, you don’t seem to have realized it, but\nthis world is a very dangerous place."
+    },
+    {
+      "key": "EP04_S0060_0093",
+      "value": "So rather than stay here by yourself, why\ndon’t you come with us?"
+    },
+    {
+      "key": "EP04_S0060_0094",
+      "value": "I said I’d be fine with Syakomon here, didn’t\nI? Why aren’t you listening to me?"
+    },
+    {
+      "key": "EP04_S0060_0095",
+      "value": "Are you making fun of Syakomon?!"
+    },
+    {
+      "key": "EP04_S0060_0096",
+      "value": "That’s not what we’re doing at all."
+    },
+    {
+      "key": "EP04_S0060_0097",
+      "value": "We all have our own partners, like Labramon\nhere. We know just how helpful they can be."
+    },
+    {
+      "key": "EP04_S0060_0098",
+      "value": "Then you know I don’t need to go with my\nbrother or anyone else!"
+    },
+    {
+      "key": "EP04_S0060_0099",
+      "value": "Even so, we should stick together! Being with\nSyakomon doesn’t mean you’re not in danger!"
+    },
+    {
+      "key": "EP04_S0060_0100",
+      "value": "I will protect Miu from any danger."
+    },
+    {
+      "key": "EP04_S0060_0101",
+      "value": "This is no use. They have no conception of\nthe true threats they face."
+    },
+    {
+      "key": "EP04_S0060_0102",
+      "value": "(How can we make them understand?)"
+    },
+    {
+      "key": "EP04_S0060_0103",
+      "value": "Stop acting up!"
+    },
+    {
+      "key": "EP04_S0060_0104",
+      "value": "Miu, stop acting up and being mean to Kaito!\nHe’s been worried sick about you!"
+    },
+    {
+      "key": "EP04_S0060_0105",
+      "value": "Ugh, you sound just like my brother.\nI hate it!"
+    },
+    {
+      "key": "EP04_S0060_0106",
+      "value": "Hey! We’re older than you, and that makes it\nour job to protect, care for, and guide you!"
+    },
+    {
+      "key": "EP04_S0060_0107",
+      "value": "Oh, shut up! Just shut up about that! I hate\neveryone who talks like my brother!"
+    },
+    {
+      "key": "EP04_S0060_0108",
+      "value": "Ungh... She hates everyone who’s even like\nme..."
+    },
+    {
+      "key": "EP04_S0060_0109",
+      "value": "You sure have a soft spot for Miu, don’t you?"
+    },
+    {
+      "key": "EP04_S0060_0110",
+      "value": "(It’s no use. If anything, this is only\nmaking things worse.)"
+    },
+    {
+      "key": "EP04_S0060_0111",
+      "value": "We’ve got great food!"
+    },
+    {
+      "key": "EP04_S0060_0112",
+      "value": "Hey, if you come with us, we’ve got lots of\ngreat food you could eat!"
+    },
+    {
+      "key": "EP04_S0060_0113",
+      "value": "I don’t need your food! I’ve got lots of\nsweets, and that’s enough for me!"
+    },
+    {
+      "key": "EP04_S0060_0114",
+      "value": "Eating sweets all day is the best!"
+    },
+    {
+      "key": "EP04_S0060_0115",
+      "value": "Miu! How is that healthy?"
+    },
+    {
+      "key": "EP04_S0060_0116",
+      "value": "See? I knew you’d try to lecture me about\nthat! Well, nyaa, nyaa!"
+    },
+    {
+      "key": "EP04_S0060_0117",
+      "value": "Oh, come on. Don’t you want some nice, warm\nsoup or a juicy piece of meat now and then?"
+    },
+    {
+      "key": "EP04_S0060_0118",
+      "value": "Nice warm soup...and juicy pieces of meat?"
+    },
+    {
+      "key": "EP04_S0060_0119",
+      "value": "That’s right! We may not have the best\ningredients, but Aoi’s cooking is delicious!"
+    },
+    {
+      "key": "EP04_S0060_0120",
+      "value": "Well, I’d be happy to cook for you as best as\nI can!"
+    },
+    {
+      "key": "EP04_S0060_0121",
+      "value": "That does sound like...maybe it could be\nnice."
+    },
+    {
+      "key": "EP04_S0060_0122",
+      "value": "Yes, I’ll use as many vegetables as possible\nto make good, nourishing meals!"
+    },
+    {
+      "key": "EP04_S0060_0123",
+      "value": "Bleh! Vegetables? No thanks! I’ll stick with\nsweets!"
+    },
+    {
+      "key": "EP04_S0060_0124",
+      "value": "Oh no..."
+    },
+    {
+      "key": "EP04_S0060_0125",
+      "value": "Grr, what is with you and vegetables?"
+    },
+    {
+      "key": "EP04_S0060_0126",
+      "value": "(Man, I feel like we almost had her, there!)"
+    },
+    {
+      "key": "EP04_S0060_0127",
+      "value": "I’m so sick of this! I should’ve known my\nbrother and his friends would be annoying!"
+    },
+    {
+      "key": "EP04_S0060_0128",
+      "value": "Sounds like she doesn’t like us at all."
+    },
+    {
+      "key": "EP04_S0060_0129",
+      "value": "Yeah, this could be bad."
+    },
+    {
+      "key": "EP04_S0060_0130",
+      "value": "So, what do we do, Miu?"
+    },
+    {
+      "key": "EP04_S0060_0131",
+      "value": "Isn’t it obvious? My brother is always,\nalways worrying about me!"
+    },
+    {
+      "key": "EP04_S0060_0132",
+      "value": "Well, I’ve had enough of it! I can take care\nof myself! I’m gonna hit the switch!"
+    },
+    {
+      "key": "EP04_S0060_0133",
+      "value": "No, wait! Miu, stop! This is your brother!"
+    },
+    {
+      "key": "EP04_S0060_0134",
+      "value": "Don’t you think that’s going a little far?"
+    },
+    {
+      "key": "EP04_S0060_0135",
+      "value": "Oh, it’s fine! It’s not gonna kill him or\nanything!"
+    },
+    {
+      "key": "EP04_S0060_0136",
+      "value": "Miu! What do you think you’re doing?!"
+    },
+    {
+      "key": "EP04_S0060_0137",
+      "value": "Just something that’ll get you out of here!"
+    },
+    {
+      "key": "EP04_S0060_0138",
+      "value": "All right, now, so long!"
+    },
+    {
+      "key": "EP04_S0060_0139",
+      "value": "Wow, you really did it."
+    },
+    {
+      "key": "EP04_S0060_0140",
+      "value": "Did...what?"
+    },
+    {
+      "key": "EP04_S0060_0141",
+      "value": "Huh? Wait... Wah!"
+    },
+    {
+      "key": "EP04_S0060_0142",
+      "value": "Wh-what’s happening?"
+    },
+    {
+      "key": "EP04_S0060_0143",
+      "value": "Miyuki! Hold on to me!"
+    },
+    {
+      "key": "EP04_S0060_0144",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S0060_0145",
+      "value": "(The whole floor just tilted... Is this some\nkind of trap door?!)"
+    },
+    {
+      "key": "EP04_S0060_0146",
+      "value": "Uwaaaaaaaaaaaaaaah!"
+    },
+    {
+      "key": "EP04_S0060_0147",
+      "value": "I’m falling!"
+    }
+  ]
+}

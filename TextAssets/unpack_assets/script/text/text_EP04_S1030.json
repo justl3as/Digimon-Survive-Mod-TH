@@ -1,0 +1,308 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1030_0001",
+      "value": "(Well, we finally made it out of the forest,\nbut...)"
+    },
+    {
+      "key": "EP04_S1030_0002",
+      "value": "Would you look at that? There’s still no sign\nof an amusement park!"
+    },
+    {
+      "key": "EP04_S1030_0003",
+      "value": "I wonder if there’s any neat stuff around?"
+    },
+    {
+      "key": "EP04_S1030_0004",
+      "value": "Okay, listen... I don’t think...I can keep\nthis up...for much longer."
+    },
+    {
+      "key": "EP04_S1030_0005",
+      "value": "Saki, you don’t look so good."
+    },
+    {
+      "key": "EP04_S1030_0006",
+      "value": "Hold on to me, Saki!"
+    },
+    {
+      "key": "EP04_S1030_0007",
+      "value": "I think we really ought to take a break."
+    },
+    {
+      "key": "EP04_S1030_0008",
+      "value": "Yes, considering that we may still have\na ways to go, a short rest seems unavoidable."
+    },
+    {
+      "key": "EP04_S1030_0009",
+      "value": "Try telling that to those two."
+    },
+    {
+      "key": "EP04_S1030_0010",
+      "value": "(Shuuji and Kaito are both pressing on with\nno signs of slowing down.)"
+    },
+    {
+      "key": "EP04_S1030_0011",
+      "value": "(I can understand why Kaito would be in\na hurry, but why Shuuji?)"
+    },
+    {
+      "key": "EP04_S1030_0012",
+      "value": "Shuuji, my legs are sore..."
+    },
+    {
+      "key": "EP04_S1030_0013",
+      "value": "Just shut up and keep walking!"
+    },
+    {
+      "key": "EP04_S1030_0014",
+      "value": "Kewww!"
+    },
+    {
+      "key": "EP04_S1030_0015",
+      "value": "Shuuji, it’s no use snapping at him."
+    },
+    {
+      "key": "EP04_S1030_0016",
+      "value": "Besides, we’re all starting to get tired."
+    },
+    {
+      "key": "EP04_S1030_0017",
+      "value": "Shuuji, no need to be so harsh."
+    },
+    {
+      "key": "EP04_S1030_0018",
+      "value": "Yeah, she’s right. Besides, we’re all pretty\nwiped out."
+    },
+    {
+      "key": "EP04_S1030_0019",
+      "value": "Well, I hadn’t planned on resting until we’d\nreached the amusement park, but maybe..."
+    },
+    {
+      "key": "EP04_S1030_0020",
+      "value": "(Sounds like even Shuuji’s starting to\nwaver.)"
+    },
+    {
+      "key": "EP04_S1030_0021",
+      "value": "(Should we stop for a break, or press on?\nI would kind of like to look around here...)"
+    },
+    {
+      "key": "EP04_S1030_Q1",
+      "value": "(What should I tell Shuuji?)"
+    },
+    {
+      "key": "EP04_S1030_Q1_A1",
+      "value": "Let’s take a break."
+    },
+    {
+      "key": "EP04_S1030_Q1_A2",
+      "value": "Let’s press on."
+    },
+    {
+      "key": "EP04_S1030_Q1_A3",
+      "value": "I want to look around."
+    },
+    {
+      "key": "EP04_S1030_0026",
+      "value": "Let’s take a break."
+    },
+    {
+      "key": "EP04_S1030_0027",
+      "value": "Yeah, I think we should stop for a rest."
+    },
+    {
+      "key": "EP04_S1030_0028",
+      "value": "That might be for the best."
+    },
+    {
+      "key": "EP04_S1030_0029",
+      "value": "Huh? I wasn’t expecting to hear that from\nyou, Kaito."
+    },
+    {
+      "key": "EP04_S1030_0030",
+      "value": "Well, just look over there."
+    },
+    {
+      "key": "EP04_S1030_0031",
+      "value": "(Huh...?)"
+    },
+    {
+      "key": "EP04_S1030_0032",
+      "value": "Zzz...zzzzzz..."
+    },
+    {
+      "key": "EP04_S1030_0033",
+      "value": "Miyuki? You fell asleep?"
+    },
+    {
+      "key": "EP04_S1030_0034",
+      "value": "Yeah, she’s out like a light."
+    },
+    {
+      "key": "EP04_S1030_0035",
+      "value": "I guess it’s pretty hard to argue with that."
+    },
+    {
+      "key": "EP04_S1030_0036",
+      "value": "Uh, yeah..."
+    },
+    {
+      "key": "EP04_S1030_0037",
+      "value": "Let’s press on."
+    },
+    {
+      "key": "EP04_S1030_0038",
+      "value": "If we stop now, it’ll just make it that much\nharder to get going again."
+    },
+    {
+      "key": "EP04_S1030_0039",
+      "value": "Let’s go a little longer until we get to the\namusement park."
+    },
+    {
+      "key": "EP04_S1030_0040",
+      "value": "Yeah, that’s what I was thinking."
+    },
+    {
+      "key": "EP04_S1030_0041",
+      "value": "Wait. No, Takuma, Shuuji."
+    },
+    {
+      "key": "EP04_S1030_0042",
+      "value": "Lopmon and Saki both look like they’re barely\nhanging on."
+    },
+    {
+      "key": "EP04_S1030_0043",
+      "value": "Can’t you see that?"
+    },
+    {
+      "key": "EP04_S1030_0044",
+      "value": "(It’s true, they do both look pretty bad.)"
+    },
+    {
+      "key": "EP04_S1030_0045",
+      "value": "Sorry. I guess I was asking a bit much."
+    },
+    {
+      "key": "EP04_S1030_0046",
+      "value": "I want to look around."
+    },
+    {
+      "key": "EP04_S1030_0047",
+      "value": "Hey, do you mind if I take a look around?"
+    },
+    {
+      "key": "EP04_S1030_0048",
+      "value": "Oh, me too! Me too!"
+    },
+    {
+      "key": "EP04_S1030_0049",
+      "value": "Now? I don’t really see the point."
+    },
+    {
+      "key": "EP04_S1030_0050",
+      "value": "But how else will we know if there’s anything\ndangerous nearby?"
+    },
+    {
+      "key": "EP04_S1030_0051",
+      "value": "Besides, that way maybe the others can stop\nand take a break."
+    },
+    {
+      "key": "EP04_S1030_0052",
+      "value": "Is that why you brought that up? So we could\nrest? That’s pretty thoughtful, Takuma."
+    },
+    {
+      "key": "EP04_S1030_0053",
+      "value": "Yeah, Takuma’s thoughtful all the time!"
+    },
+    {
+      "key": "EP04_S1030_0054",
+      "value": "What’re you bragging about, Agumon?"
+    },
+    {
+      "key": "EP04_S1030_0055",
+      "value": "*sigh* Fine. All right, let’s stop for a\nbreak."
+    },
+    {
+      "key": "EP04_S1030_0056",
+      "value": "Fortunately, there doesn’t seem to be any\nsign of that fog nearby."
+    },
+    {
+      "key": "EP04_S1030_0057",
+      "value": "Yeah! I don’t sense anything scary like that!"
+    },
+    {
+      "key": "EP04_S1030_0058",
+      "value": "No complaints, Kaito?"
+    },
+    {
+      "key": "EP04_S1030_0059",
+      "value": "Nah."
+    },
+    {
+      "key": "EP04_S1030_0060",
+      "value": "Finally! I’m so tired..."
+    },
+    {
+      "key": "EP04_S1030_0061",
+      "value": "Saki, are you all right?"
+    },
+    {
+      "key": "EP04_S1030_0062",
+      "value": "Miyuki, Haru, would you like to rest here\nwith us too?"
+    },
+    {
+      "key": "EP04_S1030_0063",
+      "value": "Sure..."
+    },
+    {
+      "key": "EP04_S1030_0064",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S1030_0065",
+      "value": "Oh, did that wake her up?"
+    },
+    {
+      "key": "EP04_S1030_0066",
+      "value": "Nah, she’s still walking with her eyes closed."
+    },
+    {
+      "key": "EP04_S1030_0067",
+      "value": "Guess we really wore them out."
+    },
+    {
+      "key": "EP04_S1030_0068",
+      "value": "It was perhaps too harsh a journey for two so\nyoung."
+    },
+    {
+      "key": "EP04_S1030_0069",
+      "value": "Maybe, but it’s not like we could’ve left\nthem behind."
+    },
+    {
+      "key": "EP04_S1030_0070",
+      "value": "Speaking of harsh, there’s someone else I’m\nworried about, too."
+    },
+    {
+      "key": "EP04_S1030_0071",
+      "value": "You mean Lopmon?"
+    },
+    {
+      "key": "EP04_S1030_0072",
+      "value": "Um... I’m sorry, Shuuji. I wound up slowing\nyou down again."
+    },
+    {
+      "key": "EP04_S1030_0073",
+      "value": "Just shut up and get some rest. We won’t be\nstopping again until we get to the park."
+    },
+    {
+      "key": "EP04_S1030_0074",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP04_S1030_0075",
+      "value": "(Man, sounds like he’s still gonna have it\nrough between here and the amusement park.)"
+    },
+    {
+      "key": "EP04_S1030_0076",
+      "value": "(But anyway, I’d better get some rest.)"
+    }
+  ]
+}

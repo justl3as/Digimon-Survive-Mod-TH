@@ -1,0 +1,720 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S1010_0001",
+      "value": "(After that sudden battle with the Master at\nthe library...)"
+    },
+    {
+      "key": "EP11_S1010_0002",
+      "value": "(We made up with Haru...er, Renamon, since we\nall want to save Miyuki.)"
+    },
+    {
+      "key": "EP11_S1010_0003",
+      "value": "(And then made it safely back to school.)"
+    },
+    {
+      "key": "EP11_S1010_0004",
+      "value": "(After that everyone passed out like logs,\nincluding Renamon, who was injured.)"
+    },
+    {
+      "key": "EP11_S1010_0005",
+      "value": "(The next morning Renamon gathered everyone\nin the Cafeteria when we woke up.)"
+    },
+    {
+      "key": "EP11_S1010_0006",
+      "value": "Renamon, what’s going on?"
+    },
+    {
+      "key": "EP11_S1010_0007",
+      "value": "Why’d you take on Haru’s form again?"
+    },
+    {
+      "key": "EP11_S1010_0008",
+      "value": "We know who you really are now, so why keep\npretending?"
+    },
+    {
+      "key": "EP11_S1010_0009",
+      "value": "I’ve looked this way for so long that my body\nnaturally takes on his appearance."
+    },
+    {
+      "key": "EP11_S1010_0010",
+      "value": "But yesterday you looked like Renamon."
+    },
+    {
+      "key": "EP11_S1010_0011",
+      "value": "Well I can’t fight in this form, obviously."
+    },
+    {
+      "key": "EP11_S1010_0012",
+      "value": "So basically...Haru’s form is more natural\nfor you at this point?"
+    },
+    {
+      "key": "EP11_S1010_0013",
+      "value": "Like, you feel more relaxed in his body?"
+    },
+    {
+      "key": "EP11_S1010_0014",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S1010_0015",
+      "value": "Hey, don’t ignore me!"
+    },
+    {
+      "key": "EP11_S1010_0016",
+      "value": "Oh shut up!"
+    },
+    {
+      "key": "EP11_S1010_0017",
+      "value": "After all that time at Miyuki’s side as Haru,\nit just started to feel right."
+    },
+    {
+      "key": "EP11_S1010_0018",
+      "value": "But isn’t it painful to stay in that form?"
+    },
+    {
+      "key": "EP11_S1010_0019",
+      "value": "At first it was. But the strangeness of it\nhas worn off over time."
+    },
+    {
+      "key": "EP11_S1010_0020",
+      "value": "And I like the look on Miyuki’s face when she\nsees me."
+    },
+    {
+      "key": "EP11_S1010_0021",
+      "value": "So you can forget what I said yesterday."
+    },
+    {
+      "key": "EP11_S1010_0022",
+      "value": "Intriguing..."
+    },
+    {
+      "key": "EP11_S1010_0023",
+      "value": "So why’d you call us here? You got something\nimportant to announce?"
+    },
+    {
+      "key": "EP11_S1010_0024",
+      "value": "Right. I thought we should talk about where\nMiyuki is."
+    },
+    {
+      "key": "EP11_S1010_0025",
+      "value": "You mean you know?!"
+    },
+    {
+      "key": "EP11_S1010_0026",
+      "value": "Miyuki is...in the shrine."
+    },
+    {
+      "key": "EP11_S1010_0027",
+      "value": "The shrine?"
+    },
+    {
+      "key": "EP11_S1010_0028",
+      "value": "You mean the inner shrine from before?"
+    },
+    {
+      "key": "EP11_S1010_0029",
+      "value": "That’s the one."
+    },
+    {
+      "key": "EP11_S1010_0030",
+      "value": "Are you certain?!"
+    },
+    {
+      "key": "EP11_S1010_0031",
+      "value": "You think I’d lie to you at this point?"
+    },
+    {
+      "key": "EP11_S1010_0032",
+      "value": "The Master’s true body is in the inner\nshrine."
+    },
+    {
+      "key": "EP11_S1010_0033",
+      "value": "So Miyuki is there, too. She must be."
+    },
+    {
+      "key": "EP11_S1010_0034",
+      "value": "I don’t think he’s lying, Takuma."
+    },
+    {
+      "key": "EP11_S1010_0035",
+      "value": "But if that’s true..."
+    },
+    {
+      "key": "EP11_S1010_0036",
+      "value": "(I can’t believe it. The Master and Miyuki\nhave been right under our noses!)"
+    },
+    {
+      "key": "EP11_S1010_0037",
+      "value": "(Looks like everyone else is just as\nsurprised as I am.)"
+    },
+    {
+      "key": "EP11_S1010_0038",
+      "value": "I’m shocked. I never thought the enemy could\nbe so close."
+    },
+    {
+      "key": "EP11_S1010_0039",
+      "value": "We’ve walked around there so many times..."
+    },
+    {
+      "key": "EP11_S1010_0040",
+      "value": "I know. It never even crossed my mind."
+    },
+    {
+      "key": "EP11_S1010_0041",
+      "value": "Like they say, it’s easiest to miss what’s\nright in front of you."
+    },
+    {
+      "key": "EP11_S1010_0042",
+      "value": "The shrine didn’t seem large enough to hide\nmultiple people, though..."
+    },
+    {
+      "key": "EP11_S1010_0043",
+      "value": "Maybe the inner area goes farther than\nI thought..."
+    },
+    {
+      "key": "EP11_S1010_0044",
+      "value": "But I searched the shrine so many times.\nI can’t believe it."
+    },
+    {
+      "key": "EP11_S1010_0045",
+      "value": "We’re working together on this, right? Or do\nyou doubt me?"
+    },
+    {
+      "key": "EP11_S1010_0046",
+      "value": "Miyuki used to say Haru was really stubborn\nand never changed his mind."
+    },
+    {
+      "key": "EP11_S1010_0047",
+      "value": "So I guess I’m just being the same old Haru."
+    },
+    {
+      "key": "EP11_S1010_0048",
+      "value": "That’s...an interesting way to put it."
+    },
+    {
+      "key": "EP11_S1010_0049",
+      "value": "But it’s easy to see where the professor is\ncoming from, right?"
+    },
+    {
+      "key": "EP11_S1010_0050",
+      "value": "In other words, you don’t trust me."
+    },
+    {
+      "key": "EP11_S1010_0051",
+      "value": "That’s not what I mean. I just, like, want\nsome proof."
+    },
+    {
+      "key": "EP11_S1010_0052",
+      "value": "It will make sense if you get to the shrine."
+    },
+    {
+      "key": "EP11_S1010_0053",
+      "value": "(Will it...?)"
+    },
+    {
+      "key": "EP11_S1010_0054",
+      "value": "(Renamon isn’t offering much in the way of\ndetails.)"
+    },
+    {
+      "key": "EP11_S1010_0055",
+      "value": "(But like Agumon said, he doesn’t seem to be\nlying...)"
+    },
+    {
+      "key": "EP11_S1010_0056",
+      "value": "I trust Renamon."
+    },
+    {
+      "key": "EP11_S1010_0057",
+      "value": "Renamon wants to help Miyuki, and wouldn’t\nlie about her."
+    },
+    {
+      "key": "EP11_S1010_0058",
+      "value": "I can’t disagree with you there..."
+    },
+    {
+      "key": "EP11_S1010_0059",
+      "value": "Just look at those eyes!"
+    },
+    {
+      "key": "EP11_S1010_0060",
+      "value": "They look like Syakomon’s did when he\nprotected me, all intense!"
+    },
+    {
+      "key": "EP11_S1010_0061",
+      "value": "Heh, I guess that’s the look of wanting to\nprotect someone you care about!"
+    },
+    {
+      "key": "EP11_S1010_0062",
+      "value": "True. Plus..."
+    },
+    {
+      "key": "EP11_S1010_0063",
+      "value": "We all know how bad Renamon wants to save\nMiyuki."
+    },
+    {
+      "key": "EP11_S1010_0064",
+      "value": "We can trust him on this. Right, Professor?"
+    },
+    {
+      "key": "EP11_S1010_0065",
+      "value": "I guess I’m the stubborn one, then."
+    },
+    {
+      "key": "EP11_S1010_0066",
+      "value": "I’m sorry, Renamon."
+    },
+    {
+      "key": "EP11_S1010_0067",
+      "value": "As long as Miyuki is saved, that’s all I care\nabout."
+    },
+    {
+      "key": "EP11_S1010_0068",
+      "value": "Okay, so now we know where the bad guy is,\nbut how do we beat him?"
+    },
+    {
+      "key": "EP11_S1010_0069",
+      "value": "He’s the ruler of this world. We’ve gotta\nhave a plan."
+    },
+    {
+      "key": "EP11_S1010_0070",
+      "value": "Then lemme make a suggestion."
+    },
+    {
+      "key": "EP11_S1010_0071",
+      "value": "Let’s focus on rescuing Miyuki before we try\nto beat anyone."
+    },
+    {
+      "key": "EP11_S1010_0072",
+      "value": "Once we’ve got her back..."
+    },
+    {
+      "key": "EP11_S1010_0073",
+      "value": "Yeah? Then what?"
+    },
+    {
+      "key": "EP11_S1010_0074",
+      "value": "We run like hell! Then we go somewhere safe\nand use her power to get home."
+    },
+    {
+      "key": "EP11_S1010_0075",
+      "value": "Good plan, Minoru! Sounds perfect!"
+    },
+    {
+      "key": "EP11_S1010_0076",
+      "value": "I know, right? Hehe..."
+    },
+    {
+      "key": "EP11_S1010_0077",
+      "value": "It’s amazing...for YOU. Better than\nI would’ve expected!"
+    },
+    {
+      "key": "EP11_S1010_0078",
+      "value": "Come on, can’t you just be nice for once?"
+    },
+    {
+      "key": "EP11_S1010_0079",
+      "value": "What do you think, Takuma? Personally, it\nseems pretty realistic to me."
+    },
+    {
+      "key": "EP11_S1010_0080",
+      "value": "It’s not bad...but I don’t think it’ll be\nthat easy."
+    },
+    {
+      "key": "EP11_S1010_0081",
+      "value": "What’s that supposed to mean?"
+    },
+    {
+      "key": "EP11_S1010_0082",
+      "value": "Yeah, Takuma. Whaddaya mean, “not that easy”?"
+    },
+    {
+      "key": "EP11_S1010_0083",
+      "value": "I can’t really explain it, but this world and\nours seem to affect each other..."
+    },
+    {
+      "key": "EP11_S1010_0084",
+      "value": "As long as something’s wrong in this world,\nour world will be off, too."
+    },
+    {
+      "key": "EP11_S1010_0085",
+      "value": "Right... So just running away won’t solve the\nproblem."
+    },
+    {
+      "key": "EP11_S1010_0086",
+      "value": "I guess we gotta fight this “Master” after\nall..."
+    },
+    {
+      "key": "EP11_S1010_0087",
+      "value": "Even though it might be impossible to win."
+    },
+    {
+      "key": "EP11_S1010_0088",
+      "value": "Now hold on. It may not be necessary to\ndefeat him."
+    },
+    {
+      "key": "EP11_S1010_0089",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP11_S1010_0090",
+      "value": "Perhaps restoring the world and defeating the\nMaster should be viewed separately."
+    },
+    {
+      "key": "EP11_S1010_0091",
+      "value": "What’s that mean?"
+    },
+    {
+      "key": "EP11_S1010_0092",
+      "value": "But we can’t save the world without defeating\nthe Master, right?"
+    },
+    {
+      "key": "EP11_S1010_0093",
+      "value": "Not necessarily."
+    },
+    {
+      "key": "EP11_S1010_0094",
+      "value": "You mean we don’t have to beat the Master to\nsave the world?"
+    },
+    {
+      "key": "EP11_S1010_0095",
+      "value": "Do you have some special insight about how to\nsave the world then?"
+    },
+    {
+      "key": "EP11_S1010_0096",
+      "value": "I’m not exactly sure how, but I think we\nshould explore other solutions as well."
+    },
+    {
+      "key": "EP11_S1010_0097",
+      "value": "But...if we don’t know how, then all we can\ndo is fight, right?"
+    },
+    {
+      "key": "EP11_S1010_0098",
+      "value": "Yeah. Right now, that’s the only choice we\nhave."
+    },
+    {
+      "key": "EP11_S1010_0099",
+      "value": "(Is there really another way without\nfighting?)"
+    },
+    {
+      "key": "EP11_S1010_0100",
+      "value": "(Since our worlds are connected, it seems\nlike we have to beat the Master.)"
+    },
+    {
+      "key": "EP11_S1010_0101",
+      "value": "(Maybe we should focus on saving Miyuki and\ngetting home, like Minoru said.)"
+    },
+    {
+      "key": "EP11_S1010_0102",
+      "value": "(Once we’re back in our world we can rethink\nhow to defeat the Master.)"
+    },
+    {
+      "key": "EP11_S1010_0103",
+      "value": "(But if there’s really another way like the\nprofessor says, we should look into it.)"
+    },
+    {
+      "key": "EP11_S1010_Q1",
+      "value": "(In the end, I think we should prioritize...)"
+    },
+    {
+      "key": "EP11_S1010_Q1_A1",
+      "value": "Beating the Master."
+    },
+    {
+      "key": "EP11_S1010_Q1_A2",
+      "value": "Rescuing Miyuki."
+    },
+    {
+      "key": "EP11_S1010_Q1_A3",
+      "value": "Finding another way."
+    },
+    {
+      "key": "EP11_S1010_0104",
+      "value": "Beating the Master."
+    },
+    {
+      "key": "EP11_S1010_0105",
+      "value": "We can’t avoid fighting the Master. And\nbeating him, of course."
+    },
+    {
+      "key": "EP11_S1010_0106",
+      "value": "But HOW do we do that?"
+    },
+    {
+      "key": "EP11_S1010_0107",
+      "value": "I don’t know...and I don’t think it will be\neasy, either."
+    },
+    {
+      "key": "EP11_S1010_0108",
+      "value": "But if we don’t beat the Master, who knows\nwhat’ll happen to our world?"
+    },
+    {
+      "key": "EP11_S1010_0109",
+      "value": "And not just our own world. This one might be\ndestroyed, too."
+    },
+    {
+      "key": "EP11_S1010_0110",
+      "value": "Probably so, if we don’t do anything."
+    },
+    {
+      "key": "EP11_S1010_0111",
+      "value": "If this world is destroyed, everyone here\nwill perish! Right, Minoru?"
+    },
+    {
+      "key": "EP11_S1010_0112",
+      "value": "Don’t talk like that, Falcomon! We don’t know\nwhat will happen!"
+    },
+    {
+      "key": "EP11_S1010_0113",
+      "value": "We don’t know. You’re right. So we can’t say\nit WON’T happen, either."
+    },
+    {
+      "key": "EP11_S1010_0114",
+      "value": "Yeah, I guess..."
+    },
+    {
+      "key": "EP11_S1010_0115",
+      "value": "But...but... If we fight and lose, it’s the\nsame thing in the end!"
+    },
+    {
+      "key": "EP11_S1010_0116",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP11_S1010_0117",
+      "value": "(If the Master beats us, then Agumon and the\nothers... They’ll all be...)"
+    },
+    {
+      "key": "EP11_S1010_0118",
+      "value": "Rescuing Miyuki."
+    },
+    {
+      "key": "EP11_S1010_0119",
+      "value": "Like Minoru said, rescuing Miyuki comes\nfirst."
+    },
+    {
+      "key": "EP11_S1010_0120",
+      "value": "But just rescuing her won’t save the world."
+    },
+    {
+      "key": "EP11_S1010_0121",
+      "value": "Yeah! Just like YOU said, Takuma!"
+    },
+    {
+      "key": "EP11_S1010_0122",
+      "value": "I know, but..."
+    },
+    {
+      "key": "EP11_S1010_0123",
+      "value": "I just think we should focus on saving her\nbefore we make a move."
+    },
+    {
+      "key": "EP11_S1010_0124",
+      "value": "But what about the Master?"
+    },
+    {
+      "key": "EP11_S1010_0125",
+      "value": "Isn’t the Master’s goal is to get revenge on\nyour world?"
+    },
+    {
+      "key": "EP11_S1010_0126",
+      "value": "So if you just ignore him, then what? Sounds\nbad to me."
+    },
+    {
+      "key": "EP11_S1010_0127",
+      "value": "I know. I agree we have to beat the Master."
+    },
+    {
+      "key": "EP11_S1010_0128",
+      "value": "And I wanna figure out how, just AFTER we get\nback to our world."
+    },
+    {
+      "key": "EP11_S1010_0129",
+      "value": "We don’t have the luxury of time here. If we\ntake too long—"
+    },
+    {
+      "key": "EP11_S1010_0130",
+      "value": "Wait. There might be some sense to what\nTakuma’s saying."
+    },
+    {
+      "key": "EP11_S1010_0131",
+      "value": "All we’ve been doing is fending off the\nMaster’s attacks."
+    },
+    {
+      "key": "EP11_S1010_0132",
+      "value": "If we could go back and prepare for the fight\nfirst, then maybe we could actually win."
+    },
+    {
+      "key": "EP11_S1010_0133",
+      "value": "And what happens to us? Do we go to the other\nworld with you? Or will we..."
+    },
+    {
+      "key": "EP11_S1010_0134",
+      "value": "Don’t say it!"
+    },
+    {
+      "key": "EP11_S1010_0135",
+      "value": "(Aoi doesn’t want to think about it, and\nneither do I. No one knows what’ll happen.)"
+    },
+    {
+      "key": "EP11_S1010_0136",
+      "value": "(Agumon and Piedmon were there when we went\nback before, though...)"
+    },
+    {
+      "key": "EP11_S1010_0137",
+      "value": "(But that doesn’t mean they always will be.\nAnd even if they come with us, then what?)"
+    },
+    {
+      "key": "EP11_S1010_0138",
+      "value": "Finding another way."
+    },
+    {
+      "key": "EP11_S1010_0139",
+      "value": "It’s best to find a way without fighting,\nlike the professor said."
+    },
+    {
+      "key": "EP11_S1010_0140",
+      "value": "Yeah, but how?"
+    },
+    {
+      "key": "EP11_S1010_0141",
+      "value": "I don’t know, that’s why we have to find it!"
+    },
+    {
+      "key": "EP11_S1010_0142",
+      "value": "And what happens to Miyuki in the meantime?"
+    },
+    {
+      "key": "EP11_S1010_0143",
+      "value": "I can’t let the Master keep her any longer."
+    },
+    {
+      "key": "EP11_S1010_0144",
+      "value": "If you’re saying rescuing Miyuki isn’t the\ngoal, then I’m done!"
+    },
+    {
+      "key": "EP11_S1010_0145",
+      "value": "N-no! That’s still our goal! I want to help\nMiyuki, too!"
+    },
+    {
+      "key": "EP11_S1010_0146",
+      "value": "Whether we beat the Master or not, first we\nneed to rescue Miyuki."
+    },
+    {
+      "key": "EP11_S1010_0147",
+      "value": "That’s as true as it’s always been."
+    },
+    {
+      "key": "EP11_S1010_0148",
+      "value": "Good."
+    },
+    {
+      "key": "EP11_S1010_0149",
+      "value": "But it’ll be hard to stop the Master without\nbeating him. Don’t forget that."
+    },
+    {
+      "key": "EP11_S1010_0150",
+      "value": "(If Renamon says so...)"
+    },
+    {
+      "key": "EP11_S1010_0151",
+      "value": "(Honestly, the chances are starting to look\nclose to zero...)"
+    },
+    {
+      "key": "EP11_S1010_0152",
+      "value": "(But we can’t do nothing, that’s for sure.)"
+    },
+    {
+      "key": "EP11_S1010_0153",
+      "value": "Anyway, let’s head to the shrine."
+    },
+    {
+      "key": "EP11_S1010_0154",
+      "value": "That’s the only choice we’ve really got, in\nmy opinion."
+    },
+    {
+      "key": "EP11_S1010_0155",
+      "value": "Yeah, whether we beat the Master or not..."
+    },
+    {
+      "key": "EP11_S1010_0156",
+      "value": "Either way we’ll need her power."
+    },
+    {
+      "key": "EP11_S1010_0157",
+      "value": "In other words we have to rescue her if we\nwanna get home."
+    },
+    {
+      "key": "EP11_S1010_0158",
+      "value": "Yes, but that’s not why we’re rescuing her."
+    },
+    {
+      "key": "EP11_S1010_0159",
+      "value": "I want to rescue her regardless of her power."
+    },
+    {
+      "key": "EP11_S1010_0160",
+      "value": "But if we go to the shrine we might end up\nfighting the Master, right?"
+    },
+    {
+      "key": "EP11_S1010_0161",
+      "value": "(Everyone’s faces just got really intense...)"
+    },
+    {
+      "key": "EP11_S1010_0162",
+      "value": "(No matter how prepared we are, the idea of\nfacing the Master is still scary.)"
+    },
+    {
+      "key": "EP11_S1010_0163",
+      "value": "(I’d be lying to say I’m not scared, too.)"
+    },
+    {
+      "key": "EP11_S1010_0164",
+      "value": "Hey, Takuma... Everyone seems kinda on edge."
+    },
+    {
+      "key": "EP11_S1010_0165",
+      "value": "Yeah, they do..."
+    },
+    {
+      "key": "EP11_S1010_0166",
+      "value": "Perhaps before heading to the shrine we\nshould check in with everyone."
+    },
+    {
+      "key": "EP11_S1010_0167",
+      "value": "Check in with everyone, huh? Yeah, maybe so."
+    },
+    {
+      "key": "EP11_S1010_0168",
+      "value": "It’d be dangerous to go near the Master if we\nwere uneasy or anxious."
+    },
+    {
+      "key": "EP11_S1010_0169",
+      "value": "And that’s putting it lightly."
+    },
+    {
+      "key": "EP11_S1010_0170",
+      "value": "(We probably could use a moment to get our\nemotions under control.)"
+    },
+    {
+      "key": "EP11_S1010_0171",
+      "value": "(We can’t just rush forward immediately\nbecause that’s what we decided.)"
+    },
+    {
+      "key": "EP11_S1010_0172",
+      "value": "(Each person needs to really be on board with\nthis or we’ll never win.)"
+    },
+    {
+      "key": "EP11_S1010_0173",
+      "value": "I think it’s like the professor and Renamon\nsaid."
+    },
+    {
+      "key": "EP11_S1010_0174",
+      "value": "We should deal with our emotions before\nheading to the shrine."
+    },
+    {
+      "key": "EP11_S1010_0175",
+      "value": "We can gather back here afterwards!"
+    }
+  ]
+}

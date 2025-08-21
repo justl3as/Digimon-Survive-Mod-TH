@@ -1,0 +1,180 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S4200_0001",
+      "value": "Hey, Takuma! You got a sec? There’s something\nreal important I want to ask you."
+    },
+    {
+      "key": "EP99_S4200_0002",
+      "value": "It’s about that thing from the other day."
+    },
+    {
+      "key": "EP99_S4200_0003",
+      "value": "Huh? What thing? What are you talking about?"
+    },
+    {
+      "key": "EP99_S4200_0004",
+      "value": "You know! From when we met up in the gym!\nWhen I was practicing catch phrases?"
+    },
+    {
+      "key": "EP99_S4200_0005",
+      "value": "Oh, right. What’s up?"
+    },
+    {
+      "key": "EP99_S4200_0006",
+      "value": "Listen, you didn’t say anything about that to\nanyone, did you?"
+    },
+    {
+      "key": "EP99_S4200_0007",
+      "value": "(Minoru seems kind of upset. Does he suspect\nthat I did?)"
+    },
+    {
+      "key": "EP99_S4200_0008",
+      "value": "Of course not! Why do you ask?"
+    },
+    {
+      "key": "EP99_S4200_0009",
+      "value": "Saki seems like she knows something. She gets\nthis grin whenever she looks at me."
+    },
+    {
+      "key": "EP99_S4200_0010",
+      "value": "Look, Takuma, tell it to me straight, did you\nsay something?"
+    },
+    {
+      "key": "EP99_S4200_Q1",
+      "value": "What should I say?"
+    },
+    {
+      "key": "EP99_S4200_Q1_A1",
+      "value": "Yes."
+    },
+    {
+      "key": "EP99_S4200_Q1_A2",
+      "value": "No."
+    },
+    {
+      "key": "EP99_S4200_Q1_A3",
+      "value": "Maybe."
+    },
+    {
+      "key": "EP99_S4200_0011",
+      "value": "Yeah, I did say something."
+    },
+    {
+      "key": "EP99_S4200_0012",
+      "value": "Are you serious?"
+    },
+    {
+      "key": "EP99_S4200_0013",
+      "value": "Nah, just kidding. I didn’t say a word."
+    },
+    {
+      "key": "EP99_S4200_0014",
+      "value": "Oh, come on! Which is it?"
+    },
+    {
+      "key": "EP99_S4200_0015",
+      "value": "Sorry, I lied. I just wanted to see how you’d\nreact."
+    },
+    {
+      "key": "EP99_S4200_0016",
+      "value": "So which was the lie? I can’t even keep track\nanymore!"
+    },
+    {
+      "key": "EP99_S4200_0017",
+      "value": "Either way, remember, heroes have to be\nperfect."
+    },
+    {
+      "key": "EP99_S4200_0018",
+      "value": "So nobody can know about how I practice."
+    },
+    {
+      "key": "EP99_S4200_0019",
+      "value": "You get it, right, Takuma? It’s part of being\na man!"
+    },
+    {
+      "key": "EP99_S4200_0020",
+      "value": "So, you really were trying to come up with\na catch phrase?"
+    },
+    {
+      "key": "EP99_S4200_0021",
+      "value": "No, I didn’t say anything. After all,\nI promised you, didn’t I?"
+    },
+    {
+      "key": "EP99_S4200_0022",
+      "value": "Really? You mean that? Hmm?"
+    },
+    {
+      "key": "EP99_S4200_0023",
+      "value": "Gah, Minoru, don’t get so close! Quit staring\ninto my eyes like that!"
+    },
+    {
+      "key": "EP99_S4200_0024",
+      "value": "Yeah, you’re right. You wouldn’t say\nanything. I’m sorry I doubted you."
+    },
+    {
+      "key": "EP99_S4200_0025",
+      "value": "What convinced you?"
+    },
+    {
+      "key": "EP99_S4200_0026",
+      "value": "Heh...Didn’t you know? I can tell when people\nare lying. Heheh."
+    },
+    {
+      "key": "EP99_S4200_0027",
+      "value": "I just need to look them in the eyes like\nthis. It’s like another superpower."
+    },
+    {
+      "key": "EP99_S4200_0028",
+      "value": "(He’s...kidding, right?)"
+    },
+    {
+      "key": "EP99_S4200_0029",
+      "value": "I don’t know. Maybe I did, or maybe I didn’t."
+    },
+    {
+      "key": "EP99_S4200_0030",
+      "value": "Hey! Don’t you brush this off like that!"
+    },
+    {
+      "key": "EP99_S4200_0031",
+      "value": "Look, whether you said something or not,\nI just want you to know something."
+    },
+    {
+      "key": "EP99_S4200_0032",
+      "value": "I’m kind of serious about this, okay?"
+    },
+    {
+      "key": "EP99_S4200_0033",
+      "value": "Like how serious?"
+    },
+    {
+      "key": "EP99_S4200_0034",
+      "value": "It’s not just about me looking cool, all\nright? No, really."
+    },
+    {
+      "key": "EP99_S4200_0035",
+      "value": "If it helps encourage even one of us, don’t\nyou think that’s useful?"
+    },
+    {
+      "key": "EP99_S4200_0036",
+      "value": "Hey, I get what you’re trying to say, but...\ndo you really mean that?"
+    },
+    {
+      "key": "EP99_S4200_0037",
+      "value": "Have a little faith in me, would you? Jeeze."
+    },
+    {
+      "key": "EP99_S4200_0038",
+      "value": "I mean, I can’t lie, I do want to look cool,\nbut..."
+    },
+    {
+      "key": "EP99_S4200_0039",
+      "value": "Look, just forget it, okay? The important\nthing is you keep it secret from the others."
+    },
+    {
+      "key": "EP99_S4200_0040",
+      "value": "I’ll go make sure Saki doesn’t say anything\neither!"
+    }
+  ]
+}

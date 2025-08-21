@@ -1,0 +1,248 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S0200_0001",
+      "value": "Hey, Takuma... We might not be in this world\nmuch longer, don’t you think?"
+    },
+    {
+      "key": "EP11_S0200_Q1",
+      "value": "How should I respond to Aoi?"
+    },
+    {
+      "key": "EP11_S0200_Q1_A1",
+      "value": "It won’t take long."
+    },
+    {
+      "key": "EP11_S0200_Q1_A2",
+      "value": "It may take some time."
+    },
+    {
+      "key": "EP11_S0200_0002",
+      "value": "It won’t take much longer.\nIf all goes well, anyway."
+    },
+    {
+      "key": "EP11_S0200_0003",
+      "value": "I see..."
+    },
+    {
+      "key": "EP11_S0200_0004",
+      "value": "What’s up? You don’t look too happy..."
+    },
+    {
+      "key": "EP11_S0200_0005",
+      "value": "He’s right, Aoi. You okay?"
+    },
+    {
+      "key": "EP11_S0200_0006",
+      "value": "Yes. I want to go back to my world, but..."
+    },
+    {
+      "key": "EP11_S0200_0007",
+      "value": "The idea that I only have a little more time\nwith everyone here makes me a bit sad..."
+    },
+    {
+      "key": "EP11_S0200_0008",
+      "value": "I can understand. You’re like a mother to\nthe critters here."
+    },
+    {
+      "key": "EP11_S0200_0009",
+      "value": "Yeah, she cooks all the meals, gives us\nadvice. She works her tail off for us!"
+    },
+    {
+      "key": "EP11_S0200_0010",
+      "value": "As soon as anything goes wrong, Minoru’s\nrunning around looking for her."
+    },
+    {
+      "key": "EP11_S0200_0011",
+      "value": "Ha ha, it’s not like I mind it. Being relied\non actually puts my mind at ease."
+    },
+    {
+      "key": "EP11_S0200_0012",
+      "value": "It may time some time... There’s still plenty\nfor us to take care of here."
+    },
+    {
+      "key": "EP11_S0200_0013",
+      "value": "Yeah, you’re right..."
+    },
+    {
+      "key": "EP11_S0200_0014",
+      "value": "Something wrong, Aoi?"
+    },
+    {
+      "key": "EP11_S0200_0015",
+      "value": "Yes. I want to go back to my world, but..."
+    },
+    {
+      "key": "EP11_S0200_0016",
+      "value": "The idea that I only have a little more time\nwith everyone here makes me a bit sad..."
+    },
+    {
+      "key": "EP11_S0200_0017",
+      "value": "Still, it’s not like our time is up.\nThere’s still plenty to be done here."
+    },
+    {
+      "key": "EP11_S0200_0018",
+      "value": "Well now, time to get back to it!"
+    },
+    {
+      "key": "EP11_S0200_0019",
+      "value": "That Aoi... She really loves looking after\nall of us!"
+    },
+    {
+      "key": "EP11_S0200_0020",
+      "value": "Yeah, let’s leave her to it a bit longer."
+    },
+    {
+      "key": "EP11_S0200_0021",
+      "value": "You know, now that I think about it...\nWe’ve changed so much since then."
+    },
+    {
+      "key": "EP11_S0200_0022",
+      "value": "Then?"
+    },
+    {
+      "key": "EP11_S0200_0023",
+      "value": "You know, before we came to this world.\nRemember how we were at camp?"
+    },
+    {
+      "key": "EP11_S0200_0024",
+      "value": "Ahhh, yeah I see what you mean..."
+    },
+    {
+      "key": "EP11_S0200_0025",
+      "value": "(I honestly haven’t thought about the camp\nfor such a long time now...)"
+    },
+    {
+      "key": "EP11_S0200_0026",
+      "value": "Hey, Takuma! What was Aoi like before she\ncame to this world?"
+    },
+    {
+      "key": "EP11_S0200_Q2",
+      "value": "Before, Aoi was..."
+    },
+    {
+      "key": "EP11_S0200_Q2_A1",
+      "value": "More subdued."
+    },
+    {
+      "key": "EP11_S0200_Q2_A2",
+      "value": "Much harsher."
+    },
+    {
+      "key": "EP11_S0200_0027",
+      "value": "She was more subdued."
+    },
+    {
+      "key": "EP11_S0200_0028",
+      "value": "What?! Could you please elaborate, Takuma?"
+    },
+    {
+      "key": "EP11_S0200_0029",
+      "value": "Uh... I didn’t mean anything by it.\nI just think you’re a lot tougher now."
+    },
+    {
+      "key": "EP11_S0200_0030",
+      "value": "Really, now! I guess Aoi used to be more of\na pushover, huh?"
+    },
+    {
+      "key": "EP11_S0200_0031",
+      "value": "A pushover, you say...\nHave I really changed that much?"
+    },
+    {
+      "key": "EP11_S0200_0032",
+      "value": "No, how can I put this... It’s like you’re...\nstronger, internally? More reliable."
+    },
+    {
+      "key": "EP11_S0200_0033",
+      "value": "I...think I get it. So you’re giving me\na compliment?"
+    },
+    {
+      "key": "EP11_S0200_0034",
+      "value": "Sounds he’s praising you to me!"
+    },
+    {
+      "key": "EP11_S0200_0035",
+      "value": "I mean, I’m trying to..."
+    },
+    {
+      "key": "EP11_S0200_0036",
+      "value": "Thank you, Takuma."
+    },
+    {
+      "key": "EP11_S0200_0037",
+      "value": "She was way harsher."
+    },
+    {
+      "key": "EP11_S0200_0038",
+      "value": "Harsher?! Did I really give such a bad\nimpression back then?!"
+    },
+    {
+      "key": "EP11_S0200_0039",
+      "value": "Uh, maybe “harsh” was a bit...harsh.\nIt’s just that, you always scolded Minoru."
+    },
+    {
+      "key": "EP11_S0200_0040",
+      "value": "Well that’s... Minoru just wouldn’t let up\nback then! Sheesh..."
+    },
+    {
+      "key": "EP11_S0200_0041",
+      "value": "Heh, it sounds like you’ve changed for the\nbetter since you came to this world, Aoi."
+    },
+    {
+      "key": "EP11_S0200_0042",
+      "value": "I’m not the only one that’s changed since\nthat camp. You have too, Takuma."
+    },
+    {
+      "key": "EP11_S0200_Q3",
+      "value": "How should I respond to Aoi?"
+    },
+    {
+      "key": "EP11_S0200_Q3_A1",
+      "value": "I’ve changed...?"
+    },
+    {
+      "key": "EP11_S0200_Q3_A2",
+      "value": "I’ve changed a ton."
+    },
+    {
+      "key": "EP11_S0200_0043",
+      "value": "I’ve changed...? If you say so...\nI honestly don’t see it."
+    },
+    {
+      "key": "EP11_S0200_0044",
+      "value": "I feel the same about myself. I suppose it’s\nnot something you can gauge on your own."
+    },
+    {
+      "key": "EP11_S0200_0045",
+      "value": "I think you’ve gotten much stronger, Takuma.\nAnd I bet everyone else feels the same."
+    },
+    {
+      "key": "EP11_S0200_0046",
+      "value": "I’ve changed a ton... Even I can tell."
+    },
+    {
+      "key": "EP11_S0200_0047",
+      "value": "You’ve certainly grown more confident.\nI wonder if it’s the way you lead everyone."
+    },
+    {
+      "key": "EP11_S0200_0048",
+      "value": "Who knows? So much has happened...\nLots of sad things, but happy things, too."
+    },
+    {
+      "key": "EP11_S0200_0049",
+      "value": "No matter what, I just didn’t want to lose.\nAnd on top of that..."
+    },
+    {
+      "key": "EP11_S0200_0050",
+      "value": "I was lucky enough to have a great partner."
+    },
+    {
+      "key": "EP11_S0200_0051",
+      "value": "Ah, you mean Agumon. I completely agree!\nI’ve got an amazing partner of my own, too!"
+    },
+    {
+      "key": "EP11_S0200_0052",
+      "value": "Heh heh, my ears are burning...\nThanks, Aoi!"
+    }
+  ]
+}

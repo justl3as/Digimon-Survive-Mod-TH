@@ -1,0 +1,680 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S0011_0001",
+      "value": "(It’s been a while since the professor left.)"
+    },
+    {
+      "key": "EP06_S0011_0002",
+      "value": "(The professor sure is taking a long time.\nI’m starting to get worried...)"
+    },
+    {
+      "key": "EP06_S0011_0003",
+      "value": "(And I’m worried about us, too.\nNo one has said a word.)"
+    },
+    {
+      "key": "EP06_S0011_0004",
+      "value": "(Not that I blame them. We’ve been through\na lot in such a short period of time.) "
+    },
+    {
+      "key": "EP06_S0011_0005",
+      "value": "What the heck was that?"
+    },
+    {
+      "key": "EP06_S0011_0006",
+      "value": "Kaito?"
+    },
+    {
+      "key": "EP06_S0011_0007",
+      "value": "I know I saw it. A black fog that came out of\nLopmon’s body when it was hurt by Shuuji."
+    },
+    {
+      "key": "EP06_S0011_0008",
+      "value": "It must be something bad...\nIf you ask me."
+    },
+    {
+      "key": "EP06_S0011_0009",
+      "value": "I know what you mean.\nIt turned my stomach."
+    },
+    {
+      "key": "EP06_S0011_0010",
+      "value": "It’s just like that other fog—\nNo, even worse!"
+    },
+    {
+      "key": "EP06_S0011_0011",
+      "value": "One mistake back there and Shuuji could’ve\nbeen on the brink of death!"
+    },
+    {
+      "key": "EP06_S0011_0012",
+      "value": "I can’t deny that what you’re saying\nis a possibility..."
+    },
+    {
+      "key": "EP06_S0011_0013",
+      "value": "I... I just don’t know."
+    },
+    {
+      "key": "EP06_S0011_0014",
+      "value": "Was it a vision from Arukenimon?\nNo, it can’t be!"
+    },
+    {
+      "key": "EP06_S0011_0015",
+      "value": "Shuuji was eaten by...by Wendigomon!"
+    },
+    {
+      "key": "EP06_S0011_0016",
+      "value": "And then Wendigomon was swallowed up by those\nhands that came out of the fog!"
+    },
+    {
+      "key": "EP06_S0011_0017",
+      "value": "Yeah. He just disappeared like Ryo."
+    },
+    {
+      "key": "EP06_S0011_0018",
+      "value": "Disappeared? He didn’t just “disappear”!\nShuuji died, just like Ryo did!"
+    },
+    {
+      "key": "EP06_S0011_0019",
+      "value": "I mean..."
+    },
+    {
+      "key": "EP06_S0011_0020",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0011_0021",
+      "value": "Dracmon, just what ARE you guys?\nWhat was that THING we saw back there?!"
+    },
+    {
+      "key": "EP06_S0011_0022",
+      "value": "I... I don’t know.\nI’ve never seen anything like that before."
+    },
+    {
+      "key": "EP06_S0011_0023",
+      "value": "You have to know something!\nOur lives are on the line here!"
+    },
+    {
+      "key": "EP06_S0011_0024",
+      "value": "(Kaito’s getting worked up...\nBut I understand where he’s coming from.)"
+    },
+    {
+      "key": "EP06_S0011_0025",
+      "value": "(Everyone’s shaken up.\nThey don’t know what to believe anymore.)  "
+    },
+    {
+      "key": "EP06_S0011_0026",
+      "value": "Hey, Saki? If we don’t do something,\neveryone’s going to—"
+    },
+    {
+      "key": "EP06_S0011_0027",
+      "value": "No! Stay away from me!"
+    },
+    {
+      "key": "EP06_S0011_0028",
+      "value": "What? ...Saki?!"
+    },
+    {
+      "key": "EP06_S0011_0029",
+      "value": "That was out of line, Saki.\nFloramon’s just worried about you."
+    },
+    {
+      "key": "EP06_S0011_0030",
+      "value": "Right, Aoi? You think so, too, huh?"
+    },
+    {
+      "key": "EP06_S0011_0031",
+      "value": "Maybe... I guess."
+    },
+    {
+      "key": "EP06_S0011_0032",
+      "value": "I kind of get where she’s coming from."
+    },
+    {
+      "key": "EP06_S0011_0033",
+      "value": "Just to be clear, you guys are on our side...\nRight?"
+    },
+    {
+      "key": "EP06_S0011_0034",
+      "value": "Of course we are!"
+    },
+    {
+      "key": "EP06_S0011_0035",
+      "value": "“Of course”?\nHow can you even say that?!"
+    },
+    {
+      "key": "EP06_S0011_0036",
+      "value": "Can you prove you’re truly on our side?!  "
+    },
+    {
+      "key": "EP06_S0011_0037",
+      "value": "Doesn’t the fact that I’ve fought at your\nside this whole time prove anything to you?"
+    },
+    {
+      "key": "EP06_S0011_0038",
+      "value": "It’s true. You’ve always been there for us.\nLike friends...partners, even."
+    },
+    {
+      "key": "EP06_S0011_0039",
+      "value": "But can we really trust you?\nHow do we know you aren’t lying?!"
+    },
+    {
+      "key": "EP06_S0011_0040",
+      "value": "For all we know, you’re pretending you’re\nworried to trick us later!"
+    },
+    {
+      "key": "EP06_S0011_0041",
+      "value": "Calm down, Minoru! I know you are concerned,\nbut bullying is not a good look on you!"
+    },
+    {
+      "key": "EP06_S0011_0042",
+      "value": "Excuse me?\nYou don’t tell me what to do!"
+    },
+    {
+      "key": "EP06_S0011_0043",
+      "value": "What makes you guys so different from\neverything we’ve fought so far?!"
+    },
+    {
+      "key": "EP06_S0011_0044",
+      "value": "Allow me to make something clear..."
+    },
+    {
+      "key": "EP06_S0011_0045",
+      "value": "If we hadn’t accompanied you children, you’d\nall be long gone."
+    },
+    {
+      "key": "EP06_S0011_0046",
+      "value": "So what? You’re saying you can just get rid\nof us anytime you want to? Is that it?!"
+    },
+    {
+      "key": "EP06_S0011_0047",
+      "value": "Why do you keep assuming the worst about us?"
+    },
+    {
+      "key": "EP06_S0011_0048",
+      "value": "Enough, Minoru. I understand how you feel,\nbut this is getting us nowhere."
+    },
+    {
+      "key": "EP06_S0011_0049",
+      "value": "Okay, okay...\nI’m sorry, Takuma."
+    },
+    {
+      "key": "EP06_S0011_0050",
+      "value": "I just don’t know what to do.\nDangit...  "
+    },
+    {
+      "key": "EP06_S0011_0051",
+      "value": "(Minoru’s really confused.\nI wonder if I can make him feel better.)"
+    },
+    {
+      "key": "EP06_S0011_0052",
+      "value": "(If he can calm down, that might give him\nsome time to figure out what he wants to do.)"
+    },
+    {
+      "key": "EP06_S0011_0053",
+      "value": "(Or if I can suggest what we should do, that\nmight make him feel better, too.)"
+    },
+    {
+      "key": "EP06_S0011_Q1",
+      "value": "(What does Minoru need to hear...?)   "
+    },
+    {
+      "key": "EP06_S0011_Q1_A1",
+      "value": "Now’s not the time."
+    },
+    {
+      "key": "EP06_S0011_Q1_A2",
+      "value": "Calm down, you two."
+    },
+    {
+      "key": "EP06_S0011_Q1_A3",
+      "value": "Then don’t believe."
+    },
+    {
+      "key": "EP06_S0011_0055",
+      "value": "Now’s not the time to think about what to do.\nEveryone’s in shock, and tired."
+    },
+    {
+      "key": "EP06_S0011_0056",
+      "value": "Overthinking it will only lead to trouble."
+    },
+    {
+      "key": "EP06_S0011_0057",
+      "value": "Rest your body and your mind will feel\nbetter, too."
+    },
+    {
+      "key": "EP06_S0011_0058",
+      "value": "Yeah, you should see yourself right now!\nDon’t get too carried away."
+    },
+    {
+      "key": "EP06_S0011_0059",
+      "value": "Look who’s talking!\nWho’s fault do you think this is, anyway?"
+    },
+    {
+      "key": "EP06_S0011_0060",
+      "value": "Stop it! Why can’t we just get along?"
+    },
+    {
+      "key": "EP06_S0011_0061",
+      "value": "I thought we were partners...\nAnd I’m mad that it could all be a lie!"
+    },
+    {
+      "key": "EP06_S0011_0062",
+      "value": "You’re assuming it’s a lie.\nExactly what the enemy wants you to think!"
+    },
+    {
+      "key": "EP06_S0011_0063",
+      "value": "Could you two please calm down?\nWe need to focus."
+    },
+    {
+      "key": "EP06_S0011_0064",
+      "value": "You want me to calm down?!\nWe might have a traitor on our hands!"
+    },
+    {
+      "key": "EP06_S0011_0065",
+      "value": "He always seemed like a traitor."
+    },
+    {
+      "key": "EP06_S0011_0066",
+      "value": "Then again, like Falcomon said, he’s fought\nwith us this whole time."
+    },
+    {
+      "key": "EP06_S0011_0067",
+      "value": "Agreed. What Falcomon said makes sense."
+    },
+    {
+      "key": "EP06_S0011_0068",
+      "value": "And, personally speaking, I can’t imagine\nLopmon betraying me."
+    },
+    {
+      "key": "EP06_S0011_0069",
+      "value": "Thank you, Shuuji..."
+    },
+    {
+      "key": "EP06_S0011_0070",
+      "value": "I hope you’re right..."
+    },
+    {
+      "key": "EP06_S0011_0071",
+      "value": "I would never turn traitor on you, Minoru!\nI promise!"
+    },
+    {
+      "key": "EP06_S0011_0072",
+      "value": "You should prove it, then!"
+    },
+    {
+      "key": "EP06_S0011_0073",
+      "value": "No, YOU should quit doubting my loyalty!"
+    },
+    {
+      "key": "EP06_S0011_0074",
+      "value": "No, you should BOTH quit fighting!"
+    },
+    {
+      "key": "EP06_S0011_0075",
+      "value": "Shut up, Miu."
+    },
+    {
+      "key": "EP06_S0011_0076",
+      "value": "Why? You don’t like what I said?"
+    },
+    {
+      "key": "EP06_S0011_0077",
+      "value": "I agree with Minoru.\nI don’t wanna be anywhere near that thing."
+    },
+    {
+      "key": "EP06_S0011_0078",
+      "value": "You never know when Syakomon is gonna attack\nyou!"
+    },
+    {
+      "key": "EP06_S0011_0079",
+      "value": "No way!\nSyakomon would never do that!"
+    },
+    {
+      "key": "EP06_S0011_0080",
+      "value": "She’s right! I’d never hurt Miu!"
+    },
+    {
+      "key": "EP06_S0011_0081",
+      "value": "Stop fighting, both of you!"
+    },
+    {
+      "key": "EP06_S0011_0082",
+      "value": "Shut up, Miu."
+    },
+    {
+      "key": "EP06_S0011_0083",
+      "value": "Why? You don’t like what I said?"
+    },
+    {
+      "key": "EP06_S0011_0084",
+      "value": "You wouldn’t say that if you knew what\nhappened to Ryo."
+    },
+    {
+      "key": "EP06_S0011_0085",
+      "value": "Syakomon might try to eat you one day, too.\nYou never know.  "
+    },
+    {
+      "key": "EP06_S0011_0086",
+      "value": "How can you say that?! Syakomon would never\ndo such a terrible thing!"
+    },
+    {
+      "key": "EP06_S0011_0087",
+      "value": "She’s right! I’d never hurt Miu!"
+    },
+    {
+      "key": "EP06_S0011_0088",
+      "value": "If I were you, I’d be thinking about your own\npartner instead!"
+    },
+    {
+      "key": "EP06_S0011_0089",
+      "value": "Yeah, Kaito! You were way too mean to\nDracmon!"
+    },
+    {
+      "key": "EP06_S0011_0090",
+      "value": "An apology’s in order!\nWe’re supposed to be on the same side, here!  "
+    },
+    {
+      "key": "EP06_S0011_0091",
+      "value": "Oh, come on!\nI said that because I’m worried about you!  "
+    },
+    {
+      "key": "EP06_S0011_0092",
+      "value": "(This is bad. I want to stop the fighting,\nbut it’s only getting worse...)"
+    },
+    {
+      "key": "EP06_S0011_0093",
+      "value": "ENOUGH! This is pointless if you’re just\ngonna be stubborn.  "
+    },
+    {
+      "key": "EP06_S0011_0094",
+      "value": "Falcomon? Hey!\nWhere are you going?!"
+    },
+    {
+      "key": "EP06_S0011_0095",
+      "value": "Falcomon, don’t go... With you gone, who\nknows what’ll happen!"
+    },
+    {
+      "key": "EP06_S0011_0096",
+      "value": "Can you at least wait until the professor\ngets back before deciding? Please?"
+    },
+    {
+      "key": "EP06_S0011_0097",
+      "value": "Yeah, that’s not too much to ask, is it?\nC’mon, Falcomon."
+    },
+    {
+      "key": "EP06_S0011_0098",
+      "value": "All right. I suppose I may have been too\nhasty in my distress."
+    },
+    {
+      "key": "EP06_S0011_0099",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0011_0100",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0011_0102",
+      "value": "You’re both too worked up over this.\nWe need to stay calm."
+    },
+    {
+      "key": "EP06_S0011_0103",
+      "value": "Both of us? Really?"
+    },
+    {
+      "key": "EP06_S0011_0104",
+      "value": "Yes, Falcomon. You need to calm down, too."
+    },
+    {
+      "key": "EP06_S0011_0105",
+      "value": "What you said crossed the line, Falcomon.\nTry to understand where Minoru’s coming from."
+    },
+    {
+      "key": "EP06_S0011_0106",
+      "value": "What do you mean, exactly?"
+    },
+    {
+      "key": "EP06_S0011_0107",
+      "value": "Everybody’s stressed out just trying to\nsurvive in this confusing world."
+    },
+    {
+      "key": "EP06_S0011_0108",
+      "value": "Is it really that bad for Minoru to try to\nmake sure it’s safe around you guys?"
+    },
+    {
+      "key": "EP06_S0011_0109",
+      "value": "Is that to say you doubt us as well?"
+    },
+    {
+      "key": "EP06_S0011_0110",
+      "value": "I mean..."
+    },
+    {
+      "key": "EP06_S0011_0111",
+      "value": "(I’m at a loss for words.)"
+    },
+    {
+      "key": "EP06_S0011_0112",
+      "value": "(I trust Agumon.\nWe can trust them...I think.)"
+    },
+    {
+      "key": "EP06_S0011_0113",
+      "value": "(Then again, all of this could be one big\ntrap...)"
+    },
+    {
+      "key": "EP06_S0011_0114",
+      "value": "(It’s not so simple to distinguish between\nright and wrong.)"
+    },
+    {
+      "key": "EP06_S0011_0115",
+      "value": "...  "
+    },
+    {
+      "key": "EP06_S0011_0116",
+      "value": "Hmph. It seems as if you humans see us all as\nvillains!"
+    },
+    {
+      "key": "EP06_S0011_0117",
+      "value": "I’m not saying that! All I’m asking for is\nsome sympathy for Minoru."
+    },
+    {
+      "key": "EP06_S0011_0118",
+      "value": "It amounts to the same thing...\nFine."
+    },
+    {
+      "key": "EP06_S0011_0119",
+      "value": "Falcomon?\nWhere are you going?"
+    },
+    {
+      "key": "EP06_S0011_0120",
+      "value": "I don’t have time to deal with any of you.  "
+    },
+    {
+      "key": "EP06_S0011_0121",
+      "value": "Falcomon!"
+    },
+    {
+      "key": "EP06_S0011_0122",
+      "value": "Let him go. See if I care."
+    },
+    {
+      "key": "EP06_S0011_0123",
+      "value": "Thanks for having my back, man.\nI appreciate it."
+    },
+    {
+      "key": "EP06_S0011_0124",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP06_S0011_0125",
+      "value": "We should stop him, Takuma.\nIt’s not too late yet."
+    },
+    {
+      "key": "EP06_S0011_0126",
+      "value": "Yeah, you’re right. Let’s go, Agumon."
+    },
+    {
+      "key": "EP06_S0011_0127",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0011_0128",
+      "value": "Hmph."
+    },
+    {
+      "key": "EP06_S0011_0129",
+      "value": "Come back, Falcomon.\nI know you’re mad at Minoru, but still..."
+    },
+    {
+      "key": "EP06_S0011_0130",
+      "value": "Hm. Agumon..."
+    },
+    {
+      "key": "EP06_S0011_0131",
+      "value": "Why do you choose to remain with a human when\nthey see us as evil?"
+    },
+    {
+      "key": "EP06_S0011_0132",
+      "value": "Because Takuma is special.\nHe’s important to me."
+    },
+    {
+      "key": "EP06_S0011_0133",
+      "value": "I see."
+    },
+    {
+      "key": "EP06_S0011_0134",
+      "value": "Minoru is special to me, too.\nOr he should be..."
+    },
+    {
+      "key": "EP06_S0011_0135",
+      "value": "All right. I suppose I may have been too\nhasty in my distress."
+    },
+    {
+      "key": "EP06_S0011_0136",
+      "value": "Out of respect for you and Takuma, I will\nreturn for the time being."
+    },
+    {
+      "key": "EP06_S0011_0137",
+      "value": "Thanks, Falcomon."
+    },
+    {
+      "key": "EP06_S0011_0138",
+      "value": "(Looks like he came back.\nBut that doesn’t mean the ill will is gone.)"
+    },
+    {
+      "key": "EP06_S0011_0139",
+      "value": "Minoru and Falcomon have built up a lot of\nfrustration after all we’ve been through.) "
+    },
+    {
+      "key": "EP06_S0011_0140",
+      "value": "Then don’t believe."
+    },
+    {
+      "key": "EP06_S0011_0141",
+      "value": "I won’t force you to believe anything."
+    },
+    {
+      "key": "EP06_S0011_0142",
+      "value": "What’s that supposed to mean?"
+    },
+    {
+      "key": "EP06_S0011_0143",
+      "value": "Terrible things are happening.\nOne mistake and we could be dead."
+    },
+    {
+      "key": "EP06_S0011_0144",
+      "value": "We don’t know how to deal with this, or who\nor what’s even behind it."
+    },
+    {
+      "key": "EP06_S0011_0145",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0011_0146",
+      "value": "If you’re really innocent, you’ll start to\nearn our trust over time."
+    },
+    {
+      "key": "EP06_S0011_0147",
+      "value": "I’ve heard enough!"
+    },
+    {
+      "key": "EP06_S0011_0148",
+      "value": "I’m the only one you’re really worried about.\nI don’t have time for stubborn humans!  "
+    },
+    {
+      "key": "EP06_S0011_0149",
+      "value": "What?\nWait, Falcomon, hear me out!"
+    },
+    {
+      "key": "EP06_S0011_0150",
+      "value": "You’re the stubborn one!\nGet lost!"
+    },
+    {
+      "key": "EP06_S0011_0151",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP06_S0011_0152",
+      "value": "What should we do, Takuma?"
+    },
+    {
+      "key": "EP06_S0011_0153",
+      "value": "Good question.\nI don’t know what’s the right choice."
+    },
+    {
+      "key": "EP06_S0011_0154",
+      "value": "Seems like Minoru and Falcomon don’t know how\nto get over their anxiety."
+    },
+    {
+      "key": "EP06_S0011_0155",
+      "value": "But we shouldn’t do anything rash until we’ve\nfigured things out!"
+    },
+    {
+      "key": "EP06_S0011_0156",
+      "value": "I think you’re right!"
+    },
+    {
+      "key": "EP06_S0011_0157",
+      "value": "Falcomon, wait!"
+    },
+    {
+      "key": "EP06_S0011_0158",
+      "value": "What is it?\nCome to hurl some more insults at me?"
+    },
+    {
+      "key": "EP06_S0011_0159",
+      "value": "Can you at least wait until the professor\ngets back before deciding? Please?"
+    },
+    {
+      "key": "EP06_S0011_0160",
+      "value": "If you leave, we can’t protect each other.\nIt would be terrible if something happened!"
+    },
+    {
+      "key": "EP06_S0011_0161",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0011_0162",
+      "value": "All right. I suppose I may have been too\nhasty in my distress."
+    },
+    {
+      "key": "EP06_S0011_0163",
+      "value": "Out of respect for you and Takuma, I will\nreturn for the time being."
+    },
+    {
+      "key": "EP06_S0011_0164",
+      "value": "Thanks, Falcomon."
+    },
+    {
+      "key": "EP06_S0011_0165",
+      "value": "(Phew, I’m glad Falcomon is staying.)"
+    },
+    {
+      "key": "EP06_S0011_0166",
+      "value": "(But he’s still keeping his distance.\nJust like some of the others...)"
+    },
+    {
+      "key": "EP06_S0011_0167",
+      "value": "(If only Minoru and Falcomon could get along\nlike Miu and Syakomon...)"
+    }
+  ]
+}

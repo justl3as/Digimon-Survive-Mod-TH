@@ -1,0 +1,484 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9553_0001",
+      "value": "Ow... Is everyone okay?!"
+    },
+    {
+      "key": "EP12_S9553_0002",
+      "value": "Yeah...although I don’t know how. Man, that\nsmarts."
+    },
+    {
+      "key": "EP12_S9553_0003",
+      "value": "Yeow! Talk about a pain in the butt! And this\nground feels like it’s really hot..."
+    },
+    {
+      "key": "EP12_S9553_0004",
+      "value": "Everyone, look over there. I see a red light!\nLet’s go check it out."
+    },
+    {
+      "key": "EP12_S9553_0005",
+      "value": "I fear at this rate, things are only going to\nkeep getting hotter."
+    },
+    {
+      "key": "EP12_S9553_0006",
+      "value": "Look, over there!"
+    },
+    {
+      "key": "EP12_S9553_0007",
+      "value": "Agumon?! And there’s Lopmon too! All our\npartners are there!"
+    },
+    {
+      "key": "EP12_S9553_0008",
+      "value": "Heyyy! Agumon! Everybody!"
+    },
+    {
+      "key": "EP12_S9553_0009",
+      "value": "Hey, what’s wrong?! Can’t you hear me?! I’m\nyour partner, don’t you know my voice?!"
+    },
+    {
+      "key": "EP12_S9553_0010",
+      "value": "Partners, are you?"
+    },
+    {
+      "key": "EP12_S9553_0011",
+      "value": "What? Who’s that?!"
+    },
+    {
+      "key": "EP12_S9553_0012",
+      "value": "A convenient word for you humans, isn’t it?\nYou praise us, call us partners, and use us."
+    },
+    {
+      "key": "EP12_S9553_0013",
+      "value": "That red light is getting closer. Don’t tell\nme..."
+    },
+    {
+      "key": "EP12_S9553_0014",
+      "value": "Yes, it’s true. It’s the last Sovereign\nMonster in the mural, Zhuqiaomon of the south."
+    },
+    {
+      "key": "EP12_S9553_0015",
+      "value": "(Zhuqiaomon looks down at us with all the\nstern severity of a Sovereign Monster.)"
+    },
+    {
+      "key": "EP12_S9553_0016",
+      "value": "(This must be what it’s like to truly be in\nawe of something.)"
+    },
+    {
+      "key": "EP12_S9553_0017",
+      "value": "(But now’s not the time to be thinking about\nthat. There’s something I need to do.)"
+    },
+    {
+      "key": "EP12_S9553_0018",
+      "value": "Please, Zhuqiaomon, we need your help."
+    },
+    {
+      "key": "EP12_S9553_0019",
+      "value": "We wish to halt the Master’s rampage and save\nour friend who was taken over by him."
+    },
+    {
+      "key": "EP12_S9553_0020",
+      "value": "That’s why we’ve come before you, the final\nSovereign Monster!"
+    },
+    {
+      "key": "EP12_S9553_0021",
+      "value": "So, you wish to defeat Haruchika and save\nthis world?"
+    },
+    {
+      "key": "EP12_S9553_0022",
+      "value": "Not only that, but our human world too."
+    },
+    {
+      "key": "EP12_S9553_0023",
+      "value": "Well now, how very ambitious."
+    },
+    {
+      "key": "EP12_S9553_0024",
+      "value": "But what hope do mere children like you have\nto succeed where we have failed?"
+    },
+    {
+      "key": "EP12_S9553_0025",
+      "value": "I can understand your doubt, but we have to\ndo this!"
+    },
+    {
+      "key": "EP12_S9553_0026",
+      "value": "So please, release my partner Agumon."
+    },
+    {
+      "key": "EP12_S9553_0027",
+      "value": "So that’s it. You wish to use us as tools.\nSuch is the nature of you humans..."
+    },
+    {
+      "key": "EP12_S9553_0028",
+      "value": "Takuma, this is not good. He’s looking super\nangry right now!"
+    },
+    {
+      "key": "EP12_S9553_0029",
+      "value": "What could you human whelps possibly know of\nmy endless wrath?"
+    },
+    {
+      "key": "EP12_S9553_0030",
+      "value": "Zhuqiaomon, we don’t ask you to give up your\nrage, but could you at least try and explain?"
+    },
+    {
+      "key": "EP12_S9553_0031",
+      "value": "(Zhuqiaomon’s gaze is full of such\nintensity...)"
+    },
+    {
+      "key": "EP12_S9553_0032",
+      "value": "(I can practically feel the sadness,\nfrustration, and maddening fury behind it.)"
+    },
+    {
+      "key": "EP12_S9553_0033",
+      "value": "(But even so, he stops short at Shuuji’s\nwords.)"
+    },
+    {
+      "key": "EP12_S9553_0034",
+      "value": "(He seems to be considering whether or not\nit’s worth talking to us.)"
+    },
+    {
+      "key": "EP12_S9553_0035",
+      "value": "(Which suits us just fine. We’ll wait as long\nas it takes for an answer.)"
+    },
+    {
+      "key": "EP12_S9553_0036",
+      "value": "Very well. You must learn the truth before\nyou can atone."
+    },
+    {
+      "key": "EP12_S9553_0037",
+      "value": "What I’m about to tell you took place a\nthousand years ago."
+    },
+    {
+      "key": "EP12_S9553_0038",
+      "value": "My companions and I met humans, and formed\nbonds. I was filled with wondrous happiness!"
+    },
+    {
+      "key": "EP12_S9553_0039",
+      "value": "However, it was not to last long. It was a\nhuman who committed the first betrayal."
+    },
+    {
+      "key": "EP12_S9553_0040",
+      "value": "Then, we combined our powers to fight against\nthe Master, Haruchika."
+    },
+    {
+      "key": "EP12_S9553_0041",
+      "value": "It was when we were on the verge of victory\nthat we were beset by still another betrayal."
+    },
+    {
+      "key": "EP12_S9553_0042",
+      "value": "(Zhuqiaomon’s eyes grow clouded as it says\nthis.)"
+    },
+    {
+      "key": "EP12_S9553_0043",
+      "value": "And it was all because of the ones who called\nus partners! Those human runts!"
+    },
+    {
+      "key": "EP12_S9553_0044",
+      "value": "At the last moment, pitying Haruchika, they\nproved unable to strike the final blow!"
+    },
+    {
+      "key": "EP12_S9553_0045",
+      "value": "Thus, as we fought dutifully to defend the\nhuman world from the Master..."
+    },
+    {
+      "key": "EP12_S9553_0046",
+      "value": "Those very humans stopped us short! Can you\nunderstand my rage?! My frustration?!"
+    },
+    {
+      "key": "EP12_S9553_0047",
+      "value": "So that’s what happened..."
+    },
+    {
+      "key": "EP12_S9553_0048",
+      "value": "In the end, we Four Sovereign Monsters became\na sacrifice to stop the Master."
+    },
+    {
+      "key": "EP12_S9553_0049",
+      "value": "No, our lives were not taken from us, but we\nwere bound to the shrine as the four pillars."
+    },
+    {
+      "key": "EP12_S9553_0050",
+      "value": "As mere tools to contain the Master and\nprotect the human world."
+    },
+    {
+      "key": "EP12_S9553_0051",
+      "value": "Graaaaaawr!"
+    },
+    {
+      "key": "EP12_S9553_0052",
+      "value": "You whelps are no different!"
+    },
+    {
+      "key": "EP12_S9553_0053",
+      "value": "You will pay for deceiving Baihumon,\nEbonwumon, and Azulongmon with your lives!"
+    },
+    {
+      "key": "EP12_S9553_0054",
+      "value": "How could they be such fools as to believe\nthe honeyed words of runts like you?!"
+    },
+    {
+      "key": "EP12_S9553_0055",
+      "value": "Oh, my ancient companions, have you forgotten\nhow we were betrayed?"
+    },
+    {
+      "key": "EP12_S9553_0056",
+      "value": "It’s unforgivable! You miserable humans will\npay for your treachery!"
+    },
+    {
+      "key": "EP12_S9553_0057",
+      "value": "Ooooooh!"
+    },
+    {
+      "key": "EP12_S9553_0058",
+      "value": "You will...pay..."
+    },
+    {
+      "key": "EP12_S9553_0059",
+      "value": "Agumon?! Guys?! What’s wrong? You don’t look\nso good..."
+    },
+    {
+      "key": "EP12_S9553_0060",
+      "value": "This is terrible! They’ve lost themselves\nunder the influence of Zhuqiaomon’s rage!"
+    },
+    {
+      "key": "EP12_S9553_0061",
+      "value": "They’re going to attack us!"
+    },
+    {
+      "key": "EP12_S9553_0062",
+      "value": "Ooooooh! You humans...will pay!"
+    },
+    {
+      "key": "EP12_S9553_0063",
+      "value": "Agumon!!!"
+    },
+    {
+      "key": "EP12_S9553_0064",
+      "value": "You will pay... You will pay..."
+    },
+    {
+      "key": "EP12_S9553_0065",
+      "value": "Oooooooooh!!!"
+    },
+    {
+      "key": "EP12_S9553_0066",
+      "value": "Why are you all doing this?"
+    },
+    {
+      "key": "EP12_S9553_0067",
+      "value": "We can never trust humans."
+    },
+    {
+      "key": "EP12_S9553_0068",
+      "value": "You will always betray us!!!"
+    },
+    {
+      "key": "EP12_S9553_0069",
+      "value": "That’s not true!!!"
+    },
+    {
+      "key": "EP12_S9553_0070",
+      "value": "Agumon, can’t you see it’s me?"
+    },
+    {
+      "key": "EP12_S9553_Q1",
+      "value": "(What do I do?)"
+    },
+    {
+      "key": "EP12_S9553_Q1_A1",
+      "value": "Hit Agumon."
+    },
+    {
+      "key": "EP12_S9553_Q1_A2",
+      "value": "Call to Agumon again."
+    },
+    {
+      "key": "EP12_S9553_Q1_A3",
+      "value": "Embrace Agumon."
+    },
+    {
+      "key": "EP12_S9553_0071",
+      "value": "Hit Agumon."
+    },
+    {
+      "key": "EP12_S9553_0072",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP12_S9553_0073",
+      "value": "Agumon, you idiot!"
+    },
+    {
+      "key": "EP12_S9553_0074",
+      "value": "I thought we were friends! Didn’t I tell you\nI thought you were the best partner ever?"
+    },
+    {
+      "key": "EP12_S9553_0075",
+      "value": "I... I care for you so much... How could you\nforget about me so easily?!"
+    },
+    {
+      "key": "EP12_S9553_0076",
+      "value": "Agumon, please! Come back to me!"
+    },
+    {
+      "key": "EP12_S9553_0077",
+      "value": "Call to Agumon again."
+    },
+    {
+      "key": "EP12_S9553_0078",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP12_S9553_0079",
+      "value": "Oooh..."
+    },
+    {
+      "key": "EP12_S9553_0080",
+      "value": "Agumon!!! It’s me, Takuma!"
+    },
+    {
+      "key": "EP12_S9553_0081",
+      "value": "You know who I am! We’ve been through this\nwhole crazy adventure together! Now wake up!"
+    },
+    {
+      "key": "EP12_S9553_0082",
+      "value": "I’m here to save you."
+    },
+    {
+      "key": "EP12_S9553_0083",
+      "value": "Embrace Agumon."
+    },
+    {
+      "key": "EP12_S9553_0084",
+      "value": "Come on, Agumon! Snap out of it already!"
+    },
+    {
+      "key": "EP12_S9553_0085",
+      "value": "Oooh..."
+    },
+    {
+      "key": "EP12_S9553_0086",
+      "value": "I will never betray you."
+    },
+    {
+      "key": "EP12_S9553_0087",
+      "value": "Ooh..."
+    },
+    {
+      "key": "EP12_S9553_0088",
+      "value": "Humans...will pay!"
+    },
+    {
+      "key": "EP12_S9553_0089",
+      "value": "Urgh! Well, at least I’ve got you now!"
+    },
+    {
+      "key": "EP12_S9553_0090",
+      "value": "Takuma, you’re holding Agumon’s hand?"
+    },
+    {
+      "key": "EP12_S9553_0091",
+      "value": "You let him hit you on purpose? Just so you\ncould get close and take his hand?"
+    },
+    {
+      "key": "EP12_S9553_0092",
+      "value": "We’ll always be together..."
+    },
+    {
+      "key": "EP12_S9553_0093",
+      "value": "Oooh... Ooh... Oh?"
+    },
+    {
+      "key": "EP12_S9553_0094",
+      "value": "Huh? Taku...ma?"
+    },
+    {
+      "key": "EP12_S9553_0095",
+      "value": "That’s right, it’s me... It’s your partner,\nTakuma. No, more than that, your friend."
+    },
+    {
+      "key": "EP12_S9553_0096",
+      "value": "Takuma! Takuma, why are you hurt?"
+    },
+    {
+      "key": "EP12_S9553_0097",
+      "value": "Haha, I’m so glad...so glad you’re back to\nnormal, Agumon."
+    },
+    {
+      "key": "EP12_S9553_0098",
+      "value": "We need to take care of you, quick! But where\nare we? And... Aaah! It’s a big red monster!"
+    },
+    {
+      "key": "EP12_S9553_0099",
+      "value": "Haha, it’s okay. You’re all okay..."
+    },
+    {
+      "key": "EP12_S9553_0100",
+      "value": "Kew... Kew, kew!"
+    },
+    {
+      "key": "EP12_S9553_0101",
+      "value": "Humans...will pay..."
+    },
+    {
+      "key": "EP12_S9553_0102",
+      "value": "Kunemon, did you still have something against\nme? Well, okay then."
+    },
+    {
+      "key": "EP12_S9553_0103",
+      "value": "Come on! Keep hitting me! Do your worst!"
+    },
+    {
+      "key": "EP12_S9553_0104",
+      "value": "You have every right!"
+    },
+    {
+      "key": "EP12_S9553_0105",
+      "value": "He’s right. Ryo is absolutely right. I’m\nsorry, Lopmon..."
+    },
+    {
+      "key": "EP12_S9553_0106",
+      "value": "None of you are to blame. We understand that."
+    },
+    {
+      "key": "EP12_S9553_0107",
+      "value": "Kew...kew? Kew! Kew!"
+    },
+    {
+      "key": "EP12_S9553_0108",
+      "value": "Shuuji? What happened?"
+    },
+    {
+      "key": "EP12_S9553_0109",
+      "value": "Lopmon... Thank you. I’m so glad you came\nback to your senses..."
+    },
+    {
+      "key": "EP12_S9553_0110",
+      "value": "Heheh..."
+    },
+    {
+      "key": "EP12_S9553_0111",
+      "value": "This is great! Now everyone’s back to normal!"
+    },
+    {
+      "key": "EP12_S9553_0112",
+      "value": "I will admit, the bond each of you shares is\nstrong. But you’re still young."
+    },
+    {
+      "key": "EP12_S9553_0113",
+      "value": "Agumon... Everyone..."
+    },
+    {
+      "key": "EP12_S9553_0114",
+      "value": "You choose to walk with these humans, who can\nonly betray you? Who can only bring tragedy?"
+    },
+    {
+      "key": "EP12_S9553_0115",
+      "value": "If you’re anything like us, then you should\nalready know the answer!"
+    },
+    {
+      "key": "EP12_S9553_0116",
+      "value": "Very well, you ignorant whelps. Then burn in\nthe flames of my sorrow and hate!"
+    }
+  ]
+}

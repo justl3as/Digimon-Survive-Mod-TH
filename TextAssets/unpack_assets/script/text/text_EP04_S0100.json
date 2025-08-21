@@ -1,0 +1,252 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0100_0001",
+      "value": "Damn it! Where could Miu have gone?!"
+    },
+    {
+      "key": "EP04_S0100_0002",
+      "value": "Miu’s pretty small, so she’s really hard to\nlook for."
+    },
+    {
+      "key": "EP04_S0100_0003",
+      "value": "Can you think of anywhere she might have\ntried to hide?"
+    },
+    {
+      "key": "EP04_S0100_0004",
+      "value": "No... Honestly, I have no idea. I’m sorry,\nI know I’m her big brother..."
+    },
+    {
+      "key": "EP04_S0100_0005",
+      "value": "Hey, it’s okay."
+    },
+    {
+      "key": "EP04_S0100_0006",
+      "value": "Just because you’re related doesn’t mean\nyou’ve got some telepathic link."
+    },
+    {
+      "key": "EP04_S0100_0007",
+      "value": "What do you know about it?!"
+    },
+    {
+      "key": "EP04_S0100_0008",
+      "value": "Kaito! You don’t have to snap at him!"
+    },
+    {
+      "key": "EP04_S0100_0009",
+      "value": "Yeah, Dracmon’s right. And Shuuji, didn’t you\nsay something like that before?"
+    },
+    {
+      "key": "EP04_S0100_0010",
+      "value": "Oh, yeah, well..."
+    },
+    {
+      "key": "EP04_S0100_0011",
+      "value": "I’ve got an older brother myself, and...the\ntwo of us never really got along."
+    },
+    {
+      "key": "EP04_S0100_0012",
+      "value": "(I don’t even know what to make of the\nexpression on Shuuji’s face right now...)"
+    },
+    {
+      "key": "EP04_S0100_0013",
+      "value": "(Does he really not like his brother? Is that\nbecause his brother’s a real scary guy?)"
+    },
+    {
+      "key": "EP04_S0100_0014",
+      "value": "(Or do they rub each other the wrong way?\nCould his brother be a disappointment?)"
+    },
+    {
+      "key": "EP04_S0100_0015",
+      "value": "(I admit I’m curious...)"
+    },
+    {
+      "key": "EP04_S0100_Q1",
+      "value": "(How do I think Shuuji feels about his brother?)"
+    },
+    {
+      "key": "EP04_S0100_Q1_A1",
+      "value": "That he’s scary?"
+    },
+    {
+      "key": "EP04_S0100_Q1_A2",
+      "value": "That he’s annoying?"
+    },
+    {
+      "key": "EP04_S0100_Q1_A3",
+      "value": "He’s a disappointment?"
+    },
+    {
+      "key": "EP04_S0100_0016",
+      "value": ""
+    },
+    {
+      "key": "EP04_S0100_0017",
+      "value": "Is that because your brother’s really scary?"
+    },
+    {
+      "key": "EP04_S0100_0018",
+      "value": "Scary? I’m not scared of my b-brother!"
+    },
+    {
+      "key": "EP04_S0100_0019",
+      "value": "Huh? No, sorry, I wasn’t asking if you were\nafraid of him."
+    },
+    {
+      "key": "EP04_S0100_0020",
+      "value": "I was just wondering if he’s rude or a total\nhothead or something."
+    },
+    {
+      "key": "EP04_S0100_0021",
+      "value": "Sounds just like Kaito."
+    },
+    {
+      "key": "EP04_S0100_0022",
+      "value": "Oh, bite me!"
+    },
+    {
+      "key": "EP04_S0100_0023",
+      "value": "No! My brother’s not like that at all! He’s\nan incredible person. Much better than me..."
+    },
+    {
+      "key": "EP04_S0100_0024",
+      "value": "Shuuji? What’s wrong?"
+    },
+    {
+      "key": "EP04_S0100_0025",
+      "value": "Oh, er, I’m sorry. I got a little carried\naway there."
+    },
+    {
+      "key": "EP04_S0100_0026",
+      "value": ""
+    },
+    {
+      "key": "EP04_S0100_0027",
+      "value": "Is your brother really annoying, then? Do you\ntwo just rub each other the wrong way?"
+    },
+    {
+      "key": "EP04_S0100_0028",
+      "value": "What? I can’t say I’ve ever thought of anyone\nin my family that way."
+    },
+    {
+      "key": "EP04_S0100_0029",
+      "value": "It’s not that weird, is it?"
+    },
+    {
+      "key": "EP04_S0100_0030",
+      "value": "Just because you’re all family doesn’t mean\nyou can’t drive each other crazy."
+    },
+    {
+      "key": "EP04_S0100_0031",
+      "value": "Yeah...I guess."
+    },
+    {
+      "key": "EP04_S0100_0032",
+      "value": "I mean, you heard Miu earlier right? She said\nshe hates me, and that I’m a pain."
+    },
+    {
+      "key": "EP04_S0100_0033",
+      "value": "Maybe she and I just can’t get along..."
+    },
+    {
+      "key": "EP04_S0100_0034",
+      "value": "But you two aren’t like me and my brother. If\nanything, I’m jealous of what you have."
+    },
+    {
+      "key": "EP04_S0100_0035",
+      "value": ""
+    },
+    {
+      "key": "EP04_S0100_0036",
+      "value": "Is that because your brother is\na disappointment to you, Shuuji?"
+    },
+    {
+      "key": "EP04_S0100_0037",
+      "value": "Oh, he’s anything but that. He’s much smarter\nand more capable than I am."
+    },
+    {
+      "key": "EP04_S0100_0038",
+      "value": "Really? Now that’s saying something!"
+    },
+    {
+      "key": "EP04_S0100_0039",
+      "value": "I’m not sure I get it, but you make him sound\namazing!"
+    },
+    {
+      "key": "EP04_S0100_0040",
+      "value": "He’s practically perfect. That’s what makes\nit so hard..."
+    },
+    {
+      "key": "EP04_S0100_0041",
+      "value": "You mean you just don’t like him?"
+    },
+    {
+      "key": "EP04_S0100_0042",
+      "value": "No, it’s not that. It’s not as simple as\nliking him or not."
+    },
+    {
+      "key": "EP04_S0100_0043",
+      "value": "I’m...not sure how to explain."
+    },
+    {
+      "key": "EP04_S0100_0044",
+      "value": "Anyway, my brother and I don’t get along too\nwell."
+    },
+    {
+      "key": "EP04_S0100_0045",
+      "value": "You fight with him a lot?"
+    },
+    {
+      "key": "EP04_S0100_0046",
+      "value": "It never even came to that. He wouldn’t sink\nto that level."
+    },
+    {
+      "key": "EP04_S0100_0047",
+      "value": "Oh... Well, listen, I’m sorry. I shouldn’t\nhave said you didn’t know anything about it."
+    },
+    {
+      "key": "EP04_S0100_0048",
+      "value": "But let’s not worry about me. We need to find\nMiu."
+    },
+    {
+      "key": "EP04_S0100_0049",
+      "value": "Yeah."
+    },
+    {
+      "key": "EP04_S0100_0050",
+      "value": "But how do we look for her? We don’t exactly\nhave time to comb every inch of this place."
+    },
+    {
+      "key": "EP04_S0100_0051",
+      "value": "Then why don’t we focus our search on the\ninside of this castle?"
+    },
+    {
+      "key": "EP04_S0100_0052",
+      "value": "What makes you think we should do that?"
+    },
+    {
+      "key": "EP04_S0100_0053",
+      "value": "It’s absolute chaos outside. I can’t think\nMiu would run into the middle of all that."
+    },
+    {
+      "key": "EP04_S0100_0054",
+      "value": "So you’re saying there’s a good chance she’s\nstill somewhere inside the castle?"
+    },
+    {
+      "key": "EP04_S0100_0055",
+      "value": "Yes, although it’s just a chance."
+    },
+    {
+      "key": "EP04_S0100_0056",
+      "value": "No, I think you’re onto somethin’ there!"
+    },
+    {
+      "key": "EP04_S0100_0057",
+      "value": "So...we’re going back into the castle?"
+    },
+    {
+      "key": "EP04_S0100_0058",
+      "value": "Yeah! And as fast as we can!"
+    }
+  ]
+}

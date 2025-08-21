@@ -1,0 +1,176 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S9020_0001",
+      "value": "Well, you two sure took your time. I thought\nyou were goners for sure."
+    },
+    {
+      "key": "EP10_S9020_0002",
+      "value": "Sorry, we got caught up in helping out with\nthe repairs after our last fight."
+    },
+    {
+      "key": "EP10_S9020_0003",
+      "value": "What?! That’s the kinda thing you can do any\ntime! It’s hardly life or death, now is it?"
+    },
+    {
+      "key": "EP10_S9020_0004",
+      "value": "..."
+    },
+    {
+      "key": "EP10_S9020_0005",
+      "value": "Hey, don’t just clam up on me. Answer the\nquestion!"
+    },
+    {
+      "key": "EP10_S9020_0006",
+      "value": "(After we leave here, there’s no guarantee\nwe’ll ever come back.)"
+    },
+    {
+      "key": "EP10_S9020_0007",
+      "value": "(Aoi and Ryo both know that, and it’s\npainfully clear what they’re both thinking.)"
+    },
+    {
+      "key": "EP10_S9020_0008",
+      "value": "Incidentally, have you all considered where\nyou’ll be going next?"
+    },
+    {
+      "key": "EP10_S9020_0009",
+      "value": "We talked things over with the Professor, and\ndecided our best bet is to head north."
+    },
+    {
+      "key": "EP10_S9020_0010",
+      "value": "From what we’ve been able to determine,\nthat’s where the fog is at its thickest."
+    },
+    {
+      "key": "EP10_S9020_0011",
+      "value": "We’re not sure how it will affect the Four\nSovereign Monsters, but we can’t lose contact."
+    },
+    {
+      "key": "EP10_S9020_0012",
+      "value": "So you will cross the sea. Make sure you\nexercise all due caution!"
+    },
+    {
+      "key": "EP10_S9020_0013",
+      "value": "Yet I’m confident you will succeed in gaining\nthe aid of the Four Sovereign Monsters."
+    },
+    {
+      "key": "EP10_S9020_0014",
+      "value": "I certainly hope so."
+    },
+    {
+      "key": "EP10_S9020_0015",
+      "value": "Come, come, do not fear. I’m sure you’ll all\nbe fine."
+    },
+    {
+      "key": "EP10_S9020_0016",
+      "value": "True, I may only have an intuition, but I’ve\nfound my instincts to generally be correct."
+    },
+    {
+      "key": "EP10_S9020_0017",
+      "value": "Yeah! We’ll make sure you’re right about\nthis, at least."
+    },
+    {
+      "key": "EP10_S9020_Q1",
+      "value": "(What do I say to Jijimon?)"
+    },
+    {
+      "key": "EP10_S9020_Q1_A1",
+      "value": "We’ll save the world!"
+    },
+    {
+      "key": "EP10_S9020_Q1_A2",
+      "value": "We’ll rescue Miyuki!"
+    },
+    {
+      "key": "EP10_S9020_Q1_A3",
+      "value": "We’ll stop the Master!"
+    },
+    {
+      "key": "EP10_S9020_0018",
+      "value": "We’ll save the world!"
+    },
+    {
+      "key": "EP10_S9020_0019",
+      "value": "We’ll get Miyuki back from the Master!"
+    },
+    {
+      "key": "EP10_S9020_0020",
+      "value": "We’ll stop the Master!"
+    },
+    {
+      "key": "EP10_S9020_0021",
+      "value": "(Such positive words came naturally. I wonder\nif that’s because of what Jijimon said...)"
+    },
+    {
+      "key": "EP10_S9020_0022",
+      "value": "You’re right, Takuma. There’s no point in us\nlosing heart now."
+    },
+    {
+      "key": "EP10_S9020_0023",
+      "value": "That’s the spirit. Let’s focus on getting\nthis done."
+    },
+    {
+      "key": "EP10_S9020_0024",
+      "value": "I trust your instincts, Jijimon. Now, we’d\nbetter get going."
+    },
+    {
+      "key": "EP10_S9020_0025",
+      "value": "Thank you for all your help. So long!"
+    },
+    {
+      "key": "EP10_S9020_0026",
+      "value": "Let’s go, everyone!"
+    },
+    {
+      "key": "EP10_S9020_0027",
+      "value": "(We’re all heading north at last.)"
+    },
+    {
+      "key": "EP10_S9020_0028",
+      "value": "Farewell!"
+    },
+    {
+      "key": "EP10_S9020_0029",
+      "value": "(Jijimon and the others stay to see us off\nuntil we’re out of sight.)"
+    },
+    {
+      "key": "EP10_S9020_0030",
+      "value": "(At this point, I appreciate how much that\nshows they care. It’s proof we share a bond.)"
+    },
+    {
+      "key": "EP10_S9020_0031",
+      "value": "*sniff* Man, why’d they have to go and do\nsomething to make me cry?"
+    },
+    {
+      "key": "EP10_S9020_0032",
+      "value": "Ryo, you’re crying?"
+    },
+    {
+      "key": "EP10_S9020_0033",
+      "value": "Of course I’m crying! Think about how much\nthey did for us!"
+    },
+    {
+      "key": "EP10_S9020_0034",
+      "value": "And now this... It’s just too much."
+    },
+    {
+      "key": "EP10_S9020_0035",
+      "value": "(None of us really wanted to be on an\nadventure like this...)"
+    },
+    {
+      "key": "EP10_S9020_0036",
+      "value": "(...but I think we’ve all grown as a result.)"
+    },
+    {
+      "key": "EP10_S9020_0037",
+      "value": "(Ryo would never have acknowledged his\nfeelings before. And it’s not just him.)"
+    },
+    {
+      "key": "EP10_S9020_0038",
+      "value": "(I’ve grown too. I feel like we all have.\nMaybe that’s what Jijimon saw in us.)"
+    },
+    {
+      "key": "EP10_S9020_0039",
+      "value": "(Maybe that’s why he said what he did. The\nway we are now, things really could be okay.)"
+    }
+  ]
+}

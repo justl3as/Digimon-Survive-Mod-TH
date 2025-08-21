@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1169_0001",
+      "value": "I’m not sensing anything around here."
+    },
+    {
+      "key": "EP02_S1169_0002",
+      "value": "Okay, then let’s look somewhere else."
+    },
+    {
+      "key": "EP02_S1169_0003",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP02_S1169_0004",
+      "value": "On with the search!"
+    }
+  ]
+}

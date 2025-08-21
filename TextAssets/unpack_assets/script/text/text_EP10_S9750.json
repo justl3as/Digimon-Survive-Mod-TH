@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S9750_0001",
+      "value": "Hey, Takuma. Haven’t had any luck out here."
+    },
+    {
+      "key": "EP10_S9750_0002",
+      "value": "Another false lead, huh?"
+    },
+    {
+      "key": "EP10_S9750_0003",
+      "value": "I know it doesn’t help to get frustrated, but\nit’s hard to keep my spirits up like this."
+    },
+    {
+      "key": "EP10_S9750_0004",
+      "value": "Maybe I’d better check somewhere else."
+    },
+    {
+      "key": "EP10_S9750_0005",
+      "value": "Yeah, maybe. Speaking of which, where’s Miu?"
+    },
+    {
+      "key": "EP10_S9750_0006",
+      "value": "Right here! I’ve been checking in spots that\nare too small for Kaito."
+    },
+    {
+      "key": "EP10_S9750_0007",
+      "value": "Not that I’ve found anything."
+    },
+    {
+      "key": "EP10_S9750_0008",
+      "value": "Well, I’ll check everything one more time\njust to be sure. Takuma, keep an eye on Miu."
+    },
+    {
+      "key": "EP10_S9750_0009",
+      "value": "Come on, Kaito! I am more than capable of\nlooking around on my own, okay?"
+    },
+    {
+      "key": "EP10_S9750_0010",
+      "value": "You worry about me way too much. It’s such a\nnuisance!"
+    },
+    {
+      "key": "EP10_S9750_0011",
+      "value": "(Miu’s poking the bear, as usual. She should\nknow how Kaito feels by now.)"
+    },
+    {
+      "key": "EP10_S9750_0012",
+      "value": "(At the same time, he’s overdoing it again.\nMiu’s fine on her own, after all.)"
+    },
+    {
+      "key": "EP10_S9750_Q1",
+      "value": "(What should I do?)"
+    },
+    {
+      "key": "EP10_S9750_Q1_A1",
+      "value": "Maybe leave Miu alone?"
+    },
+    {
+      "key": "EP10_S9750_Q1_A2",
+      "value": "Think of Kaito."
+    },
+    {
+      "key": "EP10_S9750_0013",
+      "value": "Kaito, why don’t you leave Miu alone? She has\nSyakomon with her, after all."
+    },
+    {
+      "key": "EP10_S9750_0014",
+      "value": "Yeah, she’ll be fine as long as I’m here!"
+    },
+    {
+      "key": "EP10_S9750_0015",
+      "value": "That’s not the issue. I don’t want to put her\nin danger."
+    },
+    {
+      "key": "EP10_S9750_0016",
+      "value": "Don’t you trust her?"
+    },
+    {
+      "key": "EP10_S9750_0017",
+      "value": "Ack... Th...that’s not what I’m saying."
+    },
+    {
+      "key": "EP10_S9750_0018",
+      "value": "I want to protect her from as much fear and\nsadness as I can."
+    },
+    {
+      "key": "EP10_S9750_0019",
+      "value": "She’s...my only sister."
+    },
+    {
+      "key": "EP10_S9750_0020",
+      "value": "Yeah, I get it... You can’t just stop\nworrying."
+    },
+    {
+      "key": "EP10_S9750_0021",
+      "value": "Exactly. I know she’s gotten strong, but my\nfeelings are what they are."
+    },
+    {
+      "key": "EP10_S9750_0022",
+      "value": "I don’t care how annoying she thinks I am,\nI’m her brother⁠—her family!"
+    },
+    {
+      "key": "EP10_S9750_0023",
+      "value": "I see... Guess that’s how it is, then."
+    },
+    {
+      "key": "EP10_S9750_0024",
+      "value": "Hmm? What’s this I hear about family?"
+    },
+    {
+      "key": "EP10_S9750_0025",
+      "value": "Nothing! Don’t sweat it!"
+    },
+    {
+      "key": "EP10_S9750_0026",
+      "value": "Hmmm?"
+    },
+    {
+      "key": "EP10_S9750_0027",
+      "value": "Oh yeah, speaking of family, Takuma..."
+    },
+    {
+      "key": "EP10_S9750_0028",
+      "value": "It just shows how much he cares for you, Miu."
+    },
+    {
+      "key": "EP10_S9750_0029",
+      "value": "I know that! I just wish he wouldn’t be so\nfocused on me all the time."
+    },
+    {
+      "key": "EP10_S9750_0030",
+      "value": "I don’t know what’s going to become of him."
+    },
+    {
+      "key": "EP10_S9750_0031",
+      "value": "You’re right, he is going to have to give you\nsome more space at some point."
+    },
+    {
+      "key": "EP10_S9750_0032",
+      "value": "Yeah, see? I’m grateful to him and all..."
+    },
+    {
+      "key": "EP10_S9750_0033",
+      "value": "...but I don’t want him using me as an excuse\nnot to have a girlfriend. That’d be gross!"
+    },
+    {
+      "key": "EP10_S9750_0034",
+      "value": "Ha ha, I can see it spiraling into that if\nleft unchecked."
+    },
+    {
+      "key": "EP10_S9750_0035",
+      "value": "Sounds like you worry about him in your own\nway, Miu."
+    },
+    {
+      "key": "EP10_S9750_0036",
+      "value": "Well, of course. We’re family. I’d hate to\nthink what might happen if things went wrong."
+    },
+    {
+      "key": "EP10_S9750_0037",
+      "value": "Yeah, I can see why you’d be worried."
+    },
+    {
+      "key": "EP10_S9750_0038",
+      "value": "Right. You know, I wonder..."
+    },
+    {
+      "key": "EP10_S9750_0039",
+      "value": "You think the professor and Miyuki felt the\nsame way we do right now?"
+    },
+    {
+      "key": "EP10_S9750_0040",
+      "value": "The Professor and Miyuki? But aren’t they\ntotal strangers?"
+    },
+    {
+      "key": "EP10_S9750_0041",
+      "value": "Maybe, but Miyuki responded to seeing him,\nright? I bet they’re connected."
+    },
+    {
+      "key": "EP10_S9750_0042",
+      "value": "You’re right. I wouldn’t be surprised if it\nturned out they had some connection."
+    },
+    {
+      "key": "EP10_S9750_0043",
+      "value": "Hey, what are you two talking about?"
+    },
+    {
+      "key": "EP10_S9750_0044",
+      "value": "None of your business! And did you really\ncheck everywhere again?"
+    },
+    {
+      "key": "EP10_S9750_0045",
+      "value": "Sure did, and there’s nothing here. Come on,\nMiu, let’s go try somewhere else."
+    },
+    {
+      "key": "EP10_S9750_0046",
+      "value": "Hey, I can look around on my own!"
+    },
+    {
+      "key": "EP10_S9750_0047",
+      "value": "Yeah, but I want you with me just in case."
+    },
+    {
+      "key": "EP10_S9750_0048",
+      "value": "So long, Takuma. Catch up with you later."
+    },
+    {
+      "key": "EP10_S9750_0049",
+      "value": "I said I can look on my own!"
+    },
+    {
+      "key": "EP10_S9750_0050",
+      "value": "(I guess their relationship is going to be\nlike that for a while.)"
+    },
+    {
+      "key": "EP10_S9750_0051",
+      "value": "Right, well, I’d better be moving on too."
+    },
+    {
+      "key": "EP10_S9750_0052",
+      "value": "Kaito, we already checked over there!"
+    },
+    {
+      "key": "EP10_S9750_0053",
+      "value": "What? We did? I can’t even tell."
+    },
+    {
+      "key": "EP10_S9750_0054",
+      "value": "You’re so hopeless. I can’t leave you alone\nfor a second!"
+    },
+    {
+      "key": "EP10_S9750_0055",
+      "value": "(Haha. Sounds like the tables have turned.)"
+    },
+    {
+      "key": "EP10_S9750_0056",
+      "value": "(I shouldn’t get between them while they’re\nacting so close. I’ll leave this to them.)"
+    }
+  ]
+}

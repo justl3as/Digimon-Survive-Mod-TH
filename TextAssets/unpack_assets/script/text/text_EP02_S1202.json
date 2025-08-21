@@ -1,0 +1,44 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1202_0001",
+      "value": "Is there food here, Takuma?"
+    },
+    {
+      "key": "EP02_S1202_0002",
+      "value": "I had thought so, but nope!"
+    },
+    {
+      "key": "EP02_S1202_0003",
+      "value": "Never mind!\nYou’ve still got this!"
+    },
+    {
+      "key": "EP02_S1202_0004",
+      "value": "Haha, thanks. I’ll try something else."
+    },
+    {
+      "key": "EP02_S1202_0005",
+      "value": "What’s this?\nIs this food, Takuma?"
+    },
+    {
+      "key": "EP02_S1202_0006",
+      "value": "Huh? Where?"
+    },
+    {
+      "key": "EP02_S1202_0007",
+      "value": "That’s not really food but it could be good\nwhen we’re tired."
+    },
+    {
+      "key": "EP02_S1202_0008",
+      "value": "Then let me give it to you!"
+    },
+    {
+      "key": "EP02_S1202_0009",
+      "value": "Thanks, Agumon."
+    },
+    {
+      "key": "EP02_S1202_0010",
+      "value": "We’re looking here again?"
+    }
+  ]
+}

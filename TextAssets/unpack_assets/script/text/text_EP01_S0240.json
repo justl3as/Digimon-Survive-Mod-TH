@@ -1,0 +1,112 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0240_0001",
+      "value": "Shoo! Back off, dang it!"
+    },
+    {
+      "key": "EP01_S0240_0002",
+      "value": "Look...over there! Minoru’s being attacked by\nGotsumon!"
+    },
+    {
+      "key": "EP01_S0240_0003",
+      "value": "What should we do, Takuma?!"
+    },
+    {
+      "key": "EP01_S0240_Q1",
+      "value": "(Good question...)"
+    },
+    {
+      "key": "EP01_S0240_Q1_A1",
+      "value": "Save Minoru!"
+    },
+    {
+      "key": "EP01_S0240_Q1_A2",
+      "value": "Run away!"
+    },
+    {
+      "key": "EP01_S0240_Q1_A3",
+      "value": "Watch and wait."
+    },
+    {
+      "key": "EP01_S0240_0004",
+      "value": "Yeah, that’s what I’m talking about, Takuma!"
+    },
+    {
+      "key": "EP01_S0240_0005",
+      "value": "Of course! I can’t just leave my friend to\nfight those things alone!"
+    },
+    {
+      "key": "EP01_S0240_0006",
+      "value": "What should we do? A single Gotsumon is one\nthing, but can you take on that many?"
+    },
+    {
+      "key": "EP01_S0240_0007",
+      "value": "Uhhh, I dunno..."
+    },
+    {
+      "key": "EP01_S0240_0008",
+      "value": "In that case...let’s get out of here."
+    },
+    {
+      "key": "EP01_S0240_0009",
+      "value": "Good idea, Takuma. We better be careful with\nthese guys."
+    },
+    {
+      "key": "EP01_S0240_0010",
+      "value": "Hmm, let’s wait and see what happens.\nThey don’t seem to be attacking just yet..."
+    },
+    {
+      "key": "EP01_S0240_0023",
+      "value": "I think you’re right. Let’s see what they do."
+    },
+    {
+      "key": "EP01_S0240_0011",
+      "value": "Besides, the Gotsumon can’t have been\nchasing Minoru all this while, can they?"
+    },
+    {
+      "key": "EP01_S0240_0012",
+      "value": "I wonder what happened?"
+    },
+    {
+      "key": "EP01_S0240_0013",
+      "value": "It’s too dangerous to tackle something that\nstony thing head-on."
+    },
+    {
+      "key": "EP01_S0240_0014",
+      "value": "Let’s look for the right time to...\nAhh shoot, another one just showed up!"
+    },
+    {
+      "key": "EP01_S0240_0015",
+      "value": "Hiyaaah!"
+    },
+    {
+      "key": "EP01_S0240_0016",
+      "value": "Ah, you’re...!"
+    },
+    {
+      "key": "EP01_S0240_0017",
+      "value": "Are you okay, Minoru?!"
+    },
+    {
+      "key": "EP01_S0240_0018",
+      "value": "That one...saved him?"
+    },
+    {
+      "key": "EP01_S0240_0019",
+      "value": "Oh, I know him! That’s Falcomon!\nHe’s not like the bad ones!"
+    },
+    {
+      "key": "EP01_S0240_0020",
+      "value": "Now do you believe me? I told you I wasn’t\nyour foe."
+    },
+    {
+      "key": "EP01_S0240_0021",
+      "value": "Nnngh... All right, all right, I’m sorry for\ndoubting you! Just help me out, please!"
+    },
+    {
+      "key": "EP01_S0240_0022",
+      "value": "Understood! If you want my help, then my help\nis what you shall have!"
+    }
+  ]
+}

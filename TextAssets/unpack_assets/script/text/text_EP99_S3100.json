@@ -1,0 +1,136 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S3100_0001",
+      "value": "Uh... Aoi? What are you doing here?"
+    },
+    {
+      "key": "EP99_S3100_0002",
+      "value": "What? T-Takuma?! I should ask you the same\nthing!"
+    },
+    {
+      "key": "EP99_S3100_0003",
+      "value": "(Hm? Aoi seems nervous for some reason.)"
+    },
+    {
+      "key": "EP99_S3100_0004",
+      "value": "(I wonder if this is somewhere she likes to\ncome to be alone.)"
+    },
+    {
+      "key": "EP99_S3100_0005",
+      "value": "Uh... Should I not be here?"
+    },
+    {
+      "key": "EP99_S3100_0006",
+      "value": "What? No! Of course not! I just like to spend\ntime here alone sometimes."
+    },
+    {
+      "key": "EP99_S3100_0007",
+      "value": "(She doesn’t even have Labramon with her.\nThat’s dangerous.)"
+    },
+    {
+      "key": "EP99_S3100_Q1",
+      "value": "Hey, Aoi..."
+    },
+    {
+      "key": "EP99_S3100_Q1_A1",
+      "value": "This is dangerous."
+    },
+    {
+      "key": "EP99_S3100_Q1_A2",
+      "value": "Why come here?"
+    },
+    {
+      "key": "EP99_S3100_Q1_A3",
+      "value": "What are you planning?"
+    },
+    {
+      "key": "EP99_S3100_0008",
+      "value": "You shouldn’t be out on your own."
+    },
+    {
+      "key": "EP99_S3100_0009",
+      "value": "Yeah, I know. I’m sorry."
+    },
+    {
+      "key": "EP99_S3100_0010",
+      "value": "It’s just, whenever I really need some time\nto myself, this is where I like to go."
+    },
+    {
+      "key": "EP99_S3100_0011",
+      "value": "What’s so special about this place?"
+    },
+    {
+      "key": "EP99_S3100_0012",
+      "value": "Uh... Do you really want me to say?"
+    },
+    {
+      "key": "EP99_S3100_0013",
+      "value": "(She seems upset. Maybe I shouldn’t have\nasked.)"
+    },
+    {
+      "key": "EP99_S3100_0014",
+      "value": "Anyway, uh, sorry to make you worry."
+    },
+    {
+      "key": "EP99_S3100_0015",
+      "value": "You’re not plotting something out here, are\nyou?"
+    },
+    {
+      "key": "EP99_S3100_0016",
+      "value": "What? Of course not!"
+    },
+    {
+      "key": "EP99_S3100_0017",
+      "value": "I’d never plot anything! It’s not like that!"
+    },
+    {
+      "key": "EP99_S3100_0018",
+      "value": "It’s just, uh, um... I’m sorry."
+    },
+    {
+      "key": "EP99_S3100_0019",
+      "value": "Hey, you don’t have to apologize."
+    },
+    {
+      "key": "EP99_S3100_0020",
+      "value": "It’s not like you did anything wrong."
+    },
+    {
+      "key": "EP99_S3100_0021",
+      "value": "Honestly, it makes me feel kind of awkward\nwhen you apologize for nothing like that."
+    },
+    {
+      "key": "EP99_S3100_0022",
+      "value": "Oh, right. Sorry."
+    },
+    {
+      "key": "EP99_S3100_0023",
+      "value": "Not again! Er, uh, you don’t have to\napologize."
+    },
+    {
+      "key": "EP99_S3100_0024",
+      "value": "Try and be more bold! Or something, I don’t\nknow."
+    },
+    {
+      "key": "EP99_S3100_0025",
+      "value": "Like Minoru! Yeah. He’s always in high\nspirits..."
+    },
+    {
+      "key": "EP99_S3100_0026",
+      "value": "..."
+    },
+    {
+      "key": "EP99_S3100_0027",
+      "value": "(Ugh, I don’t even know what I’m trying to\nsay anymore!)"
+    },
+    {
+      "key": "EP99_S3100_0028",
+      "value": "Heh... Ha ha ha ha ha! I’m sorry, I shouldn’t\nlaugh, it’s just..."
+    },
+    {
+      "key": "EP99_S3100_0029",
+      "value": "Oh, but I guess I shouldn’t apologize either.\nThanks, Takuma."
+    }
+  ]
+}

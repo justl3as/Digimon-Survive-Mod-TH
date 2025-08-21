@@ -1,0 +1,872 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S3071_0001",
+      "value": "(Piedmon is...too strong... And Agumon is not\nlooking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0002",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0003",
+      "value": "Gah! Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0004",
+      "value": "Takuma...I’m sorry... I...can’t..."
+    },
+    {
+      "key": "EP07_S3071_0038",
+      "value": "(Piedmon is...too strong... And Greymon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0039",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0040",
+      "value": "Urgh... Grr... Augh...!"
+    },
+    {
+      "key": "EP07_S3071_0041",
+      "value": "Takuma...I’ve got...nothing...left."
+    },
+    {
+      "key": "EP07_S3071_0042",
+      "value": "(Piedmon is...too strong... And Tyrannomon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0043",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0044",
+      "value": "Urgh! I...I..."
+    },
+    {
+      "key": "EP07_S3071_0045",
+      "value": "I’ve got nothing left..."
+    },
+    {
+      "key": "EP07_S3071_0046",
+      "value": "(Piedmon is...too strong... And Tuskmon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0047",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0048",
+      "value": "Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0049",
+      "value": "This...can’t be it. I cannot...fail... Gah!"
+    },
+    {
+      "key": "EP07_S3071_0050",
+      "value": "(Piedmon is...too strong... And SkullGreymon\nis not looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0051",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0052",
+      "value": "Grrr... Grrraaawwwrrr!"
+    },
+    {
+      "key": "EP07_S3071_0053",
+      "value": "Gwaar...!"
+    },
+    {
+      "key": "EP07_S3071_0054",
+      "value": "(Piedmon is...too strong... And MetalGreymon\nis not looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0055",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0056",
+      "value": "Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0057",
+      "value": "Gah! It’s no...use. Takuma, I’m sorry... I...\nfailed."
+    },
+    {
+      "key": "EP07_S3071_0058",
+      "value": "(Piedmon is...too strong... And Triceramon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0059",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0060",
+      "value": "Nnngh! Gah!"
+    },
+    {
+      "key": "EP07_S3071_0061",
+      "value": "This...can’t be it. I need...to make\nTakuma...proud."
+    },
+    {
+      "key": "EP07_S3071_0062",
+      "value": "(Piedmon is...too strong... And Megadramon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0063",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0064",
+      "value": "Urgh... Ungh!"
+    },
+    {
+      "key": "EP07_S3071_0065",
+      "value": "That was...all I had...and yet... Takuma, I’m\nsorry... I can’t go on..."
+    },
+    {
+      "key": "EP07_S3071_0066",
+      "value": "(Piedmon is...too strong... And WarGreymon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0067",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0068",
+      "value": "Gah! Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0069",
+      "value": "I hate to admit it...but that was all I had.\nI’m afraid I can’t even stand..."
+    },
+    {
+      "key": "EP07_S3071_0070",
+      "value": "(Piedmon is...too strong... And Dinorexmon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0071",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0072",
+      "value": "No... This can’t be...the end."
+    },
+    {
+      "key": "EP07_S3071_0073",
+      "value": "Tell me, Takuma. Why is it that now, before\nsuch a mighty foe, my heart does not stir?"
+    },
+    {
+      "key": "EP07_S3071_0074",
+      "value": "(Piedmon is...too strong... And Machinedramon\nis not looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0075",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0076",
+      "value": "Urgh! Gaaaaaah!"
+    },
+    {
+      "key": "EP07_S3071_0077",
+      "value": "It’s no use... Takuma, I lack the strength to\nfight any more..."
+    },
+    {
+      "key": "EP07_S3071_0078",
+      "value": "(Piedmon is...too strong... And Fanglongmon\nis not looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0079",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0080",
+      "value": "Whatever strength Piedmon may...or may not\nhave left...this is too much..."
+    },
+    {
+      "key": "EP07_S3071_0081",
+      "value": "Ah, that I should be reduced to this...\nTakuma, remember our time together!"
+    },
+    {
+      "key": "EP07_S3071_0082",
+      "value": "(Piedmon is...too strong... And Omegamon is\nnot looking good right now...)"
+    },
+    {
+      "key": "EP07_S3071_0083",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0084",
+      "value": "No... I cannot...fall...here..."
+    },
+    {
+      "key": "EP07_S3071_0085",
+      "value": "Takuma? What’s wrong? Your voice has left my\nheart... Your support, my strength, is gone."
+    },
+    {
+      "key": "EP07_S3071_0005",
+      "value": "Hahaha! Is that all you’ve got? I was hoping\nyou’d at least make this interesting."
+    },
+    {
+      "key": "EP07_S3071_0006",
+      "value": "He’s so strong... Is there no way we can beat\nhim?"
+    },
+    {
+      "key": "EP07_S3071_0031",
+      "value": "(Agumon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0032",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0033",
+      "value": "Gah! Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0034",
+      "value": "Takuma... I won the fight, but... I don’t\nthink...I’m going to make it..."
+    },
+    {
+      "key": "EP07_S3071_0086",
+      "value": "(Greymon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0087",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0088",
+      "value": "Urgh... Grr... Augh...!"
+    },
+    {
+      "key": "EP07_S3071_0089",
+      "value": "We won, Takuma...but I’ve got nothing left..."
+    },
+    {
+      "key": "EP07_S3071_0090",
+      "value": "(Tyrannomon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0091",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0092",
+      "value": "Urgh! I...I..."
+    },
+    {
+      "key": "EP07_S3071_0093",
+      "value": "I won...but Takuma...I’ve got nothing left..."
+    },
+    {
+      "key": "EP07_S3071_0094",
+      "value": "(Tuskmon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0095",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0096",
+      "value": "Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0097",
+      "value": "I won, but still...how pathetic. This can’t\nbe it... There’s still so much...to do..."
+    },
+    {
+      "key": "EP07_S3071_0098",
+      "value": "(SkullGreymon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0099",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0100",
+      "value": "Grrr... Grrraaawwwrrr!"
+    },
+    {
+      "key": "EP07_S3071_0101",
+      "value": "Grrrr..."
+    },
+    {
+      "key": "EP07_S3071_0102",
+      "value": "(MetalGreymon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0103",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0104",
+      "value": "Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0105",
+      "value": "I won, Takuma... Urgh... I feel so weak..."
+    },
+    {
+      "key": "EP07_S3071_0106",
+      "value": "(Triceramon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0107",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0108",
+      "value": "Nnngh! Gah!"
+    },
+    {
+      "key": "EP07_S3071_0109",
+      "value": "I...won... Why so sad, Takuma? This is...\nnothing... Urgh..."
+    },
+    {
+      "key": "EP07_S3071_0110",
+      "value": "(Megadramon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0111",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0112",
+      "value": "Urgh... Ungh!"
+    },
+    {
+      "key": "EP07_S3071_0113",
+      "value": "That victory took everything I had... Takuma,\nthis may be it..."
+    },
+    {
+      "key": "EP07_S3071_0114",
+      "value": "(WarGreymon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0115",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0116",
+      "value": "Gah! Urgh!"
+    },
+    {
+      "key": "EP07_S3071_0117",
+      "value": "I’m glad...we won, but...I can’t seem...to\nstand up..."
+    },
+    {
+      "key": "EP07_S3071_0118",
+      "value": "(Dinorexmon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0119",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0120",
+      "value": "No... This can’t be...the end."
+    },
+    {
+      "key": "EP07_S3071_0121",
+      "value": "Takuma, are you all right? Did I keep you...\nsafe? Because this might...be it...for me..."
+    },
+    {
+      "key": "EP07_S3071_0122",
+      "value": "(Machinedramon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0123",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0124",
+      "value": "Urgh! Gaaaaaah!"
+    },
+    {
+      "key": "EP07_S3071_0125",
+      "value": "We won? Urgh... Takuma... I don’t think...I\nhave anything left..."
+    },
+    {
+      "key": "EP07_S3071_0126",
+      "value": "(Fanglongmon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0127",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0128",
+      "value": "Curse you, Piedmon! Finally met your end, eh?\nTo think you possessed such strength..."
+    },
+    {
+      "key": "EP07_S3071_0129",
+      "value": "Takuma, somehow we’ve proved victorious. But\nnow I’m at the end of my strength..."
+    },
+    {
+      "key": "EP07_S3071_0130",
+      "value": "(Omegamon’s in bad shape.)"
+    },
+    {
+      "key": "EP07_S3071_0131",
+      "value": "(At this rate, he’s going to die!)"
+    },
+    {
+      "key": "EP07_S3071_0132",
+      "value": "No... I cannot...fall...here..."
+    },
+    {
+      "key": "EP07_S3071_0133",
+      "value": "Takuma, thanks to your support, I was able to\ntriumph... But now that power has run out."
+    },
+    {
+      "key": "EP07_S3071_0035",
+      "value": "*gasp* *pant* *pant*! It’s not...over yet."
+    },
+    {
+      "key": "EP07_S3071_0036",
+      "value": "Hahaha! Is that all you’ve got? Or can you\nmake things even more interesting?"
+    },
+    {
+      "key": "EP07_S3071_0037",
+      "value": "You’re kidding me... This guy’s strength is\nunreal! Is there no way we can beat him?"
+    },
+    {
+      "key": "EP07_S3071_0007",
+      "value": "No, I can’t give up. I can do this!"
+    },
+    {
+      "key": "EP07_S3071_0008",
+      "value": "I am not worthless!!!"
+    },
+    {
+      "key": "EP07_S3071_0009",
+      "value": "On your feet one last time, Agumon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0010",
+      "value": "Takuma... It’s no use. I can’t... It’d kill\nme... *pant* *pant*"
+    },
+    {
+      "key": "EP07_S3071_0134",
+      "value": "On your feet one last time, Greymon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0135",
+      "value": "Takuma...can’t you see? I no longer have the\nstrength to win."
+    },
+    {
+      "key": "EP07_S3071_0136",
+      "value": "On your feet one last time, Tyrannomon!\nWe’ll show them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0137",
+      "value": "Takuma...I can’t. Our hearts are too far\napart..."
+    },
+    {
+      "key": "EP07_S3071_0138",
+      "value": "On your feet one last time, Tuskmon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0139",
+      "value": "Takuma...can’t you see? I can’t... It will be\nthe end of us..."
+    },
+    {
+      "key": "EP07_S3071_0140",
+      "value": "On your feet one last time, SkullGreymon!\nWe’ll show them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0141",
+      "value": "Grrraaawwwrrr!!! Rrraaawwwrrr!"
+    },
+    {
+      "key": "EP07_S3071_0142",
+      "value": "On your feet one last time, MetalGreymon!\nWe’ll show them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0143",
+      "value": "What? Takuma...what’s wrong with you? What do\nyou think I am?"
+    },
+    {
+      "key": "EP07_S3071_0144",
+      "value": "On your feet one last time, Triceramon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0145",
+      "value": "Ah... I see... Is that what you think of me?"
+    },
+    {
+      "key": "EP07_S3071_0146",
+      "value": "On your feet one last time, Megadramon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0147",
+      "value": "Takuma, have you lost your mind? Do you even\nknow what you’re asking?"
+    },
+    {
+      "key": "EP07_S3071_0148",
+      "value": "On your feet one last time, WarGreymon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0149",
+      "value": "Oh, what a fool I’ve been. To think how much\nI gave for such a miserable human being."
+    },
+    {
+      "key": "EP07_S3071_0150",
+      "value": "On your feet one last time, Dinorexmon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0151",
+      "value": "Ah, I see now... I failed to protect your\nheart."
+    },
+    {
+      "key": "EP07_S3071_0152",
+      "value": "On your feet one last time, Machinedramon!\nWe’ll show them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0153",
+      "value": "And who are you to be calling anyone else\npathetic, Takuma?"
+    },
+    {
+      "key": "EP07_S3071_0154",
+      "value": "On your feet one last time, Fanglongmon!\nWe’ll show them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0155",
+      "value": "How can I have been such a fool? Never should\nI have sought the light in you."
+    },
+    {
+      "key": "EP07_S3071_0156",
+      "value": "On your feet one last time, Omegamon! We’ll\nshow them who’s pathetic!"
+    },
+    {
+      "key": "EP07_S3071_0157",
+      "value": "It’s no use... Takuma, return to your senses\nat once! Quickly, while I still remain!"
+    },
+    {
+      "key": "EP07_S3071_0011",
+      "value": "Come on, what’s wrong with you?! If you lose,\nthey’re right, I’m worthless!"
+    },
+    {
+      "key": "EP07_S3071_0012",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Agumon!!!"
+    },
+    {
+      "key": "EP07_S3071_0158",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Greymon!!!"
+    },
+    {
+      "key": "EP07_S3071_0159",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Tyrannomon!!!"
+    },
+    {
+      "key": "EP07_S3071_0160",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Tuskmon!!!"
+    },
+    {
+      "key": "EP07_S3071_0161",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, SkullGreymon!!!"
+    },
+    {
+      "key": "EP07_S3071_0162",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, MetalGreymon!!!"
+    },
+    {
+      "key": "EP07_S3071_0163",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Triceramon!!!"
+    },
+    {
+      "key": "EP07_S3071_0164",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Megadramon!!!"
+    },
+    {
+      "key": "EP07_S3071_0165",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, WarGreymon!!!"
+    },
+    {
+      "key": "EP07_S3071_0166",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Dinorexmon!!!"
+    },
+    {
+      "key": "EP07_S3071_0167",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Machinedramon!!!"
+    },
+    {
+      "key": "EP07_S3071_0168",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Fanglongmon!!!"
+    },
+    {
+      "key": "EP07_S3071_0169",
+      "value": "Now get back up, you stupid piece of crap!\nLet’s go! Right now, Omegamon!!!"
+    },
+    {
+      "key": "EP07_S3071_0013",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0170",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0171",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0172",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0173",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0174",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0175",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0176",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0177",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0178",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0179",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0180",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0181",
+      "value": "Urgh... Gaaah!"
+    },
+    {
+      "key": "EP07_S3071_0014",
+      "value": "What’s wrong? Agumon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0015",
+      "value": "(No matter how much I yell, Agumon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0182",
+      "value": "What’s wrong? Greymon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0183",
+      "value": "(No matter how much I yell, Greymon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0184",
+      "value": "What’s wrong? Tyrannomon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0185",
+      "value": "(No matter how much I yell, Tyrannomon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0186",
+      "value": "What’s wrong? Tuskmon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0187",
+      "value": "(No matter how much I yell, Tuskmon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0188",
+      "value": "What’s wrong? SkullGreymon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0189",
+      "value": "(No matter how much I yell, SkullGreymon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0190",
+      "value": "What’s wrong? MetalGreymon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0191",
+      "value": "(No matter how much I yell, MetalGreymon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0192",
+      "value": "What’s wrong? Triceramon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0193",
+      "value": "(No matter how much I yell, Triceramon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0194",
+      "value": "What’s wrong? Megadramon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0195",
+      "value": "(No matter how much I yell, Megadramon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0196",
+      "value": "What’s wrong? WarGreymon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0197",
+      "value": "(No matter how much I yell, WarGreymon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0198",
+      "value": "What’s wrong? Dinorexmon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0199",
+      "value": "(No matter how much I yell, Dinorexmon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0200",
+      "value": "What’s wrong? Machinedramon? What’s\nhappening?"
+    },
+    {
+      "key": "EP07_S3071_0201",
+      "value": "(No matter how much I yell, Machinedramon\nonly writhes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0202",
+      "value": "What’s wrong? Fanglongmon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0203",
+      "value": "(No matter how much I yell, Fanglongmon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0204",
+      "value": "What’s wrong? Omegamon? What’s happening?"
+    },
+    {
+      "key": "EP07_S3071_0205",
+      "value": "(No matter how much I yell, Omegamon only\nwrithes in pain. And...)"
+    },
+    {
+      "key": "EP07_S3071_0016",
+      "value": "Graaaaaagh!"
+    },
+    {
+      "key": "EP07_S3071_0017",
+      "value": "Hurgh!!! No! It can’t be! This power... Gah!"
+    },
+    {
+      "key": "EP07_S3071_0018",
+      "value": "No way! You took out Piedmon in just one\nblow?"
+    },
+    {
+      "key": "EP07_S3071_0019",
+      "value": "Yes! Ahahahahahahaha! Who’s worthless now?"
+    },
+    {
+      "key": "EP07_S3071_0020",
+      "value": "Yaaaaaah!"
+    },
+    {
+      "key": "EP07_S3071_0021",
+      "value": "Hey, stop! What’s wrong with you? Agumon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0206",
+      "value": "Hey, stop! What’s wrong with you? Greymon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0207",
+      "value": "Hey, stop! What’s wrong with you? Tyrannomon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0208",
+      "value": "Hey, stop! What’s wrong with you? Tuskmon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0209",
+      "value": "Hey, stop! What’s wrong with you?\nSkullGreymon, stop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0210",
+      "value": "Hey, stop! What’s wrong with you?\nMetalGreymon, stop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0211",
+      "value": "Hey, stop! What’s wrong with you? Triceramon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0212",
+      "value": "Hey, stop! What’s wrong with you? Megadramon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0213",
+      "value": "Hey, stop! What’s wrong with you? WarGreymon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0214",
+      "value": "Hey, stop! What’s wrong with you? Dinorexmon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0215",
+      "value": "Hey, stop! What’s wrong with you?\nMachinedramon, stop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0216",
+      "value": "Hey, stop! What’s wrong with you?\nFanglongmon, stop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0217",
+      "value": "Hey, stop! What’s wrong with you? Omegamon,\nstop! Cut it out!"
+    },
+    {
+      "key": "EP07_S3071_0022",
+      "value": "Graaaawr! Raaaah!"
+    },
+    {
+      "key": "EP07_S3071_0023",
+      "value": "(It’s no use. Even I can’t get through.\nHe’s just attacking anything that moves.)"
+    },
+    {
+      "key": "EP07_S3071_0024",
+      "value": "(My friends just keep falling, one after\nanother.)"
+    },
+    {
+      "key": "EP07_S3071_0025",
+      "value": "(And...)"
+    },
+    {
+      "key": "EP07_S3071_0026",
+      "value": "Raaaah!"
+    },
+    {
+      "key": "EP07_S3071_0027",
+      "value": "(In the end, I’m the only one left standing.)"
+    },
+    {
+      "key": "EP07_S3071_0028",
+      "value": "Gwaar...!"
+    },
+    {
+      "key": "EP07_S3071_0029",
+      "value": "(Dead...they’re all dead. No one else\nsurvived...)"
+    },
+    {
+      "key": "EP07_S3071_0030",
+      "value": "(And that...is the end of our fight.)"
+    }
+  ]
+}

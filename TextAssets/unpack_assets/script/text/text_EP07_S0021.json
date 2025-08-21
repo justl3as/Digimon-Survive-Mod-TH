@@ -1,0 +1,620 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S0021_0001",
+      "value": "Hang on. The professor’s not here?"
+    },
+    {
+      "key": "EP07_S0021_0002",
+      "value": "Where did he go?"
+    },
+    {
+      "key": "EP07_S0021_0003",
+      "value": "La la la!"
+    },
+    {
+      "key": "EP07_S0021_0004",
+      "value": "(What’s that noise? Humming?)"
+    },
+    {
+      "key": "EP07_S0021_0005",
+      "value": "(I’ve heard that tune before somewhere...)"
+    },
+    {
+      "key": "EP07_S0021_0006",
+      "value": "Hey, Takuma! Over there! I see something!"
+    },
+    {
+      "key": "EP07_S0021_0007",
+      "value": "Those stairs head down.\nWere they always there?"
+    },
+    {
+      "key": "EP07_S0021_0008",
+      "value": "The professor might be down there.\nLet’s go find out!"
+    },
+    {
+      "key": "EP07_S0021_0009",
+      "value": "La la la!"
+    },
+    {
+      "key": "EP07_S0021_0010",
+      "value": "Hm? Oh, it’s you."
+    },
+    {
+      "key": "EP07_S0021_0011",
+      "value": "Don’t tell me it’s time for us to go already?\nSorry I’m late."
+    },
+    {
+      "key": "EP07_S0021_0012",
+      "value": "I came into the shrine and found those\nstairs."
+    },
+    {
+      "key": "EP07_S0021_0013",
+      "value": "I wanted a look inside. Seems like I lost\ntrack of time."
+    },
+    {
+      "key": "EP07_S0021_0014",
+      "value": "It’s a mural, right?"
+    },
+    {
+      "key": "EP07_S0021_0143",
+      "value": "There’s a mural on this floor, too... "
+    },
+    {
+      "key": "EP07_S0021_0144",
+      "value": "Ah, a new discovery like this is enough to\nget any scholar worked up.  "
+    },
+    {
+      "key": "EP07_S0021_0145",
+      "value": "It’s more abstract than the one upstairs, so\nit’s harder to decipher, too..."
+    },
+    {
+      "key": "EP07_S0021_0146",
+      "value": "(The professor seems excited. It’s like he’s\nboth worried and happy at the same time.) "
+    },
+    {
+      "key": "EP07_S0021_0015",
+      "value": "Yes, isn’t it magnificent? Despite everything\nit just sets my scholarly heart racing."
+    },
+    {
+      "key": "EP07_S0021_0016",
+      "value": "I can see why a mural like this would draw\nyour interest."
+    },
+    {
+      "key": "EP07_S0021_0017",
+      "value": "But why have we never seen those stairs\nbefore?"
+    },
+    {
+      "key": "EP07_S0021_0018",
+      "value": "We must have missed them somehow.\nOr maybe someone cleared the way?"
+    },
+    {
+      "key": "EP07_S0021_0019",
+      "value": "It would have been recent.\nThere must be some connection..."
+    },
+    {
+      "key": "EP07_S0021_0020",
+      "value": "Don’t get lost in thought again, Professor!"
+    },
+    {
+      "key": "EP07_S0021_0021",
+      "value": "Right! We just came to get you."
+    },
+    {
+      "key": "EP07_S0021_0022",
+      "value": "But hang on..."
+    },
+    {
+      "key": "EP07_S0021_0023",
+      "value": "Professor? Did you figure out what you were\nworking on before?"
+    },
+    {
+      "key": "EP07_S0021_0024",
+      "value": "Hmm? Yes, to a degree, but..."
+    },
+    {
+      "key": "EP07_S0021_0025",
+      "value": "(It’s just the three of us here now.)"
+    },
+    {
+      "key": "EP07_S0021_0026",
+      "value": "(This might be my chance to ask something\nI couldn’t have in front of the others.)"
+    },
+    {
+      "key": "EP07_S0021_0027",
+      "value": "(I still wonder about Haru and that mystery.\nWhat was he talking about at the apartment?)"
+    },
+    {
+      "key": "EP07_S0021_0028",
+      "value": "(There was some connection to Garurumon.\nWhy, though? Garurumon is our enemy.)"
+    },
+    {
+      "key": "EP07_S0021_0029",
+      "value": "(And then that humming...\nWhy was he humming Miyuki’s song?)"
+    },
+    {
+      "key": "EP07_S0021_0030",
+      "value": "(So many questions...\nWhere should I start?)"
+    },
+    {
+      "key": "EP07_S0021_Q1",
+      "value": "(I need to ask the professor about...)"
+    },
+    {
+      "key": "EP07_S0021_Q1_A1",
+      "value": "Haru."
+    },
+    {
+      "key": "EP07_S0021_Q1_A2",
+      "value": "Garurumon."
+    },
+    {
+      "key": "EP07_S0021_Q1_A3",
+      "value": "That tune he hummed."
+    },
+    {
+      "key": "EP07_S0021_0031",
+      "value": "Did something happen with you and Haru?"
+    },
+    {
+      "key": "EP07_S0021_0032",
+      "value": "Professor, can you tell me what you meant\nwhen you spoke with Haru yesterday?"
+    },
+    {
+      "key": "EP07_S0021_0033",
+      "value": "With Haru? What do you mean?"
+    },
+    {
+      "key": "EP07_S0021_0034",
+      "value": "I’m sorry. I saw the two of you speaking\nyesterday at the apartment complex."
+    },
+    {
+      "key": "EP07_S0021_0035",
+      "value": "Oh, that...\nI do want to answer your questions..."
+    },
+    {
+      "key": "EP07_S0021_0036",
+      "value": "...but honestly, I’m just as interested in\nfinding out who he is as you are."
+    },
+    {
+      "key": "EP07_S0021_0037",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP07_S0021_0038",
+      "value": "It would have been many years ago.\nI can scarcely recall at this point."
+    },
+    {
+      "key": "EP07_S0021_0039",
+      "value": "But the way he appears...\nlooks like my..."
+    },
+    {
+      "key": "EP07_S0021_0040",
+      "value": "Professor? What are you talking about?"
+    },
+    {
+      "key": "EP07_S0021_0041",
+      "value": "No, no... Never mind.\nIt’s hard to find the words."
+    },
+    {
+      "key": "EP07_S0021_0042",
+      "value": "It would have been easier when I was younger.\nI sure do hate getting older..."
+    },
+    {
+      "key": "EP07_S0021_0043",
+      "value": "(Hmm... It seems like the professor is\nconfused, too.)"
+    },
+    {
+      "key": "EP07_S0021_0044",
+      "value": "(He doesn’t seem to be hiding anything.\nHe might simply not know...)"
+    },
+    {
+      "key": "EP07_S0021_0045",
+      "value": "Garurumon."
+    },
+    {
+      "key": "EP07_S0021_0046",
+      "value": "Have you met Garurumon before?"
+    },
+    {
+      "key": "EP07_S0021_0047",
+      "value": "He seemed to be pretty concerned about you\nyesterday for some reason."
+    },
+    {
+      "key": "EP07_S0021_0048",
+      "value": "Do you doubt me?\nYou think I’m working with the enemy?"
+    },
+    {
+      "key": "EP07_S0021_0049",
+      "value": "No! That’s not it at all!\nI was just wondering..."
+    },
+    {
+      "key": "EP07_S0021_0050",
+      "value": "It’s fine, Takuma. I’m sorry for being so\nblunt just now."
+    },
+    {
+      "key": "EP07_S0021_0051",
+      "value": "Believe me, I’ve no intention of hiding\nthings, or otherwise deceiving you."
+    },
+    {
+      "key": "EP07_S0021_0052",
+      "value": "It’s just...my memory is so vague. There’s so\nmuch I can’t be sure of."
+    },
+    {
+      "key": "EP07_S0021_0053",
+      "value": "Can’t be sure of?\nBut wasn’t it just yesterday?"
+    },
+    {
+      "key": "EP07_S0021_0054",
+      "value": "No, no. I think I first met Garurumon when\nI was quite the younger man... I think."
+    },
+    {
+      "key": "EP07_S0021_0055",
+      "value": "What? You met Garurumon when you were a kid?"
+    },
+    {
+      "key": "EP07_S0021_0056",
+      "value": "Indeed, and among my memories, I think he was\nbeside me in my fear..."
+    },
+    {
+      "key": "EP07_S0021_0057",
+      "value": "But was Garurumon an enemy back then, too?\nOr was he a friend, like Agumon?"
+    },
+    {
+      "key": "EP07_S0021_0058",
+      "value": "I wonder... I don’t remember a thing...\nAnd yet... "
+    },
+    {
+      "key": "EP07_S0021_0059",
+      "value": "Yes, I’m sure I know him somehow."
+    },
+    {
+      "key": "EP07_S0021_0060",
+      "value": "Well, Garurumon certainly seemed to remember\nyou."
+    },
+    {
+      "key": "EP07_S0021_0061",
+      "value": "Did you do something that might have made him\nangry?"
+    },
+    {
+      "key": "EP07_S0021_0062",
+      "value": "I don’t know. If I could remember, it\nwouldn’t be a problem, now would it?"
+    },
+    {
+      "key": "EP07_S0021_0063",
+      "value": "(The professor looks pretty upset.\nHe must not remember.)"
+    },
+    {
+      "key": "EP07_S0021_0064",
+      "value": "(I wonder what the heck happened with\nGarurumon.)"
+    },
+    {
+      "key": "EP07_S0021_0065",
+      "value": "That tune he hummed."
+    },
+    {
+      "key": "EP07_S0021_0066",
+      "value": "That song you were humming just now, what’s\nit called?"
+    },
+    {
+      "key": "EP07_S0021_0067",
+      "value": "You know, I don’t actually know myself..."
+    },
+    {
+      "key": "EP07_S0021_0068",
+      "value": "What? But you’re the one who was humming it!"
+    },
+    {
+      "key": "EP07_S0021_0069",
+      "value": "How can you not know what it is?"
+    },
+    {
+      "key": "EP07_S0021_0070",
+      "value": "Yes, I know it from somewhere, but I can’t\nrecall exactly where..."
+    },
+    {
+      "key": "EP07_S0021_0071",
+      "value": "Music is said to be linked with other\nassociated memories in the mind."
+    },
+    {
+      "key": "EP07_S0021_0072",
+      "value": "But only this melody remains in what’s left\nof my old brain."
+    },
+    {
+      "key": "EP07_S0021_0073",
+      "value": "*sigh*"
+    },
+    {
+      "key": "EP07_S0021_0074",
+      "value": "But if you’ve forgotten it now, then it must\nhave been years ago when you learned it."
+    },
+    {
+      "key": "EP07_S0021_0075",
+      "value": "Yes, you would think so, but it’s possible\nthat I didn’t just forget it due to my age."
+    },
+    {
+      "key": "EP07_S0021_0076",
+      "value": "What makes you say that?"
+    },
+    {
+      "key": "EP07_S0021_0077",
+      "value": "I lost my sister when I was young."
+    },
+    {
+      "key": "EP07_S0021_0078",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP07_S0021_0079",
+      "value": "I don’t mean that she died, but rather that\nshe was spirited away."
+    },
+    {
+      "key": "EP07_S0021_0080",
+      "value": "They tell me I was with her when it happened,\nbut I have no memory of it at all."
+    },
+    {
+      "key": "EP07_S0021_0081",
+      "value": "When something terrible happens, sometimes\nthe mind blocks the memories as a defense."
+    },
+    {
+      "key": "EP07_S0021_0082",
+      "value": "But this is what I think: That tune has\nsomething to do with my sister..."
+    },
+    {
+      "key": "EP07_S0021_0083",
+      "value": "And it might be a small clue as to how\nI could recover the memory of her loss."
+    },
+    {
+      "key": "EP07_S0021_0084",
+      "value": "It’s less of a theory and more a desperate\nhope."
+    },
+    {
+      "key": "EP07_S0021_0085",
+      "value": "A clue to a lost memory..."
+    },
+    {
+      "key": "EP07_S0021_0086",
+      "value": "(This is no ordinary tune for him. It might\nbe very important.)"
+    },
+    {
+      "key": "EP07_S0021_0087",
+      "value": "(Was there anything else I wanted to ask?)"
+    },
+    {
+      "key": "EP07_S0021_0088",
+      "value": "That’s all."
+    },
+    {
+      "key": "EP07_S0021_0089",
+      "value": "There’s more."
+    },
+    {
+      "key": "EP07_S0021_0090",
+      "value": "(I think I’ve asked enough for now...)"
+    },
+    {
+      "key": "EP07_S0021_0091",
+      "value": "Takuma? Why don’t you show that thing to the\nprofessor?"
+    },
+    {
+      "key": "EP07_S0021_0092",
+      "value": "That thing?"
+    },
+    {
+      "key": "EP07_S0021_0093",
+      "value": "Oh, the photo?"
+    },
+    {
+      "key": "EP07_S0021_0094",
+      "value": "Photo?"
+    },
+    {
+      "key": "EP07_S0021_0095",
+      "value": "It’s something I found in the room\nwhere you talked to Haru."
+    },
+    {
+      "key": "EP07_S0021_0096",
+      "value": "I grabbed it ’cause it caught my eye.\nPlease, tell me your thoughts, Professor."
+    },
+    {
+      "key": "EP07_S0021_0097",
+      "value": "Here it is..."
+    },
+    {
+      "key": "EP07_S0021_0098",
+      "value": "This is...Miyuki and Haru?"
+    },
+    {
+      "key": "EP07_S0021_0099",
+      "value": "No... Oh, yes... Maybe?"
+    },
+    {
+      "key": "EP07_S0021_0100",
+      "value": "Professor? Are you okay?"
+    },
+    {
+      "key": "EP07_S0021_0101",
+      "value": "I’m sorry... A partial memory surfaced..."
+    },
+    {
+      "key": "EP07_S0021_0102",
+      "value": "(When the professor looked at this photo,\nsome memories starting coming back!)"
+    },
+    {
+      "key": "EP07_S0021_0103",
+      "value": "In this photo, I see... "
+    },
+    {
+      "key": "EP07_S0021_0104",
+      "value": "Myself as a child...and my sister...\nI think... "
+    },
+    {
+      "key": "EP07_S0021_0105",
+      "value": "...Say what?"
+    },
+    {
+      "key": "EP07_S0021_0106",
+      "value": "I don’t know if you will believe me but...\nHaru looks exactly like me as a boy."
+    },
+    {
+      "key": "EP07_S0021_0107",
+      "value": "And Haru was the nickname my sister called me\nwhen we were young.  "
+    },
+    {
+      "key": "EP07_S0021_0108",
+      "value": "You mean your sister?!"
+    },
+    {
+      "key": "EP07_S0021_0109",
+      "value": "My sister’s name...was Miyuki.\nYes, I remember now..."
+    },
+    {
+      "key": "EP07_S0021_0110",
+      "value": "That room, in that apartment complex, is\nwhere my sister and I grew up."
+    },
+    {
+      "key": "EP07_S0021_0111",
+      "value": "(What? Seriously?! But...what does that even\nmean? What’s going on here?)"
+    },
+    {
+      "key": "EP07_S0021_0112",
+      "value": "I, too, have absolutely no idea what is\nhappening."
+    },
+    {
+      "key": "EP07_S0021_0113",
+      "value": "I wish I could remember what the memory might\nsignify..."
+    },
+    {
+      "key": "EP07_S0021_0114",
+      "value": "I... Why? Who are these people I don’t know,\nand yet who resemble my sister and me so..."
+    },
+    {
+      "key": "EP07_S0021_0115",
+      "value": "Professor..."
+    },
+    {
+      "key": "EP07_S0021_0116",
+      "value": "(His childhood was a long time ago. The\nresemblance might be a coincidence.)"
+    },
+    {
+      "key": "EP07_S0021_0117",
+      "value": "(But then why would Haru want to speak with\nthe professor in that exact room?)"
+    },
+    {
+      "key": "EP07_S0021_0118",
+      "value": "..."
+    },
+    {
+      "key": "EP07_S0021_0119",
+      "value": "(He’s gone all pale. More questions might be\ntoo much for him.)"
+    },
+    {
+      "key": "EP07_S0021_0120",
+      "value": "(It’s pointless if he doesn’t understand.\nI should let it go for now.)"
+    },
+    {
+      "key": "EP07_S0021_0121",
+      "value": "(Is there something else we can talk about?)"
+    },
+    {
+      "key": "EP07_S0021_Q2",
+      "value": "(What should I say to the professor?)"
+    },
+    {
+      "key": "EP07_S0021_Q2_A1",
+      "value": "Please relax a little."
+    },
+    {
+      "key": "EP07_S0021_Q2_A2",
+      "value": "Let’s talk with Haru."
+    },
+    {
+      "key": "EP07_S0021_Q2_A3",
+      "value": "Let’s go back there."
+    },
+    {
+      "key": "EP07_S0021_0122",
+      "value": "Please relax a little."
+    },
+    {
+      "key": "EP07_S0021_0123",
+      "value": "Please relax a little, Professor.\nYou’ve been through enough."
+    },
+    {
+      "key": "EP07_S0021_0124",
+      "value": "I’m so sorry, Takuma..."
+    },
+    {
+      "key": "EP07_S0021_0125",
+      "value": "It’s fine. We can talk about it again later."
+    },
+    {
+      "key": "EP07_S0021_0126",
+      "value": "Let’s talk with Haru."
+    },
+    {
+      "key": "EP07_S0021_0127",
+      "value": "Let’s ask Haru himself."
+    },
+    {
+      "key": "EP07_S0021_0128",
+      "value": "You saw me, right? When I spoke with Haru in\nthat room in the apartment complex?"
+    },
+    {
+      "key": "EP07_S0021_0129",
+      "value": "Based on that, I don’t think we’d get\na straight answer if we just asked him."
+    },
+    {
+      "key": "EP07_S0021_0130",
+      "value": "(He might be right. I thought it might have\nbeen the easiest option, though.)"
+    },
+    {
+      "key": "EP07_S0021_0131",
+      "value": "Let’s go back to the apartment complex."
+    },
+    {
+      "key": "EP07_S0021_0132",
+      "value": "We should pass that apartment complex as we\nhead west to the factory from here."
+    },
+    {
+      "key": "EP07_S0021_0133",
+      "value": "Let’s check it out one more time. It might\nhelp you remember something else."
+    },
+    {
+      "key": "EP07_S0021_0134",
+      "value": "Yes... It might indeed.\nWith the right stimulus for my memories..."
+    },
+    {
+      "key": "EP07_S0021_0135",
+      "value": "(Garurumon seems to know Haru, Miyuki, and\nthe professor.)"
+    },
+    {
+      "key": "EP07_S0021_0136",
+      "value": "(There must be a big secret that involves all\nthree of them...)"
+    },
+    {
+      "key": "EP07_S0021_0137",
+      "value": "Everyone might be waiting for us.\nWe should hurry."
+    },
+    {
+      "key": "EP07_S0021_0138",
+      "value": "You’re right. Can you walk, Professor?"
+    },
+    {
+      "key": "EP07_S0021_0139",
+      "value": "Oh, I’m fine."
+    },
+    {
+      "key": "EP07_S0021_0140",
+      "value": "I’m sorry my behavior has been so\ndisgraceful."
+    },
+    {
+      "key": "EP07_S0021_0141",
+      "value": "If my memories return, I will tell you\neverything."
+    },
+    {
+      "key": "EP07_S0021_0142",
+      "value": "All right.\nPlease take it easy, Professor."
+    }
+  ]
+}

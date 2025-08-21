@@ -1,0 +1,412 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S9081_0024",
+      "value": "Ah! All of you are safe and sound, I see!"
+    },
+    {
+      "key": "EP09_S9081_0025",
+      "value": "Jijimon! You and the little ones all\nevacuated here?"
+    },
+    {
+      "key": "EP09_S9081_0026",
+      "value": "They all seem to be in good shape, Takuma!"
+    },
+    {
+      "key": "EP09_S9081_0027",
+      "value": "Yeah, thank goodness."
+    },
+    {
+      "key": "EP09_S9081_0028",
+      "value": "What in the world happened here, Jijimon?"
+    },
+    {
+      "key": "EP09_S9081_0029",
+      "value": "It’s a long story...\nBut I suppose I have time to tell it."
+    },
+    {
+      "key": "EP09_S9081_0030",
+      "value": "About ten days ago, a thick fog the likes of\nwhich I’d never seen came over the north sea."
+    },
+    {
+      "key": "EP09_S9081_0031",
+      "value": "We tried to go about our business as usual,\nbut the fog wouldn’t allow that."
+    },
+    {
+      "key": "EP09_S9081_0032",
+      "value": "Not only did the Master’s minions come out of\nthe fog, but a strange monster also appeared."
+    },
+    {
+      "key": "EP09_S9081_0033",
+      "value": "A monster?"
+    },
+    {
+      "key": "EP09_S9081_0034",
+      "value": "Now, what was that girl named again...?"
+    },
+    {
+      "key": "EP09_S9081_0035",
+      "value": "That girl...? You don’t mean Miyuki, do you?"
+    },
+    {
+      "key": "EP09_S9081_0036",
+      "value": "Ah yes, that’s the one. The one that was with\nall of you before."
+    },
+    {
+      "key": "EP09_S9081_0037",
+      "value": "What in heaven’s name happened to that child?"
+    },
+    {
+      "key": "EP09_S9081_0038",
+      "value": "When we last met, she didn’t seem the type to\ncommand monsters to run amok in the park..."
+    },
+    {
+      "key": "EP09_S9081_0039",
+      "value": "Miyuki has been taken over...by that\n“Master” thing."
+    },
+    {
+      "key": "EP09_S9081_0040",
+      "value": "The Master, you say...\nNow it all comes together."
+    },
+    {
+      "key": "EP09_S9081_0041",
+      "value": "We were attacked at the school we used\nas our base."
+    },
+    {
+      "key": "EP09_S9081_0042",
+      "value": "That...sounds about right. What the Master\nseeks is neither you nor us."
+    },
+    {
+      "key": "EP09_S9081_0043",
+      "value": "...What do you mean?"
+    },
+    {
+      "key": "EP09_S9081_0044",
+      "value": "This amusement park, that school. Both are\nmade from the memories of humans."
+    },
+    {
+      "key": "EP09_S9081_0045",
+      "value": "That’s why the Master wishes for their\ndestruction. Pathetic, really."
+    },
+    {
+      "key": "EP09_S9081_0046",
+      "value": "I’m afraid I don’t quite follow you..."
+    },
+    {
+      "key": "EP09_S9081_0047",
+      "value": "Ignorance is bliss, as they say."
+    },
+    {
+      "key": "EP09_S9081_0048",
+      "value": "Why are all of you here, anyway? I’m sure it\nwas no easy feat to get here."
+    },
+    {
+      "key": "EP09_S9081_0049",
+      "value": "We want to save Miyuki."
+    },
+    {
+      "key": "EP09_S9081_0050",
+      "value": "...Well, now."
+    },
+    {
+      "key": "EP09_S9081_0051",
+      "value": "Miyuki is essential to us escaping from this\nworld."
+    },
+    {
+      "key": "EP09_S9081_0052",
+      "value": "So we came here to look for a way to return\nher to normal."
+    },
+    {
+      "key": "EP09_S9081_0053",
+      "value": "Please, if you know any way to rescue her and\nchange her back, you have to tell us!"
+    },
+    {
+      "key": "EP09_S9081_0054",
+      "value": "...That’s impossible, I’m afraid. There is no\nway to oppose the Master. You’d best give up."
+    },
+    {
+      "key": "EP09_S9081_0055",
+      "value": "In this world, the Master determines all."
+    },
+    {
+      "key": "EP09_S9081_0056",
+      "value": "...And what about the four god beasts?"
+    },
+    {
+      "key": "EP09_S9081_0057",
+      "value": "...Well, now."
+    },
+    {
+      "key": "EP09_S9081_0058",
+      "value": "It was inscribed on the wall of the shrine."
+    },
+    {
+      "key": "EP09_S9081_0059",
+      "value": "Oh, you mean the mural depicting those four\nKemonogami?!"
+    },
+    {
+      "key": "EP09_S9081_0060",
+      "value": "Indeed. I was able to make some headway in my\ninvestigation, thanks to Shuuji’s help."
+    },
+    {
+      "key": "EP09_S9081_0061",
+      "value": "I deciphered the mural, and came up with a\nhypothesis..."
+    },
+    {
+      "key": "EP09_S9081_0062",
+      "value": "The four god beasts needed to seal the Master\nslumber somewhere."
+    },
+    {
+      "key": "EP09_S9081_0063",
+      "value": "They are the Four Sovereign Monsters."
+    },
+    {
+      "key": "EP09_S9081_0064",
+      "value": "It seems my judgement was sound."
+    },
+    {
+      "key": "EP09_S9081_0065",
+      "value": "Aye. This is proof that your world and ours\nwere originally a single world."
+    },
+    {
+      "key": "EP09_S9081_0066",
+      "value": "A single world..."
+    },
+    {
+      "key": "EP09_S9081_0067",
+      "value": "Long before my birth, they were split in\ntwo...and this world was thrown into chaos."
+    },
+    {
+      "key": "EP09_S9081_0068",
+      "value": "Before long, a will was born from the chaos—\nthe ego of the world, possessing great power."
+    },
+    {
+      "key": "EP09_S9081_0069",
+      "value": "That is the Master of this world."
+    },
+    {
+      "key": "EP09_S9081_0070",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S9081_0071",
+      "value": "But the Master is not all-knowing, and once\nagain the world was thrown into chaos."
+    },
+    {
+      "key": "EP09_S9081_0072",
+      "value": "The Four Sovereign Monsters exist to maintain\nthe Master."
+    },
+    {
+      "key": "EP09_S9081_0073",
+      "value": "What the heck’re you talking about?\nI can’t follow at all."
+    },
+    {
+      "key": "EP09_S9081_0074",
+      "value": "Just be quiet and listen. There may be a clue\nas to how to get home safely."
+    },
+    {
+      "key": "EP09_S9081_0075",
+      "value": "Yeah, uh, right..."
+    },
+    {
+      "key": "EP09_S9081_0076",
+      "value": "So the power that supports the Master has\nweakened, sending this world into disarray?"
+    },
+    {
+      "key": "EP09_S9081_0077",
+      "value": "Not quite. I said they MAINTAIN the Master,\nnot support him."
+    },
+    {
+      "key": "EP09_S9081_0078",
+      "value": "They capture, restrain and suppress him."
+    },
+    {
+      "key": "EP09_S9081_0079",
+      "value": "Up to now they kept the Master sealed...\nbut their power has weakened."
+    },
+    {
+      "key": "EP09_S9081_0080",
+      "value": "Wait, what? Are you telling us to go meet\nthese Four Sovereign Monsters?"
+    },
+    {
+      "key": "EP09_S9081_0081",
+      "value": "If you can, yes."
+    },
+    {
+      "key": "EP09_S9081_0082",
+      "value": "Whaddaya mean?"
+    },
+    {
+      "key": "EP09_S9081_0083",
+      "value": "They may be found in the four directions of\nthe compass, as is told in your world."
+    },
+    {
+      "key": "EP09_S9081_0084",
+      "value": "But their exact locations are unknown."
+    },
+    {
+      "key": "EP09_S9081_0085",
+      "value": "Since I was born, not a single soul has\nwitnessed one of these beasts."
+    },
+    {
+      "key": "EP09_S9081_0086",
+      "value": "Damn!\nWe’re missing the most crucial piece..."
+    },
+    {
+      "key": "EP09_S9081_0087",
+      "value": "Knock it off, would you, Ryo? Jijimon just\ntold us some important information."
+    },
+    {
+      "key": "EP09_S9081_0088",
+      "value": "But north, south, east and west... First we\nhave to figure out where that is, exactly."
+    },
+    {
+      "key": "EP09_S9081_0089",
+      "value": "Well, allow me to offer a piece of advice.\nIf I were the Master..."
+    },
+    {
+      "key": "EP09_S9081_0090",
+      "value": "I would try to eliminate the Four Sovereign\nMonsters that bind me to gain even more power."
+    },
+    {
+      "key": "EP09_S9081_0091",
+      "value": "So we’ll probably end up fighting, huh..."
+    },
+    {
+      "key": "EP09_S9081_0092",
+      "value": "Yes, probably.\nDoes that frighten you?"
+    },
+    {
+      "key": "EP09_S9081_0093",
+      "value": "What, you want me to say it sounds fun?\nOf course it’s freakin’ scary!"
+    },
+    {
+      "key": "EP09_S9081_0094",
+      "value": "But we’ll have to cross one or two dangerous\nbridges if we want to get home."
+    },
+    {
+      "key": "EP09_S9081_0095",
+      "value": "We don’t really have a choice, now do we?"
+    },
+    {
+      "key": "EP09_S9081_0096",
+      "value": "Hohoho, what a funny thing to say."
+    },
+    {
+      "key": "EP09_S9081_0097",
+      "value": "(The Four Sovereign Monsters... So they really\nexist?)"
+    },
+    {
+      "key": "EP09_S9081_0098",
+      "value": "(Now we have a way forward. We have to meet\nthem—to stop the Master, and save the world.)"
+    },
+    {
+      "key": "EP09_S9081_0099",
+      "value": "(If we run into any enemies along the way,\nwe’ll just face them head-on like always.)"
+    },
+    {
+      "key": "EP09_S9081_0100",
+      "value": "(Problem is, we don’t know what kind of\nbeings the Four Sovereign Monsters are...)"
+    },
+    {
+      "key": "EP09_S9081_Q1",
+      "value": "(What do I suggest we do?)"
+    },
+    {
+      "key": "EP09_S9081_Q1_A1",
+      "value": "Go save the world."
+    },
+    {
+      "key": "EP09_S9081_Q1_A2",
+      "value": "Take out obstacles."
+    },
+    {
+      "key": "EP09_S9081_Q1_A3",
+      "value": "Be careful out there."
+    },
+    {
+      "key": "EP09_S9081_0101",
+      "value": "Go save the world."
+    },
+    {
+      "key": "EP09_S9081_0102",
+      "value": "We finally have a way to maybe save Miyuki."
+    },
+    {
+      "key": "EP09_S9081_0103",
+      "value": "To save the world, let’s find the Four\nSovereign Monsters!"
+    },
+    {
+      "key": "EP09_S9081_0104",
+      "value": "Heheh, things have gotten crazy, but saving\nthe world’s got a pretty cool ring to it!"
+    },
+    {
+      "key": "EP09_S9081_0105",
+      "value": "Yeah, we’ve got a job to do. We’ve got to do\nthe best we can!"
+    },
+    {
+      "key": "EP09_S9081_0106",
+      "value": "Take out obstacles."
+    },
+    {
+      "key": "EP09_S9081_0107",
+      "value": "Doesn’t matter if we run into the Master.\nWe’ll take out anyone who gets in our way."
+    },
+    {
+      "key": "EP09_S9081_0108",
+      "value": "Obviously. We can’t let those punks just do\nwhatever they want!"
+    },
+    {
+      "key": "EP09_S9081_0109",
+      "value": "If they come to us, that’ll just save us some\ntime. We’ll rescue Miyuki, together!"
+    },
+    {
+      "key": "EP09_S9081_0110",
+      "value": "Yeah! Let’s save Miyuki!"
+    },
+    {
+      "key": "EP09_S9081_0111",
+      "value": "Be careful out there."
+    },
+    {
+      "key": "EP09_S9081_0112",
+      "value": "The Master will definitely interfere, and we\ndon’t know what the Sovereigns are like."
+    },
+    {
+      "key": "EP09_S9081_0113",
+      "value": "Be careful out there."
+    },
+    {
+      "key": "EP09_S9081_0114",
+      "value": "“Fight and run away, live to fight another\nday.” That sorta thing?"
+    },
+    {
+      "key": "EP09_S9081_0115",
+      "value": "Yeah, our lives come first! We have to keep\nour guard up!"
+    },
+    {
+      "key": "EP09_S9081_0116",
+      "value": "Whoa!\nIs that an earthquake?!"
+    },
+    {
+      "key": "EP09_S9081_0117",
+      "value": "No, not quite.\nThis doesn’t look good!"
+    },
+    {
+      "key": "EP09_S9081_0118",
+      "value": "Oh, look, Takuma! Fog’s pouring in through\ncracks in the wall!"
+    },
+    {
+      "key": "EP09_S9081_0119",
+      "value": "GRAAAAAAAAAAAAAAAAAAAAAAAAWR!!!"
+    },
+    {
+      "key": "EP09_S9081_0120",
+      "value": "That voice! Miyuki?!"
+    },
+    {
+      "key": "EP09_S9081_0121",
+      "value": "Oh no, we’ll be wiped out if this keeps up!\nRun, everybody!"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1400_0001",
+      "value": "(...There’s too many things we don’t know.\nI wonder what Kaito thinks about this?)"
+    },
+    {
+      "key": "EP05_S1400_0002",
+      "value": "Hey, Kaito. Do you think those creatures are\nour enemies?"
+    },
+    {
+      "key": "EP05_S1400_0003",
+      "value": "Who’s to say? We don’t have enough info to\ndecide one way or another."
+    },
+    {
+      "key": "EP05_S1400_0004",
+      "value": "Yeah, that’s what I figured..."
+    },
+    {
+      "key": "EP05_S1400_0005",
+      "value": "For now, we have to find out more of the\ntruth. Even a scrap would help."
+    },
+    {
+      "key": "EP05_S1400_0006",
+      "value": "We can’t take any action without knowing more\nabout what’s going on."
+    },
+    {
+      "key": "EP05_S1400_0007",
+      "value": "It sucks not being able to do anything.\nWe gotta figure something out, and fast!"
+    },
+    {
+      "key": "EP05_S1400_0008",
+      "value": "(Kaito’s rough in both words and deeds, but\nat his core he’s a practical guy.)"
+    },
+    {
+      "key": "EP05_S1400_0009",
+      "value": "(Probably helped him be a good brother. He\nsure goes above and beyond for Miu.)"
+    },
+    {
+      "key": "EP05_S1400_0010",
+      "value": "(Hm, or has he really seen a lot of fights?\nHe does kinda look like a delinquent.)"
+    },
+    {
+      "key": "EP05_S1400_0011",
+      "value": "Um, Kaito..."
+    },
+    {
+      "key": "EP05_S1400_0012",
+      "value": "Yeah?"
+    },
+    {
+      "key": "EP05_S1400_Q1",
+      "value": "(I’d say he’s pretty...)"
+    },
+    {
+      "key": "EP05_S1400_Q1_A1",
+      "value": "Practical, actually."
+    },
+    {
+      "key": "EP05_S1400_Q1_A2",
+      "value": "Great as a brother."
+    },
+    {
+      "key": "EP05_S1400_Q1_A3",
+      "value": "Used to fighting?"
+    },
+    {
+      "key": "EP05_S1400_0014",
+      "value": "You’re surprisingly practical, aren’t you?"
+    },
+    {
+      "key": "EP05_S1400_0015",
+      "value": "Whaddaya mean, surprisingly? This is just\nbasic common sense."
+    },
+    {
+      "key": "EP05_S1400_0016",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP05_S1400_0017",
+      "value": "What?"
+    },
+    {
+      "key": "EP05_S1400_0018",
+      "value": "Hmm..."
+    },
+    {
+      "key": "EP05_S1400_0019",
+      "value": "Hold up, what’s with that blank stare? You\nthought I was off my rocker or something?"
+    },
+    {
+      "key": "EP05_S1400_0020",
+      "value": "Uhh, I mean, a bit off-kilter, maybe, but with\nhow you tend to act, anyone would think so!"
+    },
+    {
+      "key": "EP05_S1400_0021",
+      "value": "What’s “common sense”?"
+    },
+    {
+      "key": "EP05_S1400_0022",
+      "value": "Hahaha, that’s a deeper question than you\nrealize, Agumon."
+    },
+    {
+      "key": "EP05_S1400_0023",
+      "value": "Yo, don’t try and change the subject!"
+    },
+    {
+      "key": "EP05_S1400_0024",
+      "value": "Hehehe, looks like my boy’s the only one who\ndidn’t know!"
+    },
+    {
+      "key": "EP05_S1400_0025",
+      "value": "Don’t you friggin’ start, creepshow!"
+    },
+    {
+      "key": "EP05_S1400_0027",
+      "value": "You’re great as a brother."
+    },
+    {
+      "key": "EP05_S1400_0028",
+      "value": "Wha’? Where the heck’d that come from?!"
+    },
+    {
+      "key": "EP05_S1400_0029",
+      "value": "It just came to me while we were talking."
+    },
+    {
+      "key": "EP05_S1400_0030",
+      "value": "You’re reliable, help out in a pinch, and act\nfor others, even if you’re rough about it."
+    },
+    {
+      "key": "EP05_S1400_0031",
+      "value": "Who even asked you...?"
+    },
+    {
+      "key": "EP05_S1400_0032",
+      "value": "I’m just expressing my honest opinion. “Man,\nbrothers sure are amazing,” I thought."
+    },
+    {
+      "key": "EP05_S1400_0033",
+      "value": "It’s not just Miu. You’re trying to protect\nall of us."
+    },
+    {
+      "key": "EP05_S1400_0034",
+      "value": "It ain’t like I’m trying to keep you guys’\nasses out of the fire or anything!"
+    },
+    {
+      "key": "EP05_S1400_0035",
+      "value": "Oh? Speaking of fire, your face’s looking\nhot, boyo. You feeling sick? Little sniffly?"
+    },
+    {
+      "key": "EP05_S1400_0036",
+      "value": "Shaddup! Stop staring at me!"
+    },
+    {
+      "key": "EP05_S1400_0038",
+      "value": "You’re pretty used to fights, huh?"
+    },
+    {
+      "key": "EP05_S1400_0039",
+      "value": "What? The hell you trying to say?"
+    },
+    {
+      "key": "EP05_S1400_0040",
+      "value": "It’s just, you’re so calm in a situation like\nthis. I can’t believe we’re the same age."
+    },
+    {
+      "key": "EP05_S1400_0041",
+      "value": "You must’ve been through a lot, I figured."
+    },
+    {
+      "key": "EP05_S1400_0042",
+      "value": "Oh... Eh, it ain’t nothing that special."
+    },
+    {
+      "key": "EP05_S1400_0043",
+      "value": "When we moved here—I mean, “here” back in our\nworld—some local jerks picked on us."
+    },
+    {
+      "key": "EP05_S1400_0044",
+      "value": "They ended up hurting Miu, so I ended up\nknocking the crap out of them."
+    },
+    {
+      "key": "EP05_S1400_0045",
+      "value": "No way..."
+    },
+    {
+      "key": "EP05_S1400_0046",
+      "value": "Some punk hid Miu’s shoes at school, so\nI went and beat him till he was sorry."
+    },
+    {
+      "key": "EP05_S1400_0047",
+      "value": "Damn..."
+    },
+    {
+      "key": "EP05_S1400_0048",
+      "value": "Oh, and one time before we moved, I—"
+    },
+    {
+      "key": "EP05_S1400_0049",
+      "value": "All right, okay! I get it, enough!"
+    },
+    {
+      "key": "EP05_S1400_0050",
+      "value": "Word? A’ight."
+    },
+    {
+      "key": "EP05_S1400_0051",
+      "value": "Looks like I was on the money..."
+    },
+    {
+      "key": "EP05_S1400_0052",
+      "value": "I wouldn’t call those one-sided deals fights.\nI don’t regret ’em, but I ain’t proud of ’em."
+    },
+    {
+      "key": "EP05_S1400_0053",
+      "value": "Miu wouldn’t have got hurt if I’d noticed.\nThere must’ve been better ways to handle it."
+    },
+    {
+      "key": "EP05_S1400_0054",
+      "value": "Shoot... All this chit-chat’s a time sink.\nBetter get back to work."
+    },
+    {
+      "key": "EP05_S1400_0055",
+      "value": "Oh and, what were you guys doing, anyway?"
+    },
+    {
+      "key": "EP05_S1400_0056",
+      "value": "Taking stock of our food. It’ll be easier to\nmanage if we count and divvy the rest up."
+    },
+    {
+      "key": "EP05_S1400_0057",
+      "value": "Whoa... I knew you were reliable."
+    },
+    {
+      "key": "EP05_S1400_0058",
+      "value": "You’re awesome, Kaito!"
+    },
+    {
+      "key": "EP05_S1400_0059",
+      "value": "Oh Captain, my Captain!"
+    },
+    {
+      "key": "EP05_S1400_0060",
+      "value": "Shut it, all of you! And don’t think I don’t\nknow when I’m being mocked!"
+    },
+    {
+      "key": "EP05_S1400_0061",
+      "value": "Sheesh... Huh?"
+    },
+    {
+      "key": "EP05_S1400_0062",
+      "value": "Wait, where’d that canned food go?"
+    },
+    {
+      "key": "EP05_S1400_0063",
+      "value": "Whatever, just don’t get complacent, okay?\nI hate it when people use me."
+    }
+  ]
+}

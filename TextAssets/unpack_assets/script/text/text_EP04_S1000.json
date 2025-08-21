@@ -1,0 +1,612 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1000_0001",
+      "value": "Look, I really am glad Ryo made it out okay,\nbut..."
+    },
+    {
+      "key": "EP04_S1000_0002",
+      "value": "...what was with those ghostly hands?"
+    },
+    {
+      "key": "EP04_S1000_0003",
+      "value": "I don’t know... That was the first time I’ve\never seen them."
+    },
+    {
+      "key": "EP04_S1000_0004",
+      "value": "I always knew that fog was scary, but I never\nthought something like that was in there..."
+    },
+    {
+      "key": "EP04_S1000_0005",
+      "value": "Just the sight of it sent shivers down my\nspine. I never want to see that again."
+    },
+    {
+      "key": "EP04_S1000_0006",
+      "value": "But I guess just by being here, we run the\nrisk of being attacked by it at any time."
+    },
+    {
+      "key": "EP04_S1000_0007",
+      "value": "Oh, don’t say that! Isn’t there a chance it\ncould be some incredibly rare enemy?"
+    },
+    {
+      "key": "EP04_S1000_0008",
+      "value": "It’s possible, but we can’t know that for\nsure. We should be prepared for the worst."
+    },
+    {
+      "key": "EP04_S1000_0009",
+      "value": "Ugh, just the thought of running into that\ncreepy thing again makes me sick."
+    },
+    {
+      "key": "EP04_S1000_0010",
+      "value": "Yeah, it’s a really scary thought."
+    },
+    {
+      "key": "EP04_S1000_0011",
+      "value": "Still, I don’t think we can let that fear get\nthe better of us."
+    },
+    {
+      "key": "EP04_S1000_0012",
+      "value": "We still need to find a way back to our\nworld, not to mention rescue Miu."
+    },
+    {
+      "key": "EP04_S1000_0013",
+      "value": "We should at least come up with some plan, or\nwe could get swallowed up just like that."
+    },
+    {
+      "key": "EP04_S1000_0014",
+      "value": "Yes, you’re right, but...I don’t know."
+    },
+    {
+      "key": "EP04_S1000_0015",
+      "value": "Urgh, what can we even do?"
+    },
+    {
+      "key": "EP04_S1000_0200",
+      "value": "That radio tower was our only hope, but it\nisn’t even functional."
+    },
+    {
+      "key": "EP04_S1000_0201",
+      "value": "Even so, these weird messages keep coming,\none after another."
+    },
+    {
+      "key": "EP04_S1000_0202",
+      "value": "Without calling the professor, or having any\nadults around, there’s not much we can do."
+    },
+    {
+      "key": "EP04_S1000_0016",
+      "value": "It doesn’t have to be much, as long as it’s\nsomething."
+    },
+    {
+      "key": "EP04_S1000_Q1",
+      "value": "(What should I say to Aoi and Saki?)"
+    },
+    {
+      "key": "EP04_S1000_Q1_A1",
+      "value": "Let’s run from the fog."
+    },
+    {
+      "key": "EP04_S1000_Q1_A2",
+      "value": "Aoi, any thoughts?"
+    },
+    {
+      "key": "EP04_S1000_Q1_A3",
+      "value": "Saki, any thoughts?"
+    },
+    {
+      "key": "EP04_S1000_0017",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0018",
+      "value": "Here’s my take, for example. We agree that if\nthe fog shows up we all run."
+    },
+    {
+      "key": "EP04_S1000_0019",
+      "value": "But, can you really call that a plan?"
+    },
+    {
+      "key": "EP04_S1000_0020",
+      "value": "Well...I guess not. Maybe it’s a dumb idea."
+    },
+    {
+      "key": "EP04_S1000_0021",
+      "value": "It’s not even that I think it’s dumb, I just\ndon’t see what it accomplishes."
+    },
+    {
+      "key": "EP04_S1000_0022",
+      "value": "At least if we all decide to run, it might\nmean we don’t freeze up instead."
+    },
+    {
+      "key": "EP04_S1000_0023",
+      "value": "Maybe we could all just agree to act\ntogether? I feel like that might be safest."
+    },
+    {
+      "key": "EP04_S1000_0024",
+      "value": "Yeah, I think you’re right."
+    },
+    {
+      "key": "EP04_S1000_0025",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0026",
+      "value": "Aoi, do you have any ideas?"
+    },
+    {
+      "key": "EP04_S1000_0027",
+      "value": "Well..."
+    },
+    {
+      "key": "EP04_S1000_0028",
+      "value": "I’m not sure you could call it a plan, but\nwhat if we all just agreed to act together?"
+    },
+    {
+      "key": "EP04_S1000_0029",
+      "value": "Oh, I like that! Simple and to the point."
+    },
+    {
+      "key": "EP04_S1000_0030",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0031",
+      "value": "Do you have any ideas, Saki?"
+    },
+    {
+      "key": "EP04_S1000_0032",
+      "value": "What? Me?! Uh..."
+    },
+    {
+      "key": "EP04_S1000_0033",
+      "value": "What about like an exorcism? It’s a ghost,\nright? Could we banish it with a seance?"
+    },
+    {
+      "key": "EP04_S1000_0034",
+      "value": "Can you banish things with a seance?"
+    },
+    {
+      "key": "EP04_S1000_0035",
+      "value": "Beats me."
+    },
+    {
+      "key": "EP04_S1000_0036",
+      "value": "Don’t you have to be a priest to do an exorcism\nor something?"
+    },
+    {
+      "key": "EP04_S1000_0037",
+      "value": "Don’t ask me."
+    },
+    {
+      "key": "EP04_S1000_0038",
+      "value": "Yeah, I’m...not so sure of this plan."
+    },
+    {
+      "key": "EP04_S1000_0039",
+      "value": "I think maybe the safest thing to do at the\nend of the day is just agree to act together."
+    },
+    {
+      "key": "EP04_S1000_0040",
+      "value": "Oh, I like that!"
+    },
+    {
+      "key": "EP04_S1000_0041",
+      "value": "And after all, it was when Ryo and Haru got\ncut off from us that they were in danger."
+    },
+    {
+      "key": "EP04_S1000_0042",
+      "value": "But it was really Kunemon who saved Ryo last\nnight."
+    },
+    {
+      "key": "EP04_S1000_0043",
+      "value": "Yeah, all I could do was watch. I’m not sure\nit’d be any different next time."
+    },
+    {
+      "key": "EP04_S1000_0044",
+      "value": "I think it took a lot of courage to do what\nKunemon did."
+    },
+    {
+      "key": "EP04_S1000_0045",
+      "value": "Yes, I’m sure you’re right. I can’t say for\nsure I’d have been able to do the same."
+    },
+    {
+      "key": "EP04_S1000_0046",
+      "value": "We really did show up in, like, the worst\npossible place, didn’t we?"
+    },
+    {
+      "key": "EP04_S1000_0047",
+      "value": "(Looks like they’re both starting to feel\ndown again. I thought talking helped a bit,)"
+    },
+    {
+      "key": "EP04_S1000_0048",
+      "value": "(but now I don’t even know what to say.\nI think I’ll just give them some time.)"
+    },
+    {
+      "key": "EP04_S1000_0049",
+      "value": "*sniff* *sob* I couldn’t stop them."
+    },
+    {
+      "key": "EP04_S1000_0050",
+      "value": "Hey, don’t be so hard on yourself! There was\nnothing you could’ve done."
+    },
+    {
+      "key": "EP04_S1000_0051",
+      "value": "But I could tell. I knew there was something\nwrong with Ryo."
+    },
+    {
+      "key": "EP04_S1000_0052",
+      "value": "Oh, why couldn’t I help him?"
+    },
+    {
+      "key": "EP04_S1000_0053",
+      "value": "(Sounds like Aoi is blaming herself.)"
+    },
+    {
+      "key": "EP04_S1000_0054",
+      "value": "Yeah, you know how seriously she takes\nthings. She regrets not doing more."
+    },
+    {
+      "key": "EP04_S1000_0055",
+      "value": "She’s been crying all morning. It’s been hard\nto watch."
+    },
+    {
+      "key": "EP04_S1000_0056",
+      "value": "(She feels guilty about what happened to Ryo,\nprobably because she’s so responsible.)"
+    },
+    {
+      "key": "EP04_S1000_0057",
+      "value": "(I think Labramon’s probably right that there\nwas nothing she could’ve done,)"
+    },
+    {
+      "key": "EP04_S1000_0058",
+      "value": "(but I can also understand how Aoi could feel\nregret at not being able to do more.)"
+    },
+    {
+      "key": "EP04_S1000_Q2",
+      "value": "(What should I say to Aoi?)"
+    },
+    {
+      "key": "EP04_S1000_Q2_A1",
+      "value": "What’s done is done."
+    },
+    {
+      "key": "EP04_S1000_Q2_A2",
+      "value": "We’re all responsible."
+    },
+    {
+      "key": "EP04_S1000_Q2_A3",
+      "value": "It was inevitable."
+    },
+    {
+      "key": "EP04_S1000_0059",
+      "value": "What’s done is done."
+    },
+    {
+      "key": "EP04_S1000_0060",
+      "value": "Aoi, I can understand why you’d feel\nregretful about not having done more..."
+    },
+    {
+      "key": "EP04_S1000_0061",
+      "value": "But at this point, what’s done is done. It’s\ntoo late to change anything."
+    },
+    {
+      "key": "EP04_S1000_0062",
+      "value": "Oooh... I... I..."
+    },
+    {
+      "key": "EP04_S1000_0063",
+      "value": "Takuma! Why would you say that?!"
+    },
+    {
+      "key": "EP04_S1000_0064",
+      "value": "Because we need to focus on what we’re going\nto do now, not what we should’ve done then."
+    },
+    {
+      "key": "EP04_S1000_0065",
+      "value": "Yes...you’re right, Takuma, but..."
+    },
+    {
+      "key": "EP04_S1000_0066",
+      "value": "*sob*... *whimper*... *sniff*"
+    },
+    {
+      "key": "EP04_S1000_0067",
+      "value": "(Oh no, I think that came out a little too\nharsh.)"
+    },
+    {
+      "key": "EP04_S1000_0068",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0069",
+      "value": "It wasn’t just you, Aoi. We all could’ve done\nmore to help support Ryo."
+    },
+    {
+      "key": "EP04_S1000_0070",
+      "value": "I mean, I couldn’t do anything either."
+    },
+    {
+      "key": "EP04_S1000_0071",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP04_S1000_0072",
+      "value": "Yeah...I think maybe you’re right."
+    },
+    {
+      "key": "EP04_S1000_0073",
+      "value": "After all, even I didn’t realize Ryo was that\nfar gone."
+    },
+    {
+      "key": "EP04_S1000_0074",
+      "value": "So there’s no reason for you to take all the\nblame, Aoi."
+    },
+    {
+      "key": "EP04_S1000_0075",
+      "value": "Takuma, Saki... I... I... *sob*..."
+    },
+    {
+      "key": "EP04_S1000_0076",
+      "value": "Aoi, please! Stop crying like that!"
+    },
+    {
+      "key": "EP04_S1000_0077",
+      "value": "It’s just...you’re both being so thoughtful,\nwhile I..."
+    },
+    {
+      "key": "EP04_S1000_0078",
+      "value": "I’ve only been thinking about myself... *sob*"
+    },
+    {
+      "key": "EP04_S1000_0079",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0080",
+      "value": "Aoi, what happened with Ryo was inevitable.\nThere was nothing we could’ve done."
+    },
+    {
+      "key": "EP04_S1000_0081",
+      "value": "You shouldn’t blame yourself."
+    },
+    {
+      "key": "EP04_S1000_0082",
+      "value": "But...how can you say that so easily?"
+    },
+    {
+      "key": "EP04_S1000_0083",
+      "value": "I can’t just get over this like you..."
+    },
+    {
+      "key": "EP04_S1000_0084",
+      "value": "(Well, it’s not like I’m really over it\neither.)"
+    },
+    {
+      "key": "EP04_S1000_0085",
+      "value": "Please, Aoi! Cheer up!"
+    },
+    {
+      "key": "EP04_S1000_0086",
+      "value": "I’m the worst... *sob*"
+    },
+    {
+      "key": "EP04_S1000_0087",
+      "value": "(What should I do? I don’t know how to\ncomfort her.)"
+    },
+    {
+      "key": "EP04_S1000_0088",
+      "value": "(And if I can’t get everyone to the cafeteria\nsoon, Kaito could go off on his own!)"
+    },
+    {
+      "key": "EP04_S1000_0089",
+      "value": "Man...I don’t know what to do."
+    },
+    {
+      "key": "EP04_S1000_0090",
+      "value": "Some good you are at making people feel\nbetter."
+    },
+    {
+      "key": "EP04_S1000_0091",
+      "value": "Aoi still won’t stop crying."
+    },
+    {
+      "key": "EP04_S1000_0092",
+      "value": "Yeah...sorry. I couldn’t think of the right\nthing to say."
+    },
+    {
+      "key": "EP04_S1000_0093",
+      "value": "Well, I doubt there’s anything you could say\nthat’d get through to her right now."
+    },
+    {
+      "key": "EP04_S1000_0094",
+      "value": "What makes you say that?"
+    },
+    {
+      "key": "EP04_S1000_0095",
+      "value": "Because I don’t think Aoi’s looking for\nsomeone to say the “right thing.”"
+    },
+    {
+      "key": "EP04_S1000_0096",
+      "value": "(Huh? What’s that supposed to mean?)"
+    },
+    {
+      "key": "EP04_S1000_0097",
+      "value": "(Is this a girl thing, or is Saki speaking\nfrom her own experience?)"
+    },
+    {
+      "key": "EP04_S1000_0098",
+      "value": "(Either way, Saki sure does show a lot of\nconsideration for someone so free-spirited.)"
+    },
+    {
+      "key": "EP04_S1000_Q3",
+      "value": "(What should I say to Saki?)"
+    },
+    {
+      "key": "EP04_S1000_Q3_A1",
+      "value": "You really get girls."
+    },
+    {
+      "key": "EP04_S1000_Q3_A2",
+      "value": "You’re so considerate."
+    },
+    {
+      "key": "EP04_S1000_Q3_A3",
+      "value": "Have you had it rough?"
+    },
+    {
+      "key": "EP04_S1000_0099",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0100",
+      "value": "It’s really impressive how well you\nunderstand the way girls feel about things."
+    },
+    {
+      "key": "EP04_S1000_0101",
+      "value": "Wow, rude! You make it sound like I’m not\na girl."
+    },
+    {
+      "key": "EP04_S1000_0102",
+      "value": "You’re a very cute girl, Saki!"
+    },
+    {
+      "key": "EP04_S1000_0103",
+      "value": "Oh, no, I didn’t mean it like that!"
+    },
+    {
+      "key": "EP04_S1000_0104",
+      "value": "I was just thinking there are some things\nI don’t really get because I’m a boy."
+    },
+    {
+      "key": "EP04_S1000_0105",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0106",
+      "value": "I didn’t think you cared what other people\nthought, but you sure pay close attention."
+    },
+    {
+      "key": "EP04_S1000_0107",
+      "value": "You think so? I feel like this is pretty\nnormal."
+    },
+    {
+      "key": "EP04_S1000_0108",
+      "value": "I don’t know. Look at how you’re thinking of\nAoi, even after everything that happened."
+    },
+    {
+      "key": "EP04_S1000_0109",
+      "value": "Yeah, he’s right!"
+    },
+    {
+      "key": "EP04_S1000_0110",
+      "value": "Maybe it’s just when I see someone who’s sad\nit helps me realize I need to stay calm."
+    },
+    {
+      "key": "EP04_S1000_0111",
+      "value": "If you say so."
+    },
+    {
+      "key": "EP04_S1000_0112",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1000_0113",
+      "value": "Somehow, I get the impression you’ve been\nthrough a lot."
+    },
+    {
+      "key": "EP04_S1000_0114",
+      "value": "You...you do?"
+    },
+    {
+      "key": "EP04_S1000_0115",
+      "value": "Why do you say that?"
+    },
+    {
+      "key": "EP04_S1000_0116",
+      "value": "Oh, I just thought maybe you were speaking\nfrom experience just now."
+    },
+    {
+      "key": "EP04_S1000_0117",
+      "value": "Well..."
+    },
+    {
+      "key": "EP04_S1000_0118",
+      "value": "Uh, of course I was. I’m pretty shocked about\nlosing Ryo myself, you know?"
+    },
+    {
+      "key": "EP04_S1000_0119",
+      "value": "Saki..."
+    },
+    {
+      "key": "EP04_S1000_0120",
+      "value": "(Oh, yeah. I guess that’s true.)"
+    },
+    {
+      "key": "EP04_S1000_0121",
+      "value": "Anyway, I’ll stay here with Aoi."
+    },
+    {
+      "key": "EP04_S1000_0122",
+      "value": "Let me handle this."
+    },
+    {
+      "key": "EP04_S1000_0123",
+      "value": "Labramon and I will be here too!"
+    },
+    {
+      "key": "EP04_S1000_0124",
+      "value": "Oh, okay."
+    },
+    {
+      "key": "EP04_S1000_0125",
+      "value": "It’s all right, Aoi. Dry those tears."
+    },
+    {
+      "key": "EP04_S1000_0126",
+      "value": "Saki... I..."
+    },
+    {
+      "key": "EP04_S1000_0127",
+      "value": "It wasn’t your fault, Aoi. You didn’t do\nanything wrong."
+    },
+    {
+      "key": "EP04_S1000_0128",
+      "value": "But..."
+    },
+    {
+      "key": "EP04_S1000_0129",
+      "value": "There was nothing anyone could have done back\nthere. I wanted to help too. We all did."
+    },
+    {
+      "key": "EP04_S1000_0130",
+      "value": "It’s nice that the girls can comfort each\nother like this."
+    },
+    {
+      "key": "EP04_S1000_0131",
+      "value": "I’m really glad Saki is here right now."
+    },
+    {
+      "key": "EP04_S1000_0132",
+      "value": "This place is just awful, isn’t it?"
+    },
+    {
+      "key": "EP04_S1000_0133",
+      "value": "It is, but...we’ll just have to keep going\nsomehow."
+    },
+    {
+      "key": "EP04_S1000_0134",
+      "value": "(They’re still upset, but they’re comforting\neach other. That’s a good sign.)"
+    },
+    {
+      "key": "EP04_S1000_0135",
+      "value": "I...I couldn’t do anything. I couldn’t stop\nRyo..."
+    },
+    {
+      "key": "EP04_S1000_0136",
+      "value": "It’s okay. Really, it wasn’t your fault."
+    },
+    {
+      "key": "EP04_S1000_0137",
+      "value": "(I’m worried about Aoi, but it looks like\nSaki has this covered.)"
+    }
+  ]
+}

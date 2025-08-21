@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S0030_0001",
+      "value": "*sigh*... Well, here comes another big\nconversation."
+    },
+    {
+      "key": "EP03_S0030_0002",
+      "value": "Sounds like it’s already started!"
+    },
+    {
+      "key": "EP03_S0030_0003",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP03_S0030_0004",
+      "value": "...You’re right. I can hear Shuuji yelling\nsomething."
+    },
+    {
+      "key": "EP03_S0030_0005",
+      "value": "Sounds pretty intense. Do you think\nsomething’s wrong?"
+    },
+    {
+      "key": "EP03_S0030_0006",
+      "value": "It’s coming from the cafeteria, right?"
+    },
+    {
+      "key": "EP03_S0030_0007",
+      "value": "Yeah! Let’s go!"
+    }
+  ]
+}

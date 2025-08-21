@@ -1,0 +1,332 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0010_0001",
+      "value": "*huff* *huff* *huff*..."
+    },
+    {
+      "key": "EP02_S0010_0002",
+      "value": "What the heck’s going on?!\nWe’ve been walking for hours..."
+    },
+    {
+      "key": "EP02_S0010_0003",
+      "value": "Um, Professor?\nI hate to say it, but are we lost?"
+    },
+    {
+      "key": "EP02_S0010_0101",
+      "value": "I’m afraid you might be right. It’s strange.\nI’ve been to this shrine countless times..."
+    },
+    {
+      "key": "EP02_S0010_0102",
+      "value": "Yet I’ve never seen these trees before.\nWhatever might this strange flora be...?"
+    },
+    {
+      "key": "EP02_S0010_0006",
+      "value": "Just look at all this fog. Do you think it’s\nmaking us go around in circles?"
+    },
+    {
+      "key": "EP02_S0010_0007",
+      "value": "No way. Even a child could get across this\narea in an hour! Don’t tell me..."
+    },
+    {
+      "key": "EP02_S0010_0008",
+      "value": "Are we, like...stuck here somehow?\nLike for real?!"
+    },
+    {
+      "key": "EP02_S0010_0009",
+      "value": "Indeed. A normally impossible conjecture, but\nwe have lost consciousness."
+    },
+    {
+      "key": "EP02_S0010_0103",
+      "value": "Getting stuck is certainly odd. If it has\noccurred, there must be a reason."
+    },
+    {
+      "key": "EP02_S0010_0011",
+      "value": "A reason? Like what?"
+    },
+    {
+      "key": "EP02_S0010_0012",
+      "value": "This is just a theory, but perhaps we inhaled\nsome sort of noxious gas?"
+    },
+    {
+      "key": "EP02_S0010_0013",
+      "value": "No way! Now you’re freaking me out..."
+    },
+    {
+      "key": "EP02_S0010_0014",
+      "value": "It would explain a loss of directional sense,\nand would certainly explain why we’re stuck."
+    },
+    {
+      "key": "EP02_S0010_0015",
+      "value": "When I awoke, I was standing alone in a grove\nof trees surrounded by red spider lilies..."
+    },
+    {
+      "key": "EP02_S0010_0016",
+      "value": "That’s when I heard you, and rushed over.\nDo you all remember anything before we met?"
+    },
+    {
+      "key": "EP02_S0010_0017",
+      "value": "Hmm, my memories are definitely fuzzy...\nand there’s this weird fog. What’s going on?"
+    },
+    {
+      "key": "EP02_S0010_0018",
+      "value": "Well. You all came to do some research, yes?\nI believe looking for this “reason” counts."
+    },
+    {
+      "key": "EP02_S0010_0019",
+      "value": "You’re not even part of our study group!\nOhhh I’ve had it, I just wanna go home!"
+    },
+    {
+      "key": "EP02_S0010_0020",
+      "value": "We still have to get back to the camp grounds\nfirst. Home is even farther away than that."
+    },
+    {
+      "key": "EP02_S0010_0021",
+      "value": "Now ain’t the time for splitting hairs!\nMaaan, my legs are stiff as a board already!"
+    },
+    {
+      "key": "EP02_S0010_0022",
+      "value": "And I say now’s no time to start whining!\nThose legs are your only way out of here!"
+    },
+    {
+      "key": "EP02_S0010_0023",
+      "value": "Thanks for the lesson, Captain Obvious. It’s\nnot like I asked you to carry me or anything!"
+    },
+    {
+      "key": "EP02_S0010_0024",
+      "value": "Now, now, this is a waste of energy.\nHere, Saki, I’ll carry you if you’d like."
+    },
+    {
+      "key": "EP02_S0010_0025",
+      "value": "I...I’ll pass, thanks."
+    },
+    {
+      "key": "EP02_S0010_0201",
+      "value": "That’s right you will. You shouldn’t be\nsaying things that upset the professor."
+    },
+    {
+      "key": "EP02_S0010_0026",
+      "value": "For that matter, Professor, you shouldn’t coddle her."
+    },
+    {
+      "key": "EP02_S0010_0027",
+      "value": "And I suggest you lead by example, instead\nof simply chiding her without ears to listen."
+    },
+    {
+      "key": "EP02_S0010_0028",
+      "value": "At any rate, it’s only the three of us here.\nWe have no one to rely on but each other."
+    },
+    {
+      "key": "EP02_S0010_0029",
+      "value": "Yeah, I guess that’s true..."
+    },
+    {
+      "key": "EP02_S0010_0030",
+      "value": "Hey... Where did Aoi and the others go?!\nThat Miu kid was with us, too—"
+    },
+    {
+      "key": "EP02_S0010_0031",
+      "value": "Wait, did you hear that?"
+    },
+    {
+      "key": "EP02_S0010_0032",
+      "value": "There shouldn’t be any bears in this region.\nIt could’ve been a monkey...or maybe a boar?"
+    },
+    {
+      "key": "EP02_S0010_0033",
+      "value": "At any rate, best to remain vigilant."
+    },
+    {
+      "key": "EP02_S0010_0072",
+      "value": "Over here, Lopmon!"
+    },
+    {
+      "key": "EP02_S0010_0073",
+      "value": "Ah, yeah, okay!"
+    },
+    {
+      "key": "EP02_S0010_0034",
+      "value": "What the—?!"
+    },
+    {
+      "key": "EP02_S0010_0035",
+      "value": "Is...is that an animal?!"
+    },
+    {
+      "key": "EP02_S0010_0036",
+      "value": "What in the world?!"
+    },
+    {
+      "key": "EP02_S0010_0074",
+      "value": "You guys are..."
+    },
+    {
+      "key": "EP02_S0010_0075",
+      "value": "Huh...?"
+    },
+    {
+      "key": "EP02_S0010_0037",
+      "value": "Uh, Professor!\nHave you ever heard of a creature like this?!"
+    },
+    {
+      "key": "EP02_S0010_0076",
+      "value": "You’re...?"
+    },
+    {
+      "key": "EP02_S0010_0077",
+      "value": "Wh-what is it...?"
+    },
+    {
+      "key": "EP02_S0010_0038",
+      "value": "I...I can’t believe my eyes..."
+    },
+    {
+      "key": "EP02_S0010_0039",
+      "value": "Wait. Don’t tell me. This isn’t one of those\nlegendary “Kemonogami” things, is it?!"
+    },
+    {
+      "key": "EP02_S0010_0040",
+      "value": "A Kemonogami?! That’s impossible!\nThose things can’t really exist!"
+    },
+    {
+      "key": "EP02_S0010_0041",
+      "value": "This thing looking right at us says\ndifferent! Right, Professor?"
+    },
+    {
+      "key": "EP02_S0010_0042",
+      "value": "Unbelievable... They really..."
+    },
+    {
+      "key": "EP02_S0010_0043",
+      "value": "Uhh... I think we broke him..."
+    },
+    {
+      "key": "EP02_S0010_0044",
+      "value": "Can you blame him? I mean I’m shocked myself,\nbut he’s been researching them for years..."
+    },
+    {
+      "key": "EP02_S0010_0045",
+      "value": "Ummm, like, hello? Mr. Kemonogami?"
+    },
+    {
+      "key": "EP02_S0010_0046",
+      "value": "Hey! Don’t approach it so carelessly!"
+    },
+    {
+      "key": "EP02_S0010_0047",
+      "value": "I just thought it might understand words,\nthat’s all..."
+    },
+    {
+      "key": "EP02_S0010_0048",
+      "value": "Yeeep!"
+    },
+    {
+      "key": "EP02_S0010_0049",
+      "value": "Whoa! What the—?!"
+    },
+    {
+      "key": "EP02_S0010_0078",
+      "value": "Uwaaah!"
+    },
+    {
+      "key": "EP02_S0010_0104",
+      "value": "Oh no... \nI think they might be dangerous!"
+    },
+    {
+      "key": "EP02_S0010_0051",
+      "value": "Eek, it’s coming over here!\nShoo! Shoo!!!"
+    },
+    {
+      "key": "EP02_S0010_0105",
+      "value": "We’re being chased by them!\nThey’re freaking scary!!!"
+    },
+    {
+      "key": "EP02_S0010_0052",
+      "value": "YEEEEEEEEEEEEEEEEEEP!!!"
+    },
+    {
+      "key": "EP02_S0010_0053",
+      "value": "Oh, oh no!\nLook out, Saki!"
+    },
+    {
+      "key": "EP02_S0010_0054",
+      "value": "GAAAUGH!"
+    },
+    {
+      "key": "EP02_S0010_0055",
+      "value": "Yikes!\nProfessor?!"
+    },
+    {
+      "key": "EP02_S0010_0056",
+      "value": "Oh no... Professor!"
+    },
+    {
+      "key": "EP02_S0010_0057",
+      "value": "He... He protected me!"
+    },
+    {
+      "key": "EP02_S0010_0058",
+      "value": "Eek!\nNow there’s a bunch of them!"
+    },
+    {
+      "key": "EP02_S0010_0059",
+      "value": "We have to save the professor...\nThe monsters are swarming him!"
+    },
+    {
+      "key": "EP02_S0010_0060",
+      "value": "S-stay away! Don’t worry about me, just\nrun away!"
+    },
+    {
+      "key": "EP02_S0010_0061",
+      "value": "But—!"
+    },
+    {
+      "key": "EP02_S0010_0080",
+      "value": "We’re in trouble if we stick around here!"
+    },
+    {
+      "key": "EP02_S0010_0106",
+      "value": "Please, Shuuji...go on, now!"
+    },
+    {
+      "key": "EP02_S0010_0107",
+      "value": "Professor...\nDammit!"
+    },
+    {
+      "key": "EP02_S0010_0081",
+      "value": "Hey... Come on, Shuuji.\nWe’ve gotta get outta here!"
+    },
+    {
+      "key": "EP02_S0010_0108",
+      "value": "Let’s go, Saki!"
+    },
+    {
+      "key": "EP02_S0010_0065",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP02_S0010_0066",
+      "value": "Come on, just run!"
+    },
+    {
+      "key": "EP02_S0010_0067",
+      "value": "Professor! No!!!"
+    },
+    {
+      "key": "EP02_S0010_0068",
+      "value": "It’s fine...\nIt’s up to us adults to protect children."
+    },
+    {
+      "key": "EP02_S0010_0069",
+      "value": "The rest is in your hands, Shuuji."
+    },
+    {
+      "key": "EP02_S0010_0070",
+      "value": "Wait, Shuuji!\nWe can’t just leave him—"
+    },
+    {
+      "key": "EP02_S0010_0071",
+      "value": "We can’t let his sacrifice be in vain!\nLet’s get out of here!"
+    }
+  ]
+}

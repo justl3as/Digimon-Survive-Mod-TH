@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1173_0001",
+      "value": "*sniff* *sniff* That’s it! It’s that same\nscent from earlier!"
+    },
+    {
+      "key": "EP02_S1173_0002",
+      "value": "That’s great, but it doesn’t help me much."
+    },
+    {
+      "key": "EP02_S1173_0003",
+      "value": "I thought you had some tool that let you see\nthings that were invisible."
+    },
+    {
+      "key": "EP02_S1173_0004",
+      "value": "Oh, right! I should investigate to see what\nI can find out."
+    },
+    {
+      "key": "EP02_S1173_0005",
+      "value": "I’m getting that same scent from earlier. You\nshould investigate, Takuma!"
+    }
+  ]
+}

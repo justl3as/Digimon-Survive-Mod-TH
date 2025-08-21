@@ -1,0 +1,60 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0033_0001",
+      "value": "Heading out for a walk where anything could\nbe lurking around? I’ll pass!"
+    },
+    {
+      "key": "EP02_S0033_Q1",
+      "value": "(So, what do we do?)"
+    },
+    {
+      "key": "EP02_S0033_Q1_A1",
+      "value": "Agree with Ryo."
+    },
+    {
+      "key": "EP02_S0033_Q1_A2",
+      "value": "Disagree with Ryo."
+    },
+    {
+      "key": "EP02_S0033_0002",
+      "value": "I’ve got to agree with Ryo on this one."
+    },
+    {
+      "key": "EP02_S0033_0003",
+      "value": "But nothing’ll get better unless we take\naction. Let’s at least find a safe place."
+    },
+    {
+      "key": "EP02_S0033_0004",
+      "value": "There’s no guarantee anywhere else will be\nany better..."
+    },
+    {
+      "key": "EP02_S0033_0005",
+      "value": "...!"
+    },
+    {
+      "key": "EP02_S0033_0006",
+      "value": "Kunemon wants to look, too."
+    },
+    {
+      "key": "EP02_S0033_0007",
+      "value": "C’mon, Ryo..."
+    },
+    {
+      "key": "EP02_S0033_0008",
+      "value": "Okay, okay. I’ll check the classrooms.\nYou all should look somewhere else."
+    },
+    {
+      "key": "EP02_S0033_0009",
+      "value": "We have to come to a decision on this,\ntogether. I want to hear from everyone."
+    },
+    {
+      "key": "EP02_S0033_0010",
+      "value": "Really? Let’s just think this through..."
+    },
+    {
+      "key": "EP02_S0033_0011",
+      "value": "..."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9065_0001",
+      "value": "Ryo, can I talk with you?"
+    },
+    {
+      "key": "EP13_S9065_0002",
+      "value": "Hm? What’s up?"
+    },
+    {
+      "key": "EP13_S9065_Q1",
+      "value": "(What should I say to Ryo?)"
+    },
+    {
+      "key": "EP13_S9065_Q1_A1",
+      "value": "Thank you."
+    },
+    {
+      "key": "EP13_S9065_Q1_A2",
+      "value": "I’m counting on you!"
+    },
+    {
+      "key": "EP13_S9065_Q1_A3",
+      "value": "You and Kunemon good?"
+    },
+    {
+      "key": "EP13_S9065_0003",
+      "value": "Thank you."
+    },
+    {
+      "key": "EP13_S9065_0004",
+      "value": "Thank you."
+    },
+    {
+      "key": "EP13_S9065_0005",
+      "value": "Huh? What are you thanking me for?"
+    },
+    {
+      "key": "EP13_S9065_0006",
+      "value": "Oh, nothing in particular. Everything you’ve\ndone for us so far."
+    },
+    {
+      "key": "EP13_S9065_0007",
+      "value": "Oh. That’s good."
+    },
+    {
+      "key": "EP13_S9065_0008",
+      "value": "Well, thank you, too. And, I’m sorry."
+    },
+    {
+      "key": "EP13_S9065_0009",
+      "value": "Wait, why are you apologizing?"
+    },
+    {
+      "key": "EP13_S9065_0010",
+      "value": "Oh, for all kinds of stuff. I was kind of\na jerk. Violent, selfish...you know."
+    },
+    {
+      "key": "EP13_S9065_0011",
+      "value": "Yeah, kind of."
+    },
+    {
+      "key": "EP13_S9065_0012",
+      "value": "That’s why I’m apologizing. Sorry."
+    },
+    {
+      "key": "EP13_S9065_0013",
+      "value": "I’m counting on you!"
+    },
+    {
+      "key": "EP13_S9065_0014",
+      "value": "I’m counting on you!"
+    },
+    {
+      "key": "EP13_S9065_0015",
+      "value": "Yeah? Well, I won’t let you down."
+    },
+    {
+      "key": "EP13_S9065_0016",
+      "value": "You and Kunemon good?"
+    },
+    {
+      "key": "EP13_S9065_0017",
+      "value": "How are you and Kunemon? Everything okay with\nyou two?"
+    },
+    {
+      "key": "EP13_S9065_0018",
+      "value": "Yeah, of course!"
+    },
+    {
+      "key": "EP13_S9065_0019",
+      "value": "Kewkew! Kewkew, kewkew!"
+    },
+    {
+      "key": "EP13_S9065_0020",
+      "value": "You’re right, Kunemon. Together, we’re\nunbeatable!"
+    },
+    {
+      "key": "EP13_S9065_0021",
+      "value": "The two of us have been through a lot, but\nnow we make a great team."
+    },
+    {
+      "key": "EP13_S9065_0022",
+      "value": "Kewww!!!"
+    },
+    {
+      "key": "EP13_S9065_0023",
+      "value": "Takuma, I appreciate the concern, but..."
+    },
+    {
+      "key": "EP13_S9065_0024",
+      "value": "Don’t you have other stuff to do? You should\ntalk to everyone, not just me."
+    },
+    {
+      "key": "EP13_S9065_0025",
+      "value": "You’re the only one who can lift everyone’s\nspirits. So, go on."
+    },
+    {
+      "key": "EP13_S9065_0026",
+      "value": "Right, you got it. I’ll go talk to everyone."
+    },
+    {
+      "key": "EP13_S9065_0027",
+      "value": "Hey man, I’m good. Go talk to the others!"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9230_0001",
+      "value": "What’re you doing in a place like this, Miu?"
+    },
+    {
+      "key": "EP11_S9230_0002",
+      "value": "Oh, Takuma... Well, I don’t have anything to\nprepare, you know?"
+    },
+    {
+      "key": "EP11_S9230_0003",
+      "value": "Sure, I guess Kaito’s taking care of that."
+    },
+    {
+      "key": "EP11_S9230_0004",
+      "value": "I said I’d do my part, but he wasn’t having\nany of it."
+    },
+    {
+      "key": "EP11_S9230_0005",
+      "value": "I got bored, and it made me start thinking..."
+    },
+    {
+      "key": "EP11_S9230_0006",
+      "value": "So much has happened in this world..."
+    },
+    {
+      "key": "EP11_S9230_0007",
+      "value": "You know, at first I thought you were\na pretty weird kid."
+    },
+    {
+      "key": "EP11_S9230_0008",
+      "value": "W-well what do you expect?! I was just\nexcited to be in this place!"
+    },
+    {
+      "key": "EP11_S9230_0009",
+      "value": "I didn’t know how to deal with you, but it\nturns out you’re pretty normal after all."
+    },
+    {
+      "key": "EP11_S9230_0010",
+      "value": "Hrm... That’s kinda embarrassing..."
+    },
+    {
+      "key": "EP11_S9230_0011",
+      "value": "Still, when I saw how you worried about all\nthe little guys at the amusement park..."
+    },
+    {
+      "key": "EP11_S9230_0012",
+      "value": "I realized what a nice girl you are."
+    },
+    {
+      "key": "EP11_S9230_0013",
+      "value": "I was their queen, after all...\nOf course I was worried about everyone."
+    },
+    {
+      "key": "EP11_S9230_0014",
+      "value": "There are bad queens out there, too.\nYou should be proud, you know?"
+    },
+    {
+      "key": "EP11_S9230_0015",
+      "value": "...Thanks, Takuma."
+    },
+    {
+      "key": "EP11_S9230_0016",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP11_S9230_0017",
+      "value": "For the compliment, I mean. I don’t usually\nget any, except from Kaito..."
+    },
+    {
+      "key": "EP11_S9230_0018",
+      "value": "I feel a lot more self-assured."
+    },
+    {
+      "key": "EP11_S9230_0019",
+      "value": "(I knew Miu was a good kid. She makes me want\nto tease her when she’s this honest.)"
+    },
+    {
+      "key": "EP11_S9230_Q1",
+      "value": "Miu, you..."
+    },
+    {
+      "key": "EP11_S9230_Q1_A1",
+      "value": "Are a good kid."
+    },
+    {
+      "key": "EP11_S9230_Q1_A2",
+      "value": "Prefer me over Kaito?"
+    },
+    {
+      "key": "EP11_S9230_0020",
+      "value": "You’re a good kid."
+    },
+    {
+      "key": "EP11_S9230_0021",
+      "value": "You’re a good kid. I’m sure you’ll get more\ncompliments in the future."
+    },
+    {
+      "key": "EP11_S9230_0022",
+      "value": "Do you think so?"
+    },
+    {
+      "key": "EP11_S9230_0023",
+      "value": "Yeah, definitely."
+    },
+    {
+      "key": "EP11_S9230_0024",
+      "value": "...Okay. Then I’ll do my best."
+    },
+    {
+      "key": "EP11_S9230_0025",
+      "value": "Enough to get more compliments from you!"
+    },
+    {
+      "key": "EP11_S9230_0026",
+      "value": "More than with Kaito?"
+    },
+    {
+      "key": "EP11_S9230_0027",
+      "value": "Whose compliments make you happier?\nMine, or Kaito’s?"
+    },
+    {
+      "key": "EP11_S9230_0028",
+      "value": "Wh-what?! How am I supposed to choose?!"
+    },
+    {
+      "key": "EP11_S9230_0029",
+      "value": "Ahahaha, sorry, my bad. It was just a joke."
+    },
+    {
+      "key": "EP11_S9230_0030",
+      "value": "Sheesh, don’t freak me out."
+    },
+    {
+      "key": "EP11_S9230_0031",
+      "value": "...You know what, Takuma?"
+    },
+    {
+      "key": "EP11_S9230_0032",
+      "value": "What?"
+    },
+    {
+      "key": "EP11_S9230_0033",
+      "value": "I love my brother, so...I guess Kaito’s\npraise makes me happier after all."
+    },
+    {
+      "key": "EP11_S9230_0034",
+      "value": "I see. You two really are a great brother and\nsister."
+    },
+    {
+      "key": "EP11_S9230_0035",
+      "value": "Yeah... Hee hee."
+    },
+    {
+      "key": "EP11_S9230_0036",
+      "value": "Hey, Takuma."
+    },
+    {
+      "key": "EP11_S9230_0037",
+      "value": "...I think Kaito and Renamon are a lot alike."
+    },
+    {
+      "key": "EP11_S9230_0038",
+      "value": "Kaito and Renamon?"
+    },
+    {
+      "key": "EP11_S9230_0039",
+      "value": "Yeah. Both of them feel strongly about\nsomeone else."
+    },
+    {
+      "key": "EP11_S9230_0040",
+      "value": "If it was Kaito, he’d work his butt off for\nyou for decades."
+    },
+    {
+      "key": "EP11_S9230_0041",
+      "value": "That means Miyuki and I both have people that\ncare deeply about us."
+    },
+    {
+      "key": "EP11_S9230_0042",
+      "value": "That’s why I’m sure our voices will reach\nher."
+    },
+    {
+      "key": "EP11_S9230_0043",
+      "value": "Lots of people care for Miyuki. I bet any of\ntheir voices could get through."
+    },
+    {
+      "key": "EP11_S9230_0044",
+      "value": "You’re right. I’m sure she’ll hear us."
+    },
+    {
+      "key": "EP11_S9230_0045",
+      "value": "So make sure you keep going until your voice\nreaches her, Takuma. I’m sure she’ll respond."
+    },
+    {
+      "key": "EP11_S9230_0046",
+      "value": "(Miu’s words energize me. I feel like I can\ndo anything with someone like her around.)"
+    },
+    {
+      "key": "EP11_S9230_Q2",
+      "value": "(What should I say to Miu?)"
+    },
+    {
+      "key": "EP11_S9230_Q2_A1",
+      "value": "I’ll never give up."
+    },
+    {
+      "key": "EP11_S9230_Q2_A2",
+      "value": "You’re the same, Miu."
+    },
+    {
+      "key": "EP11_S9230_0047",
+      "value": "I’ll never give up."
+    },
+    {
+      "key": "EP11_S9230_0048",
+      "value": "I’ll never give up. I’ll save Miyuki."
+    },
+    {
+      "key": "EP11_S9230_0049",
+      "value": "Yeah! If that’s how you feel, I can’t wait to\nhelp you!"
+    },
+    {
+      "key": "EP11_S9230_0050",
+      "value": "I can do anything with you on my side. Guess\nI’m like Kaito that way, huh?"
+    },
+    {
+      "key": "EP11_S9230_0051",
+      "value": "Yeah, you’re just like my brother! C’mon\nthough, one of him is enough!"
+    },
+    {
+      "key": "EP11_S9230_0052",
+      "value": "You’re the same, Miu."
+    },
+    {
+      "key": "EP11_S9230_0053",
+      "value": "You’re the same, Miu. It’s not just me. Our\nvoices will reach her."
+    },
+    {
+      "key": "EP11_S9230_0054",
+      "value": "Of course they will! I’ll pitch in to save\nMiyuki, too!"
+    },
+    {
+      "key": "EP11_S9230_0055",
+      "value": "...I honestly couldn’t stand her when we\nfirst met, you know."
+    },
+    {
+      "key": "EP11_S9230_0056",
+      "value": "Is that right?"
+    },
+    {
+      "key": "EP11_S9230_0057",
+      "value": "Yeah. She wouldn’t talk to anyone, just\nstaring into space..."
+    },
+    {
+      "key": "EP11_S9230_0058",
+      "value": "But once I knew we both have people that care\nso deeply about us, things changed!"
+    },
+    {
+      "key": "EP11_S9230_0059",
+      "value": "We’ve gotta save her! For the professor,\nRenamon...everyone who cares about her!"
+    },
+    {
+      "key": "EP11_S9230_0060",
+      "value": "If we rescue Miyuki...and save this world..."
+    },
+    {
+      "key": "EP11_S9230_0061",
+      "value": "I think I’ll have grown up a bit."
+    },
+    {
+      "key": "EP11_S9230_0062",
+      "value": "I think you’re pretty great already, Miu."
+    },
+    {
+      "key": "EP11_S9230_0063",
+      "value": "No, see. I still can’t put my feelings into\nwords yet."
+    },
+    {
+      "key": "EP11_S9230_0064",
+      "value": "I want to express my gratitude to Kaito\nproperly for once."
+    },
+    {
+      "key": "EP11_S9230_0065",
+      "value": "...He’s lucky to have a sister like you."
+    },
+    {
+      "key": "EP11_S9230_0066",
+      "value": "That’s not true! I’m still just a brat..."
+    },
+    {
+      "key": "EP11_S9230_0067",
+      "value": "I wanna be the kind of kid that puts his mind\nat ease."
+    },
+    {
+      "key": "EP11_S9230_0068",
+      "value": "Then I’ll be able to say I paid him back for\nsaving me."
+    },
+    {
+      "key": "EP11_S9230_0069",
+      "value": "I’m sure Kaito would be happy enough to hear\nyou say that."
+    },
+    {
+      "key": "EP11_S9230_0070",
+      "value": "You may be right. Kaito goes gaga when it\ncomes to me..."
+    },
+    {
+      "key": "EP11_S9230_0071",
+      "value": "(There she goes again. Man, those two really\nare a pair.)"
+    },
+    {
+      "key": "EP11_S9230_Q3",
+      "value": "(Hmm, what should I say to her?)"
+    },
+    {
+      "key": "EP11_S9230_Q3_A1",
+      "value": "He’s a great brother."
+    },
+    {
+      "key": "EP11_S9230_Q3_A2",
+      "value": "You’re a great sister."
+    },
+    {
+      "key": "EP11_S9230_0072",
+      "value": "He’s a great brother."
+    },
+    {
+      "key": "EP11_S9230_0073",
+      "value": "He’s a great brother."
+    },
+    {
+      "key": "EP11_S9230_0074",
+      "value": "...Yeah. I wish I could tell him to his face."
+    },
+    {
+      "key": "EP11_S9230_0075",
+      "value": "You will one day, I’m sure of it."
+    },
+    {
+      "key": "EP11_S9230_0076",
+      "value": "You’re a great sister."
+    },
+    {
+      "key": "EP11_S9230_0077",
+      "value": "You’re a great sister. I can tell how much\nyou worry about Kaito."
+    },
+    {
+      "key": "EP11_S9230_0078",
+      "value": "Don’t go taking Kaito’s side!"
+    },
+    {
+      "key": "EP11_S9230_0079",
+      "value": "Stay on my side, okay?!"
+    },
+    {
+      "key": "EP11_S9230_0080",
+      "value": "Yeah, I will. Still...\nIt’d be nice to have a sister like you."
+    },
+    {
+      "key": "EP11_S9230_0081",
+      "value": "Oh man, not you too! One brother is enough!"
+    },
+    {
+      "key": "EP11_S9230_0082",
+      "value": "Hey, don’t you have to get ready, Takuma?\nGo on, already!"
+    },
+    {
+      "key": "EP11_S9230_0083",
+      "value": "All right, all right! Well, see you later\nthen, Miu."
+    },
+    {
+      "key": "EP11_S9230_0084",
+      "value": "(Looks like Miu’s doing fine. I’d better do\nmy best, too.)"
+    }
+  ]
+}

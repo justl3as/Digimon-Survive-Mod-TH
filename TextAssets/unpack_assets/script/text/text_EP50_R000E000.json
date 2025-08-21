@@ -1,0 +1,5428 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP50_E01S04R007F0_0001",
+      "value": "(Maybe I should try talking to everyone...)"
+    },
+    {
+      "key": "EP50_E01S07R005F0_0001",
+      "value": "(Maybe I should ask the police officer what’s\ngoing on here.)"
+    },
+    {
+      "key": "EP50_E01S08R005F0_0001",
+      "value": "(I’ll have to discuss what to do next with\nthe others.)"
+    },
+    {
+      "key": "EP50_E01S08R005F1_0001",
+      "value": "(Maybe I should talk to the police officer\nagain?)"
+    },
+    {
+      "key": "EP50_E01S11R008F0_0001",
+      "value": "(I should talk with the others about what to\ndo next to search for Saki and Ryo.)"
+    },
+    {
+      "key": "EP50_E01S14R012F0_0001",
+      "value": "(What a suspicious-looking forest. I should\nlook around or maybe talk with the others.)"
+    },
+    {
+      "key": "EP50_E01S16R010F0_0001",
+      "value": "(I should talk with Minoru and Shuuji about\nwhat to do next.)"
+    },
+    {
+      "key": "EP50_E01S16R010F1_0001",
+      "value": "(Minoru’s right. I should look around with my\ncamera, too.)"
+    },
+    {
+      "key": "EP50_E01S20R011F0_0001",
+      "value": "(This shrine is pretty weird. Maybe I should\ntalk to the professor? Or inspect the mural?)"
+    },
+    {
+      "key": "EP50_E01S21R012F0_0001",
+      "value": "(All I can do is look around for now...)"
+    },
+    {
+      "key": "EP50_E01S23R010F0_0001",
+      "value": "(Let me try inspecting the area with my\ncamera...)"
+    },
+    {
+      "key": "EP50_E01S32R003F0_0001",
+      "value": "(No first-aid kit around here... Guess\nI should look somewhere else.)"
+    },
+    {
+      "key": "EP50_E01S32R003F1_0001",
+      "value": "(We have to treat Labramon’s wounds...)"
+    },
+    {
+      "key": "EP50_E01S32R015F0_0001",
+      "value": "(No first-aid kit around here... Guess\nI should look somewhere else.)"
+    },
+    {
+      "key": "EP50_E01S32R015F1_0001",
+      "value": "(No time for detours. I have to head back to\nthe hall, and fast!)"
+    },
+    {
+      "key": "EP50_E01S32R102F0_0001",
+      "value": "(There might be a first-aid kit around here.\nShould I look around?)"
+    },
+    {
+      "key": "EP50_E01S32R102F1_0001",
+      "value": "(No time for detours. I have to head back to\nthe hall, and fast!)"
+    },
+    {
+      "key": "EP50_E01S32R103F0_0001",
+      "value": "(No first-aid kit around here... Guess\nI should look somewhere else.)"
+    },
+    {
+      "key": "EP50_E01S32R103F1_0001",
+      "value": "(No time for detours. I have to head back to\nthe hall, and fast!)"
+    },
+    {
+      "key": "EP50_E01S35R050F0_0001",
+      "value": "(Should I look around here with my camera?)"
+    },
+    {
+      "key": "EP50_E01S37R003F0_0001",
+      "value": "(There’s Minoru... I should talk to him.)"
+    },
+    {
+      "key": "EP50_E01S37R103F0_0001",
+      "value": "(Is Aoi around here?)"
+    },
+    {
+      "key": "EP50_E01S38R050F0_0001",
+      "value": "(There’s Ryo... I should talk to him.)"
+    },
+    {
+      "key": "EP50_E01S39R050F0_0001",
+      "value": "(Can I get inside the music room?)"
+    },
+    {
+      "key": "EP50_E01S40R003F0_0001",
+      "value": "(Should I check the door?)"
+    },
+    {
+      "key": "EP50_E01S40R003F1_0001",
+      "value": "(I should think of a way to get over there...)"
+    },
+    {
+      "key": "EP50_E01S41R102F0_0001",
+      "value": "(There’s Labramon... I should talk to her.)"
+    },
+    {
+      "key": "EP50_E01S42R103F0_0001",
+      "value": "(There’s just gotta be a clue around here.\nI’ll take a look around.)"
+    },
+    {
+      "key": "EP50_E02S03R050F0_0001",
+      "value": "(Maybe I should listen to everyone’s opinions\nagain?)"
+    },
+    {
+      "key": "EP50_E02S05R001F0_0001",
+      "value": "(Oh hey, there’s Minoru. Should I say\nsomething to him?)"
+    },
+    {
+      "key": "EP50_E02S05R001F1_0001",
+      "value": "(Looks like no one’s here...)"
+    },
+    {
+      "key": "EP50_E02S05R003F0_0001",
+      "value": "(Oh, it’s Aoi. Should I say something to\nher?)"
+    },
+    {
+      "key": "EP50_E02S05R006F0_0001",
+      "value": "(It’s Miyuki and Haru. Should I say something\nto them?)"
+    },
+    {
+      "key": "EP50_E02S05R015F1_0001",
+      "value": "(It’s Aoi. I wonder if she found anything?)"
+    },
+    {
+      "key": "EP50_E02S05R050F0_0001",
+      "value": "(Oh hey, there’s Ryo. Should I say something\nto him?)"
+    },
+    {
+      "key": "EP50_E02S05R073F0_0001",
+      "value": "(It’s Minoru. I wonder if he found\nanything?)"
+    },
+    {
+      "key": "EP50_E02S14R013F0_0001",
+      "value": "(Aoi... I wonder if she found any clues about\nthe professor?)"
+    },
+    {
+      "key": "EP50_E02S14R055F0_0001",
+      "value": "(Oh, it’s Ryo. What’s he doing there?)"
+    },
+    {
+      "key": "EP50_E02S14R095F0_0001",
+      "value": "(Minoru... I wonder if he found any clues\nabout the professor?)"
+    },
+    {
+      "key": "EP50_E02S18R010F0_0001",
+      "value": "(Should I hear what the professor has to\nsay?)"
+    },
+    {
+      "key": "EP50_E02S18R010F1_0001",
+      "value": "(Should I ask Minoru what he thinks?)"
+    },
+    {
+      "key": "EP50_E02S18R010F2_0001",
+      "value": "(Should I use my camera to investigate here?)"
+    },
+    {
+      "key": "EP50_E02S18R012F0_0001",
+      "value": "(I don’t think there are any clues around\nhere.)"
+    },
+    {
+      "key": "EP50_E02S19R012F0_0001",
+      "value": "(Oh, right... I could use my camera to\ninvestigate.)"
+    },
+    {
+      "key": "EP50_E02S19R112F0_0001",
+      "value": "(Not here... Should I head underneath the\ndam?)"
+    },
+    {
+      "key": "EP50_E02S21R010F0_0001",
+      "value": "(Not here... Should I head to the forest near\nthe riverbed?)"
+    },
+    {
+      "key": "EP50_E02S22R012F0_0001",
+      "value": "(Not here... Should I head to the canal?)"
+    },
+    {
+      "key": "EP50_E02S22R096F0_0001",
+      "value": "(Should I talk over what to do next with the\nothers?)"
+    },
+    {
+      "key": "EP50_E02S24R017F0_0001",
+      "value": "(That’s weird... There’s something about this\nplace...)"
+    },
+    {
+      "key": "EP50_E03S04R003F0_0001",
+      "value": "(It’s Aoi. Should I try talking to her?)"
+    },
+    {
+      "key": "EP50_E03S04R006F0_0001",
+      "value": "(There’s Miyuki and Haru. Should I talk to\nthem?)"
+    },
+    {
+      "key": "EP50_E03S04R015F0_0001",
+      "value": "(Shuuji and Saki... What’re they doing,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E03S04R050F0_0001",
+      "value": "(Oh, it’s Ryo... He looks a bit worried.)"
+    },
+    {
+      "key": "EP50_E03S04R055F0_0001",
+      "value": "(Looks like no one’s here...)"
+    },
+    {
+      "key": "EP50_E03S04R073F0_0001",
+      "value": "(Minoru... What’s that guy doing?)"
+    },
+    {
+      "key": "EP50_E03S05R003F0_0001",
+      "value": "(It’s Minoru and Aoi... Maybe I should talk\nto them.)"
+    },
+    {
+      "key": "EP50_E03S05R015F0_0001",
+      "value": "(Oh, it’s Saki. I wonder if she’s gotten used\nto this place?)"
+    },
+    {
+      "key": "EP50_E03S05R055F0_0001",
+      "value": "(It’s Shuuji... What is he doing?)"
+    },
+    {
+      "key": "EP50_E03S06R010F0_0001",
+      "value": "(Is that Floramon? What’s she doing by\nherself?)"
+    },
+    {
+      "key": "EP50_E03S06R012F0_0001",
+      "value": "(It’s Agumon and the others... What’re they\ndoing here, I wonder?)"
+    },
+    {
+      "key": "EP50_E03S06R013F0_0001",
+      "value": "(It’s Lopmon... But Shuuji’s nowhere to be\nseen?)"
+    },
+    {
+      "key": "EP50_E03S06R050F0_0001",
+      "value": "(There’s Aoi and Saki. Maybe I should hear\ntheir opinions.)"
+    },
+    {
+      "key": "EP50_E03S06R055F0_0001",
+      "value": "(Kunemon? What’s he doing, I wonder?)"
+    },
+    {
+      "key": "EP50_E03S19R018F0_0001",
+      "value": "(First, I should hear out Kaito and that\nwoman...)"
+    },
+    {
+      "key": "EP50_E03S20R014F0_0001",
+      "value": "(I ought to discuss what to do next with\nKaito and the others.)"
+    },
+    {
+      "key": "EP50_E03S21R014F0_0001",
+      "value": "(I’m worried about Minoru and the others, but\nI can only go ahead with Kaito for now.)"
+    },
+    {
+      "key": "EP50_E04S03R001F1_0001",
+      "value": "(Guess Agumon isn’t here.)"
+    },
+    {
+      "key": "EP50_E04S03R003F0_0001",
+      "value": "(Now then, what to do?)"
+    },
+    {
+      "key": "EP50_E04S03R003F1_0001",
+      "value": "(Agumon... Where did he go, I wonder?)"
+    },
+    {
+      "key": "EP50_E04S03R006F0_0001",
+      "value": "(Miyuki, Haru and Minoru... Should I call out\nto them?)"
+    },
+    {
+      "key": "EP50_E04S03R013F1_0001",
+      "value": "(It seems Agumon headed for the shrine?)"
+    },
+    {
+      "key": "EP50_E04S03R015F0_0001",
+      "value": "(Is that Minoru? Maybe I should talk to him.)"
+    },
+    {
+      "key": "EP50_E04S03R050F0_0001",
+      "value": "(I see Aoi and Saki. Should I call out to\nthem?)"
+    },
+    {
+      "key": "EP50_E04S03R055F1_0001",
+      "value": "(Agumon... I guess he headed into the\nwoods...)"
+    },
+    {
+      "key": "EP50_E04S03R073F0_0001",
+      "value": "(Kaito... He looks pretty pissed. What’s\ngoing on?)"
+    },
+    {
+      "key": "EP50_E04S03R103F0_0001",
+      "value": "(Is that Lopmon? Maybe I should say something\nto him.)"
+    },
+    {
+      "key": "EP50_E04S17R018F0_0001",
+      "value": "(I know they’re on break, but maybe I should\ntalk to them.)"
+    },
+    {
+      "key": "EP50_E04S20R105F0_0001",
+      "value": "(Um, I ought to get Kaito to calm down for\nnow.)"
+    },
+    {
+      "key": "EP50_E04S21R025F0_0001",
+      "value": "(Aoi... Should I say something to her?)"
+    },
+    {
+      "key": "EP50_E04S21R200F0_0001",
+      "value": "(Is that Saki? Maybe I should say something.)"
+    },
+    {
+      "key": "EP50_E04S21R201F0_0001",
+      "value": "(It’s that little one! Should I hear him\nout?)"
+    },
+    {
+      "key": "EP50_E04S22R200F0_0001",
+      "value": "(Is that Kaito? Maybe I ought to say\nsomething to him.)"
+    },
+    {
+      "key": "EP50_E04S23R105F0_0001",
+      "value": "(Everyone’s here... Did something happen?)"
+    },
+    {
+      "key": "EP50_E04S24R026F0_0001",
+      "value": "(I should try and find out where those little\nones went off to.)"
+    },
+    {
+      "key": "EP50_E04S25R027F0_0001",
+      "value": "(There might be a clue around here. I should\ntake a look around.)"
+    },
+    {
+      "key": "EP50_E04S27R083F0_0001",
+      "value": "(There must be a clue around here. I’ll have\nto take a good look around.)"
+    },
+    {
+      "key": "EP50_E04S30R029F0_0001",
+      "value": "(There must be a way for us to escape...\nI should take a look around.)"
+    },
+    {
+      "key": "EP50_E04S34R025F0_0001",
+      "value": "(Miu... Where the heck did she go?)"
+    },
+    {
+      "key": "EP50_E04S34R105F0_0001",
+      "value": "(Wh-what happened to that little one?)"
+    },
+    {
+      "key": "EP50_E04S35R105F0_0001",
+      "value": "(Oh, it’s Shuuji. Maybe I should talk to\nhim.)"
+    },
+    {
+      "key": "EP50_E04S36R026F0_0001",
+      "value": "(There’s a little one... Should I say\nsomething?)"
+    },
+    {
+      "key": "EP50_E04S36R026F1_0001",
+      "value": "(Miu must be in the castle somewhere. I have\nto look for her!)"
+    },
+    {
+      "key": "EP50_E04S36R028F0_0001",
+      "value": "(Miu... I think she’s around here somewhere,\nbut...)"
+    },
+    {
+      "key": "EP50_E04S36R028F1_0001",
+      "value": "(I think Miu’s around here...)"
+    },
+    {
+      "key": "EP50_E04S36R028F2_0001",
+      "value": "(Miu’s here. Where could she be hiding?)"
+    },
+    {
+      "key": "EP50_E04S36R028F3_0001",
+      "value": "(Miu must be hiding in the treasure chest.\nMaybe I should take another look.)"
+    },
+    {
+      "key": "EP50_E05S04R001F0_0001",
+      "value": "(There’s Miu... Should I talk to her?)"
+    },
+    {
+      "key": "EP50_E05S04R001F1_0001",
+      "value": "(Whoever stole everyone’s treasured items,\nthey aren’t here. I’ll look somewhere else.)"
+    },
+    {
+      "key": "EP50_E05S04R003F0_0001",
+      "value": "(Hey, it’s Minoru. Should I talk to him?)"
+    },
+    {
+      "key": "EP50_E05S04R006F0_0001",
+      "value": "(That’s Miyuki and Haru... Should I talk to\nthem?)"
+    },
+    {
+      "key": "EP50_E05S04R015F0_0001",
+      "value": "(It’s Aoi... Should I talk to her?)"
+    },
+    {
+      "key": "EP50_E05S04R050F0_0001",
+      "value": "(It’s Shuuji... Should I talk to him?)"
+    },
+    {
+      "key": "EP50_E05S04R055F0_0001",
+      "value": "(It’s Falcomon and others... Should I talk\nto them?)"
+    },
+    {
+      "key": "EP50_E05S04R073F0_0001",
+      "value": "(It’s Saki... Should I talk to her?)"
+    },
+    {
+      "key": "EP50_E05S04R102F0_0001",
+      "value": "(It’s Kaito... Should I talk to him?)"
+    },
+    {
+      "key": "EP50_E05S08R055F1_0001",
+      "value": "(It’s Shuuji and Lopmon. Are they training?)"
+    },
+    {
+      "key": "EP50_E05S08R055F2_0001",
+      "value": "(No point in talking to Shuuji, the way he is\nnow.)"
+    },
+    {
+      "key": "EP50_E05S10R093F0_0001",
+      "value": "(I have to clear the air somehow... Maybe\nI should try talking to everyone first?)"
+    },
+    {
+      "key": "EP50_E05S12R017F0_0001",
+      "value": "(We’ll have to take a closer look at the lock\nif we’re gonna get inside.)"
+    },
+    {
+      "key": "EP50_E05S14R031F0_0001",
+      "value": "(No Agumon around here. I should look\nsomewhere else.)"
+    },
+    {
+      "key": "EP50_E05S14R032F0_0001",
+      "value": "(I have to meet up with the real Agumon ASAP.\nI should look somewhere else.)"
+    },
+    {
+      "key": "EP50_E05S14R033F0_0001",
+      "value": "(It’s Agumon! But is it the real one? Guess\nI’ll have to find out...)"
+    },
+    {
+      "key": "EP50_E05S16R031F0_0001",
+      "value": "(I have to find the real Labramon. Let’s look\nsomewhere else.)"
+    },
+    {
+      "key": "EP50_E05S16R032F0_0001",
+      "value": "(Aoi’s nowhere to be found around here.\nShould I look somewhere else?)"
+    },
+    {
+      "key": "EP50_E05S16R033F0_0001",
+      "value": "(It’s Labramon! But it could be a fake.\nRight, here we go again...)"
+    },
+    {
+      "key": "EP50_E05S16R107F0_0001",
+      "value": "(Next is Labramon... I try looking in another\nspot.)"
+    },
+    {
+      "key": "EP50_E05S17R031F0_0001",
+      "value": "(Next, I should look for Saki. She isn’t\naround here, so I should go to another spot.)"
+    },
+    {
+      "key": "EP50_E05S17R031F1_0001",
+      "value": "(I found Saki, so next is Floramon! We should\nlook somewhere else.)"
+    },
+    {
+      "key": "EP50_E05S17R032F0_0001",
+      "value": "(Where’s the real Floramon? I need to go look\nsomewhere else.)"
+    },
+    {
+      "key": "EP50_E05S17R033F0_0001",
+      "value": "(That’s Floramon... Or is it? Let’s have\na little chat and see for ourselves...)"
+    },
+    {
+      "key": "EP50_E05S19R031F0_0001",
+      "value": "(That’s Syakomon, but...I ought to check if\nI’m staring at a fake or not.)"
+    },
+    {
+      "key": "EP50_E05S19R032F0_0001",
+      "value": "(Miu’s been hurt by the fake Syakomon. We\nhave to find the real one fast...)"
+    },
+    {
+      "key": "EP50_E05S19R033F0_0001",
+      "value": "(Where’s Miu? I don’t see her around here.)"
+    },
+    {
+      "key": "EP50_E05S19R033F1_0001",
+      "value": "(Where’s Syakomon? I have to look somewhere\nelse.)"
+    },
+    {
+      "key": "EP50_E05S19R108F0_0001",
+      "value": "(I met up with Miu, now we just have to find\nSyakomon.)"
+    },
+    {
+      "key": "EP50_E05S22R031F0_0001",
+      "value": "(I’m worried about Shuuji... I ought to keep\nlooking in a different spot.)"
+    },
+    {
+      "key": "EP50_E05S22R032F0_0001",
+      "value": "(It’s Ryo...I wonder if he found anything?)"
+    },
+    {
+      "key": "EP50_E05S22R032F1_0001",
+      "value": "(No Shuuji here either... Maybe I should talk\nto Saki.)"
+    },
+    {
+      "key": "EP50_E05S22R107F0_0001",
+      "value": "(Minoru’s looking around, too, huh? I should\nsee if he’s found anything.)"
+    },
+    {
+      "key": "EP50_E05S22R107F1_0001",
+      "value": "(That’s Aoi, but it doesn’t look like she’s\nfound Shuuji yet. Should we talk a bit?)"
+    },
+    {
+      "key": "EP50_E05S22R108F0_0001",
+      "value": "(Shuuji... He’s in danger if this keeps up.\nI have to get to him right away!)"
+    },
+    {
+      "key": "EP50_E05S22R109F0_0001",
+      "value": "(Is that Miu? Maybe we ought to get each\nother up to date.)"
+    },
+    {
+      "key": "EP50_E05S24R031F0_0001",
+      "value": "(Shuuji... Where did you go? All I can say\nfor sure is that he isn’t here.)"
+    },
+    {
+      "key": "EP50_E05S24R032F0_0001",
+      "value": "(Right, I should talk with the others about\nour next steps.)"
+    },
+    {
+      "key": "EP50_E06S02R033F0_0001",
+      "value": "(There’s Miu and Saki... Should I talk to\nthem?)"
+    },
+    {
+      "key": "EP50_E06S02R035F0_0001",
+      "value": "(There’s Kaito. Should I call out to him?)"
+    },
+    {
+      "key": "EP50_E06S02R035F1_0001",
+      "value": "(It’s Kaito and Ryo. Should I talk to them?)"
+    },
+    {
+      "key": "EP50_E06S02R040F0_0001",
+      "value": "(It’s Minoru and Miyuki. Should I call out to\nthem, maybe?)"
+    },
+    {
+      "key": "EP50_E06S02R040F1_0001",
+      "value": "(Minoru, Miyuki and Shuuji... Maybe I should\ngo talk to them.)"
+    },
+    {
+      "key": "EP50_E06S02R068F0_0001",
+      "value": "(There’s the professor. Should I say\nsomething to him?)"
+    },
+    {
+      "key": "EP50_E06S07R033F0_0001",
+      "value": "(There’s Kaito. Should I talk to him?)"
+    },
+    {
+      "key": "EP50_E06S07R035F0_0001",
+      "value": "(Aoi and Miu... Should I talk to them?)"
+    },
+    {
+      "key": "EP50_E06S07R037F0_0001",
+      "value": "(There’s Aoi. Should I say something to her?)"
+    },
+    {
+      "key": "EP50_E06S07R040F0_0001",
+      "value": "(There’s Saki. Should I say something to\nher?)"
+    },
+    {
+      "key": "EP50_E06S07R040F1_0001",
+      "value": "(It’s Shuuji and Saki... Should I call out to\nthem?)"
+    },
+    {
+      "key": "EP50_E06S07R068F0_0001",
+      "value": "(Oh, it’s Minoru. Maybe I should say\nsomething.)"
+    },
+    {
+      "key": "EP50_E06S07R068F1_0001",
+      "value": "(Miu’s hanging out with Minoru. Should I join\nthem?)"
+    },
+    {
+      "key": "EP50_E06S15R034F0_0001",
+      "value": "(It’s Kaito and the professor. Maybe I should\ntalk to them?)"
+    },
+    {
+      "key": "EP50_E06S15R035F0_0001",
+      "value": "(It’s Minoru and the professor. Should I talk\nto them?)"
+    },
+    {
+      "key": "EP50_E06S15R068F0_0001",
+      "value": "(That’s Miu. Should I talk to her?)"
+    },
+    {
+      "key": "EP50_E06S15R075F1_0001",
+      "value": "(Minoru’s with Saki. Should I talk to them?)"
+    },
+    {
+      "key": "EP50_E07S03R003F0_0001",
+      "value": "(Is that Miu? Maybe I should talk to her\nbefore the final battle.)"
+    },
+    {
+      "key": "EP50_E07S03R006F0_0001",
+      "value": "(It’s Miyuki and Haru... We’ve got a fight\ncoming up. Should I talk to them beforehand?)"
+    },
+    {
+      "key": "EP50_E07S03R010F1_0001",
+      "value": "(It’s Shuuji... He’s preparing for the final\nbattle. Maybe I should talk to him.)"
+    },
+    {
+      "key": "EP50_E07S03R013F0_0001",
+      "value": "(Huh...? What the—why here, of all places?)"
+    },
+    {
+      "key": "EP50_E07S03R015F0_0001",
+      "value": "(There’s Aoi. She might have some worries.\nI ought to talk to her.)"
+    },
+    {
+      "key": "EP50_E07S03R050F0_0001",
+      "value": "(Oh, it’s Minoru. We’ve got the final battle\ncoming up. Maybe we should talk first.)"
+    },
+    {
+      "key": "EP50_E07S03R050F1_0001",
+      "value": "(Minoru and Ryo... We’ve got the final battle\ncoming up. Maybe we should talk before.)"
+    },
+    {
+      "key": "EP50_E07S03R055F0_0001",
+      "value": "(Kaito, huh? We may have a tough fight ahead\nof us. I should talk to him beforehand.)"
+    },
+    {
+      "key": "EP50_E07S03R073F0_0001",
+      "value": "(Oh, it’s Saki. Is she exercising?)"
+    },
+    {
+      "key": "EP50_E07S07R050F0_0001",
+      "value": "(Kaito and Minoru... We’re close to the final\nbattle. I ought to talk to them.)"
+    },
+    {
+      "key": "EP50_E07S07R073F0_0001",
+      "value": "(Is that Aoi and Saki? They’re getting ready\nfor the final battle. I should talk to them.)"
+    },
+    {
+      "key": "EP50_E07S24R041F0_0001",
+      "value": "(Oh, it’s Saki... Did she find any clues,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E07S24R042F0_0001",
+      "value": "(Oh, there’s Miu... Has she found any clues?)"
+    },
+    {
+      "key": "EP50_E07S24R042F1_0001",
+      "value": "(I see Shuuji and Miu. Wonder if they found\nany clues?)"
+    },
+    {
+      "key": "EP50_E07S24R043F0_0001",
+      "value": "(Is that Aoi? I wonder how her search is\ngoing?)"
+    },
+    {
+      "key": "EP50_E07S24R043F1_0001",
+      "value": "(That’s Aoi and Ryo. How’s their search\ngoing?)"
+    },
+    {
+      "key": "EP50_E07S24R086F0_0001",
+      "value": "(Hey, there’s Kaito. Has he found anything?)"
+    },
+    {
+      "key": "EP50_E07S24R106F0_0001",
+      "value": "(That’s Minoru... Did he discover anything?)"
+    },
+    {
+      "key": "EP50_E07S25R106F0_0001",
+      "value": "(Should I talk with the professor?)"
+    },
+    {
+      "key": "EP50_E07S26R041F0_0001",
+      "value": "(Oh, it’s Saki... Did she find any clues,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E07S26R041F1_0001",
+      "value": "(Shuuji, Ryo and Saki... Have they found any\nclues?)"
+    },
+    {
+      "key": "EP50_E08S05R005F0_0001",
+      "value": "(Maybe I should pump the locals for some\ninfo?)"
+    },
+    {
+      "key": "EP50_E08S08R004F0_0001",
+      "value": "(I should try talking to the other campers.)"
+    },
+    {
+      "key": "EP50_E09S04R001F0_0001",
+      "value": "(There’s Minoru. How’s about we have a chat?)"
+    },
+    {
+      "key": "EP50_E09S04R001F1_0001",
+      "value": "(There’s Shuuji. Should I ask him what’s been\nhappening these past ten days?)"
+    },
+    {
+      "key": "EP50_E09S04R003F0_0001",
+      "value": "(It’s Minoru... Should I ask him a bit about\nwhat went down while I was gone?)"
+    },
+    {
+      "key": "EP50_E09S04R006F0_0001",
+      "value": "(No one’s here. Should I go somewhere else?)"
+    },
+    {
+      "key": "EP50_E09S04R015F0_0001",
+      "value": "(Aoi’s with Saki... I should ask them about\nwhat happened the past ten days.)"
+    },
+    {
+      "key": "EP50_E09S04R050F0_0001",
+      "value": "(There’s Ryo. How about we talk for a sec?)"
+    },
+    {
+      "key": "EP50_E09S04R055F0_0001",
+      "value": "(There’s Dracmon and the others... Has\nsomething happened?)"
+    },
+    {
+      "key": "EP50_E09S04R073F0_0001",
+      "value": "(Kaito’s with Miu again... I should ask them\nwhat happened since I saw them last.)"
+    },
+    {
+      "key": "EP50_E09S16R105F0_0001",
+      "value": "(There must be some more injured around. I’ll\nhave to look high and low for them.)"
+    },
+    {
+      "key": "EP50_E09S16R105F1_0001",
+      "value": "(No more injured around here. Should I look\nsomewhere else?)"
+    },
+    {
+      "key": "EP50_E09S16R200F0_0001",
+      "value": "(There must be more injured somewhere else.\nI need to look even harder!)"
+    },
+    {
+      "key": "EP50_E09S16R201F0_0001",
+      "value": "(Where are the injured...? I can’t\nleave here until I find them.)"
+    },
+    {
+      "key": "EP50_E09S16R201F1_0001",
+      "value": "(Oh, it’s Shuuji. Maybe I should talk to him\nagain about what we’re doing going forward.)"
+    },
+    {
+      "key": "EP50_E10S02R001F0_0001",
+      "value": "(It’s Kaito and the others. What’re they\ntalking about?)"
+    },
+    {
+      "key": "EP50_E10S02R003F0_0001",
+      "value": "(Is that Minoru? He looks a little down.)"
+    },
+    {
+      "key": "EP50_E10S02R006F0_0001",
+      "value": "(There’s Saki. Should I talk to her?)"
+    },
+    {
+      "key": "EP50_E10S02R015F0_0001",
+      "value": "(Miu’s looking after the little ones... Maybe\nI should say something to support her.)"
+    },
+    {
+      "key": "EP50_E10S02R025F0_0001",
+      "value": "(Minoru’s with Shuuji... Maybe I should talk\nto them before they head out.)"
+    },
+    {
+      "key": "EP50_E10S02R028F0_0001",
+      "value": "(It’s Miu... Is she still attached to this\nplace, I wonder?)"
+    },
+    {
+      "key": "EP50_E10S02R073F0_0001",
+      "value": "(Aoi... She looks kind of tired.)"
+    },
+    {
+      "key": "EP50_E10S02R105F0_0001",
+      "value": "(It’s the professor... Should I ask him about\nhow we should move forward?)"
+    },
+    {
+      "key": "EP50_E10S02R200F0_0001",
+      "value": "(Kaito’s there with Aoi. Maybe I should talk\nto them about our next steps?)"
+    },
+    {
+      "key": "EP50_E10S02R201F0_0001",
+      "value": "(There’s Ryo and Saki... Should I talk to\nthem?)"
+    },
+    {
+      "key": "EP50_E10S04R001F0_0001",
+      "value": "(There’s Kaito... What should I say to him?\nNo, I have to cheer him up!)"
+    },
+    {
+      "key": "EP50_E10S04R015F0_0001",
+      "value": "(Should I talk to Agumon?)"
+    },
+    {
+      "key": "EP50_E10S04R073F0_0001",
+      "value": "(Labramon... Is she looking for Aoi?)"
+    },
+    {
+      "key": "EP50_E10S07R001F0_0001",
+      "value": "(There’s Saki. I wonder what she thinks about\nall this?)"
+    },
+    {
+      "key": "EP50_E10S07R010F1_0001",
+      "value": "(Agumon said they ran this way... Should\nI take a look around?)"
+    },
+    {
+      "key": "EP50_E10S07R012F1_0001",
+      "value": "(They might’ve fled over here. I should take\na look around.)"
+    },
+    {
+      "key": "EP50_E10S07R015F0_0001",
+      "value": "(There’s Miu. How about we talk for a sec?)"
+    },
+    {
+      "key": "EP50_E10S07R050F0_0001",
+      "value": "(It’s Minoru and the others. What’re they\ntalking about, I wonder?)"
+    },
+    {
+      "key": "EP50_E10S07R055F0_0001",
+      "value": "(There’s the professor. Maybe I should lean\non him to see what we should do now?)"
+    },
+    {
+      "key": "EP50_E10S09R015F0_0001",
+      "value": "(No one’s here... Should I go somewhere\nelse?)"
+    },
+    {
+      "key": "EP50_E10S14R013F0_0001",
+      "value": "(There’s Ryo. Is he taking the search\nseriously, I wonder?)"
+    },
+    {
+      "key": "EP50_E10S14R034F0_0001",
+      "value": "(Maybe I should talk to Agumon about how to\nmove forward.)"
+    },
+    {
+      "key": "EP50_E10S14R040F0_0001",
+      "value": "(Minoru... I wonder if he found any clues?)"
+    },
+    {
+      "key": "EP50_E10S14R068F0_0001",
+      "value": "(Aoi and Saki... Have they found anything,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E10S14R113F0_0001",
+      "value": "(There’s Kaito and Miu. Did they find any\nclues about the Sovereign Monsters?)"
+    },
+    {
+      "key": "EP50_E10S17R013F0_0001",
+      "value": "(There’s Aoi and Saki. I should ask how their\nsearch is going, maybe?)"
+    },
+    {
+      "key": "EP50_E10S17R034F0_0001",
+      "value": "(Don’t see any other teams around here.\nShould I talk to Minoru?)"
+    },
+    {
+      "key": "EP50_E10S17R035F0_0001",
+      "value": "(It’s the professor. He doesn’t seem to be\nlooking for anything, should I talk to him?)"
+    },
+    {
+      "key": "EP50_E10S17R046F1_0001",
+      "value": "(Doesn’t look like there’s anything here...\nLet’s keep on going.)"
+    },
+    {
+      "key": "EP50_E10S17R068F0_0001",
+      "value": "(There’s Shuuji with Ryo... I wonder how\ntheir search is going?)"
+    },
+    {
+      "key": "EP50_E10S17R113F0_0001",
+      "value": "(It’s Kaito and Miu. I wonder how their\nsearch is going?)"
+    },
+    {
+      "key": "EP50_E10S18R039F0_0001",
+      "value": "(Okay, let’s head farther in.)"
+    },
+    {
+      "key": "EP50_E10S19R039F0_0001",
+      "value": "(It’s Saki and Miu! Great, I’ll join up with\nthem!)"
+    },
+    {
+      "key": "EP50_E10S19R039F1_0001",
+      "value": "(Okay... Let’s look somewhere else.)"
+    },
+    {
+      "key": "EP50_E10S19R047F0_0001",
+      "value": "(It’s Minoru! I have to meet up with him!)"
+    },
+    {
+      "key": "EP50_E10S19R048F0_0001",
+      "value": "(There’s nobody here... Should I talk\nto Agumon about what to do next?)"
+    },
+    {
+      "key": "EP50_E10S20R048F0_0001",
+      "value": "(There, I see Kaito and Aoi! Great, I have to\nmeet up with them!)"
+    },
+    {
+      "key": "EP50_E10S21R039F0_0001",
+      "value": "(It’s Saki! Good, I’ll join up with her!)"
+    },
+    {
+      "key": "EP50_E10S21R039F1_0001",
+      "value": "(There’s Miu! Great, I’ll join up with her!)"
+    },
+    {
+      "key": "EP50_E10S21R048F0_0001",
+      "value": "(There’s Aoi! I have to meet up with her!)"
+    },
+    {
+      "key": "EP50_E10S22R039F0_0001",
+      "value": "(There’s Kaito! I gotta head over to him!)"
+    },
+    {
+      "key": "EP50_E10S22R048F0_0001",
+      "value": "(There’s Kaito! But he’s looking a bit...\nstrange?)"
+    },
+    {
+      "key": "EP50_E10S22R048F1_0001",
+      "value": "(There’s Aoi! But she’s looking a bit...\nstrange?)"
+    },
+    {
+      "key": "EP50_E11S03R001F0_0001",
+      "value": "(There’s Minoru... We’ve got the final battle\ncoming up, maybe we should talk beforehand.)"
+    },
+    {
+      "key": "EP50_E11S03R003F0_0001",
+      "value": "(I see Saki over there... What’s she doing?)"
+    },
+    {
+      "key": "EP50_E11S03R006F0_0001",
+      "value": "(It’s the professor. What a face he’s\nmaking... Is he thinking about something?)"
+    },
+    {
+      "key": "EP50_E11S03R012F0_0001",
+      "value": "(It’s Kaito... Should I ask him what he\nthinks about how we should move forward?)"
+    },
+    {
+      "key": "EP50_E11S03R015F0_0001",
+      "value": "(Is that Aoi? She’s getting ready for the\nfinal battle, I should talk to her.)"
+    },
+    {
+      "key": "EP50_E11S03R034F0_0001",
+      "value": "(Is that Shuuji? I wonder what sort of search\nmethod he’s thinking of?)"
+    },
+    {
+      "key": "EP50_E11S03R035F0_0001",
+      "value": "(It’s Kaito... Should I talk to him?)"
+    },
+    {
+      "key": "EP50_E11S03R037F0_0001",
+      "value": "(The professor and Renamon? I wonder what\nthey’re talking about.)"
+    },
+    {
+      "key": "EP50_E11S03R068F0_0001",
+      "value": "(Oh, it’s Miu. Is she ready to go?)"
+    },
+    {
+      "key": "EP50_E11S03R073F0_0001",
+      "value": "(Oh, there’s Miu. Things are about to get\ndicey, I should talk to her first.)"
+    },
+    {
+      "key": "EP50_E11S03R075F0_0001",
+      "value": "(It’s Minoru... I wonder how his preparations\nare coming along?)"
+    },
+    {
+      "key": "EP50_E11S03R114F0_0001",
+      "value": "(Is that Ryo? Maybe I should say something.)"
+    },
+    {
+      "key": "EP50_E11S04R001F0_0001",
+      "value": "(It’s Minoru... Has he found any leads about\nKaito?)"
+    },
+    {
+      "key": "EP50_E11S04R001F1_0001",
+      "value": "(Is that Minoru? I wonder if he found any\nleads about Aoi.)"
+    },
+    {
+      "key": "EP50_E11S04R003F0_0001",
+      "value": "(Saki... Has she figured out where Kaito\nwent, I wonder?)"
+    },
+    {
+      "key": "EP50_E11S04R003F1_0001",
+      "value": "(It’s Kaito... Should I talk with him about\nhow I should look for Aoi?)"
+    },
+    {
+      "key": "EP50_E11S04R006F0_0001",
+      "value": "(Haru and the professor... I wonder if\nthey’re about to go look for Kaito?)"
+    },
+    {
+      "key": "EP50_E11S04R006F1_0001",
+      "value": "(The professor and Haru... I wonder if\nthey’re about to go look for Aoi?)"
+    },
+    {
+      "key": "EP50_E11S04R015F0_0001",
+      "value": "(Oh, is that Aoi? Maybe I should ask her\nabout how to look for Kaito.)"
+    },
+    {
+      "key": "EP50_E11S04R015F1_0001",
+      "value": "(Miu... Has she figured out where Aoi went,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E11S08R001F0_0001",
+      "value": "(It’s the professor. So this is where he\nwas?)"
+    },
+    {
+      "key": "EP50_E11S08R076F0_0001",
+      "value": "(It’s Renamon... Has he gotten any leads on\nKaito?)"
+    },
+    {
+      "key": "EP50_E11S08R076F1_0001",
+      "value": "(It’s Renamon... Has he gotten any leads on\nAoi?)"
+    },
+    {
+      "key": "EP50_E11S11R031F0_0001",
+      "value": "(It’s Kaito and Miu. Are those two searching\ntogether?)"
+    },
+    {
+      "key": "EP50_E11S11R033F0_0001",
+      "value": "(There’s Shuuji and Saki. Did they find any\nclues about the Sovereign Monster?)"
+    },
+    {
+      "key": "EP50_E11S11R040F0_0001",
+      "value": "(That’s Aoi and Ryo. How’s their search\ngoing?)"
+    },
+    {
+      "key": "EP50_E11S12R001F0_0001",
+      "value": "(Hey, it’s Saki and the others. Maybe we\nshould swap what info we have.)"
+    },
+    {
+      "key": "EP50_E11S12R001F1_0001",
+      "value": "(Hey, it’s Miu. Maybe we should swap what\ninfo we have?)"
+    },
+    {
+      "key": "EP50_E11S12R012F0_0001",
+      "value": "(I see Aoi. Has she learned anything,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E11S12R012F1_0001",
+      "value": "(I see Kaito. Has he learned anything,\nI wonder?)"
+    },
+    {
+      "key": "EP50_E11S12R017F0_0001",
+      "value": "(Oh, Minoru. Has he found anything?)"
+    },
+    {
+      "key": "EP50_E11S13R033F0_0001",
+      "value": "(Oh, there’s Minoru... Has he found any clues\nabout the Sovereign Monster?)"
+    },
+    {
+      "key": "EP50_E11S13R107F0_0001",
+      "value": "(The professor and Renamon... Are they\nsearching together?)"
+    },
+    {
+      "key": "EP50_E11S14R031F0_0001",
+      "value": "(Shuuji’s with Saki... I wonder how their\nsearch is going?)"
+    },
+    {
+      "key": "EP50_E11S14R032F0_0001",
+      "value": "(That’s Aoi and Ryo. I wonder how their\nsearch is progressing?)"
+    },
+    {
+      "key": "EP50_E11S15R107F0_0001",
+      "value": "(Oh, it’s Kaito and Miu... Have they found\nany clues about the Sovereign Monster?)"
+    },
+    {
+      "key": "EP50_E11S16R010F0_0001",
+      "value": "(We should head to the deepest part of the\nshrine. I think we can move on from here.)"
+    },
+    {
+      "key": "EP50_E11S16R011F0_0001",
+      "value": "(No point in sticking around here. Might as\nwell search someplace else.)"
+    },
+    {
+      "key": "EP50_E11S19R011F0_0001",
+      "value": "(Piedmon’s stragglers... What’re they doing?)"
+    },
+    {
+      "key": "EP50_E12S02R011F0_0001",
+      "value": "(Should I have a chat with Minoru?)"
+    },
+    {
+      "key": "EP50_E12S02R011F1_0001",
+      "value": "(We found another area farther within...\nShould we head in there?)"
+    },
+    {
+      "key": "EP50_E12S02R011F2_0001",
+      "value": "(Maybe I should talk to those two.)"
+    },
+    {
+      "key": "EP50_E12S03R001F0_0001",
+      "value": "(It’s Shuuji... Should I talk to him?)"
+    },
+    {
+      "key": "EP50_E12S03R003F0_0001",
+      "value": "(There’s Miu... Should I talk to her?)"
+    },
+    {
+      "key": "EP50_E12S03R011F0_0001",
+      "value": "(Nothing left to do here.)"
+    },
+    {
+      "key": "EP50_E12S03R011F1_0001",
+      "value": "(Should I talk with Saki?)"
+    },
+    {
+      "key": "EP50_E12S03R011F2_0001",
+      "value": "(Should I talk with Miu?)"
+    },
+    {
+      "key": "EP50_E12S03R050F0_0001",
+      "value": "(It’s Ryo... Maybe I should talk to him.)"
+    },
+    {
+      "key": "EP50_E12S04R011F0_0001",
+      "value": "(Should I investigate the murals?)"
+    },
+    {
+      "key": "EP50_E12S05R011F0_0001",
+      "value": "(This is a waypoint. Let’s hurry to the\nlowest level!)"
+    },
+    {
+      "key": "EP50_E12S05R049F0_0001",
+      "value": "(I was able to join up with Aoi and Saki...\nI should look for the others somewhere else.)"
+    },
+    {
+      "key": "EP50_E12S05R300F0_0001",
+      "value": "(I was able to join up with Kaito and Miu...\nI should look for the others somewhere else.)"
+    },
+    {
+      "key": "EP50_E12S05R301F0_0001",
+      "value": "(I was able to join up with Minoru...\nI should look for the others somewhere else.)"
+    },
+    {
+      "key": "EP50_E12S06R001F0_0001",
+      "value": "(Kaito and Dracmon? What’s going on here?)"
+    },
+    {
+      "key": "EP50_E12S06R006F0_0001",
+      "value": "(Is that Renamon? I wonder if this place\ncalms her down.)"
+    },
+    {
+      "key": "EP50_E12S06R015F0_0001",
+      "value": "(Saki... What’s she doing, I wonder?)"
+    },
+    {
+      "key": "EP50_E12S09R003F0_0001",
+      "value": "(I have to tell Minoru about that ghost.)"
+    },
+    {
+      "key": "EP50_E12S09R073F0_0001",
+      "value": "(Aoi... What could she be doing?)"
+    },
+    {
+      "key": "EP50_E12S09R102F0_0001",
+      "value": "(There’s the professor. I should ask him\na thing or two.)"
+    },
+    {
+      "key": "EP50_E12S14R001F0_0001",
+      "value": "(Should I look around here?)"
+    },
+    {
+      "key": "EP50_E12S14R006F0_0001",
+      "value": "(There’s Aoi. Has she found any leads on the\nghost?)"
+    },
+    {
+      "key": "EP50_E12S14R015F0_0001",
+      "value": "(There’s the professor. Is he looking for the\nghost?)"
+    },
+    {
+      "key": "EP50_E12S14R050F0_0001",
+      "value": "(It’s Ryo... Is he really looking for the\nghost, I wonder?)"
+    },
+    {
+      "key": "EP50_E12S14R073F0_0001",
+      "value": "(I should try investigating with my camera.)"
+    },
+    {
+      "key": "EP50_E12S14R102F0_0001",
+      "value": "(Is that Kaito and Miu? Have they made any\nheadway finding that ghost?)"
+    },
+    {
+      "key": "EP50_E13S02R001F0_0001",
+      "value": "(There’s Saki. Has she steeled herself for\nthe final battle ahead?)"
+    },
+    {
+      "key": "EP50_E13S02R003F0_0001",
+      "value": "(It’s Kaito...and he’s itching for a fight.)"
+    },
+    {
+      "key": "EP50_E13S02R006F0_0001",
+      "value": "(There’s the professor... Should I talk to\nhim?)"
+    },
+    {
+      "key": "EP50_E13S02R015F0_0001",
+      "value": "(Aoi... What could she be doing?)"
+    },
+    {
+      "key": "EP50_E13S02R050F0_0001",
+      "value": "(Minoru’s with Ryo... What’re they doing?)"
+    },
+    {
+      "key": "EP50_E13S02R073F0_0001",
+      "value": "(Shuuji’s with Miu... I wonder if either of\nthem are ready for the final battle?)"
+    },
+    {
+      "key": "EP50_E13S18R011F0_0001",
+      "value": "(Nothing else to do here. Should I move on?)"
+    },
+    {
+      "key": "EP50_E13S22R011F0_0001",
+      "value": "(The final battle’s just around the corner.\nShould I talk to everyone beforehand?)"
+    },
+    {
+      "key": "EP50_E13S22R011F1_0001",
+      "value": "(I should look over the murals again...)"
+    },
+    {
+      "key": "EP50_E13S24R058F0_0001",
+      "value": "(It’s finally here: the final battle. Should\nI talk with everyone?)"
+    },
+    {
+      "key": "EP50_R000E001_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R000E002_0001",
+      "value": "{0} obtained."
+    },
+    {
+      "key": "EP50_R000E003_0001",
+      "value": "(There’s something here. I can feel it.)"
+    },
+    {
+      "key": "EP50_R000E004_0001",
+      "value": "(That shadow...)"
+    },
+    {
+      "key": "EP50_R000E005_0001",
+      "value": "(What do I do?)"
+    },
+    {
+      "key": "EP50_R000E006_0001",
+      "value": "Fight"
+    },
+    {
+      "key": "EP50_R000E007_0001",
+      "value": "Run"
+    },
+    {
+      "key": "EP50_R000E008_0001",
+      "value": "(Hmm... Maybe I just imagined it.)"
+    },
+    {
+      "key": "EP50_R000E009_0001",
+      "value": "(Hmm? I feel like there’s something here...\nShould I check with my camera?)"
+    },
+    {
+      "key": "EP50_R001E001_0001",
+      "value": "(This is the spitting image of our campsite.\nThat can’t be a coincidence.)"
+    },
+    {
+      "key": "EP50_R001E001_0002",
+      "value": "(It looks like decades have passed here...\nWhat’s going on?)"
+    },
+    {
+      "key": "EP50_R001E002_0001",
+      "value": "(The more I look around, the more like the\ncampsite it seems... This is too creepy.)"
+    },
+    {
+      "key": "EP50_R001E002_0002",
+      "value": "(The inside’s practically falling apart. We’d\nbetter be careful if we go in there.)"
+    },
+    {
+      "key": "EP50_R001E003_0001",
+      "value": "The spiderwebs have totally disappeared. Does\nthat mean this place is safe now?"
+    },
+    {
+      "key": "EP50_R001E003_0002",
+      "value": "Yeah, I’d say so!"
+    },
+    {
+      "key": "EP50_R001E003_0003",
+      "value": "(So this is our base for now? They say home’s\nwhere you make it, but this’ll be tough.)"
+    },
+    {
+      "key": "EP50_R001E004_0001",
+      "value": "Almost time to say goodbye to the school...\nI don’t know how to feel about it."
+    },
+    {
+      "key": "EP50_R001E004_0002",
+      "value": "You don’t know?"
+    },
+    {
+      "key": "EP50_R001E004_0003",
+      "value": "This has been a part of our whole time here.\nIt’ll be kinda sad to part from it, you know?"
+    },
+    {
+      "key": "EP50_R002E001_0001",
+      "value": "(This building is like an old school they’d\nhave in the countryside.)"
+    },
+    {
+      "key": "EP50_R002E001_0002",
+      "value": "(Seems like it isn’t used as a school at all\nthese days...)"
+    },
+    {
+      "key": "EP50_R002E002_0001",
+      "value": "Oh man..."
+    },
+    {
+      "key": "EP50_R002E002_0002",
+      "value": "What is it, Takuma?"
+    },
+    {
+      "key": "EP50_R002E002_0003",
+      "value": "It’s just been a few days, but it feels so\nfamiliar... I’m kind of relieved, somehow."
+    },
+    {
+      "key": "EP50_R002E003_0001",
+      "value": "(This looks like the car the volunteers rode\nin on.)"
+    },
+    {
+      "key": "EP50_R002E003_0002",
+      "value": "(Lots of people came to this camp besides the\nstudents who participated.)"
+    },
+    {
+      "key": "EP50_R002E004_0001",
+      "value": "(The bus seats were bigger and comfier than\nI’d expected them to be.)"
+    },
+    {
+      "key": "EP50_R002E004_0002",
+      "value": "(Even so, everyone was pretty exhausted after\nsuch a long bus ride.)"
+    },
+    {
+      "key": "EP50_R002E005_0001",
+      "value": "(Agumon’s totally captivated by the bus.\nMaybe they don’t have them in his world?)"
+    },
+    {
+      "key": "EP50_R002E005_0002",
+      "value": "(If I’m honest... I’d love to hop on this bus\nand head straight home.)"
+    },
+    {
+      "key": "EP50_R002E005_0003",
+      "value": "(Still... Better take a rain check for now.)"
+    },
+    {
+      "key": "EP50_R003E001_0001",
+      "value": "(The gym is just beyond here, but the door is\ngummed up by spiderwebs.)"
+    },
+    {
+      "key": "EP50_R003E001_0002",
+      "value": "(The threads are sticky and elastic, so we\ncan’t cut them easily.)"
+    },
+    {
+      "key": "EP50_R003E002_0001",
+      "value": "This white stuff is spider silk?!"
+    },
+    {
+      "key": "EP50_R003E002_0002",
+      "value": "What kind of spider could build a web big\nenough to plaster the doors and walls?"
+    },
+    {
+      "key": "EP50_R003E002_0003",
+      "value": "Just thinking about it gives me shivers..."
+    },
+    {
+      "key": "EP50_R005E001_0001",
+      "value": "(The letters are so faded, I can’t make out\nwhat the sign is supposed to say.)"
+    },
+    {
+      "key": "EP50_R005E001_0002",
+      "value": "(It must be really old.)"
+    },
+    {
+      "key": "EP50_R005E002_0001",
+      "value": "I remember heading to the tunnel down this\nroad. Everything started back then..."
+    },
+    {
+      "key": "EP50_R005E002_0002",
+      "value": "I remember heading to the tunnel down this\nroad. Everything started back then..."
+    },
+    {
+      "key": "EP50_R005E002_0003",
+      "value": "Maybe you could say that? Not a bad way to\nthink about things, I guess."
+    },
+    {
+      "key": "EP50_R005E003_0001",
+      "value": "(Seeing it with my own eyes, it’s more\nimpressive than I’d imagined. Pretty cool.)"
+    },
+    {
+      "key": "EP50_R005E003_0002",
+      "value": "(It’s not like I want to become a cop, but\nI’d like to try riding in one sometime.)"
+    },
+    {
+      "key": "EP50_R005E004_0001",
+      "value": "(I wish we could talk to the police, given\nthis situation we’ve been dropped into.)"
+    },
+    {
+      "key": "EP50_R005E004_0002",
+      "value": "(Still, they’d probably blow us off if we\ntried. Nothing would come of it.)"
+    },
+    {
+      "key": "EP50_R005E005_0001",
+      "value": "(The tape says “KEEP OUT.” Who knows what’s\ngoing on past here.)"
+    },
+    {
+      "key": "EP50_R005E005_0002",
+      "value": "(Feels kind of surreal to me. Maybe I’ve\nwatched too many crime shows.)"
+    },
+    {
+      "key": "EP50_R005E006_0001",
+      "value": "(If we’d only obeyed this, we wouldn’t have\nbeen whisked off to another world.)"
+    },
+    {
+      "key": "EP50_R005E006_0002",
+      "value": "(We ended up somewhere we really shouldn’t\nhave entered in the first place...)"
+    },
+    {
+      "key": "EP50_R005E007_0001",
+      "value": "(The closed road sign set up here by the\npolice doesn’t offer any details.)"
+    },
+    {
+      "key": "EP50_R005E007_0002",
+      "value": "(The people around here say that a landslide\nhappened up the road.)"
+    },
+    {
+      "key": "EP50_R006E001_0001",
+      "value": "(The grand piano is covered in dust.)"
+    },
+    {
+      "key": "EP50_R006E001_0002",
+      "value": "(Looks like an antique to me, but the sound\nis clear and crisp.)"
+    },
+    {
+      "key": "EP50_R006E002_0001",
+      "value": "(Miyuki played the piano here a lot. Not\nconsciously. Like, through muscle memory.)"
+    },
+    {
+      "key": "EP50_R006E002_0002",
+      "value": "(Even now, I feel like I can hear her song\nwhen I close my eyes.)"
+    },
+    {
+      "key": "EP50_R006E003_0001",
+      "value": "No one’s here... I guess that’s only natural."
+    },
+    {
+      "key": "EP50_R006E003_0002",
+      "value": "Takuma? Are you thinking about Miyuki?"
+    },
+    {
+      "key": "EP50_R006E003_0003",
+      "value": "Yeah, like...how we have to save her, so we\ncan hear her play in here again."
+    },
+    {
+      "key": "EP50_R006E004_0001",
+      "value": "(An accordion’s been thrown on top of the\ndesk. Parts of the bellows are torn.)"
+    },
+    {
+      "key": "EP50_R006E004_0002",
+      "value": "(How long ago was it left here? I couldn’t\nguess if I tried.)"
+    },
+    {
+      "key": "EP50_R006E005_0001",
+      "value": "(The drums have been placed haphazardly. All\nof the drumheads are discolored.)"
+    },
+    {
+      "key": "EP50_R006E005_0002",
+      "value": "(I’m guessing they haven’t been used for\nquite a while.)"
+    },
+    {
+      "key": "EP50_R006E006_0001",
+      "value": "(All of the portraits on the wall look\nmusty and faded.)"
+    },
+    {
+      "key": "EP50_R006E006_0002",
+      "value": "(Some of them are tilted or have fallen to\nthe floor.)"
+    },
+    {
+      "key": "EP50_R007E001_0001",
+      "value": "(Cherry trees lining the path are all in full\nbloom, with gorgeous petals fluttering down.)"
+    },
+    {
+      "key": "EP50_R007E001_0002",
+      "value": "(I’d love to just sit here and gaze at them\nfor a while.)"
+    },
+    {
+      "key": "EP50_R007E002_0001",
+      "value": "Wooow, lookit that! The petals are dancing\naround all pretty-like!"
+    },
+    {
+      "key": "EP50_R007E002_0002",
+      "value": "Aren’t they! I’m glad I got to see this view\nagain..."
+    },
+    {
+      "key": "EP50_R007E002_0003",
+      "value": "(Those two look so happy. Maybe I should try\nto forget our problems for a while, too.)"
+    },
+    {
+      "key": "EP50_R007E003_0001",
+      "value": "(If I listen closely, I can hear the sound of\na babbling brook.)"
+    },
+    {
+      "key": "EP50_R007E003_0002",
+      "value": "(You’d never hear something like that in the\ncity. It’s sort of comforting.)"
+    },
+    {
+      "key": "EP50_R008E001_0001",
+      "value": "(It’s dark inside the tunnel. I can’t see\na thing.)"
+    },
+    {
+      "key": "EP50_R008E001_0002",
+      "value": "(It looks pretty old. I’m a little scared to\ngo inside.)"
+    },
+    {
+      "key": "EP50_R009E001_0001",
+      "value": "(Why are the ropes we saw decorating the\nshrine in a tunnel like this?)"
+    },
+    {
+      "key": "EP50_R009E001_0002",
+      "value": "(It feels kinda sinister. Really creeps me\nout.)"
+    },
+    {
+      "key": "EP50_R009E002_0001",
+      "value": "(These ropes... They’re enclosing ropes, used\nto ward off evil.)"
+    },
+    {
+      "key": "EP50_R009E002_0002",
+      "value": "(The way they’re placed makes me think it’s\nsome sort of barrier...)"
+    },
+    {
+      "key": "EP50_R009E002_0003",
+      "value": "(This is probably a boundary line between the\nworld we’re from and Agumon’s world.)"
+    },
+    {
+      "key": "EP50_R010E001_0001",
+      "value": "(A shrine built in the middle of a spooky\nforest. Really makes you wanna stay away.)"
+    },
+    {
+      "key": "EP50_R010E001_0002",
+      "value": "(Guess it’s what you’d call “solemn”?)"
+    },
+    {
+      "key": "EP50_R010E002_0001",
+      "value": "(This shrine is pretty bizarre, even for this\nstrange world.)"
+    },
+    {
+      "key": "EP50_R010E002_0002",
+      "value": "(Is there some special meaning to it?)"
+    },
+    {
+      "key": "EP50_R010E002_0003",
+      "value": "(Maybe it hides some dark secret of this\nworld...)"
+    },
+    {
+      "key": "EP50_R010E003_0001",
+      "value": "Do you remember, Takuma? This is the spot\nwhere we first met!"
+    },
+    {
+      "key": "EP50_R010E003_0002",
+      "value": "Of course, I’d never forget that. You were\nKoromon back then, though..."
+    },
+    {
+      "key": "EP50_R010E003_0003",
+      "value": "I couldn’t believe my eyes. I was seriously\nfreaking out."
+    },
+    {
+      "key": "EP50_R010E004_0001",
+      "value": "(I haven’t seen such a big, impressive gate\nanywhere else.)"
+    },
+    {
+      "key": "EP50_R010E004_0002",
+      "value": "(They say such gates connect the worlds of\ngods and men. What gods could there be here?)"
+    },
+    {
+      "key": "EP50_R011E001_0001",
+      "value": "(Looks like there’s something on the other\nside of the rock gate.)"
+    },
+    {
+      "key": "EP50_R011E001_0002",
+      "value": "(Seems like a cave inside.)"
+    },
+    {
+      "key": "EP50_R011E002_0001",
+      "value": "(Agumon seems pretty interested in this small\nshrine. It almost seems like a model.)"
+    },
+    {
+      "key": "EP50_R011E002_0002",
+      "value": "(Still, why would there be another shrine in\na place like this, far from other shrines?)"
+    },
+    {
+      "key": "EP50_R011E003_0001",
+      "value": "(Animal-like pictures are depicted with\na sort of text I can’t make out at all.)"
+    },
+    {
+      "key": "EP50_R011E004_0001",
+      "value": "(Another kind of text is written here,\ndifferent from that on the wall to the left.)"
+    },
+    {
+      "key": "EP50_R011E004_0002",
+      "value": "(What could it mean?)"
+    },
+    {
+      "key": "EP50_R011E005_0001",
+      "value": "(The drawings continue, almost like a picture\nscroll.)"
+    },
+    {
+      "key": "EP50_R011E005_0002",
+      "value": "(Is there some sort of story written here?)"
+    },
+    {
+      "key": "EP50_R011E006_0001",
+      "value": "It keeps going down on the lower floor!"
+    },
+    {
+      "key": "EP50_R011E006_0002",
+      "value": "I think it keeps going farther in?"
+    },
+    {
+      "key": "EP50_R011E007_0001",
+      "value": "(The drawings keep going here, from the wall\non the other side.)"
+    },
+    {
+      "key": "EP50_R011E007_0002",
+      "value": "(It’s like one big mural.)"
+    },
+    {
+      "key": "EP50_R011E008_0001",
+      "value": "(There are depictions of things resembling\nanimals here, too.)"
+    },
+    {
+      "key": "EP50_R011E009_0001",
+      "value": "(These look like humans.)"
+    },
+    {
+      "key": "EP50_R011E009_0002",
+      "value": "(This is pretty weird.)"
+    },
+    {
+      "key": "EP50_R011E010_0001",
+      "value": ""
+    },
+    {
+      "key": "EP50_R011E010_0002",
+      "value": ""
+    },
+    {
+      "key": "EP50_R012E001_0001",
+      "value": "(Red spider lilies bloom during the autumn\nequinox, so I’ve heard.)"
+    },
+    {
+      "key": "EP50_R012E001_0002",
+      "value": "(But it’s spring now... Why would so many of\nthem be blooming at a time like this?)"
+    },
+    {
+      "key": "EP50_R013E001_0001",
+      "value": "(I don’t see anything that resembles a path\naround here. It’d be easy to get lost.)"
+    },
+    {
+      "key": "EP50_R014E001_0001",
+      "value": "(This is pretty clear cut for just a game\ntrail. Did humans have a hand in this?)"
+    },
+    {
+      "key": "EP50_R014E001_0002",
+      "value": "(The path seems to be heading toward the\nsummit.)"
+    },
+    {
+      "key": "EP50_R015E001_0001",
+      "value": "(Small text is written below the pie chart.)"
+    },
+    {
+      "key": "EP50_R015E001_0002",
+      "value": "(It seems like a date of some kind, but the\nprint is too faded to read properly.)"
+    },
+    {
+      "key": "EP50_R015E002_0001",
+      "value": "Whoa! What the...? This place is covered in\nspiderwebs!"
+    },
+    {
+      "key": "EP50_R015E002_0002",
+      "value": "They’re all so sticky-icky!"
+    },
+    {
+      "key": "EP50_R015E002_0003",
+      "value": "Even if we find provisions, there’s no way\nwe’ll be able to eat here... Man."
+    },
+    {
+      "key": "EP50_R015E003_0001",
+      "value": "Will we start eating in here? I doubt we’ll\nbe able to use it for that for a while..."
+    },
+    {
+      "key": "EP50_R015E003_0002",
+      "value": "We can all eat together here! I can’t wait!"
+    },
+    {
+      "key": "EP50_R015E003_0003",
+      "value": "Haha... I wish I was as happy-go-lucky as\nyou, Agumon."
+    },
+    {
+      "key": "EP50_R015E004_0001",
+      "value": "Guess we can’t eat here anymore, huh..."
+    },
+    {
+      "key": "EP50_R015E004_0002",
+      "value": "Are you sad, Takuma? I’m feeling a little sad\nmyself."
+    },
+    {
+      "key": "EP50_R015E004_0003",
+      "value": "Yeah, maybe a little bit... It was just a\nshort time, but we made lots of memories."
+    },
+    {
+      "key": "EP50_R015E005_0001",
+      "value": "(There’s plenty of food I’d never see on my\nschool’s menus.)"
+    },
+    {
+      "key": "EP50_R015E005_0002",
+      "value": "(Older items are posted up here, too.)"
+    },
+    {
+      "key": "EP50_R015E006_0001",
+      "value": "(The pots and silverware are old, and look\nlike toys. Yet they’re surprisingly clean.)"
+    },
+    {
+      "key": "EP50_R015E007_0001",
+      "value": "(The room looks pretty tidy at a glance, but\nthere’s still dust here and there.)"
+    },
+    {
+      "key": "EP50_R015E007_0002",
+      "value": "(Looking closely, there’s a little dirt all\nover... Can we really use this tableware?)"
+    },
+    {
+      "key": "EP50_R015E008_0001",
+      "value": "(Some of the food carts lined up here have\nwheels missing.)"
+    },
+    {
+      "key": "EP50_R015E008_0002",
+      "value": "(We should be careful when we use them.)"
+    },
+    {
+      "key": "EP50_R016E001_0001",
+      "value": "(I’d like to check the news or something, but\nthe remote’s nowhere to be found.)"
+    },
+    {
+      "key": "EP50_R016E001_0002",
+      "value": "(Guess someone forgot to put it back...)"
+    },
+    {
+      "key": "EP50_R016E002_0001",
+      "value": "This takes me back..."
+    },
+    {
+      "key": "EP50_R016E002_0002",
+      "value": "Back? Back to where?"
+    },
+    {
+      "key": "EP50_R016E002_0003",
+      "value": "I mean, the first night we ate here together\nfeels like forever ago."
+    },
+    {
+      "key": "EP50_R016E003_0001",
+      "value": "(Women’s fashion magazines, children’s\npicture books, and comics...)"
+    },
+    {
+      "key": "EP50_R016E003_0002",
+      "value": "(There’s nothing odd about any of them, and\nnone contain any useful information.)"
+    },
+    {
+      "key": "EP50_R017E001_0001",
+      "value": "(The door to the underground waterway has\na sturdy lock. We can’t open it.)"
+    },
+    {
+      "key": "EP50_R017E002_0001",
+      "value": "We finally found it, and the door won’t even\nbudge!"
+    },
+    {
+      "key": "EP50_R017E002_0002",
+      "value": "Yeah... Both the iron bars and the lock seem\ntoo tough for us to break."
+    },
+    {
+      "key": "EP50_R017E002_0003",
+      "value": "(I wonder where the key could be...)"
+    },
+    {
+      "key": "EP50_R018E001_0001",
+      "value": "(A large iron bridge has been built between\nthe mountains... Seems odd to me.)"
+    },
+    {
+      "key": "EP50_R018E001_0002",
+      "value": "(There shouldn’t be any roads for cars to\ntravel on in the mountain trail we used.)"
+    },
+    {
+      "key": "EP50_R018E002_0001",
+      "value": "What a view... From here, we can deal with\nany enemies that come close."
+    },
+    {
+      "key": "EP50_R018E002_0002",
+      "value": "What the heck is that big old thing, Takuma?\nDoesn’t look like any bridge I’ve ever seen."
+    },
+    {
+      "key": "EP50_R018E002_0003",
+      "value": "That’s an iron bridge. It’s built tough⁠—not\nfor humans, but for cars and things to cross."
+    },
+    {
+      "key": "EP50_R019E001_0001",
+      "value": "(A dilapidated radio tower. Doesn’t seem to\nbe functional.)"
+    },
+    {
+      "key": "EP50_R019E001_0002",
+      "value": "(I wonder if my phone gets a signal here...\nHmm, just like I thought. No good.)"
+    },
+    {
+      "key": "EP50_R020E001_0001",
+      "value": "(It’s a cable car. This will take us to the\nend of the ropeway if we hop on.)"
+    },
+    {
+      "key": "EP50_R020E001_0002",
+      "value": "(The wire connects to the radio tower on top\nof the hill.)"
+    },
+    {
+      "key": "EP50_R020E002_0001",
+      "value": "(It’s the cable car. Looks pretty old, but\nI don’t think it’s broken.)"
+    },
+    {
+      "key": "EP50_R020E002_0002",
+      "value": "(From here, it looks like this wire connects\nto the radio tower, if I’m not mistaken.)"
+    },
+    {
+      "key": "EP50_R020E003_0001",
+      "value": "(It’s the cable car’s control panel. We can\nuse this to head up the mountain.)"
+    },
+    {
+      "key": "EP50_R020E004_0001",
+      "value": "(Is this the cable car’s control panel?)"
+    },
+    {
+      "key": "EP50_R020E004_0002",
+      "value": "(If we can get the power going, this cable\ncar should move on its own.)"
+    },
+    {
+      "key": "EP50_R020E005_0001",
+      "value": "It’s a cable car! I’ve never seen a real one\nwith my own eyes."
+    },
+    {
+      "key": "EP50_R020E005_0002",
+      "value": "It’s so big and tall! I really like this\nthing."
+    },
+    {
+      "key": "EP50_R020E005_0003",
+      "value": "(If Agumon likes it that much, we can come\nride it for fun when we’re free.)"
+    },
+    {
+      "key": "EP50_R020E006_0001",
+      "value": "(I don’t really like coming here... It\nreminds me of Ryo.)"
+    },
+    {
+      "key": "EP50_R020E006_0002",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP50_R020E006_0003",
+      "value": "Sorry, Agumon. Let’s take a quick look around\nhere and head somewhere else."
+    },
+    {
+      "key": "EP50_R021E001_0001",
+      "value": "(The valley’s river. Clean water flows\nthrough it.)"
+    },
+    {
+      "key": "EP50_R021E001_0002",
+      "value": "(Can we drink this? I heard unboiled water is\nbad for you.)"
+    },
+    {
+      "key": "EP50_R022E001_0001",
+      "value": "(A large bridge spans the deep valley. It\nlooks pretty run-down to me.)"
+    },
+    {
+      "key": "EP50_R022E001_0002",
+      "value": "(Holes have opened up all over it. Better be\ncareful if we use it to cross.)"
+    },
+    {
+      "key": "EP50_R022E002_0001",
+      "value": "(A large bridge spans the deep valley. It\nlooks pretty run-down to me.)"
+    },
+    {
+      "key": "EP50_R022E002_0002",
+      "value": "(Holes have opened up all over it. Better be\ncareful if we use it to cross.)"
+    },
+    {
+      "key": "EP50_R023E001_0001",
+      "value": "What’s that building, Takuma?"
+    },
+    {
+      "key": "EP50_R023E001_0002",
+      "value": "Maybe it’s where people control this place?\nDunno. I don’t know a lot about dams."
+    },
+    {
+      "key": "EP50_R023E001_0003",
+      "value": "Ohhh, I get it. Still, I don’t sense anyone\nover there."
+    },
+    {
+      "key": "EP50_R023E002_0001",
+      "value": "Whoa, would you look at this! I’ve never been\non top of a dam before."
+    },
+    {
+      "key": "EP50_R023E002_0002",
+      "value": "Look at all the water down there, Takuma!"
+    },
+    {
+      "key": "EP50_R023E002_0003",
+      "value": "Oh hey, you’re right! It’s so deep... I feel\nlike I’m looking at a lake."
+    },
+    {
+      "key": "EP50_R024E001_0001",
+      "value": "(From here, I can see....an amusement park,\nI think?)"
+    },
+    {
+      "key": "EP50_R024E001_0002",
+      "value": "There’s a real sparkly spot in the distance\nthere!"
+    },
+    {
+      "key": "EP50_R024E001_0003",
+      "value": "A sparkly spot, huh? The decorations do\nremind me of blinking lights."
+    },
+    {
+      "key": "EP50_R024E002_0001",
+      "value": "Look, Takuma! The amusement park’s all lit\nup!"
+    },
+    {
+      "key": "EP50_R024E002_0002",
+      "value": "You’re right. The castle there is so huge,\nbut it looks so small from here."
+    },
+    {
+      "key": "EP50_R024E003_0001",
+      "value": "(There’s another island pretty close to us.)"
+    },
+    {
+      "key": "EP50_R024E003_0002",
+      "value": "(Other than that, all I can see is the sky\nmeeting the sea.)"
+    },
+    {
+      "key": "EP50_R024E004_0001",
+      "value": "(I see an island...the one on the other side\nof the underground waterway.)"
+    },
+    {
+      "key": "EP50_R024E004_0002",
+      "value": "(The other island close to the school island\nhas the shopping district and apartments.)"
+    },
+    {
+      "key": "EP50_R025E001_0001",
+      "value": "(The amusement park’s unfamiliar name is on\na gate on the verge of collapse.)"
+    },
+    {
+      "key": "EP50_R025E001_0002",
+      "value": "(Some time must have passed since it was\nabandoned.)"
+    },
+    {
+      "key": "EP50_R025E002_0001",
+      "value": "This is...creepier than I’d imagined. Or\nmaybe horrifying is more like it..."
+    },
+    {
+      "key": "EP50_R025E002_0002",
+      "value": "Really? I think it looks pretty fun!"
+    },
+    {
+      "key": "EP50_R025E002_0003",
+      "value": "Places like this are usually super fun!\nThat’s why it’s scary to see it like that."
+    },
+    {
+      "key": "EP50_R025E003_0001",
+      "value": "You think Jijimon and the others are doing\nall right?"
+    },
+    {
+      "key": "EP50_R025E003_0002",
+      "value": "Haha, we just saw them! I’m sure they’re as\ngood as ever."
+    },
+    {
+      "key": "EP50_R025E003_0003",
+      "value": "Biyomon and the rest have so much energy,\nI bet they’re causing Jijimon some grief."
+    },
+    {
+      "key": "EP50_R025E004_0001",
+      "value": "(This is smaller and cuter than the Ferris\nwheels I know.)"
+    },
+    {
+      "key": "EP50_R025E004_0002",
+      "value": "(I’d like to ride it, but who knows what\nmight happen. I’d better not.)"
+    },
+    {
+      "key": "EP50_R025E005_0001",
+      "value": "(This small box with the broken glass seems\nto be a ticket booth.)"
+    },
+    {
+      "key": "EP50_R025E005_0002",
+      "value": "(No one’s inside, of course.)"
+    },
+    {
+      "key": "EP50_R025E006_0001",
+      "value": "(A castle right out of a fairy tale. Or a\nhaunted mansion, the way it’s falling apart.)"
+    },
+    {
+      "key": "EP50_R025E006_0002",
+      "value": "(I’m sure it was a pristine and popular\nattraction when it first opened.)"
+    },
+    {
+      "key": "EP50_R025E007_0001",
+      "value": "(Jijimon and the kiddies live in the castle\npast the gate.)"
+    },
+    {
+      "key": "EP50_R025E007_0002",
+      "value": "(There’s plenty of space in there, and they\ncan stay safe. I’m glad they’re in there.)"
+    },
+    {
+      "key": "EP50_R026E001_0001",
+      "value": "(Treasure chests have been placed about\nintentionally, probably as decorations.)"
+    },
+    {
+      "key": "EP50_R026E001_0002",
+      "value": "(Maybe a monster would jump out if you opened\none... Hmm, now I’m just imagining things.)"
+    },
+    {
+      "key": "EP50_R026E002_0001",
+      "value": "Wow... Look at the attention to detail..."
+    },
+    {
+      "key": "EP50_R026E002_0002",
+      "value": "It’s so big and sparkly! Nothing like the\nschool."
+    },
+    {
+      "key": "EP50_R026E002_0003",
+      "value": "It is a castle, after all... Not a real one,\nbut still."
+    },
+    {
+      "key": "EP50_R027E001_0001",
+      "value": "(The stairs to the upper floor have fallen\napart. Going up seems pretty dangerous.)"
+    },
+    {
+      "key": "EP50_R027E001_0002",
+      "value": "(We’ll have to avoid this and find another\nway up when we need to get there.)"
+    },
+    {
+      "key": "EP50_R027E002_0001",
+      "value": "(The treasure chests are made so that the\nlids don’t actually open.)"
+    },
+    {
+      "key": "EP50_R027E002_0002",
+      "value": "(They’re just for show, I guess.)"
+    },
+    {
+      "key": "EP50_R028E001_0001",
+      "value": "(The mural past the throne depicts the view\nfrom the entrance to the park.)"
+    },
+    {
+      "key": "EP50_R028E001_0002",
+      "value": "(The scene must be from when the park opened.\nIt’s faded now, and seems gloomy.)"
+    },
+    {
+      "key": "EP50_R028E002_0001",
+      "value": "(A toy robot is on the ground by the window.)"
+    },
+    {
+      "key": "EP50_R028E002_0002",
+      "value": "(Everything from the neck down is broken.\nI don’t think it’d be easy to fix it.)"
+    },
+    {
+      "key": "EP50_R028E003_0001",
+      "value": "(I peeped into a treasure chest with an open\nlid, but the inside was empty.)"
+    },
+    {
+      "key": "EP50_R028E003_0002",
+      "value": "(Dust is coating the inside of the box, so it\nmust have been opened some time ago.)"
+    },
+    {
+      "key": "EP50_R028E004_0001",
+      "value": "(The birdcage is bent and twisted.)"
+    },
+    {
+      "key": "EP50_R028E004_0002",
+      "value": "(I don’t see any bird toys or trinkets around\nhere.)"
+    },
+    {
+      "key": "EP50_R029E001_0001",
+      "value": "(The rusty lattice door is shut tight with\na sturdy lock.)"
+    },
+    {
+      "key": "EP50_R029E001_0002",
+      "value": "(We can’t go forward without a key.)"
+    },
+    {
+      "key": "EP50_R029E002_0001",
+      "value": "(The dirty bed lacks any sort of mat, and\ncreaks loudly when you sit on it.)"
+    },
+    {
+      "key": "EP50_R029E002_0002",
+      "value": "(Getting a good rest on this thing is a tall\norder.)"
+    },
+    {
+      "key": "EP50_R031E001_0001",
+      "value": "(The path continues deeper within.)"
+    },
+    {
+      "key": "EP50_R031E001_0002",
+      "value": "(Lights are scattered here and there, but it\nstill makes me nervous.)"
+    },
+    {
+      "key": "EP50_R031E002_0001",
+      "value": "(Who knew we’d end up having to go through\na place like this?)"
+    },
+    {
+      "key": "EP50_R031E002_0002",
+      "value": "(Everyone’s on edge, especially Shuuji. It’s\nhard to stay cheerful in this gloom.)"
+    },
+    {
+      "key": "EP50_R031E003_0001",
+      "value": "(The enemy stronghold is past this waterway.\nA way to go home might await us inside.)"
+    },
+    {
+      "key": "EP50_R031E003_0002",
+      "value": "(In other words, the odds of us clashing with\nthe enemy are pretty high.)"
+    },
+    {
+      "key": "EP50_R031E003_0003",
+      "value": "(We’d better be prepared going forward.)"
+    },
+    {
+      "key": "EP50_R032E001_0001",
+      "value": "(The path keeps on going and going.)"
+    },
+    {
+      "key": "EP50_R032E001_0002",
+      "value": "(The ground is uneven. Better keep an eye on\nour footing.)"
+    },
+    {
+      "key": "EP50_R032E002_0001",
+      "value": "(There’s a path to the left as well. I’m\ncurious to see where it goes.)"
+    },
+    {
+      "key": "EP50_R032E002_0002",
+      "value": "(We’ll be in trouble if we get lost here.\nBest not move around carelessly.)"
+    },
+    {
+      "key": "EP50_R033E001_0001",
+      "value": "(A long stairway with twists and turns.\nAscending this will take us to the surface.)"
+    },
+    {
+      "key": "EP50_R033E002_0001",
+      "value": "(The waterway goes even farther in, it would\nseem.)"
+    },
+    {
+      "key": "EP50_R033E002_0002",
+      "value": "(There isn’t much light ahead. We should go\nto the surface to investigate.)"
+    },
+    {
+      "key": "EP50_R034E001_0001",
+      "value": "(You don’t really see cars like this anymore.\nIt’s a bit of an older model.)"
+    },
+    {
+      "key": "EP50_R034E001_0002",
+      "value": "(It’s falling apart, and one of the tires has\ncome off. It’d be hard to get it running.)"
+    },
+    {
+      "key": "EP50_R034E002_0001",
+      "value": "(A bicycle... The frame is rusted, and all\nthe air is out of the tires.)"
+    },
+    {
+      "key": "EP50_R034E002_0002",
+      "value": "(Maybe I could ride it? I could try to fix\nthe tires if I found an air pump.)"
+    },
+    {
+      "key": "EP50_R034E002_0003",
+      "value": "(Ah... Shoot, it’s locked and the lock is\nrusted shut. I won’t be able to move this.)"
+    },
+    {
+      "key": "EP50_R034E003_0001",
+      "value": "What’s with this place? There are so many\ntall buildings!"
+    },
+    {
+      "key": "EP50_R034E003_0002",
+      "value": "This is an apartment complex. It’s like\na bunch of human homes, all together."
+    },
+    {
+      "key": "EP50_R034E003_0003",
+      "value": "(Not that humans can live here when it’s in\nthis condition...)"
+    },
+    {
+      "key": "EP50_R035E001_0001",
+      "value": "(An ice cream freezer. It’s topped with\na metal cover.)"
+    },
+    {
+      "key": "EP50_R035E002_0001",
+      "value": "What’s that red and blue thingy, Takuma?"
+    },
+    {
+      "key": "EP50_R035E002_0002",
+      "value": "That’s a barber shop sign. Usually it turns\nround and round."
+    },
+    {
+      "key": "EP50_R035E002_0003",
+      "value": "With that twirly design? I bet it’d make my\nhead spin."
+    },
+    {
+      "key": "EP50_R035E003_0001",
+      "value": "(It says “Fifth Avenue.” Must be the name of\nthe shopping district.)"
+    },
+    {
+      "key": "EP50_R035E003_0002",
+      "value": "(Sounds like a name you’d hear in my\nworld...)"
+    },
+    {
+      "key": "EP50_R035E003_0003",
+      "value": "(The name is too run-of-the-mill. I can’t\nglean any info from it.)"
+    },
+    {
+      "key": "EP50_R035E004_0001",
+      "value": "(So many stores here. This must have been\na shopping district.)"
+    },
+    {
+      "key": "EP50_R035E004_0002",
+      "value": "(The decrepit and busted parts aside, it’s\ngot a real retro feel.)"
+    },
+    {
+      "key": "EP50_R035E004_0003",
+      "value": "(I wonder if humans lived around here?)"
+    },
+    {
+      "key": "EP50_R037E001_0001",
+      "value": "A rotary phone... I’ve seen one on TV, but\nthis is the first one I’ve seen in real life."
+    },
+    {
+      "key": "EP50_R037E001_0002",
+      "value": "This’s fun, Takuma! You can spin and spin\nthis part, and it goes back where it started!"
+    },
+    {
+      "key": "EP50_R037E001_0003",
+      "value": "(Would’ve been nice if the phone actually\nconnected to someplace.)"
+    },
+    {
+      "key": "EP50_R037E002_0001",
+      "value": "(This is one of those cathode ray tube TVs.\nThe screen is so small, and it’s so bulky!)"
+    },
+    {
+      "key": "EP50_R037E002_0002",
+      "value": "(A vase, a photo frame... I never thought you\ncould place things on top of a television.)"
+    },
+    {
+      "key": "EP50_R037E003_0001",
+      "value": "(The siblings in this photo are the spitting\nimage of Miyuki and Haru.)"
+    },
+    {
+      "key": "EP50_R037E003_0002",
+      "value": "(Could those two be hiding something?)"
+    },
+    {
+      "key": "EP50_R037E004_0001",
+      "value": "(This room is pretty old-school.)"
+    },
+    {
+      "key": "EP50_R037E004_0002",
+      "value": "(It’s a little sad to see everything falling\napart like this.)"
+    },
+    {
+      "key": "EP50_R038E001_0001",
+      "value": "(Is that a control room? Unlike the one\nabove, this one looks prefabricated.)"
+    },
+    {
+      "key": "EP50_R038E001_0002",
+      "value": "(Let’s see... Like I thought, no one’s\ninside.)"
+    },
+    {
+      "key": "EP50_R038E002_0001",
+      "value": "(That’s a water outlet... A hole for the\nwater to flow through.)"
+    },
+    {
+      "key": "EP50_R038E002_0002",
+      "value": "(I’m sure it’s much more impressive when the\nwater’s gushing out.)"
+    },
+    {
+      "key": "EP50_R038E003_0001",
+      "value": "(That’s a water outlet... A hole for the\nwater to flow through.)"
+    },
+    {
+      "key": "EP50_R038E003_0002",
+      "value": "(The professor survived his fall from this\nheight, probably because of the water.)"
+    },
+    {
+      "key": "EP50_R038E004_0001",
+      "value": "(Wow, looking up from here...)"
+    },
+    {
+      "key": "EP50_R038E004_0002",
+      "value": "(You get a sense of just how big the dam\nreally is.)"
+    },
+    {
+      "key": "EP50_R039E001_0001",
+      "value": "(The library’s reception counter. A librarian\nwould usually be checking out books here.)"
+    },
+    {
+      "key": "EP50_R039E001_0002",
+      "value": "(But there’s no one here now...)"
+    },
+    {
+      "key": "EP50_R039E002_0001",
+      "value": "(The shelves are stuffed with books. None of\nthem stand out, looking at the spines.)"
+    },
+    {
+      "key": "EP50_R039E002_0002",
+      "value": "(The books are as old-school as the building.\nI wonder why?)"
+    },
+    {
+      "key": "EP50_R039E003_0001",
+      "value": "(I feel the same as when I saw this place\nfrom outside. Like I’ve seen it somewhere.)"
+    },
+    {
+      "key": "EP50_R039E003_0002",
+      "value": "(Not in this world, but back in ours. A place\njust like it.)"
+    },
+    {
+      "key": "EP50_R039E003_0003",
+      "value": "(What the heck is going on here?)"
+    },
+    {
+      "key": "EP50_R040E001_0001",
+      "value": "(The wreckage has been cut in half. I think\nit was a boat, but we can’t use it now.)"
+    },
+    {
+      "key": "EP50_R040E001_0002",
+      "value": "(If it wasn’t, we could head straight back to\nthe school...or maybe other places.)"
+    },
+    {
+      "key": "EP50_R040E002_0001",
+      "value": "(This is the way out of the underground\nwaterway we went through.)"
+    },
+    {
+      "key": "EP50_R040E002_0002",
+      "value": "(From where I’m standing, it’s just some\ncreepy cave. At least I made it through.)"
+    },
+    {
+      "key": "EP50_R040E003_0001",
+      "value": "(This is another island... One different from\nthe island with the old school.)"
+    },
+    {
+      "key": "EP50_R040E003_0002",
+      "value": "(The enemy stronghold’s here, too. I get kind\nof tense just thinking about it.)"
+    },
+    {
+      "key": "EP50_R041E001_0001",
+      "value": "(The enemy stronghold is strangely quiet. Are\nthey hiding in wait for us?)"
+    },
+    {
+      "key": "EP50_R041E002_0001",
+      "value": "(A huge factory with an imposing atmosphere.\nSo this is the enemy’s stronghold...)"
+    },
+    {
+      "key": "EP50_R041E002_0002",
+      "value": "Is Miyuki in here?"
+    },
+    {
+      "key": "EP50_R041E002_0003",
+      "value": "Yeah, she must be. We’ll save her for sure."
+    },
+    {
+      "key": "EP50_R042E001_0001",
+      "value": "(A huge conveyor belt. There’s no sign of it\nmoving at this point.)"
+    },
+    {
+      "key": "EP50_R042E001_0002",
+      "value": "(At this width, I bet it transports large\nobjects. I wonder what they made here?)"
+    },
+    {
+      "key": "EP50_R042E002_0001",
+      "value": "(A huge conveyor belt. There’s no sign of it\nmoving at this point.)"
+    },
+    {
+      "key": "EP50_R042E002_0002",
+      "value": "(At this width, I bet it transports large\nobjects. I wonder what they made here?)"
+    },
+    {
+      "key": "EP50_R043E001_0001",
+      "value": "(What a big tank. I wonder what’s inside?)"
+    },
+    {
+      "key": "EP50_R043E001_0002",
+      "value": "(I hope it’s water. Gasoline could spell\ntrouble for us.)"
+    },
+    {
+      "key": "EP50_R043E001_0003",
+      "value": "(I’d rather not fight around here.)"
+    },
+    {
+      "key": "EP50_R043E002_0001",
+      "value": "(Looks like a valve used to operate the\nmachines.)"
+    },
+    {
+      "key": "EP50_R043E003_0001",
+      "value": "(What’s this lever for? What’s it supposed to\noperate?)"
+    },
+    {
+      "key": "EP50_R044E001_0001",
+      "value": "(The sinister altar where Miyuki was being\nkept. Not that she’s there anymore.)"
+    },
+    {
+      "key": "EP50_R044E001_0002",
+      "value": "(Miyuki...)"
+    },
+    {
+      "key": "EP50_R044E002_0001",
+      "value": "(The machines are moving. These are the only\nmachines operating in this factory.)"
+    },
+    {
+      "key": "EP50_R044E002_0002",
+      "value": "(I wonder if Piedmon used them? I don’t know\nhow to turn them off, so I’ll leave them on.)"
+    },
+    {
+      "key": "EP50_R045E001_0001",
+      "value": "(The shrine was knocked over by the\nlandslide. It wouldn’t be easy to rebuild.)"
+    },
+    {
+      "key": "EP50_R045E001_0002",
+      "value": "(The shrine for worshiping Kemonogami. Is it\nconnected to Agumon and the others?)"
+    },
+    {
+      "key": "EP50_R045E001_0003",
+      "value": "(If so, it’s a bit sad to see it collapsed\nlike this.)"
+    },
+    {
+      "key": "EP50_R045E002_0001",
+      "value": "(What an awful landslide. We’d never get out\nif we’d gotten caught up in it.)"
+    },
+    {
+      "key": "EP50_R045E002_0002",
+      "value": "(One landslide can lead to others, so I’d\nbetter be careful while we investigate.)"
+    },
+    {
+      "key": "EP50_R046E001_0001",
+      "value": "(Like the professor said, this is totally\ndifferent from the park and apartments.)"
+    },
+    {
+      "key": "EP50_R046E001_0002",
+      "value": "(This place has a much more modern feel than\nthe other, more vintage structures.)"
+    },
+    {
+      "key": "EP50_R046E001_0003",
+      "value": "(A building unlike any other we’ve seen has\npopped up... There must be a reason.)"
+    },
+    {
+      "key": "EP50_R046E002_0001",
+      "value": "(I wonder... I really think I’ve seen this\nlibrary somewhere before.)"
+    },
+    {
+      "key": "EP50_R046E002_0002",
+      "value": "Hey Takuma, do you know anything about this\nbuilding?"
+    },
+    {
+      "key": "EP50_R046E002_0003",
+      "value": "Well, it’s called a library. A place where\nyou can borrow and read books."
+    },
+    {
+      "key": "EP50_R047E001_0001",
+      "value": "(What a fine bookshelf. The books are totally\ncrammed into it.)"
+    },
+    {
+      "key": "EP50_R047E001_0002",
+      "value": "(The books here are written for kids⁠—folk\ntale picture books, novels with big letters.)"
+    },
+    {
+      "key": "EP50_R047E001_0003",
+      "value": "(Might be worth coming back here to read with\nAgumon once things have calmed down.)"
+    },
+    {
+      "key": "EP50_R048E001_0001",
+      "value": "(A big old bookshelf. The books are totally\ncrammed into it.)"
+    },
+    {
+      "key": "EP50_R048E001_0002",
+      "value": "(The shelves are for novels. Tons of mystery\nwhodunit stories.)"
+    },
+    {
+      "key": "EP50_R048E001_0003",
+      "value": "(I think our library back in the real world\nhad a bunch of novels like that.)"
+    },
+    {
+      "key": "EP50_R049E001_0001",
+      "value": "(The date, the name of the person on duty\nthat day... It’s hard to tell for sure.)"
+    },
+    {
+      "key": "EP50_R050E001_0001",
+      "value": "(There’s a faint trace of chalk left over\nhere.)"
+    },
+    {
+      "key": "EP50_R050E001_0002",
+      "value": "(The date, the name of the person on duty\nthat day... It’s hard to tell for sure.)"
+    },
+    {
+      "key": "EP50_R050E002_0001",
+      "value": "Wh-what the heck?! The classroom is covered\nin spiderwebs?!"
+    },
+    {
+      "key": "EP50_R050E002_0002",
+      "value": "The whole place is white on the inside!"
+    },
+    {
+      "key": "EP50_R050E002_0003",
+      "value": "Yeah. Spiderwebs this big, and this much...\nSomething’s not right here."
+    },
+    {
+      "key": "EP50_R050E003_0001",
+      "value": "(So this is where I’m sleeping tonight...)"
+    },
+    {
+      "key": "EP50_R050E003_0002",
+      "value": "(There’s no other place for me. It’s not much\nbut sleeping in the school’s too creepy...)"
+    },
+    {
+      "key": "EP50_R050E003_0003",
+      "value": "(Hope I can actually sleep...)"
+    },
+    {
+      "key": "EP50_R050E004_0001",
+      "value": "(The idea of sleeping here bummed me out at\nfirst, but I’m used to it now.)"
+    },
+    {
+      "key": "EP50_R050E004_0002",
+      "value": "(If anything, this is a precious place where\nI spent time with Agumon and the others.)"
+    },
+    {
+      "key": "EP50_R050E004_0003",
+      "value": "(When I think about how we’re about to say\ngoodbye, I feel kind of sad.)"
+    },
+    {
+      "key": "EP50_R050E005_0001",
+      "value": "(The desks are casually stacked in a pattern\none would never see in school.)"
+    },
+    {
+      "key": "EP50_R050E005_0002",
+      "value": "(The arms are made of wood. I bet the weight\nmakes them hard to move for cleaning.)"
+    },
+    {
+      "key": "EP50_R050E006_0001",
+      "value": "(The wooden lockers are rotting and\ndiscolored in places.)"
+    },
+    {
+      "key": "EP50_R050E006_0002",
+      "value": "(The stench of mold fills my nose when I get\ncloser.)"
+    },
+    {
+      "key": "EP50_R051E001_0001",
+      "value": "(The landmark by the cherry trees, a nature-\nfocused class, a farm experience...)"
+    },
+    {
+      "key": "EP50_R051E001_0002",
+      "value": "(The rack is lined with pamphlets to showcase\nthis area.)"
+    },
+    {
+      "key": "EP50_R051E002_0001",
+      "value": "(A guide to the landmark fieldwork is written\non the panel.)"
+    },
+    {
+      "key": "EP50_R051E002_0002",
+      "value": "(The teacher said this is held every year,\nand that students join from all over.)"
+    },
+    {
+      "key": "EP50_R051E002_0003",
+      "value": "(This place is secretly famous among history\nbuffs for all the rare landmarks.)"
+    },
+    {
+      "key": "EP50_R051E003_0001",
+      "value": "(There’s a timetable for what we’re supposed\nto do at the site, but it’s pretty rough.)"
+    },
+    {
+      "key": "EP50_R051E003_0002",
+      "value": "(Probably because we each had to submit\na more detailed schedule of our own.)"
+    },
+    {
+      "key": "EP50_R055E001_0001",
+      "value": "(I can see a familiar sight beyond the\ntrees.)"
+    },
+    {
+      "key": "EP50_R055E001_0002",
+      "value": "(From this distance, you can’t tell how run-\ndown the school actually is.)"
+    },
+    {
+      "key": "EP50_R055E002_0001",
+      "value": "(We’ve finally found the school. Still...\nSomething’s strange.)"
+    },
+    {
+      "key": "EP50_R055E002_0002",
+      "value": "(The school we set up camp in wasn’t this far\ninto the mountains, if I remember correctly.)"
+    },
+    {
+      "key": "EP50_R055E002_0003",
+      "value": "(What the heck is going on here?)"
+    },
+    {
+      "key": "EP50_R056E001_0001",
+      "value": "(There’s no light in the woods at night. It’s\npitch black, and super dangerous.)"
+    },
+    {
+      "key": "EP50_R056E001_0002",
+      "value": "(If enemies attacked us here, we wouldn’t be\nable to put a fight.)"
+    },
+    {
+      "key": "EP50_R057E001_0001",
+      "value": "(The amusement park we see through the woods\nlooks like it comes out of a fairy tale.)"
+    },
+    {
+      "key": "EP50_R057E001_0002",
+      "value": "(It doesn’t match the thick forest. It’s like\nwe’ve wandered into never-never land.)"
+    },
+    {
+      "key": "EP50_R057E001_0003",
+      "value": "(I honestly can’t believe there’s an\namusement park in the middle of the forest.)"
+    },
+    {
+      "key": "EP50_R057E001_0004",
+      "value": "(Why would anyone put a place like that in\na location like this?)"
+    },
+    {
+      "key": "EP50_R057E001_0005",
+      "value": "(Real talk, I’m a little scared to go in.)"
+    },
+    {
+      "key": "EP50_R058E001_0001",
+      "value": "(Twisting patterns run through the walls and\nalmost seem to pulse.)"
+    },
+    {
+      "key": "EP50_R058E001_0002",
+      "value": "(It’s incredibly unnerving.)"
+    },
+    {
+      "key": "EP50_R059E001_0001",
+      "value": "(It must be bad, if Agumon’s saying so. Like\nI could be crushed at any moment.)"
+    },
+    {
+      "key": "EP50_R059E001_0002",
+      "value": "(I can see the shopping district. I can’t\nread the signs from the other side.)"
+    },
+    {
+      "key": "EP50_R059E002_0001",
+      "value": "(There’s a weird, super trippy pattern\nengraved along the entire wall.)"
+    },
+    {
+      "key": "EP50_R059E002_0002",
+      "value": "(Looking at it makes me feel like I’m gonna\nbe sick...)"
+    },
+    {
+      "key": "EP50_R059E003_0001",
+      "value": "Ungh... Wh-what? It got kind of hard to\nbreathe the moment I entered..."
+    },
+    {
+      "key": "EP50_R059E003_0002",
+      "value": "Me too! I get a real bad feeling from this\nplace..."
+    },
+    {
+      "key": "EP50_R059E003_0003",
+      "value": "(It must be bad, if Agumon’s saying so. Like\nI could be crushed at any moment.)"
+    },
+    {
+      "key": "EP50_R068E001_0001",
+      "value": "(I can see the shopping district in the\ndistance, but can’t read the sign from here.)"
+    },
+    {
+      "key": "EP50_R068E001_0002",
+      "value": "(There’s almost no one around. Why would\nsomeone put a town here?)"
+    },
+    {
+      "key": "EP50_R068E001_0003",
+      "value": "(Look at all of these buildings... Could this\nbe a human city?!)"
+    },
+    {
+      "key": "EP50_R068E001_0004",
+      "value": "(Maybe there are people here? I doubt it, but\nit’s worth checking out.)"
+    },
+    {
+      "key": "EP50_R073E001_0001",
+      "value": "(There are cleaning supplies. A broom,\ndustpan, dust cloth and pail.)"
+    },
+    {
+      "key": "EP50_R073E001_0002",
+      "value": "(We could use these to clean the school if it\ngets dirty.)"
+    },
+    {
+      "key": "EP50_R073E002_0001",
+      "value": "(It’s a stage you see in gyms a lot. They use\nit for plays and teacher’s speeches.)"
+    },
+    {
+      "key": "EP50_R073E002_0002",
+      "value": "(Remembering recitals I had makes me tense\nup. I’d rather stay down here...)"
+    },
+    {
+      "key": "EP50_R075E001_0001",
+      "value": "Huh? This car only has three wheels."
+    },
+    {
+      "key": "EP50_R075E001_0002",
+      "value": "Yeah? Is that unusual?"
+    },
+    {
+      "key": "EP50_R075E001_0003",
+      "value": "I’ve never seen one, at least. Maybe models\nlike this were more common in the past."
+    },
+    {
+      "key": "EP50_R075E002_0001",
+      "value": "The ground here’s covered in drawings!"
+    },
+    {
+      "key": "EP50_R075E002_0002",
+      "value": "Looks like kids’ doodles. You jump in and out\nof these circles to play."
+    },
+    {
+      "key": "EP50_R075E002_0003",
+      "value": "Oh, I wanna give it a try! Boing, boing,\nboing!"
+    },
+    {
+      "key": "EP50_R075E003_0001",
+      "value": "A tricycle for kids. I bet you could ride it,\nAgumon."
+    },
+    {
+      "key": "EP50_R075E003_0002",
+      "value": "You’re right! How do you ride one of these?"
+    },
+    {
+      "key": "EP50_R075E003_0003",
+      "value": "I’ll show you if we have time later. We can\npractice together."
+    },
+    {
+      "key": "EP50_R076E001_0001",
+      "value": "(I can see the library in the distance... You\ncan tell it’s different, even from here.)"
+    },
+    {
+      "key": "EP50_R076E001_0002",
+      "value": "(It looks contemporary, compared to the old-\nschool amusement park and apartments.)"
+    },
+    {
+      "key": "EP50_R076E001_0003",
+      "value": "(Is that the building the professor\nmentioned? It’s clearly different...)"
+    },
+    {
+      "key": "EP50_R076E001_0004",
+      "value": "(And I can’t put my finger on it, but I feel\nlike I know that building somehow.)"
+    },
+    {
+      "key": "EP50_R076E001_0005",
+      "value": "(That’s the library... The one I feel like\nI’ve seen before.)"
+    },
+    {
+      "key": "EP50_R076E002_0001",
+      "value": ""
+    },
+    {
+      "key": "EP50_R076E002_0002",
+      "value": ""
+    },
+    {
+      "key": "EP50_R076E002_0003",
+      "value": ""
+    },
+    {
+      "key": "EP50_R082E001_0001",
+      "value": "(There’s a roller coaster right outside the\nbroken window.)"
+    },
+    {
+      "key": "EP50_R082E001_0002",
+      "value": "(If it were running, I’m sure it would make\nfor an impressive sight.)"
+    },
+    {
+      "key": "EP50_R083E001_0001",
+      "value": "(The stairs are falling apart in places.\nClimbing them could be dangerous.)"
+    },
+    {
+      "key": "EP50_R083E001_0002",
+      "value": "(They do go on for quite a ways, though.\nI wonder where they lead...)"
+    },
+    {
+      "key": "EP50_R093E001_0001",
+      "value": "(I’d rather not go into the underground\nwaterway unless we have to.)"
+    },
+    {
+      "key": "EP50_R096E001_0001",
+      "value": "(Wow, that dam is huge. I wonder how long\nit’s been there.)"
+    },
+    {
+      "key": "EP50_R096E001_0002",
+      "value": "(It’s not like I can tell how old it is just\nby looking at it. I’m not a dam expert.)"
+    },
+    {
+      "key": "EP50_R096E002_0001",
+      "value": "(This water is so clear.)"
+    },
+    {
+      "key": "EP50_R096E002_0002",
+      "value": "(If things weren’t quite so bad, it’d be fun\nto play in the river with everyone.)"
+    },
+    {
+      "key": "EP50_R101E001_0001",
+      "value": "(A moldy textbook is lying on this rickety\nold desk, like someone forgot it there.)"
+    },
+    {
+      "key": "EP50_R101E001_0002",
+      "value": "(Imagining this place full of life makes the\nruin it’s become seem that much emptier.)"
+    },
+    {
+      "key": "EP50_R101E002_0001",
+      "value": "Well, that’s a relief. Looks like the water’s\nrunning."
+    },
+    {
+      "key": "EP50_R101E002_0002",
+      "value": "*gulp* Aaahh... Delicious!"
+    },
+    {
+      "key": "EP50_R101E002_0003",
+      "value": "Hey! Don’t just start drinking that! Well,\nI guess it’s okay as long as it’s safe..."
+    },
+    {
+      "key": "EP50_R101E003_0001",
+      "value": "There are no lights on the ceiling. It gets\ndark and hard to walk around at night."
+    },
+    {
+      "key": "EP50_R101E004_0001",
+      "value": "There are no lights, but I’ve started to get\nused to finding my way around at night."
+    },
+    {
+      "key": "EP50_R101E005_0001",
+      "value": "That desk probably hasn’t been used since\nback when this place was still a school."
+    },
+    {
+      "key": "EP50_R102E001_0001",
+      "value": "(Man, just standing in front of a teacher’s\ndesk makes me nervous. It’s like a reflex.)"
+    },
+    {
+      "key": "EP50_R102E001_0002",
+      "value": "(Which I guess makes sense. I only ever went\nto the faculty room when I was in trouble.)"
+    },
+    {
+      "key": "EP50_R102E002_0001",
+      "value": "Gah! Is this whole place covered in cobwebs?"
+    },
+    {
+      "key": "EP50_R102E002_0002",
+      "value": "(These webs are so big they could wrap me up\nfrom head to toe, and they’re everywhere...)"
+    },
+    {
+      "key": "EP50_R102E002_0003",
+      "value": "(But I better not think too hard about that.\nI’ll just make sure not to touch them.)"
+    },
+    {
+      "key": "EP50_R102E003_0001",
+      "value": "(It’s funny. Even with no teachers here, it\nseems wrong to go into the faculty room.)"
+    },
+    {
+      "key": "EP50_R102E003_0002",
+      "value": "(I don’t want to be in here any longer than\nI have to be, so let’s get this over with.)"
+    },
+    {
+      "key": "EP50_R102E004_0001",
+      "value": "Hm? What’s this? An address book?"
+    },
+    {
+      "key": "EP50_R102E004_0002",
+      "value": "This is crazy! It’s got addresses and phone\nnumbers for all the teachers and students!"
+    },
+    {
+      "key": "EP50_R102E004_0003",
+      "value": "That’s important personal information! Should\nthis book just be lying here like this?"
+    },
+    {
+      "key": "EP50_R102E005_0001",
+      "value": "Hey, Takuma, check this out! This chair’s all\nsoft and comfy!"
+    },
+    {
+      "key": "EP50_R102E005_0002",
+      "value": "Yeah, it looks just as fancy as the desk.\nSomeone important must’ve sat here."
+    },
+    {
+      "key": "EP50_R102E005_0003",
+      "value": "But who’d be in the faculty room who was more\nimportant than the teachers? That’s weird."
+    },
+    {
+      "key": "EP50_R103E001_0001",
+      "value": "Looks like the water’s running. That’s good."
+    },
+    {
+      "key": "EP50_R103E001_0002",
+      "value": "(After all, not being able to wash my hands\nafter using the bathroom would be gross.)"
+    },
+    {
+      "key": "EP50_R103E002_0001",
+      "value": "Spiderwebs here too?"
+    },
+    {
+      "key": "EP50_R103E002_0002",
+      "value": "(A dingy old bathroom full of cobwebs... It’s\nso creepy it could be a real monster’s lair.)"
+    },
+    {
+      "key": "EP50_R103E003_0001",
+      "value": "(This is where I’ll be using the bathroom\nfrom now on.)"
+    },
+    {
+      "key": "EP50_R103E003_0002",
+      "value": "(It’s functional, but also filthy. We’ll have\nto give it a good cleaning.)"
+    },
+    {
+      "key": "EP50_R103E004_0001",
+      "value": "(This building’s so old I wasn’t sure what to\nexpect, but I guess a toilet is a toilet.)"
+    },
+    {
+      "key": "EP50_R103E005_0001",
+      "value": "(It’s a Japanese-style toilet, but at least\nit’s something I’m used to.)"
+    },
+    {
+      "key": "EP50_R103E005_0002",
+      "value": "(I was worried it might have been like an\nouthouse or something.)"
+    },
+    {
+      "key": "EP50_R105E001_0001",
+      "value": "(Now that I look more closely, I can see the\nrust on the frame holding up the track.)"
+    },
+    {
+      "key": "EP50_R105E001_0002",
+      "value": "(It doesn’t look too bad, but I doubt it will\nrun.)"
+    },
+    {
+      "key": "EP50_R105E002_0001",
+      "value": "(For such a big amusement park, this Ferris\nwheel seems kinda small.)"
+    },
+    {
+      "key": "EP50_R105E002_0002",
+      "value": "(Between that and the retro design, it was\nprobably built a long time ago.)"
+    },
+    {
+      "key": "EP50_R105E003_0001",
+      "value": "(Even from a distance, the castle walls\nappear damaged and weather-beaten.)"
+    },
+    {
+      "key": "EP50_R105E003_0002",
+      "value": "(It looks just like a real ancient castle.)"
+    },
+    {
+      "key": "EP50_R106E001_0001",
+      "value": "(Some sort of pipe has broken off and is\nblocking the way.)"
+    },
+    {
+      "key": "EP50_R106E001_0002",
+      "value": "(I doubt there are any enemies back there,\nbut I guess it couldn’t hurt to check.)"
+    },
+    {
+      "key": "EP50_R106E002_0001",
+      "value": "(There are pipes everywhere, all of them old\nand rusted.)"
+    },
+    {
+      "key": "EP50_R106E002_0002",
+      "value": "(It doesn’t sound like anything’s inside\nthem. I doubt they’re being used anymore.)"
+    },
+    {
+      "key": "EP50_R106E003_0001",
+      "value": "(An empty metal can.)"
+    },
+    {
+      "key": "EP50_R106E003_0002",
+      "value": "(I’m glad it’s not full of gasoline or\nsomething.)"
+    },
+    {
+      "key": "EP50_R107E001_0001",
+      "value": "(It sure is dark. I can’t see anything up\nahead.)"
+    },
+    {
+      "key": "EP50_R107E001_0002",
+      "value": "(We’ll have to move carefully if we want to\nstay safe.)"
+    },
+    {
+      "key": "EP50_R108E001_0001",
+      "value": "(The path branches so much, I bet it’s easy\nto get lost. Which way should we go?)"
+    },
+    {
+      "key": "EP50_R108E001_0002",
+      "value": "(Oh, please don’t let there be any ghosts or\nanything down here...)"
+    },
+    {
+      "key": "EP50_R109E001_0001",
+      "value": "(It doesn’t seem too dangerous, and the water\nlevel’s about the same.)"
+    },
+    {
+      "key": "EP50_R109E001_0002",
+      "value": "(But there could be enemies lurking out of\nsight. We’d better be careful.)"
+    },
+    {
+      "key": "EP50_R112E001_0001",
+      "value": "(How far does this river go? I wonder if it\nruns all the way to the sea.)"
+    },
+    {
+      "key": "EP50_R112E001_0002",
+      "value": "(Not that we were all that close to the sea\nback in our world...)"
+    },
+    {
+      "key": "EP50_R114E001_0001",
+      "value": "(There’s something posted here. Let’s see...)"
+    },
+    {
+      "key": "EP50_R114E001_0002",
+      "value": "(A schedule for children, rules for garbage\nremoval, a flyer for choir lessons...)"
+    },
+    {
+      "key": "EP50_R114E001_0003",
+      "value": "(Hmm, nothing that seems useful.)"
+    },
+    {
+      "key": "EP50_R114E002_0001",
+      "value": "(Fencing and cones like you see around\nconstruction sites are scattered around.)"
+    },
+    {
+      "key": "EP50_R114E002_0002",
+      "value": "(And of course, there are no construction\nworkers to be found.)"
+    },
+    {
+      "key": "EP50_R200E001_0001",
+      "value": "(Man, we finally get to the amusement park\nand none of the rides are working.)"
+    },
+    {
+      "key": "EP50_R200E001_0002",
+      "value": "(I feel like even if we tried to get them to\nrun, they’d just break down right away.)"
+    },
+    {
+      "key": "EP50_R200E002_0001",
+      "value": "(An old sun-bleached tent is set up here,\nthough I have no idea why.)"
+    },
+    {
+      "key": "EP50_R200E002_0002",
+      "value": "(Maybe it was part of some sort of circus\nperformance.)"
+    },
+    {
+      "key": "EP50_R201E001_0001",
+      "value": "(This must be the entrance to the castle.)"
+    },
+    {
+      "key": "EP50_R201E001_0002",
+      "value": "(But it’s so overgrown with weeds, it\nobviously hasn’t seen much care.)"
+    },
+    {
+      "key": "EP50_R901E001_0001",
+      "value": "(What’s this? It feels like a voice...or\nsomeone’s consciousness in my head...)"
+    },
+    {
+      "key": "EP50_R901E001_0002",
+      "value": "(Not again! That consciousness is flooding\nback into my head...)"
+    },
+    {
+      "key": "EP50_R901E002_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R901E003_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R901E004_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R901E005_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R902E001_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R902E002_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R902E003_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R902E004_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R902E005_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R903E001_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R903E002_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R903E003_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R903E004_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP50_R903E005_0001",
+      "value": "(Hm? What’s this?)"
+    },
+    {
+      "key": "EP98_DUNGEON_0001",
+      "value": "Completed 10th hidden dungeon"
+    },
+    {
+      "key": "EP98_DUNGEON_0002",
+      "value": "Completed 20th hidden dungeon"
+    },
+    {
+      "key": "EP98_DUNGEON_0003",
+      "value": "Completed 30th hidden dungeon"
+    },
+    {
+      "key": "EP98_FB_01",
+      "value": "Takuma, hold out your hand! Here, I found\nsomething!"
+    },
+    {
+      "key": "EP98_FB_02",
+      "value": "Oh! Thanks a bunch, Agumon!"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT01",
+      "value": "Oh, that reminds me, Takuma. I found this\nover there. I feel you should keep it."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT02",
+      "value": "Here, Takuma, my boy. You should keep this\ninstead of me."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT03",
+      "value": "Oh yes, I found this curious object. I feel\nthis would be more useful in your hands."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT04",
+      "value": "Hold on to this, Takuma. I’m sure it will be\nsome use to you."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT05",
+      "value": "Don’t worry about me, you should have this."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT06",
+      "value": "You should worry about yourself more than me.\nOh yeah, go on and take this."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT07",
+      "value": "Takuma... Here."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT08",
+      "value": "Ah. For you..."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT09",
+      "value": "Um, here... I guess."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT10",
+      "value": "...Here."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT11",
+      "value": "(This looks like it’ll come in handy.)"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT12",
+      "value": "Oh? Thanks, this is a big help!"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT13",
+      "value": "Thanks a lot, I really appreciate it!"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT14",
+      "value": "Oh, you’re giving it to me? Hey, thanks."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT15",
+      "value": "Hold on to this, Takuma. I’m sure it will help\nyou out down the line."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT16",
+      "value": "More importantly, you should have this. Don’t\nworry about me."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT17",
+      "value": "Shouldn’t you be more worried about yourself?\nOh right, I’d say you should take this."
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT18",
+      "value": "Hey, Takuma! Here, I found this a second ago!\nThink it’ll help?"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT19",
+      "value": "Oh yeah, I forgot to give this to you,\nTakuma. Here you go!"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT20",
+      "value": "Takuma, hold out your hand! Here, I found\nsomething!"
+    },
+    {
+      "key": "EP98_GET_ITEM_EVENT21",
+      "value": "Oh! Thanks a bunch, Agumon!"
+    },
+    {
+      "key": "EP98_S9801",
+      "value": "Completed 10th hidden dungeon"
+    },
+    {
+      "key": "EP98_S9802",
+      "value": "Completed 20th hidden dungeon"
+    },
+    {
+      "key": "EP98_S9803",
+      "value": "Completed 30th hidden dungeon"
+    },
+    {
+      "key": "T00301_0001",
+      "value": "Apparently this was an elementary school, but\nnow the locals use it as a community center."
+    },
+    {
+      "key": "T00301_0002",
+      "value": "Maybe there’s a teacher or someone around\nhere somewhere?"
+    },
+    {
+      "key": "T00302_0001",
+      "value": "It’s a drinking fountain, but I’m not thirsty\nright now."
+    },
+    {
+      "key": "T00303_0001",
+      "value": "This must have been the gym, only now it’s\nbeing used as an assembly hall."
+    },
+    {
+      "key": "T00304_0001",
+      "value": "I don’t see much point in going back to the\nschool building."
+    },
+    {
+      "key": "T00304_0002",
+      "value": "Maybe I should check out inside the school\nbuilding."
+    },
+    {
+      "key": "T00305_0001",
+      "value": "That’s where the school connects to the gym."
+    },
+    {
+      "key": "T00306_0001",
+      "value": "Fliers for this year’s camp are posted on the\nbulletin board."
+    },
+    {
+      "key": "T00306_0002",
+      "value": "Fliers for this year’s camp are posted on the\nbulletin board. Those are why I signed up."
+    },
+    {
+      "key": "T00307_0001",
+      "value": "It’s a car. One of the camp instructors must\nhave driven it here."
+    },
+    {
+      "key": "T00308_0001",
+      "value": "It’s the bus we all rode in to get here."
+    },
+    {
+      "key": "T00308_0002",
+      "value": "I wonder how much longer it’ll be before\nwe’re all riding on this bus again."
+    },
+    {
+      "key": "T00401_0001",
+      "value": "There’s a trash can and some chairs set up\nhere."
+    },
+    {
+      "key": "T00402_0001",
+      "value": "Just an ordinary ceiling and some lights."
+    },
+    {
+      "key": "T00402_0002",
+      "value": "The lights are on. It’s such a small thing,\nbut man, have I missed it."
+    },
+    {
+      "key": "T00403_0001",
+      "value": "It’s the door that leads to the gym."
+    },
+    {
+      "key": "T00403_0002",
+      "value": "It’s the door that leads to the gym. No\nspiderwebs in sight."
+    },
+    {
+      "key": "T00404_0001",
+      "value": "This leads to the athletic field."
+    },
+    {
+      "key": "T00405_0001",
+      "value": "These stairs lead to the second floor."
+    },
+    {
+      "key": "T00405_0002",
+      "value": "This stairway is spotless. I wonder if it was\nonce like this in that abandoned school."
+    },
+    {
+      "key": "T00501_0001",
+      "value": "I can see the forest outside the window."
+    },
+    {
+      "key": "T00501_0002",
+      "value": "The view through the window is exactly the\nsame as the one in the abandoned school."
+    },
+    {
+      "key": "T00502_0001",
+      "value": "There’s a flat-screen TV on the wall. It’s\nthe only one here."
+    },
+    {
+      "key": "T00502_0002",
+      "value": "There’s a flat-screen TV on the wall. Man,\nhow long has it been since I watched TV?"
+    },
+    {
+      "key": "T00503_0001",
+      "value": "The magazine rack is filled with various\nmagazines and pamphlets."
+    },
+    {
+      "key": "T00503_0002",
+      "value": "Look at that magazine rack... No magazines in\nthat other world, that’s for sure."
+    },
+    {
+      "key": "T00504_0001",
+      "value": "There’s a tea set on the table."
+    },
+    {
+      "key": "T00504_0002",
+      "value": "There’s a tea set on the table. Man, I can’t\neven imagine having tea in that other world."
+    },
+    {
+      "key": "T00505_0001",
+      "value": "There’s a seat by the window. That’s where\nMinoru and I had dinner that first day."
+    },
+    {
+      "key": "T00505_0002",
+      "value": "There’s a seat by the window. That’s where\nMinoru and I first had dinner. That was nice."
+    },
+    {
+      "key": "T00506_0001",
+      "value": "Maybe I’ll sit there when I have dinner\ntonight."
+    },
+    {
+      "key": "T00506_0002",
+      "value": "That desk probably hasn’t been used since\nback when this place was still a school."
+    },
+    {
+      "key": "T00507_0001",
+      "value": "Looks like some kind of decorative plant, but\nI’m not sure what it is."
+    },
+    {
+      "key": "T00507_0002",
+      "value": "It’s weird. I’m almost jealous of how someone\ncould use a potted plant just as decoration."
+    },
+    {
+      "key": "T00508_0001",
+      "value": "This is a pretty big cafeteria."
+    },
+    {
+      "key": "T00508_0002",
+      "value": "Even the size of the cafeteria is the same as\nin that abandoned school."
+    },
+    {
+      "key": "T00601_0001",
+      "value": "It’s a travel brochure for the area."
+    },
+    {
+      "key": "T00602_0001",
+      "value": "It’s a poster for the camp. My school had the\nsame one."
+    },
+    {
+      "key": "T00602_0002",
+      "value": "It’s a poster for the camp. This was the start\nof everything. It’s what made me want to go."
+    },
+    {
+      "key": "T00603_0001",
+      "value": "Today’s assignment is written here. Fieldwork\nall day."
+    },
+    {
+      "key": "T00603_0002",
+      "value": "Today’s assignment is written here. It feels\nso weird to see that now."
+    },
+    {
+      "key": "T00604_0001",
+      "value": "There’s nothing written on the white board."
+    },
+    {
+      "key": "T00605_0001",
+      "value": "This is where the group representative is\nsupposed to sit. For us, that’s Shuuji."
+    },
+    {
+      "key": "T00605_0002",
+      "value": "Shuuji used to sit here.\nOh, Shuuji..."
+    },
+    {
+      "key": "T00606_0001",
+      "value": "This is where Aoi would sit."
+    },
+    {
+      "key": "T00607_0001",
+      "value": "This is where Minoru and I always sat. It was\nnice being able to see out the window."
+    },
+    {
+      "key": "T00607_0002",
+      "value": "This is where Minoru and I always sat."
+    },
+    {
+      "key": "T00608_0001",
+      "value": "You can see the athletic field and the forest\nout the window. Such peaceful scenery."
+    },
+    {
+      "key": "T00608_0002",
+      "value": "You can see the athletic field and the forest\nout the window. Such peaceful scenery here."
+    },
+    {
+      "key": "T00609_0001",
+      "value": "It’s a trash can. Whoever’s on duty cleans\nthese frequently, so it’s empty."
+    },
+    {
+      "key": "T00609_0002",
+      "value": "It’s a trash can. Unlike in that other world,\nit’s empty."
+    },
+    {
+      "key": "T00610_0001",
+      "value": "It’s a recycling bin."
+    },
+    {
+      "key": "T00701_0001",
+      "value": "What beautiful cherry trees. I can’t help but\nstare at them."
+    },
+    {
+      "key": "T00701_0002",
+      "value": "I can’t wait to see these again with\neveryone."
+    },
+    {
+      "key": "T00702_0001",
+      "value": "The river is flowing gently. It’s so\nrelaxing."
+    },
+    {
+      "key": "T00702_0002",
+      "value": "That river is the same both here and in the\nother world."
+    },
+    {
+      "key": "T00703_0001",
+      "value": "Looks like that way leads out to the\nmountains."
+    },
+    {
+      "key": "T00704_0001",
+      "value": "It’s a huge rice field. An unusual sight for\nsomeone from the city like me."
+    },
+    {
+      "key": "T00704_0002",
+      "value": "That rice field makes me think. Maybe we\nshould plant fields back in that other world."
+    },
+    {
+      "key": "T00801_0001",
+      "value": "Just over there is where we’re trying to get."
+    },
+    {
+      "key": "T00801_0002",
+      "value": "Our first goal was just to get over there."
+    },
+    {
+      "key": "T00802_0001",
+      "value": "A police car is parked here."
+    },
+    {
+      "key": "T00802_0002",
+      "value": "A police car is parked here. Too bad the\npolice can’t help us..."
+    },
+    {
+      "key": "T00803_0001",
+      "value": "Police tape has been set up here. It says\n“Police Line, Do Not Cross.”"
+    },
+    {
+      "key": "T00804_0001",
+      "value": "It’s a road sign that says “Tunnel Ahead.”"
+    },
+    {
+      "key": "T00805_0001",
+      "value": "It’s a side road. Looks like it goes up at\na slight angle."
+    },
+    {
+      "key": "T00806_0001",
+      "value": "It’s all forest up ahead. The trees have\ngrown so thick that I can’t go on."
+    },
+    {
+      "key": "T01001_0001",
+      "value": "It’s a tunnel. It gives me a creepy feeling\nfor some reason."
+    },
+    {
+      "key": "T01001_0002",
+      "value": "There’s a tunnel ahead."
+    },
+    {
+      "key": "T01002_0001",
+      "value": "The grass here is thick. There’s an eerie\nsilence to this place."
+    },
+    {
+      "key": "T01002_0002",
+      "value": "The grass here is thick."
+    },
+    {
+      "key": "T01003_0001",
+      "value": "Stones have been piled up to make a wall."
+    },
+    {
+      "key": "T01004_0001",
+      "value": "It’s a thicket. I wonder if there are any\ngood bugs in there."
+    },
+    {
+      "key": "T01004_0002",
+      "value": "It’s a thicket. In that other world, there\nmight be monsters lurking inside."
+    },
+    {
+      "key": "T01101_0001",
+      "value": "It’s the end of the tunnel. Why do I feel so\nnervous?"
+    },
+    {
+      "key": "T01101_0002",
+      "value": "A vast forest spreads out on the other side\nof the tunnel."
+    },
+    {
+      "key": "T01102_0001",
+      "value": "What is this strange decoration? Is it for\nuse in some kind of ritual?"
+    },
+    {
+      "key": "T01102_0002",
+      "value": "What is this strange decoration? Could it\nhave something to do with that other world?"
+    },
+    {
+      "key": "T01103_0001",
+      "value": "That wall is sturdier than I thought."
+    },
+    {
+      "key": "T01104_0001",
+      "value": "The wall is cold to the touch."
+    },
+    {
+      "key": "T01201_0001",
+      "value": "I wonder if there’s anything lurking in that\nthicket..."
+    },
+    {
+      "key": "T01201_0002",
+      "value": "Guess it’s just an ordinary thicket."
+    },
+    {
+      "key": "T01202_0001",
+      "value": "It’s a red flower. I wonder what it’s called."
+    },
+    {
+      "key": "T01202_0002",
+      "value": "I think this is called a spider lily?"
+    },
+    {
+      "key": "T01203_0001",
+      "value": "I wonder what’s going on in the forest."
+    },
+    {
+      "key": "T01203_0002",
+      "value": "I’ve really gotten used to this forest."
+    },
+    {
+      "key": "T01204_0001",
+      "value": "Who knew I’d end up spending so much time in\nthe woods?"
+    },
+    {
+      "key": "T01204_0002",
+      "value": "Nothing of interest here."
+    },
+    {
+      "key": "T01205_0001",
+      "value": "That’s one sturdy tree. Maybe I should make\na weapon out of one of its branches..."
+    },
+    {
+      "key": "T01205_0002",
+      "value": "Even if I made a weapon from one of these\nbranches, it wouldn’t help with the monsters."
+    },
+    {
+      "key": "T01206_0001",
+      "value": "That is one huge tree. You don’t see one this\nbig very often."
+    },
+    {
+      "key": "T01206_0002",
+      "value": "It’s a huge tree. Not just any monster could\ntake this thing down."
+    },
+    {
+      "key": "T01301_0001",
+      "value": "It’s the entrance to the shrine. I wonder\nwhat’s enshrined within."
+    },
+    {
+      "key": "T01301_0002",
+      "value": "It’s the entrance to the shrine. There aren’t\nany monsters hiding nearby, are there?"
+    },
+    {
+      "key": "T01302_0001",
+      "value": "What a large gate. Looks like it’s very\nsturdy."
+    },
+    {
+      "key": "T01302_0002",
+      "value": "It’s the same old gate."
+    },
+    {
+      "key": "T01303_0001",
+      "value": "It’s a broken lantern. I wonder what\nhappened."
+    },
+    {
+      "key": "T01303_0002",
+      "value": "It’s a broken lantern. I wonder if a monster\nbroke it."
+    },
+    {
+      "key": "T01304_0001",
+      "value": "It’s a line of lanterns."
+    },
+    {
+      "key": "T01305_0001",
+      "value": "It’s a lantern. Looks like there’s no candle\ninside."
+    },
+    {
+      "key": "T01306_0001",
+      "value": "It’s a stone lantern."
+    },
+    {
+      "key": "T01307_0001",
+      "value": "It’s an old lantern."
+    },
+    {
+      "key": "T01308_0001",
+      "value": "It’s a lantern. Maybe I can lean against it\nfor a rest when I’m tired."
+    },
+    {
+      "key": "T01309_0001",
+      "value": "Looks like this goes to the back of the\nshrine."
+    },
+    {
+      "key": "T01309_0002",
+      "value": "That leads to the shrine."
+    },
+    {
+      "key": "T01310_0001",
+      "value": "Looks like it’s more forest past the shrine."
+    },
+    {
+      "key": "T01401_0001",
+      "value": "The shrine has completely collapsed in the\nlandslide."
+    },
+    {
+      "key": "T01402_0001",
+      "value": "Looks like the gate is still standing."
+    },
+    {
+      "key": "T01403_0001",
+      "value": "It’s a lantern. It’s broken..."
+    },
+    {
+      "key": "T01404_0001",
+      "value": "This lantern is untouched."
+    },
+    {
+      "key": "T01405_0001",
+      "value": "There was a landslide that happened that one\nmorning..."
+    },
+    {
+      "key": "T01406_0001",
+      "value": "I can’t believe the landslide stretches this\nfar."
+    },
+    {
+      "key": "T01407_0001",
+      "value": "The lantern is completely buried in the\nlandslide."
+    },
+    {
+      "key": "T01408_0001",
+      "value": "This is going to take some time to repair."
+    },
+    {
+      "key": "T01409_0001",
+      "value": "There’s nothing enshrined in this shrine\nbuilding."
+    },
+    {
+      "key": "T01410_0001",
+      "value": "The spider lilies are in bloom. They’re\npretty, but also unsettling."
+    },
+    {
+      "key": "T01411_0001",
+      "value": "I wonder if this landslide is related to what\nhappened in that other world."
+    },
+    {
+      "key": "T01601_0001",
+      "value": "This must be what they call a shrine."
+    },
+    {
+      "key": "T01601_0002",
+      "value": "There’s a shrine here."
+    },
+    {
+      "key": "T01602_0001",
+      "value": "The walls of the shrine are sturdy. It would\ntake a lot to break them."
+    },
+    {
+      "key": "T01603_0001",
+      "value": "There’s a mural here. What is it depicting?"
+    },
+    {
+      "key": "T01603_0002",
+      "value": "Are those...monsters? What are they doing?"
+    },
+    {
+      "key": "T01603_0003",
+      "value": "Is that our world?"
+    },
+    {
+      "key": "T01603_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T01604_0001",
+      "value": "What is this mural depicting?"
+    },
+    {
+      "key": "T01604_0002",
+      "value": "These figures off to the left, are they...\nmonsters?"
+    },
+    {
+      "key": "T01604_0003",
+      "value": "The figures to the right seem like a shrine\nmaid and other humans. Is this some ritual?"
+    },
+    {
+      "key": "T01604_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T01901_0001",
+      "value": "Why is it in such bad shape?"
+    },
+    {
+      "key": "T01901_0002",
+      "value": "Where could Aoi be...?"
+    },
+    {
+      "key": "T01901_0003",
+      "value": "This is our base for now."
+    },
+    {
+      "key": "T01901_0004",
+      "value": "I’ve really started to get used to life here."
+    },
+    {
+      "key": "T01901_0005",
+      "value": "I really do appreciate this school building."
+    },
+    {
+      "key": "T01902_0001",
+      "value": "There’s a water fountain. Should I take\na drink?"
+    },
+    {
+      "key": "T01902_0002",
+      "value": "Seems like the water here is safe to drink."
+    },
+    {
+      "key": "T01903_0001",
+      "value": "It’s a gym. It looks the same as the one we\nused for camp."
+    },
+    {
+      "key": "T01903_0002",
+      "value": "This is a gym, but it’s pretty run down.\nWon’t be doing any exercising in here."
+    },
+    {
+      "key": "T01904_0001",
+      "value": "I wonder what’s going on inside the school."
+    },
+    {
+      "key": "T01904_0002",
+      "value": "I have to find Aoi, and fast!"
+    },
+    {
+      "key": "T01904_0003",
+      "value": "I wonder if it’s a good time to head back to\nthe school."
+    },
+    {
+      "key": "T01905_0001",
+      "value": "Looks like that connects to the gym."
+    },
+    {
+      "key": "T01905_0002",
+      "value": "Why is this school in such bad shape?"
+    },
+    {
+      "key": "T01905_0003",
+      "value": "This school is safe. At least we have that\ngoing for us."
+    },
+    {
+      "key": "T01906_0001",
+      "value": "There’s a sign. Something’s posted on it, but\nit’s so beat up I can’t make it out."
+    },
+    {
+      "key": "T01906_0002",
+      "value": "I wonder who this sign was for?"
+    },
+    {
+      "key": "T02001_0001",
+      "value": "Broken down old chairs and desks lie strewn\nabout."
+    },
+    {
+      "key": "T02002_0001",
+      "value": "There are no lights on the ceiling. It gets\ndark and hard to walk around at night."
+    },
+    {
+      "key": "T02002_0002",
+      "value": "There are no lights, but I’ve started to get\nused to finding my way around at night."
+    },
+    {
+      "key": "T02003_0001",
+      "value": "It’s the door that leads to the gym. Only\nI can’t open it with that spiderweb."
+    },
+    {
+      "key": "T02003_0002",
+      "value": "It’s the door that leads to the gym. I need\nto hurry and save Aoi!"
+    },
+    {
+      "key": "T02003_0003",
+      "value": "It’s the door that leads to the gym."
+    },
+    {
+      "key": "T02004_0001",
+      "value": "It’s the entrance."
+    },
+    {
+      "key": "T02005_0001",
+      "value": "It’s the stairway leading up to the second\nfloor. I’m worried it might collapse."
+    },
+    {
+      "key": "T02005_0002",
+      "value": "These stairs are old, but surprisingly\nsturdy. Labramon can run on them no problem."
+    },
+    {
+      "key": "T02101_0001",
+      "value": "It’s a locker filled with cleaning supplies."
+    },
+    {
+      "key": "T02101_0002",
+      "value": "When was the last time I was on cleaning\nduty?"
+    },
+    {
+      "key": "T02101_0003",
+      "value": "We’d be in trouble without this cafeteria.\nThe least we can do is keep it clean."
+    },
+    {
+      "key": "T02102_0001",
+      "value": "Looks like a chart of nutrition guidelines.\nSeems pretty old, though."
+    },
+    {
+      "key": "T02102_0002",
+      "value": "In the situation we’re in, a perfectly\nbalanced diet isn’t exactly our top priority."
+    },
+    {
+      "key": "T02102_0003",
+      "value": "Oh hey, this chart has some foods listed that\nI haven’t eaten in forever."
+    },
+    {
+      "key": "T02103_0001",
+      "value": "This must be an old menu. It’s in such bad\nshape I can’t read it very well."
+    },
+    {
+      "key": "T02103_0002",
+      "value": "It’s a menu. Whoa, fried flavored whale meat\nis listed on here. These recipes are ancient."
+    },
+    {
+      "key": "T02103_0003",
+      "value": "I wonder what kids this menu was written for\nand how they felt about it."
+    },
+    {
+      "key": "T02104_0001",
+      "value": "Condiments and silverware are laid out on\nthis table."
+    },
+    {
+      "key": "T02104_0002",
+      "value": "I tried some of this soy sauce before. It\ntasted fine and didn’t seem to make me sick."
+    },
+    {
+      "key": "T02104_0003",
+      "value": "We need to make these condiments last."
+    },
+    {
+      "key": "T02105_0001",
+      "value": "A pot, a kettle, and some more cooking\nsupplies. Looks like a good place to cook."
+    },
+    {
+      "key": "T02105_0002",
+      "value": "We really lucked out with Aoi being so good\nat cooking. I know I’m hopeless."
+    },
+    {
+      "key": "T02105_0003",
+      "value": "This pot has made us so much soup... Here’s\nto more still!"
+    },
+    {
+      "key": "T02105_0004",
+      "value": "We’ll be leaving these cooking supplies soon,\ntoo. We owe so much to them..."
+    },
+    {
+      "key": "T02106_0001",
+      "value": "Carts? These must be for serving food."
+    },
+    {
+      "key": "T02106_0002",
+      "value": "These are the carts we use for serving food.\nSaki calls them Ichiro and Jiro."
+    },
+    {
+      "key": "T02106_0003",
+      "value": "Minoru tried using these to take out the\ntrash the other day, and Saki chewed him out."
+    },
+    {
+      "key": "T02107_0001",
+      "value": "It’s a pile of cardboard boxes."
+    },
+    {
+      "key": "T02107_0002",
+      "value": "Those boxes had food inside. It all seems\nedible, including biscuits and canned goods."
+    },
+    {
+      "key": "T02107_0003",
+      "value": "We only have so much food. We’ll need to\neither scavenge for more or turn back soon."
+    },
+    {
+      "key": "T02107_0004",
+      "value": "We’ll have to cut back on our food from now\non. I just don’t want Agumon to go hungry."
+    },
+    {
+      "key": "T02107_0005",
+      "value": "Looks like our food held out.\nThat’s such a relief."
+    },
+    {
+      "key": "T02108_0001",
+      "value": "You can see the forest outside the window."
+    },
+    {
+      "key": "T02108_0002",
+      "value": "At least it looks peaceful enough, anyway."
+    },
+    {
+      "key": "T02108_0003",
+      "value": "I hadn’t thought about it before, but you can\nsee right in here from outside."
+    },
+    {
+      "key": "T02109_0001",
+      "value": "Looks like...there’s nothing much to be found\nin the forest."
+    },
+    {
+      "key": "T02109_0002",
+      "value": "No sign of any enemies..."
+    },
+    {
+      "key": "T02109_0003",
+      "value": "I sure have gotten used to this view."
+    },
+    {
+      "key": "T02201_0001",
+      "value": "Looks like...a podium. This is definitely\na school."
+    },
+    {
+      "key": "T02201_0002",
+      "value": "I wonder what the teachers at this place were\nlike."
+    },
+    {
+      "key": "T02201_0003",
+      "value": "This desk is just the right height to do work\nat."
+    },
+    {
+      "key": "T02201_0004",
+      "value": "I’ll be saying goodbye to this classroom\nsoon, too."
+    },
+    {
+      "key": "T02202_0001",
+      "value": "You can see the school courtyard and the\nforest out the window."
+    },
+    {
+      "key": "T02202_0002",
+      "value": "I sure have gotten used to the view from\nhere."
+    },
+    {
+      "key": "T02202_0003",
+      "value": "Looking outside helps me relax."
+    },
+    {
+      "key": "T02203_0001",
+      "value": "It’s the closet we use for the cleaning\nsupplies. There’s a broom and a mop inside."
+    },
+    {
+      "key": "T02204_0001",
+      "value": "It’s a locker. There’s nothing special\ninside."
+    },
+    {
+      "key": "T02205_0001",
+      "value": "It’s a blackboard. Looks unused."
+    },
+    {
+      "key": "T02205_0002",
+      "value": "It’s a blackboard. Maybe we could all use\nthis to communicate."
+    },
+    {
+      "key": "T02205_0003",
+      "value": "It’s a blackboard. We still haven’t found\na good use for it."
+    },
+    {
+      "key": "T02205_0004",
+      "value": "We never did find a use for this blackboard,\ndid we?"
+    },
+    {
+      "key": "T02206_0001",
+      "value": "It’s a school desk. Seems a bit small for me."
+    },
+    {
+      "key": "T02207_0001",
+      "value": "The desks are all piled up. I wonder what\nhappened?"
+    },
+    {
+      "key": "T02207_0002",
+      "value": "The desks are all piled up. Was someone\nthinking of doing some cleaning?"
+    },
+    {
+      "key": "T02207_0003",
+      "value": "Maybe we could make a barricade with these\ndesks... No, wouldn’t work against monsters."
+    },
+    {
+      "key": "T02301_0001",
+      "value": "You can see the forest outside the window."
+    },
+    {
+      "key": "T02301_0002",
+      "value": "You can see the forest outside the window.\nThere don’t seem to be any enemies..."
+    },
+    {
+      "key": "T02302_0001",
+      "value": "It’s a piano. I wonder if it’s working."
+    },
+    {
+      "key": "T02302_0002",
+      "value": "It’s the piano Miyuki was playing."
+    },
+    {
+      "key": "T02302_0003",
+      "value": "It’s the piano. Makes me think of Miyuki."
+    },
+    {
+      "key": "T02303_0001",
+      "value": "It’s a blackboard. Staff lines are drawn on\nit like you’d expect in a music room."
+    },
+    {
+      "key": "T02304_0001",
+      "value": "This must be an accordion. I don’t have any\nidea how to play it."
+    },
+    {
+      "key": "T02304_0002",
+      "value": "It’s the accordion. I wonder if any of us\ncould play it?"
+    },
+    {
+      "key": "T02305_0001",
+      "value": "It’s a drum. I remember being assigned one in\nelementary school, but I wasn’t very good."
+    },
+    {
+      "key": "T02305_0002",
+      "value": "It’s a drum. Kaito seems like he’d be good at\npercussion. I wonder if that’s true."
+    },
+    {
+      "key": "T02306_0001",
+      "value": "It’s portraits of famous musicians.\nI recognize most of them from music class."
+    },
+    {
+      "key": "T02307_0001",
+      "value": "There doesn’t seem to be anything special in\nthe locker."
+    },
+    {
+      "key": "T02401_0001",
+      "value": "The window is broken. We don’t have the\nsupplies we’d need to fix it."
+    },
+    {
+      "key": "T02401_0002",
+      "value": "This window is just going to have to stay\nbroken."
+    },
+    {
+      "key": "T02402_0001",
+      "value": "The closet is full of cleaning supplies."
+    },
+    {
+      "key": "T02403_0001",
+      "value": "That’s the stage where Aoi was being held\ncaptive."
+    },
+    {
+      "key": "T02403_0002",
+      "value": "I wonder if we’ll ever end up singing on that\nstage."
+    },
+    {
+      "key": "T02403_0003",
+      "value": "We ended up using the stage for more storage\nspace."
+    },
+    {
+      "key": "T02404_0001",
+      "value": "It’s a pile of junk. Nothing special there."
+    },
+    {
+      "key": "T02405_0001",
+      "value": "The door leading to the stage. It isn’t\nlocked."
+    },
+    {
+      "key": "T02406_0001",
+      "value": "The wall is in ruins and grass has crept in\nfrom outside."
+    },
+    {
+      "key": "T02407_0001",
+      "value": "Part of this wall is collapsed and I can see\noutside."
+    },
+    {
+      "key": "T02408_0001",
+      "value": "This window is broken in a number of places.\nWas there a typhoon or something?"
+    },
+    {
+      "key": "T02409_0001",
+      "value": "Part of the floor is rotted out. I’ll need to\nwatch my step."
+    },
+    {
+      "key": "T02410_0001",
+      "value": "There’s a hole in the ceiling... Not exactly\nthe best place to take shelter."
+    },
+    {
+      "key": "T02601_0001",
+      "value": "What’s that? Wait, could it be...?"
+    },
+    {
+      "key": "T02601_0002",
+      "value": "It’s an old, ruined school building."
+    },
+    {
+      "key": "T02601_0003",
+      "value": "It’s the old, ruined school building."
+    },
+    {
+      "key": "T02601_0004",
+      "value": "The sight of that old school building helps\nme relax."
+    },
+    {
+      "key": "T02602_0001",
+      "value": "Getting lost in the woods would be\na nightmare."
+    },
+    {
+      "key": "T02602_0002",
+      "value": "We should do our best to look around."
+    },
+    {
+      "key": "T02603_0001",
+      "value": "Why’d things have to turn out like this?"
+    },
+    {
+      "key": "T02603_0002",
+      "value": "Looks like there’s nothing special here."
+    },
+    {
+      "key": "T02604_0001",
+      "value": "Man, it just goes on and on like this\nforever."
+    },
+    {
+      "key": "T02604_0002",
+      "value": "I thought all we’d need was some rations."
+    },
+    {
+      "key": "T02605_0001",
+      "value": "There’s...nothing out there, right?"
+    },
+    {
+      "key": "T02605_0002",
+      "value": "I doubt this grass would make for a good\nmeal."
+    },
+    {
+      "key": "T02606_0001",
+      "value": "Nothing seems to have fallen down..."
+    },
+    {
+      "key": "T02606_0002",
+      "value": "Those roots are planted deep in the ground."
+    },
+    {
+      "key": "T02801_0001",
+      "value": "I wonder if there’s anything lurking in that\nthicket..."
+    },
+    {
+      "key": "T02801_0002",
+      "value": "Guess it’s just an ordinary thicket."
+    },
+    {
+      "key": "T02802_0001",
+      "value": "It’s a red flower. I wonder what it’s called."
+    },
+    {
+      "key": "T02802_0002",
+      "value": "I think this is called a spider lily?"
+    },
+    {
+      "key": "T02803_0001",
+      "value": "I wonder what’s going on in the forest."
+    },
+    {
+      "key": "T02803_0002",
+      "value": "I’ve really gotten used to this forest."
+    },
+    {
+      "key": "T02804_0001",
+      "value": "Who knew I’d end up spending so much time in\nthe woods?"
+    },
+    {
+      "key": "T02804_0002",
+      "value": "Nothing of interest here."
+    },
+    {
+      "key": "T02805_0001",
+      "value": "That’s one sturdy tree. Maybe I should make\na weapon out of one of its branches..."
+    },
+    {
+      "key": "T02805_0002",
+      "value": "Even if I made a weapon from one of these\nbranches, it wouldn’t help with the monsters."
+    },
+    {
+      "key": "T02806_0001",
+      "value": "That is one huge tree. You don’t see one this\nbig very often."
+    },
+    {
+      "key": "T02806_0002",
+      "value": "It’s a huge tree. Not just any monster could\ntake this thing down."
+    },
+    {
+      "key": "T02901_0001",
+      "value": "Looks like...there’s nothing in this thicket."
+    },
+    {
+      "key": "T02901_0002",
+      "value": "Looks like...there’s nothing hiding in this\nthicket."
+    },
+    {
+      "key": "T02902_0001",
+      "value": "Looks like...nothing’s fallen down around the\nroots."
+    },
+    {
+      "key": "T02902_0002",
+      "value": "Are we really going to make it out of this?"
+    },
+    {
+      "key": "T02903_0001",
+      "value": "What am I supposed to do from now on?"
+    },
+    {
+      "key": "T02903_0002",
+      "value": "I am getting so sick of checking trees."
+    },
+    {
+      "key": "T02903_0003",
+      "value": "We have a goal. Something that we need to do,\nno matter what!"
+    },
+    {
+      "key": "T02904_0001",
+      "value": "I don’t like this. It’s too quiet."
+    },
+    {
+      "key": "T02904_0002",
+      "value": "I wonder if the forest has always been like\nthis."
+    },
+    {
+      "key": "T02905_0001",
+      "value": "Even if I did find mushrooms...I’d be afraid\nto eat them."
+    },
+    {
+      "key": "T02905_0002",
+      "value": "Trees send down roots. I wonder if that’s the\nsame here as in our world."
+    },
+    {
+      "key": "T02906_0001",
+      "value": "Hmm...nothing here."
+    },
+    {
+      "key": "T02906_0002",
+      "value": "Eating weeds would probably be bad for my\nstomach."
+    },
+    {
+      "key": "T02907_0001",
+      "value": "I bet it just keeps going on like this."
+    },
+    {
+      "key": "T02907_0002",
+      "value": "There...aren’t any enemies lurking nearby,\nright?"
+    },
+    {
+      "key": "T02908_0001",
+      "value": "I guess...there’s no one in the forest."
+    },
+    {
+      "key": "T02908_0002",
+      "value": "I should stay on the alert. Enemies could be\nlurking anywhere."
+    },
+    {
+      "key": "T02909_0001",
+      "value": "Hello! Anybody out there?! Hmm, I guess it’s\nnot much use shouting."
+    },
+    {
+      "key": "T02909_0002",
+      "value": "Going out to explore the forest... I couldn’t\neven have imagined doing that before."
+    },
+    {
+      "key": "T02909_0003",
+      "value": "It’s the same old tree."
+    },
+    {
+      "key": "T03001_0001",
+      "value": "It’s the entrance to the shrine. I wonder\nwhat’s enshrined within."
+    },
+    {
+      "key": "T03001_0002",
+      "value": "It’s the entrance to the shrine. There aren’t\nany monsters hiding nearby, are there?"
+    },
+    {
+      "key": "T03002_0001",
+      "value": "What a large gate. Looks like it’s very\nsturdy."
+    },
+    {
+      "key": "T03002_0002",
+      "value": "It’s the same old gate."
+    },
+    {
+      "key": "T03003_0001",
+      "value": "It’s a broken lantern. I wonder what\nhappened."
+    },
+    {
+      "key": "T03003_0002",
+      "value": "It’s a broken lantern. I wonder if a monster\nbroke it."
+    },
+    {
+      "key": "T03004_0001",
+      "value": "It’s a line of lanterns."
+    },
+    {
+      "key": "T03005_0001",
+      "value": "It’s a lantern. Looks like there’s no candle\ninside."
+    },
+    {
+      "key": "T03006_0001",
+      "value": "It’s a stone lantern."
+    },
+    {
+      "key": "T03007_0001",
+      "value": "It’s an old lantern."
+    },
+    {
+      "key": "T03008_0001",
+      "value": "It’s a lantern. Maybe I can lean against it\nfor a rest when I’m tired."
+    },
+    {
+      "key": "T03009_0001",
+      "value": "Looks like this goes to the back of the\nshrine."
+    },
+    {
+      "key": "T03009_0002",
+      "value": "That leads to the shrine."
+    },
+    {
+      "key": "T03010_0001",
+      "value": "Looks like it’s more forest past the shrine."
+    },
+    {
+      "key": "T03201_0001",
+      "value": "This must be what they call a shrine."
+    },
+    {
+      "key": "T03201_0002",
+      "value": "There’s a shrine here."
+    },
+    {
+      "key": "T03202_0001",
+      "value": "The walls of the shrine are sturdy. It would\ntake a lot to break them."
+    },
+    {
+      "key": "T03203_0001",
+      "value": "There’s a mural here. What is it depicting?"
+    },
+    {
+      "key": "T03203_0002",
+      "value": "Are those...monsters? What are they doing?"
+    },
+    {
+      "key": "T03203_0003",
+      "value": "Is that our world?"
+    },
+    {
+      "key": "T03203_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T03204_0001",
+      "value": "What is this mural depicting?"
+    },
+    {
+      "key": "T03204_0002",
+      "value": "These figures off to the left, are they...\nmonsters?"
+    },
+    {
+      "key": "T03204_0003",
+      "value": "The figures to the right seem like a shrine\nmaid and other humans. Is this some ritual?"
+    },
+    {
+      "key": "T03204_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T03302_0001",
+      "value": "The walls of the shrine are sturdy. It would\ntake a lot to break them."
+    },
+    {
+      "key": "T03303_0001",
+      "value": "There’s a mural here. What is it depicting?"
+    },
+    {
+      "key": "T03303_0002",
+      "value": "Are those...monsters? What are they doing?"
+    },
+    {
+      "key": "T03303_0003",
+      "value": "Is that our world?"
+    },
+    {
+      "key": "T03303_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T03304_0001",
+      "value": "What is this mural depicting?"
+    },
+    {
+      "key": "T03304_0002",
+      "value": "These figures off to the left, are they...\nmonsters?"
+    },
+    {
+      "key": "T03304_0003",
+      "value": "The figures to the right seem like a shrine\nmaid and other humans. Is this some ritual?"
+    },
+    {
+      "key": "T03304_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T03402_0001",
+      "value": "The walls of the shrine are sturdy. It would\ntake a lot to break them."
+    },
+    {
+      "key": "T03403_0001",
+      "value": "There’s a mural here. What is it depicting?"
+    },
+    {
+      "key": "T03403_0002",
+      "value": "Are those...monsters? What are they doing?"
+    },
+    {
+      "key": "T03403_0003",
+      "value": "Is that our world?"
+    },
+    {
+      "key": "T03403_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T03404_0001",
+      "value": "What is this mural depicting?"
+    },
+    {
+      "key": "T03404_0002",
+      "value": "These figures off to the left, are they...\nmonsters?"
+    },
+    {
+      "key": "T03404_0003",
+      "value": "The figures to the right seem like a shrine\nmaid and other humans. Is this some ritual?"
+    },
+    {
+      "key": "T03404_0004",
+      "value": "Does this mean the people of our world once\nworshiped the monsters as Kemonogami?"
+    },
+    {
+      "key": "T04201_0001",
+      "value": "I don’t remember a dam being here before..."
+    },
+    {
+      "key": "T04202_0001",
+      "value": "I can’t believe how big it is! What’s going\non with this place?"
+    },
+    {
+      "key": "T04203_0001",
+      "value": "It looks pretty run down. Is this dam another\nreally old structure?"
+    },
+    {
+      "key": "T04204_0001",
+      "value": "The paint’s peeled off the railing in places.\nMakes it seem pretty old."
+    },
+    {
+      "key": "T04205_0001",
+      "value": "I can see mountains in the distance."
+    },
+    {
+      "key": "T04206_0001",
+      "value": "It’s a floodgate. Looks like it’s designed to\nrelease a huge amount of water."
+    },
+    {
+      "key": "T04207_0001",
+      "value": "There are footholds built into the wall, but\nI’d be too scared to use them."
+    },
+    {
+      "key": "T04208_0001",
+      "value": "Fall off the dam and you’d be a goner."
+    },
+    {
+      "key": "T04209_0001",
+      "value": "I wonder if that’s the control building."
+    },
+    {
+      "key": "T04301_0001",
+      "value": "Moss is growing on the concrete walls."
+    },
+    {
+      "key": "T04302_0001",
+      "value": "The trees are thick here. I doubt anything’s\nhiding inside."
+    },
+    {
+      "key": "T04303_0001",
+      "value": "The weeds are thick here."
+    },
+    {
+      "key": "T04304_0001",
+      "value": "It’s a fence. I bet I could get inside the\ndam and climb up from here."
+    },
+    {
+      "key": "T04305_0001",
+      "value": "There’s a small guard building here. Nobody’s\ninside."
+    },
+    {
+      "key": "T04306_0001",
+      "value": "There are footholds built into the wall. They\nmust use those to perform inspections."
+    },
+    {
+      "key": "T04307_0001",
+      "value": "It’s a floodgate. It’s quiet now, but I bet\nit’s real loud with water pouring through it."
+    },
+    {
+      "key": "T04308_0001",
+      "value": "Why is there even a dam here, anyway? What is\ngoing on with this world?"
+    },
+    {
+      "key": "T04309_0001",
+      "value": "There’s a river up ahead. I wouldn’t want to\nfall from here."
+    },
+    {
+      "key": "T04401_0001",
+      "value": "I guess there’s nothing here."
+    },
+    {
+      "key": "T04401_0002",
+      "value": "Nothing here but weeds."
+    },
+    {
+      "key": "T04402_0001",
+      "value": "No clues here."
+    },
+    {
+      "key": "T04402_0002",
+      "value": "I don’t see anything useful lying around."
+    },
+    {
+      "key": "T04403_0001",
+      "value": "It’s a boulder. The bottom half of it is sunk\ninto the ground."
+    },
+    {
+      "key": "T04403_0002",
+      "value": "I bet it’d be really hard to pull out that\nboulder. Not that there’s any reason to."
+    },
+    {
+      "key": "T04404_0001",
+      "value": "I can see a small boulder."
+    },
+    {
+      "key": "T04404_0002",
+      "value": "I doubt I could use this to make any sort of\nweapon."
+    },
+    {
+      "key": "T04405_0001",
+      "value": "I wonder what’s going on over there."
+    },
+    {
+      "key": "T04405_0002",
+      "value": "Doesn’t seem like there’s much need to\ninvestigate."
+    },
+    {
+      "key": "T04406_0001",
+      "value": "If I climb the path up this slope, I wonder\nwhere I’d come out."
+    },
+    {
+      "key": "T04406_0002",
+      "value": "There are...no enemies around, right?"
+    },
+    {
+      "key": "T04407_0001",
+      "value": "Nothing here but the smell of earth and\ngrass."
+    },
+    {
+      "key": "T04407_0002",
+      "value": "Looks like the slope keeps going."
+    },
+    {
+      "key": "T04408_0001",
+      "value": "Is that...a boulder?"
+    },
+    {
+      "key": "T04408_0002",
+      "value": "Just a rock."
+    },
+    {
+      "key": "T04501_0001",
+      "value": "A bunch of spindles or something have been\npiled up here."
+    },
+    {
+      "key": "T04502_0001",
+      "value": "Looks like some sort of panel. I wonder if\nit’s for generating power."
+    },
+    {
+      "key": "T04503_0001",
+      "value": "With these iron bars in the way, we’ll need\nto go through the door to move on."
+    },
+    {
+      "key": "T04504_0001",
+      "value": "It’s a waterway. Looks like it goes on for\nquite some distance."
+    },
+    {
+      "key": "T04504_0002",
+      "value": "It’s the waterway. Going through there was\nquite the journey..."
+    },
+    {
+      "key": "T04505_0001",
+      "value": "The door is locked."
+    },
+    {
+      "key": "T04505_0002",
+      "value": "I have the key, but I’d better wait until\neveryone is here before I open the door."
+    },
+    {
+      "key": "T04505_0003",
+      "value": "All right, the door’s open. Time to head\ninside."
+    },
+    {
+      "key": "T04506_0001",
+      "value": "Moss and weeds are growing on the walls."
+    },
+    {
+      "key": "T04507_0001",
+      "value": "There are footholds built into the wall, but\nI’d be too scared to use them."
+    },
+    {
+      "key": "T04508_0001",
+      "value": "Fall off the dam and you’d be a goner."
+    },
+    {
+      "key": "T04509_0001",
+      "value": "I wonder if that’s the control building."
+    },
+    {
+      "key": "T04701_0001",
+      "value": "The water is flowing quietly. No sign of an\nenemy."
+    },
+    {
+      "key": "T04702_0001",
+      "value": "A pipe is sticking out of the wall. Too small\nfor a person to fit through."
+    },
+    {
+      "key": "T04703_0001",
+      "value": "It’s a pipe. Water could come spilling out at\nany time, so I should be careful."
+    },
+    {
+      "key": "T04704_0001",
+      "value": "There are lights here. In this world, that’s\npretty rare."
+    },
+    {
+      "key": "T04705_0001",
+      "value": "That way leads to another waterway."
+    },
+    {
+      "key": "T04706_0001",
+      "value": "The waterway just goes on and on..."
+    },
+    {
+      "key": "T04707_0001",
+      "value": "We’re on solid footing here. No need to worry\nif it comes to a fight."
+    },
+    {
+      "key": "T04708_0001",
+      "value": "Who knew I’d end up walking through an\nunderground waterway like this?"
+    },
+    {
+      "key": "T04801_0001",
+      "value": "The waterway just goes on without end..."
+    },
+    {
+      "key": "T04802_0001",
+      "value": "The waterway forks into two paths here where\nit runs into another one."
+    },
+    {
+      "key": "T04803_0001",
+      "value": "My reflection in the water looks so\nhaggard..."
+    },
+    {
+      "key": "T04804_0001",
+      "value": "The ground here is slightly wet. I’ll have to\nbe careful not to slip."
+    },
+    {
+      "key": "T04805_0001",
+      "value": "It smells awful in here. Is that because of\nthe mold or something?"
+    },
+    {
+      "key": "T04901_0001",
+      "value": "There’s a large platform here. I wonder if\nthis is some sort of stockyard?"
+    },
+    {
+      "key": "T04902_0001",
+      "value": "Moss is growing on the floor. I wonder if\nthis waterway is really old, too."
+    },
+    {
+      "key": "T04903_0001",
+      "value": "It’s a pool of water."
+    },
+    {
+      "key": "T04904_0001",
+      "value": "The waterway continues straight on from here."
+    },
+    {
+      "key": "T04905_0001",
+      "value": "It’s a staircase. I bet we could use it to\nclimb out."
+    },
+    {
+      "key": "T04906_0001",
+      "value": "Parts of the wall have collapsed."
+    },
+    {
+      "key": "T04907_0001",
+      "value": "That was a lot of walking. We must be really\nfar from the island."
+    },
+    {
+      "key": "T04908_0001",
+      "value": "The water is pretty deep. I wouldn’t want to\nfall in."
+    },
+    {
+      "key": "T04909_0001",
+      "value": "I’m getting a little thirsty, but I probably\nshouldn’t drink any of this water."
+    },
+    {
+      "key": "T05401_0001",
+      "value": "I see a thicket. There doesn’t seem to be\nanything lurking inside."
+    },
+    {
+      "key": "T05402_0001",
+      "value": "The path continues on. I wonder where it\nleads."
+    },
+    {
+      "key": "T05402_0002",
+      "value": "The path continues on."
+    },
+    {
+      "key": "T05403_0001",
+      "value": "It’s a cliff. I’ll have to be careful.\nIf I fall off, I’m done for."
+    },
+    {
+      "key": "T05404_0001",
+      "value": "It’s an iron bridge. I just hope it isn’t\nbroken."
+    },
+    {
+      "key": "T05404_0002",
+      "value": "It’s the valley bridge. Should I cross it?"
+    },
+    {
+      "key": "T05405_0001",
+      "value": "There’s a mountain in the distance. I doubt\nI could manage that climb."
+    },
+    {
+      "key": "T05405_0002",
+      "value": "We used the ropeway to get to the top of that\nmountain."
+    },
+    {
+      "key": "T05501_0001",
+      "value": "The bridge goes all the way across to the\nother side."
+    },
+    {
+      "key": "T05502_0001",
+      "value": "The bridge is made of iron beams. It seems\npretty sturdy."
+    },
+    {
+      "key": "T05503_0001",
+      "value": "It’s a cable. It was probably put in to\nprovide extra support for safety."
+    },
+    {
+      "key": "T05504_0001",
+      "value": "It’s a railroad track. But there’s no sign of\nany train."
+    },
+    {
+      "key": "T05505_0001",
+      "value": "The wooden sleepers are in bad shape. I’ll\nneed to be careful not to fall through."
+    },
+    {
+      "key": "T05506_0001",
+      "value": "The river is running rapidly beneath the\nbridge. The last thing I want is to fall."
+    },
+    {
+      "key": "T06001_0001",
+      "value": "The river is running rapidly. I’d probably\ndrown if I fell in."
+    },
+    {
+      "key": "T06002_0001",
+      "value": "The rocky look of that cliff face makes me\nthink of Gotsumon..."
+    },
+    {
+      "key": "T06003_0001",
+      "value": "The river seems like it goes on forever...\nBut anyway, what’s my next move?"
+    },
+    {
+      "key": "T06301_0001",
+      "value": "It’s a broken coffee cup. I remember riding\nin one like that as a kid."
+    },
+    {
+      "key": "T06302_0001",
+      "value": "It’s a roller coaster, only it isn’t working.\nWas this made for monsters to ride in?"
+    },
+    {
+      "key": "T06303_0001",
+      "value": "That attraction seems to feature vehicles.\nI wonder if it’s broken too."
+    },
+    {
+      "key": "T06304_0001",
+      "value": "It’s the image of a clown. I wonder if this\nwas part of the decoration for something."
+    },
+    {
+      "key": "T06305_0001",
+      "value": "It’s a dry fountain. I wonder if it used to\nrun."
+    },
+    {
+      "key": "T06306_0001",
+      "value": "It’s a ticket booth, but obviously it’s\nabandoned now."
+    },
+    {
+      "key": "T06307_0001",
+      "value": "I see a gate. Looks like if I go through,\nI can reach the castle."
+    },
+    {
+      "key": "T06308_0001",
+      "value": "It’s a sign that says DreamLand. That must\nhave been the name of this park."
+    },
+    {
+      "key": "T06309_0001",
+      "value": "It’s a big Ferris wheel. Looks like it’s\nstill in good shape, but it’s not running."
+    },
+    {
+      "key": "T06310_0001",
+      "value": "It’s a trash can. It’s very colorful, like\nyou’d expect from an amusement park."
+    },
+    {
+      "key": "T06311_0001",
+      "value": "It’s a wooden horse from a merry-go-round. It\nmust have been abandoned here."
+    },
+    {
+      "key": "T06312_0001",
+      "value": "It’s a lawn, except the grass is dead now\nfrom lack of care."
+    },
+    {
+      "key": "T06313_0001",
+      "value": "This wall is in pretty bad shape, too."
+    },
+    {
+      "key": "T06314_0001",
+      "value": "I can see the castle. It looks like something\nout of a fairy tale."
+    },
+    {
+      "key": "T06314_0002",
+      "value": "That castle was built to be surprisingly\nsturdy."
+    },
+    {
+      "key": "T06401_0001",
+      "value": "It’s a stairway leading up."
+    },
+    {
+      "key": "T06402_0001",
+      "value": "Now that’s an impressive-looking pillar."
+    },
+    {
+      "key": "T06403_0001",
+      "value": "Inside the treasure chest is...nothing."
+    },
+    {
+      "key": "T06404_0001",
+      "value": "The path curves ahead."
+    },
+    {
+      "key": "T06405_0001",
+      "value": "The window is broken. Is no one going to\nfix it?"
+    },
+    {
+      "key": "T06406_0001",
+      "value": "It’s tattered and falling apart, but there’s\na red carpet like you’d expect in a castle."
+    },
+    {
+      "key": "T06407_0001",
+      "value": "That pillar looks sturdy."
+    },
+    {
+      "key": "T06501_0001",
+      "value": "Part of the window is broken. The rain would\ncome right in here."
+    },
+    {
+      "key": "T06502_0001",
+      "value": "It’s a treasure chest, but there’s nothing\ninside."
+    },
+    {
+      "key": "T06503_0001",
+      "value": "It’s a chandelier. It must be a real pain to\nlight all those candles."
+    },
+    {
+      "key": "T06503_0002",
+      "value": "It’s a chandelier. Do Patamon and Biyomon\nlight all those candles?"
+    },
+    {
+      "key": "T06504_0001",
+      "value": "The path curves up ahead. This castle sure is\nhuge!"
+    },
+    {
+      "key": "T06505_0001",
+      "value": "It’s a stairway leading up."
+    },
+    {
+      "key": "T06506_0001",
+      "value": "This candle stand is still in pretty good\nshape."
+    },
+    {
+      "key": "T06507_0001",
+      "value": "The walls are not looking good. This castle\nmust be pretty old, too."
+    },
+    {
+      "key": "T06508_0001",
+      "value": "It’s a rotting red carpet."
+    },
+    {
+      "key": "T06601_0001",
+      "value": "A bunch of junk is piled up here. I guess the\nmonsters don’t have any use for it."
+    },
+    {
+      "key": "T06602_0001",
+      "value": "It’s the throne. Miu really did seem like\na queen."
+    },
+    {
+      "key": "T06603_0001",
+      "value": "There’s a painting here on the wall, but it’s\nin such bad shape I can’t tell what it is."
+    },
+    {
+      "key": "T06604_0001",
+      "value": "It’s an abandoned robot toy. Miu must not\nhave liked it."
+    },
+    {
+      "key": "T06605_0001",
+      "value": "It’s a treasure chest! But there’s nothing\ninside."
+    },
+    {
+      "key": "T06606_0001",
+      "value": "The window is broken. They’re all like that\nin this castle."
+    },
+    {
+      "key": "T06607_0001",
+      "value": "There’s a stuffed animal on the floor. Miu\nmust have left it here after playing with it."
+    },
+    {
+      "key": "T06701_0001",
+      "value": "It’s locked up tight."
+    },
+    {
+      "key": "T06702_0001",
+      "value": "I’d rather not sleep in a bed this dirty."
+    },
+    {
+      "key": "T06703_0001",
+      "value": "It’s a cold stone wall. This place really\ndoes feel like a prison."
+    },
+    {
+      "key": "T06704_0001",
+      "value": "I...don’t see any holes anywhere."
+    },
+    {
+      "key": "T06705_0001",
+      "value": "That dim light only makes me feel more alone."
+    },
+    {
+      "key": "T06901_0001",
+      "value": "It’s an abandoned coffee cup from a ride."
+    },
+    {
+      "key": "T06902_0001",
+      "value": "I can see the amusement park’s roller\ncoaster."
+    },
+    {
+      "key": "T06903_0001",
+      "value": "It’s the amusement park’s Ferris wheel."
+    },
+    {
+      "key": "T06904_0001",
+      "value": "It’s the amusement park’s castle."
+    },
+    {
+      "key": "T06905_0001",
+      "value": "It’s a broken rusty fence."
+    },
+    {
+      "key": "T06906_0001",
+      "value": "Looks like an amusement park ride that’s been\nabandoned."
+    },
+    {
+      "key": "T07201_0001",
+      "value": "It’s a sign from the shopping district."
+    },
+    {
+      "key": "T07202_0001",
+      "value": "I can see an apartment complex in the\ndistance."
+    },
+    {
+      "key": "T07203_0001",
+      "value": "It’s a line of shops."
+    },
+    {
+      "key": "T07204_0001",
+      "value": "Huh. It’s an old shopping district..."
+    },
+    {
+      "key": "T07205_0001",
+      "value": "There’s a fence here, as well as a telephone\npole."
+    },
+    {
+      "key": "T07206_0001",
+      "value": "Forest surrounds every location. Was this\nworld originally just one big forest?"
+    },
+    {
+      "key": "T07207_0001",
+      "value": "One thing’s for sure. There’s no lack of\nlumber in this world."
+    },
+    {
+      "key": "T07208_0001",
+      "value": "I get nervous when I see a thicket...\nProbably because I’m afraid of an ambush."
+    },
+    {
+      "key": "T07209_0001",
+      "value": "And beyond the forest...is more forest."
+    },
+    {
+      "key": "T07301_0001",
+      "value": "It’s a sign for a traditional Japanese candy\nshop. I’ve only ever seen pictures of these."
+    },
+    {
+      "key": "T07302_0001",
+      "value": "It’s a wooden bench. Looks pretty beat up."
+    },
+    {
+      "key": "T07303_0001",
+      "value": "There are old-fashioned candies and toys\ninside. Kids must have loved this place."
+    },
+    {
+      "key": "T07304_0001",
+      "value": "It’s an old style gacha machine. I feel like\nI saw one or two like this growing up."
+    },
+    {
+      "key": "T07305_0001",
+      "value": "I think that’s a barber shop. Nobody’s\ninside."
+    },
+    {
+      "key": "T07306_0001",
+      "value": "There’s an apartment complex over there.\nI wonder if those people would shop here."
+    },
+    {
+      "key": "T07307_0001",
+      "value": "I’m...not sure what kind of store this is."
+    },
+    {
+      "key": "T07308_0001",
+      "value": "Looks like...nothing’s hiding between the\nbuildings."
+    },
+    {
+      "key": "T07309_0001",
+      "value": "What kind of shop could this be? I’d need to\nsee inside to figure it out."
+    },
+    {
+      "key": "T07310_0001",
+      "value": "A lot of the water drainage covers are\nmissing. I’ll have to watch my step."
+    },
+    {
+      "key": "T07501_0001",
+      "value": "It’s an abandoned old car. It’s a really\ndated model."
+    },
+    {
+      "key": "T07502_0001",
+      "value": "Lots of bikes are parked here, but they’re\nall so badly rusted they’re useless."
+    },
+    {
+      "key": "T07503_0001",
+      "value": "It’s a row of mailboxes, but they’re all\nempty."
+    },
+    {
+      "key": "T07504_0001",
+      "value": "The glass is broken. This must have been\nabandoned for a long time."
+    },
+    {
+      "key": "T07505_0001",
+      "value": "Some laundry is drying out on the balcony,\nonly it’s dirtier than ever now."
+    },
+    {
+      "key": "T07506_0001",
+      "value": "I can see another apartment complex just like\nthis one out front."
+    },
+    {
+      "key": "T07507_0001",
+      "value": "The weeds are out of control. I guess there’s\nno one around to handle them."
+    },
+    {
+      "key": "T07508_0001",
+      "value": "It’s a collapsed sign. It’s in such bad shape\nI can’t tell what it says."
+    },
+    {
+      "key": "T07509_0001",
+      "value": "This sign fell over and was abandoned.\nI wonder if people really used to live here."
+    },
+    {
+      "key": "T07510_0001",
+      "value": "The sky is clear. It’s a sunny, peaceful day."
+    },
+    {
+      "key": "T07601_0001",
+      "value": "This is badly broken."
+    },
+    {
+      "key": "T07602_0001",
+      "value": "It’s a swing set. One side is completely\nruined."
+    },
+    {
+      "key": "T07603_0001",
+      "value": "It’s a car. Some sort of three-wheeled truck\nI’m not very familiar with."
+    },
+    {
+      "key": "T07604_0001",
+      "value": "The ground is covered in chalk drawings. Did\nthe kids who used to live here draw them?"
+    },
+    {
+      "key": "T07605_0001",
+      "value": "It’s a tricycle. Looks like it’s completely\nrusted out, though."
+    },
+    {
+      "key": "T07606_0001",
+      "value": "The weeds are out of control. I guess there’s\nno one around to deal with them."
+    },
+    {
+      "key": "T07607_0001",
+      "value": "There are notices posted here, but they’re\nall torn and hard to read."
+    },
+    {
+      "key": "T07608_0001",
+      "value": "Did someone break all these windows? Was it\nthe monsters playing pranks?"
+    },
+    {
+      "key": "T07609_0001",
+      "value": "Looks like there’s a similar apartment\ncomplex further on."
+    },
+    {
+      "key": "T07701_0001",
+      "value": "This must be...a phone? Looks like it’s not\nworking, though."
+    },
+    {
+      "key": "T07702_0001",
+      "value": "There’s some candy here, but is it safe to\neat?"
+    },
+    {
+      "key": "T07703_0001",
+      "value": "Books, magazines, and other small items line\nthe shelves, but not much of use."
+    },
+    {
+      "key": "T07704_0001",
+      "value": "That’s a TV isn’t it? Such a classic model..."
+    },
+    {
+      "key": "T07705_0001",
+      "value": "It’s a cabinet. Looks pretty beaten up."
+    },
+    {
+      "key": "T07706_0001",
+      "value": "The trash can is empty."
+    },
+    {
+      "key": "T07707_0001",
+      "value": "That is one colorful dresser. It’s full of\nchildren’s clothes."
+    },
+    {
+      "key": "T07708_0001",
+      "value": "The bookcase is full of picture books and\nanthologies."
+    },
+    {
+      "key": "T07709_0001",
+      "value": "Looks like a kid’s drawing. I wonder if one\nof the kids who lived here drew it."
+    },
+    {
+      "key": "T07710_0001",
+      "value": "There are shelves set into the wall."
+    },
+    {
+      "key": "T07711_0001",
+      "value": "It’s a child’s study desk. Looks like it was\nused by a girl."
+    },
+    {
+      "key": "T07712_0001",
+      "value": "It’s a box of toys. There’s a bat, a ball,\nand some things for a doll house inside."
+    },
+    {
+      "key": "T07713_0001",
+      "value": "Grass is coming in through the window. This\nplace must have been abandoned for some time."
+    },
+    {
+      "key": "T07714_0001",
+      "value": "It’s a couch. The parents must have watched\ntheir children from here."
+    },
+    {
+      "key": "T07801_0001",
+      "value": "It’s a cable car. I’ve never ridden one\nbefore."
+    },
+    {
+      "key": "T07801_0002",
+      "value": "It’s a cable car. Not that we need to get to\nthat radio tower anymore..."
+    },
+    {
+      "key": "T07802_0001",
+      "value": "It’s the control panel. I wonder how this\nworks..."
+    },
+    {
+      "key": "T07802_0002",
+      "value": "It’s the control panel. Now, how did I get\nthis thing to work again?"
+    },
+    {
+      "key": "T07803_0001",
+      "value": "It’s the arm of the cable car. There’s no\nrust and it looks surprisingly sturdy."
+    },
+    {
+      "key": "T07804_0001",
+      "value": "It’s one of the supports. Looks like it’s\nstill intact."
+    },
+    {
+      "key": "T07805_0001",
+      "value": "The wall’s broken in and the weeds have taken\nover."
+    },
+    {
+      "key": "T07806_0001",
+      "value": "The ceiling has collapsed. This whole station\nlooks pretty worn down."
+    },
+    {
+      "key": "T07807_0001",
+      "value": "The floor’s collapsed. I’d better keep my\ndistance."
+    },
+    {
+      "key": "T07808_0001",
+      "value": "Looks like this is as far as it goes. Falling\nfrom here would be bad news."
+    },
+    {
+      "key": "T08401_0001",
+      "value": "I see a smokestack, but no smoke."
+    },
+    {
+      "key": "T08402_0001",
+      "value": "Looks like some sort of tank. What kind of\nfactory is this?"
+    },
+    {
+      "key": "T08403_0001",
+      "value": "Miyuki has got to be somewhere in that\nfactory!"
+    },
+    {
+      "key": "T08403_0002",
+      "value": "Hang in there, Miyuki. We’re coming for you!"
+    },
+    {
+      "key": "T08403_0003",
+      "value": "It’s the factory Piedmon was using as his\nheadquarters."
+    },
+    {
+      "key": "T08404_0001",
+      "value": "This place is huge. What is it even doing\nhere?"
+    },
+    {
+      "key": "T08405_0001",
+      "value": "Out behind the factory is more forest."
+    },
+    {
+      "key": "T08501_0001",
+      "value": "It’s a bucket. Seems to be empty."
+    },
+    {
+      "key": "T08502_0001",
+      "value": "Miyuki? Were are you?!"
+    },
+    {
+      "key": "T08502_0002",
+      "value": "The wall’s falling apart too. Just how old is\nthis factory?"
+    },
+    {
+      "key": "T08503_0001",
+      "value": "It’s a shipping container. There’s nothing\ninside."
+    },
+    {
+      "key": "T08504_0001",
+      "value": "It’s a staircase. It looks old, but it\ndoesn’t seem to be broken."
+    },
+    {
+      "key": "T08505_0001",
+      "value": "That must be a conveyor belt. Similar\nmachines are stationed along it."
+    },
+    {
+      "key": "T08506_0001",
+      "value": "It’s a bucket. This one is old and rusted."
+    },
+    {
+      "key": "T08507_0001",
+      "value": "It’s a tank. Was this once filled with some\nsort of material?"
+    },
+    {
+      "key": "T08508_0001",
+      "value": "Is Miyuki not here?"
+    },
+    {
+      "key": "T08508_0002",
+      "value": "The ground is exposed in places through the\nfloor. This place feels decrepit."
+    },
+    {
+      "key": "T08509_0001",
+      "value": "A large metal drum is lying on its side.\nNothing could be being made here anymore."
+    },
+    {
+      "key": "T08601_0001",
+      "value": "A huge tank has been placed here."
+    },
+    {
+      "key": "T08602_0001",
+      "value": "This looks like some sort of machine, though\nI have no idea what it’s for."
+    },
+    {
+      "key": "T08603_0001",
+      "value": "Looks like a valve used to operate the\nmachines."
+    },
+    {
+      "key": "T08604_0001",
+      "value": "There’s a door here. I wonder where it leads."
+    },
+    {
+      "key": "T08604_0002",
+      "value": "Miyuki was being held on the other side of\nthis door."
+    },
+    {
+      "key": "T08605_0001",
+      "value": "What’s this lever for? What’s it supposed to\noperate?"
+    },
+    {
+      "key": "T08606_0001",
+      "value": "The wall is broken down and abandoned."
+    },
+    {
+      "key": "T08607_0001",
+      "value": "Inside the box is...nothing."
+    },
+    {
+      "key": "T08608_0001",
+      "value": "There are pipes running along the floor.\nI wonder what they’re for?"
+    },
+    {
+      "key": "T08901_0001",
+      "value": "It’s a library. It looks newer than anything\nelse in this entire world."
+    },
+    {
+      "key": "T08902_0001",
+      "value": "There aren’t any enemies around...are there?"
+    },
+    {
+      "key": "T08903_0001",
+      "value": "This doesn’t seem that different from any\nother part of the forest."
+    },
+    {
+      "key": "T08904_0001",
+      "value": "It’s a path. Well, more of a game trail than\nanything."
+    },
+    {
+      "key": "T08905_0001",
+      "value": "Lately I think I’ve been able to recognize\ndifferent types of trees...or maybe not."
+    },
+    {
+      "key": "T08906_0001",
+      "value": "The grass here is thick. It’s almost more\nlike a jungle."
+    },
+    {
+      "key": "T09101_0001",
+      "value": "It’s the entrance to the library. The door\nisn’t locked."
+    },
+    {
+      "key": "T09102_0001",
+      "value": "There are flyers posted on the bulletin\nboard. The dates all look recent."
+    },
+    {
+      "key": "T09103_0001",
+      "value": "Why a library? It’s like anything could be\nhere."
+    },
+    {
+      "key": "T09104_0001",
+      "value": "It’s a two-story library. But what is it\ndoing here?"
+    },
+    {
+      "key": "T09105_0001",
+      "value": "A library in the middle of a thicket, huh?"
+    },
+    {
+      "key": "T09106_0001",
+      "value": "Nobody’s inside...right?"
+    },
+    {
+      "key": "T09107_0001",
+      "value": "We should be careful. Enemies could be\nlurking anywhere."
+    },
+    {
+      "key": "T09108_0001",
+      "value": "It’s a huge tree. I’d...better not try and\nclimb it."
+    },
+    {
+      "key": "T09109_0001",
+      "value": "I can’t believe how nice it is here. It’s the\nonly thing in this world that isn’t a ruin."
+    }
+  ]
+}

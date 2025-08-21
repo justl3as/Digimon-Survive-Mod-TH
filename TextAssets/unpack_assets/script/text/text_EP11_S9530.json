@@ -1,0 +1,196 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9530_0001",
+      "value": "...Shoot. I can’t find anything."
+    },
+    {
+      "key": "EP11_S9530_0002",
+      "value": "Is there nothing here...?"
+    },
+    {
+      "key": "EP11_S9530_0003",
+      "value": "It’s possible... Maybe we should search\nsomewhere else."
+    },
+    {
+      "key": "EP11_S9530_0004",
+      "value": "Did we come here for nothing, then?"
+    },
+    {
+      "key": "EP11_S9530_0005",
+      "value": "We have so little time. What a waste..."
+    },
+    {
+      "key": "EP11_S9530_0006",
+      "value": "Don’t worry. We’ve been able to find the\nother Sovereign Monsters up to now."
+    },
+    {
+      "key": "EP11_S9530_0007",
+      "value": "Well that’s true.."
+    },
+    {
+      "key": "EP11_S9530_0008",
+      "value": "(I get why Ryo feels uneasy, but we won’t get\nanywhere if we give up here.)"
+    },
+    {
+      "key": "EP11_S9530_0009",
+      "value": "(I could encourage him, or scold him... Or\nheck, I could leave it to Aoi here.)"
+    },
+    {
+      "key": "EP11_S9530_Q1",
+      "value": "(What should I do?)"
+    },
+    {
+      "key": "EP11_S9530_Q1_A1",
+      "value": "Encourage Ryo."
+    },
+    {
+      "key": "EP11_S9530_Q1_A2",
+      "value": "Leave it to Aoi."
+    },
+    {
+      "key": "EP11_S9530_Q1_A3",
+      "value": "Scold him."
+    },
+    {
+      "key": "EP11_S9530_0010",
+      "value": "Encourage Ryo."
+    },
+    {
+      "key": "EP11_S9530_0011",
+      "value": "Don’t worry, the shrine must be around here.\nLet’s believe in Renamon."
+    },
+    {
+      "key": "EP11_S9530_0012",
+      "value": "...Yeah, true. Getting down in the dumps\nabout it won’t help anything."
+    },
+    {
+      "key": "EP11_S9530_0013",
+      "value": "Ryo... You really have changed, haven’t you?"
+    },
+    {
+      "key": "EP11_S9530_0014",
+      "value": "What, did I say something funny?"
+    },
+    {
+      "key": "EP11_S9530_0015",
+      "value": "It’s just, you were never such a constructive\nthinker before."
+    },
+    {
+      "key": "EP11_S9530_0016",
+      "value": "Constructive wh—? What, y-you tryin’ to\nbuild up my ego or something?"
+    },
+    {
+      "key": "EP11_S9530_0017",
+      "value": "I’m just saying you’ve grown, that’s all."
+    },
+    {
+      "key": "EP11_S9530_0018",
+      "value": "Oh, shut up! Come on, let’s keep moving!"
+    },
+    {
+      "key": "EP11_S9530_0019",
+      "value": "Hehe, he’s not even trying to hide his\nembarrassment. I definitely call that growth."
+    },
+    {
+      "key": "EP11_S9530_0020",
+      "value": "Leave it to Aoi."
+    },
+    {
+      "key": "EP11_S9530_0021",
+      "value": "I understand how you feel, Ryo, but let’s\nkeep at it a bit longer, okay?"
+    },
+    {
+      "key": "EP11_S9530_0022",
+      "value": "If we give up, who’s going to save this\nworld?"
+    },
+    {
+      "key": "EP11_S9530_0023",
+      "value": "Don’t worry, our efforts will be rewarded,\nI promise you."
+    },
+    {
+      "key": "EP11_S9530_0024",
+      "value": "Well... If you two’re gonna go that far, it’d\nbe lame of me to keep complaining."
+    },
+    {
+      "key": "EP11_S9530_0025",
+      "value": "Fine, I’ll keep going a while longer."
+    },
+    {
+      "key": "EP11_S9530_0026",
+      "value": "Thanks, Ryo. I’m proud of you!"
+    },
+    {
+      "key": "EP11_S9530_0027",
+      "value": "Yo, don’t praise me like some brat on a swing\nset!"
+    },
+    {
+      "key": "EP11_S9530_0028",
+      "value": "What?! No, I, I didn’t mean to—"
+    },
+    {
+      "key": "EP11_S9530_0029",
+      "value": "(I got the same feeling but, eh, I’ll keep my\nmouth shut. It was pretty funny, after all.)"
+    },
+    {
+      "key": "EP11_S9530_0030",
+      "value": "Scold him."
+    },
+    {
+      "key": "EP11_S9530_0031",
+      "value": "Don’t be spineless, man. You gotta cheer up,\nat least."
+    },
+    {
+      "key": "EP11_S9530_0032",
+      "value": "I know that..."
+    },
+    {
+      "key": "EP11_S9530_0033",
+      "value": "It’s just not that easy."
+    },
+    {
+      "key": "EP11_S9530_0034",
+      "value": "Yes. We have to find something..."
+    },
+    {
+      "key": "EP11_S9530_0035",
+      "value": "C’mon, you two, keep it together! Seriously!"
+    },
+    {
+      "key": "EP11_S9530_0036",
+      "value": "...Yes, I’ll try my best."
+    },
+    {
+      "key": "EP11_S9530_0037",
+      "value": "...Sure."
+    },
+    {
+      "key": "EP11_S9530_0038",
+      "value": "(...These guys have no spirit.)"
+    },
+    {
+      "key": "EP11_S9530_0039",
+      "value": "Well, are we gonna get back to it or what?"
+    },
+    {
+      "key": "EP11_S9530_0040",
+      "value": "Yes, let’s give it one more try!"
+    },
+    {
+      "key": "EP11_S9530_0041",
+      "value": "Yes, let’s give it one more try!"
+    },
+    {
+      "key": "EP11_S9530_0042",
+      "value": "(It’s definitely gotta be around here. So\nwhere the heck is it?!)"
+    },
+    {
+      "key": "EP11_S9530_0043",
+      "value": "Sorry man, I ain’t found nothing."
+    },
+    {
+      "key": "EP11_S9530_0044",
+      "value": "We’ll keep looking around here. Why don’t you\ncheck another area, Takuma?"
+    }
+  ]
+}

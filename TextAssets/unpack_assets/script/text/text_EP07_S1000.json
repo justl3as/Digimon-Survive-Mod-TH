@@ -1,0 +1,188 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S1000_0001",
+      "value": "Hey Takuma. Glad to see it looks like you had\na good night’s rest."
+    },
+    {
+      "key": "EP07_S1000_0002",
+      "value": "And look who else is up early! Did you sleep\nwell, too?"
+    },
+    {
+      "key": "EP07_S1000_0003",
+      "value": "She kept waking up all night, actually. Must\nbe her nerves."
+    },
+    {
+      "key": "EP07_S1000_0004",
+      "value": "Did you really have to go and share that,\nLabramon?"
+    },
+    {
+      "key": "EP07_S1000_0005",
+      "value": "If you’re feeling bad from lack of sleep,\nthen maybe you should talk to the othe—"
+    },
+    {
+      "key": "EP07_S1000_0006",
+      "value": "That’s not necessary! I’m fine, not tired at\nall."
+    },
+    {
+      "key": "EP07_S1000_0007",
+      "value": "It’s just... How do I put this?"
+    },
+    {
+      "key": "EP07_S1000_0008",
+      "value": "I’m worried. What if someone gets hurt?"
+    },
+    {
+      "key": "EP07_S1000_0009",
+      "value": "Maybe we should be making more detailed plans\nand learning more about our opponent?"
+    },
+    {
+      "key": "EP07_S1000_0010",
+      "value": "I just keep thinking, what if we set off like\nthis and someone gets hurt, and..."
+    },
+    {
+      "key": "EP07_S1000_0011",
+      "value": "(Aoi knows this is the final fight and is\ngetting nervous.)"
+    },
+    {
+      "key": "EP07_S1000_0012",
+      "value": "(But we don’t have many leads to act on, to\nput it lightly.)"
+    },
+    {
+      "key": "EP07_S1000_0013",
+      "value": "(I’m sure Aoi knows it, too. But maybe she’s\nstruggling with confidence.)"
+    },
+    {
+      "key": "EP07_S1000_Q1",
+      "value": "(What should I say to boost her confidence?)"
+    },
+    {
+      "key": "EP07_S1000_Q1_A1",
+      "value": "I’ll handle it."
+    },
+    {
+      "key": "EP07_S1000_Q1_A2",
+      "value": "We’ll be fine."
+    },
+    {
+      "key": "EP07_S1000_Q1_A3",
+      "value": "No time to worry."
+    },
+    {
+      "key": "EP07_S1000_0014",
+      "value": "I’ll handle it."
+    },
+    {
+      "key": "EP07_S1000_0015",
+      "value": "I can handle this. Let me deal with it, okay?"
+    },
+    {
+      "key": "EP07_S1000_0016",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP07_S1000_0017",
+      "value": "There’s no denying the danger, but getting\nbent out of shape about it won’t help."
+    },
+    {
+      "key": "EP07_S1000_0018",
+      "value": "We have to act to seize victory and make our\nhopes come true."
+    },
+    {
+      "key": "EP07_S1000_0019",
+      "value": "But, Takuma..."
+    },
+    {
+      "key": "EP07_S1000_0020",
+      "value": "If anything bad happens in the process, I’ll\nhandle it. Trust me on that."
+    },
+    {
+      "key": "EP07_S1000_0021",
+      "value": "Takuma!"
+    },
+    {
+      "key": "EP07_S1000_0022",
+      "value": "I’ll make sure no one gets hurt. You can\nleave your worries to me."
+    },
+    {
+      "key": "EP07_S1000_0023",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP07_S1000_0024",
+      "value": "But if something does happen, WE will be the\nones to fight, not you."
+    },
+    {
+      "key": "EP07_S1000_0025",
+      "value": "Er, that’s true, but I’ll, like...do an\namazing job at staying out of your way!"
+    },
+    {
+      "key": "EP07_S1000_0026",
+      "value": "Hehe... Right. That’s the spirit!"
+    },
+    {
+      "key": "EP07_S1000_0027",
+      "value": "I’m sure there are things we can do, too, to\nmake sure no one gets hurt."
+    },
+    {
+      "key": "EP07_S1000_0028",
+      "value": "Thank you, Takuma. Let’s do all we can."
+    },
+    {
+      "key": "EP07_S1000_0029",
+      "value": "We’ll be fine."
+    },
+    {
+      "key": "EP07_S1000_0030",
+      "value": "It’s going to be okay. Don’t worry."
+    },
+    {
+      "key": "EP07_S1000_0031",
+      "value": "As long as we stick together, this is all\ngoing to work out."
+    },
+    {
+      "key": "EP07_S1000_0032",
+      "value": "Trust me, I won’t allow anyone to get hurt."
+    },
+    {
+      "key": "EP07_S1000_0033",
+      "value": "I’ll make sure to keep everyone safe, too. So\nthere’s nothing to worry about!"
+    },
+    {
+      "key": "EP07_S1000_0034",
+      "value": "Right... Thank you, guys."
+    },
+    {
+      "key": "EP07_S1000_0035",
+      "value": "No time to worry."
+    },
+    {
+      "key": "EP07_S1000_0036",
+      "value": "It will take courage to enter enemy\nterritory, but we’re out of other options."
+    },
+    {
+      "key": "EP07_S1000_0037",
+      "value": "Wasting time here might even prevent us from\nmaking it back home."
+    },
+    {
+      "key": "EP07_S1000_0038",
+      "value": "You mean there’s no choice but to have\nconfidence in ourselves?"
+    },
+    {
+      "key": "EP07_S1000_0039",
+      "value": "Exactly. There’s no completely safe path\nmoving forward."
+    },
+    {
+      "key": "EP07_S1000_0040",
+      "value": "Yeah... I guess you’re right."
+    },
+    {
+      "key": "EP07_S1000_0041",
+      "value": "If you’re awake, everyone else must be, too."
+    },
+    {
+      "key": "EP07_S1000_0042",
+      "value": "Let’s get started on breakfast, then. After\nthat we can head out."
+    }
+  ]
+}

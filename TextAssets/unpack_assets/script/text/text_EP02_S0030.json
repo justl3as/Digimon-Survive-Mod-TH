@@ -1,0 +1,460 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0030_0001",
+      "value": "Morning."
+    },
+    {
+      "key": "EP02_S0030_0002",
+      "value": "Oh, good morning..."
+    },
+    {
+      "key": "EP02_S0030_0003",
+      "value": "Wait, why are we being so polite to little kids?"
+    },
+    {
+      "key": "EP02_S0030_0004",
+      "value": "...Morning."
+    },
+    {
+      "key": "EP02_S0030_0005",
+      "value": "Oh! Good day, m’lady."
+    },
+    {
+      "key": "EP02_S0030_0006",
+      "value": "Is that how you always talk to girls?"
+    },
+    {
+      "key": "EP02_S0030_0007",
+      "value": "I’ll have you know I’m a gentleman!"
+    },
+    {
+      "key": "EP02_S0030_0008",
+      "value": "Um... Miyuki, was it? Morning. Sorry for\nmistaking you for a ghost yesterday."
+    },
+    {
+      "key": "EP02_S0030_0009",
+      "value": "No worries. It didn’t bother us."
+    },
+    {
+      "key": "EP02_S0030_0010",
+      "value": "..."
+    },
+    {
+      "key": "EP02_S0030_0011",
+      "value": "And Ryo... Oh, look how far away he is.\nIs he still scared?"
+    },
+    {
+      "key": "EP02_S0030_0012",
+      "value": "Guess those two still weird him out, huh?"
+    },
+    {
+      "key": "EP02_S0030_0013",
+      "value": "He screamed and fainted, so yeah!"
+    },
+    {
+      "key": "EP02_S0030_0014",
+      "value": "(He did faint, after all.)"
+    },
+    {
+      "key": "EP02_S0030_0015",
+      "value": "He’s not exactly hiding it. Look at him staring\nat them from over there."
+    },
+    {
+      "key": "EP02_S0030_0016",
+      "value": "Oh, good morning you two.\nDid you get any sleep?"
+    },
+    {
+      "key": "EP02_S0030_0017",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP02_S0030_0018",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP02_S0030_0019",
+      "value": "(There they go again. Are they on the same\nwavelength, or is she just parroting him?)"
+    },
+    {
+      "key": "EP02_S0030_0020",
+      "value": "I see. Well, let us know if you need\nanything, okay? We’ve got to stick together."
+    },
+    {
+      "key": "EP02_S0030_0021",
+      "value": "..."
+    },
+    {
+      "key": "EP02_S0030_0022",
+      "value": "Thank you. We appreciate the sentiment."
+    },
+    {
+      "key": "EP02_S0030_0023",
+      "value": "Sentiment..."
+    },
+    {
+      "key": "EP02_S0030_0024",
+      "value": "Ah... That’s, that’s a big word for a girl\nyour age, isn’t it, Miyuki?"
+    },
+    {
+      "key": "EP02_S0030_0025",
+      "value": "(Aoi is always considerate, but I guess she\nhas some trouble with people like this.)"
+    },
+    {
+      "key": "EP02_S0030_0026",
+      "value": "Please don’t worry about her.\nShe’s been like this for a while now."
+    },
+    {
+      "key": "EP02_S0030_0027",
+      "value": "I see..."
+    },
+    {
+      "key": "EP02_S0030_0028",
+      "value": "She went through a terrifying ordeal. She was\nable to protect me, but ever since..."
+    },
+    {
+      "key": "EP02_S0030_0029",
+      "value": "A terrifying ordeal?"
+    },
+    {
+      "key": "EP02_S0030_0030",
+      "value": "I don’t remember..."
+    },
+    {
+      "key": "EP02_S0030_0031",
+      "value": "(Man... I don’t know what happened, but it\nmust’ve left some deep scars on them...)"
+    },
+    {
+      "key": "EP02_S0030_0032",
+      "value": "Poor thing..."
+    },
+    {
+      "key": "EP02_S0030_0033",
+      "value": "(One wrong move, and the same thing could’ve\nhappened to us.)"
+    },
+    {
+      "key": "EP02_S0030_0034",
+      "value": "(If we hadn’t met Agumon and the others...\nI shudder to think what would’ve happened.)"
+    },
+    {
+      "key": "EP02_S0030_0201",
+      "value": "(This was supposed to be just a fun camping\ntrip. Why’d it have to turn out like this?)"
+    },
+    {
+      "key": "EP02_S0030_0035",
+      "value": "(They’re an odd pair, but it looks like\nthey’re lost in here same as us.)"
+    },
+    {
+      "key": "EP02_S0030_0036",
+      "value": "Moving on...\nIs there anything else you wish to discuss?"
+    },
+    {
+      "key": "EP02_S0030_0037",
+      "value": "Let’s see... Oh yeah, what’s up with that fog\noutside?"
+    },
+    {
+      "key": "EP02_S0030_0038",
+      "value": "I told you, it’s dangerous! You shouldn’t get\ntoo close!"
+    },
+    {
+      "key": "EP02_S0030_0039",
+      "value": "Who knows what happens to those who breathe\nit in!"
+    },
+    {
+      "key": "EP02_S0030_0040",
+      "value": "It’s like they disappear without a trace..."
+    },
+    {
+      "key": "EP02_S0030_0041",
+      "value": "Oh? Maybe we can make it back to our world if\nwe go into that fog, then?"
+    },
+    {
+      "key": "EP02_S0030_0042",
+      "value": "No, you can’t!"
+    },
+    {
+      "key": "EP02_S0030_0043",
+      "value": "Just don’t!"
+    },
+    {
+      "key": "EP02_S0030_0044",
+      "value": "You really shouldn’t."
+    },
+    {
+      "key": "EP02_S0030_0045",
+      "value": "They’re right. Trial and error could lead to\nirreversible consequences!"
+    },
+    {
+      "key": "EP02_S0030_0046",
+      "value": "Indeed. I cannot say for certain, but my\ninstincts speak to the potential threat."
+    },
+    {
+      "key": "EP02_S0030_0047",
+      "value": "Well, it was the fog that made us pass out\nand got us lost in the first place."
+    },
+    {
+      "key": "EP02_S0030_0048",
+      "value": "(We’ve all experienced that. I don’t know\nwhat it is, but it’s definitely dangerous.)"
+    },
+    {
+      "key": "EP02_S0030_Q1",
+      "value": "(Can we do something about the fog?)"
+    },
+    {
+      "key": "EP02_S0030_Q1_A1",
+      "value": "Stay away from it."
+    },
+    {
+      "key": "EP02_S0030_Q1_A2",
+      "value": "Go right around it."
+    },
+    {
+      "key": "EP02_S0030_Q1_A3",
+      "value": "Put that off for now."
+    },
+    {
+      "key": "EP02_S0030_0049",
+      "value": "It’s dangerous. We need to stay away."
+    },
+    {
+      "key": "EP02_S0030_0050",
+      "value": "That’s it! We’ll just stay here!"
+    },
+    {
+      "key": "EP02_S0030_0051",
+      "value": "Whatever we do, I don’t think any good will\ncome of staying here."
+    },
+    {
+      "key": "EP02_S0030_0052",
+      "value": "Right. Well, no matter where we go, we’d\nbetter avoid the fog."
+    },
+    {
+      "key": "EP02_S0030_0053",
+      "value": "Sounds about right. But look, the entire\nschool is surrounded by that stuff."
+    },
+    {
+      "key": "EP02_S0030_0054",
+      "value": "It’s pretty hard to tell when and where the\nfog will spread to next..."
+    },
+    {
+      "key": "EP02_S0030_0055",
+      "value": "So where are we supposed to go?\nWe ain’t got a clue!"
+    },
+    {
+      "key": "EP02_S0030_0056",
+      "value": "True..."
+    },
+    {
+      "key": "EP02_S0030_0057",
+      "value": "There’s too many questions about the fog.\nLet’s forget about it for now."
+    },
+    {
+      "key": "EP02_S0030_0058",
+      "value": "Can we? Wouldn’t it be dangerous to not think\nof a plan?"
+    },
+    {
+      "key": "EP02_S0030_0059",
+      "value": "But what do we know? Nothing!\nWhat plan can we make?"
+    },
+    {
+      "key": "EP02_S0030_0060",
+      "value": "Well, yeah, but..."
+    },
+    {
+      "key": "EP02_S0030_0061",
+      "value": "We can’t go anywhere the way things are\ngoing! We haven’t even eaten since yesterday."
+    },
+    {
+      "key": "EP02_S0030_0062",
+      "value": "Something edible would be good..."
+    },
+    {
+      "key": "EP02_S0030_0063",
+      "value": "Why don’t we split up and search the school?"
+    },
+    {
+      "key": "EP02_S0030_0064",
+      "value": "No, first we should see if anyone else is here."
+    },
+    {
+      "key": "EP02_S0030_0065",
+      "value": "We’ve already discovered Miyuki and Haru,\nwho aren’t camp members."
+    },
+    {
+      "key": "EP02_S0030_0066",
+      "value": "It wouldn’t be too surprising if there were\nothers around somewhere, too."
+    },
+    {
+      "key": "EP02_S0030_0067",
+      "value": "True... And now that you mention it, where\ndid you two come from?"
+    },
+    {
+      "key": "EP02_S0030_0068",
+      "value": "Umm... Over there."
+    },
+    {
+      "key": "EP02_S0030_0069",
+      "value": "Over there."
+    },
+    {
+      "key": "EP02_S0030_0070",
+      "value": "And where exactly is...over there?"
+    },
+    {
+      "key": "EP02_S0030_0071",
+      "value": "Over there."
+    },
+    {
+      "key": "EP02_S0030_0072",
+      "value": "Over there."
+    },
+    {
+      "key": "EP02_S0030_0073",
+      "value": "I see..."
+    },
+    {
+      "key": "EP02_S0030_0074",
+      "value": "This is getting us nowhere!"
+    },
+    {
+      "key": "EP02_S0030_0075",
+      "value": "It ain’t like brats are gonna be straight\nwith you. Anyway, the girl acts like a baby."
+    },
+    {
+      "key": "EP02_S0030_0076",
+      "value": "That’s going too far, Ryo!"
+    },
+    {
+      "key": "EP02_S0030_0202",
+      "value": "(They’re an odd pair, but it looks like\nthey’re lost in here same as us.)"
+    },
+    {
+      "key": "EP02_S0030_0077",
+      "value": "Anyway, we still don’t know whether or not\nanyone else is actually here."
+    },
+    {
+      "key": "EP02_S0030_0078",
+      "value": "Considering how those of us who got lost\nended up at this school..."
+    },
+    {
+      "key": "EP02_S0030_0079",
+      "value": "...I bet Saki, Shuuji and the professor are\nsomewhere nearby."
+    },
+    {
+      "key": "EP02_S0030_0080",
+      "value": "Nearby... You mean at that shrine?\nWe were all there, after all."
+    },
+    {
+      "key": "EP02_S0030_0081",
+      "value": "Yeah, so why don’t we look there, too?"
+    },
+    {
+      "key": "EP02_S0030_0082",
+      "value": "Now hold on. We still don’t know if this is\nanother world, do we?"
+    },
+    {
+      "key": "EP02_S0030_0083",
+      "value": "And even if we assume it is, it would have to\nbe connected to our world somehow, right?"
+    },
+    {
+      "key": "EP02_S0030_0084",
+      "value": "Otherwise it would be weird to find a human\nbuilding here."
+    },
+    {
+      "key": "EP02_S0030_0085",
+      "value": "I think I get it. You’re saying whatever\nboundary there is may be weaker somewhere..."
+    },
+    {
+      "key": "EP02_S0030_0086",
+      "value": "If that’s true, it’s possible that someone\nmay come looking for us."
+    },
+    {
+      "key": "EP02_S0030_0087",
+      "value": "I think it would be best to wait here for\nhelp instead of wandering around."
+    },
+    {
+      "key": "EP02_S0030_0088",
+      "value": "...I agree."
+    },
+    {
+      "key": "EP02_S0030_0089",
+      "value": "(Wow. Ryo’s not arguing?)"
+    },
+    {
+      "key": "EP02_S0030_0090",
+      "value": "Then in the meantime, we should find some\nkind of food—"
+    },
+    {
+      "key": "EP02_S0030_0091",
+      "value": "It ain’t like help’s gonna come, anyway!"
+    },
+    {
+      "key": "EP02_S0030_0092",
+      "value": "Huh...?"
+    },
+    {
+      "key": "EP02_S0030_0093",
+      "value": "You think Shuuji and that egghead are out\nthere? How d’ya plan on looking for them?!"
+    },
+    {
+      "key": "EP02_S0030_0094",
+      "value": "There ain’t nothing we can do but sit tight\nand wait it out..."
+    },
+    {
+      "key": "EP02_S0030_0095",
+      "value": "That won’t help anything!"
+    },
+    {
+      "key": "EP02_S0030_0096",
+      "value": "You got any suggestions? It ain’t like moving\naround will do us any good."
+    },
+    {
+      "key": "EP02_S0030_0097",
+      "value": "We got wrapped up in all this without doing\nanything, right?"
+    },
+    {
+      "key": "EP02_S0030_0098",
+      "value": "So why do you think we can do something\nand go back?"
+    },
+    {
+      "key": "EP02_S0030_0099",
+      "value": "Runnin’ around blind just puts us at more\nrisk for no reason."
+    },
+    {
+      "key": "EP02_S0030_0100",
+      "value": "But hey, it’s your funeral."
+    },
+    {
+      "key": "EP02_S0030_0101",
+      "value": "(...His attitude still needs some work, but\nI see his point.)"
+    },
+    {
+      "key": "EP02_S0030_0102",
+      "value": "(Minoru and Aoi are only talking about\npossibilities. Doesn’t exactly help us...)"
+    },
+    {
+      "key": "EP02_S0030_0103",
+      "value": "(He speaks the truth. No point in searching\nif it puts us in danger for no reason.)"
+    },
+    {
+      "key": "EP02_S0030_0104",
+      "value": "(Still, sounds like he’s totally given up...)"
+    },
+    {
+      "key": "EP02_S0030_0105",
+      "value": "(Aoi at least wants to look around a bit for\nfood and supplies.)"
+    },
+    {
+      "key": "EP02_S0030_0106",
+      "value": "(Minoru wants to go out and see if we can\nfind anyone nearby.)"
+    },
+    {
+      "key": "EP02_S0030_0107",
+      "value": "(And Ryo thinks it’s all pointless, so he\nwants to hole up here.)"
+    },
+    {
+      "key": "EP02_S0030_0108",
+      "value": "(Well then, what should I do?)"
+    }
+  ]
+}

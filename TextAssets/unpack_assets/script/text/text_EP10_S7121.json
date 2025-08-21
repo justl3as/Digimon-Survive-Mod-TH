@@ -1,0 +1,400 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S7121_0001",
+      "value": "Sorry to keep ya waiting, Takuma!"
+    },
+    {
+      "key": "EP10_S7121_0002",
+      "value": "You good now, Kaito?"
+    },
+    {
+      "key": "EP10_S7121_0003",
+      "value": "Looks like we’re right as rain, thanks to\na certain somebody."
+    },
+    {
+      "key": "EP10_S7121_0004",
+      "value": "Glad we could help. I’m relieved to know\neveryone’s safe."
+    },
+    {
+      "key": "EP10_S7121_0005",
+      "value": "Takuma...!"
+    },
+    {
+      "key": "EP10_S7121_0006",
+      "value": "Labramon! And Aoi! I’m so glad to see you\nguys are okay!"
+    },
+    {
+      "key": "EP10_S7121_0007",
+      "value": "You did mention Aoi’s condition,\nso I was worried about her."
+    },
+    {
+      "key": "EP10_S7121_0008",
+      "value": "How’s she doing now?"
+    },
+    {
+      "key": "EP10_S7121_0009",
+      "value": "She seems to have calmed down a bit. Still..."
+    },
+    {
+      "key": "EP10_S7121_0010",
+      "value": "Sa...Saki... Where...are you...?"
+    },
+    {
+      "key": "EP10_S7121_0011",
+      "value": "(Aoi... She’s sickly pale... Was she shown\nher own vision?)"
+    },
+    {
+      "key": "EP10_S7121_0012",
+      "value": "(And of Saki, from the sound of it! How\nawful!)"
+    },
+    {
+      "key": "EP10_S7121_0013",
+      "value": "Aoi’s calmed down a bit from before, but..."
+    },
+    {
+      "key": "EP10_S7121_0014",
+      "value": "Saki... Where? Where have you gone...?"
+    },
+    {
+      "key": "EP10_S7121_0015",
+      "value": "(She knows any Saki she met here must be a\nvision. But she still sounds shook up about it...)"
+    },
+    {
+      "key": "EP10_S7121_0016",
+      "value": "(At any rate, I get the feeling things’ll get\nworse if we don’t leave here soon!)"
+    },
+    {
+      "key": "EP10_S7121_0017",
+      "value": "What should we do now?"
+    },
+    {
+      "key": "EP10_S7121_0018",
+      "value": "Let’s join up with the others. We’ll break\na window or door and escape this place."
+    },
+    {
+      "key": "EP10_S7121_0019",
+      "value": "Can’t go looking around while we’re caught in\na trap. We have to get out of here first."
+    },
+    {
+      "key": "EP10_S7121_0020",
+      "value": "You humans really think you can escape just\nlike that?"
+    },
+    {
+      "key": "EP10_S7121_0021",
+      "value": "Renamon..."
+    },
+    {
+      "key": "EP10_S7121_0022",
+      "value": "An ambush, is it?"
+    },
+    {
+      "key": "EP10_S7121_0023",
+      "value": "No point in capturing you if we let you just\nrun off, now is there?"
+    },
+    {
+      "key": "EP10_S7121_0024",
+      "value": "Stop putting up this pointless resistance,\nand give yourself up to be sacrificed!"
+    },
+    {
+      "key": "EP10_S7121_0025",
+      "value": "Hold on, Renamon. Are you offering sacrifices\nto the Master?"
+    },
+    {
+      "key": "EP10_S7121_0026",
+      "value": "Why would you ally yourself with him?! After\nwhat he’s done to Miyuki...!"
+    },
+    {
+      "key": "EP10_S7121_0027",
+      "value": "Hold up, Renamon! Tell us what you’re really\nafter!"
+    },
+    {
+      "key": "EP10_S7121_0028",
+      "value": "Minoru!"
+    },
+    {
+      "key": "EP10_S7121_0029",
+      "value": "I assume your goal is saving Miyuki. Seeing\nher possessed like this must feel dreadful."
+    },
+    {
+      "key": "EP10_S7121_0030",
+      "value": "So then why do you conspire with the Master?!\nIs her rescue not your heart’s desire?!"
+    },
+    {
+      "key": "EP10_S7121_0031",
+      "value": "All of you say the same things over and over.\nI’m sick of watching your gums flap."
+    },
+    {
+      "key": "EP10_S7121_0032",
+      "value": "I’ll say this much because I admire your\npersistence. All I do is to save Miyuki."
+    },
+    {
+      "key": "EP10_S7121_0033",
+      "value": "To save Miyuki... You mean to get her back\nfrom the Master?"
+    },
+    {
+      "key": "EP10_S7121_0034",
+      "value": "...So you intend to have these children take\nher place, do you?"
+    },
+    {
+      "key": "EP10_S7121_0035",
+      "value": "Take her place... You mean, swap Miyuki for\nall of these guys?"
+    },
+    {
+      "key": "EP10_S7121_0036",
+      "value": "The Master desires sacrifices."
+    },
+    {
+      "key": "EP10_S7121_0037",
+      "value": "Only when the Master consumes a lot\nof sacrifices, will his world expand."
+    },
+    {
+      "key": "EP10_S7121_0038",
+      "value": "I will follow the Master’s wishes, delivering\nyou and getting Miyuki back for my efforts."
+    },
+    {
+      "key": "EP10_S7121_0039",
+      "value": "There is no way the Master will relinquish\nthe maiden. You’re being deceived!"
+    },
+    {
+      "key": "EP10_S7121_0040",
+      "value": "So am I supposed to sit by and watch as\nMiyuki...my fated child...perishes?!"
+    },
+    {
+      "key": "EP10_S7121_0041",
+      "value": "Your fated child?! Then that means Miyuki is\nthe same to you..."
+    },
+    {
+      "key": "EP10_S7121_0042",
+      "value": "as Takuma is to me?"
+    },
+    {
+      "key": "EP10_S7121_0043",
+      "value": "She is."
+    },
+    {
+      "key": "EP10_S7121_0044",
+      "value": "A few decades earlier, in the time of your\nworld..."
+    },
+    {
+      "key": "EP10_S7121_0045",
+      "value": "Many children had wandered into this world,\njust as you have."
+    },
+    {
+      "key": "EP10_S7121_0046",
+      "value": "Among them were two siblings: Miyuki and\nAkiharu Minase."
+    },
+    {
+      "key": "EP10_S7121_0047",
+      "value": "Akiharu... Minase."
+    },
+    {
+      "key": "EP10_S7121_0048",
+      "value": "(The picture of a brother and a sister in the\napartment complex. That boy...was Haru.)"
+    },
+    {
+      "key": "EP10_S7121_0049",
+      "value": "Miyuki’s brother, Haru... Wait, you mean THAT\nHaru?!"
+    },
+    {
+      "key": "EP10_S7121_0050",
+      "value": "That was you, Professor Akiharu Minase.\nOr should I say...Haru."
+    },
+    {
+      "key": "EP10_S7121_0051",
+      "value": "Whoa, whoa, whoa... Then that means...Miyuki\nis the professor’s sister?!"
+    },
+    {
+      "key": "EP10_S7121_0052",
+      "value": "Even if you say time flows differently between\nour worlds, their ages don’t add up!"
+    },
+    {
+      "key": "EP10_S7121_0053",
+      "value": "Miyuki is special. She has been shunted out\nof the flow of time."
+    },
+    {
+      "key": "EP10_S7121_0054",
+      "value": "Miyuki is a Minase maiden. She can control\nthe song that connects worlds."
+    },
+    {
+      "key": "EP10_S7121_0055",
+      "value": "Using that power, that mysterious song...\nMiyuki sent you back to your world, Akiharu."
+    },
+    {
+      "key": "EP10_S7121_0056",
+      "value": "So this is the second time the professor has\nbeen in this world?!"
+    },
+    {
+      "key": "EP10_S7121_0057",
+      "value": "Precisely. The vision I saw here taught me as\nmuch, Renamon."
+    },
+    {
+      "key": "EP10_S7121_0058",
+      "value": "The block in my memories, the fear that hid\nthat truth... That awful dream blew it away."
+    },
+    {
+      "key": "EP10_S7121_0059",
+      "value": "I... I left Miyuki here, and returned to my\nworld..."
+    },
+    {
+      "key": "EP10_S7121_0060",
+      "value": "Then I repressed the fear I felt in this\nworld deep in my memories."
+    },
+    {
+      "key": "EP10_S7121_0061",
+      "value": "Miyuki let you escape, but the Master got her\nand took half of her soul. Maybe that’s why..."
+    },
+    {
+      "key": "EP10_S7121_0062",
+      "value": "When I convinced the other survivors\nto rescue her, she was no longer herself."
+    },
+    {
+      "key": "EP10_S7121_0063",
+      "value": "Because of your self-centered need to protect\nyourself, Miyuki was stuck in this world!"
+    },
+    {
+      "key": "EP10_S7121_0064",
+      "value": "She was possessed by the Master, losing the\nability to age or even feel emotions!"
+    },
+    {
+      "key": "EP10_S7121_0065",
+      "value": "You shamelessly returned to your world, Haru,\nand abandoned Miyuki here!"
+    },
+    {
+      "key": "EP10_S7121_0066",
+      "value": "Her heart was broken, she was hurt so badly.\nAll just to save you!"
+    },
+    {
+      "key": "EP10_S7121_0067",
+      "value": "And yet... Even after all that, she still\nwaited for her brother..."
+    },
+    {
+      "key": "EP10_S7121_0068",
+      "value": "...!!!"
+    },
+    {
+      "key": "EP10_S7121_0069",
+      "value": "She believed her brother would come for her.\nIf she didn’t, her heart would truly break."
+    },
+    {
+      "key": "EP10_S7121_0070",
+      "value": "That’s why I took on this form. The way you\nlooked when you were by her side."
+    },
+    {
+      "key": "EP10_S7121_0071",
+      "value": "I remained a shade in your image for ages."
+    },
+    {
+      "key": "EP10_S7121_0072",
+      "value": "As you aged into this senile old coot...\nI saved her, protected her, on my own."
+    },
+    {
+      "key": "EP10_S7121_0073",
+      "value": "I’m sorry, Renamon... My sin is heavy,\ntoo heavy to ever atone for."
+    },
+    {
+      "key": "EP10_S7121_0074",
+      "value": "Yes, an irredeemable sin that leads to death.\nYou all will become the Master’s sacrifices."
+    },
+    {
+      "key": "EP10_S7121_0075",
+      "value": "Now hold on! These children have nothing to\ndo with this!"
+    },
+    {
+      "key": "EP10_S7121_0076",
+      "value": "Not true. They are all I have to trade\nin order to get Miyuki back."
+    },
+    {
+      "key": "EP10_S7121_0077",
+      "value": "I do not seek revenge. But for me to achieve\nmy goal, all of you must die."
+    },
+    {
+      "key": "EP10_S7121_0078",
+      "value": "But...!"
+    },
+    {
+      "key": "EP10_S7121_0079",
+      "value": "If you have any idea how humiliating it was\nfor me to remain in your form..."
+    },
+    {
+      "key": "EP10_S7121_0080",
+      "value": "Then you know how firm my resolve is."
+    },
+    {
+      "key": "EP10_S7121_0081",
+      "value": "(When we were back in the real world, Miyuki\nwas full of emotion, just like any other girl.)"
+    },
+    {
+      "key": "EP10_S7121_0082",
+      "value": "(So I can imagine what Renamon must\nhave gone through. But even so...!)"
+    },
+    {
+      "key": "EP10_S7121_0083",
+      "value": "That doesn’t mean we’ll just go down without\na fight!"
+    },
+    {
+      "key": "EP10_S7121_0084",
+      "value": "Miu!"
+    },
+    {
+      "key": "EP10_S7121_0085",
+      "value": "We don’t want our friends to die, either.\nI wanna live, together with Syakomon!"
+    },
+    {
+      "key": "EP10_S7121_0086",
+      "value": "I can tell how much you’ve suffered. I can’t\ntake it just thinking about what if it were me."
+    },
+    {
+      "key": "EP10_S7121_0087",
+      "value": "But that doesn’t mean I’ll let you sacrifice\nmy precious Miu for some fishy deal!"
+    },
+    {
+      "key": "EP10_S7121_0088",
+      "value": "Yeah... All of you are right."
+    },
+    {
+      "key": "EP10_S7121_0089",
+      "value": "Renamon, I can’t imagine the Master ever\nletting the maiden go."
+    },
+    {
+      "key": "EP10_S7121_0090",
+      "value": "Are sacrifices really the best way to get\nMiyuki back?"
+    },
+    {
+      "key": "EP10_S7121_0091",
+      "value": "If you really want her back, we should call\nout to her!"
+    },
+    {
+      "key": "EP10_S7121_0092",
+      "value": "Our voices shall get through to her!\nSo please, Renamon!"
+    },
+    {
+      "key": "EP10_S7121_0093",
+      "value": "SHUT UUUP!"
+    },
+    {
+      "key": "EP10_S7121_0094",
+      "value": "Renamon...!"
+    },
+    {
+      "key": "EP10_S7121_0095",
+      "value": "I won’t accept it... That your voices could\nreach her, but not mine!"
+    },
+    {
+      "key": "EP10_S7121_0096",
+      "value": "Just shut up and sacrifice yourselves for her\nalready! That’s the only way you can atone!"
+    },
+    {
+      "key": "EP10_S7121_0097",
+      "value": "Cram it, you overgrown weasel!\nEnough with your selfish crap!"
+    },
+    {
+      "key": "EP10_S7121_0098",
+      "value": "I don’t know nothing about no atonement, but\nyou think we’ll let ourselves be sacrifices?!"
+    },
+    {
+      "key": "EP10_S7121_0099",
+      "value": "If that’s what you want, don’t expect mercy\nfrom me. I’ll protect Miu AND my friends!"
+    }
+  ]
+}

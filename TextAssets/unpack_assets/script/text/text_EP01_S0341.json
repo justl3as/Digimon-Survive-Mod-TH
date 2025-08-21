@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0341_0001",
+      "value": "Huh?! Just now, I..."
+    },
+    {
+      "key": "EP01_S0341_0002",
+      "value": "What is it, Takuma?"
+    },
+    {
+      "key": "EP01_S0341_0003",
+      "value": "My ears might be playing tricks on me.\nI thought I heard something on the ceiling..."
+    },
+    {
+      "key": "EP01_S0341_0004",
+      "value": "Hmm? Oh! I think your ears work just fine,\nTakuma!"
+    },
+    {
+      "key": "EP01_S0341_0005",
+      "value": "I hear something moving around up there, too!"
+    },
+    {
+      "key": "EP01_S0341_0006",
+      "value": "...That’s scary. Does that mean the enemy has\na way to move around up there?"
+    },
+    {
+      "key": "EP01_S0341_0007",
+      "value": "No way! Does that mean it took Aoi all the\nway up there?!"
+    },
+    {
+      "key": "EP01_S0341_0008",
+      "value": "(We could be attacked from above, is that it?\nHow can we handle that?)"
+    }
+  ]
+}

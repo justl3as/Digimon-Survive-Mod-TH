@@ -1,0 +1,212 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0050_0001",
+      "value": "*huff* huff*... Okay, I don’t think they’re\nfollowing me."
+    },
+    {
+      "key": "EP01_S0050_0002",
+      "value": "(I made it back to the shrine somehow...)"
+    },
+    {
+      "key": "EP01_S0050_0003",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0050_0004",
+      "value": "(No one’s here? Not a single person...)"
+    },
+    {
+      "key": "EP01_S0050_0005",
+      "value": "Heyyy, Minoru! Aoi?!"
+    },
+    {
+      "key": "EP01_S0050_0006",
+      "value": "Is anybody heeere?!"
+    },
+    {
+      "key": "EP01_S0050_0007",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0050_0008",
+      "value": "(No responses... Where the heck did they...?)"
+    },
+    {
+      "key": "EP01_S0050_0009",
+      "value": "(Oh, maybe I can get one of them on the\nphone! I’ll call Minoru...)"
+    },
+    {
+      "key": "EP01_S0050_0010",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0050_0011",
+      "value": "...No service here?! Damn, my phone is\nuseless."
+    },
+    {
+      "key": "EP01_S0050_0012",
+      "value": "Wha—did something move just now?!"
+    },
+    {
+      "key": "EP01_S0050_0013",
+      "value": "Oh man, something’s in here! Is it that rock\nmonster again?!"
+    },
+    {
+      "key": "EP01_S0050_0014",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0050_0015",
+      "value": "The sound...disappeared? Doesn’t look like\nit’s trying to jump me, whatever it is..."
+    },
+    {
+      "key": "EP01_S0050_Q1",
+      "value": "(What should I do about that rock thing?)"
+    },
+    {
+      "key": "EP01_S0050_Q1_A1",
+      "value": "Carefully move closer."
+    },
+    {
+      "key": "EP01_S0050_Q1_A2",
+      "value": "Jump at it!"
+    },
+    {
+      "key": "EP01_S0050_0016",
+      "value": "Not knowing what’s coming this way freaks me\nout... I’ll try moving closer."
+    },
+    {
+      "key": "EP01_S0050_0017",
+      "value": "I’ll do my best not to set this thing off..."
+    },
+    {
+      "key": "EP01_S0050_0018",
+      "value": "I’ll just jump right at it! Maybe I can beat\nwhatever it is if I take it by surprise."
+    },
+    {
+      "key": "EP01_S0050_0019",
+      "value": "Ready...aaand..."
+    },
+    {
+      "key": "EP01_S0050_0020",
+      "value": "Hyaaah!"
+    },
+    {
+      "key": "EP01_S0050_0021",
+      "value": "Huh? It’s gone?! Where in the world...?"
+    },
+    {
+      "key": "EP01_S0050_0022",
+      "value": "...Hey, some of the grass is moving over\nthere. Like something’s in there."
+    },
+    {
+      "key": "EP01_S0050_0023",
+      "value": "I can’t see anything, but something’s\nthere...isn’t there?"
+    },
+    {
+      "key": "EP01_S0050_0024",
+      "value": "Hmm, this reminds me of the last time..."
+    },
+    {
+      "key": "EP01_S0050_Q2",
+      "value": "(All right, then... What to do?)"
+    },
+    {
+      "key": "EP01_S0050_Q2_A1",
+      "value": "Go right on up to it!"
+    },
+    {
+      "key": "EP01_S0050_Q2_A2",
+      "value": "Keep calm and wait..."
+    },
+    {
+      "key": "EP01_S0050_Q2_A3",
+      "value": "What did Minoru say?"
+    },
+    {
+      "key": "EP01_S0050_0025",
+      "value": "I can’t see it, but I know it’s there. Maybe\nI’ll know what it is if I touch it?"
+    },
+    {
+      "key": "EP01_S0050_0026",
+      "value": "I’m a little scared, but I’ve just gotta\ncheck it out."
+    },
+    {
+      "key": "EP01_S0050_0027",
+      "value": "Careful, now..."
+    },
+    {
+      "key": "EP01_S0050_0028",
+      "value": "Huh? Nothing’s here?"
+    },
+    {
+      "key": "EP01_S0050_0029",
+      "value": "Wait, some tracks were left in the grass\nhere. Did it run when I got close?"
+    },
+    {
+      "key": "EP01_S0050_0030",
+      "value": "Hmm, is there a way to check it out without\ngetting close?"
+    },
+    {
+      "key": "EP01_S0050_0031",
+      "value": "I could just see it, all of a sudden..."
+    },
+    {
+      "key": "EP01_S0050_0032",
+      "value": "Maybe I should wait and see what happens?"
+    },
+    {
+      "key": "EP01_S0050_0033",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0050_0034",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0050_0035",
+      "value": "No good, I still can’t see a thing. I don’t\nhave time to just hang around here, anyway."
+    },
+    {
+      "key": "EP01_S0050_0036",
+      "value": "Hmm, last time I saw something I couldn’t see\nbefore, I used...uh, what was it again?"
+    },
+    {
+      "key": "EP01_S0050_0037",
+      "value": "Now that I think about it, I remember Minoru\nsaying something back then."
+    },
+    {
+      "key": "EP01_S0050_0038",
+      "value": "Something about “picking up weird stuff” with\nhis... Hmm..."
+    },
+    {
+      "key": "EP01_S0050_0039",
+      "value": "What did he have on him? Something that can\ncapture things the naked eye can’t?"
+    },
+    {
+      "key": "EP01_S0050_0040",
+      "value": "That’s right, Minoru picked up a presence with\nhis phone camera. Why don’t I take a picture?"
+    },
+    {
+      "key": "EP01_S0050_0041",
+      "value": "Right, I’ll give it a shot."
+    },
+    {
+      "key": "EP01_S0050_0042",
+      "value": "Whoa! What the heck was that just now?!"
+    },
+    {
+      "key": "EP01_S0050_0043",
+      "value": "It was just a moment, but I definitely saw\nsomething. This will help me see it!"
+    },
+    {
+      "key": "EP01_S0050_0044",
+      "value": "Still, I don’t know what I’ll do if something\nattacks me again."
+    },
+    {
+      "key": "EP01_S0050_0045",
+      "value": "Nothing’ll come of just sitting here. I’ll\nlook around with my <color=#B41919>phone</color>, see what I find."
+    }
+  ]
+}

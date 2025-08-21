@@ -1,0 +1,308 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S1320_0001",
+      "value": "Oh, Takuma, come here, would you? I could use\nsomeone else to talk to."
+    },
+    {
+      "key": "EP03_S1320_0002",
+      "value": "Hey, what about me?"
+    },
+    {
+      "key": "EP03_S1320_0003",
+      "value": "Oh, right, sorry!"
+    },
+    {
+      "key": "EP03_S1320_0004",
+      "value": "It’s funny, though. Talking with you feels\nlike talking to myself, Floramon. It’s weird."
+    },
+    {
+      "key": "EP03_S1320_0005",
+      "value": "Ah, heheh, what’s that supposed to mean?"
+    },
+    {
+      "key": "EP03_S1320_0006",
+      "value": "I don’t mind joining you, but are you sure\nyou don’t want someone else?"
+    },
+    {
+      "key": "EP03_S1320_0007",
+      "value": "I’d take anyone at this point."
+    },
+    {
+      "key": "EP03_S1320_0008",
+      "value": "Hahaha..."
+    },
+    {
+      "key": "EP03_S1320_0009",
+      "value": "Maybe you can tell, but I get lonely pretty\neasily."
+    },
+    {
+      "key": "EP03_S1320_0010",
+      "value": "I feel like a lot of girls are like that."
+    },
+    {
+      "key": "EP03_S1320_0011",
+      "value": "I get lonely easily too. Does that mean I’m\na girl?"
+    },
+    {
+      "key": "EP03_S1320_0012",
+      "value": "No, you don’t seem much like a girl to me,\nAgumon."
+    },
+    {
+      "key": "EP03_S1320_0013",
+      "value": "(Still, Aoi told me she likes reading by\nherself, so maybe she doesn’t get lonely?)"
+    },
+    {
+      "key": "EP03_S1320_0014",
+      "value": "(Huh, speaking of lonely: How did Haru and\nMiyuki survive here all alone for so long?)"
+    },
+    {
+      "key": "EP03_S1320_0015",
+      "value": "It’s weird, because even if it’s a little\ndifferent, sitting here in the cafeteria,"
+    },
+    {
+      "key": "EP03_S1320_0016",
+      "value": "eating lunch like this... It makes me feel\nlike it’s all been a bad dream."
+    },
+    {
+      "key": "EP03_S1320_0017",
+      "value": "Wouldn’t that be nice?"
+    },
+    {
+      "key": "EP03_S1320_0018",
+      "value": "Then the professor wouldn’t have..."
+    },
+    {
+      "key": "EP03_S1320_0019",
+      "value": "(Seems like Saki is still upset about the\nprofessor. Maybe I’d better leave her alone.)"
+    },
+    {
+      "key": "EP03_S1320_0020",
+      "value": "Hey, talk to me about something, would you?"
+    },
+    {
+      "key": "EP03_S1320_0021",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP03_S1320_0022",
+      "value": "That’ll help...get my mind off things."
+    },
+    {
+      "key": "EP03_S1320_0023",
+      "value": "Oh. Oh, okay, uh..."
+    },
+    {
+      "key": "EP03_S1320_0024",
+      "value": "(I guess if she wants to talk, we should.)"
+    },
+    {
+      "key": "EP03_S1320_0025",
+      "value": "Right..."
+    },
+    {
+      "key": "EP03_S1320_Q1",
+      "value": "(What should I ask Saki?)"
+    },
+    {
+      "key": "EP03_S1320_Q1_A1",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S1320_Q1_A2",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S1320_Q1_A3",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S1320_Q1_A4",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S1320_0026",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S1320_0027",
+      "value": "So, what do you think’s actually going on\nright now?"
+    },
+    {
+      "key": "EP03_S1320_0028",
+      "value": "How should I know?"
+    },
+    {
+      "key": "EP03_S1320_0029",
+      "value": "Yeah, I hear you on that one."
+    },
+    {
+      "key": "EP03_S1320_0030",
+      "value": "Whatever happens is gonna happen. What\nmatters is how we act when it happens, right?"
+    },
+    {
+      "key": "EP03_S1320_0031",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S1320_0032",
+      "value": "So, what do you think our next move should\nbe?"
+    },
+    {
+      "key": "EP03_S1320_0033",
+      "value": "I really don’t know. Pass. I’ll leave the\nthinking to you and Aoi."
+    },
+    {
+      "key": "EP03_S1320_0034",
+      "value": "Me? Why me?"
+    },
+    {
+      "key": "EP03_S1320_0035",
+      "value": "What do you mean? Don’t you usually make the\nfinal call?"
+    },
+    {
+      "key": "EP03_S1320_0036",
+      "value": "Uh...do I? Maybe you’re right."
+    },
+    {
+      "key": "EP03_S1320_0037",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S1320_0038",
+      "value": "So, how does all this make you feel?"
+    },
+    {
+      "key": "EP03_S1320_0039",
+      "value": "I don’t know. So much crazy stuff has\nhappened, I feel like I’m about to explode."
+    },
+    {
+      "key": "EP03_S1320_0040",
+      "value": "To be honest, this is all way too much for me\nto deal with."
+    },
+    {
+      "key": "EP03_S1320_0041",
+      "value": "I’m really not sure how to react. The best\nI can do is just not think about it at all."
+    },
+    {
+      "key": "EP03_S1320_0042",
+      "value": "If I’m sad, I’ll cry. If I’m scared, I’ll\nscream. That’s good enough for me."
+    },
+    {
+      "key": "EP03_S1320_0043",
+      "value": "Uh...sure."
+    },
+    {
+      "key": "EP03_S1320_0044",
+      "value": "(I can certainly understand how Saki feels.)"
+    },
+    {
+      "key": "EP03_S1320_0045",
+      "value": "(We’re all basically in the same boat. Myself\nincluded.)"
+    },
+    {
+      "key": "EP03_S1320_0046",
+      "value": "(If I let myself dwell on things, I’d be\nfrozen with terror. So I hold on to hope.)"
+    },
+    {
+      "key": "EP03_S1320_0047",
+      "value": "(I need to keep pushing forward. Otherwise,\nI might end up like Ryo...)"
+    },
+    {
+      "key": "EP03_S1320_0048",
+      "value": "Um...did I lose you?"
+    },
+    {
+      "key": "EP03_S1320_0049",
+      "value": "Oh, sorry... There’s a lot on my mind."
+    },
+    {
+      "key": "EP03_S1320_0050",
+      "value": "I get it. Honestly, if I weren’t careful,\nI think I’d go to pieces."
+    },
+    {
+      "key": "EP03_S1320_0051",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S1320_0052",
+      "value": "Look, I don’t really know about our current\nsituation, but..."
+    },
+    {
+      "key": "EP03_S1320_0053",
+      "value": "Here’s my take. Remember what Miu said about\nthe curse when we first met?"
+    },
+    {
+      "key": "EP03_S1320_0054",
+      "value": "Yeah?"
+    },
+    {
+      "key": "EP03_S1320_0055",
+      "value": "I think that was true."
+    },
+    {
+      "key": "EP03_S1320_0056",
+      "value": "You, uh, think so...?"
+    },
+    {
+      "key": "EP03_S1320_0057",
+      "value": "(Could that really be true?!)"
+    },
+    {
+      "key": "EP03_S1320_0200",
+      "value": "Creatures we’ve never seen before, strange,\njumbled messages. Sounds like a curse to me."
+    },
+    {
+      "key": "EP03_S1320_0201",
+      "value": "Oh... You got one of those messages too, huh?\nThey are kinda creepy, aren’t they?"
+    },
+    {
+      "key": "EP03_S1320_0202",
+      "value": "At least everyone’s here. If it were just me,\nwell...I tear up just thinking about it."
+    },
+    {
+      "key": "EP03_S1320_Q2",
+      "value": "(Was there anything else I wanted to ask?)"
+    },
+    {
+      "key": "EP03_S1320_Q2_A1",
+      "value": "That’s all."
+    },
+    {
+      "key": "EP03_S1320_Q2_A2",
+      "value": "There’s more."
+    },
+    {
+      "key": "EP03_S1320_0058",
+      "value": "Well, thanks for sharing your thoughts.\nIt was helpful."
+    },
+    {
+      "key": "EP03_S1320_0059",
+      "value": "Good. It helped take my mind off things, too."
+    },
+    {
+      "key": "EP03_S1320_0060",
+      "value": "Thanks, Takuma."
+    },
+    {
+      "key": "EP03_S1320_0061",
+      "value": "All right, I’d better get going."
+    },
+    {
+      "key": "EP03_S1320_0062",
+      "value": "Sure thing. Good luck!"
+    },
+    {
+      "key": "EP03_S1320_0063",
+      "value": "Make sure you take the time to talk to\neveryone!"
+    },
+    {
+      "key": "EP03_S1320_0064",
+      "value": "Will do! See you later!"
+    },
+    {
+      "key": "EP03_S1320_0065",
+      "value": "Aren’t you going to talk to the others?\nOr was there something else?"
+    }
+  ]
+}

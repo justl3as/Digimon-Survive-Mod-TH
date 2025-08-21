@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S3040_0001",
+      "value": "I’m getting a weird feeling from this place."
+    },
+    {
+      "key": "EP07_S3040_0002",
+      "value": "Really? I don’t see anything all that\nstrange."
+    },
+    {
+      "key": "EP07_S3040_0003",
+      "value": "No, I feel it too. There’s something here.\nNow how should we deal with this?"
+    },
+    {
+      "key": "EP07_S3040_0004",
+      "value": "I don’t think there’s anything else here."
+    },
+    {
+      "key": "EP07_S3040_0005",
+      "value": "Yeah, I don’t think so either. Let’s keep\nmoving."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9112_0001",
+      "value": "Oh, Professor. I didn’t expect to find you\nhere."
+    },
+    {
+      "key": "EP12_S9112_0002",
+      "value": "Yes, well, it’s far too dangerous to be\ninvestigating any of the shrines right now."
+    },
+    {
+      "key": "EP12_S9112_0003",
+      "value": "So Gabumon and I have been going over\neverything we’ve learned so far."
+    },
+    {
+      "key": "EP12_S9112_0004",
+      "value": "Akiharu’s learned some real complicated stuff\nnow that he’s bigger. I can’t keep up!"
+    },
+    {
+      "key": "EP12_S9112_0005",
+      "value": "Haha, I’m sorry if it’s hard to follow, but\ntalking to you helps me organize my thoughts."
+    },
+    {
+      "key": "EP12_S9112_0006",
+      "value": "Speaking of which, perhaps you could ask me\nsome questions?"
+    },
+    {
+      "key": "EP12_S9112_0007",
+      "value": "Who, me?"
+    },
+    {
+      "key": "EP12_S9112_0008",
+      "value": "Yes, sometimes it’s useful to consider\nquestions from an outside perspective."
+    },
+    {
+      "key": "EP12_S9112_0009",
+      "value": "But don’t be intimidated. Feel free to ask\nabout anything you’d like to know."
+    },
+    {
+      "key": "EP12_S9112_0010",
+      "value": "(I do have a bunch of new questions since we\nfound the Sovereign Monster shrines...)"
+    },
+    {
+      "key": "EP12_S9112_Q1",
+      "value": "(What should I ask the professor about?)"
+    },
+    {
+      "key": "EP12_S9112_Q1_A1",
+      "value": "This world’s nature."
+    },
+    {
+      "key": "EP12_S9112_Q1_A2",
+      "value": "The Kemonogami."
+    },
+    {
+      "key": "EP12_S9112_Q1_A3",
+      "value": "The Master."
+    },
+    {
+      "key": "EP12_S9112_0011",
+      "value": "This world’s nature."
+    },
+    {
+      "key": "EP12_S9112_0012",
+      "value": "So, what did you mean when you said this\nworld is made of people’s thoughts?"
+    },
+    {
+      "key": "EP12_S9112_0013",
+      "value": "Well, though you may find it hard to believe,\nI meant that quite literally."
+    },
+    {
+      "key": "EP12_S9112_0014",
+      "value": "This school, the apartments, even that theme\npark, were made from my sister’s memories."
+    },
+    {
+      "key": "EP12_S9112_0015",
+      "value": "And the others told us this world was more\nchaotic when they arrived, in times of war."
+    },
+    {
+      "key": "EP12_S9112_0016",
+      "value": "I believe this world operates on principles\nsimilar to myths, legends, and ghost stories."
+    },
+    {
+      "key": "EP12_S9112_0017",
+      "value": "G-ghost stories?"
+    },
+    {
+      "key": "EP12_S9112_0018",
+      "value": "Scary stories make people afraid of places.\nThey avoid them, and they become truly scary."
+    },
+    {
+      "key": "EP12_S9112_0019",
+      "value": "Similarly, people gather in places considered\nholy or famous, which makes them special."
+    },
+    {
+      "key": "EP12_S9112_0020",
+      "value": "I believe it’s a more extreme version of this\nprinciple by which our world shapes this one."
+    },
+    {
+      "key": "EP12_S9112_0021",
+      "value": "Huh..."
+    },
+    {
+      "key": "EP12_S9112_0022",
+      "value": "(I feel like I kind of get it, but I also\nkind of don’t.)"
+    },
+    {
+      "key": "EP12_S9112_0023",
+      "value": "The Kemonogami."
+    },
+    {
+      "key": "EP12_S9112_0024",
+      "value": "What does it mean that humans and Kemonogami\nare two halves of the same soul?"
+    },
+    {
+      "key": "EP12_S9112_0025",
+      "value": "I’m still puzzling that one out myself. It is\nafter all a truth to be felt, not reasoned."
+    },
+    {
+      "key": "EP12_S9112_0026",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP12_S9112_0027",
+      "value": "Have you not felt it in your tie to Agumon?\nHow your thoughts and feelings are one?"
+    },
+    {
+      "key": "EP12_S9112_0028",
+      "value": "Oh, yeah, I have! Especially when Agumon\nevolves."
+    },
+    {
+      "key": "EP12_S9112_0029",
+      "value": "Yes, it was the same with me. I felt it very\nstrongly when Gabumon evolved."
+    },
+    {
+      "key": "EP12_S9112_0030",
+      "value": "And as our Kemonogami have said, aren’t you\nmore at peace when you’re with your partner?"
+    },
+    {
+      "key": "EP12_S9112_0031",
+      "value": "I certainly do, only it’s impossible to\nquantify. Most people wouldn’t understand,"
+    },
+    {
+      "key": "EP12_S9112_0032",
+      "value": "even if we explained it to them. Only those\nwith their own Kemonogami partner would."
+    },
+    {
+      "key": "EP12_S9112_0033",
+      "value": "If we want everyone to know what that’s like,\nwe’d need to connect this world and ours..."
+    },
+    {
+      "key": "EP12_S9112_0034",
+      "value": "Um... Professor?"
+    },
+    {
+      "key": "EP12_S9112_0035",
+      "value": "Oh, my apologies! I’m afraid I got caught up\nin some pointless speculation."
+    },
+    {
+      "key": "EP12_S9112_0036",
+      "value": "(Connecting both worlds was Piedmon’s goal.\nWe probably shouldn’t be trying to do it.)"
+    },
+    {
+      "key": "EP12_S9112_0037",
+      "value": "The Master."
+    },
+    {
+      "key": "EP12_S9112_0038",
+      "value": "The Master...Haruchika. Who or what is he,\nexactly?"
+    },
+    {
+      "key": "EP12_S9112_0039",
+      "value": "Ah. He was a companion of the human partners\nof the Sovereign Monsters. He betrayed them,"
+    },
+    {
+      "key": "EP12_S9112_0040",
+      "value": "and now brings ruin to this world. Apparently\nhis sister turned on him, sending him here"
+    },
+    {
+      "key": "EP12_S9112_0041",
+      "value": "as a sacrifice. Being a younger brother\nmyself, I can sympathize, but I have hope"
+    },
+    {
+      "key": "EP12_S9112_0042",
+      "value": "that his malice can be ended. I spent decades\npursuing Miyuki. Sibling ties are strong."
+    },
+    {
+      "key": "EP12_S9112_0043",
+      "value": "Professor..."
+    },
+    {
+      "key": "EP12_S9112_0044",
+      "value": "Though no good researcher should make their\nown feelings the basis for their theories."
+    },
+    {
+      "key": "EP12_S9112_0045",
+      "value": "No, I trust your feelings too."
+    },
+    {
+      "key": "EP12_S9112_0046",
+      "value": "Heheh, you do, eh? Well, I’m glad to hear it."
+    },
+    {
+      "key": "EP12_S9112_Q2",
+      "value": "(Was there anything else I wanted to ask?)"
+    },
+    {
+      "key": "EP12_S9112_Q2_A1",
+      "value": "Yes."
+    },
+    {
+      "key": "EP12_S9112_Q2_A2",
+      "value": "No."
+    },
+    {
+      "key": "EP12_S9112_0047",
+      "value": "Hmm... Thinking back on it all now, the one\nthing that bothers me is the Master’s goal."
+    },
+    {
+      "key": "EP12_S9112_0048",
+      "value": "He intends to use my sister to realize his\nfinal, deadly desire."
+    },
+    {
+      "key": "EP12_S9112_0049",
+      "value": "You think he’s willing to destroy both worlds\nto get what he wants?"
+    },
+    {
+      "key": "EP12_S9112_0050",
+      "value": "It’s hard to say. We know so little, it could\nbe anything."
+    },
+    {
+      "key": "EP12_S9112_0051",
+      "value": "But my sister can bring the worlds together.\nIf he uses that power, he could do anything."
+    },
+    {
+      "key": "EP12_S9112_0052",
+      "value": "I am of course concerned for my sister, but\nwe also need to stop him to save both worlds."
+    },
+    {
+      "key": "EP12_S9112_0053",
+      "value": "Right, we have to stop him no matter what!"
+    },
+    {
+      "key": "EP12_S9112_0054",
+      "value": "Heh, well, you’ve helped me make a lot of\nprogress. Thanks for talking with me, Takuma."
+    },
+    {
+      "key": "EP12_S9112_0055",
+      "value": "Oh, no, thank you for answering my questions."
+    },
+    {
+      "key": "EP12_S9112_0056",
+      "value": "One more thing, though. We think there might\nbe a ghost. So you should keep an eye out."
+    },
+    {
+      "key": "EP12_S9112_0057",
+      "value": "A ghost? Yes, well... I suppose there could\nbe one here, considering who we’ve met."
+    },
+    {
+      "key": "EP12_S9112_0058",
+      "value": "(Leave it to the professor to be mature about\nthis.)"
+    },
+    {
+      "key": "EP12_S9112_0059",
+      "value": "(Uh, when he says “who we’ve met,” he means\nGabumon and the others, right?)"
+    },
+    {
+      "key": "EP12_S9112_0060",
+      "value": "I’m going to stay here and try to make sense\nof things. I’ll see you at dinner."
+    }
+  ]
+}

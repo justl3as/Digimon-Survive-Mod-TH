@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0080_0001",
+      "value": "Hmm... This block looks like it should move,\nbut it won’t budge."
+    },
+    {
+      "key": "EP04_S0080_0002",
+      "value": "Do you think there’s some trick to it?"
+    },
+    {
+      "key": "EP04_S0080_0003",
+      "value": "Let’s keep looking around."
+    },
+    {
+      "key": "EP04_S0080_0004",
+      "value": "Yeah! I’ll see what I can find too!"
+    },
+    {
+      "key": "EP04_S0080_0005",
+      "value": "Good thinking. You never know what you might\nfind."
+    },
+    {
+      "key": "EP04_S0080_0006",
+      "value": "I feel like there’s some trick to this. Let’s\ntry <color=#B41919>looking around some more</color>."
+    }
+  ]
+}

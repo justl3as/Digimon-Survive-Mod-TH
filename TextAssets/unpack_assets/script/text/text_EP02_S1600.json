@@ -1,0 +1,292 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1600_0001",
+      "value": "Hey, Takuma!\nI heard a voice inside the shrine!"
+    },
+    {
+      "key": "EP02_S1600_0002",
+      "value": "It might be one of those monsters.\nLet’s check it out, but be careful."
+    },
+    {
+      "key": "EP02_S1600_0003",
+      "value": "We’re going inside that?\nWe’ll be eaten alive..."
+    },
+    {
+      "key": "EP02_S1600_0004",
+      "value": "If Saki and the others are inside, we need to\nhelp them! Let’s go!"
+    },
+    {
+      "key": "EP02_S1600_0005",
+      "value": "Yeah, okay...\nIt’s over here, come on!"
+    },
+    {
+      "key": "EP02_S1600_0006",
+      "value": "Ngh..."
+    },
+    {
+      "key": "EP02_S1600_0007",
+      "value": "Hey, it’s the professor!\nHe’s all right?!"
+    },
+    {
+      "key": "EP02_S1600_0008",
+      "value": "I wouldn’t exactly call him “all right”!"
+    },
+    {
+      "key": "EP02_S1600_0009",
+      "value": "What happened? It looks like he’s been beaten\nup and he’s collapsed..."
+    },
+    {
+      "key": "EP02_S1600_0010",
+      "value": "Hey, wait a second...\nThere’s something around him..."
+    },
+    {
+      "key": "EP02_S1600_0011",
+      "value": "You’re right! He’s surrounded!"
+    },
+    {
+      "key": "EP02_S1600_0012",
+      "value": "Are they enemies?!\nWhoa, I think one just looked this way."
+    },
+    {
+      "key": "EP02_S1600_0013",
+      "value": "Whoops, it’s because I shouted so loudly..."
+    },
+    {
+      "key": "EP02_S1600_0014",
+      "value": "Naw, I think we would’ve been spotted either\nway."
+    },
+    {
+      "key": "EP02_S1600_0015",
+      "value": "The question is: Are they good guys or bad\nguys?"
+    },
+    {
+      "key": "EP02_S1600_0016",
+      "value": "And can they even talk like Falcomon or\nAgumon?"
+    },
+    {
+      "key": "EP02_S1600_0017",
+      "value": "What’s their deal...?"
+    },
+    {
+      "key": "EP02_S1600_0018",
+      "value": "Hey, what gives? Is this old guy still\nbreathing?"
+    },
+    {
+      "key": "EP02_S1600_0019",
+      "value": "Who knows? And really, who cares?\nWe’d better report back to Fangmon..."
+    },
+    {
+      "key": "EP02_S1600_0020",
+      "value": "(It talked!? Are there others that can talk?\nAnd what is Fangmon?)"
+    },
+    {
+      "key": "EP02_S1600_0021",
+      "value": "Hey... They’re talking. They can talk!"
+    },
+    {
+      "key": "EP02_S1600_0022",
+      "value": "(Minoru’s gonna go talk to them?!)"
+    },
+    {
+      "key": "EP02_S1600_Q1",
+      "value": "(What should I do?!)"
+    },
+    {
+      "key": "EP02_S1600_Q1_A1",
+      "value": "Don’t let him go!"
+    },
+    {
+      "key": "EP02_S1600_Q1_A2",
+      "value": "Leave it to him."
+    },
+    {
+      "key": "EP02_S1600_Q1_A3",
+      "value": "Go with him!"
+    },
+    {
+      "key": "EP02_S1600_0023",
+      "value": "Wait—hold up! You’re not gonna go talk to\nthem, are you? They could be dangerous!"
+    },
+    {
+      "key": "EP02_S1600_0024",
+      "value": "If they can talk, it’ll all work out.\nWatch and learn!"
+    },
+    {
+      "key": "EP02_S1600_0025",
+      "value": "Okay. It’s all you. Just be safe!"
+    },
+    {
+      "key": "EP02_S1600_0026",
+      "value": "Stop worrying!\nI’m good at this, remember?"
+    },
+    {
+      "key": "EP02_S1600_0027",
+      "value": "You’re going alone? That’s too risky!\nI’ll go with you!"
+    },
+    {
+      "key": "EP02_S1600_0028",
+      "value": "That’ll scare them.\nAnd we don’t know if there’s more."
+    },
+    {
+      "key": "EP02_S1600_0029",
+      "value": "Well, just step in if I need help.\nI’m going for now."
+    },
+    {
+      "key": "EP02_S1600_0030",
+      "value": "Um, hi there!\nWe come in peace!"
+    },
+    {
+      "key": "EP02_S1600_0031",
+      "value": "Huh? Who’s this windbag?"
+    },
+    {
+      "key": "EP02_S1600_0032",
+      "value": "Clear out, punk."
+    },
+    {
+      "key": "EP02_S1600_0033",
+      "value": "Urk... These guys are bad all over..."
+    },
+    {
+      "key": "EP02_S1600_0034",
+      "value": "Uhh, well y’see, fellas...\nI figured we could be friends, yeah?"
+    },
+    {
+      "key": "EP02_S1600_0035",
+      "value": "Hmm... This might be a lost cause, even for\na negotiator like Minoru..."
+    },
+    {
+      "key": "EP02_S1600_0036",
+      "value": "...I don’t like this, Takuma.\nI don’t think they’re the talking type."
+    },
+    {
+      "key": "EP02_S1600_0037",
+      "value": "Leave the coot. It’s those human brats we’re\nafter."
+    },
+    {
+      "key": "EP02_S1600_0038",
+      "value": "Yeah, where’d they run off to?\n...Hey. Hold on a sec."
+    },
+    {
+      "key": "EP02_S1600_0039",
+      "value": "Don’t we got a brat right here...?"
+    },
+    {
+      "key": "EP02_S1600_0040",
+      "value": "Uh oh! They were ignoring Minoru until now,\nbut now they’re all suddenly looking at him!"
+    },
+    {
+      "key": "EP02_S1600_0041",
+      "value": "Huh? Oh, uh...\nNot good..."
+    },
+    {
+      "key": "EP02_S1600_0042",
+      "value": "Perrrfect, all we gotta do is grab this one!"
+    },
+    {
+      "key": "EP02_S1600_0043",
+      "value": "Let’s rough him up a bit so he doesn’t try\nand run off..."
+    },
+    {
+      "key": "EP02_S1600_0044",
+      "value": "Hey!\nThey’re getting closer!"
+    },
+    {
+      "key": "EP02_S1600_0045",
+      "value": "What? There’re more at the exit?"
+    },
+    {
+      "key": "EP02_S1600_0046",
+      "value": "(What is this voice I hear?\nJust listening makes my blood freeze!)"
+    },
+    {
+      "key": "EP02_S1600_0047",
+      "value": "Watch out!"
+    },
+    {
+      "key": "EP02_S1600_0048",
+      "value": "The monster that’s howling is invisible!\nIt’s a really dangerous one..."
+    },
+    {
+      "key": "EP02_S1600_0049",
+      "value": "Invisible?!\nThen what’re we supposed to do?"
+    },
+    {
+      "key": "EP02_S1600_0050",
+      "value": "He’s not even looking at us! Some nerve..."
+    },
+    {
+      "key": "EP02_S1600_0051",
+      "value": "Hey, Minoru! Look out!"
+    },
+    {
+      "key": "EP02_S1600_0052",
+      "value": "Uwaaah!"
+    },
+    {
+      "key": "EP02_S1600_0053",
+      "value": "Hyah!\nI won’t let you lay a finger on him!"
+    },
+    {
+      "key": "EP02_S1600_0054",
+      "value": "Falcomon!"
+    },
+    {
+      "key": "EP02_S1600_0055",
+      "value": "Huh?! And who invited you?!"
+    },
+    {
+      "key": "EP02_S1600_0056",
+      "value": "Now, Minoru! Make your escape!"
+    },
+    {
+      "key": "EP02_S1600_0057",
+      "value": "Why you—!\nSiding with a human, are you?!"
+    },
+    {
+      "key": "EP02_S1600_0058",
+      "value": "Naw, I bet you just want the human’s power\nfor yourself!"
+    },
+    {
+      "key": "EP02_S1600_0059",
+      "value": "We won’t let you have it!\nTake this!"
+    },
+    {
+      "key": "EP02_S1600_0060",
+      "value": "Ugh...!"
+    },
+    {
+      "key": "EP02_S1600_0061",
+      "value": "Falcomon!"
+    },
+    {
+      "key": "EP02_S1600_0062",
+      "value": "Oh no, Falcomon took a hit for Minoru!"
+    },
+    {
+      "key": "EP02_S1600_0063",
+      "value": "Not...not a problem!"
+    },
+    {
+      "key": "EP02_S1600_0064",
+      "value": "This is bad. Those guys are out for blood!"
+    },
+    {
+      "key": "EP02_S1600_0065",
+      "value": "Let’s go, Agumon!"
+    },
+    {
+      "key": "EP02_S1600_0066",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP02_S1600_0067",
+      "value": "It’s now or never!\nLet’s fight with everyone, Labramon!"
+    },
+    {
+      "key": "EP02_S1600_0068",
+      "value": "Yes, let’s do this!"
+    }
+  ]
+}

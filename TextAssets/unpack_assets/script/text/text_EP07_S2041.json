@@ -1,0 +1,388 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S2041_0001",
+      "value": "Gaaah!"
+    },
+    {
+      "key": "EP07_S2041_0002",
+      "value": "Raaaaaahrrr!"
+    },
+    {
+      "key": "EP07_S2041_0003",
+      "value": "(Good! Renamon has gotten Miyuki away from\nArukenimon!)"
+    },
+    {
+      "key": "EP07_S2041_0004",
+      "value": "Oooh..."
+    },
+    {
+      "key": "EP07_S2041_0005",
+      "value": "Miyuki!"
+    },
+    {
+      "key": "EP07_S2041_0006",
+      "value": "Sis— ...Hey! Are you okay?"
+    },
+    {
+      "key": "EP07_S2041_0007",
+      "value": "*huff* *huff* *huff*..."
+    },
+    {
+      "key": "EP07_S2041_0008",
+      "value": "Finally, our connection with you is cut."
+    },
+    {
+      "key": "EP07_S2041_0009",
+      "value": "But I’ll give you one chance to avoid having\nto experience true hell."
+    },
+    {
+      "key": "EP07_S2041_0010",
+      "value": "Tell us everything you know.\nHow do we get back home?"
+    },
+    {
+      "key": "EP07_S2041_0011",
+      "value": "And why was Miyuki your “maiden”?\nWhat were you planning?"
+    },
+    {
+      "key": "EP07_S2041_0012",
+      "value": "..."
+    },
+    {
+      "key": "EP07_S2041_0013",
+      "value": "What was that? Speak up. I couldn’t hear you."
+    },
+    {
+      "key": "EP07_S2041_0014",
+      "value": "I said...you can go to hell... Hee hee hee..."
+    },
+    {
+      "key": "EP07_S2041_0015",
+      "value": "Maybe not here, and maybe not now, but this\nworld will eventually consume you all..."
+    },
+    {
+      "key": "EP07_S2041_0016",
+      "value": "What do you mean by that?"
+    },
+    {
+      "key": "EP07_S2041_0017",
+      "value": "So close... Just a little while longer, and\nthe darkness will have you."
+    },
+    {
+      "key": "EP07_S2041_0018",
+      "value": "A world of utter darkness, with no up or\ndown. The stillness of death..."
+    },
+    {
+      "key": "EP07_S2041_0019",
+      "value": "What?!"
+    },
+    {
+      "key": "EP07_S2041_0020",
+      "value": "Hey! Enough with your creepy fantasies!"
+    },
+    {
+      "key": "EP07_S2041_0021",
+      "value": "I said...you can go to hell... Hee hee hee..."
+    },
+    {
+      "key": "EP07_S2041_0022",
+      "value": "Maybe not here, and maybe not now, but this\nworld will eventually consume you all..."
+    },
+    {
+      "key": "EP07_S2041_0023",
+      "value": "Just like the two already taken by the fog!"
+    },
+    {
+      "key": "EP07_S2041_0024",
+      "value": "You monster!"
+    },
+    {
+      "key": "EP07_S2041_0025",
+      "value": "No, Kaito! Don’t let her get to you! Takuma,\nsay something!"
+    },
+    {
+      "key": "EP07_S2041_0026",
+      "value": "(Is Arukenimon the one that understands the\nboundary between worlds, as Jijimon said?)"
+    },
+    {
+      "key": "EP07_S2041_0027",
+      "value": "(I don’t think so, but still, she seems to\nknow something we don’t.)"
+    },
+    {
+      "key": "EP07_S2041_0028",
+      "value": "(I need to hear what she has to say.)"
+    },
+    {
+      "key": "EP07_S2041_0029",
+      "value": "(I have to at least try asking the most\nimportant remaining question.)"
+    },
+    {
+      "key": "EP07_S2041_Q1",
+      "value": "(What should I ask Arukenimon about?)"
+    },
+    {
+      "key": "EP07_S2041_Q1_A1",
+      "value": "How to get back home."
+    },
+    {
+      "key": "EP07_S2041_Q1_A2",
+      "value": "The maiden."
+    },
+    {
+      "key": "EP07_S2041_Q1_A3",
+      "value": "The boundary."
+    },
+    {
+      "key": "EP07_S2041_0030",
+      "value": "How do we return to our world?"
+    },
+    {
+      "key": "EP07_S2041_0031",
+      "value": "I want you to tell us how to return to our\nworld. If you do, we’ll let you live."
+    },
+    {
+      "key": "EP07_S2041_0032",
+      "value": "Heh... Heheh... So, you think this is mercy?\nHow selfish can you get?"
+    },
+    {
+      "key": "EP07_S2041_0033",
+      "value": "You all go back home, and what of us?\nWe’re supposed to suffer for all eternity?"
+    },
+    {
+      "key": "EP07_S2041_0034",
+      "value": "Living in constant fear in our collapsing\nworld..."
+    },
+    {
+      "key": "EP07_S2041_0035",
+      "value": "Arukenimon, you have told more than enough."
+    },
+    {
+      "key": "EP07_S2041_0036",
+      "value": "The maiden."
+    },
+    {
+      "key": "EP07_S2041_0037",
+      "value": "What was that “maiden” thing all about?\nWhat did you plan on doing with Miyuki?"
+    },
+    {
+      "key": "EP07_S2041_0038",
+      "value": "I was certain you were going to ask me how\nyou could get back to your world..."
+    },
+    {
+      "key": "EP07_S2041_0039",
+      "value": "Of course I want to know that, but you were\nputting Miyuki in danger."
+    },
+    {
+      "key": "EP07_S2041_0040",
+      "value": "I need to know why, so we keep everyone safe."
+    },
+    {
+      "key": "EP07_S2041_0041",
+      "value": "What’s this? Consideration for your comrades?"
+    },
+    {
+      "key": "EP07_S2041_0042",
+      "value": "Fine, I’ll share this one tidbit. Our Master\nrequires the maiden."
+    },
+    {
+      "key": "EP07_S2041_0043",
+      "value": "Master?"
+    },
+    {
+      "key": "EP07_S2041_0044",
+      "value": "Not only are you useless but also giving away\ninformation? You truly are beyond helping."
+    },
+    {
+      "key": "EP07_S2041_0045",
+      "value": "The boundary."
+    },
+    {
+      "key": "EP07_S2041_0046",
+      "value": "Who knows about the boundary between worlds?"
+    },
+    {
+      "key": "EP07_S2041_0047",
+      "value": "Ha! Who indeed?"
+    },
+    {
+      "key": "EP07_S2041_0048",
+      "value": "So you know then?"
+    },
+    {
+      "key": "EP07_S2041_0049",
+      "value": "So clever...\nBut why would I tell you that?"
+    },
+    {
+      "key": "EP07_S2041_0050",
+      "value": "That’s right, you don’t need to tell them.\nEither way, you shall be silenced."
+    },
+    {
+      "key": "EP07_S2041_0051",
+      "value": "Who’s that?!"
+    },
+    {
+      "key": "EP07_S2041_0052",
+      "value": "P-Piedmon?!"
+    },
+    {
+      "key": "EP07_S2041_0053",
+      "value": "You were a fool to the end."
+    },
+    {
+      "key": "EP07_S2041_0054",
+      "value": "No, no! I don’t want to die! Help me!"
+    },
+    {
+      "key": "EP07_S2041_0055",
+      "value": "There can be only one punishment for failing\nin your duty. Death!"
+    },
+    {
+      "key": "EP07_S2041_0056",
+      "value": "Rrk!"
+    },
+    {
+      "key": "EP07_S2041_0057",
+      "value": "No! Why? Aren’t you on the same side?"
+    },
+    {
+      "key": "EP07_S2041_0058",
+      "value": "It’s very simple.\nA useless pawn is to be discarded."
+    },
+    {
+      "key": "EP07_S2041_0059",
+      "value": "How...heartless."
+    },
+    {
+      "key": "EP07_S2041_0060",
+      "value": "And now...one more stands in my way?"
+    },
+    {
+      "key": "EP07_S2041_0061",
+      "value": "...!"
+    },
+    {
+      "key": "EP07_S2041_0062",
+      "value": "Shall I at last be done with you?"
+    },
+    {
+      "key": "EP07_S2041_0063",
+      "value": "Arrrgh!"
+    },
+    {
+      "key": "EP07_S2041_0064",
+      "value": "Renamon?!"
+    },
+    {
+      "key": "EP07_S2041_0065",
+      "value": "Urgh!"
+    },
+    {
+      "key": "EP07_S2041_0066",
+      "value": "(Damn! Piedmon forced Miyuki out of\nRenamon’s arms and grabbed her himself!)"
+    },
+    {
+      "key": "EP07_S2041_0067",
+      "value": "Come, maiden! For our Master..."
+    },
+    {
+      "key": "EP07_S2041_0068",
+      "value": "Stop, monster!"
+    },
+    {
+      "key": "EP07_S2041_0069",
+      "value": "Kaito, don’t."
+    },
+    {
+      "key": "EP07_S2041_0070",
+      "value": "What?!"
+    },
+    {
+      "key": "EP07_S2041_0071",
+      "value": "Dracmon? And Agumon and Labramon too?"
+    },
+    {
+      "key": "EP07_S2041_0072",
+      "value": "(They’re shaking...)"
+    },
+    {
+      "key": "EP07_S2041_0073",
+      "value": "That guy’s...too much. I’m serious.\nHe’s just too strong..."
+    },
+    {
+      "key": "EP07_S2041_0074",
+      "value": "He’s not like anything we’ve fought before.\nI don’t see any way we can beat him."
+    },
+    {
+      "key": "EP07_S2041_0075",
+      "value": "You’re not going anywhere...\nI’ll protect her by myself!"
+    },
+    {
+      "key": "EP07_S2041_0076",
+      "value": "Renamon?!"
+    },
+    {
+      "key": "EP07_S2041_0077",
+      "value": "You can’t! Not when you’re injured like that.\nYou need to rest!"
+    },
+    {
+      "key": "EP07_S2041_0078",
+      "value": "Let go of me. I’m going! I will get her back!"
+    },
+    {
+      "key": "EP07_S2041_0079",
+      "value": "You’re shaking too.\nCan’t you see there’s no way to win this one?"
+    },
+    {
+      "key": "EP07_S2041_0080",
+      "value": "We need to find a new strategy. Because we\nhave to rescue Miyuki no matter what..."
+    },
+    {
+      "key": "EP07_S2041_0081",
+      "value": "Shut up! I can’t trust you lot...\nI can’t trust YOU!"
+    },
+    {
+      "key": "EP07_S2041_0082",
+      "value": "You’d only end up abandoning her again.\nThat’s how it always goes."
+    },
+    {
+      "key": "EP07_S2041_0083",
+      "value": "I’m the only one who can truly protect her!"
+    },
+    {
+      "key": "EP07_S2041_0084",
+      "value": "Renamon!"
+    },
+    {
+      "key": "EP07_S2041_0085",
+      "value": "What should we do, Takuma?"
+    },
+    {
+      "key": "EP07_S2041_0086",
+      "value": "...We can only go forward."
+    },
+    {
+      "key": "EP07_S2041_0087",
+      "value": "They might know about our world, but we can’t\nignore the fact that they have Miyuki."
+    },
+    {
+      "key": "EP07_S2041_0088",
+      "value": "He was heading west. Towards the factory we\nwere going to from the beginning."
+    },
+    {
+      "key": "EP07_S2041_0089",
+      "value": "It’s simple. We just need to keep going\ntowards original goal."
+    },
+    {
+      "key": "EP07_S2041_0090",
+      "value": "...Yeah, maybe."
+    },
+    {
+      "key": "EP07_S2041_0091",
+      "value": "Whether we decide to learn more about our\nenemy first, or to attack immediately..."
+    },
+    {
+      "key": "EP07_S2041_0092",
+      "value": "Either way, we still have to go to the same\nplace. The factory to the west..."
+    }
+  ]
+}

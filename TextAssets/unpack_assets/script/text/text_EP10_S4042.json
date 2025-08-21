@@ -1,0 +1,204 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S4042_0001",
+      "value": "Man, it’s as silent as the grave in here...\nNo sign of anyone."
+    },
+    {
+      "key": "EP10_S4042_0002",
+      "value": "We should turn back. I’ve had a bad feeling\nabout this place since we set foot in here."
+    },
+    {
+      "key": "EP10_S4042_0003",
+      "value": "We should head back to the others... Don’tcha\nthink, Kaito?"
+    },
+    {
+      "key": "EP10_S4042_0004",
+      "value": "...Revenge."
+    },
+    {
+      "key": "EP10_S4042_0005",
+      "value": "If there’s something here that can get me\nrevenge, then I’m not leaving without it."
+    },
+    {
+      "key": "EP10_S4042_0006",
+      "value": "Get real! You think you’ll find anything in\na shady place like this?"
+    },
+    {
+      "key": "EP10_S4042_0007",
+      "value": "This smells like a freakin’ trap! You feeling\nme, man...?"
+    },
+    {
+      "key": "EP10_S4042_0008",
+      "value": "Kaito..."
+    },
+    {
+      "key": "EP10_S4042_0009",
+      "value": "...Ah!!!"
+    },
+    {
+      "key": "EP10_S4042_0010",
+      "value": "What? No... It can’t be!"
+    },
+    {
+      "key": "EP10_S4042_0011",
+      "value": "Kaito..."
+    },
+    {
+      "key": "EP10_S4042_0012",
+      "value": "Miu!"
+    },
+    {
+      "key": "EP10_S4042_0013",
+      "value": "Miu, it is you! You’re alive!"
+    },
+    {
+      "key": "EP10_S4042_0014",
+      "value": "No...I’m dead."
+    },
+    {
+      "key": "EP10_S4042_0015",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP10_S4042_0016",
+      "value": "I wanted to live. I wanted to go home."
+    },
+    {
+      "key": "EP10_S4042_0017",
+      "value": "But now it’s too late. I can never go back to\nour world..."
+    },
+    {
+      "key": "EP10_S4042_0018",
+      "value": "Miu..."
+    },
+    {
+      "key": "EP10_S4042_0019",
+      "value": "You always said you’d protect me, Kaito. You\npromised to keep me safe."
+    },
+    {
+      "key": "EP10_S4042_0020",
+      "value": "So why? Why did you turn your back on me?"
+    },
+    {
+      "key": "EP10_S4042_0021",
+      "value": "I didn’t! I swear! I’d never turn my back on\nyou! I did everything I could to save you!!!"
+    },
+    {
+      "key": "EP10_S4042_0022",
+      "value": "That’s a lie..."
+    },
+    {
+      "key": "EP10_S4042_0023",
+      "value": "A lie! And you’re a liar! Liar, liar, LIAR!!!"
+    },
+    {
+      "key": "EP10_S4042_0024",
+      "value": "I saw you hesitate. You hesitated, instead of\njumping into that fog after me!"
+    },
+    {
+      "key": "EP10_S4042_0025",
+      "value": "What?!"
+    },
+    {
+      "key": "EP10_S4042_0026",
+      "value": "I was being devoured by that fog! And you\nhesitated!"
+    },
+    {
+      "key": "EP10_S4042_0027",
+      "value": "All you cared about is yourself! That’s why\nyou left me to die!"
+    },
+    {
+      "key": "EP10_S4042_0028",
+      "value": "No, it wasn’t like that! Please, just let me\nexplain, Miu..."
+    },
+    {
+      "key": "EP10_S4042_0029",
+      "value": "I knew it... I didn’t matter to you. I was\njust an excuse to fight!"
+    },
+    {
+      "key": "EP10_S4042_0030",
+      "value": "No... No, it wasn’t like that. You gotta\nunderstand, Miu, I..."
+    },
+    {
+      "key": "EP10_S4042_0031",
+      "value": "Wait... Maybe you’re right. Facts are facts.\nI couldn’t save you."
+    },
+    {
+      "key": "EP10_S4042_0032",
+      "value": "I’m...sorry. I’m so sorry, Miu. You just\ngotta forgive me!"
+    },
+    {
+      "key": "EP10_S4042_0033",
+      "value": "It’s not fair, Kaito... Why are you the only\none who gets to go home?"
+    },
+    {
+      "key": "EP10_S4042_0034",
+      "value": "You’re right... It’s not fair, is it? I don’t\nblame you for thinking like that."
+    },
+    {
+      "key": "EP10_S4042_0035",
+      "value": "Wha-? ...Slow up, Kaito! That’s some messed-\nup reasoning there!"
+    },
+    {
+      "key": "EP10_S4042_0036",
+      "value": "I know, this is a vision! It ain’t the first\none we’ve dealt with, after all!"
+    },
+    {
+      "key": "EP10_S4042_0037",
+      "value": "Someone’s showing us Miu to trick us. Don’t\nfall for it, Kaito!"
+    },
+    {
+      "key": "EP10_S4042_0038",
+      "value": "You promised to protect me, didn’t you, big\nbrother?"
+    },
+    {
+      "key": "EP10_S4042_0039",
+      "value": "If you really meant it, then...come with me."
+    },
+    {
+      "key": "EP10_S4042_0040",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP10_S4042_0041",
+      "value": "This way, Kaito. Follow me."
+    },
+    {
+      "key": "EP10_S4042_0042",
+      "value": "...Wait, Miu. You shouldn’t go off on your\nown!"
+    },
+    {
+      "key": "EP10_S4042_0043",
+      "value": "Stay with me... Stay with your brother!"
+    },
+    {
+      "key": "EP10_S4042_0044",
+      "value": "Stop, Kaito! Don’t do it!"
+    },
+    {
+      "key": "EP10_S4042_0045",
+      "value": "...Don’t you try and stop me."
+    },
+    {
+      "key": "EP10_S4042_0046",
+      "value": "Think it through! Miu is dead, man!"
+    },
+    {
+      "key": "EP10_S4042_0047",
+      "value": "You can’t follow where she’s going! Don’t ya\nsee, Kaito?!"
+    },
+    {
+      "key": "EP10_S4042_0048",
+      "value": "I just gotta go. I can’t let her be alone...\nNot anymore."
+    },
+    {
+      "key": "EP10_S4042_0049",
+      "value": "I need to...keep my promise."
+    },
+    {
+      "key": "EP10_S4042_0050",
+      "value": "Kaito!!!"
+    }
+  ]
+}

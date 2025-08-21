@@ -1,0 +1,228 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S1400_0001",
+      "value": "So these are the shopping district ruins.\nWe’ll have to stay sharp while we’re here."
+    },
+    {
+      "key": "EP06_S1400_0002",
+      "value": "M’kay..."
+    },
+    {
+      "key": "EP06_S1400_0003",
+      "value": "What is it?\nYou wanna talk about something?"
+    },
+    {
+      "key": "EP06_S1400_0004",
+      "value": "Hey, Kaito? Everyone seems to be on edge,\nbut how are you doing?"
+    },
+    {
+      "key": "EP06_S1400_0005",
+      "value": "Okay enough, I guess."
+    },
+    {
+      "key": "EP06_S1400_0006",
+      "value": "(Dracmon was really yelling.\nMust be all the stress.)"
+    },
+    {
+      "key": "EP06_S1400_0007",
+      "value": "(Who knows if Kaito will tell me straight\nhow he feels... Should I ask?)"
+    },
+    {
+      "key": "EP06_S1400_0008",
+      "value": "(Maybe I should ask in an unusual way.\nOr surprise him, then see how he reacts.)"
+    },
+    {
+      "key": "EP06_S1400_Q1",
+      "value": "(How should I get him to open up?)"
+    },
+    {
+      "key": "EP06_S1400_Q1_A1",
+      "value": "Surprise him."
+    },
+    {
+      "key": "EP06_S1400_Q1_A2",
+      "value": "Ask a weird question."
+    },
+    {
+      "key": "EP06_S1400_Q1_A3",
+      "value": "Be direct."
+    },
+    {
+      "key": "EP06_S1400_0010",
+      "value": "(If I creep up from behind while he’s\nlooking at Haru...)"
+    },
+    {
+      "key": "EP06_S1400_0011",
+      "value": "Uh, Takuma?\nWhat are you doing?"
+    },
+    {
+      "key": "EP06_S1400_0012",
+      "value": "Agumon!\nShh!"
+    },
+    {
+      "key": "EP06_S1400_0013",
+      "value": "The heck you doing trying to sneak behind me\nfor, huh?"
+    },
+    {
+      "key": "EP06_S1400_0014",
+      "value": "Oh, uh, I... Heh..."
+    },
+    {
+      "key": "EP06_S1400_0015",
+      "value": "Seems like you were trying to surprise him."
+    },
+    {
+      "key": "EP06_S1400_0016",
+      "value": "I just wanted to see how you’re doing,\nbut I didn’t know if you’d tell me..."
+    },
+    {
+      "key": "EP06_S1400_0017",
+      "value": "I thought if you’re stressed you’ll have\na really big reaction when I jump out."
+    },
+    {
+      "key": "EP06_S1400_0018",
+      "value": "What the hell?"
+    },
+    {
+      "key": "EP06_S1400_0019",
+      "value": "It was just a random idea..."
+    },
+    {
+      "key": "EP06_S1400_0020",
+      "value": "Actually, I don’t mind a good prank now\nand then."
+    },
+    {
+      "key": "EP06_S1400_0021",
+      "value": "Me too! Me too!"
+    },
+    {
+      "key": "EP06_S1400_0022",
+      "value": "Okay, I’ll talk. I’m worried Dracmon’s gonna\nturn against me."
+    },
+    {
+      "key": "EP06_S1400_0023",
+      "value": "But then I realized I don’t need to worry."
+    },
+    {
+      "key": "EP06_S1400_0025",
+      "value": "Kaito’s not worried about you, Haru. Right,\nKaito?"
+    },
+    {
+      "key": "EP06_S1400_0026",
+      "value": "Dude, I can speak for myself!"
+    },
+    {
+      "key": "EP06_S1400_0027",
+      "value": "(Did I make him mad? At least now I can\nhear how he really feels.)"
+    },
+    {
+      "key": "EP06_S1400_0028",
+      "value": "I mean, if being suspicious of Dracmon means\nI’m worried..."
+    },
+    {
+      "key": "EP06_S1400_0029",
+      "value": "Then I guess I’ve been worried. I don’t wanna\nexpose Miu to any danger, after all."
+    },
+    {
+      "key": "EP06_S1400_0030",
+      "value": "But not now. I never really needed to worry."
+    },
+    {
+      "key": "EP06_S1400_0032",
+      "value": "Did you get mad because you’re worried?\nI just wanted to ask."
+    },
+    {
+      "key": "EP06_S1400_0033",
+      "value": "You see other people as your little toys,\ndon’t you?"
+    },
+    {
+      "key": "EP06_S1400_0034",
+      "value": "That’s n-not what I meant..."
+    },
+    {
+      "key": "EP06_S1400_0035",
+      "value": "I was just worried...\nthat YOU might be worried."
+    },
+    {
+      "key": "EP06_S1400_0036",
+      "value": "I know you didn’t mean anything by it."
+    },
+    {
+      "key": "EP06_S1400_0037",
+      "value": "You have no reason to worry,\nbut I do wanna thank you."
+    },
+    {
+      "key": "EP06_S1400_0038",
+      "value": "From now on I’ll speak my mind more. That\nway, no one gets worried about me."
+    },
+    {
+      "key": "EP06_S1400_0039",
+      "value": "I AM on the lookout for traitors, but I’m not\nmad. Not worried, neither."
+    },
+    {
+      "key": "EP06_S1400_0040",
+      "value": "But we have to consider the chance Dracmon\nmight run with his tail between his legs."
+    },
+    {
+      "key": "EP06_S1400_0041",
+      "value": "You shouldn’t just jump to conclusions like\nthat. I feel bad for Dracmon."
+    },
+    {
+      "key": "EP06_S1400_0042",
+      "value": "If he does decide to fight back I’ll make\nsure he regrets it."
+    },
+    {
+      "key": "EP06_S1400_0043",
+      "value": "Kaito! How can you say that!"
+    },
+    {
+      "key": "EP06_S1400_0044",
+      "value": "...You don’t trust Dracmon at all."
+    },
+    {
+      "key": "EP06_S1400_0045",
+      "value": "We have no idea whether we can really trust\nhim, you know?"
+    },
+    {
+      "key": "EP06_S1400_0046",
+      "value": "And don’t act like you understand when you\ndon’t have a monster following you around."
+    },
+    {
+      "key": "EP06_S1400_0047",
+      "value": "Right. I just feel sorry for them."
+    },
+    {
+      "key": "EP06_S1400_0048",
+      "value": "Sorry if I hurt your feelings."
+    },
+    {
+      "key": "EP06_S1400_0049",
+      "value": "Ugh..."
+    },
+    {
+      "key": "EP06_S1400_0050",
+      "value": "(Come to think of it, neither Haru or Miyuki\nhave their own monsters.)"
+    },
+    {
+      "key": "EP06_S1400_0051",
+      "value": "(What’s the difference between us and them?\nSomething to do with the shrine?)"
+    },
+    {
+      "key": "EP06_S1400_0052",
+      "value": "Kaito..."
+    },
+    {
+      "key": "EP06_S1400_0053",
+      "value": "Do you think Miu’s safe with Syakomon?"
+    },
+    {
+      "key": "EP06_S1400_0054",
+      "value": "Yeah, they get along great."
+    },
+    {
+      "key": "EP06_S1400_0055",
+      "value": "I sure hope so."
+    }
+  ]
+}

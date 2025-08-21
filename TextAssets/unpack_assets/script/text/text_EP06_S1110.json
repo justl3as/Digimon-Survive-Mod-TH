@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S1110_0001",
+      "value": "Is that Minoru and Falcomon over there?\nI hope they’re patching things up."
+    },
+    {
+      "key": "EP06_S1110_0002",
+      "value": "Come now, Minoru. Do you really distrust us\nthat much?"
+    },
+    {
+      "key": "EP06_S1110_0003",
+      "value": "Yeah, I do! I don’t trust a single one of you\nthings!"
+    },
+    {
+      "key": "EP06_S1110_0004",
+      "value": "You got all these crazy powers, and you’re\nway stronger than us humans."
+    },
+    {
+      "key": "EP06_S1110_0005",
+      "value": "There’s no way to tell if you’ll attack us!\nHow could we trust guys like you?!"
+    },
+    {
+      "key": "EP06_S1110_0006",
+      "value": "I shan’t harm you! I have told you, I am here\nto protect you!"
+    },
+    {
+      "key": "EP06_S1110_0007",
+      "value": "You expect us to believe that?!"
+    },
+    {
+      "key": "EP06_S1110_0008",
+      "value": "Calm yourself, Minoru... What if the enemy\nattacks us in this state?"
+    },
+    {
+      "key": "EP06_S1110_0009",
+      "value": "I ain’t gonna trust my back to that beak!"
+    },
+    {
+      "key": "EP06_S1110_0010",
+      "value": "Of all the—!"
+    },
+    {
+      "key": "EP06_S1110_0011",
+      "value": "After seeing the same thing happen twice now,\nhow do you expect me to trust you monsters?!"
+    },
+    {
+      "key": "EP06_S1110_0012",
+      "value": "All right, then let me ask you this: How do\nyou intend to fight the enemy without us?"
+    },
+    {
+      "key": "EP06_S1110_0013",
+      "value": "You children are powerless. You’re bound to\nlose immediately if you fight alone."
+    },
+    {
+      "key": "EP06_S1110_0014",
+      "value": "...Are you so proud of that monster-like\nstrength of yours?"
+    },
+    {
+      "key": "EP06_S1110_0015",
+      "value": "How could you be so insulting about a power\nyou’ve relied on up to now?!"
+    },
+    {
+      "key": "EP06_S1110_0016",
+      "value": "Do you truly wish pain upon yourself? If you\ncan survive on your own, then by all means!"
+    },
+    {
+      "key": "EP06_S1110_0017",
+      "value": "Oh, you think you’re hot stuff, do you?!"
+    },
+    {
+      "key": "EP06_S1110_0018",
+      "value": "(This isn’t good... I have to stop them, but\nwho should I stop?)"
+    },
+    {
+      "key": "EP06_S1110_0019",
+      "value": "(Minoru’s the one being belligerent, but he\nmight be more pissed unless I hear him out.)"
+    },
+    {
+      "key": "EP06_S1110_0020",
+      "value": "(Whatever. I have to say something before\nthey say something they can’t take back!)"
+    },
+    {
+      "key": "EP06_S1110_Q1",
+      "value": "(I have to stop their fight!)"
+    },
+    {
+      "key": "EP06_S1110_Q1_A1",
+      "value": "Give some calm advice!"
+    },
+    {
+      "key": "EP06_S1110_Q1_A2",
+      "value": "Get them to calm down!"
+    },
+    {
+      "key": "EP06_S1110_Q1_A3",
+      "value": "Get Minoru to apologize!"
+    },
+    {
+      "key": "EP06_S1110_0022",
+      "value": "You’re going too far, you two."
+    },
+    {
+      "key": "EP06_S1110_0023",
+      "value": "What’re you trying to say, Takuma? That I’m\nin the wrong?"
+    },
+    {
+      "key": "EP06_S1110_0024",
+      "value": "No, man, I’m saying you’re both saying too\nmuch."
+    },
+    {
+      "key": "EP06_S1110_0025",
+      "value": "If things continue like this, you’ll only\njust end up hurting each other."
+    },
+    {
+      "key": "EP06_S1110_0026",
+      "value": "...I believe you are correct. Do accept my\napologies, Takuma."
+    },
+    {
+      "key": "EP06_S1110_0027",
+      "value": "How can you stay so calm all the time, man?"
+    },
+    {
+      "key": "EP06_S1110_0028",
+      "value": "Death is waiting around any corner! For you,\nfor me, for all of us!"
+    },
+    {
+      "key": "EP06_S1110_0029",
+      "value": "Are you scared of Falcomon?"
+    },
+    {
+      "key": "EP06_S1110_0030",
+      "value": "Well, I—! I..."
+    },
+    {
+      "key": "EP06_S1110_0031",
+      "value": "You’re not doubting him because you want to.\nIsn’t that right, Minoru?"
+    },
+    {
+      "key": "EP06_S1110_0032",
+      "value": "...I mean, yeah."
+    },
+    {
+      "key": "EP06_S1110_0033",
+      "value": "I can’t just trust a monster like this on\nfaith. I’m not like you, man!"
+    },
+    {
+      "key": "EP06_S1110_0035",
+      "value": "Come on, guys. Calm down. Fighting here\nisn’t going to make anything better."
+    },
+    {
+      "key": "EP06_S1110_0036",
+      "value": "Hold on. Minoru here is the one who’s trying\nto pick a fight with me."
+    },
+    {
+      "key": "EP06_S1110_0037",
+      "value": "Huh? It’s not my fault! Your friends are the\nones who keep attacking us!"
+    },
+    {
+      "key": "EP06_S1110_0038",
+      "value": "Don’t associate me with them! You should know\nbetter as a human."
+    },
+    {
+      "key": "EP06_S1110_0039",
+      "value": "Stop! If you two keep this up, it’ll only get\nuglier. Falcomon, I need you to back off."
+    },
+    {
+      "key": "EP06_S1110_0040",
+      "value": "...All right, if you insist."
+    },
+    {
+      "key": "EP06_S1110_0041",
+      "value": "Gee, sounds like you’d make a better partner\nfor Takuma, here!"
+    },
+    {
+      "key": "EP06_S1110_0042",
+      "value": "Minoru, cool your jets. What good is it going\nto do to come after Falcomon?"
+    },
+    {
+      "key": "EP06_S1110_0043",
+      "value": "Fine. Starting to make a guy wonder if you’re\nreally on the monsters’ side, man."
+    },
+    {
+      "key": "EP06_S1110_0044",
+      "value": "(Minoru... He just refuses to back down.)"
+    },
+    {
+      "key": "EP06_S1110_0046",
+      "value": "(Saying this will probably just rile Minoru\nup. Still, he started this fight.)"
+    },
+    {
+      "key": "EP06_S1110_0047",
+      "value": "Apologize, Minoru."
+    },
+    {
+      "key": "EP06_S1110_0048",
+      "value": "Why am I in the wrong?!"
+    },
+    {
+      "key": "EP06_S1110_0049",
+      "value": "It’s not about being wrong. You’ve just been\nway too harsh here."
+    },
+    {
+      "key": "EP06_S1110_0050",
+      "value": "Just how many times has Falcomon protected us\nup to this point?"
+    },
+    {
+      "key": "EP06_S1110_0051",
+      "value": "There’s no reason to label him as our enemy,\nis there?"
+    },
+    {
+      "key": "EP06_S1110_0052",
+      "value": "All right, all right, I get it! I should just\nkeep my damn mouth shut!"
+    },
+    {
+      "key": "EP06_S1110_0053",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP06_S1110_0054",
+      "value": "I appreciate your consideration. Best to\nleave him to his willful ignorance for now."
+    },
+    {
+      "key": "EP06_S1110_0055",
+      "value": "Hmph..."
+    },
+    {
+      "key": "EP06_S1110_0056",
+      "value": "I’m gonna go cool my head. Leave me alone for\na bit."
+    },
+    {
+      "key": "EP06_S1110_0057",
+      "value": "...All right, then."
+    },
+    {
+      "key": "EP06_S1110_0058",
+      "value": "I’m gonna try and cool my jets. Give me some\nspace, will you?"
+    }
+  ]
+}

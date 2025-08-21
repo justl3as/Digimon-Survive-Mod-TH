@@ -1,0 +1,1120 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S1022_0001",
+      "value": "Hey, Takuma. Got a sec?"
+    },
+    {
+      "key": "EP07_S1022_0002",
+      "value": "Sure. What’s up?"
+    },
+    {
+      "key": "EP07_S1022_0003",
+      "value": "Aoi had a secret request."
+    },
+    {
+      "key": "EP07_S1022_0004",
+      "value": "Is it serious?"
+    },
+    {
+      "key": "EP07_S1022_0005",
+      "value": "I wouldn’t call it “serious,” but...\nWell, it’s important to her anyway."
+    },
+    {
+      "key": "EP07_S1022_0006",
+      "value": "The more Aoi thinks about it, the more she\nwants to help."
+    },
+    {
+      "key": "EP07_S1022_0007",
+      "value": "She’s kind and serious and she really wants\neveryone to be safe."
+    },
+    {
+      "key": "EP07_S1022_0008",
+      "value": "That’s why she can let her imagination get\nthe best of her sometimes."
+    },
+    {
+      "key": "EP07_S1022_0009",
+      "value": "When that happens, can you help her snap out\nof it?"
+    },
+    {
+      "key": "EP07_S1022_0010",
+      "value": "Me?"
+    },
+    {
+      "key": "EP07_S1022_0011",
+      "value": "Yes. She trusts you. That’s why I asked you."
+    },
+    {
+      "key": "EP07_S1022_0012",
+      "value": "For when I’m of no use to her or too far\naway."
+    },
+    {
+      "key": "EP07_S1022_0013",
+      "value": "She wants you to help her. Please."
+    },
+    {
+      "key": "EP07_S1022_0014",
+      "value": "Labramon..."
+    },
+    {
+      "key": "EP07_S1022_0015",
+      "value": "(Labramon trusts me enough to ask me to look\nafter Aoi?)"
+    },
+    {
+      "key": "EP07_S1022_0016",
+      "value": "(That’s a big ask. How do I respond?)"
+    },
+    {
+      "key": "EP07_S1022_Q1",
+      "value": "(What should I say to Labramon?)"
+    },
+    {
+      "key": "EP07_S1022_Q1_A1",
+      "value": "Anything for Aoi."
+    },
+    {
+      "key": "EP07_S1022_Q1_A2",
+      "value": "I’ll do my best."
+    },
+    {
+      "key": "EP07_S1022_Q1_A3",
+      "value": "It’s up to Aoi."
+    },
+    {
+      "key": "EP07_S1022_0017",
+      "value": "Anything for Aoi."
+    },
+    {
+      "key": "EP07_S1022_0018",
+      "value": "Okay, Labramon. Anything for Aoi."
+    },
+    {
+      "key": "EP07_S1022_0019",
+      "value": "We all want her to be safe. She’s so kind and\nserious. I respect her too."
+    },
+    {
+      "key": "EP07_S1022_0020",
+      "value": "If I can help her in any way, I’ll do all\nI can."
+    },
+    {
+      "key": "EP07_S1022_0021",
+      "value": "Thank you. Aoi will surely be happy to hear\nthat."
+    },
+    {
+      "key": "EP07_S1022_0022",
+      "value": "I’ll do my best."
+    },
+    {
+      "key": "EP07_S1022_0023",
+      "value": "I still don’t know why she trusts me the way\nshe does..."
+    },
+    {
+      "key": "EP07_S1022_0024",
+      "value": "But if I can help her, I will.\nI’ll do whatever I can."
+    },
+    {
+      "key": "EP07_S1022_0025",
+      "value": "Thank you, Takuma."
+    },
+    {
+      "key": "EP07_S1022_0026",
+      "value": "It’s up to Aoi."
+    },
+    {
+      "key": "EP07_S1022_0027",
+      "value": "It’ll depend on how Aoi feels."
+    },
+    {
+      "key": "EP07_S1022_0028",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP07_S1022_0029",
+      "value": "I’m guessing Aoi would prefer it were you who\nprotected her."
+    },
+    {
+      "key": "EP07_S1022_0030",
+      "value": "You two get along so well, right?"
+    },
+    {
+      "key": "EP07_S1022_0031",
+      "value": "And yet she trusts you in ways I could never\nhope to match."
+    },
+    {
+      "key": "EP07_S1022_0032",
+      "value": "Really?"
+    },
+    {
+      "key": "EP07_S1022_0033",
+      "value": "Yes. Otherwise why would I ask this?"
+    },
+    {
+      "key": "EP07_S1022_0034",
+      "value": "Whenever you see the truth of this is fine.\nHelp Aoi when that time comes."
+    },
+    {
+      "key": "EP07_S1022_0035",
+      "value": "Okay, Labramon.\nIf I’m really good enough for Aoi..."
+    },
+    {
+      "key": "EP07_S1022_0036",
+      "value": "Here. Take this."
+    },
+    {
+      "key": "EP07_S1022_0037",
+      "value": "It’s not a thank you present. I just hope it\ncomes in handy."
+    },
+    {
+      "key": "EP07_S1022_0038",
+      "value": "Please keep an eye on Aoi."
+    },
+    {
+      "key": "EP07_S1022_0039",
+      "value": "You have the power to make her feel better.\nShe counts on you."
+    },
+    {
+      "key": "EP07_S1022_0040",
+      "value": "Hang on, Takuma.\nI found something you could use."
+    },
+    {
+      "key": "EP07_S1022_0041",
+      "value": "Thanks, Falcomon."
+    },
+    {
+      "key": "EP07_S1022_0042",
+      "value": "And, while Minoru is not here, could I speak\nto you?"
+    },
+    {
+      "key": "EP07_S1022_0043",
+      "value": "Hang on! Are things still bad between you and\nMinoru?"
+    },
+    {
+      "key": "EP07_S1022_0044",
+      "value": "It’s not that. I trust him completely now."
+    },
+    {
+      "key": "EP07_S1022_0045",
+      "value": "But as I noticed before, Minoru has\na weakness."
+    },
+    {
+      "key": "EP07_S1022_0046",
+      "value": "Even when frightened, he will try to fool\neveryone until he explodes."
+    },
+    {
+      "key": "EP07_S1022_0047",
+      "value": "He pretends everything is okay but this is\nhard for him."
+    },
+    {
+      "key": "EP07_S1022_0048",
+      "value": "I’ll keep an eye out to make sure he doesn’t\nlose it, but I can’t do that alone."
+    },
+    {
+      "key": "EP07_S1022_0049",
+      "value": "Minoru trusts you very deeply."
+    },
+    {
+      "key": "EP07_S1022_0050",
+      "value": "You... You really think so?"
+    },
+    {
+      "key": "EP07_S1022_0051",
+      "value": "I can see it. Minoru relies on you."
+    },
+    {
+      "key": "EP07_S1022_0052",
+      "value": "That’s why I want you to keep an eye out too.\nHe trusts you. You can do that."
+    },
+    {
+      "key": "EP07_S1022_0053",
+      "value": "(Minoru trusts me? Really?)"
+    },
+    {
+      "key": "EP07_S1022_0054",
+      "value": "(Would I be able to keep Minoru strong?)"
+    },
+    {
+      "key": "EP07_S1022_Q2",
+      "value": "(What should I tell Falcomon?)"
+    },
+    {
+      "key": "EP07_S1022_Q2_A1",
+      "value": "I need his help."
+    },
+    {
+      "key": "EP07_S1022_Q2_A2",
+      "value": "Minoru will be fine."
+    },
+    {
+      "key": "EP07_S1022_Q2_A3",
+      "value": "Got it."
+    },
+    {
+      "key": "EP07_S1022_0055",
+      "value": "I need his help."
+    },
+    {
+      "key": "EP07_S1022_0056",
+      "value": "I understand what you said but I also want to\ncount on Minoru."
+    },
+    {
+      "key": "EP07_S1022_0057",
+      "value": "I can see that.\nIt would be unfair otherwise."
+    },
+    {
+      "key": "EP07_S1022_0058",
+      "value": "I’ll tell Minoru that."
+    },
+    {
+      "key": "EP07_S1022_0059",
+      "value": "Of course, I’m not sure how much help he’d\nneed from you, or accept even, but..."
+    },
+    {
+      "key": "EP07_S1022_0060",
+      "value": "It’s fine. Minoru’s cool. He pays attention\nto what we all are thinking, is all."
+    },
+    {
+      "key": "EP07_S1022_0061",
+      "value": "Minoru will be fine."
+    },
+    {
+      "key": "EP07_S1022_0062",
+      "value": "Okay, but I’m counting on Minoru too."
+    },
+    {
+      "key": "EP07_S1022_0063",
+      "value": "I’ll help him out, but there’ll probably be\ntimes when we need to help each other.   "
+    },
+    {
+      "key": "EP07_S1022_0064",
+      "value": "Sounds right to me."
+    },
+    {
+      "key": "EP07_S1022_0065",
+      "value": "Minoru can be stubborn, but he’s not the type\nto be mean to someone he trusts."
+    },
+    {
+      "key": "EP07_S1022_0066",
+      "value": "With a little more maturity, I’m sure he’ll\nbe a fine human. Just like you, Takuma."
+    },
+    {
+      "key": "EP07_S1022_0067",
+      "value": "He will support you in turn, as well.\nI believe that."
+    },
+    {
+      "key": "EP07_S1022_0068",
+      "value": "Got it."
+    },
+    {
+      "key": "EP07_S1022_0069",
+      "value": "Okay, yeah."
+    },
+    {
+      "key": "EP07_S1022_0070",
+      "value": "Minoru’s a goofball but he’s a good guy.\nI want to help him."
+    },
+    {
+      "key": "EP07_S1022_0071",
+      "value": "Thank you."
+    },
+    {
+      "key": "EP07_S1022_0072",
+      "value": "You are incredible.\nYou can help any one who needs it."
+    },
+    {
+      "key": "EP07_S1022_0073",
+      "value": "I can see why Minoru trusts you as he does."
+    },
+    {
+      "key": "EP07_S1022_0074",
+      "value": "That’s all I came here to say.\nI’ll leave it to you, Takuma."
+    },
+    {
+      "key": "EP07_S1022_0075",
+      "value": "I’m glad there’s a human like you so close to\nMinoru."
+    },
+    {
+      "key": "EP07_S1022_0076",
+      "value": "Kewkewww!"
+    },
+    {
+      "key": "EP07_S1022_0077",
+      "value": "Kunemon? What’s wrong?!"
+    },
+    {
+      "key": "EP07_S1022_0078",
+      "value": "Kew! Kew-kew!"
+    },
+    {
+      "key": "EP07_S1022_0079",
+      "value": "Oh, sorry, Kunemon. I can’t understand you.\nLet me get Ryo!"
+    },
+    {
+      "key": "EP07_S1022_0080",
+      "value": "Kewkew! Kewkewww!"
+    },
+    {
+      "key": "EP07_S1022_0081",
+      "value": "Is that bad? Did you want to tell me\nsomething? For my ears only?"
+    },
+    {
+      "key": "EP07_S1022_0082",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP07_S1022_0083",
+      "value": "(That must be it, I think.\nBut what does it want to tell me?)"
+    },
+    {
+      "key": "EP07_S1022_0084",
+      "value": "Kewkew, kew, kewkewww!"
+    },
+    {
+      "key": "EP07_S1022_0085",
+      "value": "(I don’t know what it’s saying, but it seems\nto be worried about Ryo.)"
+    },
+    {
+      "key": "EP07_S1022_0086",
+      "value": "(I’ll do what I can but...\nhow should I respond?)"
+    },
+    {
+      "key": "EP07_S1022_Q3",
+      "value": "(How should I respond to Kunemon?)"
+    },
+    {
+      "key": "EP07_S1022_Q3_A1",
+      "value": "Leave it to me!"
+    },
+    {
+      "key": "EP07_S1022_Q3_A2",
+      "value": "Don’t worry about Ryo."
+    },
+    {
+      "key": "EP07_S1022_Q3_A3",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP07_S1022_0087",
+      "value": "Leave it to me!"
+    },
+    {
+      "key": "EP07_S1022_0088",
+      "value": "Are you worried about Ryo?\nI’ve got this."
+    },
+    {
+      "key": "EP07_S1022_0089",
+      "value": "And it’s not just me. We’re all gonna help\neach other. Ryo will help out, too."
+    },
+    {
+      "key": "EP07_S1022_0090",
+      "value": "Kewww!"
+    },
+    {
+      "key": "EP07_S1022_0091",
+      "value": "(Was that a happy noise?\nI’m guessing so.)"
+    },
+    {
+      "key": "EP07_S1022_0092",
+      "value": "Don’t worry about Ryo."
+    },
+    {
+      "key": "EP07_S1022_0093",
+      "value": "Don’t worry about Ryo.\nRyo has you, too, right?"
+    },
+    {
+      "key": "EP07_S1022_0094",
+      "value": "Kew?!"
+    },
+    {
+      "key": "EP07_S1022_0095",
+      "value": "Of course I’ll be there for Ryo too, but\nyou’ll always be Ryo’s best ally."
+    },
+    {
+      "key": "EP07_S1022_0096",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP07_S1022_0097",
+      "value": "(It’s getting all twisty? Is it happy?\nWhat’s going on...)"
+    },
+    {
+      "key": "EP07_S1022_0098",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP07_S1022_0099",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP07_S1022_0100",
+      "value": "Kew?!"
+    },
+    {
+      "key": "EP07_S1022_0101",
+      "value": "Kew kew kew, kew!"
+    },
+    {
+      "key": "EP07_S1022_0102",
+      "value": "Kewkewww!!"
+    },
+    {
+      "key": "EP07_S1022_0103",
+      "value": "(And now it’s jumping?\nDoes this mean it’s happy?)"
+    },
+    {
+      "key": "EP07_S1022_0104",
+      "value": "(I was trying to tell it to leave Ryo to me.\nI wonder if the message got through...)"
+    },
+    {
+      "key": "EP07_S1022_0105",
+      "value": "Kewkewww!"
+    },
+    {
+      "key": "EP07_S1022_0106",
+      "value": "Wait! You’re giving me this? Thanks!"
+    },
+    {
+      "key": "EP07_S1022_0107",
+      "value": "Kewee, kewee!"
+    },
+    {
+      "key": "EP07_S1022_0108",
+      "value": "(It’s wagging its tail... Am I supposed to\nshake it?)"
+    },
+    {
+      "key": "EP07_S1022_0109",
+      "value": "(Are we done then?\nWhat was that all about?)"
+    },
+    {
+      "key": "EP07_S1022_0110",
+      "value": "Kewee, kewee!"
+    },
+    {
+      "key": "EP07_S1022_0111",
+      "value": "Can I ask you something, Takuma?\nHow do you feel about Saki?"
+    },
+    {
+      "key": "EP07_S1022_0112",
+      "value": "Huh? What makes you ask that?"
+    },
+    {
+      "key": "EP07_S1022_0113",
+      "value": "It’s nothing weird. I’m just curious if you\nthink she’s okay."
+    },
+    {
+      "key": "EP07_S1022_0114",
+      "value": "She does things her own way, and puts on\na show of being happy, but it’s hard to tell."
+    },
+    {
+      "key": "EP07_S1022_0115",
+      "value": "She’s just a normal kid, though."
+    },
+    {
+      "key": "EP07_S1022_0116",
+      "value": "She’s excited when she’s happy, and gets down\nwhen she’s sad. "
+    },
+    {
+      "key": "EP07_S1022_0117",
+      "value": "She has her share of worries, but if she\ntries to work it out alone, she struggles. "
+    },
+    {
+      "key": "EP07_S1022_0118",
+      "value": "She tries real hard to look like she’s okay,\nbut I wanted you to know how she feels."
+    },
+    {
+      "key": "EP07_S1022_0119",
+      "value": "I see what you mean, but why me?"
+    },
+    {
+      "key": "EP07_S1022_0120",
+      "value": "You haven’t noticed? She trusts you."
+    },
+    {
+      "key": "EP07_S1022_0121",
+      "value": "Really?"
+    },
+    {
+      "key": "EP07_S1022_0122",
+      "value": "It seems strange that you haven’t noticed."
+    },
+    {
+      "key": "EP07_S1022_0123",
+      "value": "You’ve always been close to her."
+    },
+    {
+      "key": "EP07_S1022_0124",
+      "value": "That’s why I want you to keep her in mind."
+    },
+    {
+      "key": "EP07_S1022_0125",
+      "value": "(I’ve been close to Saki?\nThat’s good, I guess, but...)"
+    },
+    {
+      "key": "EP07_S1022_0126",
+      "value": "(Saki’s kinda moody, though.\nWould I be able to get closer?)"
+    },
+    {
+      "key": "EP07_S1022_Q4",
+      "value": "(What should I say to Floramon?)"
+    },
+    {
+      "key": "EP07_S1022_Q4_A1",
+      "value": "I’ll just do my best!"
+    },
+    {
+      "key": "EP07_S1022_Q4_A2",
+      "value": "I’ll keep at it."
+    },
+    {
+      "key": "EP07_S1022_Q4_A3",
+      "value": "I’ll look out for her."
+    },
+    {
+      "key": "EP07_S1022_0127",
+      "value": "I’ll just do my best!"
+    },
+    {
+      "key": "EP07_S1022_0128",
+      "value": "I don’t know, but I’ll do my best!"
+    },
+    {
+      "key": "EP07_S1022_0129",
+      "value": "That’s very vague of you."
+    },
+    {
+      "key": "EP07_S1022_0130",
+      "value": "I have no idea what I’ve been doing up until\nnow, so..."
+    },
+    {
+      "key": "EP07_S1022_0131",
+      "value": "But I’m glad Saki trusts me."
+    },
+    {
+      "key": "EP07_S1022_0132",
+      "value": "I’ll do whatever I can.\nIs that okay?"
+    },
+    {
+      "key": "EP07_S1022_0133",
+      "value": "I guess that’s all you can do.\nI’ll take that answer."
+    },
+    {
+      "key": "EP07_S1022_0134",
+      "value": "I’ll keep at it."
+    },
+    {
+      "key": "EP07_S1022_0135",
+      "value": "Okay. I’ll just keep on doing the same stuff."
+    },
+    {
+      "key": "EP07_S1022_0136",
+      "value": "But you came to me just to ask me to keep it\nup?"
+    },
+    {
+      "key": "EP07_S1022_0137",
+      "value": "’Cause whatever I’ve been doing seems to have\nbeen enough for Saki to trust me."
+    },
+    {
+      "key": "EP07_S1022_0138",
+      "value": "And it’s better to be natural about it than\nto get all weird on her."
+    },
+    {
+      "key": "EP07_S1022_0139",
+      "value": "I guess?"
+    },
+    {
+      "key": "EP07_S1022_0140",
+      "value": "But you’re probably right.\nDo whatever you feel is best."
+    },
+    {
+      "key": "EP07_S1022_0141",
+      "value": "I think you instinctively understand her\nanyway."
+    },
+    {
+      "key": "EP07_S1022_0142",
+      "value": "I’ll look out for her."
+    },
+    {
+      "key": "EP07_S1022_0143",
+      "value": "Okay. I’ll keep an eye on Saki."
+    },
+    {
+      "key": "EP07_S1022_0144",
+      "value": "If she seems sad, I’ll just make sure to stay\nby her side."
+    },
+    {
+      "key": "EP07_S1022_0145",
+      "value": "I knew I could count on you.\nThank you for keeping an eye on her."
+    },
+    {
+      "key": "EP07_S1022_0146",
+      "value": "I don’t mean to make a big deal about it or\nanything, but please take this."
+    },
+    {
+      "key": "EP07_S1022_0147",
+      "value": "I’ll leave Saki to you."
+    },
+    {
+      "key": "EP07_S1022_0148",
+      "value": "Keep Saki in mind."
+    },
+    {
+      "key": "EP07_S1022_0149",
+      "value": "Oh, Takuma?"
+    },
+    {
+      "key": "EP07_S1022_0150",
+      "value": "Lopmon? What’s wrong?"
+    },
+    {
+      "key": "EP07_S1022_0151",
+      "value": "There’s something I need to ask you, Takuma."
+    },
+    {
+      "key": "EP07_S1022_0152",
+      "value": "Ask me? What is it?"
+    },
+    {
+      "key": "EP07_S1022_0153",
+      "value": "Um... It’s about Shuuji."
+    },
+    {
+      "key": "EP07_S1022_0154",
+      "value": "He seems much happier lately."
+    },
+    {
+      "key": "EP07_S1022_0155",
+      "value": "I think you’re right."
+    },
+    {
+      "key": "EP07_S1022_0156",
+      "value": "I like Shuuji this way too."
+    },
+    {
+      "key": "EP07_S1022_0157",
+      "value": "But I wonder if he’s trying too hard...\nHe has a one-track mind sometimes."
+    },
+    {
+      "key": "EP07_S1022_0158",
+      "value": "One-track mind? Oh, right. He’s so serious,\nhe stops seeing everything else."
+    },
+    {
+      "key": "EP07_S1022_0159",
+      "value": "That’s when I think you could help Shuuji the\nmost!"
+    },
+    {
+      "key": "EP07_S1022_0160",
+      "value": "Who, me?!"
+    },
+    {
+      "key": "EP07_S1022_0161",
+      "value": "Yes! I’m sure you can help Shuuji!"
+    },
+    {
+      "key": "EP07_S1022_0162",
+      "value": "(If that’s the case, then maybe I should help\nShuuji out.)"
+    },
+    {
+      "key": "EP07_S1022_0163",
+      "value": "(And if he gets a little crazy like Ryo that\none time, I might need to slap him a little.)"
+    },
+    {
+      "key": "EP07_S1022_0164",
+      "value": "(But Shuuji is so stubborn. Maybe all I need\nto do is listen to his complaints.)"
+    },
+    {
+      "key": "EP07_S1022_Q5",
+      "value": "(How should I respond to Lopmon?)"
+    },
+    {
+      "key": "EP07_S1022_Q5_A1",
+      "value": "I’ll talk to him."
+    },
+    {
+      "key": "EP07_S1022_Q5_A2",
+      "value": "He may need smacking."
+    },
+    {
+      "key": "EP07_S1022_Q5_A3",
+      "value": "We need each other."
+    },
+    {
+      "key": "EP07_S1022_0165",
+      "value": "I’ll talk to him."
+    },
+    {
+      "key": "EP07_S1022_0166",
+      "value": "Okay, then. I’ll talk to Shuuji."
+    },
+    {
+      "key": "EP07_S1022_0167",
+      "value": "If he just wants to vent at me, that should\nstill calm him down."
+    },
+    {
+      "key": "EP07_S1022_0168",
+      "value": "You’re right! Please, Takuma!"
+    },
+    {
+      "key": "EP07_S1022_0169",
+      "value": "I’ll smack him."
+    },
+    {
+      "key": "EP07_S1022_0170",
+      "value": "I’ve got this. If he gets a little crazy,\nI can just smack him around a little."
+    },
+    {
+      "key": "EP07_S1022_0171",
+      "value": "Hang on. You won’t really hurt him though,\nright?"
+    },
+    {
+      "key": "EP07_S1022_0172",
+      "value": "Anyway, thank you for taking care of him,\nTakuma."
+    },
+    {
+      "key": "EP07_S1022_0173",
+      "value": "We need each other."
+    },
+    {
+      "key": "EP07_S1022_0174",
+      "value": "Of course I’ll help Shuuji, but I hope he’ll\nhelp me out too."
+    },
+    {
+      "key": "EP07_S1022_0175",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP07_S1022_0176",
+      "value": "We’re friends. There has to be some give and\ntake."
+    },
+    {
+      "key": "EP07_S1022_0177",
+      "value": "You’re right! I know Shuuji will like that\nidea! Please, Takuma!"
+    },
+    {
+      "key": "EP07_S1022_0178",
+      "value": "Anyway, here. Take this."
+    },
+    {
+      "key": "EP07_S1022_0179",
+      "value": "What? Really?"
+    },
+    {
+      "key": "EP07_S1022_0180",
+      "value": "Just a little thank you for hearing me out."
+    },
+    {
+      "key": "EP07_S1022_0181",
+      "value": "I’ll do my best for Shuuji, too!"
+    },
+    {
+      "key": "EP07_S1022_0182",
+      "value": "Take care of Shuuji, Takuma!"
+    },
+    {
+      "key": "EP07_S1022_0183",
+      "value": "Hey, got a second?"
+    },
+    {
+      "key": "EP07_S1022_0184",
+      "value": "Dracmon? Sure. What’s up?"
+    },
+    {
+      "key": "EP07_S1022_0185",
+      "value": "It’s not a big deal, but I wanted to ask you\nto keep an eye on Kaito."
+    },
+    {
+      "key": "EP07_S1022_0186",
+      "value": "On Kaito?"
+    },
+    {
+      "key": "EP07_S1022_0187",
+      "value": "You know that my fated child is unusually\nunruly."
+    },
+    {
+      "key": "EP07_S1022_0188",
+      "value": "When something’s on his mind, he never asks\nfor help. He just cracks."
+    },
+    {
+      "key": "EP07_S1022_0189",
+      "value": "He’s a real pain in the ass, but he’s not\na bad kid."
+    },
+    {
+      "key": "EP07_S1022_0190",
+      "value": "I know what you mean."
+    },
+    {
+      "key": "EP07_S1022_0191",
+      "value": "But I think you and that pain in the ass seem\nto get along pretty well."
+    },
+    {
+      "key": "EP07_S1022_0192",
+      "value": "Really?"
+    },
+    {
+      "key": "EP07_S1022_0193",
+      "value": "Yeah. Which is why if anything happened to\nme, and I was separated from Kaito..."
+    },
+    {
+      "key": "EP07_S1022_0194",
+      "value": "Don’t say that. We’re going to finish this\nthing together, safely."
+    },
+    {
+      "key": "EP07_S1022_0195",
+      "value": "Just listen to me. You’re my insurance.\nMy plan B, just in case."
+    },
+    {
+      "key": "EP07_S1022_0196",
+      "value": "(Dracmon’s pretty serious about this, but\nI don’t want to think about bad scenarios."
+    },
+    {
+      "key": "EP07_S1022_0197",
+      "value": "(But I should put his mind at ease. Maybe\nI should tell him how I feel?)"
+    },
+    {
+      "key": "EP07_S1022_Q6",
+      "value": "(How should I respond to Dracmon?)"
+    },
+    {
+      "key": "EP07_S1022_Q6_A1",
+      "value": "Leave it to me!"
+    },
+    {
+      "key": "EP07_S1022_Q6_A2",
+      "value": "Don’t be negative."
+    },
+    {
+      "key": "EP07_S1022_Q6_A3",
+      "value": "It has to be you."
+    },
+    {
+      "key": "EP07_S1022_0198",
+      "value": "Leave it to me."
+    },
+    {
+      "key": "EP07_S1022_0199",
+      "value": "Got it. Leave it to me."
+    },
+    {
+      "key": "EP07_S1022_0200",
+      "value": "But only if something happens. I need you to\nlook after Kaito until then."
+    },
+    {
+      "key": "EP07_S1022_0201",
+      "value": "Of course. I don’t plan on dying any time\nsoon."
+    },
+    {
+      "key": "EP07_S1022_0202",
+      "value": "Don’t be negative."
+    },
+    {
+      "key": "EP07_S1022_0203",
+      "value": "Let’s not talk about this.\nI don’t want to hear anything negative."
+    },
+    {
+      "key": "EP07_S1022_0204",
+      "value": "You’re not getting out of this.\nYou’ve already heard me out."
+    },
+    {
+      "key": "EP07_S1022_0205",
+      "value": "Kaito trusts you, and you won’t forget what\nI’ve asked of you."
+    },
+    {
+      "key": "EP07_S1022_0206",
+      "value": "You’re right. I couldn’t forget it if\nI tried."
+    },
+    {
+      "key": "EP07_S1022_0207",
+      "value": "If things go horribly wrong for me, I need\nyou to remember what we talked about here."
+    },
+    {
+      "key": "EP07_S1022_0208",
+      "value": "You will need to help Kaito.\nYou’re a helpful person, after all."
+    },
+    {
+      "key": "EP07_S1022_0209",
+      "value": "It has to be you."
+    },
+    {
+      "key": "EP07_S1022_0210",
+      "value": "I know what you want to say, but it has to be\nyou, Dracmon."
+    },
+    {
+      "key": "EP07_S1022_0211",
+      "value": "Kaito trusts you on a totally different level\nthan he trusts me."
+    },
+    {
+      "key": "EP07_S1022_0212",
+      "value": "Maybe. But if I can no longer help him..."
+    },
+    {
+      "key": "EP07_S1022_0213",
+      "value": "There might come a time when you will have to\nbe there for him in spite of any differences."
+    },
+    {
+      "key": "EP07_S1022_0214",
+      "value": "Uh..."
+    },
+    {
+      "key": "EP07_S1022_0215",
+      "value": "I’m sorry for talking so much.\nHere. Take this."
+    },
+    {
+      "key": "EP07_S1022_0216",
+      "value": "I swear this isn’t some kind of bribe.\nPlease, Takuma."
+    },
+    {
+      "key": "EP07_S1022_0217",
+      "value": "Dracmon..."
+    },
+    {
+      "key": "EP07_S1022_0218",
+      "value": "He’s a real pain in the ass, but he’s not\na bad kid. I leave my fated child to you."
+    },
+    {
+      "key": "EP07_S1022_0219",
+      "value": "Take this, Takuma.\nCan you hear me out?"
+    },
+    {
+      "key": "EP07_S1022_0220",
+      "value": "What? Sure, but you don’t need to give me\nanything just to ask a favor."
+    },
+    {
+      "key": "EP07_S1022_0221",
+      "value": "Just be quiet and take it. I can’t just blurt\nthis out without you taking this first."
+    },
+    {
+      "key": "EP07_S1022_0222",
+      "value": "It sounds really important."
+    },
+    {
+      "key": "EP07_S1022_0223",
+      "value": "Maybe not that...important."
+    },
+    {
+      "key": "EP07_S1022_0224",
+      "value": "But I do want you to continue keeping an eye\non Miu, like you always do."
+    },
+    {
+      "key": "EP07_S1022_0225",
+      "value": "What do you mean by that?"
+    },
+    {
+      "key": "EP07_S1022_0226",
+      "value": "It’s just...very important to me."
+    },
+    {
+      "key": "EP07_S1022_0227",
+      "value": "Miu always seems on edge around you."
+    },
+    {
+      "key": "EP07_S1022_0228",
+      "value": "You’re older, so that’s natural.\nBut Miu doesn’t hate you."
+    },
+    {
+      "key": "EP07_S1022_0229",
+      "value": "This is getting a little complicated."
+    },
+    {
+      "key": "EP07_S1022_0230",
+      "value": "What?"
+    },
+    {
+      "key": "EP07_S1022_0231",
+      "value": "You always find ways to get along with Miu,\nright?"
+    },
+    {
+      "key": "EP07_S1022_0232",
+      "value": "Miu really counts on you, whether you know it\nor not."
+    },
+    {
+      "key": "EP07_S1022_0233",
+      "value": "(Miu really trusts me that much?\nI would never have guessed...)"
+    },
+    {
+      "key": "EP07_S1022_0234",
+      "value": "(But I should just continue to get along with\nher?)"
+    },
+    {
+      "key": "EP07_S1022_Q7",
+      "value": "(What should I tell Syakomon?)"
+    },
+    {
+      "key": "EP07_S1022_Q7_A1",
+      "value": "Of course. That’s nice."
+    },
+    {
+      "key": "EP07_S1022_Q7_A2",
+      "value": "You can count on me!"
+    },
+    {
+      "key": "EP07_S1022_Q7_A3",
+      "value": "That sounds rough."
+    },
+    {
+      "key": "EP07_S1022_0235",
+      "value": "Of course."
+    },
+    {
+      "key": "EP07_S1022_0236",
+      "value": "Of course. I’m happy Miu trusts me."
+    },
+    {
+      "key": "EP07_S1022_0237",
+      "value": "Thank you. Miu will be pleased."
+    },
+    {
+      "key": "EP07_S1022_0238",
+      "value": "You can count on me."
+    },
+    {
+      "key": "EP07_S1022_0239",
+      "value": "If she trusts me that much, then I’ll take\nthe responsibility."
+    },
+    {
+      "key": "EP07_S1022_0240",
+      "value": "I’m glad to hear that, but...that seems too\nserious."
+    },
+    {
+      "key": "EP07_S1022_0241",
+      "value": "But that’s fine. It might be better for you\nto take this seriously."
+    },
+    {
+      "key": "EP07_S1022_0242",
+      "value": "That sounds rough."
+    },
+    {
+      "key": "EP07_S1022_0243",
+      "value": "I’ll do what I can, but that sounds really\nhard."
+    },
+    {
+      "key": "EP07_S1022_0244",
+      "value": "Hard? How so?"
+    },
+    {
+      "key": "EP07_S1022_0245",
+      "value": "If we start getting on better, then I’m\npretty sure Kaito will start up with me."
+    },
+    {
+      "key": "EP07_S1022_0246",
+      "value": "Ahaha, I can see that.\nBut wouldn’t that be fun?"
+    },
+    {
+      "key": "EP07_S1022_0247",
+      "value": "The battle is about to begin, and the\noutcome’s uncertain..."
+    },
+    {
+      "key": "EP07_S1022_0248",
+      "value": "Please be sure and help Miu if I no longer\ncan."
+    },
+    {
+      "key": "EP07_S1022_0249",
+      "value": "Syakomon..."
+    },
+    {
+      "key": "EP07_S1022_0250",
+      "value": "That’s all I ask. I leave it to you!"
+    },
+    {
+      "key": "EP07_S1022_0251",
+      "value": "Miu trusts you, Takuma.\nThat’s why I ask you to help her."
+    }
+  ]
+}

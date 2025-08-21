@@ -1,0 +1,16 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0041_0001",
+      "value": "(I don’t see anyone here... Maybe I can find\nsome trace of them in a different area?)"
+    },
+    {
+      "key": "EP01_S0041_0002",
+      "value": "(I should check out <color=#B41919>other places</color>...)"
+    },
+    {
+      "key": "EP01_S0041_0003",
+      "value": "I’ll look somewhere else."
+    }
+  ]
+}

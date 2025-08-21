@@ -1,0 +1,820 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0116_0001",
+      "value": "(After getting the key from Jijimon, we left\nthe park and returned to the school,)"
+    },
+    {
+      "key": "EP04_S0116_0002",
+      "value": "(in part because it was too late to try the\nwaterway, but mostly because...)"
+    },
+    {
+      "key": "EP04_S0116_0003",
+      "value": "(...we were exhausted. Especially Miu, who\nfell asleep just as soon as we got back.)"
+    },
+    {
+      "key": "EP04_S0116_0004",
+      "value": "(Her relief at having Kaito by her side again\nprobably had something to do with it.)"
+    },
+    {
+      "key": "EP04_S0116_0005",
+      "value": "(As for me...)"
+    },
+    {
+      "key": "EP04_S0116_0006",
+      "value": "Could we...really go back?"
+    },
+    {
+      "key": "EP04_S0116_0007",
+      "value": "Takuma? You’re not going to sleep?"
+    },
+    {
+      "key": "EP04_S0116_0008",
+      "value": "Oh, Agumon! Sorry, did I wake you?"
+    },
+    {
+      "key": "EP04_S0116_0009",
+      "value": "No, I’ve been up."
+    },
+    {
+      "key": "EP04_S0116_0010",
+      "value": "Something on your mind, Takuma?"
+    },
+    {
+      "key": "EP04_S0116_0011",
+      "value": "I guess you could say that."
+    },
+    {
+      "key": "EP04_S0116_0012",
+      "value": "It’s more like, now that I know there might\nreally be a way for us to go home..."
+    },
+    {
+      "key": "EP04_S0116_0013",
+      "value": "...I’m kind of excited."
+    },
+    {
+      "key": "EP04_S0116_0014",
+      "value": "Oh, so that’s it! Everyone did seem pretty\nlively at dinner!"
+    },
+    {
+      "key": "EP04_S0116_0015",
+      "value": "Yeah, I guess they did."
+    },
+    {
+      "key": "EP04_S0116_0016",
+      "value": "Minoru kept going on and on about finally\nbeing able to read comics again."
+    },
+    {
+      "key": "EP04_S0116_0017",
+      "value": "Uh-huh. Then everyone fell asleep not long\nafter we ate."
+    },
+    {
+      "key": "EP04_S0116_0018",
+      "value": "Yeah, they all worked really hard today!"
+    },
+    {
+      "key": "EP04_S0116_0019",
+      "value": "They sure did."
+    },
+    {
+      "key": "EP04_S0116_0020",
+      "value": "But I think you worked harder than anyone!"
+    },
+    {
+      "key": "EP04_S0116_0021",
+      "value": "You do?"
+    },
+    {
+      "key": "EP04_S0116_0022",
+      "value": "Absolutely! You’re really something else,\nTakuma! I’m proud to be your partner!"
+    },
+    {
+      "key": "EP04_S0116_0023",
+      "value": "(I don’t know what it is, but hearing Agumon\nsay that really warms my heart.)"
+    },
+    {
+      "key": "EP04_S0116_0024",
+      "value": "Well, I’m proud to be your partner, too,\nAgumon!"
+    },
+    {
+      "key": "EP04_S0116_0025",
+      "value": "Oh, that makes me so happy! Thanks, Takuma!"
+    },
+    {
+      "key": "EP04_S0116_0026",
+      "value": "Haha, you’re welcome."
+    },
+    {
+      "key": "EP04_S0116_0027",
+      "value": "Oh... You two are still up?"
+    },
+    {
+      "key": "EP04_S0116_0028",
+      "value": "Hm? Aoi? Oh, and Labramon too."
+    },
+    {
+      "key": "EP04_S0116_0029",
+      "value": "Looked like you were having a nice\nconversation. What were you talking about?"
+    },
+    {
+      "key": "EP04_S0116_0030",
+      "value": "That’s top secret!"
+    },
+    {
+      "key": "EP04_S0116_0031",
+      "value": "Only me and Takuma get to know!\nRight, Takuma?"
+    },
+    {
+      "key": "EP04_S0116_0032",
+      "value": "Yeah, right. I guess."
+    },
+    {
+      "key": "EP04_S0116_0033",
+      "value": "(Besides, I’d feel a little embarrassed\ntelling Aoi and Labramon what we said.)"
+    },
+    {
+      "key": "EP04_S0116_0034",
+      "value": "Anyway, what brings you two here? I thought\nyou were both sound asleep."
+    },
+    {
+      "key": "EP04_S0116_0035",
+      "value": "Oh, I don’t know, probably the same thing\nthat brought you here."
+    },
+    {
+      "key": "EP04_S0116_0036",
+      "value": "Makes sense."
+    },
+    {
+      "key": "EP04_S0116_0037",
+      "value": "I think somewhere deep down I’ve always had\nthis anxiety that maybe we’ll never go back."
+    },
+    {
+      "key": "EP04_S0116_0038",
+      "value": "So now that it’s looking like there’s a real\nchance we’ll go home, it’s a huge relief."
+    },
+    {
+      "key": "EP04_S0116_0039",
+      "value": "Only now there’s this new anxiety that maybe\nwe won’t be able to make it happen."
+    },
+    {
+      "key": "EP04_S0116_0040",
+      "value": "Don’t worry, Aoi! I’m sure we can do it.\nI know we can!"
+    },
+    {
+      "key": "EP04_S0116_0041",
+      "value": "Me too!"
+    },
+    {
+      "key": "EP04_S0116_0042",
+      "value": "And if you can’t figure it out right away,\nwe’ll be there to help you until you do!"
+    },
+    {
+      "key": "EP04_S0116_0043",
+      "value": "Yeah. With you and the others helping,\nAgumon, I’m sure things will work out."
+    },
+    {
+      "key": "EP04_S0116_0044",
+      "value": "I bet you’re right."
+    },
+    {
+      "key": "EP04_S0116_0045",
+      "value": "Besides, we’ve got you, Takuma, and everyone\nelse too."
+    },
+    {
+      "key": "EP04_S0116_0046",
+      "value": "Me? What’s so special about me?"
+    },
+    {
+      "key": "EP04_S0116_0047",
+      "value": "You know, I don’t think we could’ve gotten\nthrough today without you, Takuma."
+    },
+    {
+      "key": "EP04_S0116_0048",
+      "value": "I feel like...just having you around is going\nto be a huge help to us all."
+    },
+    {
+      "key": "EP04_S0116_0049",
+      "value": "So keep on being someone we can rely on,\nTakuma!"
+    },
+    {
+      "key": "EP04_S0116_0050",
+      "value": "Uh... Er, um..."
+    },
+    {
+      "key": "EP04_S0116_0051",
+      "value": "Hee hee, what do you say, Labramon? Ready to\nget some sleep?"
+    },
+    {
+      "key": "EP04_S0116_0052",
+      "value": "Sounds great!"
+    },
+    {
+      "key": "EP04_S0116_0053",
+      "value": "Okay, good night, you two."
+    },
+    {
+      "key": "EP04_S0116_0054",
+      "value": "G-good night..."
+    },
+    {
+      "key": "EP04_S0116_0055",
+      "value": "Takuma, your whole face is red. Are you okay?"
+    },
+    {
+      "key": "EP04_S0116_0056",
+      "value": "T-totally fine!"
+    },
+    {
+      "key": "EP04_S0116_0057",
+      "value": "I, uh, I think we’d better get some sleep\ntoo! Okay?!"
+    },
+    {
+      "key": "EP04_S0116_0058",
+      "value": "(I wasn’t expecting Aoi to say anything like\nthat!)"
+    },
+    {
+      "key": "EP04_S0116_0059",
+      "value": "(Anyway, I’d better rest up to make sure I’m\nready for tomorrow.)"
+    },
+    {
+      "key": "EP04_S0116_0060",
+      "value": "What’re you two up to, staring at each other\nlike that?"
+    },
+    {
+      "key": "EP04_S0116_0061",
+      "value": "Huh? We were just talking."
+    },
+    {
+      "key": "EP04_S0116_0062",
+      "value": "That’s right!"
+    },
+    {
+      "key": "EP04_S0116_0063",
+      "value": "Uh-huh. If I didn’t know any better, I’d say\nyou two had fallen for each other!"
+    },
+    {
+      "key": "EP04_S0116_0064",
+      "value": "I don’t know what you’re talking about."
+    },
+    {
+      "key": "EP04_S0116_0065",
+      "value": "Minoru, you have an odd way of expressing\nyourself sometimes."
+    },
+    {
+      "key": "EP04_S0116_0066",
+      "value": "It is not one of your more admirable traits."
+    },
+    {
+      "key": "EP04_S0116_0067",
+      "value": "Sheesh, all I ever get from you is lectures!"
+    },
+    {
+      "key": "EP04_S0116_0068",
+      "value": "Come on, give me a break. I’m just lettin’\noff some steam."
+    },
+    {
+      "key": "EP04_S0116_0069",
+      "value": "Oh, were you having trouble sleeping because\nyou were so excited?"
+    },
+    {
+      "key": "EP04_S0116_0070",
+      "value": "Bingo! Got it in one, Takuma! Way to go!"
+    },
+    {
+      "key": "EP04_S0116_0071",
+      "value": "The way you look? It wasn’t hard to guess."
+    },
+    {
+      "key": "EP04_S0116_0072",
+      "value": "I get it, though."
+    },
+    {
+      "key": "EP04_S0116_0073",
+      "value": "Takuma said he felt the same way!"
+    },
+    {
+      "key": "EP04_S0116_0074",
+      "value": "Hey, Agumon! Don’t give me away like that!"
+    },
+    {
+      "key": "EP04_S0116_0075",
+      "value": "Haha! Sounds like you’re in the same boat!"
+    },
+    {
+      "key": "EP04_S0116_0076",
+      "value": "Well, who wouldn’t be?"
+    },
+    {
+      "key": "EP04_S0116_0077",
+      "value": "We’ve got so much to hope for, but what if it\ndoesn’t work out? My mind just keeps racing."
+    },
+    {
+      "key": "EP04_S0116_0078",
+      "value": "Same here!"
+    },
+    {
+      "key": "EP04_S0116_0079",
+      "value": "Still, I really do think if we all stick\ntogether, we’ll get through this."
+    },
+    {
+      "key": "EP04_S0116_0080",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S0116_0081",
+      "value": "All right, Takuma! Put up a hand! As high as\nit’ll go!"
+    },
+    {
+      "key": "EP04_S0116_0082",
+      "value": "What?"
+    },
+    {
+      "key": "EP04_S0116_0083",
+      "value": "Come on! Victory high five!"
+    },
+    {
+      "key": "EP04_S0116_0084",
+      "value": "Victory? If you wish to raise your spirits\nfor tomorrow, isn’t that a bit premature?"
+    },
+    {
+      "key": "EP04_S0116_0085",
+      "value": "No way! We’re gonna get the info we need and\nmake it back safe! Victory is ours!"
+    },
+    {
+      "key": "EP04_S0116_0086",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP04_S0116_0087",
+      "value": "Well, I hope that spirit gets both of you\nthrough tomorrow."
+    },
+    {
+      "key": "EP04_S0116_0088",
+      "value": "I’m gonna give it everything I got, too!"
+    },
+    {
+      "key": "EP04_S0116_0089",
+      "value": "Yeah! We’ll be counting on you, Agumon,\nFalcomon!"
+    },
+    {
+      "key": "EP04_S0116_0090",
+      "value": "Now we had better get some rest, to be sure\nwe have enough energy for tomorrow."
+    },
+    {
+      "key": "EP04_S0116_0091",
+      "value": "Good point. And I think I’m finally starting\nto feel tired."
+    },
+    {
+      "key": "EP04_S0116_0092",
+      "value": "Yeah, we’ll head to bed too."
+    },
+    {
+      "key": "EP04_S0116_0093",
+      "value": "(After all, tomorrow is going to be a very\nbig day for us.)"
+    },
+    {
+      "key": "EP04_S0116_0094",
+      "value": "Huh? What’re you two still doin’ up?!"
+    },
+    {
+      "key": "EP04_S0116_0095",
+      "value": "Oh, hey Ryo, Kunemon."
+    },
+    {
+      "key": "EP04_S0116_0096",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP04_S0116_0097",
+      "value": "Hey there, Kunemon!"
+    },
+    {
+      "key": "EP04_S0116_0098",
+      "value": "Why haven’t you gone to bed already? We gotta\nbe up early tomorrow."
+    },
+    {
+      "key": "EP04_S0116_0099",
+      "value": "I dunno, I’m too worked up for sleep. Just\nthinking how we might be able to go home..."
+    },
+    {
+      "key": "EP04_S0116_0100",
+      "value": "Yeah, I hear ya."
+    },
+    {
+      "key": "EP04_S0116_0101",
+      "value": "Huh, you don’t seem too excited. I thought\nyou wanted to get back more than anyone."
+    },
+    {
+      "key": "EP04_S0116_0102",
+      "value": "’Course I do. It’s just..."
+    },
+    {
+      "key": "EP04_S0116_0103",
+      "value": "We gotta bust in on enemy territory, right?\nI’m not so sure about that."
+    },
+    {
+      "key": "EP04_S0116_0104",
+      "value": "You scared?"
+    },
+    {
+      "key": "EP04_S0116_0105",
+      "value": "Heh, not big on sugar coating things, are\nyou? But yeah, it does freak me out."
+    },
+    {
+      "key": "EP04_S0116_0106",
+      "value": "Well, I can understand why you’d feel that\nway, but—"
+    },
+    {
+      "key": "EP04_S0116_0107",
+      "value": "Nah, it’s cool. Sure, I’m scared. Scared\nenough that I’d rather just run away, but..."
+    },
+    {
+      "key": "EP04_S0116_0108",
+      "value": "...as long as Kunemon’s with me, I feel like\nthings’ll work out."
+    },
+    {
+      "key": "EP04_S0116_0109",
+      "value": "Kew?"
+    },
+    {
+      "key": "EP04_S0116_0110",
+      "value": "It’s something I realized back then... When\nKunemon saved me from that Kenzoku monster."
+    },
+    {
+      "key": "EP04_S0116_0111",
+      "value": "When this little guy’s desperate, he can be\nreally strong. So I thought, why not me too?"
+    },
+    {
+      "key": "EP04_S0116_0112",
+      "value": "Kewn!"
+    },
+    {
+      "key": "EP04_S0116_0113",
+      "value": "Hmph! Not like I meant that as a compliment."
+    },
+    {
+      "key": "EP04_S0116_0114",
+      "value": "Oh, and...I guess I never did thank you for\nsaving me."
+    },
+    {
+      "key": "EP04_S0116_0115",
+      "value": "So...thanks. I...really appreciate it."
+    },
+    {
+      "key": "EP04_S0116_0116",
+      "value": "Sure..."
+    },
+    {
+      "key": "EP04_S0116_0117",
+      "value": "Wow, you’ve really changed, Ryo!"
+    },
+    {
+      "key": "EP04_S0116_0118",
+      "value": "Shut up! Don’t you look at me like that!"
+    },
+    {
+      "key": "EP04_S0116_0119",
+      "value": "Man, now I’m exhausted! I’m going to bed!"
+    },
+    {
+      "key": "EP04_S0116_0120",
+      "value": "Ryo was so scared of Kunemon. I never\nwould’ve thought they’d end up like that."
+    },
+    {
+      "key": "EP04_S0116_0121",
+      "value": "I hope Shuuji and Lopmon can learn to get\nalong like them, too."
+    },
+    {
+      "key": "EP04_S0116_0122",
+      "value": "Yeah, that’d be nice."
+    },
+    {
+      "key": "EP04_S0116_0123",
+      "value": "Huh? You two are still up?!"
+    },
+    {
+      "key": "EP04_S0116_0124",
+      "value": "Oh, hey there, Saki, Floramon."
+    },
+    {
+      "key": "EP04_S0116_0125",
+      "value": "What are you two up to?"
+    },
+    {
+      "key": "EP04_S0116_0126",
+      "value": "We’re not really up to anything. Just talking\nabout tomorrow."
+    },
+    {
+      "key": "EP04_S0116_0127",
+      "value": "Hey! That’s just what we’ve been doing!"
+    },
+    {
+      "key": "EP04_S0116_0128",
+      "value": "Haha, sounds like great minds think alike!"
+    },
+    {
+      "key": "EP04_S0116_0129",
+      "value": "Are you...feeling nervous about tomorrow,\nSaki?"
+    },
+    {
+      "key": "EP04_S0116_0130",
+      "value": "What gives you that idea?"
+    },
+    {
+      "key": "EP04_S0116_0131",
+      "value": "Well, sometimes when you seem really excited,\nyou’re actually nervous about something."
+    },
+    {
+      "key": "EP04_S0116_0132",
+      "value": "Wow, that’s a good observation, Takuma! How’d\nyou know?"
+    },
+    {
+      "key": "EP04_S0116_0133",
+      "value": "You got your eye on me or something? I mean,\nyou must, to pick up on something like that."
+    },
+    {
+      "key": "EP04_S0116_0134",
+      "value": "What?! No! I... I didn’t mean to imply\nanything like that!"
+    },
+    {
+      "key": "EP04_S0116_0135",
+      "value": "Hahaha, I was just kidding! You get so\nflustered whenever I tease you like that."
+    },
+    {
+      "key": "EP04_S0116_0136",
+      "value": "(Ugh... I feel so embarrassed.)"
+    },
+    {
+      "key": "EP04_S0116_0137",
+      "value": "But...I am kinda glad, I guess."
+    },
+    {
+      "key": "EP04_S0116_0138",
+      "value": "Yeah, yeah, I’m sure you’re just teasing me\nagain. Very funny."
+    },
+    {
+      "key": "EP04_S0116_0139",
+      "value": "No, this time I mean it."
+    },
+    {
+      "key": "EP04_S0116_0140",
+      "value": "Like...it’s nice to have someone who really\ntries to understand you."
+    },
+    {
+      "key": "EP04_S0116_0141",
+      "value": "You know what I mean?"
+    },
+    {
+      "key": "EP04_S0116_0142",
+      "value": "I sure do! I love it when Takuma’s really\nattentive and tries to understand me!"
+    },
+    {
+      "key": "EP04_S0116_0143",
+      "value": "Same here. I want Saki to learn more about\nme, and I want to learn more about her too."
+    },
+    {
+      "key": "EP04_S0116_0144",
+      "value": "Heheh, thanks, Floramon."
+    },
+    {
+      "key": "EP04_S0116_0145",
+      "value": "But I think it’s about time we got to sleep.\nTomorrow’s going to be a big day!"
+    },
+    {
+      "key": "EP04_S0116_0146",
+      "value": "It sure is. We’d better be getting to bed,\ntoo."
+    },
+    {
+      "key": "EP04_S0116_0147",
+      "value": "Oh? Then good night!"
+    },
+    {
+      "key": "EP04_S0116_0148",
+      "value": "(I hope...I was able to make Saki feel\na little less anxious.)"
+    },
+    {
+      "key": "EP04_S0116_0149",
+      "value": "Takuma? Aren’t you going back? I thought we\nwere going to bed."
+    },
+    {
+      "key": "EP04_S0116_0150",
+      "value": "Oh, right! We’d better rest up for tomorrow."
+    },
+    {
+      "key": "EP04_S0116_0151",
+      "value": "Takuma, do you have a minute?"
+    },
+    {
+      "key": "EP04_S0116_0152",
+      "value": "Sure. What is it, Shuuji?"
+    },
+    {
+      "key": "EP04_S0116_0153",
+      "value": "I wanted to apologize to you."
+    },
+    {
+      "key": "EP04_S0116_0154",
+      "value": "What? Why? I...can’t think of anything you’d\nneed to apologize for."
+    },
+    {
+      "key": "EP04_S0116_0155",
+      "value": "I...had to rely on you a lot today, you know?"
+    },
+    {
+      "key": "EP04_S0116_0156",
+      "value": "I realize that as the oldest one here, that\nwasn’t really acceptable. I’m sorry."
+    },
+    {
+      "key": "EP04_S0116_0157",
+      "value": "Oh, but, I didn’t mind at all."
+    },
+    {
+      "key": "EP04_S0116_0158",
+      "value": "Still, I feel like I have to take\nresponsibility."
+    },
+    {
+      "key": "EP04_S0116_0159",
+      "value": "Any less would make me a failure as a leader."
+    },
+    {
+      "key": "EP04_S0116_0160",
+      "value": "(Shuuji takes his responsibilities so\nseriously.)"
+    },
+    {
+      "key": "EP04_S0116_0161",
+      "value": "Well, if you insist. Apology accepted."
+    },
+    {
+      "key": "EP04_S0116_0162",
+      "value": "Sorry to take up your time."
+    },
+    {
+      "key": "EP04_S0116_0163",
+      "value": "It’s fine! Let’s just hope tomorrow goes\nwell!"
+    },
+    {
+      "key": "EP04_S0116_0164",
+      "value": "Yes, let’s hope."
+    },
+    {
+      "key": "EP04_S0116_0165",
+      "value": "There’s no telling what dangers we’ll face\ntomorrow. I’ll have to look out for everyone."
+    },
+    {
+      "key": "EP04_S0116_0166",
+      "value": "Be careful not to stay up too late, you two."
+    },
+    {
+      "key": "EP04_S0116_0167",
+      "value": "Right! We won’t!"
+    },
+    {
+      "key": "EP04_S0116_0168",
+      "value": "Looks like Shuuji and Lopmon still won’t be\nsleeping anywhere near each other."
+    },
+    {
+      "key": "EP04_S0116_0169",
+      "value": "Yeah... I really hope Shuuji’s able to open\nup soon."
+    },
+    {
+      "key": "EP04_S0116_0170",
+      "value": "If only they could get along like we do!"
+    },
+    {
+      "key": "EP04_S0116_0171",
+      "value": "Yeah, if only."
+    },
+    {
+      "key": "EP04_S0116_0172",
+      "value": "Well, I think we’d better get some sleep now."
+    },
+    {
+      "key": "EP04_S0116_0173",
+      "value": "There’s going to be a lot to do tomorrow."
+    },
+    {
+      "key": "EP04_S0116_0174",
+      "value": "Hey, what’re you two doin’?"
+    },
+    {
+      "key": "EP04_S0116_0175",
+      "value": "Oh, it’s Kaito and Dracmon!"
+    },
+    {
+      "key": "EP04_S0116_0176",
+      "value": "’Sup."
+    },
+    {
+      "key": "EP04_S0116_0177",
+      "value": "Hm? Something smells tasty..."
+    },
+    {
+      "key": "EP04_S0116_0178",
+      "value": "Oh, yeah, you’re right."
+    },
+    {
+      "key": "EP04_S0116_0179",
+      "value": "Well, I was feelin’ kinda hungry. That’s what\nwoke me up."
+    },
+    {
+      "key": "EP04_S0116_0180",
+      "value": "You mean you got up for a snack? Don’t let\nAoi catch you."
+    },
+    {
+      "key": "EP04_S0116_0181",
+      "value": "Yeah, keep this quiet, okay?"
+    },
+    {
+      "key": "EP04_S0116_0182",
+      "value": "She can be downright fierce when she gets\nmad."
+    },
+    {
+      "key": "EP04_S0116_0183",
+      "value": "Ahaha, yeah."
+    },
+    {
+      "key": "EP04_S0116_0184",
+      "value": "So, how’s Miu? She fell asleep pretty soon\nafter we got back."
+    },
+    {
+      "key": "EP04_S0116_0185",
+      "value": "She did. She’s not injured or anything, so\nI don’t think anything’s wrong, but..."
+    },
+    {
+      "key": "EP04_S0116_0186",
+      "value": "...for all she went on about how fun that\namusement park was and how she wanted..."
+    },
+    {
+      "key": "EP04_S0116_0187",
+      "value": "...to stay there with everyone, being on her\nown must’ve been stressful."
+    },
+    {
+      "key": "EP04_S0116_0188",
+      "value": "Yeah. I really am glad we found her."
+    },
+    {
+      "key": "EP04_S0116_0189",
+      "value": "So, look... Thanks for everything."
+    },
+    {
+      "key": "EP04_S0116_0190",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S0116_0191",
+      "value": "I just...feel like I leaned on you guys a lot\ntoday."
+    },
+    {
+      "key": "EP04_S0116_0192",
+      "value": "What’s this? Kaito being open and honest\nabout how feels for once? No way!"
+    },
+    {
+      "key": "EP04_S0116_0193",
+      "value": "Pretty hard to believe!"
+    },
+    {
+      "key": "EP04_S0116_0194",
+      "value": "Oh, shut up, both of you!"
+    },
+    {
+      "key": "EP04_S0116_0195",
+      "value": "But...seriously, I don’t think we’d have\nfound her if it wasn’t for you, Takuma."
+    },
+    {
+      "key": "EP04_S0116_0196",
+      "value": "So...thanks!"
+    },
+    {
+      "key": "EP04_S0116_0197",
+      "value": "Oh come on, you helped us as much as we\nhelped you."
+    },
+    {
+      "key": "EP04_S0116_0198",
+      "value": "And we’ll really be counting on you tomorrow!"
+    },
+    {
+      "key": "EP04_S0116_0199",
+      "value": "Heh... Haha! Then leave it to me!"
+    },
+    {
+      "key": "EP04_S0116_0200",
+      "value": "And me! Don’t count me out."
+    },
+    {
+      "key": "EP04_S0116_0201",
+      "value": "Oh, me too! Me too!"
+    },
+    {
+      "key": "EP04_S0116_0202",
+      "value": "Right, I’ll be counting on both of you."
+    },
+    {
+      "key": "EP04_S0116_0203",
+      "value": "Well, I’d better be gettin’ to bed.\nTomorrow’s gonna be a tough one."
+    },
+    {
+      "key": "EP04_S0116_0204",
+      "value": "Yeah. We’d better rest up."
+    }
+  ]
+}

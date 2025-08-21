@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0400_0001",
+      "value": "It’ll be bad if we get separated again. We\nneed to lock this down together..."
+    },
+    {
+      "key": "EP05_S0400_0002",
+      "value": "Aren’t we in a hurry? Then we ought to split\nup and cover more ground!"
+    },
+    {
+      "key": "EP05_S0400_0003",
+      "value": "He’s right, we can’t leave Shuuji alone when\nhe’s like that. We have to find him soon."
+    },
+    {
+      "key": "EP05_S0400_0004",
+      "value": "Yeah, but..."
+    },
+    {
+      "key": "EP05_S0400_0005",
+      "value": "It’ll be okay! If another fake shows up, we\ncan just beat them ourselves!"
+    },
+    {
+      "key": "EP05_S0400_0006",
+      "value": "...Fair enough."
+    },
+    {
+      "key": "EP05_S0400_0007",
+      "value": "Then let’s split up and look for Shuuji. It’s\nup to us, guys!"
+    }
+  ]
+}

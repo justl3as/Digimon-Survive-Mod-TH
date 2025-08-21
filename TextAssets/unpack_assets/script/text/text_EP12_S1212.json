@@ -1,0 +1,628 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1212_0001",
+      "value": "Graaaaaaaaawr!"
+    },
+    {
+      "key": "EP12_S1212_0002",
+      "value": "Oooooohhh..."
+    },
+    {
+      "key": "EP12_S1212_0003",
+      "value": "The Master is falling apart... Fading away..."
+    },
+    {
+      "key": "EP12_S1212_0004",
+      "value": "Look at all those lights... Are those the\nsouls of the sacrifices the Master took in?"
+    },
+    {
+      "key": "EP12_S1212_0005",
+      "value": "That would mean Shuuji and Ryo are somewhere\nin all that light, too."
+    },
+    {
+      "key": "EP12_S1212_0006",
+      "value": "It’s...over."
+    },
+    {
+      "key": "EP12_S1212_0007",
+      "value": "Yeah... Sorry, but I don’t think I have the\nstrength to stay on my feet."
+    },
+    {
+      "key": "EP12_S1212_0008",
+      "value": "Funny, I don’t think I do either. Let’s\njust...sit down for a while."
+    },
+    {
+      "key": "EP12_S1212_0009",
+      "value": "Oh, hey, look at that!"
+    },
+    {
+      "key": "EP12_S1212_0010",
+      "value": "Over where the Master was!"
+    },
+    {
+      "key": "EP12_S1212_0011",
+      "value": "What could it be?!"
+    },
+    {
+      "key": "EP12_S1212_0012",
+      "value": "It’s the Master’s true form. Cleansed of all\nthe sacrificial souls, that is what’s left."
+    },
+    {
+      "key": "EP12_S1212_0013",
+      "value": "And even that is starting to fade."
+    },
+    {
+      "key": "EP12_S1212_0014",
+      "value": "What? You mean...he’s still alive?!"
+    },
+    {
+      "key": "EP12_S1212_0015",
+      "value": "And...should we leave things this way?"
+    },
+    {
+      "key": "EP12_S1212_0016",
+      "value": "Well, it’s about to fade away, right?\nIt’s not going to hurt us, is it?"
+    },
+    {
+      "key": "EP12_S1212_0017",
+      "value": "So...what are we going to do about it?"
+    },
+    {
+      "key": "EP12_S1212_0018",
+      "value": "Miu, be careful. Don’t get too close."
+    },
+    {
+      "key": "EP12_S1212_0019",
+      "value": "Wait! I hear something..."
+    },
+    {
+      "key": "EP12_S1212_0020",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP12_S1212_0021",
+      "value": "You’re right. It’s like a...voice from inside\nthe light."
+    },
+    {
+      "key": "EP12_S1212_0022",
+      "value": "...Will not fade."
+    },
+    {
+      "key": "EP12_S1212_0023",
+      "value": "Will never fade... Aaahhh..."
+    },
+    {
+      "key": "EP12_S1212_0024",
+      "value": "What?! That’s its voice!"
+    },
+    {
+      "key": "EP12_S1212_0025",
+      "value": "All I ever wanted...was to protect this\nworld..."
+    },
+    {
+      "key": "EP12_S1212_0026",
+      "value": "As it is, it will collapse... It must be\nprotected...with the power of the sacrifices."
+    },
+    {
+      "key": "EP12_S1212_0027",
+      "value": "It is the only way. You must believe me..."
+    },
+    {
+      "key": "EP12_S1212_0028",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S1212_0029",
+      "value": "He wanted...to protect this world?"
+    },
+    {
+      "key": "EP12_S1212_0030",
+      "value": "Did you hear that? He said he was collecting\nsacrifices for our sakes."
+    },
+    {
+      "key": "EP12_S1212_0031",
+      "value": "So, everything he did was to preserve our\nworld and keep us safe?"
+    },
+    {
+      "key": "EP12_S1212_0032",
+      "value": "Yes...and I’m sure that was very hard."
+    },
+    {
+      "key": "EP12_S1212_0033",
+      "value": "The Master may have kept our world safe,\nbut..."
+    },
+    {
+      "key": "EP12_S1212_0034",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S1212_0035",
+      "value": "...that was wrong."
+    },
+    {
+      "key": "EP12_S1212_0036",
+      "value": "Agumon!"
+    },
+    {
+      "key": "EP12_S1212_0037",
+      "value": "Any world that needs child sacrifices to keep\nit going deserves to be destroyed."
+    },
+    {
+      "key": "EP12_S1212_0038",
+      "value": "That kind of world shouldn’t exist."
+    },
+    {
+      "key": "EP12_S1212_0039",
+      "value": "You make a good point."
+    },
+    {
+      "key": "EP12_S1212_0040",
+      "value": "Yes."
+    },
+    {
+      "key": "EP12_S1212_0041",
+      "value": "I’d rather not have a world like that at all."
+    },
+    {
+      "key": "EP12_S1212_0042",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP12_S1212_0043",
+      "value": "All we wanted was to go back to our own\nworld, and to keep it safe..."
+    },
+    {
+      "key": "EP12_S1212_0044",
+      "value": "We never wanted to destroy this one!"
+    },
+    {
+      "key": "EP12_S1212_0045",
+      "value": "Takuma... Thank you."
+    },
+    {
+      "key": "EP12_S1212_0046",
+      "value": "Thank you for caring about us, even though\ncountless children died for our sakes."
+    },
+    {
+      "key": "EP12_S1212_0047",
+      "value": "That wasn’t your fault, Agumon! How could it\nbe?!"
+    },
+    {
+      "key": "EP12_S1212_0048",
+      "value": "But...can this world even be maintained\nwithout sacrifices?"
+    },
+    {
+      "key": "EP12_S1212_0049",
+      "value": "I don’t know. But there has to be a way for\nthis to work out."
+    },
+    {
+      "key": "EP12_S1212_0050",
+      "value": "There has to be some way for us to live\ntogether in peace."
+    },
+    {
+      "key": "EP12_S1212_0051",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP12_S1212_0052",
+      "value": "Miyuki, Professor, can you think of anything?"
+    },
+    {
+      "key": "EP12_S1212_0053",
+      "value": "I don’t know. I feel the same way you do, but\nI just don’t know."
+    },
+    {
+      "key": "EP12_S1212_0054",
+      "value": "Well, there may be one way."
+    },
+    {
+      "key": "EP12_S1212_0055",
+      "value": "Professor!"
+    },
+    {
+      "key": "EP12_S1212_0056",
+      "value": "Clearly we humans have a pronounced effect\nboth on this world and on the Kemonogami."
+    },
+    {
+      "key": "EP12_S1212_0057",
+      "value": "Otherwise things would never have come to\nthis."
+    },
+    {
+      "key": "EP12_S1212_0058",
+      "value": "Yeah. Remember how we heard all those voices,\nsaw those squares of light during the fight?"
+    },
+    {
+      "key": "EP12_S1212_0059",
+      "value": "Yes, what do you think that was?"
+    },
+    {
+      "key": "EP12_S1212_0060",
+      "value": "They seemed kind of like...messages on social\nmedia."
+    },
+    {
+      "key": "EP12_S1212_0061",
+      "value": "Social media?"
+    },
+    {
+      "key": "EP12_S1212_0062",
+      "value": "Yeah! You’re right! It was almost like\nsomething was trending!"
+    },
+    {
+      "key": "EP12_S1212_0063",
+      "value": "Someone took a video of the fight with\nPiedmon when I was back in our world."
+    },
+    {
+      "key": "EP12_S1212_0064",
+      "value": "That video got shared online, and all sorts\nof people were reacting to it."
+    },
+    {
+      "key": "EP12_S1212_0065",
+      "value": "Wait, so it really did go viral?"
+    },
+    {
+      "key": "EP12_S1212_0066",
+      "value": "This place must be a nexus between worlds.\nThat would be why our phones started working."
+    },
+    {
+      "key": "EP12_S1212_0067",
+      "value": "The voices we heard and the lights we saw\nwere even more important, I think."
+    },
+    {
+      "key": "EP12_S1212_0068",
+      "value": "You mean the social media stuff?"
+    },
+    {
+      "key": "EP12_S1212_0069",
+      "value": "This is purely speculation, but I believe\nwhat this world truly needs isn’t sacrifices,"
+    },
+    {
+      "key": "EP12_S1212_0070",
+      "value": "but rather the strong feelings those\nsacrificial rites produced."
+    },
+    {
+      "key": "EP12_S1212_0071",
+      "value": "Basically, it needs human thoughts and\nemotions. Our awareness and attention."
+    },
+    {
+      "key": "EP12_S1212_0072",
+      "value": "What we witnessed earlier was the result of a\nspike in humans’ attention toward this world."
+    },
+    {
+      "key": "EP12_S1212_0272",
+      "value": "The world is maintained through people’s\nawareness of it."
+    },
+    {
+      "key": "EP12_S1212_0073",
+      "value": "I don’t buy it. Humans just thinking about\nthis place changed the world?"
+    },
+    {
+      "key": "EP12_S1212_0074",
+      "value": "Yes, it does sound crazy, but in a way, all\nworlds are the result of human consciousness."
+    },
+    {
+      "key": "EP12_S1212_0075",
+      "value": "The mind seeks ideals, builds a society to\nrealize them, and then shapes an environment."
+    },
+    {
+      "key": "EP12_S1212_0076",
+      "value": "In a sense, everything springs from human\nthought."
+    },
+    {
+      "key": "EP12_S1212_0077",
+      "value": "So making people aware of this other world is\nthe first step towards preserving it."
+    },
+    {
+      "key": "EP12_S1212_0078",
+      "value": "It will begin with us."
+    },
+    {
+      "key": "EP12_S1212_0079",
+      "value": "Then by making more people aware of this\nworld, we can save it!"
+    },
+    {
+      "key": "EP12_S1212_0080",
+      "value": "With the understanding, of course, that this\ntheory still needs to be verified."
+    },
+    {
+      "key": "EP12_S1212_0081",
+      "value": "Human thoughts and emotions... So is that why\nthose voices weakened the Master?"
+    },
+    {
+      "key": "EP12_S1212_0082",
+      "value": "I believe there is a connection there, yes."
+    },
+    {
+      "key": "EP12_S1212_0083",
+      "value": "As an egg, the Master’s wrath had waned, so\nonly what was likely his true will remained."
+    },
+    {
+      "key": "EP12_S1212_0084",
+      "value": "It’s possible that those voices, and the\nbelief behind them, calmed his raging spirit."
+    },
+    {
+      "key": "EP12_S1212_0085",
+      "value": "Calmed his raging spirit... Like what an\noffering would do for a god."
+    },
+    {
+      "key": "EP12_S1212_0086",
+      "value": "Precisely. Historically, shrine maidens\ninterceded between humans and the gods."
+    },
+    {
+      "key": "EP12_S1212_0087",
+      "value": "The Minase song may work similarly. But\naren’t many voices better than one?"
+    },
+    {
+      "key": "EP12_S1212_0088",
+      "value": "Man... You know, I’m starting to think this\nmight actually work."
+    },
+    {
+      "key": "EP12_S1212_0089",
+      "value": "So, uh...what does all this mean?"
+    },
+    {
+      "key": "EP12_S1212_0090",
+      "value": "Basically, if people in our world believe in\nthis one, everything will be fine. I think."
+    },
+    {
+      "key": "EP12_S1212_0091",
+      "value": "Honestly, it all seems so insane I have\na hard time following it."
+    },
+    {
+      "key": "EP12_S1212_0092",
+      "value": "But wouldn’t it be great if all people had to\ndo was believe in this world to save it?"
+    },
+    {
+      "key": "EP12_S1212_0093",
+      "value": "Yes, that would be wonderful."
+    },
+    {
+      "key": "EP12_S1212_0094",
+      "value": "I’m not sure I get it, but Takuma, do you\nthink this will work?"
+    },
+    {
+      "key": "EP12_S1212_0095",
+      "value": "I trust the Professor. Our thoughts,\nfeelings, and beliefs will save this world."
+    },
+    {
+      "key": "EP12_S1212_0096",
+      "value": "So why don’t you come back to my world with\nme, Agumon?"
+    },
+    {
+      "key": "EP12_S1212_0097",
+      "value": "What?! You want me to go back with you?!"
+    },
+    {
+      "key": "EP12_S1212_0098",
+      "value": "Wait, can we do that?"
+    },
+    {
+      "key": "EP12_S1212_0099",
+      "value": "Yeah, are you serious? You think that’d be\nokay?"
+    },
+    {
+      "key": "EP12_S1212_0100",
+      "value": "Well, that way we can test the Professor’s\ntheory, and more importantly..."
+    },
+    {
+      "key": "EP12_S1212_0101",
+      "value": "...it’ll let us stay together forever. Isn’t\nthat right?"
+    },
+    {
+      "key": "EP12_S1212_0102",
+      "value": "You mean I could really stay with you? We\ncould be together forever?!"
+    },
+    {
+      "key": "EP12_S1212_0103",
+      "value": "Of course! Isn’t that what we’ve been saying\nall along?!"
+    },
+    {
+      "key": "EP12_S1212_0104",
+      "value": "Takuma...!"
+    },
+    {
+      "key": "EP12_S1212_0105",
+      "value": "Yes, what a wonderful idea! You can come too,\nLabramon! We’ll all go together!"
+    },
+    {
+      "key": "EP12_S1212_0106",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP12_S1212_0107",
+      "value": "Then, after we all go back as a team, we can\nstay together forever!"
+    },
+    {
+      "key": "EP12_S1212_0108",
+      "value": "Right! That way even if the Professor’s\nwrong, at least you guys will be okay!"
+    },
+    {
+      "key": "EP12_S1212_0109",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S1212_0110",
+      "value": "Come on, Agumon, let’s go!"
+    },
+    {
+      "key": "EP12_S1212_0111",
+      "value": "Takuma...I don’t know. I think it’s still too\nsoon for that."
+    },
+    {
+      "key": "EP12_S1212_0112",
+      "value": "Too soon? What do you mean?"
+    },
+    {
+      "key": "EP12_S1212_0113",
+      "value": "I’m not sure. I don’t fully understand it,\nbut it feels like it’s not the right time."
+    },
+    {
+      "key": "EP12_S1212_0114",
+      "value": "Don’t say that!"
+    },
+    {
+      "key": "EP12_S1212_0115",
+      "value": "We all feel the same way you do, Agumon."
+    },
+    {
+      "key": "EP12_S1212_0116",
+      "value": "I think we need to say goodbye for now."
+    },
+    {
+      "key": "EP12_S1212_0117",
+      "value": "Labramon..."
+    },
+    {
+      "key": "EP12_S1212_0118",
+      "value": "Gabumon, is that how you feel too?"
+    },
+    {
+      "key": "EP12_S1212_0119",
+      "value": "Yeah, it is. But don’t worry."
+    },
+    {
+      "key": "EP12_S1212_0120",
+      "value": "I get it now. You never really abandoned me,\nHaru."
+    },
+    {
+      "key": "EP12_S1212_0121",
+      "value": "And you’ll do something about this too, so\nwe’ll be together again in no time, right?"
+    },
+    {
+      "key": "EP12_S1212_0122",
+      "value": "Yes, of course! Of course we will."
+    },
+    {
+      "key": "EP12_S1212_0123",
+      "value": "Agumon... You’re sure we have to say goodbye?"
+    },
+    {
+      "key": "EP12_S1212_0124",
+      "value": "Ahaha, don’t cry, Takuma!"
+    },
+    {
+      "key": "EP12_S1212_0125",
+      "value": "I didn’t really get what the Professor was\nsaying, but..."
+    },
+    {
+      "key": "EP12_S1212_0126",
+      "value": "Basically, as long as you don’t forget about\nus, this world will be safe, right?"
+    },
+    {
+      "key": "EP12_S1212_0127",
+      "value": "As long as you remember me, we’ll see each\nother again."
+    },
+    {
+      "key": "EP12_S1212_0128",
+      "value": "So we’ll wait as long as it takes."
+    },
+    {
+      "key": "EP12_S1212_0129",
+      "value": "We all believe in you!"
+    },
+    {
+      "key": "EP12_S1212_0130",
+      "value": "Good. Because we won’t let you down.\nThat’s a promise!"
+    },
+    {
+      "key": "EP12_S1212_0131",
+      "value": "And we’ll keep it no matter what! Just you\nwait! We’ll save all of you and this world!"
+    },
+    {
+      "key": "EP12_S1212_0132",
+      "value": "Isn’t that right, everyone?!"
+    },
+    {
+      "key": "EP12_S1212_0133",
+      "value": "Yes, absolutely!"
+    },
+    {
+      "key": "EP12_S1212_0134",
+      "value": "Yeah, you said it!"
+    },
+    {
+      "key": "EP12_S1212_0135",
+      "value": "You better believe it!"
+    },
+    {
+      "key": "EP12_S1212_0136",
+      "value": "That’s right!"
+    },
+    {
+      "key": "EP12_S1212_0137",
+      "value": "Of course!"
+    },
+    {
+      "key": "EP12_S1212_0138",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S1212_0139",
+      "value": "Miyuki, you ready?"
+    },
+    {
+      "key": "EP12_S1212_0140",
+      "value": "Yes. I will open the door with my song."
+    },
+    {
+      "key": "EP12_S1212_0141",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S1212_0142",
+      "value": "Countless stars that shine so bright..."
+    },
+    {
+      "key": "EP12_S1212_0143",
+      "value": "All right, here we go..."
+    },
+    {
+      "key": "EP12_S1212_0144",
+      "value": "Goodbye, Agumon."
+    },
+    {
+      "key": "EP12_S1212_0145",
+      "value": "Goodbye, everyone! Goodbye, Takuma!!!"
+    },
+    {
+      "key": "EP12_S1212_0146",
+      "value": "Take care!"
+    },
+    {
+      "key": "EP12_S1212_0147",
+      "value": "Until we meet again!"
+    },
+    {
+      "key": "EP12_S1212_0148",
+      "value": "Thanks, Takuma! Thanks everybody!"
+    },
+    {
+      "key": "EP12_S1212_0149",
+      "value": "Hey, did you see that thing going aroundonline? You know, about the monsters?"
+    },
+    {
+      "key": "EP12_S1212_0150",
+      "value": "You mean that video of the monster fighting\na clown out in the mountains?"
+    },
+    {
+      "key": "EP12_S1212_0151",
+      "value": "Nah, that’s old news! These days people are\ntalking about some other world."
+    },
+    {
+      "key": "EP12_S1212_0152",
+      "value": "They say it’s a place where monsters actually\nexist."
+    },
+    {
+      "key": "EP12_S1212_0153",
+      "value": "Gotta be an urban legend."
+    },
+    {
+      "key": "EP12_S1212_0154",
+      "value": "No, it’s true! A friend of one of my friends\nactually went there!"
+    },
+    {
+      "key": "EP12_S1212_0155",
+      "value": "This video’s from them."
+    }
+  ]
+}

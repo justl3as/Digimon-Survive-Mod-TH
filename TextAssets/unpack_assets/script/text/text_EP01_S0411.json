@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0411_0001",
+      "value": "Thank you for finding the first-aid kit,\nTakuma!"
+    },
+    {
+      "key": "EP01_S0411_0002",
+      "value": "You’re welcome!\nYou’re looking way better now."
+    },
+    {
+      "key": "EP01_S0411_0003",
+      "value": "Yeah! My wound’s all closed up, it doesn’t\neven hurt to move! Human tools are amazing!"
+    },
+    {
+      "key": "EP01_S0411_0004",
+      "value": "(A wound like that healed with a little\nantiseptic? These guys are strange...)"
+    },
+    {
+      "key": "EP01_S0411_0005",
+      "value": "Thank you for taking care of me!"
+    }
+  ]
+}

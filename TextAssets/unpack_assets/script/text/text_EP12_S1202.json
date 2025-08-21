@@ -1,0 +1,220 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1202_0001",
+      "value": "*pant* *pant* *pant*"
+    },
+    {
+      "key": "EP12_S1202_0002",
+      "value": "*pant* *pant* Falcomon, you okay?"
+    },
+    {
+      "key": "EP12_S1202_0003",
+      "value": "Heheh, I’m fine... Minoru, you’re the one who\nlooks a bit rough to me."
+    },
+    {
+      "key": "EP12_S1202_0004",
+      "value": "*pant* *pant*"
+    },
+    {
+      "key": "EP12_S1202_0005",
+      "value": "*pant* *pant* Diatrymon, you okay?"
+    },
+    {
+      "key": "EP12_S1202_0006",
+      "value": "Heh... I’m fine. Compared to what you look\nlike, Minoru, this is nothing."
+    },
+    {
+      "key": "EP12_S1202_0007",
+      "value": "Urgh..."
+    },
+    {
+      "key": "EP12_S1202_0008",
+      "value": "*pant* *pant* Crowmon, you okay?"
+    },
+    {
+      "key": "EP12_S1202_0009",
+      "value": "Heh, no problem. What about you, Minoru? You\ndon’t look so good."
+    },
+    {
+      "key": "EP12_S1202_0010",
+      "value": "*huff*...*huff*..."
+    },
+    {
+      "key": "EP12_S1202_0011",
+      "value": "*pant* *pant* Varodurumon, you okay?"
+    },
+    {
+      "key": "EP12_S1202_0012",
+      "value": "Hey, don’t worry about me... Worry about\nyourself."
+    },
+    {
+      "key": "EP12_S1202_0013",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S1202_0014",
+      "value": "*pant* *pant* Zhuqiaomon, you okay?"
+    },
+    {
+      "key": "EP12_S1202_0015",
+      "value": "This fight’s tougher than I expected, but I’m\nat least in better shape than you."
+    },
+    {
+      "key": "EP12_S1202_0016",
+      "value": "Heheh..."
+    },
+    {
+      "key": "EP12_S1202_0017",
+      "value": "(Minoru and Falcomon look like they’re in\ntrouble.)"
+    },
+    {
+      "key": "EP12_S1202_0018",
+      "value": "(If this keeps up, I’m worried about\nFalcomon...)"
+    },
+    {
+      "key": "EP12_S1202_0019",
+      "value": "(Minoru and Diatrymon look like they’re in\ntrouble.)"
+    },
+    {
+      "key": "EP12_S1202_0020",
+      "value": "(If this keeps up, I’m worried about\nDiatrymon...)"
+    },
+    {
+      "key": "EP12_S1202_0021",
+      "value": "(Minoru and Crowmon look like they’re in\ntrouble.)"
+    },
+    {
+      "key": "EP12_S1202_0022",
+      "value": "(If this keeps up, I’m worried about\nCrowmon...)"
+    },
+    {
+      "key": "EP12_S1202_0023",
+      "value": "(Minoru and Varodurumon look like they’re in\ntrouble.)"
+    },
+    {
+      "key": "EP12_S1202_0024",
+      "value": "(If this keeps up, I’m worried about\nVarodurumon...)"
+    },
+    {
+      "key": "EP12_S1202_0025",
+      "value": "(Minoru and Zhuqiaomon look like they’re in\ntrouble.)"
+    },
+    {
+      "key": "EP12_S1202_0026",
+      "value": "(If this keeps up, I’m worried about\nZhuqiaomon...)"
+    },
+    {
+      "key": "EP12_S1202_0027",
+      "value": "Minoru!!!"
+    },
+    {
+      "key": "EP12_S1202_0028",
+      "value": "Minoru! When all this is over...let’s throw a party!"
+    },
+    {
+      "key": "EP12_S1202_0029",
+      "value": "What? That’s what you say to me right now?!"
+    },
+    {
+      "key": "EP12_S1202_0030",
+      "value": "Uh, was that weird?"
+    },
+    {
+      "key": "EP12_S1202_0031",
+      "value": "Haha, you bet it was! You are the worst at\ncheering people up! Right, Falcomon?"
+    },
+    {
+      "key": "EP12_S1202_0032",
+      "value": "Indeed. That was terrible. But his intentions\ncame through loud and clear."
+    },
+    {
+      "key": "EP12_S1202_0033",
+      "value": "Haha, you bet it was! You are the worst at\ncheering people up! Right, Diatrymon?"
+    },
+    {
+      "key": "EP12_S1202_0034",
+      "value": "Yes, he is a strange one... But it did set my\nheart somewhat at ease."
+    },
+    {
+      "key": "EP12_S1202_0035",
+      "value": "Haha, you bet it was! You are the worst at\ncheering people up! Right, Crowmon?"
+    },
+    {
+      "key": "EP12_S1202_0036",
+      "value": "Yes, that was an odd thing to say... Though\nI did enjoy hearing it."
+    },
+    {
+      "key": "EP12_S1202_0037",
+      "value": "Haha, you bet it was! You are the worst at\ncheering people up! Right, Varodurumon?"
+    },
+    {
+      "key": "EP12_S1202_0038",
+      "value": "Yes, he is a strange one... Though his heart\nwas in the right place..."
+    },
+    {
+      "key": "EP12_S1202_0039",
+      "value": "Haha, you bet it was! You are the worst at\ncheering people up! Right, Zhuqiaomon?"
+    },
+    {
+      "key": "EP12_S1202_0040",
+      "value": "Yes, he is a very silly human... But his\nintentions were clear enough."
+    },
+    {
+      "key": "EP12_S1202_0041",
+      "value": "Heheh, true. Thanks, Takuma."
+    },
+    {
+      "key": "EP12_S1202_0042",
+      "value": "You’re right. We’re going to keep on living,\neven after this fight is over."
+    },
+    {
+      "key": "EP12_S1202_0043",
+      "value": "So we can’t afford to give up now!"
+    },
+    {
+      "key": "EP12_S1202_0044",
+      "value": "Indeed!"
+    },
+    {
+      "key": "EP12_S1202_0045",
+      "value": "That’s right!"
+    },
+    {
+      "key": "EP12_S1202_0046",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP12_S1202_0047",
+      "value": "Right!"
+    },
+    {
+      "key": "EP12_S1202_0048",
+      "value": "Yes, exactly."
+    },
+    {
+      "key": "EP12_S1202_0049",
+      "value": "Sounds like I made you worry about me,\nTakuma. Sorry about that!"
+    },
+    {
+      "key": "EP12_S1202_0050",
+      "value": "And hey, I’ll admit it, I’m scared. My legs\nhaven’t stopped shaking since this started."
+    },
+    {
+      "key": "EP12_S1202_0051",
+      "value": "But I can’t back down now! I am not going to\nbe the only one here taking it easy!"
+    },
+    {
+      "key": "EP12_S1202_0052",
+      "value": "If I don’t force myself to act cool now, I\ncouldn’t call myself a friend to any of you!"
+    },
+    {
+      "key": "EP12_S1202_0053",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP12_S1202_0054",
+      "value": "All right, here goes!"
+    }
+  ]
+}

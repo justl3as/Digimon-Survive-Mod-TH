@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0421_0001",
+      "value": "I don’t see Aoi anywhere around here..."
+    },
+    {
+      "key": "EP01_S0421_0002",
+      "value": "Yeah, you’re right..."
+    },
+    {
+      "key": "EP01_S0421_0003",
+      "value": "Let’s go check next door!"
+    },
+    {
+      "key": "EP01_S0421_0004",
+      "value": "What?! But that’s the girls’ room..."
+    },
+    {
+      "key": "EP01_S0421_0005",
+      "value": "(No, she could be in there. Now’s not the\ntime to get flustered about such things!)"
+    },
+    {
+      "key": "EP01_S0421_0006",
+      "value": "(Ulp... Okay, I’m going in!)"
+    },
+    {
+      "key": "EP01_S0421_0007",
+      "value": "She’s not in there, either..."
+    },
+    {
+      "key": "EP01_S0421_0008",
+      "value": "Yeah, you’re right..."
+    }
+  ]
+}

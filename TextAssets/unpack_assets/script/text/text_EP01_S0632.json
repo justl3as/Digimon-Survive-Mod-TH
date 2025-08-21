@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0632_0003",
+      "value": "You’ve been pale for a while now, Aoi. How\nare you holding up?"
+    },
+    {
+      "key": "EP01_S0632_0004",
+      "value": "Ah, well... If I’m being honest, it’s taking\nall I’ve got to deal with this place..."
+    },
+    {
+      "key": "EP01_S0632_0005",
+      "value": "You shouldn’t push yourself if you’re scared,\nokay?"
+    },
+    {
+      "key": "EP01_S0632_0006",
+      "value": "Thank you, but...our friends might be facing\nsomething even scarier, you know?"
+    },
+    {
+      "key": "EP01_S0632_0007",
+      "value": "Saki, Ryo... Where are you?"
+    },
+    {
+      "key": "EP01_S0632_0008",
+      "value": "Saki, Ryo..."
+    },
+    {
+      "key": "EP01_S0632_0009",
+      "value": "(Aoi’s doing her best to scour the area.\nI should leave her to it.)"
+    }
+  ]
+}

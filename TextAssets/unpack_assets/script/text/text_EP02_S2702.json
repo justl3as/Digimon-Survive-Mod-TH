@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S2702_0001",
+      "value": "What’s the power situation? It’s getting\na little dark in here..."
+    },
+    {
+      "key": "EP02_S2702_0002",
+      "value": "The power?"
+    },
+    {
+      "key": "EP02_S2702_0003",
+      "value": "There are lights in the ceiling, right?"
+    },
+    {
+      "key": "EP02_S2702_0004",
+      "value": "Those things up there?\nThey look broken to me."
+    },
+    {
+      "key": "EP02_S2702_0005",
+      "value": "I see. Well, you wouldn’t expect there to be\npower in this wreck of a school."
+    },
+    {
+      "key": "EP02_S2702_0006",
+      "value": "If we need light, we’ll have to use the flashlights\nin our cellphones."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1621_0001",
+      "value": "What are you?"
+    },
+    {
+      "key": "EP02_S1621_0002",
+      "value": "Hmph... You must have quite the instinct to\nnotice me."
+    },
+    {
+      "key": "EP02_S1621_0003",
+      "value": "But enough. I’ll hunt those two first..."
+    },
+    {
+      "key": "EP02_S1621_0004",
+      "value": "Am I...safe?"
+    },
+    {
+      "key": "EP02_S1621_0101",
+      "value": "I think they let us go..."
+    },
+    {
+      "key": "EP02_S1621_0102",
+      "value": "That was a really scary one..."
+    },
+    {
+      "key": "EP02_S1621_0103",
+      "value": "Hmph! That was nothing!"
+    },
+    {
+      "key": "EP02_S1621_0104",
+      "value": "More importantly, the professor?"
+    },
+    {
+      "key": "EP02_S1621_0005",
+      "value": "Yeah! Is the professor okay?"
+    },
+    {
+      "key": "EP02_S1621_0105",
+      "value": "He’s injured, but it’s not critical.\nWe need to get him somewhere safe!"
+    }
+  ]
+}

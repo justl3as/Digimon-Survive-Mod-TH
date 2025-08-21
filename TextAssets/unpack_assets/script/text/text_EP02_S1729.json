@@ -1,0 +1,168 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1729_0001",
+      "value": "Is this a river?"
+    },
+    {
+      "key": "EP02_S1729_0002",
+      "value": "The footprints led us here, so they must have\ncome this way..."
+    },
+    {
+      "key": "EP02_S1729_0003",
+      "value": "But there are no footprints on the other side!"
+    },
+    {
+      "key": "EP02_S1729_0004",
+      "value": "They might have used the river to lose the\ntrail. That was clever, but..."
+    },
+    {
+      "key": "EP02_S1729_0005",
+      "value": "Didn’t they just get swept away?"
+    },
+    {
+      "key": "EP02_S1729_0006",
+      "value": "Kewww?!"
+    },
+    {
+      "key": "EP02_S1729_0007",
+      "value": "Oh no! We have to save them!"
+    },
+    {
+      "key": "EP02_S1729_0008",
+      "value": "Yes, let’s hurry!"
+    },
+    {
+      "key": "EP02_S1729_0009",
+      "value": "Hang on! They might’ve gotten away!\nWe should look for another path!"
+    },
+    {
+      "key": "EP02_S1729_0010",
+      "value": "I agree with Minoru."
+    },
+    {
+      "key": "EP02_S1729_0011",
+      "value": "I’m a little worried that we haven’t found\nthe dam yet..."
+    },
+    {
+      "key": "EP02_S1729_0012",
+      "value": "What should we do, Takuma?"
+    },
+    {
+      "key": "EP02_S1729_0013",
+      "value": "(Did they get swept away or find another path?\nDoes this even look plausible to begin with?)"
+    },
+    {
+      "key": "EP02_S1729_Q1",
+      "value": "(How can we follow after them?)"
+    },
+    {
+      "key": "EP02_S1729_Q1_A1",
+      "value": "Maybe they got swept away."
+    },
+    {
+      "key": "EP02_S1729_Q1_A2",
+      "value": "Did we fall for a trick?"
+    },
+    {
+      "key": "EP02_S1729_Q1_A3",
+      "value": "Let’s look for another path."
+    },
+    {
+      "key": "EP02_S1729_0014",
+      "value": "It would be terrible if they were swept away.\nLet’s go check."
+    },
+    {
+      "key": "EP02_S1729_0015",
+      "value": "I know. You’re right."
+    },
+    {
+      "key": "EP02_S1729_0016",
+      "value": "Is this okay? We’re not wasting time?"
+    },
+    {
+      "key": "EP02_S1729_0017",
+      "value": "It won’t be a waste if we find out they\nhaven’t drowned."
+    },
+    {
+      "key": "EP02_S1729_0018",
+      "value": "What if we were tricked by Gomamon?"
+    },
+    {
+      "key": "EP02_S1729_0019",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP02_S1729_0020",
+      "value": "I was wondering about that... If that’s what\nthis is, we need to go back."
+    },
+    {
+      "key": "EP02_S1729_0021",
+      "value": "No way...\nWhat should we believe?"
+    },
+    {
+      "key": "EP02_S1729_0022",
+      "value": "If there was a risk of drowning, they\nwouldn’t try crossing. They went another way."
+    },
+    {
+      "key": "EP02_S1729_0023",
+      "value": "You’re right! They must be okay!"
+    },
+    {
+      "key": "EP02_S1729_0024",
+      "value": "But where is that other way?"
+    },
+    {
+      "key": "EP02_S1729_0025",
+      "value": "Hey, you guys!\nWhat are you doing here?"
+    },
+    {
+      "key": "EP02_S1729_0026",
+      "value": "It’s Gomamon!"
+    },
+    {
+      "key": "EP02_S1729_0027",
+      "value": "We were following the footprints of the kids\nwe told you about. We got to the river..."
+    },
+    {
+      "key": "EP02_S1729_0028",
+      "value": "What? Weren’t you headed for the dam?"
+    },
+    {
+      "key": "EP02_S1729_0029",
+      "value": "That’s right!"
+    },
+    {
+      "key": "EP02_S1729_0030",
+      "value": "We couldn’t find the way there!"
+    },
+    {
+      "key": "EP02_S1729_0031",
+      "value": "That’s right! I completely forgot!\nIt’s really hard to find!"
+    },
+    {
+      "key": "EP02_S1729_0032",
+      "value": "There’s only one way to the dam:\nthe <color=#B41919>canal</color> over here!"
+    },
+    {
+      "key": "EP02_S1729_0033",
+      "value": "Thank goodness!\nThere is a way?"
+    },
+    {
+      "key": "EP02_S1729_0034",
+      "value": "There is indeed, and I’ll show you.\nI owe it to you!"
+    },
+    {
+      "key": "EP02_S1729_0035",
+      "value": "Then let’s go now."
+    },
+    {
+      "key": "EP02_S1729_0036",
+      "value": "Yes, show us the way!"
+    },
+    {
+      "key": "EP02_S1729_0037",
+      "value": "It’s this way! Follow me!"
+    }
+  ]
+}

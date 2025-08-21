@@ -1,0 +1,376 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S1033_0001",
+      "value": "Hey Takuma, the professor’s over there!"
+    },
+    {
+      "key": "EP09_S1033_0002",
+      "value": "Oh, you’re right. Hey, Professor!"
+    },
+    {
+      "key": "EP09_S1033_0003",
+      "value": "Ah! Takuma, Agumon."
+    },
+    {
+      "key": "EP09_S1033_0004",
+      "value": "Apologies, were you searching for me,\nperhaps?"
+    },
+    {
+      "key": "EP09_S1033_0005",
+      "value": "Ah, not exactly. I didn’t see you, so I just\nended up looking..."
+    },
+    {
+      "key": "EP09_S1033_0006",
+      "value": "The murals... Did you get to look into them?"
+    },
+    {
+      "key": "EP09_S1033_0007",
+      "value": "Indeed. I’ve done extensive research on the\nfirst level here, and the second one below."
+    },
+    {
+      "key": "EP09_S1033_0008",
+      "value": "I only just found the third level the other\nday. There’s a mural there, too."
+    },
+    {
+      "key": "EP09_S1033_0009",
+      "value": "Wow! Does that mean you’ve figured something\nout?!"
+    },
+    {
+      "key": "EP09_S1033_0010",
+      "value": "Hmm, I wonder... I don’t know if this will\nhelp the present situation, but..."
+    },
+    {
+      "key": "EP09_S1033_0011",
+      "value": "Would you tell me about your findings?"
+    },
+    {
+      "key": "EP09_S1033_0012",
+      "value": "Now then, where should I start?"
+    },
+    {
+      "key": "EP09_S1033_Q1",
+      "value": "(Which level should I ask about?)"
+    },
+    {
+      "key": "EP09_S1033_Q1_A1",
+      "value": "The first level."
+    },
+    {
+      "key": "EP09_S1033_Q1_A2",
+      "value": "The second level."
+    },
+    {
+      "key": "EP09_S1033_Q1_A3",
+      "value": "The third level."
+    },
+    {
+      "key": "EP09_S1033_0013",
+      "value": "The first level."
+    },
+    {
+      "key": "EP09_S1033_0014",
+      "value": "This depicts humans and a maiden praying to\nthe Kemonogami."
+    },
+    {
+      "key": "EP09_S1033_0015",
+      "value": "Humans and Kemonogami coexisted?!"
+    },
+    {
+      "key": "EP09_S1033_0016",
+      "value": "Apparently, if you believe this mural."
+    },
+    {
+      "key": "EP09_S1033_0017",
+      "value": "The maiden is of particular note here. She is\ndepicted with much more detail than the rest."
+    },
+    {
+      "key": "EP09_S1033_0018",
+      "value": "Traditionally, they serve as intermediaries.\nShe may have been one for the Kemonogami."
+    },
+    {
+      "key": "EP09_S1033_0019",
+      "value": "A maiden acting as intermediary between\nKemonogami and humans..."
+    },
+    {
+      "key": "EP09_S1033_0020",
+      "value": "As for this mural... What do you see here, my\nboy?"
+    },
+    {
+      "key": "EP09_S1033_0021",
+      "value": "Umm... Vicious monsters on a rampage?"
+    },
+    {
+      "key": "EP09_S1033_0022",
+      "value": "Hmm, I’ll give you half credit. Look closer,\nwould you? You can see houses and humans."
+    },
+    {
+      "key": "EP09_S1033_0023",
+      "value": "Ah, you’re right... It’s almost like they’re\nrunning away from the monsters..."
+    },
+    {
+      "key": "EP09_S1033_0024",
+      "value": "Yes, I view it the same way."
+    },
+    {
+      "key": "EP09_S1033_0025",
+      "value": "Perhaps these are monsters that ran rampant\nin our world."
+    },
+    {
+      "key": "EP09_S1033_0026",
+      "value": "I think the monsters that appear in legends\naround our world are based on Kemonogami."
+    },
+    {
+      "key": "EP09_S1033_0027",
+      "value": "Wh-what?! Are you serious?!"
+    },
+    {
+      "key": "EP09_S1033_0028",
+      "value": "Well, that hypothesis relies on this mural as\nsupporting evidence, but it’s plausible."
+    },
+    {
+      "key": "EP09_S1033_0029",
+      "value": "The second level."
+    },
+    {
+      "key": "EP09_S1033_0030",
+      "value": "The two areas are demarcated, with humans and\nmonsters standing on respective sides..."
+    },
+    {
+      "key": "EP09_S1033_0031",
+      "value": "This mural could delineate the two worlds—\nour world, and the one we’re in right now."
+    },
+    {
+      "key": "EP09_S1033_0032",
+      "value": "Oh okay, so the humans and Kemonogami each\nlive in their own world."
+    },
+    {
+      "key": "EP09_S1033_0033",
+      "value": "It’s not just about different worlds. What’s\nthat in the middle, connecting the two?"
+    },
+    {
+      "key": "EP09_S1033_0034",
+      "value": "Connecting the two... Could this be a gate?!"
+    },
+    {
+      "key": "EP09_S1033_0035",
+      "value": "Most likely... Piedmon opened this gate to\nlead an attack on our world, I’d say."
+    },
+    {
+      "key": "EP09_S1033_0036",
+      "value": "A gate... Does that mean there were others\nlike Miyuki who could connect the worlds?"
+    },
+    {
+      "key": "EP09_S1033_0037",
+      "value": "Perhaps, or perhaps it was a common\ntechnique... At any rate, now it is a lost art."
+    },
+    {
+      "key": "EP09_S1033_0038",
+      "value": "Look at this. Don’t you think something\nincredibly important is depicted here?"
+    },
+    {
+      "key": "EP09_S1033_0039",
+      "value": "What?! Humans and monsters are getting...\nsucked into the gate?"
+    },
+    {
+      "key": "EP09_S1033_0040",
+      "value": "Indeed. Some were flung between the worlds,\ndue to some unknown malfunction in the gate.  "
+    },
+    {
+      "key": "EP09_S1033_0041",
+      "value": "Those who disappeared simply crossed over to\nthe adjoining world."
+    },
+    {
+      "key": "EP09_S1033_0042",
+      "value": "You mean, like we did..."
+    },
+    {
+      "key": "EP09_S1033_0043",
+      "value": "Indeed. No doubt some of the disappearances\noccurred when the gate malfunctioned."
+    },
+    {
+      "key": "EP09_S1033_0044",
+      "value": "So then...what causes the gate to open in the\nfirst place?"
+    },
+    {
+      "key": "EP09_S1033_0045",
+      "value": "Who knows? Might be a simple accident, or\nsomeone like Miyuki controlling the gate..."
+    },
+    {
+      "key": "EP09_S1033_0046",
+      "value": "I cannot say at this juncture."
+    },
+    {
+      "key": "EP09_S1033_0047",
+      "value": "I see..."
+    },
+    {
+      "key": "EP09_S1033_0048",
+      "value": "The third level."
+    },
+    {
+      "key": "EP09_S1033_0049",
+      "value": "I’ve barely started my investigation into\nthis level."
+    },
+    {
+      "key": "EP09_S1033_0050",
+      "value": "I don’t know much about the contents of this\nmural, either."
+    },
+    {
+      "key": "EP09_S1033_0051",
+      "value": "Analyzing the top part here... This mural\nseems to depict some kind of disturbance."
+    },
+    {
+      "key": "EP09_S1033_0052",
+      "value": "Yeah... You mean the humans and monsters,\nright? They’re all freaking out."
+    },
+    {
+      "key": "EP09_S1033_0053",
+      "value": "Yes, many of them are upset due to some\nincredible power..."
+    },
+    {
+      "key": "EP09_S1033_0054",
+      "value": "That’s all I can tell from observation alone."
+    },
+    {
+      "key": "EP09_S1033_0055",
+      "value": "Each of the murals seem connected, but the\ntimeline is hard to pin down, and..."
+    },
+    {
+      "key": "EP09_S1033_0056",
+      "value": "Um, Earth to Professor?"
+    },
+    {
+      "key": "EP09_S1033_0057",
+      "value": "Oh, pardon me. Adrift in the ocean of my own\nthoughts again. Come, on to the next mural."
+    },
+    {
+      "key": "EP09_S1033_0058",
+      "value": "Or so I would like to say, but...this mural\nis simply replete with mysteries."
+    },
+    {
+      "key": "EP09_S1033_0059",
+      "value": "Let’s see... Humans are suffering on the\nbottom, and on the top...are Kemonogami?"
+    },
+    {
+      "key": "EP09_S1033_0060",
+      "value": "Hrrm... These Kemonogami share aspects of the\nfour god-like beings in ancient legends..."
+    },
+    {
+      "key": "EP09_S1033_0061",
+      "value": "This composition bothers me. Traditionally,\nheaven would be on top, hell on bottom..."
+    },
+    {
+      "key": "EP09_S1033_0062",
+      "value": "...Goodness, I’m truly at a loss. The most\nI could offer is slipshod conjecture."
+    },
+    {
+      "key": "EP09_S1033_0063",
+      "value": "Want to look at anything else?"
+    },
+    {
+      "key": "EP09_S1033_Q2",
+      "value": "(What should I say?)"
+    },
+    {
+      "key": "EP09_S1033_Q2_A1",
+      "value": "Look."
+    },
+    {
+      "key": "EP09_S1033_Q2_A2",
+      "value": "Don’t look."
+    },
+    {
+      "key": "EP09_S1033_0064",
+      "value": "Well now, I believe that’s as far as I can\nexplain things for now."
+    },
+    {
+      "key": "EP09_S1033_0065",
+      "value": "Thank you very much! I learned a lot."
+    },
+    {
+      "key": "EP09_S1033_0066",
+      "value": "Well, I doubt much of what you learned will\nhelp increase our chances for survival..."
+    },
+    {
+      "key": "EP09_S1033_0067",
+      "value": "(Oh yeah... I wanted to ask the professor how\nthe apartment complex is related to Miyuki.)"
+    },
+    {
+      "key": "EP09_S1033_0068",
+      "value": "Hey Professor, about Miyuki..."
+    },
+    {
+      "key": "EP09_S1033_0069",
+      "value": "Ah!"
+    },
+    {
+      "key": "EP09_S1033_0070",
+      "value": "Would you look at the time! We have to get\nback to the school building."
+    },
+    {
+      "key": "EP09_S1033_0071",
+      "value": "Huh? Hey, Professor..."
+    },
+    {
+      "key": "EP09_S1033_0072",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S1033_0073",
+      "value": "I know you have questions, but the answers\nwould be paltry at best."
+    },
+    {
+      "key": "EP09_S1033_0074",
+      "value": "You should stick to knowledge that will\nassist in achieving our current goal."
+    },
+    {
+      "key": "EP09_S1033_0075",
+      "value": "Wh-what makes you say that?"
+    },
+    {
+      "key": "EP09_S1033_0076",
+      "value": "What was that all about?"
+    },
+    {
+      "key": "EP09_S1033_0077",
+      "value": "Wah!"
+    },
+    {
+      "key": "EP09_S1033_0078",
+      "value": "Oh, it’s just a text."
+    },
+    {
+      "key": "EP09_S1033_0079",
+      "value": "...Wait, what?! A text?! I thought we didn’t\nget any reception here!"
+    },
+    {
+      "key": "EP09_S1033_0080",
+      "value": "Oh...another garbled text."
+    },
+    {
+      "key": "EP09_S1033_0081",
+      "value": "Wait a... I can read a little, now? Only bits\nand pieces, but still..."
+    },
+    {
+      "key": "EP09_S1033_0082",
+      "value": "Hey Takuma? Everyone’s waiting, aren’t they?"
+    },
+    {
+      "key": "EP09_S1033_0083",
+      "value": "Oh, you’re right! We’d better go!"
+    },
+    {
+      "key": "EP09_S1033_0084",
+      "value": "Aye aye!"
+    },
+    {
+      "key": "EP09_S1033_0085",
+      "value": "(The professor’s intriguing words, and now\nthis garbled text...)"
+    },
+    {
+      "key": "EP09_S1033_0086",
+      "value": "(Something big might be going down here...\nBut man, I honestly can’t tell what.)"
+    }
+  ]
+}

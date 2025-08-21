@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1173_0001",
+      "value": "Hmm... I’m not seeing anything out of the\nordinary here."
+    },
+    {
+      "key": "EP04_S1173_0002",
+      "value": "Are you sure? There’s no hidden button like\nthe one that dropped us into that jail cell?"
+    },
+    {
+      "key": "EP04_S1173_0003",
+      "value": "Not that I could find."
+    },
+    {
+      "key": "EP04_S1173_0004",
+      "value": "You see? There’s nothing here!"
+    },
+    {
+      "key": "EP04_S1173_0005",
+      "value": "You’re not going to find Her Majesty by\nlooking around this room! Now leave!"
+    },
+    {
+      "key": "EP04_S1173_0006",
+      "value": "But I’m not done searching!"
+    },
+    {
+      "key": "EP04_S1173_0007",
+      "value": "(And just like that, she kicked us out...)"
+    },
+    {
+      "key": "EP04_S1173_0008",
+      "value": "You won’t find Her Majesty in there! She’s\nhiding!"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S9100_0001",
+      "value": "All right, time for us to go, Jijimon."
+    },
+    {
+      "key": "EP10_S9100_0002",
+      "value": "Yes... Allow me to express my gratitude once\nagain. Thank you for protecting this place."
+    },
+    {
+      "key": "EP10_S9100_0003",
+      "value": "Heheh, don’t mention it!"
+    },
+    {
+      "key": "EP10_S9100_0004",
+      "value": "I’m so happy everyone’s safe..."
+    },
+    {
+      "key": "EP10_S9100_0005",
+      "value": "Yeah... *sniff* It’s so great..."
+    },
+    {
+      "key": "EP10_S9100_0006",
+      "value": "Miu’s had the waterworks going for a while.\nHehe, I can hardly blame her."
+    },
+    {
+      "key": "EP10_S9100_0007",
+      "value": "She was so worried... We should let her cry\nit all out."
+    },
+    {
+      "key": "EP10_S9100_0008",
+      "value": "Hehe, lookit that snot-covered face. Yer\nmessing up them pretty looks, y’know?"
+    },
+    {
+      "key": "EP10_S9100_0009",
+      "value": "Hey, leave her alone, man. Now’s not the time\nfor jokes."
+    },
+    {
+      "key": "EP10_S9100_0010",
+      "value": "Miu deserves a moment, sure, but the rest of\nus can’t take a break."
+    },
+    {
+      "key": "EP10_S9100_0011",
+      "value": "Right. You mean what Baihumon and that boy\nmentioned... The Four Sovereign Monsters?"
+    },
+    {
+      "key": "EP10_S9100_0012",
+      "value": "Yeah... Head for the shrines to the north,\nsouth and east, they said."
+    },
+    {
+      "key": "EP10_S9100_0013",
+      "value": "And you’re not sure where these shrines might\nbe, right, Jijimon?"
+    },
+    {
+      "key": "EP10_S9100_0014",
+      "value": "Yep. Sorry I can’t be more helpful than that."
+    },
+    {
+      "key": "EP10_S9100_0015",
+      "value": "Which way should we go, then?"
+    },
+    {
+      "key": "EP10_S9100_0016",
+      "value": "Hmm, good question."
+    },
+    {
+      "key": "EP10_S9100_0017",
+      "value": "We should head north first, right? Something\nabout the barrier up there?"
+    },
+    {
+      "key": "EP10_S9100_0018",
+      "value": "Moving in the order of the weakening barriers\nmakes sense. But is that really enough?"
+    },
+    {
+      "key": "EP10_S9100_0019",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP10_S9100_0020",
+      "value": "If the Master’s Kenzoku are on the move, then\nthey must know about the barriers too."
+    },
+    {
+      "key": "EP10_S9100_0021",
+      "value": "If so, the enemy should be gathered at the\nweakest barrier. It’s gonna be a tough fight."
+    },
+    {
+      "key": "EP10_S9100_0022",
+      "value": "Wouldn’t it be safer to start from a place\nwith fewer enemies?"
+    },
+    {
+      "key": "EP10_S9100_0023",
+      "value": "Hrmm, catch them unaware, then? A logical\nproposal, I’d say."
+    },
+    {
+      "key": "EP10_S9100_0024",
+      "value": "No, maybe not."
+    },
+    {
+      "key": "EP10_S9100_0025",
+      "value": "Without knowing how the enemies are moving,\ntons of them may be waiting for us anywhere."
+    },
+    {
+      "key": "EP10_S9100_0026",
+      "value": "In that case, we have to find the Four\nSovereign Monsters first."
+    },
+    {
+      "key": "EP10_S9100_0027",
+      "value": "Wouldn’t moving in the order of weakening\nbarriers be the easiest course of action?"
+    },
+    {
+      "key": "EP10_S9100_0028",
+      "value": "She’s right. If we don’t hurry they might get\nthe jump on us!"
+    },
+    {
+      "key": "EP10_S9100_0029",
+      "value": "If we’re in such a rush, why’re we wasting\ntime blabbing around here?"
+    },
+    {
+      "key": "EP10_S9100_0030",
+      "value": "We got a fight waiting for us no matter where\nwe go. Why care about the enemy’s approach?"
+    },
+    {
+      "key": "EP10_S9100_0031",
+      "value": "Dang, Ryo, you’re chomping at the bit for\na fight, aren’t you?"
+    },
+    {
+      "key": "EP10_S9100_0032",
+      "value": "Shaddup, that’s not it."
+    },
+    {
+      "key": "EP10_S9100_0033",
+      "value": "I’m scared of fighting, but if we gotta do it\nthen I just think talk is cheap, that’s all."
+    },
+    {
+      "key": "EP10_S9100_0034",
+      "value": "Ho ho, Ryo speaks truly, but we mustn’t allow\nourselves to panic."
+    },
+    {
+      "key": "EP10_S9100_0035",
+      "value": "We met Baihumon by pure happenstance. There’s\nno telling what may occur. We must take care."
+    },
+    {
+      "key": "EP10_S9100_0036",
+      "value": "So we have to think hard before taking the\nnext step..."
+    },
+    {
+      "key": "EP10_S9100_0037",
+      "value": "(Man, everyone’s changed so much.)"
+    },
+    {
+      "key": "EP10_S9100_0038",
+      "value": "(Shuuji seems as serious as ever, but he’s\nlooking ahead with all our safety in mind.)"
+    },
+    {
+      "key": "EP10_S9100_0039",
+      "value": "(Aoi’s saying exactly what she feels, pulling\neveryone together.)"
+    },
+    {
+      "key": "EP10_S9100_0040",
+      "value": "(Ryo seems pretty proactive here. Still seems\nlike he might leap before he looks, though.)"
+    },
+    {
+      "key": "EP10_S9100_Q1",
+      "value": "(The one who grew the most is...)"
+    },
+    {
+      "key": "EP10_S9100_Q1_A1",
+      "value": "Shuuji."
+    },
+    {
+      "key": "EP10_S9100_Q1_A2",
+      "value": "Aoi."
+    },
+    {
+      "key": "EP10_S9100_Q1_A3",
+      "value": "Ryo."
+    },
+    {
+      "key": "EP10_S9100_0041",
+      "value": "You’ve gotten such a positive outlook these\ndays, Shuuji. I agree with your thinking."
+    },
+    {
+      "key": "EP10_S9100_0042",
+      "value": "Positive? I’m just trying to think of a way\nto keep everyone safe, same as always..."
+    },
+    {
+      "key": "EP10_S9100_0043",
+      "value": "If anything, I’m still as pessimistic as\nI ever was."
+    },
+    {
+      "key": "EP10_S9100_0044",
+      "value": "Nonsense! Thinking of your friends’ safety is\nhardly something to criticize."
+    },
+    {
+      "key": "EP10_S9100_0045",
+      "value": "Yeah! You said a good thing, Shuuji!"
+    },
+    {
+      "key": "EP10_S9100_0046",
+      "value": "Even with your mission, life takes priority.\nYour way of thinking is not to be disavowed."
+    },
+    {
+      "key": "EP10_S9100_0047",
+      "value": "Ah, um, thank you, sir."
+    },
+    {
+      "key": "EP10_S9100_0048",
+      "value": "Ha ha... I can’t remember the last time\nsomeone’s praised me to my face..."
+    },
+    {
+      "key": "EP10_S9100_0049",
+      "value": "You’ve gotten strong, Aoi. You can say how\nyou’re feeling like it’s nothing now."
+    },
+    {
+      "key": "EP10_S9100_0050",
+      "value": "Oh... Did I come off as conceited?"
+    },
+    {
+      "key": "EP10_S9100_0051",
+      "value": "No, no no! Not in the least!"
+    },
+    {
+      "key": "EP10_S9100_0052",
+      "value": "I was just impressed, is all. You’ve really\nbecome a leader for us."
+    },
+    {
+      "key": "EP10_S9100_0053",
+      "value": "You’re so cool, Aoi!"
+    },
+    {
+      "key": "EP10_S9100_0054",
+      "value": "Is that so...? *whew* That’s a relief."
+    },
+    {
+      "key": "EP10_S9100_0055",
+      "value": "You’re right, of course. People change in\nsuch high-stake situations."
+    },
+    {
+      "key": "EP10_S9100_0056",
+      "value": "Sit on the fence for too long, and we’ll die\nhere without accomplishing anything."
+    },
+    {
+      "key": "EP10_S9100_0057",
+      "value": "I hate that idea, so I’ve been pushing myself\nto get stronger⁠—or at least act the part."
+    },
+    {
+      "key": "EP10_S9100_0058",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP10_S9100_0059",
+      "value": "Just don’t push yourself, okay, Aoi?"
+    },
+    {
+      "key": "EP10_S9100_0060",
+      "value": "I won’t, honest. I know I’m not the only one\ndoing their best here."
+    },
+    {
+      "key": "EP10_S9100_0061",
+      "value": "Ho ho ho, a strong child, indeed. Positively\nextraordinary."
+    },
+    {
+      "key": "EP10_S9100_0062",
+      "value": "You’ve grown too, Ryo. You would’ve been\nshaking in your boots before."
+    },
+    {
+      "key": "EP10_S9100_0063",
+      "value": "Say what? Thanks for the backhanded\ncompliment, jerk."
+    },
+    {
+      "key": "EP10_S9100_0064",
+      "value": "I mean, it’s not like you’re wrong. I was\npractically pissing my pants for a while."
+    },
+    {
+      "key": "EP10_S9100_0065",
+      "value": "Ah, sorry. I didn’t mean to make fun of you.\nI’m just happy you’ve gotten so gung ho."
+    },
+    {
+      "key": "EP10_S9100_0066",
+      "value": "Yeah, yeah, I got you. I ain’t mad or\nnothing."
+    },
+    {
+      "key": "EP10_S9100_0067",
+      "value": "Besides, freezing up won’t help anything. We\ngotta move in some kinda direction."
+    },
+    {
+      "key": "EP10_S9100_0068",
+      "value": "Oh, I mean, don’t get me wrong! I ain’t\nsaying I’m freaked out over here!"
+    },
+    {
+      "key": "EP10_S9100_0069",
+      "value": "Yeah, I hear you. You’ve gotten pretty\ndependable, you know."
+    },
+    {
+      "key": "EP10_S9100_0070",
+      "value": "Hey. Don’t go tossing out compliments like\ncandy, creepshow..."
+    },
+    {
+      "key": "EP10_S9100_0071",
+      "value": "Indeed, standing up to the enemy, knowing\nfull well the threat they hold to us..."
+    },
+    {
+      "key": "EP10_S9100_0072",
+      "value": "That is no mean feat, child. You are\na splendid individual."
+    },
+    {
+      "key": "EP10_S9100_0073",
+      "value": "Shaddup, already..."
+    },
+    {
+      "key": "EP10_S9100_0074",
+      "value": "All of you are strong, indeed. I believe you\ncan stand against the Master."
+    },
+    {
+      "key": "EP10_S9100_0075",
+      "value": "The road ahead is fraught with dangers, but\nI do not doubt you will overcome them."
+    },
+    {
+      "key": "EP10_S9100_0076",
+      "value": "Thank you. We’ll make sure we stop the\nMaster, come what may."
+    },
+    {
+      "key": "EP10_S9100_0077",
+      "value": "Yes. And to do that, we should think about\nwhere to go next together."
+    }
+  ]
+}

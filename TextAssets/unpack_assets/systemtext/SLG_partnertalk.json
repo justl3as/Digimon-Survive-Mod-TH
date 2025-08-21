@@ -1,0 +1,3604 @@
+{
+  "SLG_partnertalk": [
+    {
+      "key": "PT01_S901_11_01",
+      "value": "I’ve got to focus on the battle..."
+    },
+    {
+      "key": "PT01_S000_11_01",
+      "value": "We can win at this rate!"
+    },
+    {
+      "key": "PT01_S000_12_01",
+      "value": "Just keep it up a bit longer!"
+    },
+    {
+      "key": "PT01_S903_11_01",
+      "value": "Keep your cool, Aoi. That’s how we win."
+    },
+    {
+      "key": "PT01_S903_11_02",
+      "value": "You, you’re right...\nThank you, I’ve recovered now."
+    },
+    {
+      "key": "PT01_S903_12_01",
+      "value": "Hang in there, Aoi. We’re all gonna make it\nout of this together!"
+    },
+    {
+      "key": "PT01_S903_12_02",
+      "value": "Yes, you’re right. We can make it through\nwith everyone!"
+    },
+    {
+      "key": "PT01_S903_13_01",
+      "value": "Come on, Aoi! We’ll pull through this\ntogether!"
+    },
+    {
+      "key": "PT01_S903_13_02",
+      "value": "Yes, Takuma...\nWe can do it!"
+    },
+    {
+      "key": "PT01_S904_11_01",
+      "value": "It’s okay, Minoru, we can do this!"
+    },
+    {
+      "key": "PT01_S904_11_02",
+      "value": "Yeah, yeah you’re right!"
+    },
+    {
+      "key": "PT01_S904_12_01",
+      "value": "...Let’s go, Minoru.\nThe two of us can do anything."
+    },
+    {
+      "key": "PT01_S904_12_02",
+      "value": "Yeah, you said it...\nThat’s my buddy for you!"
+    },
+    {
+      "key": "PT01_S904_13_01",
+      "value": "I’m counting on you, Minoru!"
+    },
+    {
+      "key": "PT01_S904_13_02",
+      "value": "Don’t worry, Takuma! When I’ve got Falcomon’s\nhelp, you can count on me for anything!"
+    },
+    {
+      "key": "PT01_S906_11_01",
+      "value": "I’m actually pretty scared.\nBut we can win together, I know it!"
+    },
+    {
+      "key": "PT01_S906_11_02",
+      "value": "I-I ain’t scared!\nHmph, of course we’re gonna win!"
+    },
+    {
+      "key": "PT01_S906_12_01",
+      "value": "These enemies are tough...\nDon’t let your guard down, Ryo."
+    },
+    {
+      "key": "PT01_S906_12_02",
+      "value": "That’s my line!\nDon’t mess up and get killed, now!"
+    },
+    {
+      "key": "PT01_S906_13_01",
+      "value": "You’d better keep up, Ryo!"
+    },
+    {
+      "key": "PT01_S906_13_02",
+      "value": "And you’d better not lag behind!"
+    },
+    {
+      "key": "PT01_S905_11_01",
+      "value": "If we fight with a cool head, we can’t lose.\n...Right, Shuuji?"
+    },
+    {
+      "key": "PT01_S905_11_02",
+      "value": "Uh, yeah...\nKeep it together, everyone!"
+    },
+    {
+      "key": "PT01_S905_12_01",
+      "value": "You’re not alone, Shuuji. We’re with you!"
+    },
+    {
+      "key": "PT01_S905_12_02",
+      "value": "I’m happy to hear you say that.\nThank you so much."
+    },
+    {
+      "key": "PT01_S905_13_01",
+      "value": "Shuuji! Let’s go at it with all we’ve got!"
+    },
+    {
+      "key": "PT01_S905_13_02",
+      "value": "You’re right, Takuma...\nThe fight’s decided here!"
+    },
+    {
+      "key": "PT01_S907_11_01",
+      "value": "Eyes ahead, Saki.\nWe haven’t lost yet!"
+    },
+    {
+      "key": "PT01_S907_11_02",
+      "value": "Yeah, we’re just getting started!"
+    },
+    {
+      "key": "PT01_S907_12_01",
+      "value": "Hold on a little longer, Saki!\nWe’ll force our way through!"
+    },
+    {
+      "key": "PT01_S907_12_02",
+      "value": "Okay! Let’s finish this now!"
+    },
+    {
+      "key": "PT01_S907_13_01",
+      "value": "Saki... We’ll win this fight together, right?"
+    },
+    {
+      "key": "PT01_S907_13_02",
+      "value": "Yes, Takuma...\nThe two of us will win for sure!"
+    },
+    {
+      "key": "PT01_S902_11_01",
+      "value": "If you act on your own, don’t get mad\nif I butt in!"
+    },
+    {
+      "key": "PT01_S902_11_02",
+      "value": "Man, what a pain you are..."
+    },
+    {
+      "key": "PT01_S902_12_01",
+      "value": "We won’t let it end like this!\nRight, Kaito?!"
+    },
+    {
+      "key": "PT01_S902_12_02",
+      "value": "Of course, I ain’t gonna screw up here!"
+    },
+    {
+      "key": "PT01_S902_13_01",
+      "value": "Watch my back, Kaito!"
+    },
+    {
+      "key": "PT01_S902_13_02",
+      "value": "You got it, Takuma!\nLeave it to me!"
+    },
+    {
+      "key": "PT01_S908_11_01",
+      "value": "Miu...you all right?\nYou’re not scared, are you?"
+    },
+    {
+      "key": "PT01_S908_11_02",
+      "value": "Uh, yeah... I, I’ll do my best!"
+    },
+    {
+      "key": "PT01_S908_12_01",
+      "value": "Can I leave this area to you, Miu?"
+    },
+    {
+      "key": "PT01_S908_12_02",
+      "value": "Yeah! I’ll show you what we’re made of!"
+    },
+    {
+      "key": "PT01_S908_13_01",
+      "value": "Having you here’s a big help, Miu!"
+    },
+    {
+      "key": "PT01_S908_13_02",
+      "value": "I feel the same... Because of you,\nI can stand here and fight!"
+    },
+    {
+      "key": "PT01_S911_11_01",
+      "value": "Pull yourself together, Professor!"
+    },
+    {
+      "key": "PT01_S911_11_02",
+      "value": "My apologies, Takuma...\nI’m afraid I became a bit daunted there."
+    },
+    {
+      "key": "PT01_S911_12_01",
+      "value": "Let’s do this, Professor!"
+    },
+    {
+      "key": "PT01_S911_12_02",
+      "value": "But of course, Takuma!\nWith our powers combined, we can’t lose!"
+    },
+    {
+      "key": "PT01_S912_11_01",
+      "value": "...You okay, Miyuki? Are you scared?\nYou can trust me... I’m here for you."
+    },
+    {
+      "key": "PT01_S912_11_02",
+      "value": "Thanks, Takuma...\nI feel braver hearing you say that!"
+    },
+    {
+      "key": "PT01_S912_12_01",
+      "value": "We’ll make it through somehow, Miyuki!"
+    },
+    {
+      "key": "PT01_S912_12_02",
+      "value": "Yes, Takuma! We’ll endure this together!"
+    },
+    {
+      "key": "PT01_S004_11_01",
+      "value": "Tell me if it it gets tough out there,\nAgumon."
+    },
+    {
+      "key": "PT01_S004_11_02",
+      "value": "You’re worried about me? Thanks, Takuma!"
+    },
+    {
+      "key": "PT01_S004_12_01",
+      "value": "Here it comes... Get ready to throw down!"
+    },
+    {
+      "key": "PT01_S004_12_02",
+      "value": "Of course! Leave it to me!"
+    },
+    {
+      "key": "PT01_S004_13_01",
+      "value": "Let’s go, Agumon!"
+    },
+    {
+      "key": "PT01_S004_13_02",
+      "value": "Yeah!"
+    },
+    {
+      "key": "PT01_S004_21_01",
+      "value": "You can do it, Takuma!"
+    },
+    {
+      "key": "PT01_S004_21_02",
+      "value": "Yeah... Thanks, Agumon!"
+    },
+    {
+      "key": "PT01_S004_22_01",
+      "value": "How about my claws?!"
+    },
+    {
+      "key": "PT01_S004_22_02",
+      "value": "Okay, give it a shot!"
+    },
+    {
+      "key": "PT01_S004_23_01",
+      "value": "Here I go, Takuma!"
+    },
+    {
+      "key": "PT01_S004_23_02",
+      "value": "Yeah! Go for it!"
+    },
+    {
+      "key": "PT01_S105_11_01",
+      "value": "Be careful and we’ll win this!"
+    },
+    {
+      "key": "PT01_S105_11_02",
+      "value": "Yeah, leave it to me, Takuma!"
+    },
+    {
+      "key": "PT01_S105_12_01",
+      "value": "Give it everything you’ve got, Greymon!"
+    },
+    {
+      "key": "PT01_S105_12_02",
+      "value": "You got it, Takuma!"
+    },
+    {
+      "key": "PT01_S105_21_01",
+      "value": "Let’s break through this, Greymon!"
+    },
+    {
+      "key": "PT01_S105_21_02",
+      "value": "I’ve been waiting to hear you say that!"
+    },
+    {
+      "key": "PT01_S120_11_01",
+      "value": "Right, now let’s push on through!"
+    },
+    {
+      "key": "PT01_S120_11_02",
+      "value": "Yeah! Let me handle this!"
+    },
+    {
+      "key": "PT01_S120_12_01",
+      "value": "We’ll finish things here, Tyrannomon!"
+    },
+    {
+      "key": "PT01_S120_12_02",
+      "value": "All right! Let’s tear it up!"
+    },
+    {
+      "key": "PT01_S120_21_01",
+      "value": "You all right, Tyrannomon?\nStill up for this?"
+    },
+    {
+      "key": "PT01_S120_21_02",
+      "value": "Of course, Takuma!\nI haven’t even broken a sweat!"
+    },
+    {
+      "key": "PT01_S121_11_01",
+      "value": "We’ll scrape through this!"
+    },
+    {
+      "key": "PT01_S121_11_02",
+      "value": "Yeah, lemme show you what I can do!"
+    },
+    {
+      "key": "PT01_S121_12_01",
+      "value": "Break on through, Tuskmon!"
+    },
+    {
+      "key": "PT01_S121_12_02",
+      "value": "Yeah! Get a load of this!"
+    },
+    {
+      "key": "PT01_S121_21_01",
+      "value": "We’ve almost won this, Tuskmon!"
+    },
+    {
+      "key": "PT01_S121_21_02",
+      "value": "I got it, Takuma!\nTime to take out the trash!"
+    },
+    {
+      "key": "PT01_S203_11_01",
+      "value": "Let’s do this, MetalGreymon!"
+    },
+    {
+      "key": "PT01_S203_11_02",
+      "value": "Okay, I’ll give it all I got!"
+    },
+    {
+      "key": "PT01_S203_12_01",
+      "value": "I see the light at the end of the tunnel!"
+    },
+    {
+      "key": "PT01_S203_12_02",
+      "value": "Yeah, I see it, too!"
+    },
+    {
+      "key": "PT01_S203_21_01",
+      "value": "Give it all you got, MetalGreymon!"
+    },
+    {
+      "key": "PT01_S203_21_02",
+      "value": "I’m feeling you, Takuma!"
+    },
+    {
+      "key": "PT01_S220_11_01",
+      "value": "We can win this, Triceramon!"
+    },
+    {
+      "key": "PT01_S220_11_02",
+      "value": "Yeah! Victory’s all I can see!"
+    },
+    {
+      "key": "PT01_S220_12_01",
+      "value": "Okay, Triceramon, let’s take some time to\ncompose ourselves here!"
+    },
+    {
+      "key": "PT01_S220_12_02",
+      "value": "Of course, Takuma! We won’t win the fight\nwith guts alone!"
+    },
+    {
+      "key": "PT01_S220_21_01",
+      "value": "With our bond... We won’t lose to any foe!"
+    },
+    {
+      "key": "PT01_S220_21_02",
+      "value": "Our bond...\nYeah, you’re right, Takuma!"
+    },
+    {
+      "key": "PT01_S211_11_01",
+      "value": "Smash it all to bits, Megadramon!"
+    },
+    {
+      "key": "PT01_S211_11_02",
+      "value": "Smash! My favorite word!"
+    },
+    {
+      "key": "PT01_S211_12_01",
+      "value": "Beat ’em to a pulp... Got it, Megadramon?"
+    },
+    {
+      "key": "PT01_S211_12_02",
+      "value": "That’s the best order for me...\nConsider it done!"
+    },
+    {
+      "key": "PT01_S211_21_01",
+      "value": "As long as we’ve got your power, we can’t\nlose... Right, Megadramon?"
+    },
+    {
+      "key": "PT01_S211_21_02",
+      "value": "Yeah, you can count on me, Takuma!"
+    },
+    {
+      "key": "PT01_S210_11_01",
+      "value": "SkullGreymon... Can I leave it to you?"
+    },
+    {
+      "key": "PT01_S210_11_02",
+      "value": "Yeah..."
+    },
+    {
+      "key": "PT01_S210_12_01",
+      "value": "SkullGreymon... I’m expecting great things\nfrom that killer instinct of yours!"
+    },
+    {
+      "key": "PT01_S210_12_02",
+      "value": "Sure..."
+    },
+    {
+      "key": "PT01_S210_21_01",
+      "value": "We’ll make it through together...\nRight, SkullGreymon?"
+    },
+    {
+      "key": "PT01_S210_21_02",
+      "value": "Uh huh..."
+    },
+    {
+      "key": "PT01_S303_11_01",
+      "value": "So this is the ultimate power of valor...\nLet’s do this, WarGreymon!"
+    },
+    {
+      "key": "PT01_S303_11_02",
+      "value": "Yes, Takuma. Leave this fight to me!"
+    },
+    {
+      "key": "PT01_S303_12_01",
+      "value": "Protect everyone, WarGreymon!"
+    },
+    {
+      "key": "PT01_S303_12_02",
+      "value": "Okay, Takuma. I’ll defeat our foes, and guard\nour friends!"
+    },
+    {
+      "key": "PT01_S303_21_01",
+      "value": "Let me show you what I can do, Takuma!"
+    },
+    {
+      "key": "PT01_S303_21_02",
+      "value": "Looking forward to it, WarGreymon!"
+    },
+    {
+      "key": "PT01_S303_22_01",
+      "value": "I can feel it, Takuma...\nThose burning feelings of yours..."
+    },
+    {
+      "key": "PT01_S303_22_02",
+      "value": "I can sense your courage, too, WarGreymon!"
+    },
+    {
+      "key": "PT01_S319_11_01",
+      "value": "Do your best, Dinorexmon!"
+    },
+    {
+      "key": "PT01_S319_11_02",
+      "value": "Of course, Takuma!\nI’ll deal with this somehow!"
+    },
+    {
+      "key": "PT01_S319_12_01",
+      "value": "Tear the enemy to bits, Dinorexmon!\nShow no mercy!"
+    },
+    {
+      "key": "PT01_S319_12_02",
+      "value": "Just watch, Takuma! I’ll do it in one go!"
+    },
+    {
+      "key": "PT01_S319_21_01",
+      "value": "I don’t gotta hold back, right, Takuma?"
+    },
+    {
+      "key": "PT01_S319_21_02",
+      "value": "Nope, go nuts out there!"
+    },
+    {
+      "key": "PT01_S319_22_01",
+      "value": "I’ll strike at the enemy core, Takuma!"
+    },
+    {
+      "key": "PT01_S319_22_02",
+      "value": "Go for it, Dinorexmon!"
+    },
+    {
+      "key": "PT01_S320_11_01",
+      "value": "Crush the enemy, Machinedramon!"
+    },
+    {
+      "key": "PT01_S320_11_02",
+      "value": "Yeah, I’ll flatten them like a pancake!"
+    },
+    {
+      "key": "PT01_S320_12_01",
+      "value": "Machinedramon... There’s no way you can lose.\nI believe in you!"
+    },
+    {
+      "key": "PT01_S320_12_02",
+      "value": "Guess I gotta live up to those expectations!\nNo holding back, then!"
+    },
+    {
+      "key": "PT01_S320_21_01",
+      "value": "I’ll murderalize every last one of them,\nTakuma!"
+    },
+    {
+      "key": "PT01_S320_21_02",
+      "value": "Got it, Machinedramon. Do your thing!"
+    },
+    {
+      "key": "PT01_S320_22_01",
+      "value": "Hey! Get fired up, Takuma!"
+    },
+    {
+      "key": "PT01_S320_22_02",
+      "value": "You got it, Machinedramon!\nBeat them back with all you’ve got!"
+    },
+    {
+      "key": "PT01_S402_11_01",
+      "value": "Let’s do our best out there, Omegamon!"
+    },
+    {
+      "key": "PT01_S402_11_02",
+      "value": "Yes, a great deal of souls have bestowed\ntheir power unto me. Here I go, Takuma!"
+    },
+    {
+      "key": "PT01_S402_12_01",
+      "value": "Omegamon... Let’s go!"
+    },
+    {
+      "key": "PT01_S402_12_02",
+      "value": "Yes... Let’s finish the fight, Takuma!"
+    },
+    {
+      "key": "PT01_S402_21_01",
+      "value": "Takuma! Let’s weather this storm together!\nThen we’ll grasp our victory!"
+    },
+    {
+      "key": "PT01_S402_21_02",
+      "value": "What amazing spirit, Omegamon...\nOkay, let’s do this!"
+    },
+    {
+      "key": "PT01_S402_22_01",
+      "value": "For you, Takuma, I’ll fight with all my\nstrength!"
+    },
+    {
+      "key": "PT01_S402_22_02",
+      "value": "Omegamon... Let’s make our hopes come true,\ntogether!"
+    },
+    {
+      "key": "PT03_S903_11_01",
+      "value": "No time for discussion..."
+    },
+    {
+      "key": "PT03_S903_12_01",
+      "value": "Careful not to get hurt!"
+    },
+    {
+      "key": "PT03_S000_11_01",
+      "value": "Just a little more, hang in there!"
+    },
+    {
+      "key": "PT03_S000_12_01",
+      "value": "Don’t fall here! I know you can win!"
+    },
+    {
+      "key": "PT03_S901_11_01",
+      "value": "Remember that you have us too, Takuma. Don’t\npush yourself too much."
+    },
+    {
+      "key": "PT03_S901_11_02",
+      "value": "Thanks, let’s get through this together!"
+    },
+    {
+      "key": "PT03_S901_12_01",
+      "value": "We can’t let it end here. Let’s combine\nforces and move forward!"
+    },
+    {
+      "key": "PT03_S901_12_02",
+      "value": "Yeah, you’re right. We’ll win for sure!"
+    },
+    {
+      "key": "PT03_S901_13_01",
+      "value": "Let’s do our best, Takuma!"
+    },
+    {
+      "key": "PT03_S901_13_02",
+      "value": "Yeah, you got it!"
+    },
+    {
+      "key": "PT03_S901_21_01",
+      "value": "We have to cut off the source of disorder...\nNo mercy for the self-obsessed!"
+    },
+    {
+      "key": "PT03_S901_21_02",
+      "value": "Uh... Yeah, sure, Aoi..."
+    },
+    {
+      "key": "PT03_S904_11_01",
+      "value": "Cheer up, Minoru. A sad face isn’t like you."
+    },
+    {
+      "key": "PT03_S904_11_02",
+      "value": "Yeah... Yeah, you’re right, Aoi!"
+    },
+    {
+      "key": "PT03_S904_12_01",
+      "value": "Careful, Minoru. Proceed with caution!"
+    },
+    {
+      "key": "PT03_S904_12_02",
+      "value": "I got it, already!"
+    },
+    {
+      "key": "PT03_S904_13_01",
+      "value": "Are you okay, Minoru? You seem tired."
+    },
+    {
+      "key": "PT03_S904_13_02",
+      "value": "Thanks for thinking of me, but I’m good!\nNo worries!"
+    },
+    {
+      "key": "PT03_S904_21_01",
+      "value": "Minoru... I’m going to exterminate the enemy.\nPlease help me..."
+    },
+    {
+      "key": "PT03_S904_21_02",
+      "value": "Yeah... Whatever you say."
+    },
+    {
+      "key": "PT03_S906_11_01",
+      "value": "Are you shaking, Ryo?\nTake a deep breath and calm down."
+    },
+    {
+      "key": "PT03_S906_11_02",
+      "value": "Shut up! Leave me alone!\n*huff*... *huff*..."
+    },
+    {
+      "key": "PT03_S906_12_01",
+      "value": "There’s just a bit more to endure, so hang in\nthere!"
+    },
+    {
+      "key": "PT03_S906_12_02",
+      "value": "Yeah, we’re almost there, ain’t we?"
+    },
+    {
+      "key": "PT03_S905_11_01",
+      "value": "Do your best, Shuuji!"
+    },
+    {
+      "key": "PT03_S905_11_02",
+      "value": "Thanks for the reassurance.\nI can feel the power welling up inside of me."
+    },
+    {
+      "key": "PT03_S905_12_01",
+      "value": "We still have hope, Shuuji... Don’t give up!"
+    },
+    {
+      "key": "PT03_S905_12_02",
+      "value": "Yes, this is no place to lose heart!"
+    },
+    {
+      "key": "PT03_S907_11_01",
+      "value": "Stand back, Saki. I’ll handle things next."
+    },
+    {
+      "key": "PT03_S907_11_02",
+      "value": "Appreciate the thought, but I’m not done yet!"
+    },
+    {
+      "key": "PT03_S907_12_01",
+      "value": "We’ll pull through this together, Saki!"
+    },
+    {
+      "key": "PT03_S907_12_02",
+      "value": "You know it!\nWe can do it, Aoi, you and me!"
+    },
+    {
+      "key": "PT03_S902_11_01",
+      "value": "Don’t push yourself so hard.\nYou can rely on us, you know."
+    },
+    {
+      "key": "PT03_S902_11_02",
+      "value": "Hmph... Nobody asked your opinion."
+    },
+    {
+      "key": "PT03_S902_12_01",
+      "value": "Be careful, Kaito... The enemy is strong."
+    },
+    {
+      "key": "PT03_S902_12_02",
+      "value": "I got it, already...\nI’ll make sure not to mess up here!"
+    },
+    {
+      "key": "PT03_S908_11_01",
+      "value": "Are you all right, Miu?\nAre you scared?"
+    },
+    {
+      "key": "PT03_S908_11_02",
+      "value": "I mean, I am, but...\nI’ll deal with it somehow!"
+    },
+    {
+      "key": "PT03_S908_12_01",
+      "value": "Let’s do our best out there, Miu!"
+    },
+    {
+      "key": "PT03_S908_12_02",
+      "value": "You bet, Aoi!"
+    },
+    {
+      "key": "PT03_S911_11_01",
+      "value": "Let’s stay focused, Professor!"
+    },
+    {
+      "key": "PT03_S911_11_02",
+      "value": "Indeed, Aoi. Be on your guard!"
+    },
+    {
+      "key": "PT03_S911_12_01",
+      "value": "Professor! Are you okay?"
+    },
+    {
+      "key": "PT03_S911_12_02",
+      "value": "Ah, yes...\nSorry for worrying you."
+    },
+    {
+      "key": "PT03_S912_11_01",
+      "value": "You okay, Miyuki? Can you still fight?!"
+    },
+    {
+      "key": "PT03_S912_11_02",
+      "value": "Don’t worry, I’m fine."
+    },
+    {
+      "key": "PT03_S912_12_01",
+      "value": "Hold it together, Miyuki!\nThe fight isn’t over yet!"
+    },
+    {
+      "key": "PT03_S912_12_02",
+      "value": "Thank you, Aoi.\nYou’re right, this battle’s just begun."
+    },
+    {
+      "key": "PT03_S002_11_01",
+      "value": "Don’t push yourself too hard, Labramon!"
+    },
+    {
+      "key": "PT03_S002_11_02",
+      "value": "No worries! Just watch from there, Aoi!"
+    },
+    {
+      "key": "PT03_S002_12_01",
+      "value": "Are you okay, Labramon? Can you still fight?"
+    },
+    {
+      "key": "PT03_S002_12_02",
+      "value": "Of course, Aoi! No problem!"
+    },
+    {
+      "key": "PT03_S002_13_01",
+      "value": "Let’s fight with everyone, Labramon!"
+    },
+    {
+      "key": "PT03_S002_13_02",
+      "value": "Yeah, I’ll give it a shot, Aoi!"
+    },
+    {
+      "key": "PT03_S002_21_01",
+      "value": "Keep your eye on the enemy!\nIt’s time to take them down!"
+    },
+    {
+      "key": "PT03_S002_21_02",
+      "value": "Yes, understood!"
+    },
+    {
+      "key": "PT03_S002_22_01",
+      "value": "Let’s protect everyone, Aoi!"
+    },
+    {
+      "key": "PT03_S002_22_02",
+      "value": "Yes, Labramon!"
+    },
+    {
+      "key": "PT03_S002_23_01",
+      "value": "I can get through anything with you, Aoi!"
+    },
+    {
+      "key": "PT03_S002_23_02",
+      "value": "I feel the same, Labramon!"
+    },
+    {
+      "key": "PT03_S002_31_01",
+      "value": "You okay, Aoi? You seem to be flustered..."
+    },
+    {
+      "key": "PT03_S002_31_02",
+      "value": "No, that’s not it...\nDon’t worry, Labramon."
+    },
+    {
+      "key": "PT03_S132_11_01",
+      "value": "I believe in you, so please win!"
+    },
+    {
+      "key": "PT03_S132_11_02",
+      "value": "Don’t worry. See my strength for yourself."
+    },
+    {
+      "key": "PT03_S132_12_01",
+      "value": "Use your power to save everyone, Dobermon!"
+    },
+    {
+      "key": "PT03_S132_12_02",
+      "value": "Understood, Aoi. I heard you loud and clear!"
+    },
+    {
+      "key": "PT03_S132_21_01",
+      "value": "Don’t overdo it, okay, Dobermon?"
+    },
+    {
+      "key": "PT03_S132_21_02",
+      "value": "Thank you, Aoi.\nI’ll be sure to fight with caution!"
+    },
+    {
+      "key": "PT03_S221_11_01",
+      "value": "Fight with care, Cerberusmon!"
+    },
+    {
+      "key": "PT03_S221_11_02",
+      "value": "Yes, I’m always careful...\nDon’t worry, Aoi."
+    },
+    {
+      "key": "PT03_S221_12_01",
+      "value": "Cerberusmon, work together with everyone to\nget through this!"
+    },
+    {
+      "key": "PT03_S221_12_02",
+      "value": "You’re right, Aoi.\nTeamwork is indispensable here!"
+    },
+    {
+      "key": "PT03_S221_21_01",
+      "value": "Let’s bring peace back to this world,\nCerberusmon!"
+    },
+    {
+      "key": "PT03_S221_21_02",
+      "value": "Understood, Aoi. I’ll muster all my strength!"
+    },
+    {
+      "key": "PT03_S327_11_01",
+      "value": "Anubismon... Use your ultimate strength to\nrestore the peace!"
+    },
+    {
+      "key": "PT03_S327_11_02",
+      "value": "Acknowledged..."
+    },
+    {
+      "key": "PT03_S327_12_01",
+      "value": "Let’s do it together, Anubismon!"
+    },
+    {
+      "key": "PT03_S327_12_02",
+      "value": "Yes, Aoi...\nHaving you here gives me strength!"
+    },
+    {
+      "key": "PT03_S327_21_01",
+      "value": "Keep your eye on the enemy, Aoi!\nDon’t allow yourself to get restless!"
+    },
+    {
+      "key": "PT03_S327_21_02",
+      "value": "Yes, impatience is the ultimate enemy...\nUnderstood, Anubismon!"
+    },
+    {
+      "key": "PT03_S327_22_01",
+      "value": "Aoi... Your wholehearted feelings are\nflooding into me..."
+    },
+    {
+      "key": "PT03_S327_22_02",
+      "value": "Please, Anubismon...protect everyone!"
+    },
+    {
+      "key": "PT03_S321_11_01",
+      "value": "Plutomon... I can...trust you, can’t I?"
+    },
+    {
+      "key": "PT03_S321_11_02",
+      "value": "Of course, Aoi...\nI am your ally."
+    },
+    {
+      "key": "PT03_S321_12_01",
+      "value": "Be careful, Plutomon!\nDon’t look down on the enemy!"
+    },
+    {
+      "key": "PT03_S321_12_02",
+      "value": "Yes, I know, Aoi...\nThis enemy is strong!"
+    },
+    {
+      "key": "PT03_S321_21_01",
+      "value": "Believe in me, Aoi!"
+    },
+    {
+      "key": "PT03_S321_21_02",
+      "value": "Yes, Plutomon!\nI’m counting on you!"
+    },
+    {
+      "key": "PT03_S321_22_01",
+      "value": "Aoi, your desire is needed to guide this\nworld back to peace..."
+    },
+    {
+      "key": "PT03_S321_22_02",
+      "value": "Understood, Plutomon...\nI need a strong desire!"
+    },
+    {
+      "key": "PT04_S904_11_01",
+      "value": "This is no time to talk..."
+    },
+    {
+      "key": "PT04_S000_11_01",
+      "value": "Thanks, I’ll keep it up a bit longer!"
+    },
+    {
+      "key": "PT04_S000_12_01",
+      "value": "You can do it! Goooooo!"
+    },
+    {
+      "key": "PT04_S901_11_01",
+      "value": "It’s tough, but let’s do our best!"
+    },
+    {
+      "key": "PT04_S901_11_02",
+      "value": "Yeah, let’s break on through!"
+    },
+    {
+      "key": "PT04_S901_12_01",
+      "value": "Don’t forget about me, man!"
+    },
+    {
+      "key": "PT04_S901_12_02",
+      "value": "I’m counting on you, Minoru!"
+    },
+    {
+      "key": "PT04_S901_13_01",
+      "value": "Yeah, c’mon, Takuma! Let’s hit it!"
+    },
+    {
+      "key": "PT04_S901_13_02",
+      "value": "Yeah!"
+    },
+    {
+      "key": "PT04_S903_11_01",
+      "value": "If we make it through here, there’s some\ntasty chow waiting for us! Let’s go!"
+    },
+    {
+      "key": "PT04_S903_11_02",
+      "value": "Okay, I’ll do my be— Wait, I’m the one who’ll\nhave to cook that!"
+    },
+    {
+      "key": "PT04_S903_12_01",
+      "value": "Time for us to work it! Brace yourself!"
+    },
+    {
+      "key": "PT04_S903_12_02",
+      "value": "Yes, you’re right!"
+    },
+    {
+      "key": "PT04_S903_13_01",
+      "value": "Let’s find the silver lining here!"
+    },
+    {
+      "key": "PT04_S903_13_02",
+      "value": "Good stuff, Minoru!"
+    },
+    {
+      "key": "PT04_S906_11_01",
+      "value": "This is real bad! Guess we’d better use that\nsuper combo move we created..."
+    },
+    {
+      "key": "PT04_S906_11_02",
+      "value": "Like hell we got one-a those!\nShoot, I’ll handle this somehow!"
+    },
+    {
+      "key": "PT04_S906_12_01",
+      "value": "Let’s settle things like a couple of heroes\nshould!"
+    },
+    {
+      "key": "PT04_S906_12_02",
+      "value": "Now you’re talking, Minoru!\nWe’ll tear a path through them!"
+    },
+    {
+      "key": "PT04_S905_11_01",
+      "value": "Heh heh, check this, Shuuji! Time for this\nsecret weapon to make an appearance!"
+    },
+    {
+      "key": "PT04_S905_11_02",
+      "value": "It’s not like this is the first time I’ve relied\non you... Still, thank you. Here we go."
+    },
+    {
+      "key": "PT04_S905_12_01",
+      "value": "Take ’em down quick, like a leader should!"
+    },
+    {
+      "key": "PT04_S905_12_02",
+      "value": "I’m...not exactly sure what you mean, but\nI’ll give it a shot!"
+    },
+    {
+      "key": "PT04_S907_11_01",
+      "value": "Time for my gallant entrance!"
+    },
+    {
+      "key": "PT04_S907_11_02",
+      "value": "Uh, thanks! (Why’s that annoy me somehow?)"
+    },
+    {
+      "key": "PT04_S907_12_01",
+      "value": "Ready to rely on me as hard as you can out\nthere, Saki?"
+    },
+    {
+      "key": "PT04_S907_12_02",
+      "value": "Yeah, yeah, sure, sure.\nI’m counting on you, Minoru."
+    },
+    {
+      "key": "PT04_S902_11_01",
+      "value": "Longing for my helping hand, are you?"
+    },
+    {
+      "key": "PT04_S902_11_02",
+      "value": "Keep yer hands to yourself! Watch this!"
+    },
+    {
+      "key": "PT04_S902_12_01",
+      "value": "You can leave things to this hero of justice\nsometimes, y’know, Kaito?"
+    },
+    {
+      "key": "PT04_S902_12_02",
+      "value": "Justice, shmustice! I’ll handle things my way!"
+    },
+    {
+      "key": "PT04_S908_11_01",
+      "value": "You okay, Miu?\nI’m a bit worried about you..."
+    },
+    {
+      "key": "PT04_S908_11_02",
+      "value": "Aw, jeez... You of all people worrying about\nme. Still, thanks, I guess!"
+    },
+    {
+      "key": "PT04_S908_12_01",
+      "value": "Say, Miu, wanna be my sidekick?\nYou’d be the heroine of justice."
+    },
+    {
+      "key": "PT04_S908_12_02",
+      "value": "Hmm, I don’t think I’m cut out for all\nthat... Aw, what the heck! I’m in, Minoru!"
+    },
+    {
+      "key": "PT04_S911_11_01",
+      "value": "Hey, Prof? You scared or something?"
+    },
+    {
+      "key": "PT04_S911_11_02",
+      "value": "Indeed, I do feel some fear...\nBut rest assured, I shall conquer it!"
+    },
+    {
+      "key": "PT04_S911_12_01",
+      "value": "I’m counting on you, Professor!"
+    },
+    {
+      "key": "PT04_S911_12_02",
+      "value": "Yes, watch closely, Minoru... This is how an\nadult takes responsibility!"
+    },
+    {
+      "key": "PT04_S912_11_01",
+      "value": "You can count on me, Miyuki!"
+    },
+    {
+      "key": "PT04_S912_11_02",
+      "value": "Got it, Minoru!"
+    },
+    {
+      "key": "PT04_S912_12_01",
+      "value": "Leave it to us heroes, won’t ya, Miyuki?"
+    },
+    {
+      "key": "PT04_S912_12_02",
+      "value": "Minoru? A hero? Hee hee...\nSure, I understand!"
+    },
+    {
+      "key": "PT04_S001_11_01",
+      "value": "Do your best, Falcomon!"
+    },
+    {
+      "key": "PT04_S001_11_02",
+      "value": " I shan’t let them lay a finger on you, Minoru!"
+    },
+    {
+      "key": "PT04_S001_12_01",
+      "value": "I leave it to you, Falcomon!"
+    },
+    {
+      "key": "PT04_S001_12_02",
+      "value": "Understood! I’ll give it everything I’ve got,\nMinoru!"
+    },
+    {
+      "key": "PT04_S001_13_01",
+      "value": "You’re up, Falcomon."
+    },
+    {
+      "key": "PT04_S001_13_02",
+      "value": "Your power becomes my own, Minoru.\n...So behold, this your own power!"
+    },
+    {
+      "key": "PT04_S001_21_01",
+      "value": "I’m with you, Minoru!"
+    },
+    {
+      "key": "PT04_S001_21_02",
+      "value": "Thanks a bunch, buddy.\nDon’t worry, I can keep going!"
+    },
+    {
+      "key": "PT04_S001_22_01",
+      "value": "Do not debase yourself, Minoru. You are not\nusually so craven."
+    },
+    {
+      "key": "PT04_S001_22_02",
+      "value": "Well, then...here I gooo!"
+    },
+    {
+      "key": "PT04_S001_23_01",
+      "value": "Now then, here I go!"
+    },
+    {
+      "key": "PT04_S001_23_02",
+      "value": "You and I can do it together, Falcomon!"
+    },
+    {
+      "key": "PT04_S110_11_01",
+      "value": "I know you can break on through!"
+    },
+    {
+      "key": "PT04_S110_11_02",
+      "value": "Indeed, leave it to me!"
+    },
+    {
+      "key": "PT04_S110_12_01",
+      "value": "Show them what you’re made of, Diatrymon!"
+    },
+    {
+      "key": "PT04_S110_12_02",
+      "value": "You said it, Minoru!"
+    },
+    {
+      "key": "PT04_S110_21_01",
+      "value": "Diatrymon! Here, take my hero power!"
+    },
+    {
+      "key": "PT04_S110_21_02",
+      "value": "Yes, I definitely feel it!"
+    },
+    {
+      "key": "PT04_S208_11_01",
+      "value": "Crowmon!\nShow them the power of justice!"
+    },
+    {
+      "key": "PT04_S208_11_02",
+      "value": "Okay, Minoru!"
+    },
+    {
+      "key": "PT04_S208_12_01",
+      "value": "We’ll handle this together, Crowmon!"
+    },
+    {
+      "key": "PT04_S208_12_02",
+      "value": "Indeed. I have need of your power, Minoru!"
+    },
+    {
+      "key": "PT04_S208_21_01",
+      "value": "About time to finish this, Crowmon!"
+    },
+    {
+      "key": "PT04_S208_21_02",
+      "value": "Yes, I second that notion, Minoru!"
+    },
+    {
+      "key": "PT04_S305_11_01",
+      "value": "We’re the ultimate heroes, Varodurumon!"
+    },
+    {
+      "key": "PT04_S305_11_02",
+      "value": "Heh heh...\nThat’s certainly your style, Minoru!"
+    },
+    {
+      "key": "PT04_S305_12_01",
+      "value": "Varodurumon! We’ve come this far, so let’s\ntake it all the way!"
+    },
+    {
+      "key": "PT04_S305_12_02",
+      "value": "Yes, Minoru! I’ll go anywhere with you!"
+    },
+    {
+      "key": "PT04_S305_21_01",
+      "value": "Give me some of your courage, Minoru!"
+    },
+    {
+      "key": "PT04_S305_21_02",
+      "value": "You got it, Varodurumon!\nTake as much as you need!"
+    },
+    {
+      "key": "PT04_S305_22_01",
+      "value": "You’re a true hero, Minoru!"
+    },
+    {
+      "key": "PT04_S305_22_02",
+      "value": "Varodurumon...\nYou’re the real MVP!"
+    },
+    {
+      "key": "PT06_S906_11_01",
+      "value": "I gotta do it, or we’re done for..."
+    },
+    {
+      "key": "PT06_S906_12_01",
+      "value": "You don’t care what happens to me.\nEveryone hates me, anyway..."
+    },
+    {
+      "key": "PT06_S000_11_01",
+      "value": "I’m with you, so don’t worry!"
+    },
+    {
+      "key": "PT06_S000_12_01",
+      "value": "I’ll leave it to you... Keep it up!"
+    },
+    {
+      "key": "PT06_S901_11_01",
+      "value": "How long do you plan on fighting?\nLet’s finish this already!"
+    },
+    {
+      "key": "PT06_S901_11_02",
+      "value": "Yeah, I’ll give it a shot."
+    },
+    {
+      "key": "PT06_S901_12_01",
+      "value": "Jeez, guess I’ve gotta cheer you on, so you’d\nbetter bring it, y’hear me?!"
+    },
+    {
+      "key": "PT06_S901_12_02",
+      "value": "Thanks, Ryo. Happy for the support!"
+    },
+    {
+      "key": "PT06_S901_13_01",
+      "value": "I’ve got your back, Takuma.\nDon’t worry, just fight!"
+    },
+    {
+      "key": "PT06_S901_13_02",
+      "value": "Thanks, Ryo! I’m counting on you!"
+    },
+    {
+      "key": "PT06_S903_11_01",
+      "value": "Hey, don’t act so crazy out there.\nStand back for a sec, will ya?"
+    },
+    {
+      "key": "PT06_S903_11_02",
+      "value": "Are you worried about me?\nThank you, I’ll do my best."
+    },
+    {
+      "key": "PT06_S903_12_01",
+      "value": "Stay alert out here, got it, Aoi?"
+    },
+    {
+      "key": "PT06_S903_12_02",
+      "value": "Right. Gotcha, Ryo."
+    },
+    {
+      "key": "PT06_S904_11_01",
+      "value": "Dammit, stop dragging yer feet already!\nJeez, fine I’ll help!"
+    },
+    {
+      "key": "PT06_S904_11_02",
+      "value": "Sorry man... Appreciate the assist."
+    },
+    {
+      "key": "PT06_S904_12_01",
+      "value": "Minoru! Ain’t you gonna become a hero or\nsomething?!"
+    },
+    {
+      "key": "PT06_S904_12_02",
+      "value": "That’s right! Just watch, here I go!"
+    },
+    {
+      "key": "PT06_S905_11_01",
+      "value": "If you get weak-kneed I’m gonna start\nfreakin’ out, too. Come on, man!"
+    },
+    {
+      "key": "PT06_S905_11_02",
+      "value": "Thanks, you snapped me out of it.\nSorry for making you worry."
+    },
+    {
+      "key": "PT06_S905_12_01",
+      "value": "Pull yourself together, Shuuji! You’re the\nleader, ain’t ya?!"
+    },
+    {
+      "key": "PT06_S905_12_02",
+      "value": "You’re right, Ryo. I’ve got to keep it\ntogether!"
+    },
+    {
+      "key": "PT06_S907_11_01",
+      "value": "Hey, step back already!\nDefense makes the best offense, y’know?"
+    },
+    {
+      "key": "PT06_S907_11_02",
+      "value": "You’ve got it backwards! Still, I appreciate\nyou breaking the tension."
+    },
+    {
+      "key": "PT06_S907_12_01",
+      "value": "We’ll pull through this together, Saki!"
+    },
+    {
+      "key": "PT06_S907_12_02",
+      "value": "Was there any doubt, Ryo?!"
+    },
+    {
+      "key": "PT06_S907_13_01",
+      "value": "Careful now, Saki!\nStay cautious to the very end!"
+    },
+    {
+      "key": "PT06_S907_13_02",
+      "value": "Eesh... Can’t believe you of all people are\ntelling me that... Still, you’re not wrong!"
+    },
+    {
+      "key": "PT06_S902_11_01",
+      "value": "You pack the biggest punch of all of us,\nso give ’em hell out there!"
+    },
+    {
+      "key": "PT06_S902_11_02",
+      "value": "I’ll finish this up in a second!\nBut you’d better bring it, too!"
+    },
+    {
+      "key": "PT06_S902_12_01",
+      "value": "Kaito! You may be tough, but don’t let down\nyour guard!"
+    },
+    {
+      "key": "PT06_S902_12_02",
+      "value": "Yeah, I ain’t gonna screw up here!"
+    },
+    {
+      "key": "PT06_S908_11_01",
+      "value": "Don’t look so worried, Miu!\nThe enemy can smell it on you!"
+    },
+    {
+      "key": "PT06_S908_11_02",
+      "value": "I got it, already!\nI won’t lose, you hear me?!"
+    },
+    {
+      "key": "PT06_S908_12_01",
+      "value": "This is the turning point, Miu!\nKeep your eye on the prize!"
+    },
+    {
+      "key": "PT06_S908_12_02",
+      "value": "Yes, you’re right!\nI’ll do my best!"
+    },
+    {
+      "key": "PT06_S911_11_01",
+      "value": "If an adult like you is scared, what the\nheck’re we supposed to do, Professor?!"
+    },
+    {
+      "key": "PT06_S911_11_02",
+      "value": "Ah, my apologies, Ryo...!"
+    },
+    {
+      "key": "PT06_S911_12_01",
+      "value": "Let’s fight and win out there, Professor!"
+    },
+    {
+      "key": "PT06_S911_12_02",
+      "value": "Certainly, Ryo!\nWe cannot afford to lose this fight!"
+    },
+    {
+      "key": "PT06_S912_11_01",
+      "value": "I believe in you, Miyuki!"
+    },
+    {
+      "key": "PT06_S912_11_02",
+      "value": "Yes... Thank you, Ryo!"
+    },
+    {
+      "key": "PT06_S912_12_01",
+      "value": "You all right, Miyuki?\nYou ain’t nervous, are you?"
+    },
+    {
+      "key": "PT06_S912_12_02",
+      "value": "Yes, I’m fine...\nI can fight, you’ll see!"
+    },
+    {
+      "key": "PT06_S008_31_01",
+      "value": "Hmph... Disgusting..."
+    },
+    {
+      "key": "PT06_S008_31_02",
+      "value": "..."
+    },
+    {
+      "key": "PT06_S008_11_01",
+      "value": "What, leave me alone, already!"
+    },
+    {
+      "key": "PT06_S008_11_02",
+      "value": "Kew!"
+    },
+    {
+      "key": "PT06_S008_12_01",
+      "value": "...I told ya already, didn’t I?\nI can tell you’re just as determined as me."
+    },
+    {
+      "key": "PT06_S008_12_02",
+      "value": "..."
+    },
+    {
+      "key": "PT06_S008_13_01",
+      "value": "Let’s go, partner!\nWe’ll show them we we’re made of!"
+    },
+    {
+      "key": "PT06_S008_13_02",
+      "value": "...!!!"
+    },
+    {
+      "key": "PT06_S008_21_01",
+      "value": "Kew! Kew!"
+    },
+    {
+      "key": "PT06_S008_21_02",
+      "value": "Are you...encouraging me?\nDon’t worry, I can do it."
+    },
+    {
+      "key": "PT06_S008_22_01",
+      "value": "Kewkewkew!"
+    },
+    {
+      "key": "PT06_S008_22_02",
+      "value": "“Do my best,” ya say?\nI was gonna do that anyway!"
+    },
+    {
+      "key": "PT06_S008_23_01",
+      "value": "Kew! Kew!"
+    },
+    {
+      "key": "PT06_S008_23_02",
+      "value": "You’re right, Kunemon!\nEven I can tell it’s do-or-die now!"
+    },
+    {
+      "key": "PT06_S111_11_01",
+      "value": "Don’t give up! I mean, I got no proof you can\nactually do it, but still...!"
+    },
+    {
+      "key": "PT06_S111_11_02",
+      "value": "Keekee!"
+    },
+    {
+      "key": "PT06_S111_12_01",
+      "value": "Hang in there, Flymon!\nPull yourself together!"
+    },
+    {
+      "key": "PT06_S111_12_02",
+      "value": "Kee! Keekee!"
+    },
+    {
+      "key": "PT06_S111_21_01",
+      "value": "What’s wrong, Flymon?!\nIs that really all you got?!"
+    },
+    {
+      "key": "PT06_S111_21_02",
+      "value": "Keekee! Keekee!"
+    },
+    {
+      "key": "PT06_S223_11_01",
+      "value": "I’m counting on ya, JewelBeemon!"
+    },
+    {
+      "key": "PT06_S223_11_02",
+      "value": "Understood, Ryo!\nI’ll fight with all my might!"
+    },
+    {
+      "key": "PT06_S223_12_01",
+      "value": "We’ll get through this tight spot together,\nJewelBeemon!"
+    },
+    {
+      "key": "PT06_S223_12_02",
+      "value": "Yeah, our combo will turn it around!"
+    },
+    {
+      "key": "PT06_S223_21_01",
+      "value": "Time to show your stuff, JewelBeemon!"
+    },
+    {
+      "key": "PT06_S223_21_02",
+      "value": "Yes, Ryo! I’ll show you what I can do!"
+    },
+    {
+      "key": "PT06_S324_11_01",
+      "value": "BanchoStingmon!\nCrush them with your ultimate power!"
+    },
+    {
+      "key": "PT06_S324_11_02",
+      "value": "You bet, Ryo! I’ll defeat our foes.\nI stake my pride on it!"
+    },
+    {
+      "key": "PT06_S324_12_01",
+      "value": "Show them what our pride is made of,\nBanchoStingmon!"
+    },
+    {
+      "key": "PT06_S324_12_02",
+      "value": "That’s the spirit, Ryo!"
+    },
+    {
+      "key": "PT06_S324_21_01",
+      "value": "Let’s do this, Ryo!"
+    },
+    {
+      "key": "PT06_S324_21_02",
+      "value": "Yeah, I’m counting on you, BanchoStingmon!"
+    },
+    {
+      "key": "PT06_S324_22_01",
+      "value": "I’m happy we joined forces, Ryo!"
+    },
+    {
+      "key": "PT06_S324_22_02",
+      "value": "Me too, BanchoStingmon! You’re the best\npartner a guy could ask for!"
+    },
+    {
+      "key": "PT05_S905_11_01",
+      "value": "Personal chatter is strictly prohibited..."
+    },
+    {
+      "key": "PT05_S905_12_01",
+      "value": "Leave me alone!\nI just want to be by myself."
+    },
+    {
+      "key": "PT05_S000_11_01",
+      "value": "Let’s face them with all our might!"
+    },
+    {
+      "key": "PT05_S000_12_01",
+      "value": "I need to be the strong one..."
+    },
+    {
+      "key": "PT05_S901_11_01",
+      "value": "We can win against any foe!\nWe have to believe as much."
+    },
+    {
+      "key": "PT05_S901_11_02",
+      "value": "Yeah, you’re right.\nThere’s gotta be a way through!"
+    },
+    {
+      "key": "PT05_S901_12_01",
+      "value": "There’s no need for you to take this all on\nby yourself, Takuma."
+    },
+    {
+      "key": "PT05_S901_12_02",
+      "value": "Thanks a lot.\nI feel better now."
+    },
+    {
+      "key": "PT05_S901_13_01",
+      "value": "I’m counting on you, Takuma!"
+    },
+    {
+      "key": "PT05_S901_13_02",
+      "value": "Got it!\nI’ll try to do something!"
+    },
+    {
+      "key": "PT05_S903_11_01",
+      "value": "I’m right behind you, so stay calm."
+    },
+    {
+      "key": "PT05_S903_11_02",
+      "value": "Thanks, I was getting a bit worked up..."
+    },
+    {
+      "key": "PT05_S903_12_01",
+      "value": "Can I leave this place to you?"
+    },
+    {
+      "key": "PT05_S903_12_02",
+      "value": "Yes, of course!"
+    },
+    {
+      "key": "PT05_S904_11_01",
+      "value": "Minoru, I...I’m right behind you.\nSo buck up, will you?!"
+    },
+    {
+      "key": "PT05_S904_11_02",
+      "value": "Sorry to make you worry.\nI’ll do my best!"
+    },
+    {
+      "key": "PT05_S904_12_01",
+      "value": "Can you help me out, Minoru?"
+    },
+    {
+      "key": "PT05_S904_12_02",
+      "value": "Yeah! The hero’s gotta save the day!"
+    },
+    {
+      "key": "PT05_S906_11_01",
+      "value": "Eyes ahead, Ryo, if you want to survive!"
+    },
+    {
+      "key": "PT05_S906_11_02",
+      "value": "Nnnngh, dammit!\nI just gotta do it, right?!"
+    },
+    {
+      "key": "PT05_S906_12_01",
+      "value": "Ryo! Can I leave this area to you?"
+    },
+    {
+      "key": "PT05_S906_12_02",
+      "value": "Yeah, you got it!"
+    },
+    {
+      "key": "PT05_S907_11_01",
+      "value": "When things get tough, just say something.\nI’ll help you anytime."
+    },
+    {
+      "key": "PT05_S907_11_02",
+      "value": "Thanks, but I can still fight!"
+    },
+    {
+      "key": "PT05_S907_12_01",
+      "value": "Can I leave this to you, Saki?"
+    },
+    {
+      "key": "PT05_S907_12_02",
+      "value": "If you think I’m up for the challenge,\nthen for sure!"
+    },
+    {
+      "key": "PT05_S907_13_01",
+      "value": "Could you help me out, Saki?"
+    },
+    {
+      "key": "PT05_S907_13_02",
+      "value": "Sure! I’ll give you all the help I can!"
+    },
+    {
+      "key": "PT05_S902_11_01",
+      "value": "Let’s work together, Kaito.\nLet’s get through this battle."
+    },
+    {
+      "key": "PT05_S902_11_02",
+      "value": "Hmph, thought I couldn’t cut it, huh?\nGuess I gave you the wrong impression."
+    },
+    {
+      "key": "PT05_S902_12_01",
+      "value": "Sorry, Kaito, but I could use your help."
+    },
+    {
+      "key": "PT05_S902_12_02",
+      "value": "Sure, Shuuji! Let’s take them on!"
+    },
+    {
+      "key": "PT05_S908_11_01",
+      "value": "Don’t worry, Miu... I’ll give you a hand."
+    },
+    {
+      "key": "PT05_S908_11_02",
+      "value": "Thanks, Shuuji..."
+    },
+    {
+      "key": "PT05_S908_12_01",
+      "value": "Let’s work together, Miu!"
+    },
+    {
+      "key": "PT05_S908_12_02",
+      "value": "Okay! I’ll do my best!"
+    },
+    {
+      "key": "PT05_S911_11_01",
+      "value": "This is no time to get timid, Professor!"
+    },
+    {
+      "key": "PT05_S911_11_02",
+      "value": "Ahh, sorry, Shuuji...\nYes...courage is a necessity."
+    },
+    {
+      "key": "PT05_S911_12_01",
+      "value": "Could you help me with this strategy,\nProfessor?"
+    },
+    {
+      "key": "PT05_S911_12_02",
+      "value": "Of course, Shuuji, let’s fight together!"
+    },
+    {
+      "key": "PT05_S912_11_01",
+      "value": "I’m with you, Miyuki. Have courage."
+    },
+    {
+      "key": "PT05_S912_11_02",
+      "value": "Shuuji...\nSorry to make you worry."
+    },
+    {
+      "key": "PT05_S912_12_01",
+      "value": "Alright, then, Miyuki.\nI’ll leave this place to you!"
+    },
+    {
+      "key": "PT05_S912_12_02",
+      "value": "Okay, Shuuji."
+    },
+    {
+      "key": "PT05_S010_31_01",
+      "value": "Without knowing their true colors, how could\nI possibly trust and work with them?!"
+    },
+    {
+      "key": "PT05_S010_31_02",
+      "value": "..."
+    },
+    {
+      "key": "PT05_S010_11_01",
+      "value": "Jeez, this guy is tough..."
+    },
+    {
+      "key": "PT05_S010_11_02",
+      "value": "Hey, Shuuji, should we run for it?\nAt this rate both of us are gonna die..."
+    },
+    {
+      "key": "PT05_S010_12_01",
+      "value": "Lend me your strength, Lopmon!"
+    },
+    {
+      "key": "PT05_S010_12_02",
+      "value": "Yeah! Leave it to me!"
+    },
+    {
+      "key": "PT05_S010_13_01",
+      "value": "Please lend me your power, and stand with me!"
+    },
+    {
+      "key": "PT05_S010_13_02",
+      "value": "My chest feels warm... Power’s flowing\nthrough me!"
+    },
+    {
+      "key": "PT05_S010_21_01",
+      "value": "Do your best, Shuuji!"
+    },
+    {
+      "key": "PT05_S010_21_02",
+      "value": "Yeah, you got it!"
+    },
+    {
+      "key": "PT05_S010_22_01",
+      "value": "Shuuji! Give me strength!"
+    },
+    {
+      "key": "PT05_S010_22_02",
+      "value": "I believe you can win this, Lopmon!"
+    },
+    {
+      "key": "PT05_S010_23_01",
+      "value": "I’ll protect Shuuji... I will!"
+    },
+    {
+      "key": "PT05_S010_23_02",
+      "value": "Thanks, Lopmon, but I’ll face the enemy, too!"
+    },
+    {
+      "key": "PT05_S123_11_01",
+      "value": "Can you keep going, Turuiemon?"
+    },
+    {
+      "key": "PT05_S123_11_02",
+      "value": "Yeah, not a problem!"
+    },
+    {
+      "key": "PT05_S123_12_01",
+      "value": "Do your best, Turuiemon!"
+    },
+    {
+      "key": "PT05_S123_12_02",
+      "value": "Okay, Shuuji!"
+    },
+    {
+      "key": "PT05_S123_21_01",
+      "value": "You’re the key to this fight, Turuiemon!"
+    },
+    {
+      "key": "PT05_S123_21_02",
+      "value": "Understood, Shuuji!"
+    },
+    {
+      "key": "PT05_S124_11_01",
+      "value": "Wendigomon, I...I can trust you, can’t I?"
+    },
+    {
+      "key": "PT05_S124_11_02",
+      "value": "Grrrwwwlll..."
+    },
+    {
+      "key": "PT05_S124_12_01",
+      "value": "Here we go, Wendigomon!"
+    },
+    {
+      "key": "PT05_S124_12_02",
+      "value": "Grrr....\nGrrrwwwlll..."
+    },
+    {
+      "key": "PT05_S124_21_01",
+      "value": "Okay, Wendigomon!\nLet’s go, just like we planned!"
+    },
+    {
+      "key": "PT05_S124_21_02",
+      "value": "Grrr, grrrwwwll..."
+    },
+    {
+      "key": "PT05_S222_11_01",
+      "value": "Do your best out there, Antylamon!"
+    },
+    {
+      "key": "PT05_S222_11_02",
+      "value": "Yes... I understand, Shuuji."
+    },
+    {
+      "key": "PT05_S222_12_01",
+      "value": "Time to execute our plan!\nOkay, Antylamon?!"
+    },
+    {
+      "key": "PT05_S222_12_02",
+      "value": "Okay, Shuuji! Awaiting orders!"
+    },
+    {
+      "key": "PT05_S222_21_01",
+      "value": "Antylamon! Don’t give the enemy any more\nground!"
+    },
+    {
+      "key": "PT05_S222_21_02",
+      "value": "You’re right, Shuuji! I’ll stop them here!"
+    },
+    {
+      "key": "PT05_S323_11_01",
+      "value": "The power of the ultimate angel...\nI’m counting on you, Cherubimon!"
+    },
+    {
+      "key": "PT05_S323_11_02",
+      "value": "Yes, Shuuji... See for yourself..."
+    },
+    {
+      "key": "PT05_S323_12_01",
+      "value": "We’ll halt this world’s destruction,\nCherubimon!"
+    },
+    {
+      "key": "PT05_S323_12_02",
+      "value": "Yes... Come, let’s go, Shuuji!"
+    },
+    {
+      "key": "PT05_S323_21_01",
+      "value": "At last, we’ve made it this far, Shuuji..."
+    },
+    {
+      "key": "PT05_S323_21_02",
+      "value": "Yes, it’s taken us a long time to get here,\nCherubimon... You have my thanks!"
+    },
+    {
+      "key": "PT05_S323_22_01",
+      "value": "Shuuji! Show me your soul!"
+    },
+    {
+      "key": "PT05_S323_22_02",
+      "value": "You got it, Cherubimon!\nHow about this?! UWOOOOOO!!!"
+    },
+    {
+      "key": "PT07_S907_11_01",
+      "value": "For now, I’d better focus on the enemy in\nfront of me!"
+    },
+    {
+      "key": "PT07_S000_11_01",
+      "value": "Yeah, just like that!"
+    },
+    {
+      "key": "PT07_S000_12_01",
+      "value": "Let’s do this!"
+    },
+    {
+      "key": "PT07_S901_11_01",
+      "value": "Don’t tell me you plan on giving up here?\nThat’s not the Takuma I know!"
+    },
+    {
+      "key": "PT07_S901_11_02",
+      "value": "Yeah... I’ll stand back up as many times as\nI need to!"
+    },
+    {
+      "key": "PT07_S901_12_01",
+      "value": "You’re not really into this, are you? Stand\nup straight, and get your head in the game!"
+    },
+    {
+      "key": "PT07_S901_12_02",
+      "value": "Yeah, you’re right. If I’m not feeling this\nwe’ve already lost."
+    },
+    {
+      "key": "PT07_S901_13_01",
+      "value": "I trust you, Takuma!"
+    },
+    {
+      "key": "PT07_S901_13_02",
+      "value": "Thanks, Saki! I’ll have to live up to that!"
+    },
+    {
+      "key": "PT07_S903_11_01",
+      "value": "We’ll win! There’s no other option!"
+    },
+    {
+      "key": "PT07_S903_11_02",
+      "value": "Yeah, Saki...\nI feel better just hearing you say that!"
+    },
+    {
+      "key": "PT07_S903_12_01",
+      "value": "You can do it, Aoi!"
+    },
+    {
+      "key": "PT07_S903_12_02",
+      "value": "Thanks, Saki!"
+    },
+    {
+      "key": "PT07_S904_11_01",
+      "value": "It’s about time you showed me your \ncool side. Yeah?"
+    },
+    {
+      "key": "PT07_S904_11_02",
+      "value": "Uh yeah, sure!\nJust watch, I’ll show you how it’s done!"
+    },
+    {
+      "key": "PT07_S904_12_01",
+      "value": "C’mon, Minoru!\nTime for the hero to spring into action!"
+    },
+    {
+      "key": "PT07_S904_12_02",
+      "value": "Yeah, leave it to me!\nI’ll make it work!"
+    },
+    {
+      "key": "PT07_S906_11_01",
+      "value": "Don’t get scared by the small fry!"
+    },
+    {
+      "key": "PT07_S906_11_02",
+      "value": "Yeah, yeah, I got it already...!"
+    },
+    {
+      "key": "PT07_S906_12_01",
+      "value": "You okay, Ryo? Can you keep it up?"
+    },
+    {
+      "key": "PT07_S906_12_02",
+      "value": "Of course! I ain’t gonna look like a chump\nin front of you!"
+    },
+    {
+      "key": "PT07_S906_13_01",
+      "value": "Hey, Ryo! There’re some things only you can\ndo, right?"
+    },
+    {
+      "key": "PT07_S906_13_02",
+      "value": "Of course! I’ll give ya a taste right now!"
+    },
+    {
+      "key": "PT07_S905_11_01",
+      "value": "Believe in yourself! I’m relying on you!"
+    },
+    {
+      "key": "PT07_S905_11_02",
+      "value": "Sorry to make you anxious. I’m all right now."
+    },
+    {
+      "key": "PT07_S905_12_01",
+      "value": "Time to demonstrate some leadership, Shuuji!"
+    },
+    {
+      "key": "PT07_S905_12_02",
+      "value": "Okay, leave it to me!"
+    },
+    {
+      "key": "PT07_S905_13_01",
+      "value": "We finally made it this far, Shuuji!"
+    },
+    {
+      "key": "PT07_S905_13_02",
+      "value": "Yes, all because you’re here with me, Saki!"
+    },
+    {
+      "key": "PT07_S902_11_01",
+      "value": "It’s rare to see you having a hard time,\nKaito. Need some backup?"
+    },
+    {
+      "key": "PT07_S902_11_02",
+      "value": "Heh, as if. I’m good on my own!"
+    },
+    {
+      "key": "PT07_S902_12_01",
+      "value": "You can definitely do it, Kaito!\nYou have my guarantee!"
+    },
+    {
+      "key": "PT07_S902_12_02",
+      "value": "Who needs it?!\nAh, well, ’preciate it anyway."
+    },
+    {
+      "key": "PT07_S908_11_01",
+      "value": "Keep it up, Miu! I’m cheering you on!"
+    },
+    {
+      "key": "PT07_S908_11_02",
+      "value": "Great, thanks, Saki!"
+    },
+    {
+      "key": "PT07_S908_12_01",
+      "value": "Miu! Let’s tear on through them!"
+    },
+    {
+      "key": "PT07_S908_12_02",
+      "value": "Yeah! Like a knife through butter!"
+    },
+    {
+      "key": "PT07_S911_11_01",
+      "value": "Go for it, Professor!\nNo place for hesitation!"
+    },
+    {
+      "key": "PT07_S911_11_02",
+      "value": "Ah, yeah... Hesitation...\nYou’re right, this is no place for timidity."
+    },
+    {
+      "key": "PT07_S911_12_01",
+      "value": "Say, Professor, don’t these enemies seem\nkinda weak to you?"
+    },
+    {
+      "key": "PT07_S911_12_02",
+      "value": "Yes, I felt the same. This is our chance!"
+    },
+    {
+      "key": "PT07_S912_11_01",
+      "value": "Miyuki! I know battles are scary, but let’s\nget through it together!"
+    },
+    {
+      "key": "PT07_S912_11_02",
+      "value": "Yes, you’re right!"
+    },
+    {
+      "key": "PT07_S912_12_01",
+      "value": "Miyuki... Sorry to cause you so much\ntrouble... It must have been painful, yes?"
+    },
+    {
+      "key": "PT07_S912_12_02",
+      "value": "No, it’s not your fault, Saki...\nIt’s all their fault!"
+    },
+    {
+      "key": "PT07_S006_11_01",
+      "value": "Tell me if it gets tough!"
+    },
+    {
+      "key": "PT07_S006_11_02",
+      "value": "Thanks for worrying!\nI’ll do my best!"
+    },
+    {
+      "key": "PT07_S006_12_01",
+      "value": "Do your best, Floramon!"
+    },
+    {
+      "key": "PT07_S006_12_02",
+      "value": "Of course! Leave it to me, okay?"
+    },
+    {
+      "key": "PT07_S006_13_01",
+      "value": "I’m so happy we met, Floramon!"
+    },
+    {
+      "key": "PT07_S006_13_02",
+      "value": "I feel the same, Saki!"
+    },
+    {
+      "key": "PT07_S006_21_01",
+      "value": "I’ll work super hard, so don’t worry!"
+    },
+    {
+      "key": "PT07_S006_21_02",
+      "value": "Thanks...\nYou’re the best, Floramon!"
+    },
+    {
+      "key": "PT07_S006_22_01",
+      "value": "Pull yourself together, Saki!"
+    },
+    {
+      "key": "PT07_S006_22_02",
+      "value": "Thanks, I’m okay, I swear!"
+    },
+    {
+      "key": "PT07_S006_23_01",
+      "value": "Will you cheer me on, Saki?"
+    },
+    {
+      "key": "PT07_S006_23_02",
+      "value": "Yeah! Two, four, six, eight, who do we\nappreciate? Floramon! Floramon!"
+    },
+    {
+      "key": "PT07_S107_11_01",
+      "value": "Can you keep it up a bit longer?"
+    },
+    {
+      "key": "PT07_S107_11_02",
+      "value": "Of course! Just leave it all to me!"
+    },
+    {
+      "key": "PT07_S107_12_01",
+      "value": "You might not look it, Vegiemon, but...you\nknow, you’re actually pretty chill!"
+    },
+    {
+      "key": "PT07_S107_12_02",
+      "value": "Hee hee, looks like you’ve figured out my\nappeal! Happy to hear it!"
+    },
+    {
+      "key": "PT07_S107_21_01",
+      "value": "Let’s take ’em all down at once, Vegiemon!"
+    },
+    {
+      "key": "PT07_S107_21_02",
+      "value": "Way to delegate!\nAll right, time to tear ’em a new one!"
+    },
+    {
+      "key": "PT07_S206_11_01",
+      "value": "Hey, Blossomon! It’s almost your turn!"
+    },
+    {
+      "key": "PT07_S206_11_02",
+      "value": "My time to shine!"
+    },
+    {
+      "key": "PT07_S206_12_01",
+      "value": "You’re the best partner ever, Blossomon!"
+    },
+    {
+      "key": "PT07_S206_12_02",
+      "value": "I love you too, Saki!"
+    },
+    {
+      "key": "PT07_S206_21_01",
+      "value": "Do your best, Blossomon! I know you won’t\nlose!"
+    },
+    {
+      "key": "PT07_S206_21_02",
+      "value": "Of course! Not when you and I are a team!"
+    },
+    {
+      "key": "PT07_S325_11_01",
+      "value": "Let’s change things up, Ceresmon Medium!"
+    },
+    {
+      "key": "PT07_S325_11_02",
+      "value": "Yes, Saki, leave it to me."
+    },
+    {
+      "key": "PT07_S325_12_01",
+      "value": "Ceresmon Medium, you’re...you’re so pretty..."
+    },
+    {
+      "key": "PT07_S325_12_02",
+      "value": "Ho ho... Thank you, Saki..."
+    },
+    {
+      "key": "PT07_S325_21_01",
+      "value": "Let’s do our best, Saki!"
+    },
+    {
+      "key": "PT07_S325_21_02",
+      "value": "Yeah! That’s right!"
+    },
+    {
+      "key": "PT07_S325_22_01",
+      "value": "You and I, let’s end this nightmare together,\nSaki..."
+    },
+    {
+      "key": "PT07_S325_22_02",
+      "value": "Okay! We’ll blow this nightmare away!"
+    },
+    {
+      "key": "PT07_S333_11_01",
+      "value": "Ceresmon... We’ve finally gotten this much\npower..."
+    },
+    {
+      "key": "PT07_S333_11_02",
+      "value": "This is the fruit of our bond...the results\nof how far we’ve walked together!"
+    },
+    {
+      "key": "PT07_S333_12_01",
+      "value": "Ceresmon! Wipe those punks out!"
+    },
+    {
+      "key": "PT07_S333_12_02",
+      "value": "Sure, just leave it to me!"
+    },
+    {
+      "key": "PT07_S333_21_01",
+      "value": "Saki... You have my thanks...\nYour devotion allowed me to evolve this far."
+    },
+    {
+      "key": "PT07_S333_21_02",
+      "value": "I feel the same... My heart’s grown this\nstrong thanks to you..."
+    },
+    {
+      "key": "PT07_S333_22_01",
+      "value": "The battle is almost over, Saki...\nStill, it’s no time to let our guard down."
+    },
+    {
+      "key": "PT07_S333_22_02",
+      "value": "Jeez, you’re such a worrywart, Ceresmon!\nThere’s no way I’d let that happen!"
+    },
+    {
+      "key": "PT02_S902_11_01",
+      "value": "If you have time to chat, swing those fists!"
+    },
+    {
+      "key": "PT02_S902_12_01",
+      "value": "I’ll smash whatever comes at me...\nThat’s all there is to it!"
+    },
+    {
+      "key": "PT02_S000_11_01",
+      "value": "Hmph, let’s do this!"
+    },
+    {
+      "key": "PT02_S000_12_01",
+      "value": "If you really are that tough, wipe the floor\nwith these guys!"
+    },
+    {
+      "key": "PT02_S901_11_01",
+      "value": "Hey, you’re looking a bit shy there, Takuma.\nYou ain’t gonna turn tail here, are ya?"
+    },
+    {
+      "key": "PT02_S901_11_02",
+      "value": "Yeah, that’s not in the cards, is it?\nThanks, Kaito."
+    },
+    {
+      "key": "PT02_S901_12_01",
+      "value": "If you don’t fight, you can’t protect\nanything! You know that much, don’t ya?!"
+    },
+    {
+      "key": "PT02_S901_12_02",
+      "value": "...Yeah, you’re right. My mind is clear now."
+    },
+    {
+      "key": "PT02_S901_13_01",
+      "value": "Takuma! Now’s the time to show what you’re\nmade of!"
+    },
+    {
+      "key": "PT02_S901_13_02",
+      "value": "Okay, Kaito! I’ll give it a shot!"
+    },
+    {
+      "key": "PT02_S901_21_01",
+      "value": "Let’s tear them to pieces, Takuma!\nNo holding back!"
+    },
+    {
+      "key": "PT02_S901_21_02",
+      "value": "Yeah...yeah you’re right, Kaito..."
+    },
+    {
+      "key": "PT02_S903_11_01",
+      "value": "Don’t look like you’re about to blubber, man.\nWe haven’t lost yet."
+    },
+    {
+      "key": "PT02_S903_11_02",
+      "value": "Yeah... The battle starts here!"
+    },
+    {
+      "key": "PT02_S903_12_01",
+      "value": "Let’s smack ’em all down here, Aoi!"
+    },
+    {
+      "key": "PT02_S903_12_02",
+      "value": "Got it, Kaito!"
+    },
+    {
+      "key": "PT02_S904_11_01",
+      "value": "And when did you plan on getting serious?"
+    },
+    {
+      "key": "PT02_S904_11_02",
+      "value": "Unngh, just watch!\nI’ll bring it when the chips are down!"
+    },
+    {
+      "key": "PT02_S904_12_01",
+      "value": "We need your strength, Minoru!"
+    },
+    {
+      "key": "PT02_S904_12_02",
+      "value": "Glad to hear it! All right, here I go!"
+    },
+    {
+      "key": "PT02_S904_21_01",
+      "value": "There’s no time to waste standing around."
+    },
+    {
+      "key": "PT02_S904_21_02",
+      "value": "It’s no use...\nThat guy’s just not thinking straight."
+    },
+    {
+      "key": "PT02_S906_11_01",
+      "value": "Anyone dragging me down will get left behind!\nYa don’t like it? Get fighting!"
+    },
+    {
+      "key": "PT02_S906_11_02",
+      "value": "Uh, y-yeah, I will!\nSo don’t say things like that!"
+    },
+    {
+      "key": "PT02_S906_12_01",
+      "value": "Don’t freak out, Ryo!"
+    },
+    {
+      "key": "PT02_S906_12_02",
+      "value": "Say what?! Who’s freaking out?!"
+    },
+    {
+      "key": "PT02_S905_11_01",
+      "value": "We’re at the brink of life or death!\nAin’t no choice but to win here!"
+    },
+    {
+      "key": "PT02_S905_11_02",
+      "value": "You’re not wrong, Kaito. Let’s win this."
+    },
+    {
+      "key": "PT02_S905_12_01",
+      "value": "Finish things like a high schooler should!"
+    },
+    {
+      "key": "PT02_S905_12_02",
+      "value": "All right, Kaito! I’ll finish things here!"
+    },
+    {
+      "key": "PT02_S907_11_01",
+      "value": "You’re awfully quiet.\nThat’s not like you at all."
+    },
+    {
+      "key": "PT02_S907_11_02",
+      "value": "Is that encouragement? That’s not like you,\neither. Still, thanks for the pep talk!"
+    },
+    {
+      "key": "PT02_S907_12_01",
+      "value": "Show me something good, Saki!"
+    },
+    {
+      "key": "PT02_S907_12_02",
+      "value": "It’s rare to hear you say something like\nthat... All right, if you insist!"
+    },
+    {
+      "key": "PT02_S908_11_01",
+      "value": "Your big brother’s with you, Miu!\nDon’t worry!"
+    },
+    {
+      "key": "PT02_S908_11_02",
+      "value": "Yeah, yeah, I got it already."
+    },
+    {
+      "key": "PT02_S908_12_01",
+      "value": "I’ll do anything for you, Miu!"
+    },
+    {
+      "key": "PT02_S908_12_02",
+      "value": "Jeez, stop talking like that!\nLook at what I can do on my own!"
+    },
+    {
+      "key": "PT02_S908_13_01",
+      "value": "We’ll pull through this together, Miu!"
+    },
+    {
+      "key": "PT02_S908_13_02",
+      "value": "Okay, bro! Let’s show them what us siblings\nare made of!"
+    },
+    {
+      "key": "PT02_S911_11_01",
+      "value": "Professor! You gettin’ scared or something?"
+    },
+    {
+      "key": "PT02_S911_11_02",
+      "value": "Ah, yes... This is no good.\nI’m an adult, after all!"
+    },
+    {
+      "key": "PT02_S911_12_01",
+      "value": "Can I leave it to you, Professor?"
+    },
+    {
+      "key": "PT02_S911_12_02",
+      "value": "Of course, you can depend on me!"
+    },
+    {
+      "key": "PT02_S912_11_01",
+      "value": "Show those punks who’s boss!"
+    },
+    {
+      "key": "PT02_S912_11_02",
+      "value": "Yes, I will!"
+    },
+    {
+      "key": "PT02_S912_12_01",
+      "value": "Good luck! You can do it!"
+    },
+    {
+      "key": "PT02_S912_12_02",
+      "value": "Thanks, I will!"
+    },
+    {
+      "key": "PT02_S009_11_01",
+      "value": "Not bad, Dracmon!"
+    },
+    {
+      "key": "PT02_S009_11_02",
+      "value": "Of course! I’ll take down any enemy!"
+    },
+    {
+      "key": "PT02_S009_12_01",
+      "value": "I leave it to you, Dracmon!"
+    },
+    {
+      "key": "PT02_S009_12_02",
+      "value": "Yeah, you got it!"
+    },
+    {
+      "key": "PT02_S009_13_01",
+      "value": "With our power, we’ll wipe them out in one\ngo, Dracmon!"
+    },
+    {
+      "key": "PT02_S009_13_02",
+      "value": "Heh heh, I like the sound of that, Kaito!\nTime we get serious!"
+    },
+    {
+      "key": "PT02_S009_21_01",
+      "value": "Hey, what’s up, Kaito?\nLet’s go even harder!"
+    },
+    {
+      "key": "PT02_S009_21_02",
+      "value": "Hmph, I was planning that from the start!"
+    },
+    {
+      "key": "PT02_S009_22_01",
+      "value": "I’m counting on ya, Kaito!"
+    },
+    {
+      "key": "PT02_S009_22_02",
+      "value": "You got it, Dracmon!"
+    },
+    {
+      "key": "PT02_S009_23_01",
+      "value": "Say, Kaito, how should I take down the enemy?"
+    },
+    {
+      "key": "PT02_S009_23_02",
+      "value": "Ain’t it obvious? Plow right into ’em!"
+    },
+    {
+      "key": "PT02_S009_31_01",
+      "value": "We make the best pair, Kaito!"
+    },
+    {
+      "key": "PT02_S009_31_02",
+      "value": "Of course, Dracmon! You and me are the best!"
+    },
+    {
+      "key": "PT02_S122_11_01",
+      "value": "Playtime’s over. It’s about time to finish\nthis."
+    },
+    {
+      "key": "PT02_S122_11_02",
+      "value": "Yeah! The next blow’s the last!"
+    },
+    {
+      "key": "PT02_S122_12_01",
+      "value": "Sangloupmon!\nCan you keep going?"
+    },
+    {
+      "key": "PT02_S122_12_02",
+      "value": "Who do you think you’re talking to?\nOf course I can, easily!"
+    },
+    {
+      "key": "PT02_S122_21_01",
+      "value": "Listen up, Sangloupmon!\nGive those guys a nasty blow!"
+    },
+    {
+      "key": "PT02_S122_21_02",
+      "value": "You got it, Kaito! Here I go!"
+    },
+    {
+      "key": "PT02_S219_11_01",
+      "value": "Teach them the meaning of fear, Myotismon!"
+    },
+    {
+      "key": "PT02_S219_11_02",
+      "value": "Heh heh, very well..."
+    },
+    {
+      "key": "PT02_S219_12_01",
+      "value": "Whaddaya think, Myotismon?\nCan you handle this fight?"
+    },
+    {
+      "key": "PT02_S219_12_02",
+      "value": "I’ll show you the true meaning of strength,\nKaito..."
+    },
+    {
+      "key": "PT02_S219_21_01",
+      "value": "Annihilate the enemy, Myotismon!"
+    },
+    {
+      "key": "PT02_S219_21_02",
+      "value": "Yes, Kaito... Without mercy...\nI’ll make them regret defying me..."
+    },
+    {
+      "key": "PT02_S322_11_01",
+      "value": "Can I leave this to you, Beelzemon?!"
+    },
+    {
+      "key": "PT02_S322_11_02",
+      "value": "Hmph... Took you long enough to ask, Kaito."
+    },
+    {
+      "key": "PT02_S322_12_01",
+      "value": "Show them the ultimate power, Beelzemon!"
+    },
+    {
+      "key": "PT02_S322_12_02",
+      "value": "Okay! Understood, Kaito!"
+    },
+    {
+      "key": "PT02_S322_21_01",
+      "value": "I need our power, Kaito!"
+    },
+    {
+      "key": "PT02_S322_21_02",
+      "value": "Okay, Beelzemon! I’ll give you some of my\nspirit!"
+    },
+    {
+      "key": "PT02_S322_22_01",
+      "value": "Time for the main event, Kaito!\nHold it together!"
+    },
+    {
+      "key": "PT02_S322_22_02",
+      "value": "Yeah! You’d better not lag behind, either!"
+    },
+    {
+      "key": "PT02_S318_11_01",
+      "value": "Can I trust you, Boltboutamon?"
+    },
+    {
+      "key": "PT02_S318_11_02",
+      "value": "Of course, Kaito... This power...I wield it\nfor your sake!"
+    },
+    {
+      "key": "PT02_S318_12_01",
+      "value": "Show them your brutal power, Boltboutamon!"
+    },
+    {
+      "key": "PT02_S318_12_02",
+      "value": "Bwahahahaha! You got it!"
+    },
+    {
+      "key": "PT02_S318_21_01",
+      "value": "Kaito! You’re the key to winning this battle!"
+    },
+    {
+      "key": "PT02_S318_21_02",
+      "value": "All right, Boltboutamon!\nI’ll put more guts into it!"
+    },
+    {
+      "key": "PT02_S318_22_01",
+      "value": "Kaito... Come with me...to a hellish\nbattlefield."
+    },
+    {
+      "key": "PT02_S318_22_02",
+      "value": "Sure, Boltboutamon... We’ll weather the\nunderworld together!"
+    },
+    {
+      "key": "PT08_S908_11_01",
+      "value": "I have to make sure I don’t drag anyone\ndown..."
+    },
+    {
+      "key": "PT08_S000_11_01",
+      "value": "Careful! Watch the enemy’s attack closely!"
+    },
+    {
+      "key": "PT08_S000_12_01",
+      "value": "Good luck! I’ll be here with you!"
+    },
+    {
+      "key": "PT08_S901_11_01",
+      "value": "Hold yourself together, Takuma!\nI’ll do the same!"
+    },
+    {
+      "key": "PT08_S901_11_02",
+      "value": "Sure, Miu! Let’s take a stand together!"
+    },
+    {
+      "key": "PT08_S901_12_01",
+      "value": "Takuma, let’s strengthen our defenses and\nproceed with caution!"
+    },
+    {
+      "key": "PT08_S901_12_02",
+      "value": "You’re right, Miu! Defense is key!"
+    },
+    {
+      "key": "PT08_S901_13_01",
+      "value": "When I’m with you, Takuma...\nI feel like I can’t lose!"
+    },
+    {
+      "key": "PT08_S901_13_02",
+      "value": "Same here, Miu... With you here, it’s like\nI can win any battle!"
+    },
+    {
+      "key": "PT08_S903_11_01",
+      "value": "I’ll do my best, Aoi, so cheer up!"
+    },
+    {
+      "key": "PT08_S903_11_02",
+      "value": "Miu... You’re right, this is no time to lose\nmy nerve!"
+    },
+    {
+      "key": "PT08_S903_12_01",
+      "value": "I have divine protection, Aoi!\nHere, I’ll give some of it to you!"
+    },
+    {
+      "key": "PT08_S903_12_02",
+      "value": "Oh, Miu... Okay, I’ll take some of that for\nmyself!"
+    },
+    {
+      "key": "PT08_S904_11_01",
+      "value": "I’m with you, Minoru, so do your best!\nI’ve got your back!"
+    },
+    {
+      "key": "PT08_S904_11_02",
+      "value": "What’re you saying, Miu?! That’s my line!"
+    },
+    {
+      "key": "PT08_S904_12_01",
+      "value": "Hey Minoru, I placed a curse on the enemy.\nYou can fight without fear now!"
+    },
+    {
+      "key": "PT08_S904_12_02",
+      "value": "Uh, I don’t know if I’d trust that...\nAw what the heck, let’s do it!"
+    },
+    {
+      "key": "PT08_S906_11_01",
+      "value": "You scared, Ryo? Here I’ll cheer you up!\n“You can do iiit!”"
+    },
+    {
+      "key": "PT08_S906_11_02",
+      "value": "Uh, hey! Who’s getting scared over wimps like\nthese?! I’ll take them out, no problem!"
+    },
+    {
+      "key": "PT08_S906_12_01",
+      "value": "Ryo, my spirit power will lead us to victory,\nso let’s do our best!"
+    },
+    {
+      "key": "PT08_S906_12_02",
+      "value": "The heck is “spirit power”...\nHeh heh, this’ll be a piece of cake anyway!"
+    },
+    {
+      "key": "PT08_S905_11_01",
+      "value": "Ah, Shuuji... Are you frightened?\nI’m helping too, okay?"
+    },
+    {
+      "key": "PT08_S905_11_02",
+      "value": "Even you could tell, huh...\nOkay, I’m counting on you, Miu!"
+    },
+    {
+      "key": "PT08_S905_12_01",
+      "value": "Here’s my trump card, Shuuji:\na good luck charm!"
+    },
+    {
+      "key": "PT08_S905_12_02",
+      "value": "Um, I don’t really get it, but thank you!"
+    },
+    {
+      "key": "PT08_S907_11_01",
+      "value": "I’m scared of fighting, too, but let’s do\nwhat we can together, Saki!"
+    },
+    {
+      "key": "PT08_S907_11_02",
+      "value": "You’re right, Miu!\nWe’ll definitely get through this!"
+    },
+    {
+      "key": "PT08_S907_12_01",
+      "value": "The great will of this world is my ally.\nWe’ll definitely be okay!"
+    },
+    {
+      "key": "PT08_S907_12_02",
+      "value": "Okay, that’s a weird statement, Miu.\nAh well, guess I’ll believe it!"
+    },
+    {
+      "key": "PT08_S902_11_01",
+      "value": "Don’t tell me you’re scared, Kaito?\nDo you wanna hold my hand?"
+    },
+    {
+      "key": "PT08_S902_11_02",
+      "value": "You think I’m scared? I’m always ready to\nturn things around!"
+    },
+    {
+      "key": "PT08_S902_12_01",
+      "value": "Don’t get too heated, Kaito! Stay cool."
+    },
+    {
+      "key": "PT08_S902_12_02",
+      "value": "I got it already, Miu! Twerps like this won’t\nmake me lose my cool!"
+    },
+    {
+      "key": "PT08_S902_13_01",
+      "value": "Do your best, brother! I’m rooting for you!"
+    },
+    {
+      "key": "PT08_S902_13_02",
+      "value": "Miu... YEAAAAAAAAAAAAHHH!!!\nHERE I GOOOOOOOOO!!!"
+    },
+    {
+      "key": "PT08_S911_11_01",
+      "value": "It looks like you’re getting cold feet,\nProfessor. Is there anything I can do?"
+    },
+    {
+      "key": "PT08_S911_11_02",
+      "value": "Ah, no... Sorry, Miu.\nThis won’t do for an adult like me!"
+    },
+    {
+      "key": "PT08_S911_12_01",
+      "value": "Keh keh keh... I sent the enemy a horrific\nvision. They’ll be running soon, Professor..."
+    },
+    {
+      "key": "PT08_S911_12_02",
+      "value": "Umm... I honestly don’t see that happening...\nBest to steel our defenses..."
+    },
+    {
+      "key": "PT08_S912_11_01",
+      "value": "Miyuki! Are you new to the battlefield?\nHere, let me help!"
+    },
+    {
+      "key": "PT08_S912_11_02",
+      "value": "Ah, no, Miu, it’s just been a while, so I’m\na bit confused. My instincts will return!"
+    },
+    {
+      "key": "PT08_S912_12_01",
+      "value": "The enemy’s gathering their strength, Miyuki!\nLet’s focus on defense!"
+    },
+    {
+      "key": "PT08_S912_12_02",
+      "value": "Yes, Miu, my sentiments exactly!"
+    },
+    {
+      "key": "PT08_S005_11_01",
+      "value": "I’m here with you, Syakomon, so do your best!"
+    },
+    {
+      "key": "PT08_S005_11_02",
+      "value": "Okay! I’ll do everything I can!"
+    },
+    {
+      "key": "PT08_S005_12_01",
+      "value": "I’m counting on you, Syakomon!"
+    },
+    {
+      "key": "PT08_S005_12_02",
+      "value": "Just wait and see what I can do, Miu!"
+    },
+    {
+      "key": "PT08_S005_13_01",
+      "value": "Syakomon...\nMy feelings are reaching you, aren’t they?"
+    },
+    {
+      "key": "PT08_S005_13_02",
+      "value": "Of course! Your intense feelings are flowing\nright into me!"
+    },
+    {
+      "key": "PT08_S005_21_01",
+      "value": "My queen...no, Miu. Don’t lose focus now!"
+    },
+    {
+      "key": "PT08_S005_21_02",
+      "value": "Yeah, Syakomon... We can’t get hurt here!"
+    },
+    {
+      "key": "PT08_S005_22_01",
+      "value": "Let’s be careful, Miu. We don’t wanna make\nKaito worry!"
+    },
+    {
+      "key": "PT08_S005_22_02",
+      "value": "You’re right, Syakomon!\nI’ll show him what I can do!"
+    },
+    {
+      "key": "PT08_S005_23_01",
+      "value": "Miu... When I’m with you, nothing scares me!"
+    },
+    {
+      "key": "PT08_S005_23_02",
+      "value": "Yeah... I feel the same, Syakomon!"
+    },
+    {
+      "key": "PT08_S106_11_01",
+      "value": "Show them how you’ve powered up, Shellmon!"
+    },
+    {
+      "key": "PT08_S106_11_02",
+      "value": "You got it! I’ll send them all packing!"
+    },
+    {
+      "key": "PT08_S106_12_01",
+      "value": "Take down the enemy, Shellmon!"
+    },
+    {
+      "key": "PT08_S106_12_02",
+      "value": "Okay, Miu! I’ll plow right through them!"
+    },
+    {
+      "key": "PT08_S106_21_01",
+      "value": "Wow...! I can feel your determination,\nShellmon!"
+    },
+    {
+      "key": "PT08_S106_21_02",
+      "value": "That’s the power of our bond!\nProof that we’re in sync!"
+    },
+    {
+      "key": "PT08_S224_11_01",
+      "value": "Now that you’re out of your shell, you’re\ninvincible! Right, Mermaimon?"
+    },
+    {
+      "key": "PT08_S224_11_02",
+      "value": "Yes, you’re right! I’ll show you just how\nright you are!"
+    },
+    {
+      "key": "PT08_S224_12_01",
+      "value": "The early bird gets the worm, Mermaimon!"
+    },
+    {
+      "key": "PT08_S224_12_02",
+      "value": "You’re right, Miu! I’ll get the jump on the\nenemy!"
+    },
+    {
+      "key": "PT08_S224_21_01",
+      "value": "Do your best, Mermaimon! I’m here with you!"
+    },
+    {
+      "key": "PT08_S224_21_02",
+      "value": "Thank you, Miu!\nI can really feel your energy!"
+    },
+    {
+      "key": "PT08_S326_11_01",
+      "value": "You have to help everyone, MarineAngemon!"
+    },
+    {
+      "key": "PT08_S326_11_02",
+      "value": "Peep, peep!"
+    },
+    {
+      "key": "PT08_S326_12_01",
+      "value": "Show me the ultimate power, MarineAngemon!"
+    },
+    {
+      "key": "PT08_S326_12_02",
+      "value": "Pyupyu!"
+    },
+    {
+      "key": "PT08_S326_21_01",
+      "value": "Peepyu!"
+    },
+    {
+      "key": "PT08_S326_21_02",
+      "value": "“Do your best, Miu”?\nOkay, I will!"
+    },
+    {
+      "key": "PT08_S326_22_01",
+      "value": "Peep, peepyu!"
+    },
+    {
+      "key": "PT08_S326_22_02",
+      "value": "“Let’s fight together, Miu”?\nOf course, MarineAngemon!"
+    },
+    {
+      "key": "PT11_S911_11_01",
+      "value": "This is no time to talk.\nOur lives are on the line!"
+    },
+    {
+      "key": "PT11_S911_12_01",
+      "value": "How will I ever be forgiven... Or perhaps\nit’s too late me for to want that?"
+    },
+    {
+      "key": "PT11_S000_11_01",
+      "value": "Good... Yes, just like that!"
+    },
+    {
+      "key": "PT11_S901_11_01",
+      "value": "The enemy is powerful, Takuma, but we can\npull through this together."
+    },
+    {
+      "key": "PT11_S901_11_02",
+      "value": "Yes, Professor! I’ll do what I can!"
+    },
+    {
+      "key": "PT11_S901_12_01",
+      "value": "With our combined strength, we can overcome\nany obstacle."
+    },
+    {
+      "key": "PT11_S901_12_02",
+      "value": "You’re right, Professor! As long as we work\ntogether, we can do this!"
+    },
+    {
+      "key": "PT11_S903_11_01",
+      "value": "Don’t lose your nerve, Aoi.\nThe enemy is coming."
+    },
+    {
+      "key": "PT11_S903_11_02",
+      "value": "Yes, I’ll face this danger without fear!"
+    },
+    {
+      "key": "PT11_S903_12_01",
+      "value": "You hold the key to this battle, Aoi."
+    },
+    {
+      "key": "PT11_S903_12_02",
+      "value": "Professor... Okay, I understand!"
+    },
+    {
+      "key": "PT11_S904_11_01",
+      "value": "There’s no room for the fainthearted here,\nMinoru... Let’s face this together!"
+    },
+    {
+      "key": "PT11_S904_11_02",
+      "value": "Yeah, you’re right... Thanks, man.\nI’ll do everything I can!"
+    },
+    {
+      "key": "PT11_S904_12_01",
+      "value": "I see, so the enemy had such numbers...\nAre you ready, Minoru?"
+    },
+    {
+      "key": "PT11_S904_12_02",
+      "value": "Yeah, Professor... I’ll win this fight and\nbecome the hero I wanna be!"
+    },
+    {
+      "key": "PT11_S906_11_01",
+      "value": "What’s wrong, Ryo? Your breathing has become\nquite ragged. Are you all right?"
+    },
+    {
+      "key": "PT11_S906_11_02",
+      "value": "Yeah, Professor... I think I’m fine...\nYeah, I mean I totally fine!"
+    },
+    {
+      "key": "PT11_S906_12_01",
+      "value": "Okay, Ryo, let’s trounce them here.\nAre you prepared?"
+    },
+    {
+      "key": "PT11_S906_12_02",
+      "value": "Of course! I’m always ready to go!"
+    },
+    {
+      "key": "PT11_S905_11_01",
+      "value": "I’m sure you’re worried, Shuuji, but don’t\nlet it swallow you up."
+    },
+    {
+      "key": "PT11_S905_11_02",
+      "value": "I understand, Professor...\nI’ll muster as much courage as I can!"
+    },
+    {
+      "key": "PT11_S905_12_01",
+      "value": "It looks like the tide of battle’s in our\nfavor, Shuuji. I leave it to your leadership."
+    },
+    {
+      "key": "PT11_S905_12_02",
+      "value": "Okay, Professor! I’ll overcome this situation\nwith my strength!"
+    },
+    {
+      "key": "PT11_S907_11_01",
+      "value": "I’m sure that battle scares you, Saki, but\nyou have the courage to stand and fight!"
+    },
+    {
+      "key": "PT11_S907_11_02",
+      "value": "Yeah, thanks, Professor.\nI won’t run away... That’s a promise!"
+    },
+    {
+      "key": "PT11_S907_12_01",
+      "value": "With our strength, we can win this battle!"
+    },
+    {
+      "key": "PT11_S907_12_02",
+      "value": "Yeah... You’re right, Professor.\nWe’ve always fought together like this!"
+    },
+    {
+      "key": "PT11_S902_11_01",
+      "value": "What’s wrong, Kaito? I sense an\nuncharacteristic fear from you."
+    },
+    {
+      "key": "PT11_S902_11_02",
+      "value": "Nngh... Ya saw through me, Prof... But I’m\nfine! I’ll just give that fear to the enemy!"
+    },
+    {
+      "key": "PT11_S902_12_01",
+      "value": "I sense a disturbance in the enemy movements.\nThink we should break through?"
+    },
+    {
+      "key": "PT11_S902_12_02",
+      "value": "Yeah, I was thinking the same thing,\nProfessor. We can crush them with our power!"
+    },
+    {
+      "key": "PT11_S908_11_01",
+      "value": "I’m sure it’s scary, Miu, but this is the\nturning point. Let’s work together!"
+    },
+    {
+      "key": "PT11_S908_11_02",
+      "value": "Yeah, I’m scared, but...I won’t back down!\nI’ll fight through this!"
+    },
+    {
+      "key": "PT11_S908_12_01",
+      "value": "There seems to be movement on the\nbattlefield... Brace yourself, Miu!"
+    },
+    {
+      "key": "PT11_S908_12_02",
+      "value": "Yeah, something seems wrong here...\nTime to get pumped!"
+    },
+    {
+      "key": "PT11_S912_11_01",
+      "value": "Are you all right, sis? You seem a bit\nfrightened..."
+    },
+    {
+      "key": "PT11_S912_11_02",
+      "value": "Yes, but I’m fine...\nYou’re with me, after all!"
+    },
+    {
+      "key": "PT11_S912_12_01",
+      "value": "Fighting with you again like we did in the\npast is like a dream, Miyuki!"
+    },
+    {
+      "key": "PT11_S912_12_02",
+      "value": "Yes, Haru... Just like old times!"
+    },
+    {
+      "key": "PT11_S007_11_01",
+      "value": "Are you okay, Gabumon? Can you fight?"
+    },
+    {
+      "key": "PT11_S007_11_02",
+      "value": "Hmph, I don’t need any concern! Especially\nnot from you!"
+    },
+    {
+      "key": "PT11_S007_21_01",
+      "value": "Do your best, Gabumon! I’m with you!"
+    },
+    {
+      "key": "PT11_S007_21_02",
+      "value": "Yeah, I know! I can do even better when I’m\nwith you, Haru!"
+    },
+    {
+      "key": "PT11_S007_31_01",
+      "value": "It’s been a while since you’ve fought, Haru.\nYou okay? You’re not scared?"
+    },
+    {
+      "key": "PT11_S007_31_02",
+      "value": "Of course I’m fine! Since you’re here,\nthere’s nothing to fear!"
+    },
+    {
+      "key": "PT11_S101_11_01",
+      "value": "Are you nervous, Garurumon?\nHave you gotten scared?"
+    },
+    {
+      "key": "PT11_S101_11_02",
+      "value": "Shut up! This is nothing for me, and I don’t\nneed nothing from you!!!"
+    },
+    {
+      "key": "PT11_S101_21_01",
+      "value": "Garurumon! Show off as much power as\nyou like!"
+    },
+    {
+      "key": "PT11_S101_21_02",
+      "value": "Yeah, I got it! Just make sure to watch over\nme, okay?!"
+    },
+    {
+      "key": "PT11_S101_31_01",
+      "value": "You can do it, Garurumon!\nI believe in you!"
+    },
+    {
+      "key": "PT11_S101_31_02",
+      "value": "Thanks, Haru! I’ll live up to your faith,\nI swear it!"
+    },
+    {
+      "key": "PT11_S218_11_01",
+      "value": "WereGarurumon... Would you fight for us?"
+    },
+    {
+      "key": "PT11_S218_11_02",
+      "value": "No, not for you. I fight for myself...\nNothing more!"
+    },
+    {
+      "key": "PT11_S218_21_01",
+      "value": "Break on through, WereGarurumon!\nNothing to do here but attack!"
+    },
+    {
+      "key": "PT11_S218_21_02",
+      "value": "You said it! Take a good look at my power!"
+    },
+    {
+      "key": "PT11_S218_31_01",
+      "value": "Proceed with caution! Okay, WereGarurumon?!"
+    },
+    {
+      "key": "PT11_S218_31_02",
+      "value": "Yeah, you got it, Haru! I’ll be careful!"
+    },
+    {
+      "key": "PT11_S301_11_01",
+      "value": "MetalGarurumon! These enemies should be\na mere trifle for you!"
+    },
+    {
+      "key": "PT11_S301_11_02",
+      "value": "Leave it to me, Haru! I’ll send these guys\npacking in an instant!"
+    },
+    {
+      "key": "PT11_S301_12_01",
+      "value": "Okay, MetalGarurumon!\nShow me your ultimate power!"
+    },
+    {
+      "key": "PT11_S301_12_02",
+      "value": "Okay, Haru! I’ll put the strength I got from\nyou on full display!"
+    },
+    {
+      "key": "PT11_S301_21_01",
+      "value": "The battle’s about to reach a fever pitch...\nAre you okay with that?"
+    },
+    {
+      "key": "PT11_S301_21_02",
+      "value": "What’re you saying, MetalGarurumon? I have no\nfears as long as you’re around!"
+    },
+    {
+      "key": "PT11_S301_22_01",
+      "value": "I’m feeling amazing, Haru... I finally get to\nbe with you like this again!"
+    },
+    {
+      "key": "PT11_S301_22_02",
+      "value": "MetalGarurumon... I feel the same...\nI’m positively brimming with courage!"
+    },
+    {
+      "key": "PT11_S402_11_01",
+      "value": "Omegamon! It’s time to put an end to this\nbattle!"
+    },
+    {
+      "key": "PT11_S402_11_02",
+      "value": "You’re right, Haru! I’ll finish things with\nthis power!"
+    },
+    {
+      "key": "PT11_S402_12_01",
+      "value": "Omegamon... Simply incredible! To think that\ntwo powers would join as one...!!!"
+    },
+    {
+      "key": "PT11_S402_12_02",
+      "value": "No, not two, Haru. With you and Takuma, that\nmakes four powers dwelling in this body."
+    },
+    {
+      "key": "PT11_S402_21_01",
+      "value": "Leave this to me, Haru!"
+    },
+    {
+      "key": "PT11_S402_21_02",
+      "value": "Okay, Omegamon! I’m counting on that power!"
+    },
+    {
+      "key": "PT11_S402_22_01",
+      "value": "Don’t worry, Haru... As long as I have this\npower, I won’t lose to anyone!"
+    },
+    {
+      "key": "PT11_S402_22_02",
+      "value": "I know, Omegamon... I have high hopes for\nthat amalgam of ultimate power!"
+    },
+    {
+      "key": "PT12_S912_11_01",
+      "value": "I’ll give my all in this battle!"
+    },
+    {
+      "key": "PT12_S000_11_01",
+      "value": "We can all win together.\nI know that much...!"
+    },
+    {
+      "key": "PT12_S901_11_01",
+      "value": "Let’s survive together, Takuma!"
+    },
+    {
+      "key": "PT12_S901_11_02",
+      "value": "Yeah, of course! We’ll definitely get through\nthis!"
+    },
+    {
+      "key": "PT12_S901_12_01",
+      "value": "Let’s do our best, Takuma! I’ll do\neverything I can, I promise!"
+    },
+    {
+      "key": "PT12_S901_12_02",
+      "value": "Sure, Miyuki! Let’s do this together!"
+    },
+    {
+      "key": "PT12_S903_11_01",
+      "value": "The enemy is strong, Aoi, but there’s no one\nwe can’t beat."
+    },
+    {
+      "key": "PT12_S903_11_02",
+      "value": "Yes... Yes, you’re right, Miyuki.\nOkay... I’ll do my best!"
+    },
+    {
+      "key": "PT12_S903_12_01",
+      "value": "We’ll get through this battle with our\nstrength, Aoi!"
+    },
+    {
+      "key": "PT12_S903_12_02",
+      "value": "Yes, you’re right, Miyuki. As long as I’m\nwith you...I feel like it’ll be all right!"
+    },
+    {
+      "key": "PT12_S904_11_01",
+      "value": "Keep focused, Minoru.\nThis isn’t the place to lose heart."
+    },
+    {
+      "key": "PT12_S904_11_02",
+      "value": "Heh, man, talk about pathetic...getting\ncheered up by a kid. Fine, here I go!"
+    },
+    {
+      "key": "PT12_S904_12_01",
+      "value": "I know you can make it through this, Minoru.\nTake it from me!"
+    },
+    {
+      "key": "PT12_S904_12_02",
+      "value": "Heh heh, thanks for the peace of mind!\nI actually feel pretty awesome now!"
+    },
+    {
+      "key": "PT12_S906_11_01",
+      "value": "Stop shaking, Ryo. The enemy’s watching."
+    },
+    {
+      "key": "PT12_S906_11_02",
+      "value": "Oh, shaddup! I ain’t shaking!\nI’m the strongest, you hear?!"
+    },
+    {
+      "key": "PT12_S906_12_01",
+      "value": "With you here, Ryo, I feel like we can’t lose\nthis fight!"
+    },
+    {
+      "key": "PT12_S906_12_02",
+      "value": "Well hey, looks like you get it!\nThat’s Miyuki for you!"
+    },
+    {
+      "key": "PT12_S905_11_01",
+      "value": "I know it’s scary, Shuuji, but right now..."
+    },
+    {
+      "key": "PT12_S905_11_02",
+      "value": "Yeah, I’ll keep it in check. I’m sure I’m\ncapable of that now!"
+    },
+    {
+      "key": "PT12_S905_12_01",
+      "value": "Focus on the fight, Shuuji. We need to make\nsure everyone survives!"
+    },
+    {
+      "key": "PT12_S905_12_02",
+      "value": "Yeah, everyone’s depending on me.\nThat’s why I can’t lose my cool!"
+    },
+    {
+      "key": "PT12_S907_11_01",
+      "value": "Are you okay, Saki? You look a bit nervous."
+    },
+    {
+      "key": "PT12_S907_11_02",
+      "value": "I’m...I’m fine. Totally fine, I swear!"
+    },
+    {
+      "key": "PT12_S907_12_01",
+      "value": "From the looks of the enemy, there’s no way\nyou can lose, Saki!"
+    },
+    {
+      "key": "PT12_S907_12_02",
+      "value": "Uh, yeah, I guess you’re right!\nBesides, losing’s not in our vocabulary!"
+    },
+    {
+      "key": "PT12_S902_11_01",
+      "value": "Don’t tell me you’re scared, Kaito? If so,\nthen pull yourself together!"
+    },
+    {
+      "key": "PT12_S902_11_02",
+      "value": "Damn, you saw right through me... Fine, I’ll\nput more guts into it!"
+    },
+    {
+      "key": "PT12_S902_12_01",
+      "value": "Let’s do our best together, Kaito.\nWe can win with your strength!"
+    },
+    {
+      "key": "PT12_S902_12_02",
+      "value": "Yeah, you’re right. Together we’ll finish\nthis fight!"
+    },
+    {
+      "key": "PT12_S908_11_01",
+      "value": "Is it scary, Miu? Don’t worry, we’re all here\nwith you!"
+    },
+    {
+      "key": "PT12_S908_11_02",
+      "value": "Yeah... This is no time to get scared.\nI’ll work hard with everyone!"
+    },
+    {
+      "key": "PT12_S908_12_01",
+      "value": "I won’t let the enemy do as they please\nanymore. So fight without fear, Miu!"
+    },
+    {
+      "key": "PT12_S908_12_02",
+      "value": "Okay! I believe in you, Miyuki! You’re our\nfriend, after all!"
+    },
+    {
+      "key": "PT12_S911_11_01",
+      "value": "Are you scared, Haru?\nIt’s okay, I’m here with you."
+    },
+    {
+      "key": "PT12_S911_11_02",
+      "value": "You always used to say that to me...\nThose words always gave me courage!"
+    },
+    {
+      "key": "PT12_S911_12_01",
+      "value": "You’re much stronger than you used to be,\nHaru... So don’t worry!"
+    },
+    {
+      "key": "PT12_S911_12_02",
+      "value": "Yes, I’m different from before... This time,\nit’s my turn to save you!"
+    },
+    {
+      "key": "PT12_S016_11_01",
+      "value": "In order to save Miyuki...\nI’ll do whatever it takes!"
+    },
+    {
+      "key": "PT12_S016_21_01",
+      "value": "Renamon! Don’t let the enemy get the jump on\nyou!"
+    },
+    {
+      "key": "PT12_S016_21_02",
+      "value": "Of course! Speed is my specialty, after all!"
+    },
+    {
+      "key": "PT12_S016_31_01",
+      "value": "Miyuki! I know you haven’t fought for\na while, but don’t worry, I’m here with you!"
+    },
+    {
+      "key": "PT12_S016_31_02",
+      "value": "I know, Renamon! I’m not scared of anything\nwhen you’re around!"
+    },
+    {
+      "key": "PT12_S125_11_01",
+      "value": "Miyuki... I’ll be the one to protect you...!"
+    },
+    {
+      "key": "PT12_S125_21_01",
+      "value": "Do your best, Kyubimon! I believe in your\nstrength!"
+    },
+    {
+      "key": "PT12_S125_21_02",
+      "value": "I’ll live up to your faith!\nJust watch, Miyuki!"
+    },
+    {
+      "key": "PT12_S125_31_01",
+      "value": "Pull yourself together, Kyubimon!"
+    },
+    {
+      "key": "PT12_S125_31_02",
+      "value": "Yes, sorry to make you worry, Miyuki... I’m\nokay now!"
+    },
+    {
+      "key": "PT12_S225_11_01",
+      "value": "There’s no way I can lose this battle...\nFor Miyuki’s sake!"
+    },
+    {
+      "key": "PT12_S225_21_01",
+      "value": "Plunge through the enemy, Taomon!"
+    },
+    {
+      "key": "PT12_S225_21_02",
+      "value": "Understood!\nI’ll slaughter them at full power!"
+    },
+    {
+      "key": "PT12_S225_31_01",
+      "value": "Taomon... Are you okay?\nCan you still fight?"
+    },
+    {
+      "key": "PT12_S225_31_02",
+      "value": "Ah, yes... I’m fine.\nIt’s time to turn things around!"
+    },
+    {
+      "key": "PT12_S334_11_01",
+      "value": "A future with Miyuki...\nThis is all I desire!"
+    },
+    {
+      "key": "PT12_S334_21_01",
+      "value": "Are you tired, Sakuyamon?\nDo you want a rest?"
+    },
+    {
+      "key": "PT12_S334_21_02",
+      "value": "No, I’m fine, Miyuki... I won’t let a foe\nsuch as this get the better of me!"
+    },
+    {
+      "key": "PT12_S334_22_01",
+      "value": "Let’s do our best, Sakuyamon!"
+    },
+    {
+      "key": "PT12_S334_22_02",
+      "value": "Yes, Miyuki! With you here, I won’t lose to\nany foe!"
+    },
+    {
+      "key": "PT12_S334_31_01",
+      "value": "Are you frightened, Miyuki? This battle is\nsure to get harder..."
+    },
+    {
+      "key": "PT12_S334_31_02",
+      "value": "No, I’m not scared at all.\nYou’re with me, after all!"
+    },
+    {
+      "key": "PT12_S334_32_01",
+      "value": "Miyuki! I’m so happy the two of us can fight\ntogether again like this!"
+    },
+    {
+      "key": "PT12_S334_32_02",
+      "value": "I feel the same, Sakuyamon!"
+    },
+    {
+      "key": "PT12_S328_11_01",
+      "value": "Miyuki’s happiness is my happiness.\nYes...that’s all I need!"
+    },
+    {
+      "key": "PT12_S328_21_01",
+      "value": "Do your best out there, Sakuyamon!"
+    },
+    {
+      "key": "PT12_S328_21_02",
+      "value": "As you wish, Miyuki!"
+    },
+    {
+      "key": "PT12_S328_22_01",
+      "value": "Let’s get through this battle together,\nSakuyamon!"
+    },
+    {
+      "key": "PT12_S328_22_02",
+      "value": "Of course, Miyuki!\nLet’s move forward together!"
+    },
+    {
+      "key": "PT12_S328_31_01",
+      "value": "Believe in me, Miyuki!\nI promise I’ll protect you!"
+    },
+    {
+      "key": "PT12_S328_31_02",
+      "value": "Yes, Sakuyamon, I will!"
+    },
+    {
+      "key": "PT12_S328_32_01",
+      "value": "I’ll crush the enemy with my power, Miyuki!"
+    },
+    {
+      "key": "PT12_S328_32_02",
+      "value": "The power of a maid... Yes, you can do it...\nI know you can!"
+    },
+    {
+      "key": "PT01_S310_11_01",
+      "value": "You can do it, Fanglongmon!"
+    },
+    {
+      "key": "PT01_S310_11_02",
+      "value": "I will never be defeated!"
+    },
+    {
+      "key": "PT01_S310_12_01",
+      "value": "Let’s go, Fanglongmon!"
+    },
+    {
+      "key": "PT01_S310_12_02",
+      "value": "As you say, Takuma!"
+    },
+    {
+      "key": "PT01_S310_21_01",
+      "value": "As long as you do not give in, I will fight\nwith all I have."
+    },
+    {
+      "key": "PT01_S310_21_02",
+      "value": "Fanglongmon! You got more in you, right?\nOkay, let’s do this for everyone!"
+    },
+    {
+      "key": "PT01_S310_22_01",
+      "value": "All shall be as you wish, Takuma."
+    },
+    {
+      "key": "PT01_S310_22_02",
+      "value": "Fanglongmon... Thank you!"
+    },
+    {
+      "key": "PT03_S307_11_01",
+      "value": "Believe in me, Baihumon!"
+    },
+    {
+      "key": "PT03_S307_11_02",
+      "value": "Of course, Aoi... Your wish is my command."
+    },
+    {
+      "key": "PT03_S307_12_01",
+      "value": "Don’t take the enemy lightly, Baihumon!"
+    },
+    {
+      "key": "PT03_S307_12_02",
+      "value": "I concur. They seem formidable, indeed."
+    },
+    {
+      "key": "PT03_S307_21_01",
+      "value": "This shall not end in tragedy, Aoi. In that\nI believe."
+    },
+    {
+      "key": "PT03_S307_21_02",
+      "value": "You’re right, Baihumon! I feel the same!"
+    },
+    {
+      "key": "PT03_S307_22_01",
+      "value": "I shall be the one to make your dream a\nreality, Aoi. Here and now, witness my power!"
+    },
+    {
+      "key": "PT03_S307_22_02",
+      "value": "You’re right, Baihumon! I just have to wish\nwith all my heart!"
+    },
+    {
+      "key": "PT04_S306_11_01",
+      "value": "You good, Zhuqiaomon?!"
+    },
+    {
+      "key": "PT04_S306_11_02",
+      "value": "Good? Is that what it means to be a hero? At\nthe very least, I’m in better shape than you."
+    },
+    {
+      "key": "PT04_S306_12_01",
+      "value": "That’s the spirit! Show ’em what we’re made\nof, Zhuqiaomon!"
+    },
+    {
+      "key": "PT04_S306_12_02",
+      "value": "But of course, Minoru. I hear you, loud and\nclear!"
+    },
+    {
+      "key": "PT04_S306_21_01",
+      "value": "Now, Minoru! Unleash that heroic spirit!"
+    },
+    {
+      "key": "PT04_S306_21_02",
+      "value": "You got it, Zhuqiaomon! I’ll give it\neverything I’ve got!"
+    },
+    {
+      "key": "PT04_S306_22_01",
+      "value": "Say no more, Minoru. Our victory is at hand!"
+    },
+    {
+      "key": "PT04_S306_22_02",
+      "value": "Dang, Zhuqiaomon...! You’re a true-blue hero!"
+    },
+    {
+      "key": "PT07_S309_11_01",
+      "value": "Please, Ebonwumon! Let me fight with you!"
+    },
+    {
+      "key": "PT07_S309_11_02",
+      "value": "Ah, Saki, what a beautiful smile. It fills me\nto bursting with power!"
+    },
+    {
+      "key": "PT07_S309_12_01",
+      "value": "Take them all out, Ebonwumon!"
+    },
+    {
+      "key": "PT07_S309_12_02",
+      "value": "Hmph, very well."
+    },
+    {
+      "key": "PT07_S309_21_01",
+      "value": "Ah, the pleasures of a long life. It feels as\nif you give me power, Saki."
+    },
+    {
+      "key": "PT07_S309_21_02",
+      "value": "Thank you, Ebonwumon! I’ll do all I can to\nhelp!"
+    },
+    {
+      "key": "PT07_S309_22_01",
+      "value": "Do not lose heart, Saki. Our bond is our\nstrength!"
+    },
+    {
+      "key": "PT07_S309_22_02",
+      "value": "I’m fine, I tell you! Don’t worry about me,\njust focus on the fight, Ebonwumon!"
+    },
+    {
+      "key": "PT08_S308_11_01",
+      "value": "Azulongmon’s the strongest there is! Isn’t\nthat right?!"
+    },
+    {
+      "key": "PT08_S308_11_02",
+      "value": "Indeed, I shall not lose to anyone. We stand\nas one!"
+    },
+    {
+      "key": "PT08_S308_12_01",
+      "value": "Do it, Azulongmon! Take them down, and take\nthem down hard!"
+    },
+    {
+      "key": "PT08_S308_12_02",
+      "value": "As you wish, Miu! Witness my power!"
+    },
+    {
+      "key": "PT08_S308_21_01",
+      "value": "Fret not, Miu. I, the guardian of this world,\nam by your side."
+    },
+    {
+      "key": "PT08_S308_21_02",
+      "value": "Do it to it, Azulongmon! I’m fighting right\nhere with you!"
+    },
+    {
+      "key": "PT08_S308_22_01",
+      "value": "Indeed, Miu. Many others are wishing for our\ntriumph!"
+    },
+    {
+      "key": "PT08_S308_22_02",
+      "value": "For our friends... No, for us! We’ve gotta\nfight, Azulongmon!"
+    }
+  ]
+}

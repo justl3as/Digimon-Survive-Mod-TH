@@ -1,0 +1,40 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0633_0003",
+      "value": "What the heck?!"
+    },
+    {
+      "key": "EP01_S0633_0004",
+      "value": "Huh? Nothing’s here? But the camera\ndefinitely picked up something."
+    },
+    {
+      "key": "EP01_S0633_0101",
+      "value": "Hmm? What’s this....?"
+    },
+    {
+      "key": "EP01_S0633_0102",
+      "value": "What is it, Minoru?"
+    },
+    {
+      "key": "EP01_S0633_0005",
+      "value": "Heyyy, you guuuys! There’s a weird thingy\nover here!"
+    },
+    {
+      "key": "EP01_S0633_0103",
+      "value": "Weird thingy?"
+    },
+    {
+      "key": "EP01_S0633_0104",
+      "value": "Who knows what that could mean..."
+    },
+    {
+      "key": "EP01_S0633_0105",
+      "value": "Wha—hey! Don’t just go off on your own!"
+    },
+    {
+      "key": "EP01_S0633_0006",
+      "value": "Grrr... Fine, we’ll all go together!"
+    }
+  ]
+}

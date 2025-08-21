@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1732_0001",
+      "value": "*huff*...*huff*... Oof!"
+    },
+    {
+      "key": "EP02_S1732_0002",
+      "value": "Are you okay? Let’s rest for a bit."
+    },
+    {
+      "key": "EP02_S1732_0003",
+      "value": "It’s fine. It’d be riskier to stop now..."
+    },
+    {
+      "key": "EP02_S1732_0004",
+      "value": "What? What do you mean?"
+    },
+    {
+      "key": "EP02_S1732_0005",
+      "value": "Takuma!"
+    },
+    {
+      "key": "EP02_S1732_0006",
+      "value": "Damn... They noticed."
+    },
+    {
+      "key": "EP02_S1732_0007",
+      "value": "This is what I meant..."
+    },
+    {
+      "key": "EP02_S1732_0008",
+      "value": "Whatever. Time for some fun."
+    }
+  ]
+}

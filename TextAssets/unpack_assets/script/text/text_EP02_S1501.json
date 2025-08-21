@@ -1,0 +1,316 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1501_0001",
+      "value": "All right, now that we’ve taken care of our\nsupplies..."
+    },
+    {
+      "key": "EP02_S1501_0002",
+      "value": "Why don’t we look around as much as we can?"
+    },
+    {
+      "key": "EP02_S1501_0003",
+      "value": "The emergency rations are ready-to-eat, so we\ncould travel around and camp out with them."
+    },
+    {
+      "key": "EP02_S1501_0004",
+      "value": "You forget about those monsters roaming\naround outside? Or have you finally lost it?"
+    },
+    {
+      "key": "EP02_S1501_0201",
+      "value": "And remember, that fog out there is\ndangerous."
+    },
+    {
+      "key": "EP02_S1501_0202",
+      "value": "That’s right! We have to keep away from the\nfog."
+    },
+    {
+      "key": "EP02_S1501_0203",
+      "value": "Okay, sure, but the sun’s out right now. It’s\na perfectly clear, beautiful day."
+    },
+    {
+      "key": "EP02_S1501_0204",
+      "value": "True, the fog isn’t always out. It appears\nonly rarely, when you’ve nearly forgotten it."
+    },
+    {
+      "key": "EP02_S1501_0205",
+      "value": "Even so, Minoru, it could still roll in when\nwe least expect it and cut us off."
+    },
+    {
+      "key": "EP02_S1501_0206",
+      "value": "Oh... Huh."
+    },
+    {
+      "key": "EP02_S1501_0005",
+      "value": "But the professor, Saki and Shuuji might be\nout there somewhere."
+    },
+    {
+      "key": "EP02_S1501_0006",
+      "value": "Not a chance! And if they were, there’s no\npoint in us going after them."
+    },
+    {
+      "key": "EP02_S1501_0007",
+      "value": "They may be out there, but we can’t risk\nourselves over a mere possibility."
+    },
+    {
+      "key": "EP02_S1501_0008",
+      "value": "Um..."
+    },
+    {
+      "key": "EP02_S1501_0009",
+      "value": "What’s up, Haru?\nSomething wrong?"
+    },
+    {
+      "key": "EP02_S1501_0010",
+      "value": "I found this in the forest..."
+    },
+    {
+      "key": "EP02_S1501_0011",
+      "value": "Isn’t that the professor’s hat?"
+    },
+    {
+      "key": "EP02_S1501_0012",
+      "value": "It is!\nI thought it looked familiar..."
+    },
+    {
+      "key": "EP02_S1501_0013",
+      "value": "I knew it! They’re here!"
+    },
+    {
+      "key": "EP02_S1501_0014",
+      "value": "Then we need to go look for them!"
+    },
+    {
+      "key": "EP02_S1501_0015",
+      "value": "Are you crazy?\nWe’re gonna be safer here."
+    },
+    {
+      "key": "EP02_S1501_0016",
+      "value": "Hmm..."
+    },
+    {
+      "key": "EP02_S1501_0017",
+      "value": "Think about it: It’s already been a day,\nright? Things are working out for us..."
+    },
+    {
+      "key": "EP02_S1501_0018",
+      "value": "But with no food or drink to come by, those\nguys could be in bad shape."
+    },
+    {
+      "key": "EP02_S1501_0019",
+      "value": "...Yes, that is true."
+    },
+    {
+      "key": "EP02_S1501_0020",
+      "value": "Fine. We won’t leave their fates to chance!"
+    },
+    {
+      "key": "EP02_S1501_0021",
+      "value": "What? Hey!\nYou got a death wish?!"
+    },
+    {
+      "key": "EP02_S1501_0022",
+      "value": "Not while we’re around!"
+    },
+    {
+      "key": "EP02_S1501_0023",
+      "value": "Indeed. We’re going with her."
+    },
+    {
+      "key": "EP02_S1501_0024",
+      "value": "If any baddie comes your way, I’ll fight ’em\noff for you, Aoi!"
+    },
+    {
+      "key": "EP02_S1501_0025",
+      "value": "...Yes, I know. Thank you."
+    },
+    {
+      "key": "EP02_S1501_0026",
+      "value": "It’s too dangerous for Miyuki and Haru, so\nthey’ll stay here. Me, Takuma and Aoi will—"
+    },
+    {
+      "key": "EP02_S1501_0027",
+      "value": "Now hold on, you expect me to play babysitter\nfor those brats?!"
+    },
+    {
+      "key": "EP02_S1501_0028",
+      "value": "What’ll I do if another one of those spider\nmonsters attacks us?!"
+    },
+    {
+      "key": "EP02_S1501_0213",
+      "value": "It’s not like this stupid caterpillar’s gonna\nkeep us safe!"
+    },
+    {
+      "key": "EP02_S1501_0029",
+      "value": "Kunemon’s not some stupid caterpillar!"
+    },
+    {
+      "key": "EP02_S1501_0030",
+      "value": "Kewww..."
+    },
+    {
+      "key": "EP02_S1501_0031",
+      "value": "And Kunemon here can handle himself!"
+    },
+    {
+      "key": "EP02_S1501_0032",
+      "value": "News to me!\nHmph..."
+    },
+    {
+      "key": "EP02_S1501_0033",
+      "value": "(We might indeed run into something like\nDokugumon again.)"
+    },
+    {
+      "key": "EP02_S1501_0034",
+      "value": "(We can’t abandon the guys out there just for Ryo.)"
+    },
+    {
+      "key": "EP02_S1501_Q1",
+      "value": "(What should I say to Ryo?)"
+    },
+    {
+      "key": "EP02_S1501_Q1_A1",
+      "value": "Look after Haru and Miyuki."
+    },
+    {
+      "key": "EP02_S1501_Q1_A2",
+      "value": "Do what you want."
+    },
+    {
+      "key": "EP02_S1501_Q1_A3",
+      "value": "Nowhere is safe."
+    },
+    {
+      "key": "EP02_S1501_0035",
+      "value": "The guys out there may be in trouble, so we\nmust help them. I’m sorry, but we’re going."
+    },
+    {
+      "key": "EP02_S1501_0036",
+      "value": "And then, if the school is attacked, you’ll\nbe the only one who can protect the kids."
+    },
+    {
+      "key": "EP02_S1501_0037",
+      "value": "I told you that’s no good!"
+    },
+    {
+      "key": "EP02_S1501_0038",
+      "value": "If something does happen...\nI’ll be safer with you guys..."
+    },
+    {
+      "key": "EP02_S1501_0039",
+      "value": "Do what you want, Ryo."
+    },
+    {
+      "key": "EP02_S1501_0040",
+      "value": "We’re going to help Saki and the others.\nYou can do whatever."
+    },
+    {
+      "key": "EP02_S1501_0041",
+      "value": "What are you saying?"
+    },
+    {
+      "key": "EP02_S1501_0042",
+      "value": "You’d need to be strong for that.\nMe? I’m a total weakling..."
+    },
+    {
+      "key": "EP02_S1501_0043",
+      "value": "There are no safe places, Ryo."
+    },
+    {
+      "key": "EP02_S1501_0044",
+      "value": "There might be unknown dangers in the forest.\nYou might be attacked here, too."
+    },
+    {
+      "key": "EP02_S1501_0045",
+      "value": "You’ll have to figure out how to survive."
+    },
+    {
+      "key": "EP02_S1501_0046",
+      "value": "Ungh!\nWho made you boss?"
+    },
+    {
+      "key": "EP02_S1501_0047",
+      "value": "Fine, fine, I’ll go with you...\nBetter than sticking around here."
+    },
+    {
+      "key": "EP02_S1501_0048",
+      "value": "Weren’t you gonna hold down the fort, Ryo?\nYou can stay here, y’know."
+    },
+    {
+      "key": "EP02_S1501_0049",
+      "value": "Shut up! I’m saying I’ll cooperate\nwith you! Aren’t you happy?"
+    },
+    {
+      "key": "EP02_S1501_0050",
+      "value": "Not really sensing that cooperative spirit\nfrom you there, champ."
+    },
+    {
+      "key": "EP02_S1501_0207",
+      "value": "Minoru, enough of that, okay? Ryo is older\nthan you. You shouldn’t talk down to him."
+    },
+    {
+      "key": "EP02_S1501_0208",
+      "value": "Right. Sorry, Mom."
+    },
+    {
+      "key": "EP02_S1501_0209",
+      "value": "Hmph!"
+    },
+    {
+      "key": "EP02_S1501_0051",
+      "value": "Whatever Ryo says, it would still be safer to\nhide inside the school, wouldn’t it?"
+    },
+    {
+      "key": "EP02_S1501_0052",
+      "value": "...I agree."
+    },
+    {
+      "key": "EP02_S1501_0053",
+      "value": "Hey, if there’s any trouble, just hide inside\nthat pantry, okay?"
+    },
+    {
+      "key": "EP02_S1501_0054",
+      "value": "It’s fine. Don’t worry about us..."
+    },
+    {
+      "key": "EP02_S1501_0055",
+      "value": "All right, then. You keep an eye on your\nbrother, okay, Miyuki?"
+    },
+    {
+      "key": "EP02_S1501_0056",
+      "value": "Backwards..."
+    },
+    {
+      "key": "EP02_S1501_0057",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP02_S1501_0210",
+      "value": "Oh, you mean...Haru looks after you?"
+    },
+    {
+      "key": "EP02_S1501_0211",
+      "value": "..."
+    },
+    {
+      "key": "EP02_S1501_0212",
+      "value": "(She’s nodding. It’s weird how Miyuki hardly\never talks. I wish she would say more.)"
+    },
+    {
+      "key": "EP02_S1501_0058",
+      "value": "...Bye."
+    },
+    {
+      "key": "EP02_S1501_0059",
+      "value": "...Yeah, uh, see you."
+    },
+    {
+      "key": "EP02_S1501_0060",
+      "value": "(I’m a little worried about leaving those two\nbehind...)"
+    },
+    {
+      "key": "EP02_S1501_0061",
+      "value": "(But for now, we’d better focus on finding\nthe others, and quick.)"
+    }
+  ]
+}

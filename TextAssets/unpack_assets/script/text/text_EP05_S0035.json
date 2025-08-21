@@ -1,0 +1,212 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0035_0001",
+      "value": "We’re almost there now."
+    },
+    {
+      "key": "EP05_S0035_0002",
+      "value": "It’s unknown territory from here on in.\nDo what I say everyone, got it?"
+    },
+    {
+      "key": "EP05_S0035_0003",
+      "value": "..."
+    },
+    {
+      "key": "EP05_S0035_0004",
+      "value": "..."
+    },
+    {
+      "key": "EP05_S0035_0005",
+      "value": "Hey! I said, “Got it”?!"
+    },
+    {
+      "key": "EP05_S0035_0006",
+      "value": "Sirrr, yes sirrr..."
+    },
+    {
+      "key": "EP05_S0035_0007",
+      "value": "Man, what a pain..."
+    },
+    {
+      "key": "EP05_S0035_0008",
+      "value": "Saki...!"
+    },
+    {
+      "key": "EP05_S0035_0009",
+      "value": "Hey! How dare you say that to me?! That’s no\nway to speak to someone older than you!"
+    },
+    {
+      "key": "EP05_S0035_0010",
+      "value": "If you’re older, then friggin’ act like it..."
+    },
+    {
+      "key": "EP05_S0035_0011",
+      "value": "Excuse me?!"
+    },
+    {
+      "key": "EP05_S0035_0012",
+      "value": "Stop blowin’ your top over every little\nthing. Pain in the neck..."
+    },
+    {
+      "key": "EP05_S0035_0013",
+      "value": "Pain in the...?! I’m only saying the truth!"
+    },
+    {
+      "key": "EP05_S0035_0014",
+      "value": "All you’ve done is say things to divide us!\nNow of all times, we need to stick together—"
+    },
+    {
+      "key": "EP05_S0035_0015",
+      "value": "I’m the one “dividing” us?! Take a look in\nthe mirror! Can’t you see what you’re doing?!"
+    },
+    {
+      "key": "EP05_S0035_0016",
+      "value": "What, why youuu...!"
+    },
+    {
+      "key": "EP05_S0035_0017",
+      "value": "Oooo, we got a fight on our hands, here?\nC’mon, y’all, place your bets!"
+    },
+    {
+      "key": "EP05_S0035_0018",
+      "value": "Hey, now! Don’t encourage them!"
+    },
+    {
+      "key": "EP05_S0035_0019",
+      "value": "Oh my, this is kinda bad, isn’t it?"
+    },
+    {
+      "key": "EP05_S0035_0020",
+      "value": "Jeepers! Hey Takuma, you gotta stop those\ntwo!"
+    },
+    {
+      "key": "EP05_S0035_0021",
+      "value": "Yeah I know, it’s just..."
+    },
+    {
+      "key": "EP05_S0035_0022",
+      "value": "(Shuuji has clearly lost his cool. I have to\ncalm him down so he listens to reason.)"
+    },
+    {
+      "key": "EP05_S0035_0023",
+      "value": "(Hmm, or maybe I should let them fight it out\nand clear the air?)"
+    },
+    {
+      "key": "EP05_S0035_0024",
+      "value": "(Then again, if I don’t get Kaito to calm\ndown, I doubt it’ll get settled here...)"
+    },
+    {
+      "key": "EP05_S0035_Q1",
+      "value": "(So, what should I do?)"
+    },
+    {
+      "key": "EP05_S0035_Q1_A1",
+      "value": "Get them to listen."
+    },
+    {
+      "key": "EP05_S0035_Q1_A2",
+      "value": "Let them fight!"
+    },
+    {
+      "key": "EP05_S0035_Q1_A3",
+      "value": "Let Miu handle this."
+    },
+    {
+      "key": "EP05_S0035_0026",
+      "value": "Shuuji, could you calm down and listen a bit\nmore to what everyone’s saying?"
+    },
+    {
+      "key": "EP05_S0035_0027",
+      "value": "I haven’t done anything wrong! It’s you guys\nwho’re in the wrong here!"
+    },
+    {
+      "key": "EP05_S0035_0028",
+      "value": "No one’s listening to me, why the heck should\nI listen to what any of you have to say?!"
+    },
+    {
+      "key": "EP05_S0035_0029",
+      "value": "Uh, Shuuji, I don’t think that’s..."
+    },
+    {
+      "key": "EP05_S0035_0030",
+      "value": "*sigh*... He’s the worst."
+    },
+    {
+      "key": "EP05_S0035_0031",
+      "value": "I can’t even talk to this guy."
+    },
+    {
+      "key": "EP05_S0035_0033",
+      "value": "All right, you two. Just say what you want to\nsay."
+    },
+    {
+      "key": "EP05_S0035_0034",
+      "value": "If you’ve got something to complain about,\nlet it all out. You’ll feel better."
+    },
+    {
+      "key": "EP05_S0035_0035",
+      "value": "Oh... But what if it escalates to physical\nviolence?"
+    },
+    {
+      "key": "EP05_S0035_0036",
+      "value": "Who cares? I ain’t got nothing to say."
+    },
+    {
+      "key": "EP05_S0035_0037",
+      "value": "Hey! I’m not finished talking!"
+    },
+    {
+      "key": "EP05_S0035_0038",
+      "value": "This is just a waste of time."
+    },
+    {
+      "key": "EP05_S0035_0040",
+      "value": "You’re up, Miu."
+    },
+    {
+      "key": "EP05_S0035_0041",
+      "value": "Huh? Me?"
+    },
+    {
+      "key": "EP05_S0035_0042",
+      "value": "You just handle Kaito, okay? You can leave\nShuuji to me."
+    },
+    {
+      "key": "EP05_S0035_0043",
+      "value": "Hey, you leave Miu out of this."
+    },
+    {
+      "key": "EP05_S0035_0044",
+      "value": "All right, already. No need to glare like\nthat. Now’s not the time to fight, is it?"
+    },
+    {
+      "key": "EP05_S0035_0045",
+      "value": "But I ain’t trying to..."
+    },
+    {
+      "key": "EP05_S0035_0046",
+      "value": "*sigh*... Man, this is so stupid."
+    },
+    {
+      "key": "EP05_S0035_0047",
+      "value": "Let’s go, already. The sun’ll set before we\nget there, at this rate."
+    },
+    {
+      "key": "EP05_S0035_0048",
+      "value": "Wha’?\nHey, you! Don’t just go off on your own!"
+    },
+    {
+      "key": "EP05_S0035_0049",
+      "value": "Damn... Why are all of you...?"
+    },
+    {
+      "key": "EP05_S0035_0050",
+      "value": "Ah, Shuuji! Wait up!"
+    },
+    {
+      "key": "EP05_S0035_0051",
+      "value": "Ho ho ho..."
+    }
+  ]
+}

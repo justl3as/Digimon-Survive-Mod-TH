@@ -1,0 +1,168 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9113_0001",
+      "value": "Finished going over my part of the\ningredients, Aoi!"
+    },
+    {
+      "key": "EP12_S9113_0002",
+      "value": "Thanks. I should be done with mine soon too,\nso hold on just a minute."
+    },
+    {
+      "key": "EP12_S9113_0003",
+      "value": "Checking on our ingredients, Aoi?"
+    },
+    {
+      "key": "EP12_S9113_0004",
+      "value": "Oh, hi Takuma. Yes, I’ve been thinking of\nwhat to make with what we still have stored."
+    },
+    {
+      "key": "EP12_S9113_0005",
+      "value": "There’s not much left, and since this will\nall be over soon, I want to make a feast."
+    },
+    {
+      "key": "EP12_S9113_0006",
+      "value": "Sounds good to me! Need any help with\nanything?"
+    },
+    {
+      "key": "EP12_S9113_0007",
+      "value": "No, I’m just about done here, and Saki will\nbe helping me cook, so I’m all set."
+    },
+    {
+      "key": "EP12_S9113_0008",
+      "value": "Oh yeah, Saki..."
+    },
+    {
+      "key": "EP12_S9113_0009",
+      "value": "What is it, Takuma? Is something wrong?"
+    },
+    {
+      "key": "EP12_S9113_0010",
+      "value": "Well, you see..."
+    },
+    {
+      "key": "EP12_S9113_0011",
+      "value": "A...ghost?"
+    },
+    {
+      "key": "EP12_S9113_0012",
+      "value": "Yeah, apparently both Ryo and Saki have seen\nit, and it left them both pretty scared."
+    },
+    {
+      "key": "EP12_S9113_0013",
+      "value": "Oh... Okay... A ghost... Yes, I can... I can\nsee why Saki would be scared."
+    },
+    {
+      "key": "EP12_S9113_0014",
+      "value": "(Sounds like Aoi’s pretty scared too.)"
+    },
+    {
+      "key": "EP12_S9113_0015",
+      "value": "(I was hoping she could stay and look after\nSaki, but maybe Aoi needs help herself.)"
+    },
+    {
+      "key": "EP12_S9113_Q1",
+      "value": "(What should I say to her?)"
+    },
+    {
+      "key": "EP12_S9113_Q1_A1",
+      "value": "You’ve got Labramon."
+    },
+    {
+      "key": "EP12_S9113_Q1_A2",
+      "value": "Stay with Saki?"
+    },
+    {
+      "key": "EP12_S9113_Q1_A3",
+      "value": "It’s not real."
+    },
+    {
+      "key": "EP12_S9113_0016",
+      "value": "You’ve got Labramon."
+    },
+    {
+      "key": "EP12_S9113_0017",
+      "value": "Hey, I wouldn’t worry about any ghosts if I\nwere you. I’m sure Labramon will protect you."
+    },
+    {
+      "key": "EP12_S9113_0018",
+      "value": "Yeah, you can count on me, Aoi!"
+    },
+    {
+      "key": "EP12_S9113_0019",
+      "value": "Yes...yes, you’re right. I’m sure everything\nwill be fine as long as Labramon’s with me."
+    },
+    {
+      "key": "EP12_S9113_0020",
+      "value": "But... Oh, I don’t know what I’d do if\nI actually saw a ghost..."
+    },
+    {
+      "key": "EP12_S9113_0021",
+      "value": "(Hmm, I guess that wasn’t as encouraging as\nI’d hoped.)"
+    },
+    {
+      "key": "EP12_S9113_0022",
+      "value": "Stay with Saki?"
+    },
+    {
+      "key": "EP12_S9113_0023",
+      "value": "Listen, Aoi, I know you’re scared, but that’s\nhow Saki feels too."
+    },
+    {
+      "key": "EP12_S9113_0024",
+      "value": "Right now, she’s in the cafeteria waiting for\nyou to come back. Can you go stay with her?"
+    },
+    {
+      "key": "EP12_S9113_0025",
+      "value": "Yes... Yes, I can do that."
+    },
+    {
+      "key": "EP12_S9113_0026",
+      "value": "I shouldn’t let Saki worry. I’d better go\nback right away!"
+    },
+    {
+      "key": "EP12_S9113_0027",
+      "value": "Thanks, Takuma. I’m not scared anymore!"
+    },
+    {
+      "key": "EP12_S9113_0028",
+      "value": "(Even when she’s upset, Aoi has a lot of\ninner strength. You can always count on her.)"
+    },
+    {
+      "key": "EP12_S9113_0029",
+      "value": "It’s not real."
+    },
+    {
+      "key": "EP12_S9113_0030",
+      "value": "Hey, don’t worry, it’s not like there’s\nreally a ghost. You don’t have to be scared."
+    },
+    {
+      "key": "EP12_S9113_0031",
+      "value": "Yes...you’re right. There’s no such things as\nghosts. There couldn’t really be..."
+    },
+    {
+      "key": "EP12_S9113_0032",
+      "value": "But wait, is that true? Labramon and the\nothers are real. Maybe there are ghosts, too."
+    },
+    {
+      "key": "EP12_S9113_0033",
+      "value": "(Oops. I forgot how smart Aoi is. Guess\nI shouldn’t have tried to fool her.)"
+    },
+    {
+      "key": "EP12_S9113_0034",
+      "value": "Anyway, I’d better get back to Saki as soon\nas I can!"
+    },
+    {
+      "key": "EP12_S9113_0035",
+      "value": "Yeah, take care of her, okay?"
+    },
+    {
+      "key": "EP12_S9113_0036",
+      "value": "Don’t worry, I will!"
+    },
+    {
+      "key": "EP12_S9113_0037",
+      "value": "I...I know there’s no such things as ghosts,\nbut...if Saki’s scared, I’d better go."
+    }
+  ]
+}

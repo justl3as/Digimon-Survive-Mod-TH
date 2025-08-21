@@ -1,0 +1,48 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S9101_0001",
+      "value": "Hey, are you okay?!"
+    },
+    {
+      "key": "EP09_S9101_0002",
+      "value": "Owowow..."
+    },
+    {
+      "key": "EP09_S9101_0003",
+      "value": "Looks like he’s awake. How bad does his\ninjury look?"
+    },
+    {
+      "key": "EP09_S9101_0004",
+      "value": "Good, it’s just a scratch. I’ve got some\nointment for that."
+    },
+    {
+      "key": "EP09_S9101_0005",
+      "value": "Ah, use my water, then. Gotta wash it first,\nright?"
+    },
+    {
+      "key": "EP09_S9101_0006",
+      "value": "Yes, thank you, Minoru."
+    },
+    {
+      "key": "EP09_S9101_0007",
+      "value": "You saved me..."
+    },
+    {
+      "key": "EP09_S9101_0008",
+      "value": "Here... Take this..."
+    },
+    {
+      "key": "EP09_S9101_0009",
+      "value": "Oh gee, thanks!"
+    },
+    {
+      "key": "EP09_S9101_0010",
+      "value": "You rest here, we’ll bring the other little\nones back soon."
+    },
+    {
+      "key": "EP09_S9101_0011",
+      "value": "Thank you... Please, help everyone..."
+    }
+  ]
+}

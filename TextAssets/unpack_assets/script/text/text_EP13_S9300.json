@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9300_0001",
+      "value": "So, this is the lowest level, and the Master\nis here somewhere."
+    },
+    {
+      "key": "EP13_S9300_0002",
+      "value": "It doesn’t seem like there are any enemies\nnearby, but it’s so dark it’s hard to tell."
+    },
+    {
+      "key": "EP13_S9300_0003",
+      "value": "Everyone, let’s split up and search the room.\nThere should be some sort of path forward."
+    },
+    {
+      "key": "EP13_S9300_0004",
+      "value": "Right."
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0030_0001",
+      "value": "Whoa... This really is an amusement park.\nEven if it does look a bit run down."
+    },
+    {
+      "key": "EP04_S0030_0002",
+      "value": "Compared to the state the school’s in, this\nplace is practically brand new."
+    },
+    {
+      "key": "EP04_S0030_0003",
+      "value": "Seeing that cable car was surprising enough,\nbut something about this place is just weird."
+    },
+    {
+      "key": "EP04_S0030_0004",
+      "value": "It’s kind of creepy, honestly."
+    },
+    {
+      "key": "EP04_S0030_0005",
+      "value": "Huh? Why’s that?"
+    },
+    {
+      "key": "EP04_S0030_0006",
+      "value": "Are amusement parks normally scary?"
+    },
+    {
+      "key": "EP04_S0030_0007",
+      "value": "No, it’s not the amusement park itself that’s\ncreepy, it’s more like..."
+    },
+    {
+      "key": "EP04_S0030_0008",
+      "value": "It’s weird seeing it like this, I guess?"
+    },
+    {
+      "key": "EP04_S0030_0009",
+      "value": "For sure. An empty amusement park gone\ntotally silent... That’s definitely spooky."
+    },
+    {
+      "key": "EP04_S0030_0010",
+      "value": "I can look around on my own if you’d rather\nnot go in."
+    },
+    {
+      "key": "EP04_S0030_0011",
+      "value": "Oh no, I’m gonna be the first one inside!\nHere goes nothing!"
+    },
+    {
+      "key": "EP04_S0030_0012",
+      "value": "Wait! Minoru!"
+    },
+    {
+      "key": "EP04_S0030_0013",
+      "value": "Whew!"
+    },
+    {
+      "key": "EP04_S0030_0014",
+      "value": "Haha, can you believe this? We get in for\nfree. Who needs a season pass now?"
+    },
+    {
+      "key": "EP04_S0030_0015",
+      "value": "Unbelievable. Did we not establish that we\nshould proceed with caution?"
+    },
+    {
+      "key": "EP04_S0030_0016",
+      "value": "Oh, come on. That was nothing!"
+    },
+    {
+      "key": "EP04_S0030_0017",
+      "value": "(Minoru’s trying to play it cool, but I can\nsee the way his legs are shaking.)"
+    },
+    {
+      "key": "EP04_S0030_0018",
+      "value": "(I’ll just pretend I didn’t notice.)"
+    },
+    {
+      "key": "EP04_S0030_0019",
+      "value": "So, what do we do now?"
+    },
+    {
+      "key": "EP04_S0030_0020",
+      "value": "What do you mean, Aoi? Didn’t we come here to\nlook for Miu?"
+    },
+    {
+      "key": "EP04_S0030_0021",
+      "value": "Yes, that much is clear, but she could be\nanywhere in this entire park."
+    },
+    {
+      "key": "EP04_S0030_0022",
+      "value": "So we just gotta search the place from corner\nto corner."
+    },
+    {
+      "key": "EP04_S0030_0023",
+      "value": "Sure, but doesn’t that seem a little less\nthan efficient?"
+    },
+    {
+      "key": "EP04_S0030_0024",
+      "value": "This place is pretty big. Why don’t we split\nup?"
+    },
+    {
+      "key": "EP04_S0030_0025",
+      "value": "Good idea! I’ll go with you, Takuma!"
+    },
+    {
+      "key": "EP04_S0030_0026",
+      "value": "Then, uh, I’ll go with Shuuji."
+    },
+    {
+      "key": "EP04_S0030_0027",
+      "value": "No, we don’t know what might happen. We won’t\nwant to be separated if there’s a fight."
+    },
+    {
+      "key": "EP04_S0030_0028",
+      "value": "Yeah. You’ve got a point."
+    },
+    {
+      "key": "EP04_S0030_0029",
+      "value": "We should all just stick together. I don’t\nwant anyone going missing."
+    },
+    {
+      "key": "EP04_S0030_0030",
+      "value": "(With Shuuji as upset as he was this morning,\nI wasn’t sure what to expect,)"
+    },
+    {
+      "key": "EP04_S0030_0031",
+      "value": "(but he’s seemed a lot more confident since\nwe got here.)"
+    },
+    {
+      "key": "EP04_S0030_0032",
+      "value": "(It really is reassuring when Shuuji is able\nto keep it together.)"
+    },
+    {
+      "key": "EP04_S0030_0033",
+      "value": "We are all going back to our world together.\nYou got that?"
+    },
+    {
+      "key": "EP04_S0030_0034",
+      "value": "Yeah, Shuuji, I’m pretty sure we’ve all got\nthat."
+    },
+    {
+      "key": "EP04_S0030_0035",
+      "value": "Hmph... This is gonna take forever, but\nI guess there is safety in numbers."
+    },
+    {
+      "key": "EP04_S0030_0036",
+      "value": "Hee hee. Shuuji’s acting just like\na chaperone."
+    },
+    {
+      "key": "EP04_S0030_0037",
+      "value": "Like we need one. I wish he’d cut the crap\nalready."
+    },
+    {
+      "key": "EP04_S0030_0038",
+      "value": "All right, let’s head in..."
+    },
+    {
+      "key": "EP04_S0030_0039",
+      "value": "(Hrm? Are those...footsteps?)"
+    },
+    {
+      "key": "EP04_S0030_0040",
+      "value": "You there, halt!"
+    },
+    {
+      "key": "EP04_S0030_0041",
+      "value": "Huh? What the—?!"
+    },
+    {
+      "key": "EP04_S0030_0042",
+      "value": "Intruders!"
+    },
+    {
+      "key": "EP04_S0030_0043",
+      "value": "Not one more step!"
+    },
+    {
+      "key": "EP04_S0030_0044",
+      "value": "Wh-what now?! More monsters?!"
+    },
+    {
+      "key": "EP04_S0030_0045",
+      "value": "Although...these ones are a little on the\nsmall side."
+    },
+    {
+      "key": "EP04_S0030_0046",
+      "value": "They’re so cute!"
+    },
+    {
+      "key": "EP04_S0030_0047",
+      "value": "Um, Aoi?"
+    },
+    {
+      "key": "EP04_S0030_0048",
+      "value": "Oh! No! I didn’t mean to say anything, that\njust...slipped out!"
+    },
+    {
+      "key": "EP04_S0030_0049",
+      "value": "(I can see why that would be her initial\nreaction, but...)"
+    },
+    {
+      "key": "EP04_S0030_0050",
+      "value": "(What are these things?)"
+    },
+    {
+      "key": "EP04_S0030_0051",
+      "value": "All right, what’s goin’ on here? ’Cause if\nyou wanna stop me, you’re in for a fight!"
+    },
+    {
+      "key": "EP04_S0030_0052",
+      "value": "Clearly you’re up to no good!"
+    },
+    {
+      "key": "EP04_S0030_0053",
+      "value": "You are to be eliminated, by order of Her\nMajesty, the queen!"
+    },
+    {
+      "key": "EP04_S0030_0054",
+      "value": "Leave this place at once!"
+    },
+    {
+      "key": "EP04_S0030_0055",
+      "value": "Uh, what’re they talking about? How can they\nbe so sure we’re enemies? Who’s this queen?"
+    },
+    {
+      "key": "EP04_S0030_0056",
+      "value": "Who knows?"
+    },
+    {
+      "key": "EP04_S0030_0057",
+      "value": "It’s no use trying to play dumb! You can’t\nfool us!"
+    },
+    {
+      "key": "EP04_S0030_0058",
+      "value": "But wait! We’re not your enemies!"
+    },
+    {
+      "key": "EP04_S0030_0059",
+      "value": "Oh yeah? Well, we heard you’re bad monsters\nwho kidnap children!"
+    },
+    {
+      "key": "EP04_S0030_0060",
+      "value": "And there’s no bad monsters allowed in here!"
+    },
+    {
+      "key": "EP04_S0030_0061",
+      "value": "Out with the kidnappers!"
+    },
+    {
+      "key": "EP04_S0030_0062",
+      "value": "We’re not kidnappers!"
+    },
+    {
+      "key": "EP04_S0030_0063",
+      "value": "Wait, how is this suddenly about whether or\nnot we’re kidnappers?"
+    },
+    {
+      "key": "EP04_S0030_0064",
+      "value": "We’re looking for a girl who was kidnapped by\na monster called Arukenimon."
+    },
+    {
+      "key": "EP04_S0030_0065",
+      "value": "Her name is Miu. Have you seen her?"
+    },
+    {
+      "key": "EP04_S0030_0066",
+      "value": "Arukenimon? You mean that evil villain?!"
+    },
+    {
+      "key": "EP04_S0030_0067",
+      "value": "Aha! You must be here on her orders!"
+    },
+    {
+      "key": "EP04_S0030_0068",
+      "value": "Now the truth comes out!"
+    },
+    {
+      "key": "EP04_S0030_0069",
+      "value": "You are servants of Arukenimon?! Well, we’ll\nshow you!"
+    },
+    {
+      "key": "EP04_S0030_0070",
+      "value": "No, you’ve got it all wrong! Gah, this isn’t\ngoing anywhere."
+    },
+    {
+      "key": "EP04_S0030_0071",
+      "value": "Don’t deny it! We can see all the kidnapped\nchildren you’re walking around with!"
+    },
+    {
+      "key": "EP04_S0030_0072",
+      "value": "We didn’t kidnap them!"
+    },
+    {
+      "key": "EP04_S0030_0073",
+      "value": "Hey man, I wasn’t kidnapped by anyone! These\nare our partners!"
+    },
+    {
+      "key": "EP04_S0030_0074",
+      "value": "Indeed. These are trustworthy creatures who\nmean you no harm."
+    },
+    {
+      "key": "EP04_S0030_0075",
+      "value": "Really? But then, what’s going on? That’s not\nwhat we heard from the queen."
+    },
+    {
+      "key": "EP04_S0030_0076",
+      "value": "Oh, what should we do? What should we do?!"
+    },
+    {
+      "key": "EP04_S0030_0077",
+      "value": "Hmmm, this calls for...a council of war!"
+    },
+    {
+      "key": "EP04_S0030_0078",
+      "value": "(Now they’re arguing about something. They\ndon’t seem like they’re all that bad.)"
+    },
+    {
+      "key": "EP04_S0030_0079",
+      "value": "Looks like they’re up to something.\nSo what’s our plan here?"
+    },
+    {
+      "key": "EP04_S0030_0080",
+      "value": "It would be good if they just heard us out."
+    },
+    {
+      "key": "EP04_S0030_0081",
+      "value": "Uh-uh! No way! Just look at those two little\nchildren you’ve taken!"
+    },
+    {
+      "key": "EP04_S0030_0082",
+      "value": "Yeah, that’s right! They’re both frozen with\nfear!"
+    },
+    {
+      "key": "EP04_S0030_0083",
+      "value": "Huh? You mean...us?"
+    },
+    {
+      "key": "EP04_S0030_0084",
+      "value": "Us...?"
+    },
+    {
+      "key": "EP04_S0030_0085",
+      "value": "Yeah, they’re not frozen with fear. Those two\nare just like that."
+    },
+    {
+      "key": "EP04_S0030_0086",
+      "value": "How do we convince you we haven’t kidnapped\nanyone?"
+    },
+    {
+      "key": "EP04_S0030_0087",
+      "value": "But if you really haven’t, that would make\nour queen a liar!"
+    },
+    {
+      "key": "EP04_S0030_0088",
+      "value": "What makes you so sure she’s not?"
+    },
+    {
+      "key": "EP04_S0030_0089",
+      "value": "Silence! Our wise and invincible sorceress of\na queen would not speak lies!"
+    },
+    {
+      "key": "EP04_S0030_0090",
+      "value": "Oh, you’re just trying to get on her good\nside again! You don’t really think that!"
+    },
+    {
+      "key": "EP04_S0030_0091",
+      "value": "But...if we don’t stay on her good side,\nshe’ll turn us all to stone!"
+    },
+    {
+      "key": "EP04_S0030_0092",
+      "value": "Oh, whoops! Forget I said that!"
+    },
+    {
+      "key": "EP04_S0030_0093",
+      "value": "She’ll turn you to stone? You mean you’re\nbeing threatened?"
+    },
+    {
+      "key": "EP04_S0030_0094",
+      "value": "Yeah, that’s messed up. Sounds to me like\nyour queen’s the real villain."
+    },
+    {
+      "key": "EP04_S0030_0095",
+      "value": "You said it! Getting turned to stone sounds\nscary!"
+    },
+    {
+      "key": "EP04_S0030_0096",
+      "value": "Hold on, so this queen really has the power\nto turn things into stone?"
+    },
+    {
+      "key": "EP04_S0030_0097",
+      "value": "That’s right! She used her powers to restore\nher friend who’d been turned into a rock!"
+    },
+    {
+      "key": "EP04_S0030_0098",
+      "value": "She has the miraculous power to turn living\nthings to stone or bring them back to life!"
+    },
+    {
+      "key": "EP04_S0030_0099",
+      "value": "So even here, there’s a monster with that\nkind of power..."
+    },
+    {
+      "key": "EP04_S0030_0100",
+      "value": "I don’t care about any of that. Please, could\nyou take us to see this queen?"
+    },
+    {
+      "key": "EP04_S0030_0101",
+      "value": "Absolutely not! Who knows what might become\nof us if we allowed you to trespass here?"
+    },
+    {
+      "key": "EP04_S0030_0102",
+      "value": "Look, we’ll either talk some sense into her\nor beat her up for you. Now let us through!"
+    },
+    {
+      "key": "EP04_S0030_0103",
+      "value": "That solves all your problems, right?"
+    },
+    {
+      "key": "EP04_S0030_0104",
+      "value": "What?! No, that’s... That’s not possible!"
+    },
+    {
+      "key": "EP04_S0030_0105",
+      "value": "What do you think? Could this be our chance?"
+    },
+    {
+      "key": "EP04_S0030_0106",
+      "value": "Don’t get carried away! The queen’s not so\nweak she’d fall to the likes of them!"
+    },
+    {
+      "key": "EP04_S0030_0107",
+      "value": "Right! There’s no way! Besides, remember what\nthe queen told us!"
+    },
+    {
+      "key": "EP04_S0030_0108",
+      "value": "Big humans are all bad!"
+    },
+    {
+      "key": "EP04_S0030_0109",
+      "value": "And these are all big humans, so all of them\nmust be bad!"
+    },
+    {
+      "key": "EP04_S0030_0110",
+      "value": "Yeah, no objections from me!"
+    },
+    {
+      "key": "EP04_S0030_0111",
+      "value": "Big humans? What’s that supposed to mean?"
+    },
+    {
+      "key": "EP04_S0030_0112",
+      "value": "It can’t just be about size, right?"
+    },
+    {
+      "key": "EP04_S0030_0113",
+      "value": "Right, you think they mean adults?"
+    },
+    {
+      "key": "EP04_S0030_0114",
+      "value": "No, I’d hardly call us adults."
+    },
+    {
+      "key": "EP04_S0030_0115",
+      "value": "Man, this just gets more and more confusing!"
+    },
+    {
+      "key": "EP04_S0030_0116",
+      "value": "Damn it! I don’t care about any of this!"
+    },
+    {
+      "key": "EP04_S0030_0117",
+      "value": "Come on, let us through already!"
+    },
+    {
+      "key": "EP04_S0030_0118",
+      "value": "Hmph! If you want to get in, you’ll have to\ngo through us!"
+    },
+    {
+      "key": "EP04_S0030_0119",
+      "value": "Man, if that’s how it’s gonna be, I wish\nwe’d done it from the start."
+    },
+    {
+      "key": "EP04_S0030_0120",
+      "value": "Yeah, that’s kind of our strong suit."
+    },
+    {
+      "key": "EP04_S0030_0121",
+      "value": "I don’t know..."
+    },
+    {
+      "key": "EP04_S0030_0122",
+      "value": "C-can’t we just talk this out?"
+    },
+    {
+      "key": "EP04_S0030_0123",
+      "value": "That’s right! Not every problem’s meant to be\nsolved by force!"
+    },
+    {
+      "key": "EP04_S0030_0124",
+      "value": "You’re just trying to trick us, aren’t you?!"
+    },
+    {
+      "key": "EP04_S0030_0125",
+      "value": "You know, I don’t see why we can’t have the\nmonsters talk this out themselves."
+    },
+    {
+      "key": "EP04_S0030_0126",
+      "value": "That would be ideal."
+    },
+    {
+      "key": "EP04_S0030_0127",
+      "value": "What do you think we should do, Takuma?"
+    },
+    {
+      "key": "EP04_S0030_0128",
+      "value": "(I’m really not sure.)"
+    },
+    {
+      "key": "EP04_S0030_0129",
+      "value": "(Obviously it’d be best to avoid a fight, but\nif they attack us, we’ll have no choice.)"
+    },
+    {
+      "key": "EP04_S0030_0130",
+      "value": "(It’d be nice if Agumon could find a way to\nconvince them, though.)"
+    },
+    {
+      "key": "EP04_S0030_Q1",
+      "value": "(What should I say?)"
+    },
+    {
+      "key": "EP04_S0030_Q1_A1",
+      "value": "We don’t want a fight."
+    },
+    {
+      "key": "EP04_S0030_Q1_A2",
+      "value": "You asked for this!"
+    },
+    {
+      "key": "EP04_S0030_Q1_A3",
+      "value": "Agumon, work this out."
+    },
+    {
+      "key": "EP04_S0030_0135",
+      "value": "We don’t want a fight."
+    },
+    {
+      "key": "EP04_S0030_0136",
+      "value": "Forget it. We don’t want to fight you."
+    },
+    {
+      "key": "EP04_S0030_0137",
+      "value": "If you won’t strike the first blow, then\nI will! Hiyaah!"
+    },
+    {
+      "key": "EP04_S0030_0138",
+      "value": "Argh! Stop it! Ow!!!"
+    },
+    {
+      "key": "EP04_S0030_0139",
+      "value": "Hey! Enough already!"
+    },
+    {
+      "key": "EP04_S0030_0140",
+      "value": "Looks like you could use a lesson."
+    },
+    {
+      "key": "EP04_S0030_0141",
+      "value": "Oh? Now you want to fight? I knew we couldn’t\ntrust you!"
+    },
+    {
+      "key": "EP04_S0030_0142",
+      "value": "You asked for this!"
+    },
+    {
+      "key": "EP04_S0030_0143",
+      "value": "Sorry, but if that’s how you’re gonna be,\nwe’re not holding back. You asked for this!"
+    },
+    {
+      "key": "EP04_S0030_0144",
+      "value": "I’ll give ’em all I got for you, Takuma!"
+    },
+    {
+      "key": "EP04_S0030_0145",
+      "value": "If necessary, you have my full support as\nwell."
+    },
+    {
+      "key": "EP04_S0030_0146",
+      "value": "Sounds like we’ve got no choice. I need to\nkeep Aoi safe!"
+    },
+    {
+      "key": "EP04_S0030_0147",
+      "value": "Ganging up on us, are you? I knew you\ncouldn’t be trusted!"
+    },
+    {
+      "key": "EP04_S0030_0148",
+      "value": "Agumon, work this out."
+    },
+    {
+      "key": "EP04_S0030_0149",
+      "value": "I don’t see much hope of convincing them\nmyself. Agumon, can you handle this?"
+    },
+    {
+      "key": "EP04_S0030_0150",
+      "value": "Um, I’m not sure, but I’ll try!"
+    },
+    {
+      "key": "EP04_S0030_0151",
+      "value": "And I’ll help."
+    },
+    {
+      "key": "EP04_S0030_0152",
+      "value": "So, we haven’t kidnapped Takuma or his\nfriends, and we don’t work for Arukenimon."
+    },
+    {
+      "key": "EP04_S0030_0153",
+      "value": "And you expect us to believe that?!"
+    },
+    {
+      "key": "EP04_S0030_0154",
+      "value": "Well, it’s true. We were fighting Arukenimon\njust yesterday."
+    },
+    {
+      "key": "EP04_S0030_0155",
+      "value": "What? THE Arukenimon?!"
+    },
+    {
+      "key": "EP04_S0030_0156",
+      "value": "That’s right! She got away, but we did beat\nup one of her underlings!"
+    },
+    {
+      "key": "EP04_S0030_0157",
+      "value": "We all worked together to take him down!"
+    },
+    {
+      "key": "EP04_S0030_0158",
+      "value": "Well, if you’re strong enough to beat someone\nlike that..."
+    },
+    {
+      "key": "EP04_S0030_0159",
+      "value": "That makes you a real threat!"
+    },
+    {
+      "key": "EP04_S0030_0160",
+      "value": "Damn it, I don’t have time for this!\nI’m bustin’ my way in!"
+    },
+    {
+      "key": "EP04_S0030_0161",
+      "value": "I... I guess that’s our only option. Come on,\neverybody, we’re fighting our way in!"
+    },
+    {
+      "key": "EP04_S0030_0162",
+      "value": "Oh no! No, no, no!"
+    },
+    {
+      "key": "EP04_S0030_0163",
+      "value": "Wh-wh-what are we gonna do? We can’t take\nthem all at once!"
+    },
+    {
+      "key": "EP04_S0030_0164",
+      "value": "We’ll have to report this to the queen!\nDon’t think you can get away with this!"
+    },
+    {
+      "key": "EP04_S0030_0165",
+      "value": "Well, so much for them."
+    },
+    {
+      "key": "EP04_S0030_0166",
+      "value": "What was that all about?"
+    },
+    {
+      "key": "EP04_S0030_0167",
+      "value": "Beats me."
+    },
+    {
+      "key": "EP04_S0030_0168",
+      "value": "Who cares? Besides, I’m glad we didn’t have\nto fight them after all."
+    },
+    {
+      "key": "EP04_S0030_0169",
+      "value": "Me too. I would’ve felt bad if we really had\nto take them on."
+    },
+    {
+      "key": "EP04_S0030_0170",
+      "value": "Yeah, I hear you."
+    },
+    {
+      "key": "EP04_S0030_0171",
+      "value": "But should we just let them go? They said\nthey were gonna report to their queen."
+    },
+    {
+      "key": "EP04_S0030_0172",
+      "value": "Yeah, that does bother me, but still..."
+    },
+    {
+      "key": "EP04_S0030_0173",
+      "value": "We don’t have time to be worrying about those\nweirdos! Let’s get in there and find Miu!"
+    },
+    {
+      "key": "EP04_S0030_0174",
+      "value": "Right, let’s go!"
+    }
+  ]
+}

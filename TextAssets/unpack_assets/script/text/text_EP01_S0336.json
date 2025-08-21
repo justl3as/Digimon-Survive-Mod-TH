@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0336_0001",
+      "value": "What is this? I have a bad feeling here..."
+    },
+    {
+      "key": "EP01_S0336_0002",
+      "value": "A bad feeling? About what?"
+    },
+    {
+      "key": "EP01_S0336_0003",
+      "value": "Um, I can’t say for sure..."
+    },
+    {
+      "key": "EP01_S0336_0004",
+      "value": "It’s just an instinct, I guess..."
+    }
+  ]
+}

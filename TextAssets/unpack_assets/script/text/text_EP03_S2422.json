@@ -1,0 +1,220 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2422_0001",
+      "value": "You two are still playing games,\nI see."
+    },
+    {
+      "key": "EP03_S2422_0002",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP03_S2422_0003",
+      "value": "Well, uh... Look, I’ve been going around and\nasking for everyone’s opinion on things."
+    },
+    {
+      "key": "EP03_S2422_0004",
+      "value": "Can I talk to you guys, too?"
+    },
+    {
+      "key": "EP03_S2422_0005",
+      "value": "About...what?"
+    },
+    {
+      "key": "EP03_S2422_0006",
+      "value": "Right now, none of us are on the same page."
+    },
+    {
+      "key": "EP03_S2422_0007",
+      "value": "So I wanted to get everyone’s take on what’s\nhappened to us, see how they’re feeling,"
+    },
+    {
+      "key": "EP03_S2422_0008",
+      "value": "ask what they think our next move should be,\nand hear what they make of our situation."
+    },
+    {
+      "key": "EP03_S2422_0009",
+      "value": "I dunno."
+    },
+    {
+      "key": "EP03_S2422_0010",
+      "value": "Haha... Yeah, that’s what I figured."
+    },
+    {
+      "key": "EP03_S2422_0011",
+      "value": "But everyone has a different way of looking\nat this stuff."
+    },
+    {
+      "key": "EP03_S2422_0012",
+      "value": "We all have our own ideas about what to do\nnext."
+    },
+    {
+      "key": "EP03_S2422_0013",
+      "value": "So I’m trying to get everyone’s opinion, and\nthen make an informed decision."
+    },
+    {
+      "key": "EP03_S2422_0014",
+      "value": "I hope you don’t mind if I ask you, too. You\ndon’t have to answer me if you don’t know."
+    },
+    {
+      "key": "EP03_S2422_0015",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP03_S2422_Q1",
+      "value": "(Now, where should I start?)"
+    },
+    {
+      "key": "EP03_S2422_Q1_A1",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S2422_Q1_A2",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S2422_Q1_A3",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S2422_Q1_A4",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S2422_0016",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S2422_0017",
+      "value": "So, what do you think’s actually going on\nright now?"
+    },
+    {
+      "key": "EP03_S2422_0018",
+      "value": "I..."
+    },
+    {
+      "key": "EP03_S2422_0019",
+      "value": "Yes?"
+    },
+    {
+      "key": "EP03_S2422_0020",
+      "value": "I don’t know."
+    },
+    {
+      "key": "EP03_S2422_0021",
+      "value": "Ha... Hahaha. Yeah, that’s what I figured."
+    },
+    {
+      "key": "EP03_S2422_0022",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S2422_0023",
+      "value": "So, what do you think our next move should\nbe?"
+    },
+    {
+      "key": "EP03_S2422_0024",
+      "value": "I don’t really know. Sorry..."
+    },
+    {
+      "key": "EP03_S2422_0025",
+      "value": "Yeah, that sounds about right."
+    },
+    {
+      "key": "EP03_S2422_0026",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S2422_0027",
+      "value": "Emotionally... Er, uh...anything bothering\nyou right now?"
+    },
+    {
+      "key": "EP03_S2422_0028",
+      "value": "Uh...?"
+    },
+    {
+      "key": "EP03_S2422_0029",
+      "value": "Sorry, she says she’s confused."
+    },
+    {
+      "key": "EP03_S2422_0030",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP03_S2422_0031",
+      "value": "(To be honest, I’m not sure how I’d put my\nfeelings into words right now either.)"
+    },
+    {
+      "key": "EP03_S2422_0037",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S2422_0038",
+      "value": "Situ...ation?"
+    },
+    {
+      "key": "EP03_S2422_0039",
+      "value": "Sorry. I guess that was a big word, huh?\nHaha..."
+    },
+    {
+      "key": "EP03_S2422_0040",
+      "value": "Uh, basically, what do you make of the\nposition we’re in right now?"
+    },
+    {
+      "key": "EP03_S2422_0041",
+      "value": "We’re in the school."
+    },
+    {
+      "key": "EP03_S2422_0042",
+      "value": "School..."
+    },
+    {
+      "key": "EP03_S2422_0043",
+      "value": "Yeah... Yeah, we are."
+    },
+    {
+      "key": "EP03_S2422_Q2",
+      "value": "(Was there anything else I wanted to ask?)"
+    },
+    {
+      "key": "EP03_S2422_Q2_A1",
+      "value": "That’s all."
+    },
+    {
+      "key": "EP03_S2422_Q2_A2",
+      "value": "There’s more."
+    },
+    {
+      "key": "EP03_S2422_0047",
+      "value": "Sorry to just keep saying we don’t know..."
+    },
+    {
+      "key": "EP03_S2422_0048",
+      "value": "My sister and I really don’t get what’s going\non."
+    },
+    {
+      "key": "EP03_S2422_0049",
+      "value": "We just...don’t know."
+    },
+    {
+      "key": "EP03_S2422_0050",
+      "value": "Yeah, well, I don’t blame you. Sorry about to\nask all those tough questions, Haru."
+    },
+    {
+      "key": "EP03_S2422_0051",
+      "value": "Oh, and you too, Miyuki."
+    },
+    {
+      "key": "EP03_S2422_0052",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP03_S2422_0053",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP03_S2422_0054",
+      "value": "(They’re still playing games. How are they\nnot more scared about what’s going on?)"
+    }
+  ]
+}

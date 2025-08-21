@@ -1,0 +1,308 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S9110_0001",
+      "value": "Everyone, this way!"
+    },
+    {
+      "key": "EP10_S9110_0002",
+      "value": "Is that really Haru?"
+    },
+    {
+      "key": "EP10_S9110_0003",
+      "value": "Yeah, no doubt about it. That’s the Haru we\nknow."
+    },
+    {
+      "key": "EP10_S9110_0004",
+      "value": "Then why’s he running away?"
+    },
+    {
+      "key": "EP10_S9110_0005",
+      "value": "I’m afraid our only option is to inquire this\nof the boy himself."
+    },
+    {
+      "key": "EP10_S9110_0006",
+      "value": "Oh, there he is!"
+    },
+    {
+      "key": "EP10_S9110_0007",
+      "value": "..."
+    },
+    {
+      "key": "EP10_S9110_0008",
+      "value": "Is... he the real one...?"
+    },
+    {
+      "key": "EP10_S9110_0009",
+      "value": "*sigh*"
+    },
+    {
+      "key": "EP10_S9110_0010",
+      "value": "Yes, I’m me. Not some Kenzoku in disguise."
+    },
+    {
+      "key": "EP10_S9110_0011",
+      "value": "You expect us to believe that? Then why’d you\nrun?!"
+    },
+    {
+      "key": "EP10_S9110_0012",
+      "value": "He’s right... We were all so worried about\nyou."
+    },
+    {
+      "key": "EP10_S9110_0013",
+      "value": "That day, after we ran from the factory, all\nof you guys looked after me..."
+    },
+    {
+      "key": "EP10_S9110_0014",
+      "value": "But I wanted to look for Miyuki, so I went\noff on my own. That...made me feel awkward.  "
+    },
+    {
+      "key": "EP10_S9110_0015",
+      "value": "Sounds like the real deal, doesn’t he?"
+    },
+    {
+      "key": "EP10_S9110_0016",
+      "value": "Yeah, it all adds up..."
+    },
+    {
+      "key": "EP10_S9110_0017",
+      "value": "So you’re suspicious of me? In that case,\nlet’s talk about all we’ve done up to now."
+    },
+    {
+      "key": "EP10_S9110_0018",
+      "value": "Ulp... This has to be the real punk."
+    },
+    {
+      "key": "EP10_S9110_0019",
+      "value": "Ahaha, definitely! That cocky attitude is\nHaru’s trademark for sure!"
+    },
+    {
+      "key": "EP10_S9110_0020",
+      "value": "Hmm... Yes, it would seem so."
+    },
+    {
+      "key": "EP10_S9110_0021",
+      "value": "Phew, that’s a relief!"
+    },
+    {
+      "key": "EP10_S9110_0022",
+      "value": "Sheesh, so confusing..."
+    },
+    {
+      "key": "EP10_S9110_0023",
+      "value": "Hey, it was just a misunderstanding! That’s\ngood, right?"
+    },
+    {
+      "key": "EP10_S9110_0024",
+      "value": "(Seriously... I’m relieved to see Haru safe.)"
+    },
+    {
+      "key": "EP10_S9110_0025",
+      "value": "(Seeing how worried we were about him, I’ve\ngot a thing or two I’d like to say, but...)"
+    },
+    {
+      "key": "EP10_S9110_0026",
+      "value": "(Oh, actually, I wonder if he has any clues\nabout Miyuki’s whereabouts?)"
+    },
+    {
+      "key": "EP10_S9110_Q1",
+      "value": "(What should I say to Haru?)"
+    },
+    {
+      "key": "EP10_S9110_Q1_A1",
+      "value": "We were so worried."
+    },
+    {
+      "key": "EP10_S9110_Q1_A2",
+      "value": "I’m glad you’re okay."
+    },
+    {
+      "key": "EP10_S9110_Q1_A3",
+      "value": "Have you seen Miyuki?"
+    },
+    {
+      "key": "EP10_S9110_0027",
+      "value": "Man, do you have any idea how worried we\nwere? You shouldn’t go off on your own!"
+    },
+    {
+      "key": "EP10_S9110_0028",
+      "value": "Sorry..."
+    },
+    {
+      "key": "EP10_S9110_0029",
+      "value": "Apology accepted. Well, now that we’re all\ntogether, there’s nothing to fear."
+    },
+    {
+      "key": "EP10_S9110_0030",
+      "value": "Haru, we’re so happy you’re okay. What\na relief..."
+    },
+    {
+      "key": "EP10_S9110_0031",
+      "value": "Takuma... You were that worried?"
+    },
+    {
+      "key": "EP10_S9110_0032",
+      "value": "Of course! You’re one of our friends, after\nall."
+    },
+    {
+      "key": "EP10_S9110_0033",
+      "value": "Friends, you say... Hmph."
+    },
+    {
+      "key": "EP10_S9110_0034",
+      "value": "So, did you find Miyuki?"
+    },
+    {
+      "key": "EP10_S9110_0035",
+      "value": "...No, not yet."
+    },
+    {
+      "key": "EP10_S9110_0036",
+      "value": "I see... I’ll tell you the whole story later,\nbut she’s been taken over by the Master."
+    },
+    {
+      "key": "EP10_S9110_0037",
+      "value": "It’s dangerous to approach her on your own."
+    },
+    {
+      "key": "EP10_S9110_0038",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP10_S9110_0039",
+      "value": "At any rate, what were you doing here?"
+    },
+    {
+      "key": "EP10_S9110_0040",
+      "value": "This place means a lot to my sister and me.\nI thought I might find her around here."
+    },
+    {
+      "key": "EP10_S9110_0041",
+      "value": "Means a lot to you?"
+    },
+    {
+      "key": "EP10_S9110_0042",
+      "value": "This is where we lived back in our world.\nEven our room is here."
+    },
+    {
+      "key": "EP10_S9110_0043",
+      "value": "Whoa, for real?! Man, what a dump you lived\nin..."
+    },
+    {
+      "key": "EP10_S9110_0044",
+      "value": "Minoru. Rude."
+    },
+    {
+      "key": "EP10_S9110_0045",
+      "value": "He’s right, just look at it."
+    },
+    {
+      "key": "EP10_S9110_0046",
+      "value": "It was still pristine when we came here,\nthough."
+    },
+    {
+      "key": "EP10_S9110_0047",
+      "value": "Huh? But these apartments were already like\nthis by the time we got here, right?"
+    },
+    {
+      "key": "EP10_S9110_0048",
+      "value": "Not quite. Miyuki and I came here much\nearlier than all of you."
+    },
+    {
+      "key": "EP10_S9110_0049",
+      "value": "Long enough for this place to fall apart?\nJust when did you get here...?"
+    },
+    {
+      "key": "EP10_S9110_0050",
+      "value": "The two of you were alone the whole time...\nThat must have been tough."
+    },
+    {
+      "key": "EP10_S9110_0051",
+      "value": "Unbelievable..."
+    },
+    {
+      "key": "EP10_S9110_0052",
+      "value": "Hold up, this ain’t a year or so we’re\ntalking about... You didn’t grow up?"
+    },
+    {
+      "key": "EP10_S9110_0053",
+      "value": "..."
+    },
+    {
+      "key": "EP10_S9110_0054",
+      "value": "(Haru’s telling the truth.)"
+    },
+    {
+      "key": "EP10_S9110_0055",
+      "value": "(Miyuki was incredibly confused when we ended\nup back in our world...)"
+    },
+    {
+      "key": "EP10_S9110_0056",
+      "value": "What’re you all doing here?"
+    },
+    {
+      "key": "EP10_S9110_0057",
+      "value": "Oh, um... We’re searching for the shrine."
+    },
+    {
+      "key": "EP10_S9110_0058",
+      "value": "Shrine?"
+    },
+    {
+      "key": "EP10_S9110_0059",
+      "value": "We need it to get everyone back to our world."
+    },
+    {
+      "key": "EP10_S9110_0060",
+      "value": "I see... Back to your world..."
+    },
+    {
+      "key": "EP10_S9110_0061",
+      "value": "(Hmm? Is Haru glaring at us?)"
+    },
+    {
+      "key": "EP10_S9110_0062",
+      "value": "(No, it must be my imagination. His\nexpression’s as vacant as ever.)"
+    },
+    {
+      "key": "EP10_S9110_0063",
+      "value": "I remember the waterway back at the park was\nsuspicious. Is there any way to get inside?"
+    },
+    {
+      "key": "EP10_S9110_0064",
+      "value": "I saw a spot when I walked around here."
+    },
+    {
+      "key": "EP10_S9110_0065",
+      "value": "Whoa, really?! Would you be willing to show\nit to us?"
+    },
+    {
+      "key": "EP10_S9110_0066",
+      "value": "Sure, come with me."
+    },
+    {
+      "key": "EP10_S9110_0067",
+      "value": "Hmm... Hrrm..."
+    },
+    {
+      "key": "EP10_S9110_0068",
+      "value": "What’s wrong, Professor? Something you wanna\nsay?"
+    },
+    {
+      "key": "EP10_S9110_0069",
+      "value": "Oh... No, time is of the essence. It’s not\nimportant."
+    },
+    {
+      "key": "EP10_S9110_0070",
+      "value": "Let us hurry on ahead."
+    },
+    {
+      "key": "EP10_S9110_0071",
+      "value": "Uh, okay..."
+    },
+    {
+      "key": "EP10_S9110_0072",
+      "value": "(What’s up with the professor? He’s had a\ngrim look on his face since we found Haru.)"
+    }
+  ]
+}

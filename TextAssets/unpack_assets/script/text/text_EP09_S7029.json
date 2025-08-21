@@ -1,0 +1,48 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S7029_0001",
+      "value": "Huh? Is someone over there?"
+    },
+    {
+      "key": "EP09_S7029_0002",
+      "value": "Yikes!"
+    },
+    {
+      "key": "EP09_S7029_0003",
+      "value": "Did you hear something just now?!"
+    },
+    {
+      "key": "EP09_S7029_0004",
+      "value": "Yeah, I sense something, too!"
+    },
+    {
+      "key": "EP09_S7029_0005",
+      "value": "Yeah? Let’s check it out, but be careful."
+    },
+    {
+      "key": "EP09_S7029_0006",
+      "value": "There!"
+    },
+    {
+      "key": "EP09_S7029_0007",
+      "value": "YIKES! Stop, lemme go! My meat’s all stringy,\nyou’d hate it!"
+    },
+    {
+      "key": "EP09_S7029_0008",
+      "value": "Wait, what? Aren’t you all friends of Lady\nMiu?"
+    },
+    {
+      "key": "EP09_S7029_0009",
+      "value": "You’re the one we met last time we came here,\naren’t you? I’m so glad you’re safe!"
+    },
+    {
+      "key": "EP09_S7029_0010",
+      "value": "Did, did you come here to save me...?"
+    },
+    {
+      "key": "EP09_S7029_0011",
+      "value": "Yep, that’s right. You’re gonna be okay! Come\nwith us, we’ll treat your wounds."
+    }
+  ]
+}

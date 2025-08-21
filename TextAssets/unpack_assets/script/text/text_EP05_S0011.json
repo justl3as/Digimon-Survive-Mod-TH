@@ -1,0 +1,560 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0011_0001",
+      "value": "(After rescuing Miu at the amusement park,\nwe went back to the school for a bit.)"
+    },
+    {
+      "key": "EP05_S0011_0002",
+      "value": "(From Jijimon, we learned that there might be\na way for us to get back to our world.)"
+    },
+    {
+      "key": "EP05_S0011_0003",
+      "value": "(As for the way... We should ask an enemy out\nthere who knows more about what’s going on.)"
+    },
+    {
+      "key": "EP05_S0011_0004",
+      "value": "(We have to be ready before we go asking\nquestions... So we’re all checking supplies.)"
+    },
+    {
+      "key": "EP05_S0011_0005",
+      "value": "Have you found anything promising, Takuma?"
+    },
+    {
+      "key": "EP05_S0011_0006",
+      "value": "Nothing worth mentioning. How about you?"
+    },
+    {
+      "key": "EP05_S0011_0007",
+      "value": "Nothing over here, either. ...I’m hopeless,\naren’t I?"
+    },
+    {
+      "key": "EP05_S0011_0008",
+      "value": "That’s not true, Aoi! You’re trying just as\nhard as everybody else!"
+    },
+    {
+      "key": "EP05_S0011_0009",
+      "value": "Thanks..."
+    },
+    {
+      "key": "EP05_S0011_0010",
+      "value": "We haven’t found anything either, so don’t\nsweat it!"
+    },
+    {
+      "key": "EP05_S0011_0011",
+      "value": "Right, what Agumon said!"
+    },
+    {
+      "key": "EP05_S0011_0012",
+      "value": "Oh hey, you guys’re here, too!"
+    },
+    {
+      "key": "EP05_S0011_0013",
+      "value": "Yeah. We couldn’t find anything, though...\nAny luck over there?"
+    },
+    {
+      "key": "EP05_S0011_0014",
+      "value": "None at all, I’m afraid. You’d think a school\nwould have more useful stuff, huh?"
+    },
+    {
+      "key": "EP05_S0011_0015",
+      "value": "I wonder how the others are doing."
+    },
+    {
+      "key": "EP05_S0011_0016",
+      "value": "They haven’t showed up yet... Oh!"
+    },
+    {
+      "key": "EP05_S0011_0017",
+      "value": "Good morning, everyone..."
+    },
+    {
+      "key": "EP05_S0011_0018",
+      "value": "Morning..."
+    },
+    {
+      "key": "EP05_S0011_0019",
+      "value": "Uh, mornin’..."
+    },
+    {
+      "key": "EP05_S0011_0020",
+      "value": "(Sounds like Shuuji had a nasty dream last\nnight. He must be pretty wiped out.)"
+    },
+    {
+      "key": "EP05_S0011_0021",
+      "value": "Are you all right, Shuuji? You look a little\npale..."
+    },
+    {
+      "key": "EP05_S0011_0022",
+      "value": "You were talking all funny in your sleep. You\nhave a nightmare or something?"
+    },
+    {
+      "key": "EP05_S0011_0023",
+      "value": "Wha’! No, I, I’m fine...! I slept like\na baby, I swear!"
+    },
+    {
+      "key": "EP05_S0011_0024",
+      "value": "Still, you’re not looking too good... Hmm?"
+    },
+    {
+      "key": "EP05_S0011_0025",
+      "value": "I said I’m fine on my own!"
+    },
+    {
+      "key": "EP05_S0011_0026",
+      "value": "We have no idea what’s going to happen!\nI can’t leave you alone!"
+    },
+    {
+      "key": "EP05_S0011_0027",
+      "value": "Enough already! Don’t come with me!"
+    },
+    {
+      "key": "EP05_S0011_0028",
+      "value": "Hey! Miu!"
+    },
+    {
+      "key": "EP05_S0011_0029",
+      "value": "Those two are the same as ever. Kinda puts\nyou at ease, doesn’t it?"
+    },
+    {
+      "key": "EP05_S0011_0030",
+      "value": "Now’s not the time to sit back and relax. We\nhave to stop them from bickering..."
+    },
+    {
+      "key": "EP05_S0011_0031",
+      "value": "WHAT in the WORLD are you DOING?!"
+    },
+    {
+      "key": "EP05_S0011_0032",
+      "value": "Huh? Uhhh, Shuuji?"
+    },
+    {
+      "key": "EP05_S0011_0033",
+      "value": "Hey, you two! Your constant fighting is\nstarting to annoy everyone!"
+    },
+    {
+      "key": "EP05_S0011_0034",
+      "value": "Shut up. This is family business, so stay out\nof it!"
+    },
+    {
+      "key": "EP05_S0011_0035",
+      "value": "Calm down, guys! And Miu, don’t be so cruel\nto your brother."
+    },
+    {
+      "key": "EP05_S0011_0036",
+      "value": "But I didn’t do anything wrong..."
+    },
+    {
+      "key": "EP05_S0011_0037",
+      "value": "Those two get along in their own way, Shuuji.\nMaybe you don’t need to be so harsh."
+    },
+    {
+      "key": "EP05_S0011_0038",
+      "value": "You say so, but... Anyway, stop arguing so\nmuch over nothing!"
+    },
+    {
+      "key": "EP05_S0011_0039",
+      "value": "Oh hey, the gang’s all here. Guess I’m\nlast...uh, did I miss something important?"
+    },
+    {
+      "key": "EP05_S0011_0040",
+      "value": "No, it’s cool. Now that everyone’s here,\nmaybe we should see where we’re at?"
+    },
+    {
+      "key": "EP05_S0011_0041",
+      "value": "Yes, good idea... Let me take the lead,\nTakuma."
+    },
+    {
+      "key": "EP05_S0011_0042",
+      "value": "It’s all you."
+    },
+    {
+      "key": "EP05_S0011_0043",
+      "value": "Humans are kind of intense, huh."
+    },
+    {
+      "key": "EP05_S0011_0044",
+      "value": "If only all of them were as nice as Aoi."
+    },
+    {
+      "key": "EP05_S0011_0045",
+      "value": "Nothing to be done about it now. We can only\nhave faith and watch over them."
+    },
+    {
+      "key": "EP05_S0011_0046",
+      "value": "You sure about that...?"
+    },
+    {
+      "key": "EP05_S0011_0047",
+      "value": "...In other words, nothing worth reporting.\nThis is bad, given the enemies out there."
+    },
+    {
+      "key": "EP05_S0011_0048",
+      "value": "Those things want to sacrifice us or\nsomething?"
+    },
+    {
+      "key": "EP05_S0011_0049",
+      "value": "I don’t get it..."
+    },
+    {
+      "key": "EP05_S0011_0050",
+      "value": "Maybe that’s the one behind all of this?"
+    },
+    {
+      "key": "EP05_S0011_0051",
+      "value": "What is this “caretaker” in the first place?"
+    },
+    {
+      "key": "EP05_S0011_0052",
+      "value": "Probably, like, the king of all evil, right?\nI bet we’d figure things out if we met him."
+    },
+    {
+      "key": "EP05_S0011_0053",
+      "value": "You mean meet the head bad guy? Are you outta\nyour mind?! That’s way too risky!"
+    },
+    {
+      "key": "EP05_S0011_0054",
+      "value": "That means waltzing into the enemy’s hideout?\nThat’s not risky, that’s a death sentence!"
+    },
+    {
+      "key": "EP05_S0011_0055",
+      "value": "She’s right...\nThe idea is pretty frightening."
+    },
+    {
+      "key": "EP05_S0011_0056",
+      "value": "What’re you saying? You act like we got\na choice!"
+    },
+    {
+      "key": "EP05_S0011_0057",
+      "value": "We got no idea what’s going on—our enemies,\nwhy we’re being attacked, even this world!"
+    },
+    {
+      "key": "EP05_S0011_0058",
+      "value": "How’re we supposed to defend ourselves if\nwe’re in the dark here?!"
+    },
+    {
+      "key": "EP05_S0011_0059",
+      "value": "We oughta kick their door down and get them\nto spill everything they know!"
+    },
+    {
+      "key": "EP05_S0011_0060",
+      "value": "Hmm... Well, you’re not wrong."
+    },
+    {
+      "key": "EP05_S0011_0061",
+      "value": "Yeah, I like it! Jump right to the last boss!"
+    },
+    {
+      "key": "EP05_S0011_0062",
+      "value": "You’re gonna stay put, Miu."
+    },
+    {
+      "key": "EP05_S0011_0063",
+      "value": "What?! Whyyy?!"
+    },
+    {
+      "key": "EP05_S0011_0064",
+      "value": "Because it’s dangerous, obviously!"
+    },
+    {
+      "key": "EP05_S0011_0065",
+      "value": "And you don’t worry about us at all? Just\nher. No wonder she feels coddled to death."
+    },
+    {
+      "key": "EP05_S0011_0066",
+      "value": "Ahaha..."
+    },
+    {
+      "key": "EP05_S0011_0067",
+      "value": "Now, now, everyone just hold your horses!"
+    },
+    {
+      "key": "EP05_S0011_0068",
+      "value": "I can’t let any of you just walk right into\nthe enemy base! It’s too dangerous!"
+    },
+    {
+      "key": "EP05_S0011_0069",
+      "value": "Hoh boy, here we go again..."
+    },
+    {
+      "key": "EP05_S0011_0070",
+      "value": "You have no need to fear a certain degree of\ndanger with us around, you know."
+    },
+    {
+      "key": "EP05_S0011_0071",
+      "value": "Yeah! I’ll protect Takuma!"
+    },
+    {
+      "key": "EP05_S0011_0072",
+      "value": "We’ve been through our fair share of crazy\nscrapes, after all."
+    },
+    {
+      "key": "EP05_S0011_0073",
+      "value": "Their numbers ain’t anything to worry about,\nneither! Easy pickings!"
+    },
+    {
+      "key": "EP05_S0011_0074",
+      "value": "True, true. It should be fine with all of\nthese guys around, right?"
+    },
+    {
+      "key": "EP05_S0011_0075",
+      "value": "With their power, we shouldn’t have too much\ntrouble, I’d guess."
+    },
+    {
+      "key": "EP05_S0011_0076",
+      "value": "Dammit... That’s easy for you to say! Your\nbeasts are strong!"
+    },
+    {
+      "key": "EP05_S0011_0077",
+      "value": "Why is mine the only one so useless..."
+    },
+    {
+      "key": "EP05_S0011_0078",
+      "value": "I, I’m sorry..."
+    },
+    {
+      "key": "EP05_S0011_0079",
+      "value": "Lopmon’s doing his best too, Shuuji. You\nshouldn’t talk about him like that."
+    },
+    {
+      "key": "EP05_S0011_0080",
+      "value": "Anyway, I’m against this! There’s no need to\nface such danger. There must be other ways!"
+    },
+    {
+      "key": "EP05_S0011_0081",
+      "value": "This is our best option right now! Rush their\nbase, and get all the intel we need! Simple!"
+    },
+    {
+      "key": "EP05_S0011_0082",
+      "value": "Man, Takuma, this is going nowhere. Why don’t\nyou try giving your two cents?"
+    },
+    {
+      "key": "EP05_S0011_0083",
+      "value": "(Hmm. Should we head to the enemy base, or\nlook for another way...?)"
+    },
+    {
+      "key": "EP05_S0011_0084",
+      "value": "(The first choice is definitely dangerous,\nbut it’d be nice to get some info.)"
+    },
+    {
+      "key": "EP05_S0011_0085",
+      "value": "(The second means finding a safer way to\nlearn about this world... But how, exactly?)"
+    },
+    {
+      "key": "EP05_S0011_0086",
+      "value": "(Each option has its pros and cons. I don’t\nsee my opinion tipping the scales, but...)"
+    },
+    {
+      "key": "EP05_S0011_Q1",
+      "value": "(Still, I think we should...)"
+    },
+    {
+      "key": "EP05_S0011_Q1_A1",
+      "value": "Look for another way."
+    },
+    {
+      "key": "EP05_S0011_Q1_A2",
+      "value": "Enter the enemy base."
+    },
+    {
+      "key": "EP05_S0011_Q1_A3",
+      "value": "Think a bit more..."
+    },
+    {
+      "key": "EP05_S0011_0088",
+      "value": "I’m with Shuuji and Saki. We should do all we\ncan to avoid putting ourselves in danger."
+    },
+    {
+      "key": "EP05_S0011_0089",
+      "value": "Uh...yes, my sentiments exactly."
+    },
+    {
+      "key": "EP05_S0011_0090",
+      "value": "Yo, you really think that chickenshit is\ngonna fly here?"
+    },
+    {
+      "key": "EP05_S0011_0091",
+      "value": "You know we’re here to protect you, right?"
+    },
+    {
+      "key": "EP05_S0011_0092",
+      "value": "It’s not that I don’t trust you guys, Agumon.\nI’m just prioritizing our safety."
+    },
+    {
+      "key": "EP05_S0011_0093",
+      "value": "The problem is, I can’t think of a safer way\nto do this. Do you have any ideas, Shuuji?"
+    },
+    {
+      "key": "EP05_S0011_0094",
+      "value": "Me? Um, well... Not exactly."
+    },
+    {
+      "key": "EP05_S0011_0095",
+      "value": "Pfft, all sizzle and no steak.\nWhat a blowhard."
+    },
+    {
+      "key": "EP05_S0011_0096",
+      "value": "Hey, watch your mouth, Kaito!"
+    },
+    {
+      "key": "EP05_S0011_0097",
+      "value": "In that case, the only way to learn about\nthis world is to seek out the enemy..."
+    },
+    {
+      "key": "EP05_S0011_0099",
+      "value": "I’m with Minoru and Kaito. We should head for\nthe enemy’s base."
+    },
+    {
+      "key": "EP05_S0011_0100",
+      "value": "Right on the money. Am I right, or amirite?"
+    },
+    {
+      "key": "EP05_S0011_0101",
+      "value": "But that means we’ll end up fighting, doesn’t\nit? Isn’t there a more peaceful way...?"
+    },
+    {
+      "key": "EP05_S0011_0102",
+      "value": "I know we run the risk of being attacked, but\nwe run the same risk by staying here."
+    },
+    {
+      "key": "EP05_S0011_0103",
+      "value": "Besides, we’re not going there to fight, just\ntalk. If things get dicey we can always run."
+    },
+    {
+      "key": "EP05_S0011_0104",
+      "value": "Indeed. If it comes to that, opening up an\nescape route should be a trifle for us."
+    },
+    {
+      "key": "EP05_S0011_0105",
+      "value": "Ahh, I get it. Well if that’s the case, it\ncan’t be ALL that dangerous...right?"
+    },
+    {
+      "key": "EP05_S0011_0107",
+      "value": "Right now, it’s hard to say if heading to\ntheir base is the right move."
+    },
+    {
+      "key": "EP05_S0011_0108",
+      "value": "Whaaat, you’re just sitting on the fence?"
+    },
+    {
+      "key": "EP05_S0011_0109",
+      "value": "I’m just saying. Even if we don’t go, we\ndon’t have any other backup plans, either."
+    },
+    {
+      "key": "EP05_S0011_0110",
+      "value": "That is true. Safety is key, but so is\nlearning more about this world."
+    },
+    {
+      "key": "EP05_S0011_0111",
+      "value": "When it comes down to it, the real issue is\nhow to search outside safely, isn’t it?"
+    },
+    {
+      "key": "EP05_S0011_0112",
+      "value": "Yeah. Unfortunately, the only place we know\nwe can learn from is our worst enemy’s base."
+    },
+    {
+      "key": "EP05_S0011_0113",
+      "value": "If that’s true, then... Hmm..."
+    },
+    {
+      "key": "EP05_S0011_0114",
+      "value": "Let’s just gooo already! Syakomon and the\nothers will take care of us, right?"
+    },
+    {
+      "key": "EP05_S0011_0115",
+      "value": "Yeah, leave the hairy stuff to us!"
+    },
+    {
+      "key": "EP05_S0011_0116",
+      "value": "So that’s it, then... You all are just going\nto ignore me..."
+    },
+    {
+      "key": "EP05_S0011_0117",
+      "value": "Is it because my beast is weak...? Because\nI can’t fight...?"
+    },
+    {
+      "key": "EP05_S0011_0118",
+      "value": "I...I must be strong. Always strong, always\ncorrect. I must guide everyone...and yet..."
+    },
+    {
+      "key": "EP05_S0011_0119",
+      "value": "Shu...Shuuji? Are you okay?"
+    },
+    {
+      "key": "EP05_S0011_0120",
+      "value": "Quiet! This is all your fault!"
+    },
+    {
+      "key": "EP05_S0011_0121",
+      "value": "Heeek! I’m sorry..."
+    },
+    {
+      "key": "EP05_S0011_0122",
+      "value": "Anyway, we have enemies out there, so we have\nto fight!"
+    },
+    {
+      "key": "EP05_S0011_0123",
+      "value": "That means we have to work together! Only then\ncan we all get home safely!"
+    },
+    {
+      "key": "EP05_S0011_0124",
+      "value": "Right, we do still have the chance we’ll find\na way back home."
+    },
+    {
+      "key": "EP05_S0011_0125",
+      "value": "I can’t stand the idea of being offered up\nwith no clue as to why."
+    },
+    {
+      "key": "EP05_S0011_0126",
+      "value": "I’m going to go look inside the school again!\nAll of you should consider your own plans!"
+    },
+    {
+      "key": "EP05_S0011_0127",
+      "value": "Uh, wait! Heyyyyyy!"
+    },
+    {
+      "key": "EP05_S0011_0128",
+      "value": "Didn’t we already say we didn’t find jack?"
+    },
+    {
+      "key": "EP05_S0011_0129",
+      "value": "You should watch your tone. Shuuji is\nperforming his duties quite admirably."
+    },
+    {
+      "key": "EP05_S0011_0130",
+      "value": "Shuuji is trying his best."
+    },
+    {
+      "key": "EP05_S0011_0131",
+      "value": "Unlike me..."
+    },
+    {
+      "key": "EP05_S0011_0132",
+      "value": "You’re doing your best too, Aoi! Have more\nconfidence in yourself!"
+    },
+    {
+      "key": "EP05_S0011_0133",
+      "value": "...Thanks."
+    },
+    {
+      "key": "EP05_S0011_0134",
+      "value": "Hey, Takuma. What’re we gonna do?"
+    },
+    {
+      "key": "EP05_S0011_0135",
+      "value": "Our search takes priority, but maybe I’ll\ntalk to everyone and get the bigger picture."
+    },
+    {
+      "key": "EP05_S0011_0136",
+      "value": "You do whatever you want, Agumon."
+    },
+    {
+      "key": "EP05_S0011_0137",
+      "value": "Okay!"
+    },
+    {
+      "key": "EP05_S0011_0138",
+      "value": "(It’ll be nice if I can actually learn anything\nnew at all...)"
+    }
+  ]
+}

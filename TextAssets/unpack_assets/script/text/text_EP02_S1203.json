@@ -1,0 +1,56 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1203_0001",
+      "value": "Takuma, nothing’s here."
+    },
+    {
+      "key": "EP02_S1203_0002",
+      "value": "Right...\nLet’s check somewhere else?"
+    },
+    {
+      "key": "EP02_S1203_0003",
+      "value": "Aye aye!"
+    },
+    {
+      "key": "EP02_S1203_0004",
+      "value": "There’s nothing here.\nLet’s check somewhere else."
+    },
+    {
+      "key": "EP02_S1203_0201",
+      "value": "Why does Ryo always say such awful things?"
+    },
+    {
+      "key": "EP02_S1203_0202",
+      "value": "Because he’s scared. He probably doesn’t know\nwho or what to trust."
+    },
+    {
+      "key": "EP02_S1203_0203",
+      "value": "And you’re not scared, Takuma?"
+    },
+    {
+      "key": "EP02_S1203_0204",
+      "value": "Well, I wouldn’t say that, but I do trust you\nand the others."
+    },
+    {
+      "key": "EP02_S1203_0205",
+      "value": "After all, we wouldn’t be able to protect\nourselves without your help."
+    },
+    {
+      "key": "EP02_S1203_0206",
+      "value": "I guess not... But you know, I’m glad you\nrely on me, Takuma."
+    },
+    {
+      "key": "EP02_S1203_0207",
+      "value": "Honestly, I don’t know what I’d do without\nyou. Now let’s go find that food!"
+    },
+    {
+      "key": "EP02_S1203_0208",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP02_S1203_0209",
+      "value": "I’d do anything for you, Takuma!"
+    }
+  ]
+}

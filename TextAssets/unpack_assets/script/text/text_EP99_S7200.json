@@ -1,0 +1,136 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S7200_0001",
+      "value": "Oh, Takuma, it’s you! You’re not lost again,\nare you?"
+    },
+    {
+      "key": "EP99_S7200_0002",
+      "value": "Sorry, just kidding. Listen, can I ask you\nabout something?"
+    },
+    {
+      "key": "EP99_S7200_0003",
+      "value": "Sure, go ahead. What’s on your mind?"
+    },
+    {
+      "key": "EP99_S7200_0004",
+      "value": "Well, maybe it’s not the sort of thing\nI should be asking you about, but..."
+    },
+    {
+      "key": "EP99_S7200_0005",
+      "value": "...do you really think we’ll all end up going\nback home?"
+    },
+    {
+      "key": "EP99_S7200_0006",
+      "value": "(So, Saki’s worried about that too.)"
+    },
+    {
+      "key": "EP99_S7200_0007",
+      "value": "(What should I say to her?)"
+    },
+    {
+      "key": "EP99_S7200_Q1",
+      "value": "What should I say to Saki?"
+    },
+    {
+      "key": "EP99_S7200_Q1_A1",
+      "value": "You think we won’t?"
+    },
+    {
+      "key": "EP99_S7200_Q1_A2",
+      "value": "This place is scary."
+    },
+    {
+      "key": "EP99_S7200_Q1_A3",
+      "value": "It’ll all work out."
+    },
+    {
+      "key": "EP99_S7200_0008",
+      "value": "Are you saying you think we won’t? That we’ll\nnever make it back?"
+    },
+    {
+      "key": "EP99_S7200_0009",
+      "value": "No, it’s not really a question of my doubting\nwhether we’ll make it or not."
+    },
+    {
+      "key": "EP99_S7200_0010",
+      "value": "But sometimes, I find myself wondering if\nwe’ll even have a choice."
+    },
+    {
+      "key": "EP99_S7200_0011",
+      "value": "(Sounds like Saki has something on her\nmind...)"
+    },
+    {
+      "key": "EP99_S7200_0012",
+      "value": "I can see where you’re coming from. This\nworld is a terrifying place."
+    },
+    {
+      "key": "EP99_S7200_0013",
+      "value": "But, don’t you just feel so alive here?"
+    },
+    {
+      "key": "EP99_S7200_0014",
+      "value": "Each time we triumph over a life-or-death\nsituation, it’s just this huge rush..."
+    },
+    {
+      "key": "EP99_S7200_0015",
+      "value": "It’s like a thrill I can feel running down my\nspine..."
+    },
+    {
+      "key": "EP99_S7200_0016",
+      "value": "(So...is Saki saying she doesn’t want to go\nback?)"
+    },
+    {
+      "key": "EP99_S7200_0017",
+      "value": "Don’t worry, I’m sure this is all going to\nwork out."
+    },
+    {
+      "key": "EP99_S7200_0018",
+      "value": "What, are you trying to kid yourself? Haha,\nthat’s funny."
+    },
+    {
+      "key": "EP99_S7200_0019",
+      "value": "I mean, not that I’m any different..."
+    },
+    {
+      "key": "EP99_S7200_0020",
+      "value": "(I think Saki was saying that last part more\nto herself than to me.)"
+    },
+    {
+      "key": "EP99_S7200_0021",
+      "value": "(She seemed kind of upset when she said it.)"
+    },
+    {
+      "key": "EP99_S7200_0022",
+      "value": "Well, anyway, we should be getting back."
+    },
+    {
+      "key": "EP99_S7200_0023",
+      "value": "The others will start worrying before too\nmuch longer. Come on, Takuma."
+    },
+    {
+      "key": "EP99_S7200_0024",
+      "value": "Yeah, right..."
+    },
+    {
+      "key": "EP99_S7200_0025",
+      "value": "Thanks for the chat. I’m feeling a bit better\nn—*cough!*"
+    },
+    {
+      "key": "EP99_S7200_0026",
+      "value": "*cough* *cough* Sor—*cough* *cough*\n*cough*...!"
+    },
+    {
+      "key": "EP99_S7200_0027",
+      "value": "Hey, are you okay? Did you catch a cold or\nsomething?"
+    },
+    {
+      "key": "EP99_S7200_0028",
+      "value": "Oh, no! I’m fine! I just had something stuck\nin my throat."
+    },
+    {
+      "key": "EP99_S7200_0029",
+      "value": "(I’m...not so sure about that. I hope she’s\nokay.)"
+    }
+  ]
+}

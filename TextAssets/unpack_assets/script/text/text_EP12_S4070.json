@@ -1,0 +1,356 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S4070_0001",
+      "value": "No! It’s not possible! This can’t be\nhappening!"
+    },
+    {
+      "key": "EP12_S4070_0002",
+      "value": "I lost? I actually lost? No! It can’t be!\nCan’t be, can’t be, can’t be, can’t be!"
+    },
+    {
+      "key": "EP12_S4070_0003",
+      "value": "Oh, but it is! Just take a look at yourself.\nYou’re a mess!"
+    },
+    {
+      "key": "EP12_S4070_0004",
+      "value": "We did it... We won."
+    },
+    {
+      "key": "EP12_S4070_0005",
+      "value": "...GRRRAAAAAAAAAAAAH!!!"
+    },
+    {
+      "key": "EP12_S4070_0006",
+      "value": "So...will everything go back to normal now?"
+    },
+    {
+      "key": "EP12_S4070_0007",
+      "value": "Takuma, hurry!"
+    },
+    {
+      "key": "EP12_S4070_0008",
+      "value": "Huh? What’s the rush?"
+    },
+    {
+      "key": "EP12_S4070_0009",
+      "value": "What do you mean, “what’s the rush?” The\ndoor’s open! If we hurry, we can go back!"
+    },
+    {
+      "key": "EP12_S4070_0010",
+      "value": "Once it closes, we may never have another\nchance to get home!"
+    },
+    {
+      "key": "EP12_S4070_0011",
+      "value": "Oh! You’re right! We need to get mov—"
+    },
+    {
+      "key": "EP12_S4070_0012",
+      "value": "Hold on, you two! Take another look at that\ndoor!"
+    },
+    {
+      "key": "EP12_S4070_0013",
+      "value": "It’s not closing. If anything, it’s getting\nbigger!"
+    },
+    {
+      "key": "EP12_S4070_0014",
+      "value": "Yes, and that’s not all. It’s also begun to\nsolidify."
+    },
+    {
+      "key": "EP12_S4070_0015",
+      "value": "What do you mean, it’s “begun to solidify”?"
+    },
+    {
+      "key": "EP12_S4070_0016",
+      "value": "It’s, uh, getting sturdier. Harder to close."
+    },
+    {
+      "key": "EP12_S4070_0017",
+      "value": "I don’t know how to explain it! Anyway, the\ntwo worlds are starting to join together..."
+    },
+    {
+      "key": "EP12_S4070_0018",
+      "value": "Yeah, that’s it! It looks like they’re\nstarting to fuse!"
+    },
+    {
+      "key": "EP12_S4070_0019",
+      "value": "The worlds are...fusing?"
+    },
+    {
+      "key": "EP12_S4070_0020",
+      "value": "Yes, I have the same impression as Floramon.\nThat door is no longer a temporary thing."
+    },
+    {
+      "key": "EP12_S4070_0021",
+      "value": "Uh, this is bad, right?! Can somebody tell me\nwhat’s going on here?!"
+    },
+    {
+      "key": "EP12_S4070_0022",
+      "value": "If the door stays open like this, uh...this\nworld and our world will be connected."
+    },
+    {
+      "key": "EP12_S4070_0023",
+      "value": "Okay, but what does that mean?!"
+    },
+    {
+      "key": "EP12_S4070_0024",
+      "value": "There will be free travel between worlds.\nAnyone will be able to go back and forth."
+    },
+    {
+      "key": "EP12_S4070_0025",
+      "value": "I think you’re probably right. Monsters like\nAgumon will—"
+    },
+    {
+      "key": "EP12_S4070_0026",
+      "value": "The Kemonogami are going to appear in our\nworld?!"
+    },
+    {
+      "key": "EP12_S4070_0027",
+      "value": "Heh... Heheheh...! Pathetic!"
+    },
+    {
+      "key": "EP12_S4070_0028",
+      "value": "Wah?! You... You’re still alive?!"
+    },
+    {
+      "key": "EP12_S4070_0029",
+      "value": "You saw those murals on your way here, didn’t\nyou? Those were diagrams of the two worlds,"
+    },
+    {
+      "key": "EP12_S4070_0030",
+      "value": "which used to be one until they were split\napart in ancient times."
+    },
+    {
+      "key": "EP12_S4070_0031",
+      "value": "This world is the one you humans abandoned...\nthe world of instinct."
+    },
+    {
+      "key": "EP12_S4070_0032",
+      "value": "The world of instinct? What are you even\ntalking about?"
+    },
+    {
+      "key": "EP12_S4070_0033",
+      "value": "An abandoned world. A crumbling world, fading\nunnoticed to a solitary destruction..."
+    },
+    {
+      "key": "EP12_S4070_0034",
+      "value": "I refuse to allow that to happen! Heheheh...\nNow the door is open."
+    },
+    {
+      "key": "EP12_S4070_0035",
+      "value": "(That’s more raving than response, and\nBoltboutamon’s eyes look vacant.)"
+    },
+    {
+      "key": "EP12_S4070_0036",
+      "value": "(Can he even still hear us, or is he too far\ngone?)"
+    },
+    {
+      "key": "EP12_S4070_0037",
+      "value": "My vengeance, my rage, was not mine...alone.\nMy many brethren...will destroy...the worlds."
+    },
+    {
+      "key": "EP12_S4070_0038",
+      "value": "Now...struggle...to live on...in...despair..."
+    },
+    {
+      "key": "EP12_S4070_0039",
+      "value": "Boltboutamon..."
+    },
+    {
+      "key": "EP12_S4070_0040",
+      "value": "What...what do we do if he was telling the\ntruth? You know, about there being others."
+    },
+    {
+      "key": "EP12_S4070_0041",
+      "value": "Well, he’s probably right about Kemonogami\ncoming to our world bearing grudges."
+    },
+    {
+      "key": "EP12_S4070_0042",
+      "value": "That’s terrible! Isn’t there anything we can\ndo?!"
+    },
+    {
+      "key": "EP12_S4070_0043",
+      "value": "Damn it! So Boltboutamon’s going to get away\nwith this?!"
+    },
+    {
+      "key": "EP12_S4070_0044",
+      "value": "What are we supposed to do now?"
+    },
+    {
+      "key": "EP12_S4070_0045",
+      "value": "Seriously, what’s going to happen? What about\nour world?! What about this world?! Takuma?!"
+    },
+    {
+      "key": "EP12_S4070_0046",
+      "value": "I...I don’t know any more than you do! But\nI guess if you think about it..."
+    },
+    {
+      "key": "EP12_S4070_0047",
+      "value": "Both worlds are likely headed for chaos...or\nsomething."
+    },
+    {
+      "key": "EP12_S4070_0048",
+      "value": "Yes. Think about how surprised we were when\nwe first met Labramon and the others."
+    },
+    {
+      "key": "EP12_S4070_0049",
+      "value": "If our world were suddenly flooded with\nhostile monsters, there’d be a huge panic..."
+    },
+    {
+      "key": "EP12_S4070_0050",
+      "value": "No, it might be worse than that. It could\nchange our world completely."
+    },
+    {
+      "key": "EP12_S4070_0051",
+      "value": "But...what can we do to stop it?"
+    },
+    {
+      "key": "EP12_S4070_0052",
+      "value": "We can’t expect everyone to suddenly be able\nto open their hearts to the Kemonogami..."
+    },
+    {
+      "key": "EP12_S4070_0053",
+      "value": "Aoi, wait!"
+    },
+    {
+      "key": "EP12_S4070_0054",
+      "value": "What?"
+    },
+    {
+      "key": "EP12_S4070_0055",
+      "value": "We’re not afraid of Agumon or any of the\nothers anymore."
+    },
+    {
+      "key": "EP12_S4070_0056",
+      "value": "We learned what they were like by spending\ntime with them, learning more about them."
+    },
+    {
+      "key": "EP12_S4070_0057",
+      "value": "Eventually, we could tell which ones were\nhostile and which ones weren’t."
+    },
+    {
+      "key": "EP12_S4070_0058",
+      "value": "Oh, so you’re saying..."
+    },
+    {
+      "key": "EP12_S4070_0059",
+      "value": "Let’s go, everyone. Let’s go back to our\nworld."
+    },
+    {
+      "key": "EP12_S4070_0060",
+      "value": "Huh?! I don’t get it. What are you thinking?"
+    },
+    {
+      "key": "EP12_S4070_0061",
+      "value": "Did you think of a way to make things work\nout?"
+    },
+    {
+      "key": "EP12_S4070_0062",
+      "value": "Yeah, it’s simple. We know more about these\nthings than anyone."
+    },
+    {
+      "key": "EP12_S4070_0063",
+      "value": "We’re the experts on this world, not to\nmention Agumon and the others."
+    },
+    {
+      "key": "EP12_S4070_0064",
+      "value": "Which means we’re the only ones who can save\nthe world as it descends into panic."
+    },
+    {
+      "key": "EP12_S4070_0065",
+      "value": "By teaching the people in our world what we\nknow."
+    },
+    {
+      "key": "EP12_S4070_0066",
+      "value": "You really think we can do it?"
+    },
+    {
+      "key": "EP12_S4070_0067",
+      "value": "Well, maybe it wouldn’t be possible if it was\njust us, but we won’t be alone."
+    },
+    {
+      "key": "EP12_S4070_0068",
+      "value": "We have our friends. Agumon, everyone, will\nyou help us?"
+    },
+    {
+      "key": "EP12_S4070_0069",
+      "value": "What? You want us to help?"
+    },
+    {
+      "key": "EP12_S4070_0070",
+      "value": "Yeah. I want you to come with us. Work with\nus side-by-side, as partners."
+    },
+    {
+      "key": "EP12_S4070_0071",
+      "value": "You mean...we’d be going to your world with\nyou?"
+    },
+    {
+      "key": "EP12_S4070_0072",
+      "value": "That’s right! I think your help is going to\nbe crucial."
+    },
+    {
+      "key": "EP12_S4070_0073",
+      "value": "We’ll need you to demonstrate that not\neverything from this world is hostile."
+    },
+    {
+      "key": "EP12_S4070_0074",
+      "value": "This will be no small task."
+    },
+    {
+      "key": "EP12_S4070_0075",
+      "value": "But considering the circumstances, what\nchoice do we have?"
+    },
+    {
+      "key": "EP12_S4070_0076",
+      "value": "If it means helping Aoi, helping all of you,\nthen of course we will."
+    },
+    {
+      "key": "EP12_S4070_0077",
+      "value": "So...we’ll be able to stay together. I’ll be\nable to keep helping you, Takuma!"
+    },
+    {
+      "key": "EP12_S4070_0078",
+      "value": "I’ll do it! I’ll go with you, Takuma, and\nstay by your side no matter what!"
+    },
+    {
+      "key": "EP12_S4070_0079",
+      "value": "Thanks, Agumon! Thanks, everyone!"
+    },
+    {
+      "key": "EP12_S4070_0080",
+      "value": "Let’s use our bonds with each other to save\nboth worlds from chaos!"
+    },
+    {
+      "key": "EP12_S4070_0081",
+      "value": "Yeah! We’ll stick together until the very\nend! As friends, we can do anything!"
+    },
+    {
+      "key": "EP12_S4070_0082",
+      "value": "I don’t know if this is going to work out,\nbut it sure seems worth trying!"
+    },
+    {
+      "key": "EP12_S4070_0083",
+      "value": "Yes, let’s do this. All of us, working\ntogether."
+    },
+    {
+      "key": "EP12_S4070_0084",
+      "value": "(Then we walked through the door back to our\nworld.)"
+    },
+    {
+      "key": "EP12_S4070_0085",
+      "value": "(Maybe it wasn’t a doorway back to the world\nwe knew,)"
+    },
+    {
+      "key": "EP12_S4070_0086",
+      "value": "(but I wasn’t afraid. Together, my friends\nand I were going to save this new world.)"
+    },
+    {
+      "key": "EP12_S4070_0087",
+      "value": "(To fight against chaos.)"
+    },
+    {
+      "key": "EP12_S4070_0088",
+      "value": "(Even if that meant a different kind of fight\nthan what we’d been through so far.)"
+    }
+  ]
+}

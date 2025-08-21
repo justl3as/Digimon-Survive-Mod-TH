@@ -1,0 +1,56 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S4200_0001",
+      "value": "Any luck? Finding Kaito, that is."
+    },
+    {
+      "key": "EP11_S4200_Q1",
+      "value": "How should I respond to the Professor?"
+    },
+    {
+      "key": "EP11_S4200_Q1_A1",
+      "value": "Nothing yet."
+    },
+    {
+      "key": "EP11_S4200_Q1_A2",
+      "value": "He hasn’t come back."
+    },
+    {
+      "key": "EP11_S4200_Q1_A3",
+      "value": "I found him!"
+    },
+    {
+      "key": "EP11_S4200_0002",
+      "value": "Nothing yet, I’m afraid."
+    },
+    {
+      "key": "EP11_S4200_0003",
+      "value": "I see... I sure hope the boy is safe..."
+    },
+    {
+      "key": "EP11_S4200_0004",
+      "value": "He hasn’t come back, from the looks of it."
+    },
+    {
+      "key": "EP11_S4200_0005",
+      "value": "Is that right? I certainly hope he’s okay..."
+    },
+    {
+      "key": "EP11_S4200_0006",
+      "value": "I found him!"
+    },
+    {
+      "key": "EP11_S4200_0007",
+      "value": "Oh! Did you, now?!\nFantastic news!"
+    },
+    {
+      "key": "EP11_S4200_0008",
+      "value": "Sorry, that was a lie."
+    },
+    {
+      "key": "EP11_S4200_0009",
+      "value": "...Um, Takuma.\nThis is no time for fun and games, you know?"
+    }
+  ]
+}

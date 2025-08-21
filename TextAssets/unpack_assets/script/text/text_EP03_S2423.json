@@ -1,0 +1,316 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2423_0001",
+      "value": "Hey, Takuma, you won’t believe this!"
+    },
+    {
+      "key": "EP03_S2423_0002",
+      "value": "Huh? What is it?"
+    },
+    {
+      "key": "EP03_S2423_0003",
+      "value": "So, we were getting changed in another room,\nand we locked the door for privacy."
+    },
+    {
+      "key": "EP03_S2423_0004",
+      "value": "But someone tried to force it open! We could\nhear it rattling against the frame!"
+    },
+    {
+      "key": "EP03_S2423_0005",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP03_S2423_0006",
+      "value": "Then they left without a word. I was\nterrified!"
+    },
+    {
+      "key": "EP03_S2423_0007",
+      "value": "It startled me, too. I was scared speechless."
+    },
+    {
+      "key": "EP03_S2423_0008",
+      "value": "You don’t say... That sounds real scary..."
+    },
+    {
+      "key": "EP03_S2423_0009",
+      "value": "Yeah, Aoi turned white as a sheet. Are you\nfeeling okay now? Doing better?"
+    },
+    {
+      "key": "EP03_S2423_0010",
+      "value": "Uh, yeah... It was really scary, but I’m over\nit now."
+    },
+    {
+      "key": "EP03_S2423_0011",
+      "value": "(That was probably me... I remember finding\na locked door I thought was strange.)"
+    },
+    {
+      "key": "EP03_S2423_0012",
+      "value": "It had to have been Minoru. It’s just the\nsort of thing he would do."
+    },
+    {
+      "key": "EP03_S2423_0013",
+      "value": "D-don’t say that. I’d hate to blame him for\nit when we don’t have any proof."
+    },
+    {
+      "key": "EP03_S2423_0014",
+      "value": "But who else could it have been? Can’t you\njust see him saying he thought it’d be funny?"
+    },
+    {
+      "key": "EP03_S2423_0015",
+      "value": "That does sound like him..."
+    },
+    {
+      "key": "EP03_S2423_0016",
+      "value": "(Oh no, they’re going to blame Minoru, and he\ndidn’t do anything wrong! That’s awful!)"
+    },
+    {
+      "key": "EP03_S2423_0017",
+      "value": "(Should I admit it was me? But...then they’d\nget mad at me over an accident.)"
+    },
+    {
+      "key": "EP03_S2423_0018",
+      "value": "(Man, Minoru would know just what to do in\nthis situation. Hm? Now there’s a thought...)"
+    },
+    {
+      "key": "EP03_S2423_Q1",
+      "value": "(Anyway, I’ve got to say something!)"
+    },
+    {
+      "key": "EP03_S2423_Q1_A1",
+      "value": "Tell the truth."
+    },
+    {
+      "key": "EP03_S2423_Q1_A2",
+      "value": "Blame Minoru."
+    },
+    {
+      "key": "EP03_S2423_Q1_A3",
+      "value": "Try Minoru’s approach."
+    },
+    {
+      "key": "EP03_S2423_0019",
+      "value": "Tell the truth."
+    },
+    {
+      "key": "EP03_S2423_0020",
+      "value": "I’m sorry! It was me!"
+    },
+    {
+      "key": "EP03_S2423_0021",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP03_S2423_0022",
+      "value": "What?! Takuma?!"
+    },
+    {
+      "key": "EP03_S2423_0023",
+      "value": "What were you thinking? I certainly hope you\ncan explain yourself."
+    },
+    {
+      "key": "EP03_S2423_0024",
+      "value": "No! It wasn’t like that! I didn’t do it on\npurpose!"
+    },
+    {
+      "key": "EP03_S2423_0025",
+      "value": "It’s just, when that door wouldn’t open,\nI thought maybe it was another spiderweb!"
+    },
+    {
+      "key": "EP03_S2423_0026",
+      "value": "A spiderweb? Seriously?"
+    },
+    {
+      "key": "EP03_S2423_0027",
+      "value": "Oh...so that’s why you tried to force it."
+    },
+    {
+      "key": "EP03_S2423_0028",
+      "value": "But once I realized it was just locked,\nI figured I might as well move on."
+    },
+    {
+      "key": "EP03_S2423_0029",
+      "value": "Uh-huh. Sure."
+    },
+    {
+      "key": "EP03_S2423_0030",
+      "value": "I didn’t mean to scare you. I’m sorry."
+    },
+    {
+      "key": "EP03_S2423_0031",
+      "value": "No, that’s okay! It sounds like it was an\naccident, so don’t worry about it."
+    },
+    {
+      "key": "EP03_S2423_0032",
+      "value": "Really, I’m sorry. I’ll try to be more\ncareful next time."
+    },
+    {
+      "key": "EP03_S2423_0033",
+      "value": "It’s all right! No need to apologize. Thanks\nfor telling us the truth. I appreciate it."
+    },
+    {
+      "key": "EP03_S2423_0034",
+      "value": "Phew..."
+    },
+    {
+      "key": "EP03_S2423_0035",
+      "value": "You actually buy that, Aoi?"
+    },
+    {
+      "key": "EP03_S2423_0036",
+      "value": "Then again, Takuma doesn’t seem like the type\nwho’d do something creepy."
+    },
+    {
+      "key": "EP03_S2423_0037",
+      "value": "Haha, I’m glad you believe me."
+    },
+    {
+      "key": "EP03_S2423_0038",
+      "value": "Blame Minoru."
+    },
+    {
+      "key": "EP03_S2423_0039",
+      "value": "You know, I did see Minoru messing with one\nof the doors."
+    },
+    {
+      "key": "EP03_S2423_0040",
+      "value": "I knew it!"
+    },
+    {
+      "key": "EP03_S2423_0041",
+      "value": "You mean, it really was Minoru?"
+    },
+    {
+      "key": "EP03_S2423_0042",
+      "value": "(Sorry, Minoru!)"
+    },
+    {
+      "key": "EP03_S2423_0043",
+      "value": "Still, knowing him, he probably didn’t mean\nanything by it. I’m sure it was just a prank."
+    },
+    {
+      "key": "EP03_S2423_0044",
+      "value": "Yeah. Minoru’s like a kid who never grew up.\nHe wouldn’t do it to be creepy."
+    },
+    {
+      "key": "EP03_S2423_0045",
+      "value": "You think spying on us is some kind of joke?!"
+    },
+    {
+      "key": "EP03_S2423_0046",
+      "value": "No. You’re right... Sorry."
+    },
+    {
+      "key": "EP03_S2423_0047",
+      "value": "Ugh, this makes me so mad! Next time I see\nMinoru, he’s going to pay for this!"
+    },
+    {
+      "key": "EP03_S2423_0048",
+      "value": "Um, Saki? T-try not to go overboard, okay?\nMaybe just lecture him?"
+    },
+    {
+      "key": "EP03_S2423_0049",
+      "value": "Anyway, thanks for telling us, Takuma."
+    },
+    {
+      "key": "EP03_S2423_0050",
+      "value": "No problem..."
+    },
+    {
+      "key": "EP03_S2423_0051",
+      "value": "(Minoru...I’m so sorry. I’ll have to make\nthis up to you next time I see you.)"
+    },
+    {
+      "key": "EP03_S2423_0052",
+      "value": "Try Minoru’s approach."
+    },
+    {
+      "key": "EP03_S2423_0053",
+      "value": "(I know, this will all work out if I can just\nthink up a good line like Minoru would use.)"
+    },
+    {
+      "key": "EP03_S2423_0054",
+      "value": "So, uh, actually...that was me."
+    },
+    {
+      "key": "EP03_S2423_0055",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP03_S2423_0056",
+      "value": "What?! Takuma?!"
+    },
+    {
+      "key": "EP03_S2423_0057",
+      "value": "Yeah, I thought it’d be funny to mess with\nyou a bit, keep you on your toes."
+    },
+    {
+      "key": "EP03_S2423_0058",
+      "value": "I didn’t realize you’d take it so seriously.\nSorry about that, really."
+    },
+    {
+      "key": "EP03_S2423_0059",
+      "value": "(Ugh, I can’t believe I just said that. Even\nMinoru wouldn’t be this casual about it.)"
+    },
+    {
+      "key": "EP03_S2423_0060",
+      "value": "(How are they taking it?)"
+    },
+    {
+      "key": "EP03_S2423_0061",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP03_S2423_0062",
+      "value": "Yeah?"
+    },
+    {
+      "key": "EP03_S2423_0063",
+      "value": "*sniff*... *sob*"
+    },
+    {
+      "key": "EP03_S2423_0064",
+      "value": "Takuma, how could you?! *sniff* That was\nawful!"
+    },
+    {
+      "key": "EP03_S2423_0065",
+      "value": "(Oh no... I made her cry.)"
+    },
+    {
+      "key": "EP03_S2423_0066",
+      "value": "You... You’d better be ready to pay for this!"
+    },
+    {
+      "key": "EP03_S2423_0067",
+      "value": "I’m really sorry. I’ll accept whatever\npunishment you want."
+    },
+    {
+      "key": "EP03_S2423_0068",
+      "value": "(It’s only fair. After a response like that,\nI didn’t have a leg to stand on.)"
+    },
+    {
+      "key": "EP03_S2423_0069",
+      "value": "(I had to constantly apologize to Aoi and let\nSaki put me on cleaning duty for a week.)"
+    },
+    {
+      "key": "EP03_S2423_0070",
+      "value": "What do you think, maybe cover one side of\nthe door with paper?"
+    },
+    {
+      "key": "EP03_S2423_0071",
+      "value": "We should at least make one classroom the\nchanging room."
+    },
+    {
+      "key": "EP03_S2423_0072",
+      "value": "(Seems like they’re talking more to each\nother than me now.)"
+    },
+    {
+      "key": "EP03_S2423_0073",
+      "value": "(Suddenly, I feel exhausted. Maybe I’d better\ngo somewhere else.)"
+    },
+    {
+      "key": "EP03_S2423_0074",
+      "value": "(I don’t think I have the guts to join in on\ngirl talk. I’d better leave.)"
+    }
+  ]
+}

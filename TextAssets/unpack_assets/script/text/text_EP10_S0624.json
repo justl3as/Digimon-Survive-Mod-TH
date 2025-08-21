@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP10_S0624_0001",
+      "value": "Takuma! There’s something in the grass!"
+    },
+    {
+      "key": "EP10_S0624_0002",
+      "value": "You mean over there? Let’s check it out."
+    },
+    {
+      "key": "EP10_S0624_0003",
+      "value": "Right, on three. One...two..."
+    },
+    {
+      "key": "EP10_S0624_0004",
+      "value": "Three!!!"
+    },
+    {
+      "key": "EP10_S0624_0005",
+      "value": "Huh? There’s nothing here."
+    },
+    {
+      "key": "EP10_S0624_0006",
+      "value": "I guess you were just imagining things."
+    }
+  ]
+}

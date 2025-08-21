@@ -1,0 +1,320 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1400_0001",
+      "value": "Oh, hey, Kaito. What are you doing over here?"
+    },
+    {
+      "key": "EP04_S1400_0002",
+      "value": "Oh, I don’t know. I didn’t want to intrude on\nyou guys or anything."
+    },
+    {
+      "key": "EP04_S1400_0003",
+      "value": "Hey, come on, you’re one of us now. No need\nto hang back."
+    },
+    {
+      "key": "EP04_S1400_0004",
+      "value": "Nah. If only I’d caught on to that woman\nsooner, things wouldn’t have gotten so bad."
+    },
+    {
+      "key": "EP04_S1400_0005",
+      "value": "Hey, you shouldn’t let that bother you.\nBesides, everything turned out fine."
+    },
+    {
+      "key": "EP04_S1400_0006",
+      "value": "That’s right, Kaito. It all worked out."
+    },
+    {
+      "key": "EP04_S1400_0007",
+      "value": "But if anything had gone wrong, Ryo could’ve\nwound up dead."
+    },
+    {
+      "key": "EP04_S1400_0008",
+      "value": "I really do feel bad about how it all went\ndown like that."
+    },
+    {
+      "key": "EP04_S1400_0009",
+      "value": "If only I’d seen through her disguise sooner,"
+    },
+    {
+      "key": "EP04_S1400_0010",
+      "value": "things wouldn’t have ended like that."
+    },
+    {
+      "key": "EP04_S1400_0011",
+      "value": "It’s not like it was all your fault."
+    },
+    {
+      "key": "EP04_S1400_0012",
+      "value": "Everyone else got tricked, too. None of us\nblame you, Kaito."
+    },
+    {
+      "key": "EP04_S1400_0013",
+      "value": "Well, I still feel bad about it, okay?"
+    },
+    {
+      "key": "EP04_S1400_0014",
+      "value": "I’ve been acting so selfishly this whole\ntime, only thinking of myself."
+    },
+    {
+      "key": "EP04_S1400_0015",
+      "value": "But I only did it because I thought I would\nbe the one to pay the price."
+    },
+    {
+      "key": "EP04_S1400_0016",
+      "value": "I couldn’t do anything back there, even\nthough it was me who got Ryo into that mess!"
+    },
+    {
+      "key": "EP04_S1400_0017",
+      "value": "I’ll never forgive myself!"
+    },
+    {
+      "key": "EP04_S1400_0018",
+      "value": "No, Kaito, it wasn’t your fault! There was\nnothing anyone could have done!"
+    },
+    {
+      "key": "EP04_S1400_0019",
+      "value": "That’s right. It was out of our hands."
+    },
+    {
+      "key": "EP04_S1400_0020",
+      "value": "Still, I wanted to apologize. I feel like\nthere was more I could’ve done."
+    },
+    {
+      "key": "EP04_S1400_0021",
+      "value": "So...sorry."
+    },
+    {
+      "key": "EP04_S1400_0022",
+      "value": "(I’ve always considered Kaito brash and\nthoughtless, but really, he’s a good guy...)"
+    },
+    {
+      "key": "EP04_S1400_0023",
+      "value": "(...with a strong sense of what’s right,\nsurprising honesty, and even common sense.)"
+    },
+    {
+      "key": "EP04_S1400_Q1",
+      "value": "(I should say something too!)"
+    },
+    {
+      "key": "EP04_S1400_Q1_A1",
+      "value": "You’re a good guy."
+    },
+    {
+      "key": "EP04_S1400_Q1_A2",
+      "value": "You’re really honest."
+    },
+    {
+      "key": "EP04_S1400_Q1_A3",
+      "value": "You’ve got some sense."
+    },
+    {
+      "key": "EP04_S1400_0028",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1400_0029",
+      "value": "You know, Kaito, you’re actually a good guy."
+    },
+    {
+      "key": "EP04_S1400_0030",
+      "value": "Huh? What’s this now?"
+    },
+    {
+      "key": "EP04_S1400_0031",
+      "value": "Well, you thought something was wrong and you\napologized, right?"
+    },
+    {
+      "key": "EP04_S1400_0032",
+      "value": "And when it comes down to it, you’re\nconcerned about what happens to us."
+    },
+    {
+      "key": "EP04_S1400_0033",
+      "value": "So I figure you must be all right."
+    },
+    {
+      "key": "EP04_S1400_0034",
+      "value": "No, I don’t know. I just don’t want anyone\nelse getting caught up in my problems."
+    },
+    {
+      "key": "EP04_S1400_0035",
+      "value": "That’s all I’m saying."
+    },
+    {
+      "key": "EP04_S1400_0036",
+      "value": "Hah, you’re such a liar."
+    },
+    {
+      "key": "EP04_S1400_0037",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1400_0038",
+      "value": "You can be surprisingly honest sometimes, you\nknow that?"
+    },
+    {
+      "key": "EP04_S1400_0039",
+      "value": "Huh? What’re you going on about? You’re\nembarrassing me."
+    },
+    {
+      "key": "EP04_S1400_0040",
+      "value": "That’s right, Takuma. In his case, it’s just\nthat he’s too dumb to lie."
+    },
+    {
+      "key": "EP04_S1400_0041",
+      "value": "Hey, I don’t want to hear that from you!"
+    },
+    {
+      "key": "EP04_S1400_0042",
+      "value": "(And yet he always has an ear for what\nDracmon has to say.)"
+    },
+    {
+      "key": "EP04_S1400_0043",
+      "value": "(I do think he has an honest side.)"
+    },
+    {
+      "key": "EP04_S1400_0044",
+      "value": "(But he might get upset if I bring it up\nagain, so I’d better not.)"
+    },
+    {
+      "key": "EP04_S1400_0045",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1400_0046",
+      "value": "You know, you actually do have some common\nsense, Kaito."
+    },
+    {
+      "key": "EP04_S1400_0047",
+      "value": "Huh? What’s this all of a sudden?"
+    },
+    {
+      "key": "EP04_S1400_0048",
+      "value": "You can be reckless and short-tempered, and\nyou don’t really have a way with words..."
+    },
+    {
+      "key": "EP04_S1400_0049",
+      "value": "But you’re always thinking of what you can do\nfor Miu, and I think that’s great."
+    },
+    {
+      "key": "EP04_S1400_0050",
+      "value": "What?! That’s not... I’m not... No..."
+    },
+    {
+      "key": "EP04_S1400_0051",
+      "value": "Kaito, what’s wrong?"
+    },
+    {
+      "key": "EP04_S1400_0052",
+      "value": "Forget it! It’s nothin’!"
+    },
+    {
+      "key": "EP04_S1400_0053",
+      "value": "But...thanks, Takuma."
+    },
+    {
+      "key": "EP04_S1400_0054",
+      "value": "Anyway, enough about me!"
+    },
+    {
+      "key": "EP04_S1400_0055",
+      "value": "You sure the others are gonna show up?\nBecause I’m not waiting past noon!"
+    },
+    {
+      "key": "EP04_S1400_0056",
+      "value": "Okay, I got it, already!"
+    },
+    {
+      "key": "EP04_S1400_0057",
+      "value": "Man, I shouldn’t even be wasting time talking\nlike this!"
+    },
+    {
+      "key": "EP04_S1400_0058",
+      "value": "Huh? Now he’s angry? Why?"
+    },
+    {
+      "key": "EP04_S1400_0059",
+      "value": "Heh. I’m sure it’s just a cover and he’s\nreally feeling embarrassed. What a liar."
+    },
+    {
+      "key": "EP04_S1400_0060",
+      "value": "Hey, I can hear you!"
+    },
+    {
+      "key": "EP04_S1400_0061",
+      "value": "And I’m serious about not wastin’ time. We\ngot enemy monsters and weird fog out there."
+    },
+    {
+      "key": "EP04_S1400_0062",
+      "value": "(Yeah, he’s right. We’ve got no end of things\nto be concerned about right now.)"
+    },
+    {
+      "key": "EP04_S1400_0063",
+      "value": "Oh yeah, that reminds me, what were those\ncreepy hands that came out of the fog?"
+    },
+    {
+      "key": "EP04_S1400_0064",
+      "value": "That’s been bugging me too. Dracmon, do you\nor any of the others know anything?"
+    },
+    {
+      "key": "EP04_S1400_0065",
+      "value": "Hmm, I’m not really sure myself."
+    },
+    {
+      "key": "EP04_S1400_0066",
+      "value": "You don’t know?"
+    },
+    {
+      "key": "EP04_S1400_0067",
+      "value": "Sorry."
+    },
+    {
+      "key": "EP04_S1400_0068",
+      "value": "Well, that’s okay. You were trying to cheer\nme up the only way you knew how. Thanks."
+    },
+    {
+      "key": "EP04_S1400_0069",
+      "value": "(Whatever else is true, Kaito and Dracmon\nmake a good team.)"
+    },
+    {
+      "key": "EP04_S1400_0200",
+      "value": "But for real, man, the heck is this?"
+    },
+    {
+      "key": "EP04_S1400_0201",
+      "value": "I can get some whack-ass text, but I can’t\nsend anything back to anyone."
+    },
+    {
+      "key": "EP04_S1400_0202",
+      "value": "You too, huh, Kaito?"
+    },
+    {
+      "key": "EP04_S1400_0203",
+      "value": "You mean I’m not the only one?"
+    },
+    {
+      "key": "EP04_S1400_0204",
+      "value": "Yeah... Everyone else, too. That’s why we’d\nhoped going to the radio tower would help..."
+    },
+    {
+      "key": "EP04_S1400_0205",
+      "value": "Shit! And Miu is all by her lonesome in this\nmess?! We gotta hurry up and save her!"
+    },
+    {
+      "key": "EP04_S1400_0206",
+      "value": "Whoa, man, you said you’d wait around until\nnoon! Right?!"
+    },
+    {
+      "key": "EP04_S1400_0207",
+      "value": "Yeah, yeah..."
+    },
+    {
+      "key": "EP04_S1400_0070",
+      "value": "We can’t stay here forever. I’m worried about\nthose creepy hands that came out of the fog."
+    },
+    {
+      "key": "EP04_S1400_0071",
+      "value": "If everyone’s not here by noon, I’m heading\nout on my own."
+    }
+  ]
+}

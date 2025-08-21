@@ -1,0 +1,184 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S5100_0001",
+      "value": "Hey, uh... Um, Takuma... Takuma!"
+    },
+    {
+      "key": "EP99_S5100_0002",
+      "value": "Huh? What’s that? Where’s that voice coming\nfrom?"
+    },
+    {
+      "key": "EP99_S5100_0003",
+      "value": "Over here! Hey, Takuma, look behind you!"
+    },
+    {
+      "key": "EP99_S5100_0004",
+      "value": "Uwah! Shuuji! Don’t sneak up on me like that!"
+    },
+    {
+      "key": "EP99_S5100_0005",
+      "value": "Shhh! You weren’t followed, were you?"
+    },
+    {
+      "key": "EP99_S5100_0006",
+      "value": "No, I wasn’t followed. What are you even\ndoing out here?"
+    },
+    {
+      "key": "EP99_S5100_0007",
+      "value": "I, uh, well... I was just walking quietly\nbehind you."
+    },
+    {
+      "key": "EP99_S5100_0008",
+      "value": "Sounds like you’re the one who was following\nme."
+    },
+    {
+      "key": "EP99_S5100_0009",
+      "value": "No! It wasn’t like that! I just had something\nI wanted to talk with you about. Privately."
+    },
+    {
+      "key": "EP99_S5100_0010",
+      "value": "With me?"
+    },
+    {
+      "key": "EP99_S5100_0011",
+      "value": "Yes, with you!"
+    },
+    {
+      "key": "EP99_S5100_0012",
+      "value": "(I don’t know what Shuuji is thinking. This\nis kinda creepy.)"
+    },
+    {
+      "key": "EP99_S5100_0013",
+      "value": "It’s just...well, you know... That time\nI almost lost it..."
+    },
+    {
+      "key": "EP99_S5100_0014",
+      "value": "...you’re the one who brought me back to my\nsenses. I just wanted to say thanks."
+    },
+    {
+      "key": "EP99_S5100_0015",
+      "value": "And I didn’t want it to seem forced or\nanything."
+    },
+    {
+      "key": "EP99_S5100_0016",
+      "value": "Right..."
+    },
+    {
+      "key": "EP99_S5100_0017",
+      "value": "(Sounds like Shuuji’s pride is making this\nhard for him. He’s not being very clear.)"
+    },
+    {
+      "key": "EP99_S5100_0018",
+      "value": "(Still, I ought to reply to him somehow. Let\nme think...)"
+    },
+    {
+      "key": "EP99_S5100_Q1",
+      "value": "How should I respond to Shuuji?"
+    },
+    {
+      "key": "EP99_S5100_Q1_A1",
+      "value": "Don’t worry about it."
+    },
+    {
+      "key": "EP99_S5100_Q1_A2",
+      "value": "We got each other."
+    },
+    {
+      "key": "EP99_S5100_Q1_A3",
+      "value": "That’s weird."
+    },
+    {
+      "key": "EP99_S5100_0019",
+      "value": "Listen, don’t worry about it, Shuuji."
+    },
+    {
+      "key": "EP99_S5100_0020",
+      "value": "No, I feel like this is the sort of thing\nthat needs to be done properly."
+    },
+    {
+      "key": "EP99_S5100_0021",
+      "value": "(Funny. He hasn’t chosen a very proper way of\ndoing it.)"
+    },
+    {
+      "key": "EP99_S5100_0022",
+      "value": "And anyway, I don’t want people thinking I’m\nuseless anymore."
+    },
+    {
+      "key": "EP99_S5100_0023",
+      "value": "(Shuuji...)"
+    },
+    {
+      "key": "EP99_S5100_0024",
+      "value": "Hey, don’t worry about it. We’ve got each\nother’s backs. That’s all there is to it."
+    },
+    {
+      "key": "EP99_S5100_0025",
+      "value": "I’m not sure that’s really..."
+    },
+    {
+      "key": "EP99_S5100_0026",
+      "value": "Besides, you’re one of the few friends I have\nin this world who I know I can count on."
+    },
+    {
+      "key": "EP99_S5100_0027",
+      "value": "What? You mean...you consider me a friend?"
+    },
+    {
+      "key": "EP99_S5100_0028",
+      "value": "Sure, that just goes without saying. What\nelse would you be?"
+    },
+    {
+      "key": "EP99_S5100_0029",
+      "value": "Anyway, Shuuji, if you notice the same thing\nhappening to me, I’ll be counting on you."
+    },
+    {
+      "key": "EP99_S5100_0030",
+      "value": "Right, okay. I won’t let you down. Still...\nHeheheh..."
+    },
+    {
+      "key": "EP99_S5100_0031",
+      "value": "Shuuji?"
+    },
+    {
+      "key": "EP99_S5100_0032",
+      "value": "Friends, huh? Yeah...friends..."
+    },
+    {
+      "key": "EP99_S5100_0033",
+      "value": "Well, that’s weird, but okay."
+    },
+    {
+      "key": "EP99_S5100_0034",
+      "value": "W-weird?! Wh-what do you mean weird?"
+    },
+    {
+      "key": "EP99_S5100_0035",
+      "value": "Oh, nothing serious, really. It’s just..."
+    },
+    {
+      "key": "EP99_S5100_0036",
+      "value": "Lopmon had a lot more to do with how things\nturned out than anyone."
+    },
+    {
+      "key": "EP99_S5100_0037",
+      "value": "So rather than thanking me, I think you\nshould be showing Lopmon some affection."
+    },
+    {
+      "key": "EP99_S5100_0038",
+      "value": "Oh, uh... Yeah, well..."
+    },
+    {
+      "key": "EP99_S5100_0039",
+      "value": "And by the way, did you thank the others too?"
+    },
+    {
+      "key": "EP99_S5100_0040",
+      "value": "No, not yet. I was going to do that next.\nIt’s just, I feel so embarrassed..."
+    },
+    {
+      "key": "EP99_S5100_0041",
+      "value": "Although, even if it is embarrassing, it’s\nsomething I have to do. I’ll give it a go."
+    }
+  ]
+}

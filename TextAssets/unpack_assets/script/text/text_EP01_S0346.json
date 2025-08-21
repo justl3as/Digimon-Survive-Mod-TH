@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0346_0001",
+      "value": "This is...a music room?"
+    },
+    {
+      "key": "EP01_S0346_0002",
+      "value": "...Shoot, the door is stuck. Must be more\nspiderwebs keeping it shut."
+    },
+    {
+      "key": "EP01_S0346_0003",
+      "value": "Not even my claws can cut these strings!"
+    },
+    {
+      "key": "EP01_S0346_0004",
+      "value": "Eww yuck, it’s all icky..."
+    },
+    {
+      "key": "EP01_S0346_0005",
+      "value": "Ah, well. Let’s check out <color=#B41919>other places</color> for\nnow."
+    },
+    {
+      "key": "EP01_S0346_0006",
+      "value": "(We can’t get in here now. We should look\nsomewhere else.)"
+    }
+  ]
+}

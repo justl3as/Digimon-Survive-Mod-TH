@@ -1,0 +1,268 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S1100_0001",
+      "value": "Oh, hey, Minoru. Didn’t expect to find you\nhere."
+    },
+    {
+      "key": "EP03_S1100_0002",
+      "value": "Hm? You seem down."
+    },
+    {
+      "key": "EP03_S1100_0003",
+      "value": "I think you will find he is merely calm,\nrather than “down.” Isn’t that so, Minoru?"
+    },
+    {
+      "key": "EP03_S1100_0004",
+      "value": "Yeah, I just needed to clear my head.\nEveryone is so...divided..."
+    },
+    {
+      "key": "EP03_S1100_0005",
+      "value": "Not that I’m exactly the most cooperative\nguy, myself..."
+    },
+    {
+      "key": "EP03_S1100_0006",
+      "value": "Really? But you get along with everyone,\nMinoru."
+    },
+    {
+      "key": "EP03_S1100_0007",
+      "value": "Ha... The truth is, I’ve got a rotten\npersonality."
+    },
+    {
+      "key": "EP03_S1100_0008",
+      "value": "I get along just to get by. It’s nothing to\nbe proud of."
+    },
+    {
+      "key": "EP03_S1100_0009",
+      "value": "I can talk a good game, but that doesn’t help\nmuch with all these monsters. Not at all."
+    },
+    {
+      "key": "EP03_S1100_0010",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP03_S1100_0011",
+      "value": "(Minoru’s not usually this negative.)"
+    },
+    {
+      "key": "EP03_S1100_0012",
+      "value": "(Maybe it’ll help if I let him talk about\nwhat’s on his mind.)"
+    },
+    {
+      "key": "EP03_S1100_Q1",
+      "value": "(What should I ask Minoru about?)"
+    },
+    {
+      "key": "EP03_S1100_Q1_A1",
+      "value": "How are you feeling?"
+    },
+    {
+      "key": "EP03_S1100_Q1_A2",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S1100_Q1_A3",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S1100_Q1_A4",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S1100_0013",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S1100_0014",
+      "value": "Oh, don’t get the wrong idea! I’m not\ndepressed or anything!"
+    },
+    {
+      "key": "EP03_S1100_0015",
+      "value": "I’m actually pretty excited. Can’t wait to\nsee what happens next!"
+    },
+    {
+      "key": "EP03_S1100_0016",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S1100_0017",
+      "value": "So, what do you think’s actually going on\nright now?"
+    },
+    {
+      "key": "EP03_S1100_0018",
+      "value": "Uh...beats me! It kinda feels like we’re in\nsome weird kinda sci-fi story, though."
+    },
+    {
+      "key": "EP03_S1100_0019",
+      "value": "Definitely the sort of thing you’d only\nexpect to see in fiction."
+    },
+    {
+      "key": "EP03_S1100_0020",
+      "value": "But there’s no use crying about it, right?\nMight as well enjoy it."
+    },
+    {
+      "key": "EP03_S1100_0021",
+      "value": "You could live your whole life and never see\nanything like this! And it’s happening now!"
+    },
+    {
+      "key": "EP03_S1100_0022",
+      "value": "You sure have an interesting way of looking\nat things."
+    },
+    {
+      "key": "EP03_S1100_0023",
+      "value": "Sci-fi? Fiction? What are those?"
+    },
+    {
+      "key": "EP03_S1100_0024",
+      "value": "Hm, I too am uncertain, but from how Minoru\nspeaks of them, they must be enjoyable."
+    },
+    {
+      "key": "EP03_S1100_0025",
+      "value": "Then I bet I’d like them!"
+    },
+    {
+      "key": "EP03_S1100_0026",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S1100_0027",
+      "value": "So, what do you think our next move should\nbe?"
+    },
+    {
+      "key": "EP03_S1100_0028",
+      "value": "Adventure, of course! Let’s go adventuring!\nWe’ve got monster partners backing us up!"
+    },
+    {
+      "key": "EP03_S1100_0029",
+      "value": "We ought to get out there and explore this\nplace! There’s no point just sitting around!"
+    },
+    {
+      "key": "EP03_S1100_0030",
+      "value": "That’s...quite the approach."
+    },
+    {
+      "key": "EP03_S1100_0031",
+      "value": "Right?! I’ll totally make it big some day!"
+    },
+    {
+      "key": "EP03_S1100_0032",
+      "value": "(Minoru’s kidding around, but I can still\nhear the trembling in his voice...)"
+    },
+    {
+      "key": "EP03_S1100_0033",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S1100_0034",
+      "value": "What do you make of our current situation,\nMinoru? This all seems like fun to you?"
+    },
+    {
+      "key": "EP03_S1100_0035",
+      "value": "I’m being optimistic, it’s true. But we can’t\nact like this is some funeral all the time."
+    },
+    {
+      "key": "EP03_S1100_0036",
+      "value": "That’s why...I wanna be a little upbeat, you\nknow?"
+    },
+    {
+      "key": "EP03_S1100_0037",
+      "value": "(Yeah. It’s not like Minoru’s oblivious, but\nhe’s trying to stay fired up...)"
+    },
+    {
+      "key": "EP03_S1100_0038",
+      "value": "As for our situation, here’s what I think.\nWe’ve been thrown into another dimension."
+    },
+    {
+      "key": "EP03_S1100_0039",
+      "value": "At first I thought we might be in the future,\nbut that doesn’t make any sense..."
+    },
+    {
+      "key": "EP03_S1100_0040",
+      "value": "And this isn’t some movie set, either.\nWe talked about that."
+    },
+    {
+      "key": "EP03_S1100_0041",
+      "value": "It’s probably the least realistic answer, but\nit might just be the truth."
+    },
+    {
+      "key": "EP03_S1100_0042",
+      "value": "So think about it. If we accept that this is\nwhat happened, how did we get here?"
+    },
+    {
+      "key": "EP03_S1100_0043",
+      "value": "And since we made it here somehow, there’s\ngot to be a way back, right?!"
+    },
+    {
+      "key": "EP03_S1100_0044",
+      "value": "Yeah, you’re right. That makes a lot of\nsense."
+    },
+    {
+      "key": "EP03_S1100_0045",
+      "value": "Good thinking, Minoru. Very cool and level-\nheaded of you."
+    },
+    {
+      "key": "EP03_S1100_0046",
+      "value": "Amazing, Minoru!"
+    },
+    {
+      "key": "EP03_S1100_0047",
+      "value": "I know, right?!"
+    },
+    {
+      "key": "EP03_S1100_0200",
+      "value": "And then there’s this screwed-up message!\nI bet it’s the key to getting out of here!"
+    },
+    {
+      "key": "EP03_S1100_0201",
+      "value": "What, all this nonsense? I dunno... You sure\nabout that?"
+    },
+    {
+      "key": "EP03_S1100_0202",
+      "value": "Hey, I’m just saying it might be a clue or\nsomething. Gotta turn over every stone!"
+    },
+    {
+      "key": "EP03_S1100_0048",
+      "value": "Anyway...yeah. We shouldn’t give up just yet."
+    },
+    {
+      "key": "EP03_S1100_0049",
+      "value": "I guess not. You sure are something else,\nMinoru."
+    },
+    {
+      "key": "EP03_S1100_Q2",
+      "value": "(Was there anything else I wanted to ask?)"
+    },
+    {
+      "key": "EP03_S1100_Q2_A1",
+      "value": "That’s all."
+    },
+    {
+      "key": "EP03_S1100_Q2_A2",
+      "value": "There’s more."
+    },
+    {
+      "key": "EP03_S1100_0050",
+      "value": "So, that’s what I’ve been thinking. Was it\nany help?"
+    },
+    {
+      "key": "EP03_S1100_0051",
+      "value": "It was a big help, thanks."
+    },
+    {
+      "key": "EP03_S1100_0052",
+      "value": "Of course, we’ll need to get everyone’s\nopinion before we settle anything."
+    },
+    {
+      "key": "EP03_S1100_0053",
+      "value": "Yeah, I know. Good luck thinking up something\nthat’ll get us all on the same page!"
+    },
+    {
+      "key": "EP03_S1100_0054",
+      "value": "(Get us all on the same page, huh? Minoru can\nseem thoughtless, but he really does care.)"
+    },
+    {
+      "key": "EP03_S1100_0055",
+      "value": "Good luck finding a way to get us all on the\nsame page!"
+    }
+  ]
+}

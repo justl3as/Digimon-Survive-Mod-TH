@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S0183_0001",
+      "value": "(Looking through the camera, I can see some\nsort of tear in space...)"
+    },
+    {
+      "key": "EP11_S0183_0002",
+      "value": "(Could this be the phenomenon causing this\nworld to fall apart?)"
+    },
+    {
+      "key": "EP11_S0183_0003",
+      "value": "(It looks like we can enter the tear.)"
+    },
+    {
+      "key": "EP11_S0183_Q1",
+      "value": "What should we do?"
+    },
+    {
+      "key": "EP11_S0183_Q1_A1",
+      "value": "Go inside."
+    },
+    {
+      "key": "EP11_S0183_Q1_A2",
+      "value": "Don’t go inside."
+    },
+    {
+      "key": "EP11_S0183_0004",
+      "value": "(My body’s... It’s enveloped in light...)"
+    },
+    {
+      "key": "EP11_S0183_0005",
+      "value": "(Hmm, let’s hold off for now.)"
+    }
+  ]
+}

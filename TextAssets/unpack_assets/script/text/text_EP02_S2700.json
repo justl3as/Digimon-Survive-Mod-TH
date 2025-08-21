@@ -1,0 +1,104 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S2700_0001",
+      "value": "Where would there be food?"
+    },
+    {
+      "key": "EP02_S2700_0002",
+      "value": "What? Did you hear that?"
+    },
+    {
+      "key": "EP02_S2700_0003",
+      "value": "Did you hear that, Aoi?"
+    },
+    {
+      "key": "EP02_S2700_0004",
+      "value": "I did. It sounded like someone was turning\noff a water faucet..."
+    },
+    {
+      "key": "EP02_S2700_0007",
+      "value": "Oh, it’s you guys...\nWhat’re you doing here?"
+    },
+    {
+      "key": "EP02_S2700_0008",
+      "value": "Haru? Is that you?!"
+    },
+    {
+      "key": "EP02_S2700_0009",
+      "value": "It’s Haru!"
+    },
+    {
+      "key": "EP02_S2700_0010",
+      "value": "Haru, did you just use the water faucet over\nthere?"
+    },
+    {
+      "key": "EP02_S2700_0011",
+      "value": "Yes. Why, shouldn’t I?"
+    },
+    {
+      "key": "EP02_S2700_0012",
+      "value": "Is there water?"
+    },
+    {
+      "key": "EP02_S2700_0013",
+      "value": "What? It comes out like it always does."
+    },
+    {
+      "key": "EP02_S2700_0014",
+      "value": "Which means...we have plumbing?!"
+    },
+    {
+      "key": "EP02_S2700_0015",
+      "value": "That was easy!\nWe have water, all of a sudden!"
+    },
+    {
+      "key": "EP02_S2700_Q1",
+      "value": "(Aoi seems a bit deflated.)"
+    },
+    {
+      "key": "EP02_S2700_Q1_A1",
+      "value": "Try to be happy here."
+    },
+    {
+      "key": "EP02_S2700_Q1_A2",
+      "value": "Kinda weird, huh?"
+    },
+    {
+      "key": "EP02_S2700_0016",
+      "value": "Well, we met one of our goals, so let’s be\nhappy about that for now."
+    },
+    {
+      "key": "EP02_S2700_0017",
+      "value": "Okay, sure...\nDrinking water is important."
+    },
+    {
+      "key": "EP02_S2700_0018",
+      "value": "We have running water, and that’s incredible."
+    },
+    {
+      "key": "EP02_S2700_0019",
+      "value": "Weird, huh? The walls and floors are a mess,\neverything looks abandoned, but water?"
+    },
+    {
+      "key": "EP02_S2700_0020",
+      "value": "Now that I think about it, none of the sheets\nor blankets showed any wear or mildew..."
+    },
+    {
+      "key": "EP02_S2700_0021",
+      "value": "Is someone maintaining everything?\nBut it all seems so worn down..."
+    },
+    {
+      "key": "EP02_S2700_0022",
+      "value": "It’s all good.\nWe needed this lifeline."
+    },
+    {
+      "key": "EP02_S2700_0023",
+      "value": "Maybe that means there’s more useful stuff\ninside this building!"
+    },
+    {
+      "key": "EP02_S2700_0024",
+      "value": "Anyway, let’s keep looking."
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0080_0001",
+      "value": "Shuuji!"
+    },
+    {
+      "key": "EP05_S0080_0002",
+      "value": "...No answer. Maybe he didn’t hear us?"
+    },
+    {
+      "key": "EP05_S0080_0003",
+      "value": "Looks like he can’t hear Lopmon, either."
+    },
+    {
+      "key": "EP05_S0080_0004",
+      "value": "Maybe I should get closer..."
+    },
+    {
+      "key": "EP05_S0080_0005",
+      "value": "Shuuji! Are you okay?!"
+    },
+    {
+      "key": "EP05_S0080_0006",
+      "value": "Ahh! ...Oh, it’s, it’s you, Takuma."
+    },
+    {
+      "key": "EP05_S0080_0007",
+      "value": "Thank goodness we were able to find you.\nYou’re not hurt, are you?"
+    },
+    {
+      "key": "EP05_S0080_0008",
+      "value": "No...no, I’m fine. It’s nothing..."
+    },
+    {
+      "key": "EP05_S0080_0009",
+      "value": "You sure? You’re sweating like a pig, and\nyou’re as pale as a ghost."
+    },
+    {
+      "key": "EP05_S0080_0010",
+      "value": "Nnngh..."
+    },
+    {
+      "key": "EP05_S0080_0011",
+      "value": "Shu... Shuuji..."
+    },
+    {
+      "key": "EP05_S0080_0012",
+      "value": "Stay, stay away from me, you MONSTER!"
+    },
+    {
+      "key": "EP05_S0080_0013",
+      "value": "Hey! What’re you doing?!"
+    },
+    {
+      "key": "EP05_S0080_0014",
+      "value": "Shut up! All you monsters stay away from me!"
+    },
+    {
+      "key": "EP05_S0080_0015",
+      "value": "I’m scared... What are these things...\nLeave me alone..."
+    },
+    {
+      "key": "EP05_S0080_0016",
+      "value": "(I wonder if Shuuji saw a longer vision than\nthe rest of us?)"
+    },
+    {
+      "key": "EP05_S0080_0017",
+      "value": "(If so, his reaction would be understandable.\nHe’s been that way from the start...)"
+    },
+    {
+      "key": "EP05_S0080_0018",
+      "value": "(Those visions may be rough to watch, but the\nmemory of one may be even harder to stomach.)"
+    },
+    {
+      "key": "EP05_S0080_0019",
+      "value": "Sorry, I lost my head there for a second.\nI’m better now."
+    },
+    {
+      "key": "EP05_S0080_0020",
+      "value": "Yeah, I’m okay... I have to be. So none of us\nare sacrificed, and we can all go home..."
+    },
+    {
+      "key": "EP05_S0080_0021",
+      "value": "Even Ryo was saved, so...it’s fine... I’m\njust fine..."
+    },
+    {
+      "key": "EP05_S0080_0022",
+      "value": "Hey, man, simmer down, already. Take a sec\nto take a breath and—"
+    },
+    {
+      "key": "EP05_S0080_0023",
+      "value": "I said I’m FINE!"
+    },
+    {
+      "key": "EP05_S0080_0024",
+      "value": "Yow!"
+    },
+    {
+      "key": "EP05_S0080_0025",
+      "value": "Ah... Uh, sorry, really. I’m... I’m calm,\nI swear."
+    },
+    {
+      "key": "EP05_S0080_0026",
+      "value": "It’s just... Ryo..."
+    },
+    {
+      "key": "EP05_S0080_0027",
+      "value": "I may be a spineless coward, but... I’m fine\nnow. Please don’t worry."
+    },
+    {
+      "key": "EP05_S0080_0028",
+      "value": "Or am I fine? Really? Maybe something’s wrong\nwith me..."
+    },
+    {
+      "key": "EP05_S0080_0029",
+      "value": "Don’t worry about it, Shuuji! We were doing\njust fine even without you!"
+    },
+    {
+      "key": "EP05_S0080_0030",
+      "value": "I see... Yeah... Who needs someone like me..."
+    },
+    {
+      "key": "EP05_S0080_0031",
+      "value": "Oops. Did I just make things worse...?"
+    },
+    {
+      "key": "EP05_S0080_0032",
+      "value": "Obviously! Do you seriously have no idea what\nyou should or shouldn’t say?!"
+    },
+    {
+      "key": "EP05_S0080_0033",
+      "value": "I get you wanted to make him feel better, but\nthere’s such a thing as time and place."
+    },
+    {
+      "key": "EP05_S0080_0034",
+      "value": "I’m sorry!"
+    },
+    {
+      "key": "EP05_S0080_0035",
+      "value": "I think that guy’s lost it. Better watch him,\nKaito."
+    },
+    {
+      "key": "EP05_S0080_0036",
+      "value": "Lost it... You think his screws finally came\nloose?"
+    },
+    {
+      "key": "EP05_S0080_0037",
+      "value": "Yeah. Well, I can’t say how things’ll go from\nhere... I guess that’s up to him."
+    },
+    {
+      "key": "EP05_S0080_0038",
+      "value": "So then there ain’t nothing we can do?"
+    },
+    {
+      "key": "EP05_S0080_0039",
+      "value": "Hey, so we’re going to talk to someone who\nknows more about this world—the enemy, right?"
+    },
+    {
+      "key": "EP05_S0080_0040",
+      "value": "That’s right."
+    },
+    {
+      "key": "EP05_S0080_0041",
+      "value": "Now that I think about it..."
+    },
+    {
+      "key": "EP05_S0080_0042",
+      "value": "I hate to say it, but Arukenimon is the only\none that seems like she’d actually listen."
+    },
+    {
+      "key": "EP05_S0080_0043",
+      "value": "The blood goes straight to Garurumon’s head,\nmaking him go berserk."
+    },
+    {
+      "key": "EP05_S0080_0044",
+      "value": "At that point he won’t listen to friend or\nfoe. Arukenimon seems like the better choice."
+    },
+    {
+      "key": "EP05_S0080_0045",
+      "value": "Agreed. I sensed an...intelligence? of the\nkind needed for discussion."
+    },
+    {
+      "key": "EP05_S0080_0046",
+      "value": "Still, those guys are dead set on sacrificing\nkids. How can we make them talk?"
+    },
+    {
+      "key": "EP05_S0080_0047",
+      "value": "Those bastards only see us as fodder, right?"
+    },
+    {
+      "key": "EP05_S0080_0048",
+      "value": "You doubt they’ll listen to what a bunch of\nsacrifices have to say, is that it?"
+    },
+    {
+      "key": "EP05_S0080_0049",
+      "value": "Yeah, I’d say not... That’s why we’ve gotta\nbe the ones doing the stomping."
+    },
+    {
+      "key": "EP05_S0080_0050",
+      "value": "You sound like a gangster! I bet we could\nmake a simple conversation work."
+    },
+    {
+      "key": "EP05_S0080_0051",
+      "value": "Yeah, what she said!"
+    },
+    {
+      "key": "EP05_S0080_0052",
+      "value": "B-but Miu...!"
+    },
+    {
+      "key": "EP05_S0080_0053",
+      "value": "Hmm, what to do, what to do..."
+    },
+    {
+      "key": "EP05_S0080_0054",
+      "value": "Hmm..."
+    },
+    {
+      "key": "EP05_S0080_0055",
+      "value": "(We have to try to talk. That’s the only way\nto avoid a fight.)"
+    },
+    {
+      "key": "EP05_S0080_0056",
+      "value": "(Still, I doubt those guys are eager for a\nsit-down... I see a fight in our future.)"
+    },
+    {
+      "key": "EP05_S0080_0057",
+      "value": "(Then again, we don’t know a thing about\nthem. Can’t say anything for sure...)"
+    },
+    {
+      "key": "EP05_S0080_Q1",
+      "value": "(Maybe we should...)"
+    },
+    {
+      "key": "EP05_S0080_Q1_A1",
+      "value": "Try talking."
+    },
+    {
+      "key": "EP05_S0080_Q1_A2",
+      "value": "Get ready to fight!"
+    },
+    {
+      "key": "EP05_S0080_Q1_A3",
+      "value": "Meet them and see."
+    },
+    {
+      "key": "EP05_S0080_0059",
+      "value": "If talking’s an option, I really think we\nshould give it a shot."
+    },
+    {
+      "key": "EP05_S0080_0060",
+      "value": "Yes, exactly."
+    },
+    {
+      "key": "EP05_S0080_0061",
+      "value": "Still, you think Arukenimon’s looking for\na little chit-chat with the likes of us?"
+    },
+    {
+      "key": "EP05_S0080_0062",
+      "value": "The rest of ’em ain’t no better. Can’t call\na truce if they won’t come to the table."
+    },
+    {
+      "key": "EP05_S0080_0063",
+      "value": "That’s true..."
+    },
+    {
+      "key": "EP05_S0080_0065",
+      "value": "I think fighting’s our only option. I doubt\nthey’ll give us the time of day."
+    },
+    {
+      "key": "EP05_S0080_0066",
+      "value": "Yeah, that’s what I’m saying, man!"
+    },
+    {
+      "key": "EP05_S0080_0067",
+      "value": "And how do you know? They could be way nicer\nthan you think!"
+    },
+    {
+      "key": "EP05_S0080_0068",
+      "value": "Nicer? We talking about the same guys?"
+    },
+    {
+      "key": "EP05_S0080_0069",
+      "value": "You can’t judge a book by it’s cover, right?"
+    },
+    {
+      "key": "EP05_S0080_0070",
+      "value": "Trust me, I think we’ve seen all the pages we\nneed to."
+    },
+    {
+      "key": "EP05_S0080_0071",
+      "value": "Saki’s right. Can’t take such an aggressive\nstance without knowing our opponent."
+    },
+    {
+      "key": "EP05_S0080_0072",
+      "value": "Well, that’s true..."
+    },
+    {
+      "key": "EP05_S0080_0074",
+      "value": "We won’t know the best course of action until\nwe actually find them."
+    },
+    {
+      "key": "EP05_S0080_0075",
+      "value": "We don’t know a thing about our opponents,\nafter all."
+    },
+    {
+      "key": "EP05_S0080_0076",
+      "value": "Don’t we, though? Those guys serve up human\nkids as sacrifices."
+    },
+    {
+      "key": "EP05_S0080_0077",
+      "value": "Still, there may be some circumstances we’re\nmissing..."
+    },
+    {
+      "key": "EP05_S0080_0078",
+      "value": "Circumstances? And what, pray tell, would\njustify serving up kids like meat?"
+    },
+    {
+      "key": "EP05_S0080_0079",
+      "value": "I mean..."
+    },
+    {
+      "key": "EP05_S0080_0080",
+      "value": "So that means we have to run in there all\nguns blazing?"
+    },
+    {
+      "key": "EP05_S0080_0081",
+      "value": "Especially considering we have no idea what\nthe deal is on their end."
+    },
+    {
+      "key": "EP05_S0080_0082",
+      "value": "Uh, well I guess that’s true..."
+    },
+    {
+      "key": "EP05_S0080_0083",
+      "value": "Look, Takuma, I’m down for either plan,\nbut shouldn’t we settle on something?"
+    },
+    {
+      "key": "EP05_S0080_0084",
+      "value": "We’re all over the place right now. No way we\ncan have a talk while we’re like this."
+    },
+    {
+      "key": "EP05_S0080_0085",
+      "value": "That’s true..."
+    },
+    {
+      "key": "EP05_S0080_0086",
+      "value": "Uh, hey, Shuuji? Aren’t you going to join in\non the discussion...?"
+    },
+    {
+      "key": "EP05_S0080_0087",
+      "value": "Stop it! I told you to stay away!"
+    },
+    {
+      "key": "EP05_S0080_0088",
+      "value": "Ah, I, I’m so—"
+    },
+    {
+      "key": "EP05_S0080_0089",
+      "value": "Aaah, I can’t take it anymore! I’m sick of\nall of this!"
+    },
+    {
+      "key": "EP05_S0080_0090",
+      "value": "Ah, Shuuji?!"
+    },
+    {
+      "key": "EP05_S0080_0091",
+      "value": "What’s wrong...?"
+    },
+    {
+      "key": "EP05_S0080_0092",
+      "value": "Shut up! Shut up, SHUT UP!!!"
+    },
+    {
+      "key": "EP05_S0080_0093",
+      "value": "Ah..."
+    },
+    {
+      "key": "EP05_S0080_0094",
+      "value": "D-Dad... You’re wrong! You’re wrong, I...\nI...!"
+    },
+    {
+      "key": "EP05_S0080_0095",
+      "value": "Uhhh... What’s going on with His Blustership?"
+    },
+    {
+      "key": "EP05_S0080_0096",
+      "value": "Dunno, but...it doesn’t look good, does it?"
+    },
+    {
+      "key": "EP05_S0080_0097",
+      "value": "(What in the world? He’s just staring at thin\nair and talking to himself...)"
+    },
+    {
+      "key": "EP05_S0080_0098",
+      "value": "Ah...ahhh... Stop... Please stop, I’m begging\nyou..."
+    },
+    {
+      "key": "EP05_S0080_0099",
+      "value": "AAAAAAAAARGH...!"
+    },
+    {
+      "key": "EP05_S0080_0100",
+      "value": "Holy hell, he’s fast!"
+    },
+    {
+      "key": "EP05_S0080_0101",
+      "value": "He went off on his own?!"
+    },
+    {
+      "key": "EP05_S0080_0102",
+      "value": "Dammit! Now who’s the one dividing us?!"
+    },
+    {
+      "key": "EP05_S0080_0103",
+      "value": "We have to follow him!"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0711_0001",
+      "value": "There should be a passage to the gym\nin here, right?"
+    },
+    {
+      "key": "EP01_S0711_0002",
+      "value": "Yeah, that’s what they said..."
+    },
+    {
+      "key": "EP01_S0711_0003",
+      "value": "Oh, here it is! There really was a passage!"
+    },
+    {
+      "key": "EP01_S0711_0004",
+      "value": "We did it, Takuma!"
+    },
+    {
+      "key": "EP01_S0711_0005",
+      "value": "Hey Takuma, any luck over there? Did you find\nanything?!"
+    },
+    {
+      "key": "EP01_S0711_0006",
+      "value": "Yeee-heeep! Don’t leave me by myself, you\nfriggin’ jerks!"
+    },
+    {
+      "key": "EP01_S0711_0007",
+      "value": "You’re the one that holed up in the classroom\nby yourself, man. Feel like joining us?"
+    },
+    {
+      "key": "EP01_S0711_0008",
+      "value": "Ah, shut up! There’s just more spiderwebs\naround, and...th, things change, all right?!"
+    },
+    {
+      "key": "EP01_S0711_0009",
+      "value": "Kewww, kewwwn..."
+    },
+    {
+      "key": "EP01_S0711_0010",
+      "value": "You two get a hold of yourselves. Even\nKunemon is showing more composure than you."
+    },
+    {
+      "key": "EP01_S0711_0011",
+      "value": "...Is that what composure looks like?"
+    },
+    {
+      "key": "EP01_S0711_0012",
+      "value": "Minoru! Ryo! Look at this! Now we can go save\nAoi!"
+    },
+    {
+      "key": "EP01_S0711_0013",
+      "value": "Hey Takuma, any luck over there? Did you find\nanything?!"
+    },
+    {
+      "key": "EP01_S0711_0014",
+      "value": "Check it out, Minoru! Now we can go save Aoi!"
+    },
+    {
+      "key": "EP01_S0711_0015",
+      "value": "Good going, man! Let’s get a move on!"
+    },
+    {
+      "key": "EP01_S0711_0016",
+      "value": "Hmph, so it is finally our time to strike?"
+    },
+    {
+      "key": "EP01_S0711_0017",
+      "value": "Awriiiight, let’s do it!"
+    },
+    {
+      "key": "EP01_S0711_0018",
+      "value": "Yeee-heeep! Don’t leave me by myself, you\nfriggin’ jerks!"
+    },
+    {
+      "key": "EP01_S0711_0019",
+      "value": "Are you for real?! After staying in the\nclassroom without helping us search at all?"
+    },
+    {
+      "key": "EP01_S0711_0020",
+      "value": "Ulp! Sh, shut up! There’s just more cobwebs\naround, and...th, things change, all right?!"
+    },
+    {
+      "key": "EP01_S0711_0021",
+      "value": "Hey Ryo, look what I found! Now we can go\nsave Aoi!"
+    },
+    {
+      "key": "EP01_S0711_0022",
+      "value": "Save Aoi?! Who cares about that! Just don’t\nleave me behind, okay?!"
+    },
+    {
+      "key": "EP01_S0711_0023",
+      "value": "Kew, kewww!"
+    },
+    {
+      "key": "EP01_S0711_0024",
+      "value": "Kunemon’s ready to go!"
+    },
+    {
+      "key": "EP01_S0711_0025",
+      "value": "Man, there’s a ton more webs down there... If\nwe’re not careful we could get stuck in them."
+    },
+    {
+      "key": "EP01_S0711_0026",
+      "value": "Awww, MORE sticky stuff?! Enough alreadyyy!"
+    },
+    {
+      "key": "EP01_S0711_0027",
+      "value": "Who cares, let’s just plow on through!"
+    },
+    {
+      "key": "EP01_S0711_0028",
+      "value": "Hmm..."
+    },
+    {
+      "key": "EP01_S0711_0029",
+      "value": "The enemy uses this too, right? Maybe we\ncould bust through? Gotta be some way..."
+    },
+    {
+      "key": "EP01_S0711_0030",
+      "value": "...Vinegar. Just like my mom used to do it."
+    },
+    {
+      "key": "EP01_S0711_0031",
+      "value": "Ohhh, that’s right! My man!"
+    },
+    {
+      "key": "EP01_S0711_0032",
+      "value": "Kew! Kew!"
+    },
+    {
+      "key": "EP01_S0711_0033",
+      "value": "Kunemon offers his own compliments."
+    },
+    {
+      "key": "EP01_S0711_0034",
+      "value": "Hmph... Shut yer face."
+    },
+    {
+      "key": "EP01_S0711_0035",
+      "value": "The enemy uses this too, right? Maybe we\ncould bust through? Gotta be some way..."
+    },
+    {
+      "key": "EP01_S0711_0036",
+      "value": "Vinegaaar!"
+    },
+    {
+      "key": "EP01_S0711_0037",
+      "value": "Oh yeah, the vinegar. Ryo taught us about it."
+    },
+    {
+      "key": "EP01_S0711_0038",
+      "value": "Ohhh, that’s right! My man!"
+    },
+    {
+      "key": "EP01_S0711_0039",
+      "value": "Kew! Kew!"
+    },
+    {
+      "key": "EP01_S0711_0040",
+      "value": "Kunemon offers his own compliments."
+    },
+    {
+      "key": "EP01_S0711_0041",
+      "value": "Hmph... Shut yer face."
+    },
+    {
+      "key": "EP01_S0711_0042",
+      "value": "I think I heard something like that in an\nafter-school class I had as a kid."
+    },
+    {
+      "key": "EP01_S0711_0043",
+      "value": "Oh yeah? You’ve got a good memory."
+    },
+    {
+      "key": "EP01_S0711_0044",
+      "value": "That’s Minoru for you. Reliable in a pinch."
+    },
+    {
+      "key": "EP01_S0711_0045",
+      "value": "Heh heh, aw shucks!"
+    },
+    {
+      "key": "EP01_S0711_0046",
+      "value": "In an after-school class I had as a kid,\nI think I heard that vinegar is effective."
+    },
+    {
+      "key": "EP01_S0711_0047",
+      "value": "That’s Minoru for you. Reliable in a pinch."
+    },
+    {
+      "key": "EP01_S0711_0048",
+      "value": "Oh yeah, Ryo pretty much pretty much said the\nsame thing, if I remember correctly..."
+    },
+    {
+      "key": "EP01_S0711_0049",
+      "value": "Is that right... We’d better bail that guy\nout too, y’know?"
+    },
+    {
+      "key": "EP01_S0711_0050",
+      "value": "...Vinegar. Just like my mom used to do it."
+    },
+    {
+      "key": "EP01_S0711_0051",
+      "value": "Oh yeah? That’s a big help! Thanks, Ryo!"
+    },
+    {
+      "key": "EP01_S0711_0052",
+      "value": "Kewkew! Kewww!"
+    },
+    {
+      "key": "EP01_S0711_0053",
+      "value": "Kunemon says “That’s amazing!”"
+    },
+    {
+      "key": "EP01_S0711_0054",
+      "value": "Hmph... Shut yer face."
+    },
+    {
+      "key": "EP01_S0711_0055",
+      "value": "Oh yeah, we can melt spiderwebs with vinegar,\ncan’t we?"
+    },
+    {
+      "key": "EP01_S0711_0056",
+      "value": "Right, vinegar for sticky stuff! That’s what\nRyo told us, isn’t it?"
+    },
+    {
+      "key": "EP01_S0711_0057",
+      "value": "...What’d I tell ya about getting worked up\nover nothing?"
+    },
+    {
+      "key": "EP01_S0711_0058",
+      "value": "Oh come on, this is all you, man! We’re just\nbeing grateful."
+    },
+    {
+      "key": "EP01_S0711_0059",
+      "value": "Kewkew! Kewww!"
+    },
+    {
+      "key": "EP01_S0711_0060",
+      "value": "Kunemon says “That’s amazing!”"
+    },
+    {
+      "key": "EP01_S0711_0061",
+      "value": "Hmph... Shut yer face."
+    },
+    {
+      "key": "EP01_S0711_0062",
+      "value": "Okay, let’s do this!"
+    },
+    {
+      "key": "EP01_S0711_0063",
+      "value": "Once we go through here, we’ll have to fight\na monster. Is everybody ready?"
+    },
+    {
+      "key": "EP01_S0711_0064",
+      "value": "Of course, Takuma!"
+    },
+    {
+      "key": "EP01_S0711_0065",
+      "value": "Heh, does a bear poop in the woods?"
+    },
+    {
+      "key": "EP01_S0711_0066",
+      "value": "Onward, to battle!"
+    },
+    {
+      "key": "EP01_S0711_0067",
+      "value": "Hey, I’m going too! You ain’t gonna leave me\nhere by my lonesome, are ya?!"
+    },
+    {
+      "key": "EP01_S0711_0068",
+      "value": "Kewwwy!"
+    },
+    {
+      "key": "EP01_S0711_0069",
+      "value": "Heh, does a bear poop in the woods?"
+    },
+    {
+      "key": "EP01_S0711_0070",
+      "value": "The time has come to vindicate our honor!"
+    },
+    {
+      "key": "EP01_S0711_0071",
+      "value": "I’ll, uh, wait here. I’d just get in the way\nanyhow..."
+    },
+    {
+      "key": "EP01_S0711_0072",
+      "value": "Kewww..."
+    },
+    {
+      "key": "EP01_S0711_0073",
+      "value": "Hold on, Aoi, we’re coming!"
+    },
+    {
+      "key": "EP01_S0711_0074",
+      "value": "Ah, don’t run on ahead, Labramon! It’s too\ndangerous!"
+    },
+    {
+      "key": "EP01_S0711_0075",
+      "value": "We’ll all go together!"
+    },
+    {
+      "key": "EP01_S0711_0076",
+      "value": "Yeah!"
+    }
+  ]
+}

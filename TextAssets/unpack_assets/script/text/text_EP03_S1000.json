@@ -1,0 +1,164 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S1000_0001",
+      "value": "Oh, Aoi..."
+    },
+    {
+      "key": "EP03_S1000_0002",
+      "value": "Takuma?"
+    },
+    {
+      "key": "EP03_S1000_0003",
+      "value": "Um, uh, sorry about earlier..."
+    },
+    {
+      "key": "EP03_S1000_0004",
+      "value": "No, I shouldn’t have gotten so flustered.\nSorry, I don’t know what’s wrong with me."
+    },
+    {
+      "key": "EP03_S1000_0005",
+      "value": "It’s fine. Besides, given the circumstances,\nwe’re all a bit on edge right now."
+    },
+    {
+      "key": "EP03_S1000_0006",
+      "value": "Thank you, Takuma."
+    },
+    {
+      "key": "EP03_S1000_0007",
+      "value": "That was very encouraging. I approve."
+    },
+    {
+      "key": "EP03_S1000_0008",
+      "value": "Haha, thanks."
+    },
+    {
+      "key": "EP03_S1000_0009",
+      "value": "(Well, now that I’ve run into Aoi, I might as\nwell get her take on things.)"
+    },
+    {
+      "key": "EP03_S1000_Q1",
+      "value": "(Where should I start?)"
+    },
+    {
+      "key": "EP03_S1000_Q1_A1",
+      "value": "What’s going on?"
+    },
+    {
+      "key": "EP03_S1000_Q1_A2",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S1000_Q1_A3",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S1000_Q1_A4",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S1000_0010",
+      "value": "What do you think is going on?"
+    },
+    {
+      "key": "EP03_S1000_0011",
+      "value": "So, what do you think’s actually going on\nright now?"
+    },
+    {
+      "key": "EP03_S1000_0012",
+      "value": "Hmm... I’m not really sure. I can’t wrap my\nhead around any of this."
+    },
+    {
+      "key": "EP03_S1000_0013",
+      "value": "Sorry, I know that’s a bad answer. It’s like\nhow I always blank out on tough questions."
+    },
+    {
+      "key": "EP03_S1000_0014",
+      "value": "I know I ought to be able to force myself to\nthink, but...that’s easier said than done."
+    },
+    {
+      "key": "EP03_S1000_0015",
+      "value": "(Aoi tends to be like your typical honor\nstudent, but she can be really indecisive...)"
+    },
+    {
+      "key": "EP03_S1000_0016",
+      "value": "What’s our next move?"
+    },
+    {
+      "key": "EP03_S1000_0017",
+      "value": "So, what do you think our next move should\nbe?"
+    },
+    {
+      "key": "EP03_S1000_0018",
+      "value": "Well... We don’t know how long our supplies\nand clothing will last..."
+    },
+    {
+      "key": "EP03_S1000_0019",
+      "value": "For now, I think we should focus on our basic\nneeds."
+    },
+    {
+      "key": "EP03_S1000_0020",
+      "value": "You’re always so practical, Aoi. Sometimes it\nfeels like you’re our mom."
+    },
+    {
+      "key": "EP03_S1000_0021",
+      "value": "Stop it. I’m just a worrywart, that’s all..."
+    },
+    {
+      "key": "EP03_S1000_0022",
+      "value": "How do you feel?"
+    },
+    {
+      "key": "EP03_S1000_0023",
+      "value": "Well, I’m scared, worried, and pretty shaken\nup... Honestly, with the professor gone..."
+    },
+    {
+      "key": "EP03_S1000_0024",
+      "value": "...I’m having a hard time staying calm.\nI know I need to relax more, but..."
+    },
+    {
+      "key": "EP03_S1000_0025",
+      "value": "How’s our situation?"
+    },
+    {
+      "key": "EP03_S1000_0026",
+      "value": "It’s hard to know what to make of it. After\nall, we’re just kids, with nothing to go on."
+    },
+    {
+      "key": "EP03_S1000_0027",
+      "value": "I think the best thing to do is to try and\nstay safe until help arrives... "
+    },
+    {
+      "key": "EP03_S1000_Q2",
+      "value": "(Was there anything else I wanted to ask?)"
+    },
+    {
+      "key": "EP03_S1000_Q2_A1",
+      "value": "That’s all for now."
+    },
+    {
+      "key": "EP03_S1000_Q2_A2",
+      "value": "There’s still more."
+    },
+    {
+      "key": "EP03_S1000_0031",
+      "value": "Talking to you calmed me down a little bit...\nThanks, Takuma."
+    },
+    {
+      "key": "EP03_S1000_0032",
+      "value": "No problem, same here. We should hear\neveryone’s take on the sitaution, anyways."
+    },
+    {
+      "key": "EP03_S1000_0200",
+      "value": "I wish we could even contact someone, instead \nof getting those random, jarbled messages..."
+    },
+    {
+      "key": "EP03_S1000_0201",
+      "value": "I know... It’d be great if we could even\nget a signal."
+    },
+    {
+      "key": "EP03_S1000_0033",
+      "value": "I’ve calmed down a bit now. Thanks for talking\nto me, Takuma."
+    }
+  ]
+}

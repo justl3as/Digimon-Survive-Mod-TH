@@ -1,0 +1,408 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S9200_0001",
+      "value": "What’re you doing, Aoi?"
+    },
+    {
+      "key": "EP11_S9200_0002",
+      "value": "Just cleaning. I’m not sure what else to do\nat a time like this."
+    },
+    {
+      "key": "EP11_S9200_0003",
+      "value": "Times like these make the dirty spots that\nmuch more irritating!"
+    },
+    {
+      "key": "EP11_S9200_0004",
+      "value": "Yeah, I think I get what you mean."
+    },
+    {
+      "key": "EP11_S9200_0005",
+      "value": "Plus, this place is full of memories for all\nof us."
+    },
+    {
+      "key": "EP11_S9200_0006",
+      "value": "That’s why I want to keep it tidy."
+    },
+    {
+      "key": "EP11_S9200_0007",
+      "value": "I’ll help, too!"
+    },
+    {
+      "key": "EP11_S9200_0008",
+      "value": "Thank you. In that case, would you take care\nof the dusting over there?"
+    },
+    {
+      "key": "EP11_S9200_0009",
+      "value": "Sure, no problem."
+    },
+    {
+      "key": "EP11_S9200_0010",
+      "value": "Um, Takuma..."
+    },
+    {
+      "key": "EP11_S9200_0011",
+      "value": "Yeah?"
+    },
+    {
+      "key": "EP11_S9200_0012",
+      "value": "...Don’t you think it’s a miracle we made it\nthis far without losing anyone?"
+    },
+    {
+      "key": "EP11_S9200_0013",
+      "value": "It’s no miracle."
+    },
+    {
+      "key": "EP11_S9200_0014",
+      "value": "Everyone’s been working super hard...\nEspecially you, Aoi."
+    },
+    {
+      "key": "EP11_S9200_0015",
+      "value": "So it’s not a miracle, but proof of our\nefforts... That’s what I think."
+    },
+    {
+      "key": "EP11_S9200_0016",
+      "value": "Especially me?\nI don’t think I did anything special..."
+    },
+    {
+      "key": "EP11_S9200_0017",
+      "value": "(She’s being modest. Aoi’s tried so hard, as\na leader, a mother to everyone...)"
+    },
+    {
+      "key": "EP11_S9200_Q1",
+      "value": "(What should I say to Aoi?)"
+    },
+    {
+      "key": "EP11_S9200_Q1_A1",
+      "value": "You’re like a mom to us."
+    },
+    {
+      "key": "EP11_S9200_Q1_A2",
+      "value": "You’re like a leader to us."
+    },
+    {
+      "key": "EP11_S9200_0018",
+      "value": "A mom to all of us."
+    },
+    {
+      "key": "EP11_S9200_0019",
+      "value": "That’s not true, Aoi. You’re like a mom\nto all of us."
+    },
+    {
+      "key": "EP11_S9200_0020",
+      "value": "A mom..."
+    },
+    {
+      "key": "EP11_S9200_0021",
+      "value": "I think a mom like you would be great!"
+    },
+    {
+      "key": "EP11_S9200_0022",
+      "value": "I don’t think I’ve done anything so\npraiseworthy..."
+    },
+    {
+      "key": "EP11_S9200_0023",
+      "value": "You always take care of everyone, don’t you?"
+    },
+    {
+      "key": "EP11_S9200_0024",
+      "value": "Ah, but I guess a mother’s gotta be much\nolder, huh? So maybe...a big sister?"
+    },
+    {
+      "key": "EP11_S9200_0025",
+      "value": "...Either way, I’m happy that you hold me in\nsuch high esteem."
+    },
+    {
+      "key": "EP11_S9200_0026",
+      "value": "That’s only because you’ve earned it, Aoi."
+    },
+    {
+      "key": "EP11_S9200_0027",
+      "value": "...Thanks, Takuma."
+    },
+    {
+      "key": "EP11_S9200_0028",
+      "value": "A leader to all of us."
+    },
+    {
+      "key": "EP11_S9200_0029",
+      "value": "That’s not true, Aoi. You’re like a leader\nto all of us."
+    },
+    {
+      "key": "EP11_S9200_0030",
+      "value": "I don’t consider myself any kind of leader."
+    },
+    {
+      "key": "EP11_S9200_0031",
+      "value": "But you held everyone together while I was\ngone, didn’t you?"
+    },
+    {
+      "key": "EP11_S9200_0032",
+      "value": "No, I... Shuuji was much more of a leader\nthan I was."
+    },
+    {
+      "key": "EP11_S9200_0033",
+      "value": "Well of course he’s a leader, but I think\nyou’re just as much a leader as he is."
+    },
+    {
+      "key": "EP11_S9200_0034",
+      "value": "Me, a leader?"
+    },
+    {
+      "key": "EP11_S9200_0035",
+      "value": "Yeah. No one said there’s gotta be just one.\nYou’ve definitely done your part! So..."
+    },
+    {
+      "key": "EP11_S9200_0036",
+      "value": "Thanks, Aoi. I was able to see everyone again\nbecause of you."
+    },
+    {
+      "key": "EP11_S9200_0037",
+      "value": "...Well, if you’re gonna go that far..."
+    },
+    {
+      "key": "EP11_S9200_0038",
+      "value": "I might have gained a little confidence.\nIs that all right?"
+    },
+    {
+      "key": "EP11_S9200_0039",
+      "value": "Of course it is! What you’ve done is amazing!"
+    },
+    {
+      "key": "EP11_S9200_0040",
+      "value": "Takuma... Thank you."
+    },
+    {
+      "key": "EP11_S9200_0041",
+      "value": "But you’ve been making every effort as well,\nhaven’t you, Takuma?"
+    },
+    {
+      "key": "EP11_S9200_0042",
+      "value": "Huh? Me?"
+    },
+    {
+      "key": "EP11_S9200_0043",
+      "value": "Yes. You’ve been working just as hard for\neveryone as I have."
+    },
+    {
+      "key": "EP11_S9200_0044",
+      "value": "It’s safe to say everyone’s been doing their\nbest here."
+    },
+    {
+      "key": "EP11_S9200_0045",
+      "value": "Yes, I agree. If we had lost even a single\none of us..."
+    },
+    {
+      "key": "EP11_S9200_0046",
+      "value": "I don’t think we would be here right now."
+    },
+    {
+      "key": "EP11_S9200_0047",
+      "value": "Both this world and ours could have ended,\nwith us having no idea how they’re connected."
+    },
+    {
+      "key": "EP11_S9200_0048",
+      "value": "We wouldn’t have known about the professor,\nor Renamon..."
+    },
+    {
+      "key": "EP11_S9200_0049",
+      "value": "Renamon always thought of Miyuki, so long\nthat the professor grew into an adult..."
+    },
+    {
+      "key": "EP11_S9200_0050",
+      "value": "I know... To be thinking about a single person\nfor such a long time..."
+    },
+    {
+      "key": "EP11_S9200_0051",
+      "value": "Is that a happy experience? Or an unhappy\none?"
+    },
+    {
+      "key": "EP11_S9200_0052",
+      "value": "(I can’t imagine such a long time. Still,\nlooking at Renamon and the professor...)"
+    },
+    {
+      "key": "EP11_S9200_Q2",
+      "value": "(I should tell Aoi it’s...)"
+    },
+    {
+      "key": "EP11_S9200_Q2_A1",
+      "value": "Happiness, I’m sure."
+    },
+    {
+      "key": "EP11_S9200_Q2_A2",
+      "value": "Unhappiness, maybe."
+    },
+    {
+      "key": "EP11_S9200_0053",
+      "value": "Happiness, I’m sure."
+    },
+    {
+      "key": "EP11_S9200_0054",
+      "value": "I’d say it’s happiness. If it’s someone you\ncan think about so much for so long..."
+    },
+    {
+      "key": "EP11_S9200_0055",
+      "value": "I’d say that’s not the type of person you\nmeet every day."
+    },
+    {
+      "key": "EP11_S9200_0056",
+      "value": "You’re right... I guess that’s why Renamon\ncouldn’t forgive the professor."
+    },
+    {
+      "key": "EP11_S9200_0057",
+      "value": "Well, even those two have come to understand\neach other."
+    },
+    {
+      "key": "EP11_S9200_0058",
+      "value": "Coming to an understanding despite being at\nodds... Isn’t that wonderful?"
+    },
+    {
+      "key": "EP11_S9200_0059",
+      "value": "Yeah. I want to do the same with the Four\nSovereign Monsters. If we can do that..."
+    },
+    {
+      "key": "EP11_S9200_0060",
+      "value": "Don’t worry, Takuma. Your wish will reach\nthem, I’m sure of it."
+    },
+    {
+      "key": "EP11_S9200_0061",
+      "value": "Unhappiness, maybe."
+    },
+    {
+      "key": "EP11_S9200_0062",
+      "value": "Maybe it’s unhappiness. Renamon didn’t look\ntoo happy, after all..."
+    },
+    {
+      "key": "EP11_S9200_0063",
+      "value": "The desire to protect...transformed into\nsomething different without her noticing."
+    },
+    {
+      "key": "EP11_S9200_0064",
+      "value": "But Renamon isn’t in the wrong. That feeling\nof wanting to protect Miyuki wasn’t a lie."
+    },
+    {
+      "key": "EP11_S9200_0065",
+      "value": "Yes... Maybe that’s why Renamon and the\nprofessor came to understand each other."
+    },
+    {
+      "key": "EP11_S9200_0066",
+      "value": "Oh, shoot! All this talk made me forget about\nthe cleaning."
+    },
+    {
+      "key": "EP11_S9200_0067",
+      "value": "Shall we get back to it?"
+    },
+    {
+      "key": "EP11_S9200_0068",
+      "value": "That should do it."
+    },
+    {
+      "key": "EP11_S9200_0069",
+      "value": "You missed a spot, Takuma."
+    },
+    {
+      "key": "EP11_S9200_0070",
+      "value": "Oops, you’re right. Cleaning’s harder than\nI thought."
+    },
+    {
+      "key": "EP11_S9200_0071",
+      "value": "Hee hee... Still, you’re pretty good at this.\nSome people just have no sense for it."
+    },
+    {
+      "key": "EP11_S9200_0072",
+      "value": "Really?"
+    },
+    {
+      "key": "EP11_S9200_0073",
+      "value": "Hee hee, yes, really."
+    },
+    {
+      "key": "EP11_S9200_0074",
+      "value": "Um, Takuma..."
+    },
+    {
+      "key": "EP11_S9200_0075",
+      "value": "What’s up?"
+    },
+    {
+      "key": "EP11_S9200_0076",
+      "value": "Once everything’s settled... Will you still\nhang out with me like this?"
+    },
+    {
+      "key": "EP11_S9200_0077",
+      "value": "(What’s this? I’d say it’s obvious, but\nI don’t exactly have proof or anything.)"
+    },
+    {
+      "key": "EP11_S9200_Q3",
+      "value": "(How should I respond to Aoi?)"
+    },
+    {
+      "key": "EP11_S9200_Q3_A1",
+      "value": "Of course!"
+    },
+    {
+      "key": "EP11_S9200_Q3_A2",
+      "value": "As much as I can."
+    },
+    {
+      "key": "EP11_S9200_0078",
+      "value": "Of course!"
+    },
+    {
+      "key": "EP11_S9200_0079",
+      "value": "Of course! I mean, we’re friends, right?"
+    },
+    {
+      "key": "EP11_S9200_0080",
+      "value": "Yes, you’re right... I look forward to the\nday all this ends, then."
+    },
+    {
+      "key": "EP11_S9200_0081",
+      "value": "Yeah, me too!"
+    },
+    {
+      "key": "EP11_S9200_0082",
+      "value": "As much as I can."
+    },
+    {
+      "key": "EP11_S9200_0083",
+      "value": "As much as I can."
+    },
+    {
+      "key": "EP11_S9200_0084",
+      "value": "We have no idea what’s waiting for us ahead,\nafter all..."
+    },
+    {
+      "key": "EP11_S9200_0085",
+      "value": "I can’t say anything for sure at this point."
+    },
+    {
+      "key": "EP11_S9200_0086",
+      "value": "...There are plenty of trials ahead of us\nback in our world too, huh?"
+    },
+    {
+      "key": "EP11_S9200_0087",
+      "value": "Still, after everything we’ve been through in\nthis world, I’m sure it’ll all work out."
+    },
+    {
+      "key": "EP11_S9200_0088",
+      "value": "Yes, I think so, too."
+    },
+    {
+      "key": "EP11_S9200_0089",
+      "value": "*whew* That’s enough cleaning for now.\nI should get ready."
+    },
+    {
+      "key": "EP11_S9200_0090",
+      "value": "See you later, Takuma."
+    },
+    {
+      "key": "EP11_S9200_0091",
+      "value": "Yeah, until then."
+    },
+    {
+      "key": "EP11_S9200_0092",
+      "value": "Things are about to get tough for us, but\nwe’ll get through it. All of us, together."
+    }
+  ]
+}

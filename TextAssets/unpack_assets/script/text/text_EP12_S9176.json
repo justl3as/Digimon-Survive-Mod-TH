@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9176_0001",
+      "value": "Eek!"
+    },
+    {
+      "key": "EP12_S9176_0002",
+      "value": "Phew... It was just some noise. Why does\neverything have to be so scary?"
+    },
+    {
+      "key": "EP12_S9176_0003",
+      "value": "Wait, why is this door closed? Is...is\nsomeone in there?"
+    },
+    {
+      "key": "EP12_S9176_0004",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S9176_0005",
+      "value": "(I...I think I’m just going to forget it.)"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0380_0001",
+      "value": "Finally... We did it!"
+    },
+    {
+      "key": "EP01_S0380_0002",
+      "value": "That was some enemy...but you and Labramon\ndid a great job, Agumon!"
+    },
+    {
+      "key": "EP01_S0380_0003",
+      "value": "This sort of thing’s no problem! Not if it’s\nto save Aoi!"
+    },
+    {
+      "key": "EP01_S0380_0101",
+      "value": "(The spiderwebs are vanishing before our\neyes. Is it because we beat Dokugumon?)"
+    },
+    {
+      "key": "EP01_S0380_0102",
+      "value": "(The nest in the gym is disappearing, too.\nMust be happening across the entire school.)"
+    },
+    {
+      "key": "EP01_S0380_0200",
+      "value": "Ah! What about Aoi?!"
+    },
+    {
+      "key": "EP01_S0380_0201",
+      "value": "You’re right! We can’t just be standing\naround!"
+    },
+    {
+      "key": "EP01_S0380_0202",
+      "value": "Takuma! Everyone’s fallen down!"
+    },
+    {
+      "key": "EP01_S0380_0103",
+      "value": "Aoi’s out of the spiderweb!"
+    },
+    {
+      "key": "EP01_S0380_0104",
+      "value": "I see, the webs disappeared, after all!"
+    },
+    {
+      "key": "EP01_S0380_0004",
+      "value": "Right! We’d better hurry up and rescue our\nfriends!"
+    },
+    {
+      "key": "EP01_S0380_0105",
+      "value": "You all right, Ryo?!"
+    },
+    {
+      "key": "EP01_S0380_0106",
+      "value": "Mommy! Oh, Mommy—uhhh? Wait, I’m safe...?"
+    },
+    {
+      "key": "EP01_S0380_0107",
+      "value": "Yeah, you’re safe now!"
+    },
+    {
+      "key": "EP01_S0380_0108",
+      "value": "Uh, yeah... Thanks. I guess."
+    },
+    {
+      "key": "EP01_S0380_0109",
+      "value": "Heh heh, are those tears I see in your eyes,\nMr. Upperclassman?"
+    },
+    {
+      "key": "EP01_S0380_0110",
+      "value": "Me? C-crying?! Yeah, right!"
+    },
+    {
+      "key": "EP01_S0380_0111",
+      "value": "Desist with your chiding, Minoru. I am glad\nKunemon is safe, too."
+    },
+    {
+      "key": "EP01_S0380_0112",
+      "value": "Kew...!"
+    },
+    {
+      "key": "EP01_S0380_0113",
+      "value": "Forget about him, what about Aoi?!"
+    },
+    {
+      "key": "EP01_S0380_0203",
+      "value": "Takuma! Everyone’s fallen down!"
+    },
+    {
+      "key": "EP01_S0380_0114",
+      "value": "Minoru! Are you okay?!"
+    },
+    {
+      "key": "EP01_S0380_0115",
+      "value": "Man, I’m shaking like a leaf..."
+    },
+    {
+      "key": "EP01_S0380_0116",
+      "value": "Thanks a bunch, Takuma. I could see you guys\nfighting out there."
+    },
+    {
+      "key": "EP01_S0380_0117",
+      "value": "A coward like me can’t do a damn thing in the\nreal world, huh..."
+    },
+    {
+      "key": "EP01_S0380_0118",
+      "value": "What’re you saying? I was barely hanging on\nback there."
+    },
+    {
+      "key": "EP01_S0380_0119",
+      "value": "Hmph, pathetic. Don’t go causing trouble for\nthe rest of us!"
+    },
+    {
+      "key": "EP01_S0380_0120",
+      "value": "The hell you say?!"
+    },
+    {
+      "key": "EP01_S0380_0121",
+      "value": "Ho ho, such protests imply he was actually\nconcerned for our well-being."
+    },
+    {
+      "key": "EP01_S0380_0122",
+      "value": "As if!"
+    },
+    {
+      "key": "EP01_S0380_0123",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP01_S0380_0124",
+      "value": "Indeed, we do apologize for making you worry."
+    },
+    {
+      "key": "EP01_S0380_0125",
+      "value": "Oh yeah, where’s Aoi?!\nWe have to save her!"
+    },
+    {
+      "key": "EP01_S0380_0204",
+      "value": "Takuma! Everyone’s fallen down!"
+    },
+    {
+      "key": "EP01_S0380_0126",
+      "value": "Minoru, Ryo! Are you guys okay?!"
+    },
+    {
+      "key": "EP01_S0380_0127",
+      "value": "Man, I’m shaking like a leaf..."
+    },
+    {
+      "key": "EP01_S0380_0128",
+      "value": "Uh, yeah... Thanks. I guess."
+    },
+    {
+      "key": "EP01_S0380_0129",
+      "value": "Everyone... I’m so happy you’re safe..."
+    },
+    {
+      "key": "EP01_S0380_0130",
+      "value": "Indeed, we do apologize for making you worry."
+    },
+    {
+      "key": "EP01_S0380_0131",
+      "value": "Kew, kewww!"
+    },
+    {
+      "key": "EP01_S0380_0132",
+      "value": "Yay, everyone’s just fine!"
+    },
+    {
+      "key": "EP01_S0380_0133",
+      "value": "Aoi! Are you okay?!"
+    },
+    {
+      "key": "EP01_S0380_0134",
+      "value": "Hey, she don’t look good. You think she’s...?"
+    },
+    {
+      "key": "EP01_S0380_0135",
+      "value": "Enough yapping! You got time to talk, then\nhelp us out here, man!"
+    },
+    {
+      "key": "EP01_S0380_0136",
+      "value": "We’re coming, Aoi!"
+    },
+    {
+      "key": "EP01_S0380_0137",
+      "value": "Hold on!"
+    },
+    {
+      "key": "EP01_S0380_0138",
+      "value": "Kewww!"
+    },
+    {
+      "key": "EP01_S0380_0139",
+      "value": "Aoi! Aoi! Say something!"
+    },
+    {
+      "key": "EP01_S0380_0015",
+      "value": "Unnngh... Labramon? You... You saved me?"
+    },
+    {
+      "key": "EP01_S0380_0016",
+      "value": "Thank you...so much... This is the second\ntime..."
+    },
+    {
+      "key": "EP01_S0380_0017",
+      "value": "What’re you saying?! You saved me right\nback, didn’t you?!"
+    },
+    {
+      "key": "EP01_S0380_0018",
+      "value": "...Takuma, Agumon! Thank you for fighting\nwith me!"
+    },
+    {
+      "key": "EP01_S0380_0140",
+      "value": "You rescued me, didn’t you, Takuma? Standing\nup to such a frightening creature..."
+    },
+    {
+      "key": "EP01_S0380_0141",
+      "value": "Thank you, truly... You’ve become so\nreliable, haven’t you?"
+    },
+    {
+      "key": "EP01_S0380_0142",
+      "value": "No, I couldn’t do it alone. Labramon and\nAgumon were right there with me."
+    },
+    {
+      "key": "EP01_S0380_0020",
+      "value": "Agumon was amazing! That sudden spike in\npower was just incredible."
+    },
+    {
+      "key": "EP01_S0380_0021",
+      "value": "Oh yeah, about that! That’s the second time\nyou’ve changed shape."
+    },
+    {
+      "key": "EP01_S0380_0022",
+      "value": "What the heck is that?"
+    },
+    {
+      "key": "EP01_S0380_0143",
+      "value": "Oh! Yeah, I got no clue!"
+    },
+    {
+      "key": "EP01_S0380_0144",
+      "value": "It’s like a superhero transformation..."
+    },
+    {
+      "key": "EP01_S0380_0025",
+      "value": "Hmm, I wonder... Perhaps it’s more like\n“evolution”!"
+    },
+    {
+      "key": "EP01_S0380_0026",
+      "value": "A reaction to severe environmental changes...\nThat is, because of that vicious battle."
+    },
+    {
+      "key": "EP01_S0380_0027",
+      "value": "“Evolution,” huh... You have any idea how\nyou pulled that off, Agumon?"
+    },
+    {
+      "key": "EP01_S0380_0028",
+      "value": "I really don’t! But if I had to guess..."
+    },
+    {
+      "key": "EP01_S0380_0145",
+      "value": "Takuma’s feelings must have flowed into me!"
+    },
+    {
+      "key": "EP01_S0380_0029",
+      "value": "I wanted to live up to Takuma’s feelings...\nThat’s what made me “evolve”!"
+    },
+    {
+      "key": "EP01_S0380_0030",
+      "value": "So in other words, my willpower...? Can\nstrong feelings cause evolution?"
+    },
+    {
+      "key": "EP01_S0380_0031",
+      "value": "Seems like the source of this power is the\nbond you share. That makes you partners!"
+    },
+    {
+      "key": "EP01_S0380_0146",
+      "value": "Partners... I like the sound of that!"
+    },
+    {
+      "key": "EP01_S0380_0035",
+      "value": "Still...bonds of the heart... I can’t say\nI get the logic, but I kinda understand."
+    },
+    {
+      "key": "EP01_S0380_0147",
+      "value": "Okay, should we get out of here? Everyone\nmust be exhausted."
+    },
+    {
+      "key": "EP01_S0380_0148",
+      "value": "That’s what I’m talking about! Let’s head\nsomeplace we can take a breather."
+    }
+  ]
+}

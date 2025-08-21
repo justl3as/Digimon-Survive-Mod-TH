@@ -1,0 +1,248 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2573_0001",
+      "value": "(After all that, Shuuji eventually got us to\ncalm down, and we returned to the school.)"
+    },
+    {
+      "key": "EP03_S2573_0002",
+      "value": "(Leave it to Shuuji to step up in a situation\nlike that and get us all back safely.)"
+    },
+    {
+      "key": "EP03_S2573_0003",
+      "value": "(Kaito was next to recover. He was all ready\nto go to the amusement park and find Miu,)"
+    },
+    {
+      "key": "EP03_S2573_0004",
+      "value": "(But the rest of us managed to convince him\nto come back to the school instead.)"
+    },
+    {
+      "key": "EP03_S2573_0005",
+      "value": "(Shuuji made the case that we could search\nmore effectively after we’d regrouped.)"
+    },
+    {
+      "key": "EP03_S2573_0006",
+      "value": "(And after seeing what happened to Ryo, even\nKaito must’ve realized the need for caution.)"
+    },
+    {
+      "key": "EP03_S2573_0007",
+      "value": "(Everyone else was pretty upset and shaken\nfrom having witnessed Ryo’s death.)"
+    },
+    {
+      "key": "EP03_S2573_0008",
+      "value": "(It was dark by the time we got back, and we\nwere exhausted. Nobody bothered with dinner.)"
+    },
+    {
+      "key": "EP03_S2573_0009",
+      "value": "(The others mostly seemed to collapse into\nsleep, though I found that impossible.)"
+    },
+    {
+      "key": "EP03_S2573_0010",
+      "value": "(My mind kept coming back to the same\nthought.)"
+    },
+    {
+      "key": "EP03_S2573_0011",
+      "value": "(Surely there must have been something more\nI could have done.)"
+    },
+    {
+      "key": "EP03_S2573_0012",
+      "value": "(Maybe if we’d all worked together, or if I’d\nbeen more determined, or...)"
+    },
+    {
+      "key": "EP03_S2573_Q1",
+      "value": "(When Ryo was in trouble, if only we had...)"
+    },
+    {
+      "key": "EP03_S2573_Q1_A1",
+      "value": "Cooperation."
+    },
+    {
+      "key": "EP03_S2573_Q1_A2",
+      "value": "Determination."
+    },
+    {
+      "key": "EP03_S2573_Q1_A3",
+      "value": "I just don’t know."
+    },
+    {
+      "key": "EP03_S2573_0013",
+      "value": "Cooperation."
+    },
+    {
+      "key": "EP03_S2573_0014",
+      "value": "(Maybe if we’d all found a way to communicate\nand work together, we could’ve saved him.)"
+    },
+    {
+      "key": "EP03_S2573_0015",
+      "value": "(No, it wouldn’t have mattered.)"
+    },
+    {
+      "key": "EP03_S2573_0016",
+      "value": "(Even if we’d been able to do something,\nAgumon and the others were frozen with fear.)"
+    },
+    {
+      "key": "EP03_S2573_0017",
+      "value": "Determination."
+    },
+    {
+      "key": "EP03_S2573_0018",
+      "value": "(If I hadn’t let Agumon stop me, moved with\nmore determination, could I have saved him?)"
+    },
+    {
+      "key": "EP03_S2573_0019",
+      "value": "(No, it wouldn’t have mattered.)"
+    },
+    {
+      "key": "EP03_S2573_0020",
+      "value": "(What could I have done against something\neven Agumon and the others find terrifying?)"
+    },
+    {
+      "key": "EP03_S2573_0021",
+      "value": "I just don’t know."
+    },
+    {
+      "key": "EP03_S2573_0022",
+      "value": "(It’s no use. I can’t think of anything.)"
+    },
+    {
+      "key": "EP03_S2573_0023",
+      "value": "(For one thing, that fog is still a complete\nmystery, not to mention the shadow.)"
+    },
+    {
+      "key": "EP03_S2573_0024",
+      "value": "(And more importantly, deep down, somehow\nI knew there was nothing I could do.)"
+    },
+    {
+      "key": "EP03_S2573_0025",
+      "value": "(It’s starting to get cold. If I stay like\nthis I’ll probably end up getting sick.)"
+    },
+    {
+      "key": "EP03_S2573_0026",
+      "value": "(Even if I can’t sleep, maybe I should just\nlie down for a while...)"
+    },
+    {
+      "key": "EP03_S2573_0501",
+      "value": "(We were all happy we’d saved Ryo, but soon\nthe reality of our situation sank in again.)"
+    },
+    {
+      "key": "EP03_S2573_0502",
+      "value": "(Between learning we were on an island with\nno hope of rescue, and that fog monster,)"
+    },
+    {
+      "key": "EP03_S2573_0503",
+      "value": "(my earlier optimism had faded, and the\nthreat of death suddenly seemed very real.)"
+    },
+    {
+      "key": "EP03_S2573_0504",
+      "value": "(We were all shaken, but Shuuji was able to\ncalm us down, and we returned to the school.)"
+    },
+    {
+      "key": "EP03_S2573_0505",
+      "value": "(Leave it to Shuuji to step up in a situation\nlike that and get us all back safely.)"
+    },
+    {
+      "key": "EP03_S2573_0506",
+      "value": "(Kaito was next to recover. He was all ready\nto go to the amusement park and find Miu,)"
+    },
+    {
+      "key": "EP03_S2573_0507",
+      "value": "(but the rest of us managed to convince him\nto come back to the school instead.)"
+    },
+    {
+      "key": "EP03_S2573_0508",
+      "value": "(Shuuji made the case that we could search\nmore effectively after we’d regrouped.)"
+    },
+    {
+      "key": "EP03_S2573_0509",
+      "value": "(And after seeing that fog monster, even\nKaito must’ve realized the need for caution.)"
+    },
+    {
+      "key": "EP03_S2573_0510",
+      "value": "(Everyone else was still scared from learning\nthis was another world and we might all die.)"
+    },
+    {
+      "key": "EP03_S2573_0511",
+      "value": "(It was dark by the time we got back, and we\nwere exhausted. Nobody bothered with dinner.)"
+    },
+    {
+      "key": "EP03_S2573_0512",
+      "value": "(The others mostly seemed to collapse into\nsleep, but I find that impossible.)"
+    },
+    {
+      "key": "EP03_S2573_0513",
+      "value": "(My mind keeps coming back to the same\nthoughts.)"
+    },
+    {
+      "key": "EP03_S2573_0514",
+      "value": "(Can we survive in this strange world? What\nif a monster like Arukenimon attacks again?)"
+    },
+    {
+      "key": "EP03_S2573_0515",
+      "value": "(And what about that monster in the fog? Was\nit the reason Ryo started to go crazy?)"
+    },
+    {
+      "key": "EP03_S2573_0516",
+      "value": "(What is this world, anyway? And what sort of\ncreatures are Agumon and the others?)"
+    },
+    {
+      "key": "EP03_S2573_Q2",
+      "value": "(So many questions fill my head...)"
+    },
+    {
+      "key": "EP03_S2573_Q2_A1",
+      "value": "What happens next?"
+    },
+    {
+      "key": "EP03_S2573_Q2_A2",
+      "value": "Ryo gave up..."
+    },
+    {
+      "key": "EP03_S2573_Q2_A3",
+      "value": "Just what is Agumon?"
+    },
+    {
+      "key": "EP03_S2573_0517",
+      "value": "(Even if we all work together and overcome\nevery hardship, what happens next?)"
+    },
+    {
+      "key": "EP03_S2573_0518",
+      "value": "(This is a different world. Nobody’s going to\ncome save us. Are we stuck here now?)"
+    },
+    {
+      "key": "EP03_S2573_0519",
+      "value": "(That’d be awful. Living in constant fear of\nattack, with no adults and no family...)"
+    },
+    {
+      "key": "EP03_S2573_0520",
+      "value": "(Ryo said he got overwhelmed. It was all too\nmuch for him, so he walked into the fog.)"
+    },
+    {
+      "key": "EP03_S2573_0521",
+      "value": "(If I did that, and the fog got me, would\nthat be the end of all this fear and pain?)"
+    },
+    {
+      "key": "EP03_S2573_0522",
+      "value": "(No, what am I thinking?! I can’t just give\nup. Not yet. Once I do that, it’s all over.)"
+    },
+    {
+      "key": "EP03_S2573_0523",
+      "value": "(Just what is Agumon? And what are the\nothers? Creatures of this world, I guess.)"
+    },
+    {
+      "key": "EP03_S2573_0524",
+      "value": "(And if they’re all that live here, they\nmust have friends and family of their own.)"
+    },
+    {
+      "key": "EP03_S2573_0525",
+      "value": "(Man, thinking about family makes me realize\nhow much I miss my mom...)"
+    },
+    {
+      "key": "EP03_S2573_0526",
+      "value": "(It’s starting to get cold. If I stay like\nthis I’ll probably end up getting sick.)"
+    },
+    {
+      "key": "EP03_S2573_0527",
+      "value": "(Even if I can’t sleep, maybe I should just\nlie down for a while...)"
+    }
+  ]
+}

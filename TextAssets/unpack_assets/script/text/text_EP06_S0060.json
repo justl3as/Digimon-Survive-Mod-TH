@@ -1,0 +1,764 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S0060_0001",
+      "value": "(I’m tired... That was a tough fight.)"
+    },
+    {
+      "key": "EP06_S0060_0002",
+      "value": "(Everyone else must be tired, too.\nI hope they can rest well.)"
+    },
+    {
+      "key": "EP06_S0060_0003",
+      "value": "(I’m glad everyone’s back on good terms.\nThat was my biggest concern.)"
+    },
+    {
+      "key": "EP06_S0060_0004",
+      "value": "(But a few things are still bothering me.)"
+    },
+    {
+      "key": "EP06_S0060_0005",
+      "value": "(What’s with Haru and the professor? And\nGarurumon’s attitude? What’s going on?)"
+    },
+    {
+      "key": "EP06_S0060_0006",
+      "value": "(I have no idea, but we’re definitely getting\ncloser to entering the enemy base.)"
+    },
+    {
+      "key": "EP06_S0060_0007",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0060_0008",
+      "value": "Takuma? You look like something’s bothering\nyou again!"
+    },
+    {
+      "key": "EP06_S0060_0009",
+      "value": "Yeah. Thinking about everything going on\nmakes my head spin."
+    },
+    {
+      "key": "EP06_S0060_0010",
+      "value": "I know I should get some rest, but I don’t\nfeel like sleeping."
+    },
+    {
+      "key": "EP06_S0060_0011",
+      "value": "Did you say you can’t sleep, Takuma?"
+    },
+    {
+      "key": "EP06_S0060_0012",
+      "value": "Oh! You too, Aoi?"
+    },
+    {
+      "key": "EP06_S0060_0013",
+      "value": "You’re both worked up. Maybe you should drink\nsomething to try to relax."
+    },
+    {
+      "key": "EP06_S0060_0014",
+      "value": "I hardly think we should be wasting supplies."
+    },
+    {
+      "key": "EP06_S0060_0015",
+      "value": "But not getting enough sleep is even worse.\nWe have extra supplies and water."
+    },
+    {
+      "key": "EP06_S0060_0016",
+      "value": "That’s true...\n*sigh*"
+    },
+    {
+      "key": "EP06_S0060_0017",
+      "value": "I wish I was as easy-going as you, Takuma."
+    },
+    {
+      "key": "EP06_S0060_0018",
+      "value": "Or that I could say whatever’s on my mind,\nlike Saki."
+    },
+    {
+      "key": "EP06_S0060_0019",
+      "value": "Really?\nI think your seriousness is your strength."
+    },
+    {
+      "key": "EP06_S0060_0020",
+      "value": "Hm, I guess so."
+    },
+    {
+      "key": "EP06_S0060_0021",
+      "value": "Plus, you’ve also been making sure Labramon\ndoesn’t get hurt."
+    },
+    {
+      "key": "EP06_S0060_0022",
+      "value": "I think that’s amazing."
+    },
+    {
+      "key": "EP06_S0060_0023",
+      "value": "You’re always looking out for everyone.\nIt really is amazing!"
+    },
+    {
+      "key": "EP06_S0060_0024",
+      "value": "You have your own strengths, Aoi.\nBeing serious is important, too."
+    },
+    {
+      "key": "EP06_S0060_0025",
+      "value": "Thanks, guys."
+    },
+    {
+      "key": "EP06_S0060_0026",
+      "value": "Now maybe you’ll be able to sleep better."
+    },
+    {
+      "key": "EP06_S0060_0027",
+      "value": "I do feel a little more relaxed now."
+    },
+    {
+      "key": "EP06_S0060_0028",
+      "value": "Yeah, I think I’ll hit the hay.\nGood night, Takuma."
+    },
+    {
+      "key": "EP06_S0060_0029",
+      "value": "Good night, Aoi."
+    },
+    {
+      "key": "EP06_S0060_0030",
+      "value": "(She always helps a lot, so I hope that\nhelped her, too.)"
+    },
+    {
+      "key": "EP06_S0060_0031",
+      "value": "(It’s finally almost time to head to the\nenemy base.)"
+    },
+    {
+      "key": "EP06_S0060_0032",
+      "value": "(There must be a clue about how to get home\nin the factory east of the apartments.)"
+    },
+    {
+      "key": "EP06_S0060_0033",
+      "value": "(I’d better rest up to get ready for\ntomorrow.)"
+    },
+    {
+      "key": "EP06_S0060_0034",
+      "value": "Takuma!\nCome eat this with me!"
+    },
+    {
+      "key": "EP06_S0060_0035",
+      "value": "Huh?\nIs that...canned meat?"
+    },
+    {
+      "key": "EP06_S0060_0036",
+      "value": "Looks good, but there’s only one of this type\nso I’ve had my eye on it."
+    },
+    {
+      "key": "EP06_S0060_0037",
+      "value": "They said not to waste supplies, though..."
+    },
+    {
+      "key": "EP06_S0060_0038",
+      "value": "But we’re near the enemy base, so we might as\nwell live a little!"
+    },
+    {
+      "key": "EP06_S0060_0039",
+      "value": "True.\nOkay, let’s eat it in secret!"
+    },
+    {
+      "key": "EP06_S0060_0040",
+      "value": "Hah!\nI knew you’d understand, Takuma!"
+    },
+    {
+      "key": "EP06_S0060_0041",
+      "value": "All right, here goes!\nHere, take it."
+    },
+    {
+      "key": "EP06_S0060_0042",
+      "value": "Huh? I thought we were gonna share it?"
+    },
+    {
+      "key": "EP06_S0060_0043",
+      "value": "Yeah, but you helped me so much today.\nSo I wanted to, like, thank you..."
+    },
+    {
+      "key": "EP06_S0060_0044",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP06_S0060_0045",
+      "value": "Thanks a lot.\nBut let’s enjoy it together!"
+    },
+    {
+      "key": "EP06_S0060_0046",
+      "value": "Okay, I’ll have some then!"
+    },
+    {
+      "key": "EP06_S0060_0047",
+      "value": "You knew Takuma was gonna say that all along,\ndidn’t you?"
+    },
+    {
+      "key": "EP06_S0060_0048",
+      "value": "Hehe, was it that obvious?\nI mean, knowing Takuma...  "
+    },
+    {
+      "key": "EP06_S0060_0049",
+      "value": "He’s always nice to everyone around him,\nalways bringing people together."
+    },
+    {
+      "key": "EP06_S0060_0050",
+      "value": "Like a hero..."
+    },
+    {
+      "key": "EP06_S0060_0051",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP06_S0060_0052",
+      "value": "Nothing, nothing!\nLet’s hurry up and eat!"
+    },
+    {
+      "key": "EP06_S0060_0053",
+      "value": "Um, sure."
+    },
+    {
+      "key": "EP06_S0060_0054",
+      "value": "Hmph.\nHumans..."
+    },
+    {
+      "key": "EP06_S0060_0055",
+      "value": "(Falcomon sure looks happy despite his\nwords.)"
+    },
+    {
+      "key": "EP06_S0060_0056",
+      "value": "(Falcomon and Minoru got over their problems,\nand we’re near the enemy base.)"
+    },
+    {
+      "key": "EP06_S0060_0057",
+      "value": "(Things are bound to get worse starting\ntomorrow.)"
+    },
+    {
+      "key": "EP06_S0060_0058",
+      "value": "(Still, being appreciated by smiling friends\nmakes me feel like I can handle it.)"
+    },
+    {
+      "key": "EP06_S0060_0059",
+      "value": "(Let’s do our best tomorrow.\nWe’ll find a way back to our world somehow.)"
+    },
+    {
+      "key": "EP06_S0060_0060",
+      "value": "Oh, you’re still awake?"
+    },
+    {
+      "key": "EP06_S0060_0061",
+      "value": "It’s Ryo and Kunemon."
+    },
+    {
+      "key": "EP06_S0060_0062",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP06_S0060_0063",
+      "value": "Hey, Kunemon."
+    },
+    {
+      "key": "EP06_S0060_0064",
+      "value": "You having trouble sleeping?"
+    },
+    {
+      "key": "EP06_S0060_0065",
+      "value": "I can’t stop thinking about how we’ll be at\nthe enemy base soon."
+    },
+    {
+      "key": "EP06_S0060_0066",
+      "value": "You know, Takuma...\nI was so scared of this world at first."
+    },
+    {
+      "key": "EP06_S0060_0067",
+      "value": "I know.\nYou were always shaking like crazy."
+    },
+    {
+      "key": "EP06_S0060_0068",
+      "value": "Uh, right...\nAnyway, I don’t feel that way anymore."
+    },
+    {
+      "key": "EP06_S0060_0069",
+      "value": "It’s hard to survive, and I almost died, but\nworking together with everyone’s not so bad."
+    },
+    {
+      "key": "EP06_S0060_0070",
+      "value": "And I met Kunemon, too."
+    },
+    {
+      "key": "EP06_S0060_0071",
+      "value": "Kewww."
+    },
+    {
+      "key": "EP06_S0060_0072",
+      "value": "So, like, I don’t know how to put this into\nwords, but..."
+    },
+    {
+      "key": "EP06_S0060_0073",
+      "value": "Haha, you always have a hard time with words,\ndon’t you?"
+    },
+    {
+      "key": "EP06_S0060_0074",
+      "value": "Shut up!\nI just forgot what I was gonna say!"
+    },
+    {
+      "key": "EP06_S0060_0075",
+      "value": "Whatever. Go get some sleep.\nYou won’t do much good running on empty."
+    },
+    {
+      "key": "EP06_S0060_0076",
+      "value": "Good idea.\nI think I will!"
+    },
+    {
+      "key": "EP06_S0060_0077",
+      "value": "(Ryo used to be really scared, but now he’s\nmore strong and positive.)"
+    },
+    {
+      "key": "EP06_S0060_0078",
+      "value": "(The same goes for the others. We’ve all\ngrown and gotten stronger than before.)"
+    },
+    {
+      "key": "EP06_S0060_0079",
+      "value": "(We can do this. We’re all gonna survive\nwhatever this enemy base has in store.)"
+    },
+    {
+      "key": "EP06_S0060_0080",
+      "value": "(We will all make it back to our world.)"
+    },
+    {
+      "key": "EP06_S0060_0081",
+      "value": "Huh? You having trouble sleeping, too?"
+    },
+    {
+      "key": "EP06_S0060_0082",
+      "value": "Yep.\nI’m guessing you’re in the same boat?"
+    },
+    {
+      "key": "EP06_S0060_0083",
+      "value": "Yeah. I thought I’d grab some water, and then\nI saw you in the cafeteria."
+    },
+    {
+      "key": "EP06_S0060_0084",
+      "value": "Even if you can’t sleep after getting water,\nit’s still best to lie down."
+    },
+    {
+      "key": "EP06_S0060_0085",
+      "value": "You too, Takuma. You’ve been running around\nall day and must be worn out."
+    },
+    {
+      "key": "EP06_S0060_0086",
+      "value": "You’re right, I should let my body rest.\nThanks for the advice, Floramon."
+    },
+    {
+      "key": "EP06_S0060_0087",
+      "value": "So, is anything bothering you, Takuma?"
+    },
+    {
+      "key": "EP06_S0060_0088",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP06_S0060_0089",
+      "value": "I mean, since you can’t sleep."
+    },
+    {
+      "key": "EP06_S0060_0090",
+      "value": "Just a lot to think about, I guess.\nToo many things I don’t understand."
+    },
+    {
+      "key": "EP06_S0060_0091",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP06_S0060_0092",
+      "value": "What?"
+    },
+    {
+      "key": "EP06_S0060_0093",
+      "value": "Wanna talk about it?\nMight make you feel better."
+    },
+    {
+      "key": "EP06_S0060_0094",
+      "value": "Talk? Like, to you?"
+    },
+    {
+      "key": "EP06_S0060_0095",
+      "value": "Yeah.\nYou’ve been listening to me so much."
+    },
+    {
+      "key": "EP06_S0060_0096",
+      "value": "Think of it as a thank you.\nThen I won’t feel bad next time."
+    },
+    {
+      "key": "EP06_S0060_0097",
+      "value": "It’s okay if there are some things you can’t\nsay, or that are hard to talk about."
+    },
+    {
+      "key": "EP06_S0060_0098",
+      "value": "Tell me whatever you feel like sharing.\nI’ll listen."
+    },
+    {
+      "key": "EP06_S0060_0099",
+      "value": "Okay... Thanks."
+    },
+    {
+      "key": "EP06_S0060_0100",
+      "value": "No prob!\nI hope you’ll listen to me again, too!  "
+    },
+    {
+      "key": "EP06_S0060_0101",
+      "value": "I’m gonna grab some water and sleep.\nGood night, Takuma!"
+    },
+    {
+      "key": "EP06_S0060_0102",
+      "value": "Take it easy!\nGood night."
+    },
+    {
+      "key": "EP06_S0060_0103",
+      "value": "Good night, you two."
+    },
+    {
+      "key": "EP06_S0060_0104",
+      "value": "Good night!"
+    },
+    {
+      "key": "EP06_S0060_0105",
+      "value": "(I guess that cheered me up some.\nYeah... It definitely did.)"
+    },
+    {
+      "key": "EP06_S0060_0106",
+      "value": "(My mind still feels like a mess...)"
+    },
+    {
+      "key": "EP06_S0060_0107",
+      "value": "(But I know where to turn if I need to talk.\nSaki, and the others would do the same, too.)"
+    },
+    {
+      "key": "EP06_S0060_0108",
+      "value": "(Thinking about that makes me relaxed.\nAnd now I’m sleepy, too...)"
+    },
+    {
+      "key": "EP06_S0060_0109",
+      "value": "Feeling tired, Takuma?\nWanna hit the hay?"
+    },
+    {
+      "key": "EP06_S0060_0110",
+      "value": "Sounds like a good idea.\nTime for bed, Agumon."
+    },
+    {
+      "key": "EP06_S0060_0111",
+      "value": "(Tomorrow we finally head to the enemy base.)"
+    },
+    {
+      "key": "EP06_S0060_0112",
+      "value": "(There’s bound to be a clue there to help us\nget home. We can do this!)"
+    },
+    {
+      "key": "EP06_S0060_0113",
+      "value": "I’m not happy to see you up so late, Takuma."
+    },
+    {
+      "key": "EP06_S0060_0114",
+      "value": "Uh, sorry.\nI just couldn’t sleep, so..."
+    },
+    {
+      "key": "EP06_S0060_0115",
+      "value": "Just kidding! Apologies. I couldn’t sleep\neither, so I got up to take a walk."
+    },
+    {
+      "key": "EP06_S0060_0116",
+      "value": "Me and Shuuji were going for a stroll."
+    },
+    {
+      "key": "EP06_S0060_0117",
+      "value": "Okay, gotcha."
+    },
+    {
+      "key": "EP06_S0060_0118",
+      "value": "You know, Takuma. I’m scared about us going\nto the enemy base."
+    },
+    {
+      "key": "EP06_S0060_0119",
+      "value": "You are?"
+    },
+    {
+      "key": "EP06_S0060_0120",
+      "value": "There must be lots of enemies there.\nStrong ones, like Arukenimon and Garurumon."
+    },
+    {
+      "key": "EP06_S0060_0121",
+      "value": "Can we really make it out alive from a place\nlike that?"
+    },
+    {
+      "key": "EP06_S0060_0122",
+      "value": "We’ll be okay. We’re not alone.\nWe’ve got Agumon and Lopmon to help."
+    },
+    {
+      "key": "EP06_S0060_0123",
+      "value": "If we work to combine our strengths, we can\nbeat any challenge."
+    },
+    {
+      "key": "EP06_S0060_0124",
+      "value": "*sigh* I thought you’d say something along\nthose lines. Very reassuring of you."
+    },
+    {
+      "key": "EP06_S0060_0125",
+      "value": "So you pretended to be scared because you\nknew I’d say that?"
+    },
+    {
+      "key": "EP06_S0060_0126",
+      "value": "You saw right through me.\nBut I am scared, that’s no lie."
+    },
+    {
+      "key": "EP06_S0060_0127",
+      "value": "I don’t want to see anyone get hurt. I don’t\nmean that as a leader, but as a friend."
+    },
+    {
+      "key": "EP06_S0060_0128",
+      "value": "But freezing up and getting scared makes it\nhard to go anywhere at all."
+    },
+    {
+      "key": "EP06_S0060_0129",
+      "value": "Everyone, especially Lopmon, helped me\nrealize that."
+    },
+    {
+      "key": "EP06_S0060_0130",
+      "value": "Thank you, Shuuji..."
+    },
+    {
+      "key": "EP06_S0060_0131",
+      "value": "I will become stronger, Takuma.\nTo protect everyone and move forward."
+    },
+    {
+      "key": "EP06_S0060_0132",
+      "value": "With Lopmon by my side."
+    },
+    {
+      "key": "EP06_S0060_0133",
+      "value": "I’m counting on you."
+    },
+    {
+      "key": "EP06_S0060_0134",
+      "value": "That’s my line, haha!"
+    },
+    {
+      "key": "EP06_S0060_0135",
+      "value": "Well, time to get to bed and rest up in\npreparation for the final battle!"
+    },
+    {
+      "key": "EP06_S0060_0136",
+      "value": "(He used to always be so tense, but now he\nseems more chill.)"
+    },
+    {
+      "key": "EP06_S0060_0137",
+      "value": "(He might still lack confidence, but he makes\na fine leader in my book.)"
+    },
+    {
+      "key": "EP06_S0060_0138",
+      "value": "(With Shuuji on our side, I think we’ll be\njust fine.)"
+    },
+    {
+      "key": "EP06_S0060_0139",
+      "value": "(We’ll find a way to get back to our world in\nthe enemy base. I just know it.)"
+    },
+    {
+      "key": "EP06_S0060_0140",
+      "value": "Huh? You’re here?"
+    },
+    {
+      "key": "EP06_S0060_0141",
+      "value": "Oh, Kaito!\nYou couldn’t fall asleep, either, huh?"
+    },
+    {
+      "key": "EP06_S0060_0142",
+      "value": "I fell asleep just fine, but then I woke up.\nThat’s all."
+    },
+    {
+      "key": "EP06_S0060_0143",
+      "value": "And when he woke up, you were gone.\nSo he came looking for you."
+    },
+    {
+      "key": "EP06_S0060_0144",
+      "value": "That’s not how it happened..."
+    },
+    {
+      "key": "EP06_S0060_0145",
+      "value": "(Kaito argues more quietly at night.\nHe’s more considerate than I thought.)"
+    },
+    {
+      "key": "EP06_S0060_0146",
+      "value": "If you can’t sleep, eat something.\nAnd at least lie down."
+    },
+    {
+      "key": "EP06_S0060_0147",
+      "value": "If you’re too hot or cold, then add or remove\nsome blankets."
+    },
+    {
+      "key": "EP06_S0060_0148",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0060_0149",
+      "value": "What’s with the silent act?"
+    },
+    {
+      "key": "EP06_S0060_0150",
+      "value": "Um, nothing...\nI’m just a little surprised."
+    },
+    {
+      "key": "EP06_S0060_0151",
+      "value": "Surprised? By what?"
+    },
+    {
+      "key": "EP06_S0060_0152",
+      "value": "You’re fussing over me so much, I thought you\nmust really be worried."
+    },
+    {
+      "key": "EP06_S0060_0153",
+      "value": "Me? Yeah, right."
+    },
+    {
+      "key": "EP06_S0060_0154",
+      "value": "I’m going to bed. Tomorrow we head to the\nenemy base, so get some rest."
+    },
+    {
+      "key": "EP06_S0060_0155",
+      "value": "All righty! Goodnight!\nAnd sweet dreams!"
+    },
+    {
+      "key": "EP06_S0060_0156",
+      "value": "Good night to you, too!\nAnd thanks!"
+    },
+    {
+      "key": "EP06_S0060_0157",
+      "value": "Good night!"
+    },
+    {
+      "key": "EP06_S0060_0158",
+      "value": "(Kaito is pretty thoughtful after all.)"
+    },
+    {
+      "key": "EP06_S0060_0159",
+      "value": "(He’s right... I shouldn’t waste energy\nthinking. I should get to bed.)"
+    },
+    {
+      "key": "EP06_S0060_0160",
+      "value": "(My head feels better too now, thanks to him.\nI feel like I’m gonna sleep well.)"
+    },
+    {
+      "key": "EP06_S0060_0161",
+      "value": "BANG!"
+    },
+    {
+      "key": "EP06_S0060_0162",
+      "value": "AAAH!"
+    },
+    {
+      "key": "EP06_S0060_0163",
+      "value": "Haha, you should hear yourself!\nDid I scare you?"
+    },
+    {
+      "key": "EP06_S0060_0164",
+      "value": "Yes, you did. How long have you been there?\nI didn’t even notice."
+    },
+    {
+      "key": "EP06_S0060_0165",
+      "value": "We just walked right in.\nYou were really lost in thought!"
+    },
+    {
+      "key": "EP06_S0060_0166",
+      "value": "Have you heard?\nThinking too much makes you go bald."
+    },
+    {
+      "key": "EP06_S0060_0167",
+      "value": "Uh, I think I’m too young for that."
+    },
+    {
+      "key": "EP06_S0060_0168",
+      "value": "Then you should go to sleep.\nJust thinking uses energy, you know."
+    },
+    {
+      "key": "EP06_S0060_0169",
+      "value": "But Takuma can’t fall asleep even though he’s\ntired."
+    },
+    {
+      "key": "EP06_S0060_0170",
+      "value": "Because you won’t turn off your mind!\nYou gotta make your head totally empty!"
+    },
+    {
+      "key": "EP06_S0060_0171",
+      "value": "Totally empty, huh?\nAny idea how to do that?"
+    },
+    {
+      "key": "EP06_S0060_0172",
+      "value": "Try counting up to something!\nI heard that works."
+    },
+    {
+      "key": "EP06_S0060_0173",
+      "value": "How about counting the teeth on Syakomon’s\nshell? One, two..."
+    },
+    {
+      "key": "EP06_S0060_0174",
+      "value": "I’m sleepy already..."
+    },
+    {
+      "key": "EP06_S0060_0175",
+      "value": "Wow, that was fast!"
+    },
+    {
+      "key": "EP06_S0060_0176",
+      "value": "See? Told you so. You should lie down and\ncount to something, too."
+    },
+    {
+      "key": "EP06_S0060_0177",
+      "value": "Right.\nGuess I’ll try it."
+    },
+    {
+      "key": "EP06_S0060_0178",
+      "value": "Actually, I’m glad we talked.\nMiu was having trouble sleeping, too."
+    },
+    {
+      "key": "EP06_S0060_0179",
+      "value": "It’s pretty early for her bedtime.\nBut seeing your face calmed her down."
+    },
+    {
+      "key": "EP06_S0060_0180",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP06_S0060_0181",
+      "value": "*yawn* Time to hop under my blanket.\nNight night, Takuma and Agumon!"
+    },
+    {
+      "key": "EP06_S0060_0182",
+      "value": "Good night, Miu!"
+    },
+    {
+      "key": "EP06_S0060_0183",
+      "value": "I’ll carry her back.\nHave a good sleep."
+    },
+    {
+      "key": "EP06_S0060_0184",
+      "value": "Yeah, you too."
+    },
+    {
+      "key": "EP06_S0060_0185",
+      "value": "(Those two are like a whirlwind...)"
+    },
+    {
+      "key": "EP06_S0060_0186",
+      "value": "(Well, at least I’m tired.\nMaybe I should try Syakomon’s advice.)"
+    },
+    {
+      "key": "EP06_S0060_0187",
+      "value": "Let’s go to bed too, Agumon!"
+    },
+    {
+      "key": "EP06_S0060_0188",
+      "value": "Okay! I wonder what I should count to..."
+    },
+    {
+      "key": "EP06_S0060_0189",
+      "value": "(Things are only gonna get harder starting\ntomorrow...)"
+    },
+    {
+      "key": "EP06_S0060_0190",
+      "value": "(All I can do is ignore what I don’t know,\nand focus on doing what I can do right now.) "
+    }
+  ]
+}

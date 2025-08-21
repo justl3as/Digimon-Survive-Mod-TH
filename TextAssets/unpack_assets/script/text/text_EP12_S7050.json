@@ -1,0 +1,544 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S7050_0001",
+      "value": "So...this is where Miyuki and the Master are."
+    },
+    {
+      "key": "EP12_S7050_0002",
+      "value": "It sure is quiet."
+    },
+    {
+      "key": "EP12_S7050_0003",
+      "value": "(It’s more than just quiet. The silence in\nhere is...deafening. It hurts my ears.)"
+    },
+    {
+      "key": "EP12_S7050_0004",
+      "value": "(I don’t understand it. My heart’s pounding\nin my chest, and I get this awful feeling...)"
+    },
+    {
+      "key": "EP12_S7050_0005",
+      "value": "(...like something cold and slimy is about to\nreach up and grab me by the throat...)"
+    },
+    {
+      "key": "EP12_S7050_0006",
+      "value": "(It’s horrible! I can’t stand it! I thought\nI was ready. Now all I want to do is run!)"
+    },
+    {
+      "key": "EP12_S7050_0007",
+      "value": "(Something about this place is...wrong.)"
+    },
+    {
+      "key": "EP12_S7050_0008",
+      "value": "*huff*... *huff*...!"
+    },
+    {
+      "key": "EP12_S7050_0009",
+      "value": "Miu? Miu, what’s wrong?!"
+    },
+    {
+      "key": "EP12_S7050_0010",
+      "value": "Don’t...know... Can’t...breathe...!"
+    },
+    {
+      "key": "EP12_S7050_0011",
+      "value": "Oh no! She’s starting to hyperventilate! Get\nher to breathe out more slowly!"
+    },
+    {
+      "key": "EP12_S7050_0012",
+      "value": "Miu, don’t panic! Deep breaths! Take deep\nbreaths in, and breathe all the way out."
+    },
+    {
+      "key": "EP12_S7050_0013",
+      "value": "’Kay...!\n*inhale*... *exhale*..."
+    },
+    {
+      "key": "EP12_S7050_0014",
+      "value": "Why would Miu just start hyperventilating\nlike that?"
+    },
+    {
+      "key": "EP12_S7050_0015",
+      "value": "Likely because of the oppressive atmosphere\nthat fills this place."
+    },
+    {
+      "key": "EP12_S7050_0016",
+      "value": "Though apparently that’s not all there was to\nit..."
+    },
+    {
+      "key": "EP12_S7050_0017",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP12_S7050_0018",
+      "value": "Takuma...I don’t like this place at all. It\nmakes me feel sick..."
+    },
+    {
+      "key": "EP12_S7050_0019",
+      "value": "I can tell a bunch of the Master’s minions\nmust’ve been here, but I don’t sense them."
+    },
+    {
+      "key": "EP12_S7050_0020",
+      "value": "Something awful must have happened here."
+    },
+    {
+      "key": "EP12_S7050_0021",
+      "value": "(Looks like this place is getting to Agumon\nand the others, too.)"
+    },
+    {
+      "key": "EP12_S7050_0022",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP12_S7050_0023",
+      "value": "Hey, over there! Isn’t that Miyuki?!"
+    },
+    {
+      "key": "EP12_S7050_0024",
+      "value": "What?!"
+    },
+    {
+      "key": "EP12_S7050_0025",
+      "value": "Huh?! Miyuki!"
+    },
+    {
+      "key": "EP12_S7050_0026",
+      "value": "Miyuki! Are you okay?!"
+    },
+    {
+      "key": "EP12_S7050_0027",
+      "value": "She looks exhausted! We need to hurry up and\nsave—"
+    },
+    {
+      "key": "EP12_S7050_0028",
+      "value": "Oh, I’m afraid I can’t let you do that."
+    },
+    {
+      "key": "EP12_S7050_0029",
+      "value": "(Huh?!)"
+    },
+    {
+      "key": "EP12_S7050_0030",
+      "value": "What the—?! Aoi?!"
+    },
+    {
+      "key": "EP12_S7050_0031",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP12_S7050_0032",
+      "value": "You got here sooner than I expected."
+    },
+    {
+      "key": "EP12_S7050_0033",
+      "value": "Grr... Get outta my way! Give me back Miyuki!"
+    },
+    {
+      "key": "EP12_S7050_0034",
+      "value": "Now, really, do you expect me to simply hand\nher over like that?"
+    },
+    {
+      "key": "EP12_S7050_0035",
+      "value": "Miyuki! Open your eyes! Please, you have to\nwake up!"
+    },
+    {
+      "key": "EP12_S7050_0036",
+      "value": "What’s going on?! Can’t she hear us?!"
+    },
+    {
+      "key": "EP12_S7050_0037",
+      "value": "Now, now, that’s enough shouting. Would you\nall please just be quiet?"
+    },
+    {
+      "key": "EP12_S7050_0038",
+      "value": "(What...is this? That aura of malice... It\nfeels even worse than before.)"
+    },
+    {
+      "key": "EP12_S7050_0039",
+      "value": "(Am I just imagining that?)"
+    },
+    {
+      "key": "EP12_S7050_0040",
+      "value": "Listen, Aoi..."
+    },
+    {
+      "key": "EP12_S7050_0041",
+      "value": "Takuma, no! Stay away from her!"
+    },
+    {
+      "key": "EP12_S7050_0042",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP12_S7050_0043",
+      "value": "This...this doesn’t make any sense. What’s\ngoing on here?!"
+    },
+    {
+      "key": "EP12_S7050_0044",
+      "value": "I...I don’t get it. What’s the problem?"
+    },
+    {
+      "key": "EP12_S7050_0045",
+      "value": "I’m sensing the presence of countless enemies\ncoming from Plutomon."
+    },
+    {
+      "key": "EP12_S7050_0046",
+      "value": "These presences...could they be the Master’s\nKenzoku? Why do I sense them in Plutomon?"
+    },
+    {
+      "key": "EP12_S7050_0047",
+      "value": "I don’t get it. What’s that mean?!"
+    },
+    {
+      "key": "EP12_S7050_0048",
+      "value": "Eheh... Heheheheh!"
+    },
+    {
+      "key": "EP12_S7050_0049",
+      "value": "It’s really quite simple. I’ve taken in all\nthe enemies that used to be here."
+    },
+    {
+      "key": "EP12_S7050_0050",
+      "value": "Mind, body, and soul... I’ve made every last\npart of them a part of me, and now we’re one."
+    },
+    {
+      "key": "EP12_S7050_0051",
+      "value": "What?!"
+    },
+    {
+      "key": "EP12_S7050_0052",
+      "value": "So you absorbed all the Master’s Kenzoku and\nfused together with them?!"
+    },
+    {
+      "key": "EP12_S7050_0053",
+      "value": "It’s unspeakable..."
+    },
+    {
+      "key": "EP12_S7050_0054",
+      "value": "To take them in like that, mind, body, and\nsoul..."
+    },
+    {
+      "key": "EP12_S7050_0055",
+      "value": "That would mean utter oblivion. Their souls\nwill never return. She’s annihilated them."
+    },
+    {
+      "key": "EP12_S7050_0056",
+      "value": "So that explains it. That eerie silence,\nabsent any trace of a soul."
+    },
+    {
+      "key": "EP12_S7050_0057",
+      "value": "Miyuki’s strange lack of response...\nPlutomon! It’s all been your doing!!!"
+    },
+    {
+      "key": "EP12_S7050_0058",
+      "value": "That’s funny. Why are you looking at me like\nthat? What are you so angry about?"
+    },
+    {
+      "key": "EP12_S7050_0059",
+      "value": "Everyone I’ve taken in was an enemy who\nwanted to kill me."
+    },
+    {
+      "key": "EP12_S7050_0060",
+      "value": "All I did was guide them back onto the right\npath. I thought you’d be happy."
+    },
+    {
+      "key": "EP12_S7050_0061",
+      "value": "But... What about Miyuki?"
+    },
+    {
+      "key": "EP12_S7050_0062",
+      "value": "Yes... What have you done to Miyuki?!"
+    },
+    {
+      "key": "EP12_S7050_0063",
+      "value": "I haven’t done anything to her. Not yet,\nanyway."
+    },
+    {
+      "key": "EP12_S7050_0064",
+      "value": "Then why’s she practically an empty shell?!\nExplain that!"
+    },
+    {
+      "key": "EP12_S7050_0065",
+      "value": "It’s true, I was fighting before you arrived,\nbut I never laid a finger on Miyuki."
+    },
+    {
+      "key": "EP12_S7050_0066",
+      "value": "She did everything she could to resist, you\nknow."
+    },
+    {
+      "key": "EP12_S7050_0067",
+      "value": "But...then she just collapsed. I’m sure she\nmust have been tired, the poor thing."
+    },
+    {
+      "key": "EP12_S7050_0068",
+      "value": "And then... Heheh... What do you think\nhappened next?"
+    },
+    {
+      "key": "EP12_S7050_0069",
+      "value": "Don’t tell me... Her soul’s begun to fuse\nwith the Master?!"
+    },
+    {
+      "key": "EP12_S7050_0070",
+      "value": "That was my conclusion as well."
+    },
+    {
+      "key": "EP12_S7050_0071",
+      "value": "But she’s not the only one to fuse with the\nMaster."
+    },
+    {
+      "key": "EP12_S7050_0072",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP12_S7050_0073",
+      "value": "There’s also Saki..."
+    },
+    {
+      "key": "EP12_S7050_0074",
+      "value": "Urgh..."
+    },
+    {
+      "key": "EP12_S7050_0075",
+      "value": "...and Shuuji..."
+    },
+    {
+      "key": "EP12_S7050_0076",
+      "value": "No!"
+    },
+    {
+      "key": "EP12_S7050_0077",
+      "value": "...and of course even Ryo!"
+    },
+    {
+      "key": "EP12_S7050_0078",
+      "value": "..."
+    },
+    {
+      "key": "EP12_S7050_0079",
+      "value": "They should all be part of the Master now!"
+    },
+    {
+      "key": "EP12_S7050_0080",
+      "value": "So there’s no need to be so sad. Don’t you\nsee?"
+    },
+    {
+      "key": "EP12_S7050_0081",
+      "value": "No, Aoi. No, you’re not making any sense."
+    },
+    {
+      "key": "EP12_S7050_0082",
+      "value": "Why, once I take on the Master’s power, we\ncan all be together again!"
+    },
+    {
+      "key": "EP12_S7050_0083",
+      "value": "Then we’ll never be apart, and there won’t be\nany more fighting or hurting each other."
+    },
+    {
+      "key": "EP12_S7050_0084",
+      "value": "There will be no pain, no sadness, no\nsuffering! We need never know tragedy again!"
+    },
+    {
+      "key": "EP12_S7050_0085",
+      "value": "You know what that sounds like?"
+    },
+    {
+      "key": "EP12_S7050_0086",
+      "value": "It’s paradise! It’s everything we humans have\nbeen longing for from the beginning of time!"
+    },
+    {
+      "key": "EP12_S7050_0087",
+      "value": "At last, the world will know harmony, peace,\nand order! Then I can rest easy."
+    },
+    {
+      "key": "EP12_S7050_0088",
+      "value": "And you really think that’s the best way for\nus to deal with this situation?"
+    },
+    {
+      "key": "EP12_S7050_0089",
+      "value": "Of course. Don’t you see?"
+    },
+    {
+      "key": "EP12_S7050_0090",
+      "value": "...I don’t. I don’t get it, and I don’t want\nto."
+    },
+    {
+      "key": "EP12_S7050_0091",
+      "value": "That’s right. None of us wants that!"
+    },
+    {
+      "key": "EP12_S7050_0092",
+      "value": "What about our promise? Weren’t we all\nsupposed to go back to our world together?"
+    },
+    {
+      "key": "EP12_S7050_0093",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP12_S7050_0094",
+      "value": "That’s right, Aoi! I want you to come back\nwith us!"
+    },
+    {
+      "key": "EP12_S7050_0095",
+      "value": "Oh, Miu..."
+    },
+    {
+      "key": "EP12_S7050_0096",
+      "value": "Aoi, please..."
+    },
+    {
+      "key": "EP12_S7050_0097",
+      "value": "Heheh...are you asking me to become one with\nthe people from our world, too?"
+    },
+    {
+      "key": "EP12_S7050_0098",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP12_S7050_0099",
+      "value": "Well, you don’t have to worry. That was my\nplan from the start!"
+    },
+    {
+      "key": "EP12_S7050_0100",
+      "value": "Remember what I told you? Humans, monsters...\nAll are to become one with me!"
+    },
+    {
+      "key": "EP12_S7050_0101",
+      "value": "Only it won’t be easy, even for me. I’ll have\nto fuse with billions of people."
+    },
+    {
+      "key": "EP12_S7050_0102",
+      "value": "Aoi, what are you talking about?"
+    },
+    {
+      "key": "EP12_S7050_0103",
+      "value": "But I’d hate to disappoint you all, and\nI really would like to grant your request."
+    },
+    {
+      "key": "EP12_S7050_0104",
+      "value": "After all, it would mean the end of all\nconflict, all suffering!"
+    },
+    {
+      "key": "EP12_S7050_0105",
+      "value": "Thank you, Takuma, everyone. With your\nsupport, I think I can actually do it!"
+    },
+    {
+      "key": "EP12_S7050_0106",
+      "value": "I can bring an end to all suffering! I will\nbe the savior of both worlds!"
+    },
+    {
+      "key": "EP12_S7050_0107",
+      "value": "No, Aoi, you’ve got it all wrong!"
+    },
+    {
+      "key": "EP12_S7050_0108",
+      "value": "That doesn’t sound like a savior to me!"
+    },
+    {
+      "key": "EP12_S7050_0109",
+      "value": "I can’t stand this! It hurts to see you like\nthis, Aoi!"
+    },
+    {
+      "key": "EP12_S7050_0110",
+      "value": "Is this hopeless after all? We just can’t get\nthrough to her?"
+    },
+    {
+      "key": "EP12_S7050_0111",
+      "value": "Why, what’s wrong? What’s gotten into all of\nyou?"
+    },
+    {
+      "key": "EP12_S7050_0112",
+      "value": "Aoi, please, open your eyes! Can’t you see\nthat none of us want things to be like that?!"
+    },
+    {
+      "key": "EP12_S7050_0113",
+      "value": "You don’t want peace?"
+    },
+    {
+      "key": "EP12_S7050_0114",
+      "value": "No, that’s not what I mean! Can’t you come\nback to your senses?!"
+    },
+    {
+      "key": "EP12_S7050_0115",
+      "value": "Why do you try and stop me?"
+    },
+    {
+      "key": "EP12_S7050_0116",
+      "value": "Why won’t you listen?!"
+    },
+    {
+      "key": "EP12_S7050_0117",
+      "value": "It’s so easy to criticize something, but if\nthat’s all you do, you’ll never move forward."
+    },
+    {
+      "key": "EP12_S7050_0118",
+      "value": "I hate it when people are selfish, when all\nthey do is complain and put everything on me!"
+    },
+    {
+      "key": "EP12_S7050_0119",
+      "value": "Why is it always like this?! So what if I’m\nclass president? Why do only I get lectured?"
+    },
+    {
+      "key": "EP12_S7050_0120",
+      "value": "It’s not like I ever wanted to be in charge!\nI hate dealing with people! I can’t do it!"
+    },
+    {
+      "key": "EP12_S7050_0121",
+      "value": "But that’s always how it turns out, whether\nit’s in class, after school, or here!"
+    },
+    {
+      "key": "EP12_S7050_0122",
+      "value": "Still, someone has to do the work, and if not\nme then who? That’s why I do these things!"
+    },
+    {
+      "key": "EP12_S7050_0123",
+      "value": "Uhh, Aoi? I’m...not sure I’m following you."
+    },
+    {
+      "key": "EP12_S7050_0124",
+      "value": "Takuma, it’s no use. That thing is no longer\nthe Aoi we knew. It’s just a monster..."
+    },
+    {
+      "key": "EP12_S7050_0125",
+      "value": "...who annihilated countless Kenzoku and\nplans to end Miyuki. That makes it our enemy!"
+    },
+    {
+      "key": "EP12_S7050_0126",
+      "value": "If you wish to save this world, if you wish\nto return to yours, we must defeat Plutomon!"
+    },
+    {
+      "key": "EP12_S7050_0127",
+      "value": "You still don’t understand. All right, it’ll\nbe faster to demonstrate than explain anyway."
+    },
+    {
+      "key": "EP12_S7050_0128",
+      "value": "Uh oh, look out! Here she comes!"
+    },
+    {
+      "key": "EP12_S7050_0129",
+      "value": "Takuma, get back! Leave this to us!"
+    },
+    {
+      "key": "EP12_S7050_0130",
+      "value": "Don’t worry. Even if you don’t understand\nnow, all will be clear when we’re one."
+    },
+    {
+      "key": "EP12_S7050_0131",
+      "value": "The process might hurt a little, but it won’t\nlast long, so bear with me, okay?"
+    },
+    {
+      "key": "EP12_S7050_0132",
+      "value": "You’ll not defeat us so easily!"
+    },
+    {
+      "key": "EP12_S7050_0133",
+      "value": "That’s right! We have to protect our\npartners!"
+    },
+    {
+      "key": "EP12_S7050_0134",
+      "value": "I doubt resisting will do you any good, but\nyou’re welcome to try."
+    },
+    {
+      "key": "EP12_S7050_0135",
+      "value": "I can’t wait to fuse with you all once you’re\nworn out. Now then, shall we get started?"
+    }
+  ]
+}

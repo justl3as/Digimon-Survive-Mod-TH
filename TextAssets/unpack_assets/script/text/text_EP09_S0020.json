@@ -1,0 +1,568 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S0020_0001",
+      "value": "Takuma... Is that really you, Takuma?!"
+    },
+    {
+      "key": "EP09_S0020_0002",
+      "value": "Oh! You’re safe!"
+    },
+    {
+      "key": "EP09_S0020_0003",
+      "value": "...Honestly, I thought you were kaput."
+    },
+    {
+      "key": "EP09_S0020_0004",
+      "value": "Hidey ho, guys!"
+    },
+    {
+      "key": "EP09_S0020_0005",
+      "value": "What do you mean, “hidey ho”?! We were\nworried sick about you!"
+    },
+    {
+      "key": "EP09_S0020_0006",
+      "value": "It’s great to know the two of you are safe..."
+    },
+    {
+      "key": "EP09_S0020_0007",
+      "value": "It looks like I caused you guys some grief."
+    },
+    {
+      "key": "EP09_S0020_0008",
+      "value": "“Looks like,” he says! Where the heck’ve you\nbeen hiding this whole time?!"
+    },
+    {
+      "key": "EP09_S0020_0009",
+      "value": "Sheesh. And here we were wringing our hands\nover here..."
+    },
+    {
+      "key": "EP09_S0020_0010",
+      "value": "Now, now, the important thing is that he’s\nsafe and sound, right?"
+    },
+    {
+      "key": "EP09_S0020_0011",
+      "value": "That won’t do. Right, Takuma?"
+    },
+    {
+      "key": "EP09_S0020_0012",
+      "value": "What happened to you after you got separated\nfrom us in the factory?"
+    },
+    {
+      "key": "EP09_S0020_0013",
+      "value": "Tell us all about the past ten days."
+    },
+    {
+      "key": "EP09_S0020_0014",
+      "value": "Huh? Wait... Did you say “ten days”?"
+    },
+    {
+      "key": "EP09_S0020_0015",
+      "value": "Yes, that’s what I said. Is something wrong?"
+    },
+    {
+      "key": "EP09_S0020_0016",
+      "value": "(T-ten DAYS...?! We were only gone for a few\nhours, though...)"
+    },
+    {
+      "key": "EP09_S0020_0017",
+      "value": "(Does time move that quickly here?!)"
+    },
+    {
+      "key": "EP09_S0020_0018",
+      "value": "Please tell us...in as much detail as\npossible."
+    },
+    {
+      "key": "EP09_S0020_0019",
+      "value": "Give him a break, Aoi..."
+    },
+    {
+      "key": "EP09_S0020_0020",
+      "value": "But any detail may be the difference between\nlife and death for us, you know?"
+    },
+    {
+      "key": "EP09_S0020_0021",
+      "value": "Um, Aoi...?"
+    },
+    {
+      "key": "EP09_S0020_0022",
+      "value": "(What’s this...insistence? Aoi... Have you\nchanged somehow?)"
+    },
+    {
+      "key": "EP09_S0020_0023",
+      "value": "...I understand your confusion, Takuma."
+    },
+    {
+      "key": "EP09_S0020_0024",
+      "value": "Many things have happened in your absence.\nAoi has become a de facto leader, as it were."
+    },
+    {
+      "key": "EP09_S0020_0025",
+      "value": "She’s more like a mother hen than a leader,\nif you ask me."
+    },
+    {
+      "key": "EP09_S0020_0026",
+      "value": "...Better than Kaito’s usual coddling."
+    },
+    {
+      "key": "EP09_S0020_0027",
+      "value": "I feel less henpecked with the mother hen..."
+    },
+    {
+      "key": "EP09_S0020_0028",
+      "value": "Quiet, you two. We’re having a serious\nconversation right now."
+    },
+    {
+      "key": "EP09_S0020_0029",
+      "value": "...Please, Takuma. Your answer?"
+    },
+    {
+      "key": "EP09_S0020_0030",
+      "value": "Sure, I’ll talk.\nThe truth is..."
+    },
+    {
+      "key": "EP09_S0020_0031",
+      "value": "...You went back to our world?"
+    },
+    {
+      "key": "EP09_S0020_0032",
+      "value": "Yeah. But I was only over there for a few\nhours."
+    },
+    {
+      "key": "EP09_S0020_0033",
+      "value": "That’s why I was surprised to hear over\na week had passed over here."
+    },
+    {
+      "key": "EP09_S0020_0034",
+      "value": "Time flows differently in this world and the\nother one. Like the tale of Urashima Taro!"
+    },
+    {
+      "key": "EP09_S0020_0035",
+      "value": "Wow. So that’s how it is..."
+    },
+    {
+      "key": "EP09_S0020_0036",
+      "value": "I don’t know much about time flowing\ndifferently here and there."
+    },
+    {
+      "key": "EP09_S0020_0037",
+      "value": "But if ten days over here was only a few\nhours back in our world..."
+    },
+    {
+      "key": "EP09_S0020_0038",
+      "value": "...that means time flows slower here, right?"
+    },
+    {
+      "key": "EP09_S0020_0039",
+      "value": "Ohh... I think I get it."
+    },
+    {
+      "key": "EP09_S0020_0040",
+      "value": "Maybe that means...as long as I stay here..."
+    },
+    {
+      "key": "EP09_S0020_0041",
+      "value": "Saki..."
+    },
+    {
+      "key": "EP09_S0020_0042",
+      "value": "...I’m cool, Floramon! Don’t sweat it!"
+    },
+    {
+      "key": "EP09_S0020_0043",
+      "value": "Yeah...I hear you."
+    },
+    {
+      "key": "EP09_S0020_0044",
+      "value": "...I’m happy to see everyone got back safely."
+    },
+    {
+      "key": "EP09_S0020_0045",
+      "value": "Indeed. Although...to call us “safe” now\nis a bit of a stretch."
+    },
+    {
+      "key": "EP09_S0020_0046",
+      "value": "Things are that bad?"
+    },
+    {
+      "key": "EP09_S0020_0047",
+      "value": "The fog is getting thicker by the day.\nAlmost as if it’s hunting us down."
+    },
+    {
+      "key": "EP09_S0020_0048",
+      "value": "One thing’s for sure... It’s only a matter of\ntime before it consumes the school."
+    },
+    {
+      "key": "EP09_S0020_0049",
+      "value": "Hey, one thing’s bothering me."
+    },
+    {
+      "key": "EP09_S0020_0050",
+      "value": "If you were able to get back to our world,\nwhy’d you come back here?"
+    },
+    {
+      "key": "EP09_S0020_0051",
+      "value": "...We saw Piedmon going on a rampage through\nthe other world."
+    },
+    {
+      "key": "EP09_S0020_0052",
+      "value": "What?!"
+    },
+    {
+      "key": "EP09_S0020_0053",
+      "value": "That jerk is screwing around with you guys’s\nworld too, now?!"
+    },
+    {
+      "key": "EP09_S0020_0054",
+      "value": "...So the situation is no longer limited\nto this world, is it?"
+    },
+    {
+      "key": "EP09_S0020_0055",
+      "value": "Yeah. At this rate, our world’s gonna be in\ndanger, too."
+    },
+    {
+      "key": "EP09_S0020_0056",
+      "value": "This fog-covered world is corrupting the\nworld we came from."
+    },
+    {
+      "key": "EP09_S0020_0057",
+      "value": "That’s why I came back."
+    },
+    {
+      "key": "EP09_S0020_0058",
+      "value": "I don’t know if I can save everyone, much\nless the whole world, but..."
+    },
+    {
+      "key": "EP09_S0020_0059",
+      "value": "I couldn’t just sit by and act like nothing’s\nhappening."
+    },
+    {
+      "key": "EP09_S0020_0060",
+      "value": "That’s Takuma for you. My man!"
+    },
+    {
+      "key": "EP09_S0020_0061",
+      "value": "Takuma...!"
+    },
+    {
+      "key": "EP09_S0020_0062",
+      "value": "What a guy!"
+    },
+    {
+      "key": "EP09_S0020_0063",
+      "value": "So, you just came back here on your own?"
+    },
+    {
+      "key": "EP09_S0020_0064",
+      "value": "Kaito!"
+    },
+    {
+      "key": "EP09_S0020_0065",
+      "value": "Not quite! It took a lot to get back here,\nand..."
+    },
+    {
+      "key": "EP09_S0020_0066",
+      "value": "I got separated from Miyuki.\nShe holds the key to it all..."
+    },
+    {
+      "key": "EP09_S0020_0067",
+      "value": "Miyuki?!"
+    },
+    {
+      "key": "EP09_S0020_0068",
+      "value": "Miyuki holds the key? What do you mean?"
+    },
+    {
+      "key": "EP09_S0020_0069",
+      "value": "...Miyuki’s already done for, I think."
+    },
+    {
+      "key": "EP09_S0020_0070",
+      "value": "I wouldn’t count on her if I were you."
+    },
+    {
+      "key": "EP09_S0020_0071",
+      "value": "Don’t say that! We’re friends!!!\nWe have to hear the details!"
+    },
+    {
+      "key": "EP09_S0020_0072",
+      "value": "Quiet, Miu!\nI’m saying this for your sake...!"
+    },
+    {
+      "key": "EP09_S0020_0073",
+      "value": "All right, enough of that."
+    },
+    {
+      "key": "EP09_S0020_0074",
+      "value": "Takuma... Please tell us what you mean.\nAbout Miyuki, and the key she holds."
+    },
+    {
+      "key": "EP09_S0020_0075",
+      "value": "Um, how can I explain this..."
+    },
+    {
+      "key": "EP09_S0020_0076",
+      "value": "(Maybe I should talk about how the worlds are\nconnected first, then about Miyuki’s song?)"
+    },
+    {
+      "key": "EP09_S0020_0077",
+      "value": "(Wait. I can’t explain her power if I don’t\ntalk about the Minase family first.)"
+    },
+    {
+      "key": "EP09_S0020_0078",
+      "value": "(Is that too confusing, though? Maybe talking\nabout Piedmon and the gate would be easier?)"
+    },
+    {
+      "key": "EP09_S0020_Q1",
+      "value": "(What should I talk about?)"
+    },
+    {
+      "key": "EP09_S0020_Q1_A1",
+      "value": "Connected worlds."
+    },
+    {
+      "key": "EP09_S0020_Q1_A2",
+      "value": "Piedmon and the gate."
+    },
+    {
+      "key": "EP09_S0020_Q1_A3",
+      "value": "Miyuki’s family."
+    },
+    {
+      "key": "EP09_S0020_0079",
+      "value": "Connected worlds."
+    },
+    {
+      "key": "EP09_S0020_0080",
+      "value": "Sure. A song that Miyuki knows is needed to\nreturn to our world."
+    },
+    {
+      "key": "EP09_S0020_0081",
+      "value": "I don’t know how she does it, but it seems\nlike her song connects the two worlds."
+    },
+    {
+      "key": "EP09_S0020_0082",
+      "value": "Connects the worlds...?"
+    },
+    {
+      "key": "EP09_S0020_0083",
+      "value": "It seems that this world and our own affect\neach other somehow."
+    },
+    {
+      "key": "EP09_S0020_0084",
+      "value": "The shrine caused a landslide in our world.\nThen there was that cable car accident."
+    },
+    {
+      "key": "EP09_S0020_0085",
+      "value": "Miyuki said that the worlds exist side by\nside, so you can open gates between them."
+    },
+    {
+      "key": "EP09_S0020_0086",
+      "value": "Interesting..."
+    },
+    {
+      "key": "EP09_S0020_0087",
+      "value": "Piedmon and the gate."
+    },
+    {
+      "key": "EP09_S0020_0088",
+      "value": "I told you I saw Piedmon running wild over\nthere, didn’t I?"
+    },
+    {
+      "key": "EP09_S0020_0089",
+      "value": "Me and Agumon fought him, actually..."
+    },
+    {
+      "key": "EP09_S0020_0090",
+      "value": "You WHAT?! You took on that monster with just\nthe two of you?!"
+    },
+    {
+      "key": "EP09_S0020_0091",
+      "value": "Heh heh, yeah. I guess!"
+    },
+    {
+      "key": "EP09_S0020_0092",
+      "value": "Well, we couldn’t beat him in the end. Just\nforced him back through Miyuki’s gate."
+    },
+    {
+      "key": "EP09_S0020_0093",
+      "value": "Miyuki’s gate?"
+    },
+    {
+      "key": "EP09_S0020_0094",
+      "value": "Her song can open a gate connecting this\nworld to our world."
+    },
+    {
+      "key": "EP09_S0020_0095",
+      "value": "We pushed Piedmon through the gate, and that\ntook us all back here."
+    },
+    {
+      "key": "EP09_S0020_0096",
+      "value": "To be honest, that’s the only way we were\nable to stop him..."
+    },
+    {
+      "key": "EP09_S0020_0097",
+      "value": "Ah... So that’s what happened."
+    },
+    {
+      "key": "EP09_S0020_0098",
+      "value": "Miyuki’s family."
+    },
+    {
+      "key": "EP09_S0020_0099",
+      "value": "It’s hard to explain, but...Miyuki comes from\na family with a strange power."
+    },
+    {
+      "key": "EP09_S0020_0100",
+      "value": "Ah!"
+    },
+    {
+      "key": "EP09_S0020_0101",
+      "value": "What kinda strange power?"
+    },
+    {
+      "key": "EP09_S0020_0102",
+      "value": "Like...ESP, or something?"
+    },
+    {
+      "key": "EP09_S0020_0103",
+      "value": "I honestly don’t know all the details."
+    },
+    {
+      "key": "EP09_S0020_0104",
+      "value": "But she comes from a line of shrine maidens\nwho served gods. I think."
+    },
+    {
+      "key": "EP09_S0020_0105",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0020_0106",
+      "value": "Their power can open gates between this world\nand the one we came from."
+    },
+    {
+      "key": "EP09_S0020_0107",
+      "value": "We actually came back here through one of\nthose gates."
+    },
+    {
+      "key": "EP09_S0020_0108",
+      "value": "Hmm... I don’t know about all these\nmysterious powers, and shrine maidens..."
+    },
+    {
+      "key": "EP09_S0020_0109",
+      "value": "Still, you have come back, Takuma. There’s no\ndoubting that."
+    },
+    {
+      "key": "EP09_S0020_0110",
+      "value": "...All the more reason for us to get Miyuki\nback, then!"
+    },
+    {
+      "key": "EP09_S0020_0111",
+      "value": "You think you can do it?!"
+    },
+    {
+      "key": "EP09_S0020_0112",
+      "value": "If we have to, we have to!"
+    },
+    {
+      "key": "EP09_S0020_0113",
+      "value": "Why don’t you get it?!\nI don’t want to put you in danger..."
+    },
+    {
+      "key": "EP09_S0020_0114",
+      "value": "Don’t you wanna go home, Kaito?!\nBecause I do! With you, and everyone!"
+    },
+    {
+      "key": "EP09_S0020_0115",
+      "value": "Yeah, I get it.\nBut that’s why I..."
+    },
+    {
+      "key": "EP09_S0020_0116",
+      "value": "...*sigh*"
+    },
+    {
+      "key": "EP09_S0020_0117",
+      "value": "I’m sorry, Takuma."
+    },
+    {
+      "key": "EP09_S0020_0118",
+      "value": "We’re at the end of our rope here..."
+    },
+    {
+      "key": "EP09_S0020_0119",
+      "value": "Still, I’m happy you came back for us.\nWe’ve been very...discouraged, lately."
+    },
+    {
+      "key": "EP09_S0020_0120",
+      "value": "I had no idea time flowed like that here.\nAnyway...I’m sorry I kept you waiting."
+    },
+    {
+      "key": "EP09_S0020_0121",
+      "value": "No need to apologize. Let’s rest for a bit,\nthen return to the question of Miyuki."
+    },
+    {
+      "key": "EP09_S0020_0122",
+      "value": "Why don’t you get it, Miu?!"
+    },
+    {
+      "key": "EP09_S0020_0123",
+      "value": "You’re the one who doesn’t get it, Kaito!"
+    },
+    {
+      "key": "EP09_S0020_0124",
+      "value": "C’mon, Kaito. Chill out already."
+    },
+    {
+      "key": "EP09_S0020_0125",
+      "value": "Miu, calm down a bit, okay?"
+    },
+    {
+      "key": "EP09_S0020_0126",
+      "value": "Right, you two, that’s enough. Why don’t we\ntake a break, everyone?"
+    },
+    {
+      "key": "EP09_S0020_0127",
+      "value": "Takuma’s just got back, after all. I’ll put\ntogether an extra-fancy lunch today, okay?"
+    },
+    {
+      "key": "EP09_S0020_0128",
+      "value": "Yeah, uh, right..."
+    },
+    {
+      "key": "EP09_S0020_0129",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP09_S0020_0130",
+      "value": "*whew*"
+    },
+    {
+      "key": "EP09_S0020_0131",
+      "value": "Oh hey, I’ll lend you a hand!"
+    },
+    {
+      "key": "EP09_S0020_0132",
+      "value": "Me too! I’ll help out!"
+    },
+    {
+      "key": "EP09_S0020_0133",
+      "value": "Ah well, if Saki’s up for it then so am I."
+    },
+    {
+      "key": "EP09_S0020_0134",
+      "value": "Thanks guys, that’s a big help."
+    },
+    {
+      "key": "EP09_S0020_0135",
+      "value": "Well then, you all behave yourselves until\nwe’re done, okay?"
+    },
+    {
+      "key": "EP09_S0020_0136",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0020_0137",
+      "value": "(Is something wrong with the professor?)"
+    }
+  ]
+}

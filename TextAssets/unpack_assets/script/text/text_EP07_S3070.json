@@ -1,0 +1,344 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S3070_0001",
+      "value": "Agumon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0002",
+      "value": "Ungh... Uh..."
+    },
+    {
+      "key": "EP07_S3070_0014",
+      "value": "Greymon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0015",
+      "value": "Urgh..."
+    },
+    {
+      "key": "EP07_S3070_0016",
+      "value": "Tyrannomon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0017",
+      "value": "Nnngh... This isn’t...over...yet!"
+    },
+    {
+      "key": "EP07_S3070_0018",
+      "value": "Tuskmon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0019",
+      "value": "I’m fine! Really, I’m... No... I can’t lie,\nthis is pretty bad."
+    },
+    {
+      "key": "EP07_S3070_0020",
+      "value": "SkullGreymon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0021",
+      "value": "A-Awoooo..."
+    },
+    {
+      "key": "EP07_S3070_0022",
+      "value": "MetalGreymon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0023",
+      "value": "Bah! This wound will not...stop...me..."
+    },
+    {
+      "key": "EP07_S3070_0024",
+      "value": "Triceramon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0025",
+      "value": "You can...count on me... Sorry, I almost lost\nit there..."
+    },
+    {
+      "key": "EP07_S3070_0026",
+      "value": "Megadramon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0027",
+      "value": "I will not be so easily defeated!"
+    },
+    {
+      "key": "EP07_S3070_0028",
+      "value": "WarGreymon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0029",
+      "value": "This ain’t over yet... Don’t you...worry.\nUrgh!"
+    },
+    {
+      "key": "EP07_S3070_0030",
+      "value": "Dinorexmon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0031",
+      "value": "Gah! This can’t...be it..."
+    },
+    {
+      "key": "EP07_S3070_0032",
+      "value": "Machinedramon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0033",
+      "value": "Fear not... This level of damage is...\ninsufficient..."
+    },
+    {
+      "key": "EP07_S3070_0034",
+      "value": "Fanglongmon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0035",
+      "value": "To put up such a struggle against me... He\nmust be on the edge of death."
+    },
+    {
+      "key": "EP07_S3070_0036",
+      "value": "Omegamon! No! Hang in there!"
+    },
+    {
+      "key": "EP07_S3070_0037",
+      "value": "I may be in pain, but as long as I have your\nsupport, I will keep fighting!"
+    },
+    {
+      "key": "EP07_S3070_0003",
+      "value": "Exactly."
+    },
+    {
+      "key": "EP07_S3070_0004",
+      "value": "Hahaha... I’ll admit, you’ve got guts. Yet in\nthe end, all your struggles are worthless."
+    },
+    {
+      "key": "EP07_S3070_0005",
+      "value": "Yeah, you’re worthless!"
+    },
+    {
+      "key": "EP07_S3070_0006",
+      "value": "Pathetic!"
+    },
+    {
+      "key": "EP07_S3070_0007",
+      "value": "Shut up! I don’t want to hear that from you!\nI’m risking my life too, you know!"
+    },
+    {
+      "key": "EP07_S3070_0008",
+      "value": "Agumon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0009",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP07_S3070_0038",
+      "value": "Greymon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0039",
+      "value": "Right!"
+    },
+    {
+      "key": "EP07_S3070_0040",
+      "value": "Tyrannomon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0041",
+      "value": "I can...do this. For Takuma!"
+    },
+    {
+      "key": "EP07_S3070_0042",
+      "value": "Tuskmon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0043",
+      "value": "Yeah! It is on! Time to show them what I’m\nmade of!"
+    },
+    {
+      "key": "EP07_S3070_0044",
+      "value": "SkullGreymon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0045",
+      "value": "Graaaaaaaawr!"
+    },
+    {
+      "key": "EP07_S3070_0046",
+      "value": "MetalGreymon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0047",
+      "value": "...You bet!"
+    },
+    {
+      "key": "EP07_S3070_0048",
+      "value": "Triceramon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0049",
+      "value": "Very well..."
+    },
+    {
+      "key": "EP07_S3070_0050",
+      "value": "Megadramon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0051",
+      "value": "If that’s what you want...that’s what you’ll\nget!"
+    },
+    {
+      "key": "EP07_S3070_0052",
+      "value": "WarGreymon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0053",
+      "value": "...You bet!"
+    },
+    {
+      "key": "EP07_S3070_0054",
+      "value": "Dinorexmon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0055",
+      "value": "All right...let’s do this."
+    },
+    {
+      "key": "EP07_S3070_0056",
+      "value": "Machinedramon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0057",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP07_S3070_0058",
+      "value": "Fanglongmon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0059",
+      "value": "..."
+    },
+    {
+      "key": "EP07_S3070_0060",
+      "value": "Omegamon...let’s go!"
+    },
+    {
+      "key": "EP07_S3070_0061",
+      "value": "Takuma, are you serious?"
+    },
+    {
+      "key": "EP07_S3070_0010",
+      "value": "Call on whatever power you’ve got left! Let’s\nshow them who’s worthless here!"
+    },
+    {
+      "key": "EP07_S3070_0011",
+      "value": "Agumon!!!"
+    },
+    {
+      "key": "EP07_S3070_0012",
+      "value": "*huff* *huff* *puff* Right... Takuma..."
+    },
+    {
+      "key": "EP07_S3070_0062",
+      "value": "Greymon!!!"
+    },
+    {
+      "key": "EP07_S3070_0063",
+      "value": "I get it, Takuma. I get it better than\nanyone! I will not let you down!"
+    },
+    {
+      "key": "EP07_S3070_0064",
+      "value": "Tyrannomon!!!"
+    },
+    {
+      "key": "EP07_S3070_0065",
+      "value": "Takuma, you’re brave, strong, and kind. And\nyou’re my... my... *pant* *pant*"
+    },
+    {
+      "key": "EP07_S3070_0066",
+      "value": "Tuskmon!!!"
+    },
+    {
+      "key": "EP07_S3070_0067",
+      "value": "*huff* *huff* *puff* Yes, I will not fail you\nnow!"
+    },
+    {
+      "key": "EP07_S3070_0068",
+      "value": "SkullGreymon!!!"
+    },
+    {
+      "key": "EP07_S3070_0069",
+      "value": "...Graaaaaaaawr!!!"
+    },
+    {
+      "key": "EP07_S3070_0070",
+      "value": "MetalGreymon!!!"
+    },
+    {
+      "key": "EP07_S3070_0071",
+      "value": "Yeah! Let’s do this, Takuma!"
+    },
+    {
+      "key": "EP07_S3070_0072",
+      "value": "Triceramon!!!"
+    },
+    {
+      "key": "EP07_S3070_0073",
+      "value": "No matter how much it hurts, no matter how\nwrong it might be, I can’t let Takuma down!"
+    },
+    {
+      "key": "EP07_S3070_0074",
+      "value": "Megadramon!!!"
+    },
+    {
+      "key": "EP07_S3070_0075",
+      "value": "Very well... I will do this, but you\ndisappoint me!"
+    },
+    {
+      "key": "EP07_S3070_0076",
+      "value": "WarGreymon!!!"
+    },
+    {
+      "key": "EP07_S3070_0077",
+      "value": "I don’t know how much I’ve got left, but\nlet’s do this!"
+    },
+    {
+      "key": "EP07_S3070_0078",
+      "value": "Dinorexmon!!!"
+    },
+    {
+      "key": "EP07_S3070_0079",
+      "value": "If it will make you feel better, I will do\nthis. But it is wrong."
+    },
+    {
+      "key": "EP07_S3070_0080",
+      "value": "Machinedramon!!!"
+    },
+    {
+      "key": "EP07_S3070_0081",
+      "value": "Takuma, I cannot long abide such childish\nrequests."
+    },
+    {
+      "key": "EP07_S3070_0082",
+      "value": "Fanglongmon!!!"
+    },
+    {
+      "key": "EP07_S3070_0083",
+      "value": "I will follow your commands, beloved master,\nthough there be no light in your words."
+    },
+    {
+      "key": "EP07_S3070_0084",
+      "value": "Omegamon!!!"
+    },
+    {
+      "key": "EP07_S3070_0085",
+      "value": "I had hoped that I misheard you, but as you\nwish. I will grant your request!"
+    },
+    {
+      "key": "EP07_S3070_0013",
+      "value": "Heh. Very well, I’ll take you on myself!"
+    }
+  ]
+}

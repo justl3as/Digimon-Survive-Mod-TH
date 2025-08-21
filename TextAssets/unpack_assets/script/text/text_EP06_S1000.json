@@ -1,0 +1,228 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S1000_0001",
+      "value": "Perfect timing.\nI wanted to ask you something."
+    },
+    {
+      "key": "EP06_S1000_0002",
+      "value": "Okay. What?"
+    },
+    {
+      "key": "EP06_S1000_0003",
+      "value": "Do you still like Agumon?"
+    },
+    {
+      "key": "EP06_S1000_0004",
+      "value": "Of course. He’s my trusted partner."
+    },
+    {
+      "key": "EP06_S1000_0005",
+      "value": "Really?"
+    },
+    {
+      "key": "EP06_S1000_0006",
+      "value": "I’m glad to hear it.\nBut not everyone feels that way."
+    },
+    {
+      "key": "EP06_S1000_0007",
+      "value": "It’s okay. Kaito and Minoru will understand\nwhen they calm down a bit."
+    },
+    {
+      "key": "EP06_S1000_0008",
+      "value": "I don’t want them to fight, though..."
+    },
+    {
+      "key": "EP06_S1000_0009",
+      "value": "It’s all my fault, isn’t it?"
+    },
+    {
+      "key": "EP06_S1000_0010",
+      "value": "If I hadn’t suggested going to the shrine\nwe wouldn’t have ended up in this world..."
+    },
+    {
+      "key": "EP06_S1000_0011",
+      "value": "Don’t worry, Miu..."
+    },
+    {
+      "key": "EP06_S1000_0012",
+      "value": "Is Ryo...really dead?"
+    },
+    {
+      "key": "EP06_S1000_0013",
+      "value": "I think so.\nHe was swallowed up by that fog..."
+    },
+    {
+      "key": "EP06_S1000_0014",
+      "value": "Oh...\nSo do you hate me?"
+    },
+    {
+      "key": "EP06_S1000_0015",
+      "value": "Hate you? Why would I?"
+    },
+    {
+      "key": "EP06_S1000_0016",
+      "value": "I took everyone to the shrine,\nand now we’re stuck here..."
+    },
+    {
+      "key": "EP06_S1000_0017",
+      "value": "S-so...you must really hate me."
+    },
+    {
+      "key": "EP06_S1000_0018",
+      "value": "Takuma, you should say something to her."
+    },
+    {
+      "key": "EP06_S1000_0019",
+      "value": "She acts like she’s doing fine,\nbut in fact she’s struggling."
+    },
+    {
+      "key": "EP06_S1000_0020",
+      "value": "(Poor Miu...\nShe looks like she’s gonna cry.)"
+    },
+    {
+      "key": "EP06_S1000_0021",
+      "value": "(No wonder, if she’s blaming herself for\nall the horrible things that happened.)"
+    },
+    {
+      "key": "EP06_S1000_0022",
+      "value": "(But it’s not her fault.\nI should make sure she knows that.)"
+    },
+    {
+      "key": "EP06_S1000_Q1",
+      "value": "(What should I say?)"
+    },
+    {
+      "key": "EP06_S1000_Q1_A1",
+      "value": "It’s not your fault."
+    },
+    {
+      "key": "EP06_S1000_Q1_A2",
+      "value": "You’re overworrying."
+    },
+    {
+      "key": "EP06_S1000_Q1_A3",
+      "value": "Don’t regret the past."
+    },
+    {
+      "key": "EP06_S1000_0024",
+      "value": "It’s not your fault.\nYou shouldn’t feel responsible."
+    },
+    {
+      "key": "EP06_S1000_0025",
+      "value": "B-but..."
+    },
+    {
+      "key": "EP06_S1000_0026",
+      "value": "It’s not like you knew this was going\nto happen."
+    },
+    {
+      "key": "EP06_S1000_0027",
+      "value": "I know it’s not something you can just\nshrug off, but still..."
+    },
+    {
+      "key": "EP06_S1000_0028",
+      "value": "You can’t go around blaming yourself, either."
+    },
+    {
+      "key": "EP06_S1000_0029",
+      "value": "Yeah... *sob*"
+    },
+    {
+      "key": "EP06_S1000_0030",
+      "value": "D-Don’t cry!\nSorry, did I say too much?"
+    },
+    {
+      "key": "EP06_S1000_0031",
+      "value": "No, it’s okay.\nI feel better now."
+    },
+    {
+      "key": "EP06_S1000_0032",
+      "value": "I just need a little time, that’s all.\nThank you, Takuma."
+    },
+    {
+      "key": "EP06_S1000_0034",
+      "value": "(She IS the one who led us to the shrine.\nThere’s no denying that...)"
+    },
+    {
+      "key": "EP06_S1000_0035",
+      "value": "You’re overworrying.\nYou didn’t do it on purpose."
+    },
+    {
+      "key": "EP06_S1000_0036",
+      "value": "Regret won’t bring Ryo back.\nLook ahead to the future, and..."
+    },
+    {
+      "key": "EP06_S1000_0037",
+      "value": "*sob* You’re right, but...\nBecause of me, Ryo is... He’s..."
+    },
+    {
+      "key": "EP06_S1000_0038",
+      "value": "Waaaaaaaaah!"
+    },
+    {
+      "key": "EP06_S1000_0039",
+      "value": "Hey, it’s not your fault, okay?\nThere’s no use crying about it!"
+    },
+    {
+      "key": "EP06_S1000_0040",
+      "value": "Uh... I mean... Um..."
+    },
+    {
+      "key": "EP06_S1000_0041",
+      "value": "(I didn’t mean to be so harsh.\nSorry, Miu...)"
+    },
+    {
+      "key": "EP06_S1000_0043",
+      "value": "You didn’t bring us here on purpose.\nDon’t regret the past."
+    },
+    {
+      "key": "EP06_S1000_0044",
+      "value": "Yeah, I guess, but... *sob*"
+    },
+    {
+      "key": "EP06_S1000_0045",
+      "value": "Let’s use this time to be productive instead.\nWe’re gonna make it back somehow!"
+    },
+    {
+      "key": "EP06_S1000_0046",
+      "value": "Okay.\nI’ll try to keep it...together..."
+    },
+    {
+      "key": "EP06_S1000_0047",
+      "value": "Waaaaaaaaah!"
+    },
+    {
+      "key": "EP06_S1000_0048",
+      "value": "Don’t cry, Miu."
+    },
+    {
+      "key": "EP06_S1000_0049",
+      "value": "Thanks for being so nice to her, Takuma.\nBut...I think she needs more time."
+    },
+    {
+      "key": "EP06_S1000_0050",
+      "value": "Leave the rest to me.\nShe just needs to cry it out."
+    },
+    {
+      "key": "EP06_S1000_0051",
+      "value": "Got it.\nSorry I couldn’t help more."
+    },
+    {
+      "key": "EP06_S1000_0052",
+      "value": "Oh, but you did.\nWhat you said definitely helped her."
+    },
+    {
+      "key": "EP06_S1000_0053",
+      "value": "*sob...*"
+    },
+    {
+      "key": "EP06_S1000_0054",
+      "value": "Ahh..."
+    },
+    {
+      "key": "EP06_S1000_0055",
+      "value": "(It’s on her to feel better now.\nI should just leave her be.)"
+    }
+  ]
+}

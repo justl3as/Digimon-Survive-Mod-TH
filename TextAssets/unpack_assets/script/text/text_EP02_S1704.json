@@ -1,0 +1,20 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1704_0001",
+      "value": "(The footprints are heading into the <color=#B41919>woods\nby the shrine</color>...)"
+    },
+    {
+      "key": "EP02_S1704_0002",
+      "value": "Let’s go look!"
+    },
+    {
+      "key": "EP02_S1704_0003",
+      "value": "Aye aye!"
+    },
+    {
+      "key": "EP02_S1704_0004",
+      "value": "(Let’s follow the footprints into the <color=#B41919>woods\nby the shrine</color>.)"
+    }
+  ]
+}

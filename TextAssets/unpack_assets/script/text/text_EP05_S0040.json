@@ -1,0 +1,384 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0040_0001",
+      "value": "We’re now approaching the enemy base."
+    },
+    {
+      "key": "EP05_S0040_0002",
+      "value": "We don’t know what’ll happen from here on\nout... Keep your eyes and ears open, guys!"
+    },
+    {
+      "key": "EP05_S0040_0003",
+      "value": "Right. We don’t know when a fight might\nstart."
+    },
+    {
+      "key": "EP05_S0040_0004",
+      "value": "You’re not looking too good, Shuuji. Are you\nokay?"
+    },
+    {
+      "key": "EP05_S0040_0005",
+      "value": "Uh...yeah. Don’t worry about it."
+    },
+    {
+      "key": "EP05_S0040_0006",
+      "value": "Hey, Kaito, got a second?"
+    },
+    {
+      "key": "EP05_S0040_0007",
+      "value": "What is it?"
+    },
+    {
+      "key": "EP05_S0040_0008",
+      "value": "Wouldn’t bringing Shuuji along in that state\nput him in danger?"
+    },
+    {
+      "key": "EP05_S0040_0009",
+      "value": "There’s no fog around, so maybe he can wait\nhere. Or we could have him turn back."
+    },
+    {
+      "key": "EP05_S0040_0010",
+      "value": "Good question... What do you think, Takuma?"
+    },
+    {
+      "key": "EP05_S0040_0011",
+      "value": "That might work. I’m also worried about\ntaking Miyuki and Haru up ahead."
+    },
+    {
+      "key": "EP05_S0040_0012",
+      "value": "Lopmon’s with them, after all. If anything\nhappens, they can handle it."
+    },
+    {
+      "key": "EP05_S0040_0013",
+      "value": "Then let’s give it a shot. Who knows, he\nmight even like the idea, tired as he is."
+    },
+    {
+      "key": "EP05_S0040_0014",
+      "value": "That’s an awful idea!"
+    },
+    {
+      "key": "EP05_S0040_0015",
+      "value": "What’s the problem?"
+    },
+    {
+      "key": "EP05_S0040_0016",
+      "value": "Don’t force all the responsibility on Lopmon!\nIt’s too risky, with the fog and all!"
+    },
+    {
+      "key": "EP05_S0040_0017",
+      "value": "I have to agree. Okay, how about this?"
+    },
+    {
+      "key": "EP05_S0040_0018",
+      "value": "We’ll stay behind, too. That way, if anything\nhappens, we can all handle it together."
+    },
+    {
+      "key": "EP05_S0040_0019",
+      "value": "You and Labramon are staying back, too?"
+    },
+    {
+      "key": "EP05_S0040_0020",
+      "value": "We’re heading straight into enemy territory,\ny’know? I’d rather not lose more firepower."
+    },
+    {
+      "key": "EP05_S0040_0021",
+      "value": "My thoughts exactly! We could make do\nwithout one of you..."
+    },
+    {
+      "key": "EP05_S0040_0022",
+      "value": "But two? That’s too much of a handicap!"
+    },
+    {
+      "key": "EP05_S0040_0023",
+      "value": "Then everyone should go together!"
+    },
+    {
+      "key": "EP05_S0040_0024",
+      "value": "But it’s dangerous to bring people along in\nsuch a state."
+    },
+    {
+      "key": "EP05_S0040_0025",
+      "value": "That’s no reason to leave them behind,\nthough..."
+    },
+    {
+      "key": "EP05_S0040_0026",
+      "value": "What do you think we should do, Miu?"
+    },
+    {
+      "key": "EP05_S0040_0027",
+      "value": "I just dunno..."
+    },
+    {
+      "key": "EP05_S0040_0028",
+      "value": "Ain’t it a bad idea to leave him on his own,\nthough...?"
+    },
+    {
+      "key": "EP05_S0040_0029",
+      "value": "We’re just going around in circles at this\nrate! What’re we gonna do, Takuma?"
+    },
+    {
+      "key": "EP05_S0040_0030",
+      "value": "It’s true that he isn’t in a good state...\nBut what should we do?"
+    },
+    {
+      "key": "EP05_S0040_0031",
+      "value": "If only we could leave Shuuji behind...\nI believe the rest of us would be in sync."
+    },
+    {
+      "key": "EP05_S0040_0032",
+      "value": "The fact that we can’t is the cause of all\nthis confusion, right?"
+    },
+    {
+      "key": "EP05_S0040_0033",
+      "value": "Indeed... Nothing good will come of this,\nwith things as they are."
+    },
+    {
+      "key": "EP05_S0040_0034",
+      "value": "Still, we should decide as a group. Shuuji\nwon’t fare very well left to his own devices."
+    },
+    {
+      "key": "EP05_S0040_0035",
+      "value": "I’m also worried about Lopmon."
+    },
+    {
+      "key": "EP05_S0040_0036",
+      "value": "Lopmon is suffering all alone. If only that\nhuman would try and connect with him..."
+    },
+    {
+      "key": "EP05_S0040_0037",
+      "value": "(Shuuji and Lopmon... It’s tough to figure\nout what to do with them.)"
+    },
+    {
+      "key": "EP05_S0040_0038",
+      "value": "(I’d feel better if Miyuki and Haru stayed\nback, but that’s a lot for Lopmon to handle.)"
+    },
+    {
+      "key": "EP05_S0040_0039",
+      "value": "(But if Aoi and Labramon stay behind, that\nputs more danger on those going in.)"
+    },
+    {
+      "key": "EP05_S0040_0040",
+      "value": "(I hate the idea of leaving Shuuji behind...\nbut I have to treat it as a real option.)"
+    },
+    {
+      "key": "EP05_S0040_Q1",
+      "value": "(So, what should I decide?)"
+    },
+    {
+      "key": "EP05_S0040_Q1_A1",
+      "value": "Shuuji stays with Miyuki and Haru."
+    },
+    {
+      "key": "EP05_S0040_Q1_A2",
+      "value": "Shuuji’s on his own."
+    },
+    {
+      "key": "EP05_S0040_Q1_A3",
+      "value": "Aoi should stay, too."
+    },
+    {
+      "key": "EP05_S0040_0042",
+      "value": "Shuuji, can you stay here with Miyuki and\nHaru?"
+    },
+    {
+      "key": "EP05_S0040_0043",
+      "value": "But then Lopmon will..."
+    },
+    {
+      "key": "EP05_S0040_0044",
+      "value": "I know, but if I have to choose between that\nproblem and everyone’s safety, then..."
+    },
+    {
+      "key": "EP05_S0040_0045",
+      "value": "I’m okay with it..."
+    },
+    {
+      "key": "EP05_S0040_0046",
+      "value": "Are you freaking kidding me...?!"
+    },
+    {
+      "key": "EP05_S0040_0047",
+      "value": "Shuuji?!"
+    },
+    {
+      "key": "EP05_S0040_0048",
+      "value": "Are, are you staying I’M the burden here?!\nJust dead weight, like Miyuki and Haru?!"
+    },
+    {
+      "key": "EP05_S0040_0049",
+      "value": "Ah, no, that’s not what I..."
+    },
+    {
+      "key": "EP05_S0040_0050",
+      "value": "But you are, you REALLY are!!!"
+    },
+    {
+      "key": "EP05_S0040_0052",
+      "value": "I guess leaving Shuuji here on his own is an\noption to consider."
+    },
+    {
+      "key": "EP05_S0040_0053",
+      "value": "Takuma?!"
+    },
+    {
+      "key": "EP05_S0040_0054",
+      "value": "Well yeah, that’s true."
+    },
+    {
+      "key": "EP05_S0040_0055",
+      "value": "It’d get us all back on the same page, that’s\nfor sure."
+    },
+    {
+      "key": "EP05_S0040_0056",
+      "value": "Even you two?! Come on, now!"
+    },
+    {
+      "key": "EP05_S0040_0057",
+      "value": "Are you freaking kidding me...?!"
+    },
+    {
+      "key": "EP05_S0040_0058",
+      "value": "You, you plan on just abandoning me here? Me,\nyour LEADER?!"
+    },
+    {
+      "key": "EP05_S0040_0060",
+      "value": "Let’s have Aoi and Labramon stay behind\nwith Shuuji, then."
+    },
+    {
+      "key": "EP05_S0040_0061",
+      "value": "Whoa now, my man, that’ll put a big dent in\nour fighting force over here!"
+    },
+    {
+      "key": "EP05_S0040_0062",
+      "value": "Still, that might be for the best... We dunno\nif it’ll be safe back here, after all."
+    },
+    {
+      "key": "EP05_S0040_0063",
+      "value": "But still, that’s not the—"
+    },
+    {
+      "key": "EP05_S0040_0064",
+      "value": "Are you kidding me...?!"
+    },
+    {
+      "key": "EP05_S0040_0065",
+      "value": "Whoa! Don’t freak me out here, man."
+    },
+    {
+      "key": "EP05_S0040_0066",
+      "value": "To leave Aoi back here to guard me..."
+    },
+    {
+      "key": "EP05_S0040_0067",
+      "value": "That’s the same as saying I can’t do anything\non my own!"
+    },
+    {
+      "key": "EP05_S0040_0068",
+      "value": "Um, Shuuji? That’s not it, everyone’s just\nworried about you, and—"
+    },
+    {
+      "key": "EP05_S0040_0069",
+      "value": "I’m fine! I’m not tired!"
+    },
+    {
+      "key": "EP05_S0040_0070",
+      "value": "If you all won’t go, then I’ll just go on my\nown!"
+    },
+    {
+      "key": "EP05_S0040_0071",
+      "value": "Ah, Shuuji! Wait up!"
+    },
+    {
+      "key": "EP05_S0040_0072",
+      "value": "Shut your mouth! Stop talking to me, you\nuseless thing!"
+    },
+    {
+      "key": "EP05_S0040_0073",
+      "value": "Weeelp, there goes our fearless leader."
+    },
+    {
+      "key": "EP05_S0040_0074",
+      "value": "Unnngh..."
+    },
+    {
+      "key": "EP05_S0040_0075",
+      "value": "Is something wrong, Lopmon? You look so\nupset."
+    },
+    {
+      "key": "EP05_S0040_0076",
+      "value": "Why... Why am I the only one that’s so...\ndespised?"
+    },
+    {
+      "key": "EP05_S0040_0077",
+      "value": "Did I do something wrong? No...no, I haven’t\nbeen bad at all..."
+    },
+    {
+      "key": "EP05_S0040_0078",
+      "value": "Lopmon?! Are you okay?!"
+    },
+    {
+      "key": "EP05_S0040_0079",
+      "value": "I... I don’t know. I’m feeling pretty shaky..."
+    },
+    {
+      "key": "EP05_S0040_0080",
+      "value": "Sorry, I’d better go see Shuuji..."
+    },
+    {
+      "key": "EP05_S0040_0081",
+      "value": "There he goes..."
+    },
+    {
+      "key": "EP05_S0040_0082",
+      "value": "Guess we should head out, too."
+    },
+    {
+      "key": "EP05_S0040_0083",
+      "value": "You got that right."
+    },
+    {
+      "key": "EP05_S0040_0084",
+      "value": "We have NO IDEA what’s waiting ahead of us!\nYou must remain VIGILANT at ALL TIMES!"
+    },
+    {
+      "key": "EP05_S0040_0085",
+      "value": "Ahaha, is that your Shuuji impression? You\nhit it right on the head!"
+    },
+    {
+      "key": "EP05_S0040_0086",
+      "value": "Knock it off, you two."
+    },
+    {
+      "key": "EP05_S0040_0087",
+      "value": "Okie dokie..."
+    },
+    {
+      "key": "EP05_S0040_0088",
+      "value": "I have a real, real bad feeling about this,\nTakuma."
+    },
+    {
+      "key": "EP05_S0040_0089",
+      "value": "Is Lopmon in danger somehow?"
+    },
+    {
+      "key": "EP05_S0040_0090",
+      "value": "I think so... I got the feeling of complete\ndarkness."
+    },
+    {
+      "key": "EP05_S0040_0091",
+      "value": "Human hearts have an strong effect on us.\nWith Shuuji like this, things could get bad."
+    },
+    {
+      "key": "EP05_S0040_0092",
+      "value": "Bad, huh... For once, I hope you’re wrong."
+    },
+    {
+      "key": "EP05_S0040_0093",
+      "value": "Ho ho ho..."
+    },
+    {
+      "key": "EP05_S0040_0094",
+      "value": "That boy... He seems to have a weak spot\nI can exploit..."
+    }
+  ]
+}

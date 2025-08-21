@@ -1,0 +1,64 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1400_0001",
+      "value": "Takuma, nothing’s here."
+    },
+    {
+      "key": "EP02_S1400_0002",
+      "value": "Right...\nLet’s check somewhere else?"
+    },
+    {
+      "key": "EP02_S1400_0003",
+      "value": "Aye aye!"
+    },
+    {
+      "key": "EP02_S1400_0004",
+      "value": "There’s nothing here.\nLet’s check somewhere else."
+    },
+    {
+      "key": "EP02_S1400_0201",
+      "value": "Look, Takuma! I think this is one of those\nplants we can eat!"
+    },
+    {
+      "key": "EP02_S1400_0202",
+      "value": "Uh, are you sure?"
+    },
+    {
+      "key": "EP02_S1400_0203",
+      "value": "*chew* *chew*"
+    },
+    {
+      "key": "EP02_S1400_0204",
+      "value": "Hey! Don’t just start eating it! We don’t\neven know if it’s safe!"
+    },
+    {
+      "key": "EP02_S1400_0205",
+      "value": "Bleh! That was awful!"
+    },
+    {
+      "key": "EP02_S1400_0206",
+      "value": "Are you okay? I can’t believe you just did\nthat!"
+    },
+    {
+      "key": "EP02_S1400_0207",
+      "value": "That’s weird... I did the same thing Minoru\ndid. Why didn’t it work for me?"
+    },
+    {
+      "key": "EP02_S1400_0208",
+      "value": "Look, you can’t go around shoving things in\nyour mouth when you don’t know what they are."
+    },
+    {
+      "key": "EP02_S1400_0209",
+      "value": "Right! Now I know."
+    },
+    {
+      "key": "EP02_S1400_0210",
+      "value": "I don’t think we’ll find anything here. Let’s\ncheck somewhere else."
+    },
+    {
+      "key": "EP02_S1400_0211",
+      "value": "There’s nothing here.\nLet’s check somewhere else."
+    }
+  ]
+}

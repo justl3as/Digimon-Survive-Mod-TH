@@ -1,0 +1,84 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1703_0001",
+      "value": "Saki... Where are you?"
+    },
+    {
+      "key": "EP02_S1703_0002",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP02_S1703_0003",
+      "value": "(Aoi seems incredibly worried.)"
+    },
+    {
+      "key": "EP02_S1703_Q1",
+      "value": "(So, what should I do?)"
+    },
+    {
+      "key": "EP02_S1703_Q1_A1",
+      "value": "Encourage her."
+    },
+    {
+      "key": "EP02_S1703_Q1_A2",
+      "value": "Reprimand her."
+    },
+    {
+      "key": "EP02_S1703_0004",
+      "value": "It’s okay. We’re going to find them soon!"
+    },
+    {
+      "key": "EP02_S1703_0005",
+      "value": "You need to be ready to smile for them!\nIt’s time to cheer up!"
+    },
+    {
+      "key": "EP02_S1703_0006",
+      "value": "You’re right. I wouldn’t want them to see me\nthis way."
+    },
+    {
+      "key": "EP02_S1703_0007",
+      "value": "Thanks, Takuma."
+    },
+    {
+      "key": "EP02_S1703_0008",
+      "value": "Aoi’s feeling better!"
+    },
+    {
+      "key": "EP02_S1703_0009",
+      "value": "Oh, I’m so glad!"
+    },
+    {
+      "key": "EP02_S1703_0010",
+      "value": "There’s no time for worries, Aoi!"
+    },
+    {
+      "key": "EP02_S1703_0011",
+      "value": "Getting down won’t help!\nWe won’t find them like that!"
+    },
+    {
+      "key": "EP02_S1703_0012",
+      "value": "I-I’m sorry...!"
+    },
+    {
+      "key": "EP02_S1703_0013",
+      "value": "You’re right. I have things to do!"
+    },
+    {
+      "key": "EP02_S1703_0014",
+      "value": "I’ll help too!"
+    },
+    {
+      "key": "EP02_S1703_0015",
+      "value": "Me too!"
+    },
+    {
+      "key": "EP02_S1703_0016",
+      "value": "I looked at the footprints, but the size and\nshape are nearly identical."
+    },
+    {
+      "key": "EP02_S1703_0017",
+      "value": "It seems like the only difference is the\ndirection they are headed in."
+    }
+  ]
+}

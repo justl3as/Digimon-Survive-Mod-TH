@@ -1,0 +1,260 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S0013_0001",
+      "value": "All right, there’s the exit. Is everyone safe\nand—"
+    },
+    {
+      "key": "EP06_S0013_0002",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0013_0003",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0013_0004",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0013_0005",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S0013_0006",
+      "value": "Uh..."
+    },
+    {
+      "key": "EP06_S0013_0007",
+      "value": "I think it goes without saying, but we’re all\npretty beat at this point, man."
+    },
+    {
+      "key": "EP06_S0013_0008",
+      "value": "I’m fine. No need to worry about me.\nI’m sorry I made you worry."
+    },
+    {
+      "key": "EP06_S0013_0009",
+      "value": "It’s okay. I’m just glad we could save you.\nLike, really glad. But...urgh!"
+    },
+    {
+      "key": "EP06_S0013_0010",
+      "value": "Minoru! Are you all right?"
+    },
+    {
+      "key": "EP06_S0013_0011",
+      "value": "Let’s deal with the curse later.\nI’m exhausted now that it’s all over..."
+    },
+    {
+      "key": "EP06_S0013_0012",
+      "value": "Kewkew..."
+    },
+    {
+      "key": "EP06_S0013_0013",
+      "value": "Haha, you’re telling me.\nI feel totally worn out right now."
+    },
+    {
+      "key": "EP06_S0013_0014",
+      "value": "(It’s like the energy drained from everyone\nas soon as we made it out.)"
+    },
+    {
+      "key": "EP06_S0013_0015",
+      "value": "What’s with everyone?\nWe’re safe now, aren’t we?"
+    },
+    {
+      "key": "EP06_S0013_0016",
+      "value": "We’re just tired, Agumon.\nVery, very tired."
+    },
+    {
+      "key": "EP06_S0013_0017",
+      "value": "After everything that happened, it’d be weird\nif we weren’t!"
+    },
+    {
+      "key": "EP06_S0013_0018",
+      "value": "Okay, Minoru, we get it.\nCalm down already."
+    },
+    {
+      "key": "EP06_S0013_0019",
+      "value": "You’re not usually so harsh."
+    },
+    {
+      "key": "EP06_S0013_0020",
+      "value": "Harsh? People died!\nRyo and Shuuji are gone!"
+    },
+    {
+      "key": "EP06_S0013_0021",
+      "value": "You’re the weird one for acting like\nnothing’s wrong!"
+    },
+    {
+      "key": "EP06_S0013_0022",
+      "value": "Look, I’m not okay with this, either."
+    },
+    {
+      "key": "EP06_S0013_0023",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP06_S0013_0024",
+      "value": "You’re right. Sorry, man. "
+    },
+    {
+      "key": "EP06_S0013_0025",
+      "value": "(Minoru and everyone else lost their cool\nfrom the emotional shock.)"
+    },
+    {
+      "key": "EP06_S0013_0026",
+      "value": "(It’s not safe to explore like this.\nWe should rest till we feel better.) "
+    },
+    {
+      "key": "EP06_S0013_0027",
+      "value": "You’ve got quite the look there, Takuma.\nAre you okay? "
+    },
+    {
+      "key": "EP06_S0013_0028",
+      "value": "I’ll be fine, Agumon.\nI just need to rest a bit."
+    },
+    {
+      "key": "EP06_S0013_0029",
+      "value": "We’re safe around here, right?"
+    },
+    {
+      "key": "EP06_S0013_0030",
+      "value": "I don’t sense any enemies.\nI think we’re fine! "
+    },
+    {
+      "key": "EP06_S0013_0031",
+      "value": "All right. If you think so too, then I trust\nyou, Agumon."
+    },
+    {
+      "key": "EP06_S0013_0032",
+      "value": "You all must be totally exhausted.\nDon’t push yourselves too hard."
+    },
+    {
+      "key": "EP06_S0013_0033",
+      "value": "The same goes for you, Professor..."
+    },
+    {
+      "key": "EP06_S0013_0034",
+      "value": "Where have you been, anyway?"
+    },
+    {
+      "key": "EP06_S0013_0035",
+      "value": "To tell you the truth...\nWe thought you wouldn’t make it."
+    },
+    {
+      "key": "EP06_S0013_0036",
+      "value": "Well, I’m glad we found each other. "
+    },
+    {
+      "key": "EP06_S0013_0037",
+      "value": "I also thought I was done for.\nBut I got lucky."
+    },
+    {
+      "key": "EP06_S0013_0038",
+      "value": "Although I blacked out along the way, so I’m\nnot completely sure..."
+    },
+    {
+      "key": "EP06_S0013_0039",
+      "value": "I probably bumped into something as I was\nfalling, and it softened the impact."
+    },
+    {
+      "key": "EP06_S0013_0040",
+      "value": "I apparently landed in water and was swept\ninto the drainage path.  "
+    },
+    {
+      "key": "EP06_S0013_0041",
+      "value": "Once I came to, I got out to look for\neveryone."
+    },
+    {
+      "key": "EP06_S0013_0042",
+      "value": "But then I realized I’d ended up on\na different island than before."
+    },
+    {
+      "key": "EP06_S0013_0043",
+      "value": "After exploring and figuring that out,\nI went back to the waterway."
+    },
+    {
+      "key": "EP06_S0013_0044",
+      "value": "I assumed that if I made it to the other side\nI might find all of you again."
+    },
+    {
+      "key": "EP06_S0013_0045",
+      "value": "And now I finally did. "
+    },
+    {
+      "key": "EP06_S0013_0046",
+      "value": "So that’s what happened..."
+    },
+    {
+      "key": "EP06_S0013_0047",
+      "value": "I’m just glad I made it in time."
+    },
+    {
+      "key": "EP06_S0013_0048",
+      "value": "I’m so happy to see that you’re all safe and\nsound."
+    },
+    {
+      "key": "EP06_S0013_0049",
+      "value": "And we’re glad to have you back!"
+    },
+    {
+      "key": "EP06_S0013_0050",
+      "value": "But I was too late."
+    },
+    {
+      "key": "EP06_S0013_0051",
+      "value": "If only I’d made it back earlier, I might\nhave saved Shuuji."
+    },
+    {
+      "key": "EP06_S0013_0052",
+      "value": "Professor..."
+    },
+    {
+      "key": "EP06_S0013_0053",
+      "value": "All right."
+    },
+    {
+      "key": "EP06_S0013_0054",
+      "value": "You kids stay here and rest.\nI’ll investigate the perimeter."
+    },
+    {
+      "key": "EP06_S0013_0055",
+      "value": "What? But, Professor, it’s too dangerous to\ngo out there by yourself!"
+    },
+    {
+      "key": "EP06_S0013_0056",
+      "value": "Oh, I’m well aware. If I find anything,\nI’ll let you all know right away."
+    },
+    {
+      "key": "EP06_S0013_0057",
+      "value": "I may not be able to fight, but I want to\nmake myself useful somehow."
+    },
+    {
+      "key": "EP06_S0013_0058",
+      "value": "Needless to say, what you kids need most\nright now is simply rest."
+    },
+    {
+      "key": "EP06_S0013_0059",
+      "value": "It makes sense that as the only one with any\nenergy, I should be on patrol."
+    },
+    {
+      "key": "EP06_S0013_0060",
+      "value": "(Well, that does makes sense...)"
+    },
+    {
+      "key": "EP06_S0013_0061",
+      "value": "(Everyone is exhausted and in shock.\nWe’re in no shape to move.)"
+    },
+    {
+      "key": "EP06_S0013_0062",
+      "value": "(The professor wants to look around, so it\nmakes sense for him to do it.)  "
+    },
+    {
+      "key": "EP06_S0013_0063",
+      "value": "I guess you’re right...\nJust be careful, okay, Professor?"
+    },
+    {
+      "key": "EP06_S0013_0064",
+      "value": "Of course. I’ll be back soon."
+    }
+  ]
+}

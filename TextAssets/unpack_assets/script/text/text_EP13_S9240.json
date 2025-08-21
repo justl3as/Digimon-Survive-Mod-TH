@@ -1,0 +1,216 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9240_0001",
+      "value": "Hey, Shuuji. What are you up to?"
+    },
+    {
+      "key": "EP13_S9240_0002",
+      "value": "I’m checking my supplies. You should do the\nsame with yours."
+    },
+    {
+      "key": "EP13_S9240_0003",
+      "value": "(Sounds like Shuuji. I’m worried he’s getting\nfixated, but maybe I shouldn’t say so.)"
+    },
+    {
+      "key": "EP13_S9240_Q1",
+      "value": "(How should I answer him?)"
+    },
+    {
+      "key": "EP13_S9240_Q1_A1",
+      "value": "You’re sure into this."
+    },
+    {
+      "key": "EP13_S9240_Q1_A2",
+      "value": "You seem fixated."
+    },
+    {
+      "key": "EP13_S9240_0004",
+      "value": "You’re sure into this."
+    },
+    {
+      "key": "EP13_S9240_0005",
+      "value": "You sure are into this, Shuuji."
+    },
+    {
+      "key": "EP13_S9240_0006",
+      "value": "Well, we’re coming up on the final battle."
+    },
+    {
+      "key": "EP13_S9240_0007",
+      "value": "It’s a fight we can’t afford to lose. And\nafter we win it, we can finally go home."
+    },
+    {
+      "key": "EP13_S9240_0008",
+      "value": "Yeah...you’re right."
+    },
+    {
+      "key": "EP13_S9240_0009",
+      "value": "So we can’t be too careful getting ready.\nMake sure you don’t forget anything, Takuma."
+    },
+    {
+      "key": "EP13_S9240_0010",
+      "value": "Right. I’ll be careful."
+    },
+    {
+      "key": "EP13_S9240_0011",
+      "value": "Heheh, listen to me, giving you advice while\nI’ve been caught up in my own thoughts."
+    },
+    {
+      "key": "EP13_S9240_0012",
+      "value": "Oh? Something on your mind?"
+    },
+    {
+      "key": "EP13_S9240_0013",
+      "value": "Yeah. I was just thinking of everything that\nhappened since we first came here."
+    },
+    {
+      "key": "EP13_S9240_0014",
+      "value": "You seem fixated."
+    },
+    {
+      "key": "EP13_S9240_0015",
+      "value": "You seem kind of fixated on this to me,\nShuuji. Maybe a little too much."
+    },
+    {
+      "key": "EP13_S9240_0016",
+      "value": "Is that what you think? Well, it’s not like\nthat."
+    },
+    {
+      "key": "EP13_S9240_0017",
+      "value": "I’ve actually been thinking back on things as\nI go. So much has happened since we got here."
+    },
+    {
+      "key": "EP13_S9240_0018",
+      "value": "It’s funny. A lot of what we went through was\ndifficult and dangerous..."
+    },
+    {
+      "key": "EP13_S9240_0019",
+      "value": "But looking back now, all I can think of are\nthe good things."
+    },
+    {
+      "key": "EP13_S9240_0020",
+      "value": "Is that how it is for you too, Takuma?"
+    },
+    {
+      "key": "EP13_S9240_Q2",
+      "value": "(Good question. How do I feel about that?)"
+    },
+    {
+      "key": "EP13_S9240_Q2_A1",
+      "value": "I feel the same way."
+    },
+    {
+      "key": "EP13_S9240_Q2_A2",
+      "value": "Not at all."
+    },
+    {
+      "key": "EP13_S9240_0021",
+      "value": "I feel the same way."
+    },
+    {
+      "key": "EP13_S9240_0022",
+      "value": "Yes, I feel the same way. I really only\nremember the good times."
+    },
+    {
+      "key": "EP13_S9240_0023",
+      "value": "Strange, right?"
+    },
+    {
+      "key": "EP13_S9240_0024",
+      "value": "It was kinda like a fun camping trip. And we\nwon’t ever have an adventure like this again."
+    },
+    {
+      "key": "EP13_S9240_0025",
+      "value": "Plus, I got to meet Lopmon."
+    },
+    {
+      "key": "EP13_S9240_0026",
+      "value": "Eheheh. I’m happy to have met you too,\nShuuji."
+    },
+    {
+      "key": "EP13_S9240_0027",
+      "value": "Not at all."
+    },
+    {
+      "key": "EP13_S9240_0028",
+      "value": "Actually, all I can ever remember are the bad\nthings."
+    },
+    {
+      "key": "EP13_S9240_0029",
+      "value": "Oh, huh. Maybe I’m just weird that way."
+    },
+    {
+      "key": "EP13_S9240_0030",
+      "value": "If we lose, we die. If we win, we leave this\nworld behind."
+    },
+    {
+      "key": "EP13_S9240_0031",
+      "value": "I kind of wish time would just stop right\nhere in this moment. That way..."
+    },
+    {
+      "key": "EP13_S9240_0032",
+      "value": "...there’d be no danger, and I could just\nlive within my own happy memories."
+    },
+    {
+      "key": "EP13_S9240_0033",
+      "value": "Shuuji..."
+    },
+    {
+      "key": "EP13_S9240_0034",
+      "value": "Does it surprise you to hear me say that,\nTakuma?"
+    },
+    {
+      "key": "EP13_S9240_Q3",
+      "value": "(Is it really that surprising?)"
+    },
+    {
+      "key": "EP13_S9240_Q3_A1",
+      "value": "No, not really."
+    },
+    {
+      "key": "EP13_S9240_Q3_A2",
+      "value": "Yeah, it’s strange."
+    },
+    {
+      "key": "EP13_S9240_0035",
+      "value": "No, not really."
+    },
+    {
+      "key": "EP13_S9240_0036",
+      "value": "No, not really. I feel like I know what\nyou’re saying."
+    },
+    {
+      "key": "EP13_S9240_0037",
+      "value": "That’s good, then. Thanks."
+    },
+    {
+      "key": "EP13_S9240_0038",
+      "value": "Yeah, it’s strange."
+    },
+    {
+      "key": "EP13_S9240_0039",
+      "value": "Yeah, it’s not like you, Shuuji."
+    },
+    {
+      "key": "EP13_S9240_0040",
+      "value": "Maybe it’s not, sorry. Anyway, I’ll stop\ncomplaining now."
+    },
+    {
+      "key": "EP13_S9240_0041",
+      "value": "That’s enough whining. Let me get back into\nthis."
+    },
+    {
+      "key": "EP13_S9240_0042",
+      "value": "We are going to make this happen, right,\nLopmon?!"
+    },
+    {
+      "key": "EP13_S9240_0043",
+      "value": "Right!"
+    },
+    {
+      "key": "EP13_S9240_0044",
+      "value": "Win or lose, this is the end. Let’s make sure\nwe don’t have any regrets."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1131_0001",
+      "value": "Hm? I think I see a handle here."
+    },
+    {
+      "key": "EP04_S1131_0002",
+      "value": "Oh yeah!"
+    },
+    {
+      "key": "EP04_S1131_0003",
+      "value": "Wait, this is a door! I almost missed it here\nin the shadow of that pillar."
+    },
+    {
+      "key": "EP04_S1131_0004",
+      "value": "You think this is it?"
+    },
+    {
+      "key": "EP04_S1131_0005",
+      "value": "Yeah, I bet it is!"
+    },
+    {
+      "key": "EP04_S1131_0006",
+      "value": "Then let’s go inside!"
+    }
+  ]
+}

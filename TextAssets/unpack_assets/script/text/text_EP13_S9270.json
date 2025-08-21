@@ -1,0 +1,224 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9270_0001",
+      "value": "Hey, Takuma. Can I ask you something? We’ve\nboth been through a lot together..."
+    },
+    {
+      "key": "EP13_S9270_0002",
+      "value": "Yeah, right..."
+    },
+    {
+      "key": "EP13_S9270_0003",
+      "value": "So, what do you think of it all? Have you had\nfun? Was it all just hard?"
+    },
+    {
+      "key": "EP13_S9270_Q1",
+      "value": "(Well? How should I answer him?)"
+    },
+    {
+      "key": "EP13_S9270_Q1_A1",
+      "value": "I don’t know."
+    },
+    {
+      "key": "EP13_S9270_Q1_A2",
+      "value": "It’s been fun."
+    },
+    {
+      "key": "EP13_S9270_Q1_A3",
+      "value": "It’s been hard."
+    },
+    {
+      "key": "EP13_S9270_0004",
+      "value": "I don’t know."
+    },
+    {
+      "key": "EP13_S9270_0005",
+      "value": "We’ve been through so much, it’s kinda hard\nto say at this point."
+    },
+    {
+      "key": "EP13_S9270_0006",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP13_S9270_0007",
+      "value": "But I’ll tell you one thing. I’m happy to\nhave met you, Agumon."
+    },
+    {
+      "key": "EP13_S9270_0008",
+      "value": "You mean it? Eheheh."
+    },
+    {
+      "key": "EP13_S9270_0009",
+      "value": "It’s been fun."
+    },
+    {
+      "key": "EP13_S9270_0010",
+      "value": "We’ve been through a lot, but..."
+    },
+    {
+      "key": "EP13_S9270_0011",
+      "value": "...a lot of fun things have happened, too."
+    },
+    {
+      "key": "EP13_S9270_0012",
+      "value": "Yeah, that’s the same way I feel."
+    },
+    {
+      "key": "EP13_S9270_0013",
+      "value": "It’s been hard."
+    },
+    {
+      "key": "EP13_S9270_0014",
+      "value": "Ever since I came here, it’s been one bad\nthing after another."
+    },
+    {
+      "key": "EP13_S9270_0015",
+      "value": "I can’t wait to get home, back to where my\nparents and my friends are waiting for me."
+    },
+    {
+      "key": "EP13_S9270_0016",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP13_S9270_0017",
+      "value": "But, weren’t there some things that were fun,\nor that made you happy?"
+    },
+    {
+      "key": "EP13_S9270_0018",
+      "value": "Yeah, I guess. It’s not like it was all bad."
+    },
+    {
+      "key": "EP13_S9270_0019",
+      "value": "Tell me, Takuma. What do you think is the\nbest thing that happened since you came here?"
+    },
+    {
+      "key": "EP13_S9270_0020",
+      "value": "The best thing that happened? Let me think..."
+    },
+    {
+      "key": "EP13_S9270_0021",
+      "value": "(My strongest memories are of meeting Agumon,\nand of the time we all spent in the school.)"
+    },
+    {
+      "key": "EP13_S9270_0022",
+      "value": "(Of fighting Fangmon, Arukenimon, and\nPiedmon, of getting swallowed by the fog...)"
+    },
+    {
+      "key": "EP13_S9270_Q2",
+      "value": "(What was the best thing that happened?)"
+    },
+    {
+      "key": "EP13_S9270_Q2_A1",
+      "value": "Meeting everyone."
+    },
+    {
+      "key": "EP13_S9270_Q2_A2",
+      "value": "Meeting you, Agumon."
+    },
+    {
+      "key": "EP13_S9270_Q2_A3",
+      "value": "Nothing."
+    },
+    {
+      "key": "EP13_S9270_0023",
+      "value": "Meeting everyone."
+    },
+    {
+      "key": "EP13_S9270_0024",
+      "value": "Probably just getting to meet everyone. You\nknow, Minoru, Aoi, Kaito, Miyuki..."
+    },
+    {
+      "key": "EP13_S9270_0025",
+      "value": "Anyone else?"
+    },
+    {
+      "key": "EP13_S9270_0026",
+      "value": "And you, of course."
+    },
+    {
+      "key": "EP13_S9270_0027",
+      "value": "Eheheh..."
+    },
+    {
+      "key": "EP13_S9270_0028",
+      "value": "Meeting you, Agumon."
+    },
+    {
+      "key": "EP13_S9270_0029",
+      "value": "The best thing was meeting you, Agumon."
+    },
+    {
+      "key": "EP13_S9270_0030",
+      "value": "Really?! Because I think the best thing of\nall was meeting you, Takuma!"
+    },
+    {
+      "key": "EP13_S9270_0031",
+      "value": "Nothing."
+    },
+    {
+      "key": "EP13_S9270_0032",
+      "value": "Nope, I can’t do it. I can’t think of\na single good thing."
+    },
+    {
+      "key": "EP13_S9270_0033",
+      "value": "Really?"
+    },
+    {
+      "key": "EP13_S9270_0034",
+      "value": "We’ve constantly been in danger, my friends\nhave almost died, and..."
+    },
+    {
+      "key": "EP13_S9270_0035",
+      "value": "...now that I’ve really come to care about\nyou, we’re going to have to say goodbye."
+    },
+    {
+      "key": "EP13_S9270_0036",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP13_S9270_0037",
+      "value": "Haha... Listen to me. The last battle’s still\nahead and I’m talking like we won already."
+    },
+    {
+      "key": "EP13_S9270_0038",
+      "value": "No, that’s okay."
+    },
+    {
+      "key": "EP13_S9270_0039",
+      "value": "Listen, Takuma, I’ve been worried."
+    },
+    {
+      "key": "EP13_S9270_0040",
+      "value": "If we win the fight with the Master, that\nmeans you’ll go back to your world."
+    },
+    {
+      "key": "EP13_S9270_0041",
+      "value": "But I didn’t want you to think there was\nnothing good about the time you spent here."
+    },
+    {
+      "key": "EP13_S9270_0042",
+      "value": "It’s been bothering me for a while now."
+    },
+    {
+      "key": "EP13_S9270_0043",
+      "value": "It has? Well, don’t worry, Agumon."
+    },
+    {
+      "key": "EP13_S9270_0044",
+      "value": "You’ve done all kinds of good things for me."
+    },
+    {
+      "key": "EP13_S9270_0045",
+      "value": "I’m not about to go back thinking there was\nnothing good here."
+    },
+    {
+      "key": "EP13_S9270_0046",
+      "value": "Well, I’m glad to hear that."
+    },
+    {
+      "key": "EP13_S9270_0047",
+      "value": "Takuma, I’m going to give this all I got!"
+    }
+  ]
+}

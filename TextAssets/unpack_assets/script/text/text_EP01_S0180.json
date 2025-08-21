@@ -1,0 +1,232 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0180_0100",
+      "value": "Ahhh, there you are!\nHmm? What’s up?"
+    },
+    {
+      "key": "EP01_S0180_0101",
+      "value": "You just ran off. Don’t worry us like that..."
+    },
+    {
+      "key": "EP01_S0180_0102",
+      "value": "Oh, uh, sorry..."
+    },
+    {
+      "key": "EP01_S0180_0103",
+      "value": "What the—I don’t believe it!"
+    },
+    {
+      "key": "EP01_S0180_0001",
+      "value": "A shrine, in a place like this?"
+    },
+    {
+      "key": "EP01_S0180_0200",
+      "value": "A mural across the whole wall..."
+    },
+    {
+      "key": "EP01_S0180_0201",
+      "value": "This is really something else..."
+    },
+    {
+      "key": "EP01_S0180_0202",
+      "value": "Whoa, you’re telling me. I feel like I could\nget swallowed up by it."
+    },
+    {
+      "key": "EP01_S0180_0203",
+      "value": "Exactly. How do I explain it... There’s just\nsomething divine about it."
+    },
+    {
+      "key": "EP01_S0180_0204",
+      "value": "(Maybe it wasn’t danger or retribution that\ncaused people to close off this area.)"
+    },
+    {
+      "key": "EP01_S0180_0205",
+      "value": "(They might’ve been trying to protect this\nsacred place.)"
+    },
+    {
+      "key": "EP01_S0180_0206",
+      "value": "Hey, now’s no time for gawking. Or did you\nforget what we came here for?"
+    },
+    {
+      "key": "EP01_S0180_0207",
+      "value": "Riiight, right, right. Sorry, just got caught\nup in all this."
+    },
+    {
+      "key": "EP01_S0180_0208",
+      "value": "(He’s right, we have better things to do\nright now.)"
+    },
+    {
+      "key": "EP01_S0180_Q1",
+      "value": "(What should we focus on here?)"
+    },
+    {
+      "key": "EP01_S0180_Q1_A1",
+      "value": "Find the others."
+    },
+    {
+      "key": "EP01_S0180_Q1_A2",
+      "value": "What’s this shrine?"
+    },
+    {
+      "key": "EP01_S0180_Q1_A3",
+      "value": "I hope they didn’t go farther in."
+    },
+    {
+      "key": "EP01_S0180_0110",
+      "value": "Search for the others."
+    },
+    {
+      "key": "EP01_S0180_0111",
+      "value": "(Yeah, we have to look for Saki and the\nothers.)"
+    },
+    {
+      "key": "EP01_S0180_0002",
+      "value": "Yooo, Sakiii!"
+    },
+    {
+      "key": "EP01_S0180_0112",
+      "value": "Ryooo!"
+    },
+    {
+      "key": "EP01_S0180_0113",
+      "value": "Miu! Where are you?!"
+    },
+    {
+      "key": "EP01_S0180_0114",
+      "value": "Check the shrine!"
+    },
+    {
+      "key": "EP01_S0180_0115",
+      "value": "What is it about this place? I can’t take my\neyes off of it."
+    },
+    {
+      "key": "EP01_S0180_0116",
+      "value": "We should go, Takuma. I’m kind of...well,\nscared."
+    },
+    {
+      "key": "EP01_S0180_0117",
+      "value": "C’mon, we can check this place out once we\nfind the others."
+    },
+    {
+      "key": "EP01_S0180_0118",
+      "value": "Yeah, you’re right."
+    },
+    {
+      "key": "EP01_S0180_0119",
+      "value": "There’s not much room."
+    },
+    {
+      "key": "EP01_S0180_0209",
+      "value": "It’s kinda small in here. You think there’s\na passage or something that goes further in?"
+    },
+    {
+      "key": "EP01_S0180_0120",
+      "value": "If that’s the case, we might have trouble\non our own here."
+    },
+    {
+      "key": "EP01_S0180_0121",
+      "value": "True that. Best not go further, or they might\nneed a search party for our own search party."
+    },
+    {
+      "key": "EP01_S0180_0122",
+      "value": "Yes, I agree. We should head back to the\nschool for now and—"
+    },
+    {
+      "key": "EP01_S0180_0123",
+      "value": "Enough of this heel-dragging crap! I’ll go it\nalone if I have to!"
+    },
+    {
+      "key": "EP01_S0180_0124",
+      "value": "(Huh? I hear footsteps by the entrance...\nCould it be the others?)"
+    },
+    {
+      "key": "EP01_S0180_0003",
+      "value": "Hmm? And you are...?"
+    },
+    {
+      "key": "EP01_S0180_0004",
+      "value": "Ah, hello there..."
+    },
+    {
+      "key": "EP01_S0180_0005",
+      "value": "Whozzat?"
+    },
+    {
+      "key": "EP01_S0180_0006",
+      "value": "Your guess is as good as mine..."
+    },
+    {
+      "key": "EP01_S0180_0125",
+      "value": "What are all of you doing here? Surely you\nknow you can’t be in here."
+    },
+    {
+      "key": "EP01_S0180_0126",
+      "value": "Ah, um. Well, you see..."
+    },
+    {
+      "key": "EP01_S0180_0127",
+      "value": "That’s our line, man. What’re you doing here?"
+    },
+    {
+      "key": "EP01_S0180_0128",
+      "value": "Hmm? Oh, no need to worry, my purpose here\nis far from nefarious."
+    },
+    {
+      "key": "EP01_S0180_0129",
+      "value": "I am a researcher of the Kemonogami faith\npassed down in this region."
+    },
+    {
+      "key": "EP01_S0180_0130",
+      "value": "This shrine is connected to said faith.\nI just got permission to investigate it."
+    },
+    {
+      "key": "EP01_S0180_0131",
+      "value": "Researcher...investigate? Are you a scholar\nof some sort?"
+    },
+    {
+      "key": "EP01_S0180_0009",
+      "value": "Indeed. I study ancient Japanese history,\nresearching it for a university nearby."
+    },
+    {
+      "key": "EP01_S0180_0132",
+      "value": "Then, uh, that makes you a professor?"
+    },
+    {
+      "key": "EP01_S0180_0011",
+      "value": "Ha ha, I’ve been shunned from scientific\nsociety... Ah, forget that last part."
+    },
+    {
+      "key": "EP01_S0180_0085",
+      "value": "(So this place is valuable enough to be worth\nresearching, huh?)"
+    },
+    {
+      "key": "EP01_S0180_0133",
+      "value": "Well, then. What has brought all of you to\na place like this?"
+    },
+    {
+      "key": "EP01_S0180_0134",
+      "value": "Yes, well you see, sir..."
+    },
+    {
+      "key": "EP01_S0180_0135",
+      "value": "I’m gonna go look somewhere else."
+    },
+    {
+      "key": "EP01_S0180_0136",
+      "value": "Hey, Kaito!"
+    },
+    {
+      "key": "EP01_S0180_0137",
+      "value": "Now, now, Shuuji, let’s just let him do his\nown thing for now, yeah?"
+    },
+    {
+      "key": "EP01_S0180_0138",
+      "value": "(I get why Kaito’s feeling restless, but\nI’m really curious about this place.)"
+    },
+    {
+      "key": "EP01_S0180_0086",
+      "value": "(No idea if Saki and the others came here,\nbut let’s look around for some clues.)"
+    }
+  ]
+}

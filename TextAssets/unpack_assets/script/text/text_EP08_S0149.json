@@ -1,0 +1,448 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP08_S0149_0001",
+      "value": "Made up your mind...to do what?  "
+    },
+    {
+      "key": "EP08_S0149_0002",
+      "value": "Do you remember what I said when I saw that\nthe shrine had collapsed?"
+    },
+    {
+      "key": "EP08_S0149_0003",
+      "value": "Uh, you mean about the inner shrine being\ndestroyed?"
+    },
+    {
+      "key": "EP08_S0149_0004",
+      "value": "Yes. That shrine is very important to the\nMaster."
+    },
+    {
+      "key": "EP08_S0149_0005",
+      "value": "Its presence has helped keep some of his\npower in check up until now."
+    },
+    {
+      "key": "EP08_S0149_0006",
+      "value": "But if it’s been destroyed, it won’t be long\nbefore that entire island is covered in fog."
+    },
+    {
+      "key": "EP08_S0149_0007",
+      "value": "The entire island? But that would mean..."
+    },
+    {
+      "key": "EP08_S0149_0008",
+      "value": "All our friends are going to get swallowed up\nby that scary fog?!"
+    },
+    {
+      "key": "EP08_S0149_0009",
+      "value": "We’re running out of time, both in this world\nand the other one."
+    },
+    {
+      "key": "EP08_S0149_0010",
+      "value": "If we don’t do something, whatever happens is\nsure to have a huge effect on this world."
+    },
+    {
+      "key": "EP08_S0149_0011",
+      "value": "So what am I supposed to do?"
+    },
+    {
+      "key": "EP08_S0149_0012",
+      "value": "I need you to help me. I want to protect this\nworld. I want to save everyone!"
+    },
+    {
+      "key": "EP08_S0149_0013",
+      "value": "This world needs to be protected. So do our\nfriends, more than anything, and...so do I."
+    },
+    {
+      "key": "EP08_S0149_0014",
+      "value": "After all, I’m sure the Master wants to take\nme back."
+    },
+    {
+      "key": "EP08_S0149_0015",
+      "value": "Miyuki, I..."
+    },
+    {
+      "key": "EP08_S0149_0016",
+      "value": "Takuma?"
+    },
+    {
+      "key": "EP08_S0149_0017",
+      "value": "..."
+    },
+    {
+      "key": "EP08_S0149_0018",
+      "value": "(What should I do? No, what do I want to do?)"
+    },
+    {
+      "key": "EP08_S0149_0019",
+      "value": "(Part of me wants to save the world, like\nMiyuki says.)"
+    },
+    {
+      "key": "EP08_S0149_0020",
+      "value": "(But I know how hard that’s going to be.)"
+    },
+    {
+      "key": "EP08_S0149_0021",
+      "value": "(Then again, if I don’t do anything, I’ll be\nturning my back on all my friends.)"
+    },
+    {
+      "key": "EP08_S0149_0022",
+      "value": "(They’ve done so much for me, I’d hate to\njust abandon them.)"
+    },
+    {
+      "key": "EP08_S0149_0023",
+      "value": "(But...am I really up to taking on something\nthat could mean the end of the world?)   "
+    },
+    {
+      "key": "EP08_S0149_0024",
+      "value": "(Besides, I never asked to go to that other\nworld. I got dragged in without a choice.)"
+    },
+    {
+      "key": "EP08_S0149_0025",
+      "value": "(And now that I’m finally free of that awful\ndeath trap, I’m supposed to go back?)"
+    },
+    {
+      "key": "EP08_S0149_0026",
+      "value": "(For all I know, that could cost me my life.\nI don’t know if I’m prepared for that.)"
+    },
+    {
+      "key": "EP08_S0149_0027",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP08_S0149_0028",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP08_S0149_0029",
+      "value": "(That’s right. If I gave up now...I’d also be\ngiving up on Agumon.)"
+    },
+    {
+      "key": "EP08_S0149_0030",
+      "value": "(And that’s definitely not something I want\nto do.)"
+    },
+    {
+      "key": "EP08_S0149_0031",
+      "value": "(He... He means so much to me...)"
+    },
+    {
+      "key": "EP08_S0149_Q1",
+      "value": "(But given all that, what do I want to do?)"
+    },
+    {
+      "key": "EP08_S0149_Q1_A1",
+      "value": "Save the world."
+    },
+    {
+      "key": "EP08_S0149_Q1_A2",
+      "value": "Stay with Agumon."
+    },
+    {
+      "key": "EP08_S0149_Q1_A3",
+      "value": "Be true to my friends."
+    },
+    {
+      "key": "EP08_S0149_Q1_A4",
+      "value": "Never go back."
+    },
+    {
+      "key": "EP08_S0149_0032",
+      "value": "Save the world."
+    },
+    {
+      "key": "EP08_S0149_0033",
+      "value": "I...want to help save the world, too."
+    },
+    {
+      "key": "EP08_S0149_0034",
+      "value": "(To be honest, I don’t know if I’m up to it.\nPart of me doesn’t want to deal with it.)"
+    },
+    {
+      "key": "EP08_S0149_0035",
+      "value": "(But after all I’ve been through, I can’t\njust pretend like it’s not my problem!)"
+    },
+    {
+      "key": "EP08_S0149_0036",
+      "value": "I’m not about to leave things like this!"
+    },
+    {
+      "key": "EP08_S0149_0037",
+      "value": "I knew you’d say that, Takuma! Does that mean\nyou’ll go fight the Master with us?!"
+    },
+    {
+      "key": "EP08_S0149_0038",
+      "value": "You better believe it! Now let’s go back and\nfight, with all our friends at our side!"
+    },
+    {
+      "key": "EP08_S0149_0039",
+      "value": "As long as we stick together, we’ve got\nnothing to fear!"
+    },
+    {
+      "key": "EP08_S0149_0040",
+      "value": "So I’m gonna help you, Miyuki!"
+    },
+    {
+      "key": "EP08_S0149_0041",
+      "value": "I’m glad to hear it. Thanks, Takuma."
+    },
+    {
+      "key": "EP08_S0149_0042",
+      "value": "Together, I just know we’ll find a way to\nprotect both worlds!"
+    },
+    {
+      "key": "EP08_S0149_0043",
+      "value": "Stay with Agumon."
+    },
+    {
+      "key": "EP08_S0149_0044",
+      "value": "Honestly...I’m scared. I’m not sure I have\nwhat it takes to save the world."
+    },
+    {
+      "key": "EP08_S0149_0045",
+      "value": "Takuma?!"
+    },
+    {
+      "key": "EP08_S0149_0046",
+      "value": "But despite that, I’m still going to go back."
+    },
+    {
+      "key": "EP08_S0149_0047",
+      "value": "Because here’s the thing. I could never turn\nmy back on you, Agumon."
+    },
+    {
+      "key": "EP08_S0149_0048",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP08_S0149_0049",
+      "value": "You mean...you’re doing this for me?"
+    },
+    {
+      "key": "EP08_S0149_0050",
+      "value": "That’s right, Agumon."
+    },
+    {
+      "key": "EP08_S0149_0051",
+      "value": "Maybe it’s selfish, but you know what I care\nabout more than the fate of the world?"
+    },
+    {
+      "key": "EP08_S0149_0052",
+      "value": "What happens to you, Agumon. So...I want to\nfight together, right up to the bitter end."
+    },
+    {
+      "key": "EP08_S0149_0053",
+      "value": "Is it...wrong of me to think that?"
+    },
+    {
+      "key": "EP08_S0149_0054",
+      "value": "Not at all! You just made me so, so happy,\nTakuma!"
+    },
+    {
+      "key": "EP08_S0149_0055",
+      "value": "Because I care about you more than anything\ntoo! So I’ll keep you safe, right to the end!"
+    },
+    {
+      "key": "EP08_S0149_0056",
+      "value": "Thanks, Agumon."
+    },
+    {
+      "key": "EP08_S0149_0057",
+      "value": "I think I feel the same way, actually. I want\nto save my partner, who did so much for me.  "
+    },
+    {
+      "key": "EP08_S0149_0058",
+      "value": "What?"
+    },
+    {
+      "key": "EP08_S0149_0059",
+      "value": "Oh, nothing!"
+    },
+    {
+      "key": "EP08_S0149_0060",
+      "value": "Let’s all fight side by side. Not to save the\nworld, but to save the ones we care about!"
+    },
+    {
+      "key": "EP08_S0149_0061",
+      "value": "Yeah! I’ve made up my mind too, Miyuki! I’m\ngoing to help you!"
+    },
+    {
+      "key": "EP08_S0149_0062",
+      "value": "Be true to my friends."
+    },
+    {
+      "key": "EP08_S0149_0063",
+      "value": "You know, I’ve been trying to figure out what\nto do..."
+    },
+    {
+      "key": "EP08_S0149_0064",
+      "value": "(I can’t leave my friends, who fought by my\nside, stuck in that other world.)"
+    },
+    {
+      "key": "EP08_S0149_0065",
+      "value": "(Not while I’m here safe and sound. That just\nwouldn’t be right.)"
+    },
+    {
+      "key": "EP08_S0149_0066",
+      "value": "And I’ve decided I can’t turn my back on my\nfriends!"
+    },
+    {
+      "key": "EP08_S0149_0067",
+      "value": "Oh, Takuma! Does that mean you’ll go back?!"
+    },
+    {
+      "key": "EP08_S0149_0068",
+      "value": "Every time we’ve been in a dangerous\nsituation, our friends were there to help."
+    },
+    {
+      "key": "EP08_S0149_0069",
+      "value": "If our friends are in danger this time, that\njust means it’s our turn to help them out!"
+    },
+    {
+      "key": "EP08_S0149_0070",
+      "value": "So we need to go back to that world, back to\nour friends, and defeat the Master!"
+    },
+    {
+      "key": "EP08_S0149_0071",
+      "value": "Yes... Yes, you’re right. Thanks, Takuma!"
+    },
+    {
+      "key": "EP08_S0149_0072",
+      "value": "That’s just how I feel. You’ve all helped me\nso much."
+    },
+    {
+      "key": "EP08_S0149_0073",
+      "value": "This time, I want to return the favor by\nfighting at your side!"
+    },
+    {
+      "key": "EP08_S0149_0074",
+      "value": "So that we can save the others, and protect\nmy little brother!"
+    },
+    {
+      "key": "EP08_S0149_0075",
+      "value": "Right! And I’ll do whatever I can to help!"
+    },
+    {
+      "key": "EP08_S0149_0076",
+      "value": "Never go back."
+    },
+    {
+      "key": "EP08_S0149_0077",
+      "value": "I... I can’t help you."
+    },
+    {
+      "key": "EP08_S0149_0078",
+      "value": "Hm?"
+    },
+    {
+      "key": "EP08_S0149_0079",
+      "value": "I’m not going back to that other world...\nNot ever."
+    },
+    {
+      "key": "EP08_S0149_0080",
+      "value": "T-Takuma? Why would you say that?!"
+    },
+    {
+      "key": "EP08_S0149_0081",
+      "value": "Why wouldn’t I?!"
+    },
+    {
+      "key": "EP08_S0149_0082",
+      "value": "I... I can’t take this anymore!"
+    },
+    {
+      "key": "EP08_S0149_0083",
+      "value": "Ever since getting dragged into that world,\nI have struggled and I have fought!"
+    },
+    {
+      "key": "EP08_S0149_0084",
+      "value": "And do you know why? All so I could go home!\nAnd now you want me to go back?!"
+    },
+    {
+      "key": "EP08_S0149_0085",
+      "value": "But Takuma, don’t you think everyone feels\nthat way? That’s why we need your help!"
+    },
+    {
+      "key": "EP08_S0149_0086",
+      "value": "Well, sorry, but I can’t! I’m just not strong\nenough!"
+    },
+    {
+      "key": "EP08_S0149_0087",
+      "value": "Takuma, how can you say that?! You can help!\nYou’re not weak!"
+    },
+    {
+      "key": "EP08_S0149_0088",
+      "value": "I’ve been with you through everything, so\nI know that better than anyone!"
+    },
+    {
+      "key": "EP08_S0149_0089",
+      "value": "Haven’t we always fought together, side by\nside? You’ve kept me going so many times!"
+    },
+    {
+      "key": "EP08_S0149_0090",
+      "value": "No, Agumon. You’re just stronger than you\nthink. I didn’t do anything."
+    },
+    {
+      "key": "EP08_S0149_0091",
+      "value": "But you did! Where do you think all that\nstrength came from? It was from you!"
+    },
+    {
+      "key": "EP08_S0149_0092",
+      "value": "That’s right! Agumon’s strength comes from\nthe bond he shares with you!"
+    },
+    {
+      "key": "EP08_S0149_0093",
+      "value": "It’s the strength in your heart that gives\nhim the power he needs!"
+    },
+    {
+      "key": "EP08_S0149_0094",
+      "value": "Well, I don’t know about that..."
+    },
+    {
+      "key": "EP08_S0149_0095",
+      "value": "(Hm? Did I just get a message? What a weird\ntime for my phone to go off.)"
+    },
+    {
+      "key": "EP08_S0149_0096",
+      "value": "(It’s funny, I forgot I even had my cell\nphone. Who could that be from?)"
+    },
+    {
+      "key": "EP08_S0149_0097",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP08_S0149_0098",
+      "value": "Takuma?"
+    },
+    {
+      "key": "EP08_S0149_0099",
+      "value": "(It’s a message from my mom.)"
+    },
+    {
+      "key": "EP08_S0149_0100",
+      "value": "(Just seeing that, seeing the letters “M-o-m”\non the screen, my vision starts to blur.)"
+    },
+    {
+      "key": "EP08_S0149_0101",
+      "value": "“Are you okay? I heard there was a landslide,\nand I’m worried. Could you get in touch?”   "
+    },
+    {
+      "key": "EP08_S0149_0102",
+      "value": "(I don’t know how I never noticed, but now\nI can see message after message from my mom.)"
+    },
+    {
+      "key": "EP08_S0149_0103",
+      "value": "I... I miss my mom... I miss her so much..."
+    },
+    {
+      "key": "EP08_S0149_0104",
+      "value": "(Just picturing her face makes me somehow\nfeel safe, but also lonely at the same time.)"
+    },
+    {
+      "key": "EP08_S0149_0105",
+      "value": "Miyuki, Agumon, I’m sorry. I really am."
+    },
+    {
+      "key": "EP08_S0149_0106",
+      "value": "But...I just want to go home to my mom.\nSo, please...leave me alone, okay?"
+    }
+  ]
+}

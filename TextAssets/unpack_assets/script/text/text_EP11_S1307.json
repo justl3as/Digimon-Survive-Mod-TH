@@ -1,0 +1,320 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S1307_0001",
+      "value": "We made it to the shrine interior without\nrunning into Puppetmon or his minions..."
+    },
+    {
+      "key": "EP11_S1307_0002",
+      "value": "Is our destination truly up ahead? I admit\nI have my doubts..."
+    },
+    {
+      "key": "EP11_S1307_0003",
+      "value": "The path to the lowest level is through here."
+    },
+    {
+      "key": "EP11_S1307_0004",
+      "value": "Yo, this door ain’t budging an inch!"
+    },
+    {
+      "key": "EP11_S1307_0005",
+      "value": "Hmm... Should we break it down?"
+    },
+    {
+      "key": "EP11_S1307_0006",
+      "value": "I wouldn’t, if I were you. The enemy will be\nupon us in mere moments."
+    },
+    {
+      "key": "EP11_S1307_0007",
+      "value": "Besides, I bet smashing this thing’s easier\nsaid than done."
+    },
+    {
+      "key": "EP11_S1307_0008",
+      "value": "Huh, you think?"
+    },
+    {
+      "key": "EP11_S1307_0009",
+      "value": "After all the weird things we’ve seen? Maybe\nit’s sealed with a special power..."
+    },
+    {
+      "key": "EP11_S1307_0010",
+      "value": "She’s right. The Master’s past here, so\na barrier like that makes sense."
+    },
+    {
+      "key": "EP11_S1307_0011",
+      "value": "Then how’re we supposed to open it? Some\nmagic words? Or maybe a key?"
+    },
+    {
+      "key": "EP11_S1307_0012",
+      "value": "I don’t see any hole for a key or nothing."
+    },
+    {
+      "key": "EP11_S1307_0013",
+      "value": "How do we get inside, Renamon?"
+    },
+    {
+      "key": "EP11_S1307_0014",
+      "value": "In the past, I used to go in with the\nMaster’s underlings..."
+    },
+    {
+      "key": "EP11_S1307_0015",
+      "value": "Oh, one of them pressed an object to the\ndoor. A Magatama, I think."
+    },
+    {
+      "key": "EP11_S1307_0016",
+      "value": "I see. A Magatama, then? It seems that is the\nkey to this door."
+    },
+    {
+      "key": "EP11_S1307_0017",
+      "value": "How do you know that?"
+    },
+    {
+      "key": "EP11_S1307_0018",
+      "value": "Magatamas are beads with mysterious power,\nused as wards or talismans in ancient times."
+    },
+    {
+      "key": "EP11_S1307_0019",
+      "value": "Then we just have to look for this magma-\ntummy thing!"
+    },
+    {
+      "key": "EP11_S1307_0020",
+      "value": "Fine, but...how do we do that?"
+    },
+    {
+      "key": "EP11_S1307_0021",
+      "value": "I bet Puppetmon’s minions have it. We should\nlook for them."
+    },
+    {
+      "key": "EP11_S1307_0022",
+      "value": "After all the effort we went through to sneak\nin here, now we gotta seek them out?!"
+    },
+    {
+      "key": "EP11_S1307_0023",
+      "value": "An absurd state of affairs, but here we find\nourselves."
+    },
+    {
+      "key": "EP11_S1307_0024",
+      "value": "We can’t go forward without snatching that\nMagatama out of the enemy’s mitts."
+    },
+    {
+      "key": "EP11_S1307_0025",
+      "value": "Oh no... So we have to steal it..."
+    },
+    {
+      "key": "EP11_S1307_0026",
+      "value": "Is there any way we can get them to hand it\nover?"
+    },
+    {
+      "key": "EP11_S1307_0027",
+      "value": "I understand how you feel, Aoi, but nothing\nwe can say will change their minds."
+    },
+    {
+      "key": "EP11_S1307_0028",
+      "value": "They hate all of us as much as they hate\nGabumon here."
+    },
+    {
+      "key": "EP11_S1307_0029",
+      "value": "But... The Master’s just tricking Puppetmon,\nisn’t he?"
+    },
+    {
+      "key": "EP11_S1307_0030",
+      "value": "Hmm... Why don’t we see if there’s another\nMagatama around here somewhere?"
+    },
+    {
+      "key": "EP11_S1307_0031",
+      "value": "Sorry, I’m afraid that’s nigh-impossible.\nI’ve walked around the shrine many times..."
+    },
+    {
+      "key": "EP11_S1307_0032",
+      "value": "Not once did I spot an item to that effect."
+    },
+    {
+      "key": "EP11_S1307_0033",
+      "value": "Whaaat?! Then what the heck should we do?"
+    },
+    {
+      "key": "EP11_S1307_0034",
+      "value": "(The Magatama is a must if we’re gonna open\nthis door.)"
+    },
+    {
+      "key": "EP11_S1307_0035",
+      "value": "(As things stand, stealing it from\nPuppetmon’s crew is our best bet...)"
+    },
+    {
+      "key": "EP11_S1307_0036",
+      "value": "(But the ones we’d be fighting are just being\ntricked by the Master, like they said.)"
+    },
+    {
+      "key": "EP11_S1307_0037",
+      "value": "(And yet, I can’t imagine any way we could\npersuade those guys...)"
+    },
+    {
+      "key": "EP11_S1307_0038",
+      "value": "(Saki mentioned looking for another Magatama.\nIs that even possible? I highly doubt it...)"
+    },
+    {
+      "key": "EP11_S1307_Q1",
+      "value": "(To open this door, we should...)"
+    },
+    {
+      "key": "EP11_S1307_Q1_A1",
+      "value": "Talk to Puppetmon."
+    },
+    {
+      "key": "EP11_S1307_Q1_A2",
+      "value": "Steal from Puppetmon."
+    },
+    {
+      "key": "EP11_S1307_Q1_A3",
+      "value": "Find another Magatama."
+    },
+    {
+      "key": "EP11_S1307_0039",
+      "value": "Talk to Puppetmon."
+    },
+    {
+      "key": "EP11_S1307_0040",
+      "value": "They may be our enemy, but the fact is\nthey’re also victims of the Master’s lies."
+    },
+    {
+      "key": "EP11_S1307_0041",
+      "value": "Why don’t we search them out, and try to talk\nthem into handing over the Magatama?"
+    },
+    {
+      "key": "EP11_S1307_0042",
+      "value": "There’s no chance they’ll hear us out. Did\nyou forget the last battle?"
+    },
+    {
+      "key": "EP11_S1307_0043",
+      "value": "Gabumon’s right. Their blind faith in the\nMaster is unshakable."
+    },
+    {
+      "key": "EP11_S1307_0044",
+      "value": "I doubt we can avoid a fight."
+    },
+    {
+      "key": "EP11_S1307_0045",
+      "value": "Guess there’s no choice... We gotta steal it."
+    },
+    {
+      "key": "EP11_S1307_0046",
+      "value": "Man... All right, if you say so."
+    },
+    {
+      "key": "EP11_S1307_0047",
+      "value": "Steal from Puppetmon."
+    },
+    {
+      "key": "EP11_S1307_0048",
+      "value": "If Puppetmon’s group has the Magatama, we\nshould track them down and take it."
+    },
+    {
+      "key": "EP11_S1307_0049",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP11_S1307_0050",
+      "value": "Is there really no other way?"
+    },
+    {
+      "key": "EP11_S1307_0051",
+      "value": "Unfortunately not. Those guys hold a huge\ngrudge against us..."
+    },
+    {
+      "key": "EP11_S1307_0052",
+      "value": "Yeah... They didn’t have ears to listen to\nus—or ear holes, anyway."
+    },
+    {
+      "key": "EP11_S1307_0053",
+      "value": "Exactly. I think this is the best option."
+    },
+    {
+      "key": "EP11_S1307_0054",
+      "value": "If we find Puppetmon, there’ll be a fight\neither way... We’d better be ready."
+    },
+    {
+      "key": "EP11_S1307_0055",
+      "value": "Yes... I guess this is inevitable. And this\nis all to rescue Miyuki..."
+    },
+    {
+      "key": "EP11_S1307_0056",
+      "value": "I understand... I won’t run from this. I’ll\nfight, too!"
+    },
+    {
+      "key": "EP11_S1307_0057",
+      "value": "Find another Magatama."
+    },
+    {
+      "key": "EP11_S1307_0058",
+      "value": "This is a long shot, but... Should we see if\nthere’s another Magatama somewhere?"
+    },
+    {
+      "key": "EP11_S1307_0059",
+      "value": "Is your head screwed on properly, my boy?"
+    },
+    {
+      "key": "EP11_S1307_0060",
+      "value": "The professor just said he ain’t ever seen\nanother one around here, didn’t he?"
+    },
+    {
+      "key": "EP11_S1307_0061",
+      "value": "Ugh... Yeah, so he did..."
+    },
+    {
+      "key": "EP11_S1307_0062",
+      "value": "I’m sorry to reject your proposal so readily,\nTakuma..."
+    },
+    {
+      "key": "EP11_S1307_0063",
+      "value": "But Magatamas are not natural formations.\nUnless the enemy drops one, we won’t find it."
+    },
+    {
+      "key": "EP11_S1307_0064",
+      "value": "And I hardly expect them to just oopsie-\ndaisy something so important onto the ground."
+    },
+    {
+      "key": "EP11_S1307_0065",
+      "value": "In other words... Finding a dropped Magatama\naround here is next to impossible."
+    },
+    {
+      "key": "EP11_S1307_0066",
+      "value": "(Man... Everyone’s ganging up on me...)"
+    },
+    {
+      "key": "EP11_S1307_0067",
+      "value": "Sorry. I just suggested it without thinking.\nWe really need to look for Puppetmon."
+    },
+    {
+      "key": "EP11_S1307_0068",
+      "value": "Yeah, that’s probably a good bet."
+    },
+    {
+      "key": "EP11_S1307_0069",
+      "value": "Got it. Let’s all look for Puppetmon."
+    },
+    {
+      "key": "EP11_S1307_0070",
+      "value": "Okay, if we’re all done talking, let’s track\ndown Puppetmon and the others!"
+    },
+    {
+      "key": "EP11_S1307_0071",
+      "value": "They must be lurking around this shrine\nsomewhere."
+    },
+    {
+      "key": "EP11_S1307_0072",
+      "value": "We just gotta find the hidden enemy! We’ve\ndone that tons of times already!"
+    },
+    {
+      "key": "EP11_S1307_0073",
+      "value": "Isn’t that right, Takuma!"
+    },
+    {
+      "key": "EP11_S1307_0074",
+      "value": "Yeah! I’m counting on you, Agumon!"
+    },
+    {
+      "key": "EP11_S1307_0075",
+      "value": "Let’s go, guys!"
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0115_0001",
+      "value": "Well, things were touch and go for a while\nthere, but thanks to you, we’re saved."
+    },
+    {
+      "key": "EP04_S0115_0002",
+      "value": "It’s been quite eventful since Her Rowdiness\narrived, but you protected this place well."
+    },
+    {
+      "key": "EP04_S0115_0003",
+      "value": "Thank you for that, human children, and our\ngood queen."
+    },
+    {
+      "key": "EP04_S0115_0004",
+      "value": "I’m...not really a queen."
+    },
+    {
+      "key": "EP04_S0115_0005",
+      "value": "Just call me Miu."
+    },
+    {
+      "key": "EP04_S0115_0006",
+      "value": "Oh ho! Then will you be leaving here to\ntravel with your brother and his companions?"
+    },
+    {
+      "key": "EP04_S0115_0007",
+      "value": "Yeah. Is that okay, Kaito?"
+    },
+    {
+      "key": "EP04_S0115_0008",
+      "value": "It’s more than okay. I’m glad to have you\nback, Miu."
+    },
+    {
+      "key": "EP04_S0115_0009",
+      "value": "And obviously, I will be going with Miu as\nwell."
+    },
+    {
+      "key": "EP04_S0115_0010",
+      "value": "Of course! Even if I’m done being queen, I’ll\nnever be done with you, Syakomon."
+    },
+    {
+      "key": "EP04_S0115_0011",
+      "value": "Heheh, isn’t this great, Kaito?"
+    },
+    {
+      "key": "EP04_S0115_0012",
+      "value": "Practically all you’ve ever talked about is\nhow worried you were about Miu."
+    },
+    {
+      "key": "EP04_S0115_0013",
+      "value": "Well, I am her brother. What do you expect?"
+    },
+    {
+      "key": "EP04_S0115_0014",
+      "value": "I really am glad we were able to rescue Miu."
+    },
+    {
+      "key": "EP04_S0115_0015",
+      "value": "Guess that takes care of that. Ready to go\nback, everyone?"
+    },
+    {
+      "key": "EP04_S0115_0016",
+      "value": "Go back...where?"
+    },
+    {
+      "key": "EP04_S0115_0017",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP04_S0115_0018",
+      "value": "Back to the school...right? It’s the closest\nthing we have to a home here."
+    },
+    {
+      "key": "EP04_S0115_0019",
+      "value": "That’s...right."
+    },
+    {
+      "key": "EP04_S0115_0020",
+      "value": "(A sobering moment for everyone.)"
+    },
+    {
+      "key": "EP04_S0115_0021",
+      "value": "(When I said we should go back, I only meant\nwe should return to the school.)"
+    },
+    {
+      "key": "EP04_S0115_0022",
+      "value": "(But it wound up being a reminder that we\nstill can’t go back where we really belong.)"
+    },
+    {
+      "key": "EP04_S0115_0023",
+      "value": "Why’s everyone look so sad all of a sudden?"
+    },
+    {
+      "key": "EP04_S0115_0024",
+      "value": "They can’t help it. Aoi and her friends want\nto go back to their real homes."
+    },
+    {
+      "key": "EP04_S0115_0025",
+      "value": "Well, it would seem you all long to return to\nthe world from which you originally came."
+    },
+    {
+      "key": "EP04_S0115_0026",
+      "value": "Of course we do! I mean, maybe my life wasn’t\nperfect, but...even I want to go back."
+    },
+    {
+      "key": "EP04_S0115_0027",
+      "value": "But...but how can we?"
+    },
+    {
+      "key": "EP04_S0115_0028",
+      "value": "Saki, please don’t look so sad..."
+    },
+    {
+      "key": "EP04_S0115_0029",
+      "value": "I’m sorry, Floramon, it’s just... I can’t\nhelp it when it comes to this."
+    },
+    {
+      "key": "EP04_S0115_0030",
+      "value": "Since ancient times, children from the human\nworld have sometimes found themselves here."
+    },
+    {
+      "key": "EP04_S0115_0031",
+      "value": "Apparently, upon certain occasions, the\nborder between our two worlds grows thin."
+    },
+    {
+      "key": "EP04_S0115_0032",
+      "value": "Uh... What’s that supposed to mean?"
+    },
+    {
+      "key": "EP04_S0115_0033",
+      "value": "Is it like a door that normally stays shut\noccasionally swings open?"
+    },
+    {
+      "key": "EP04_S0115_0034",
+      "value": "Yes, I suppose that might be another way of\nputting it."
+    },
+    {
+      "key": "EP04_S0115_0035",
+      "value": "So you think we may have wandered into this\nworld while the border was thin?"
+    },
+    {
+      "key": "EP04_S0115_0036",
+      "value": "Well, we may not have simply wandered in.\nWe may have been brought here."
+    },
+    {
+      "key": "EP04_S0115_0037",
+      "value": "What?! But who would bring us here? And how?"
+    },
+    {
+      "key": "EP04_S0115_0038",
+      "value": "You mean Saki and her friends were kidnapped\naway from their world?"
+    },
+    {
+      "key": "EP04_S0115_0039",
+      "value": "I don’t know. I don’t exactly remember being\ndragged here."
+    },
+    {
+      "key": "EP04_S0115_0040",
+      "value": "Maybe it wasn’t anything physical. Maybe we\ngot drawn in, or something."
+    },
+    {
+      "key": "EP04_S0115_0041",
+      "value": "That could be it. After all, this world is\nnothing like our own."
+    },
+    {
+      "key": "EP04_S0115_0042",
+      "value": "Yeah, it’s got weird fog that can swallow you\nup, and monster hands that come out of it."
+    },
+    {
+      "key": "EP04_S0115_0043",
+      "value": "Haru, Miyuki, what about you two? Do you\nremember anything about how you got here?"
+    },
+    {
+      "key": "EP04_S0115_0044",
+      "value": "No... Not a thing."
+    },
+    {
+      "key": "EP04_S0115_0045",
+      "value": "Not a thing..."
+    },
+    {
+      "key": "EP04_S0115_0046",
+      "value": "Oh. Okay, then."
+    },
+    {
+      "key": "EP04_S0115_0047",
+      "value": "I guess all we can say for sure is that other\nchildren have come here before, like us."
+    },
+    {
+      "key": "EP04_S0115_0048",
+      "value": "Based on what Jijimon told us, yes."
+    },
+    {
+      "key": "EP04_S0115_0049",
+      "value": "From what the professor said, if this is the\nworld from the legends of the Kemonogami..."
+    },
+    {
+      "key": "EP04_S0115_0050",
+      "value": "...then lots of human children may have come\nhere over the years."
+    },
+    {
+      "key": "EP04_S0115_0051",
+      "value": "So what happened to those children? Where’d\nthey go?"
+    },
+    {
+      "key": "EP04_S0115_0052",
+      "value": "I’d never seen any humans before you and your\nfriends showed up, Takuma."
+    },
+    {
+      "key": "EP04_S0115_0053",
+      "value": "Yeah... Me either."
+    },
+    {
+      "key": "EP04_S0115_0054",
+      "value": "But haven’t we heard some monsters mention\noffering human children as sacrifices?"
+    },
+    {
+      "key": "EP04_S0115_0055",
+      "value": "I doubt that was just a wild guess or\nsomething."
+    },
+    {
+      "key": "EP04_S0115_0056",
+      "value": "So has this kind of thing been happening for\na long time?"
+    },
+    {
+      "key": "EP04_S0115_0057",
+      "value": "Ugh... That’d be awful!"
+    },
+    {
+      "key": "EP04_S0115_0058",
+      "value": "Indeed. Those who kidnap children have been\naround for longer than I can remember."
+    },
+    {
+      "key": "EP04_S0115_0059",
+      "value": "So you’re saying human children have been\ncoming here since the distant past..."
+    },
+    {
+      "key": "EP04_S0115_0060",
+      "value": "...only to be offered up as sacrifices by\nthose things?"
+    },
+    {
+      "key": "EP04_S0115_0061",
+      "value": "As I understand it, they seek a way to save\nour world from the fog that is consuming it."
+    },
+    {
+      "key": "EP04_S0115_0062",
+      "value": "In truth, every time those hands, which we\ncall the Kenzoku, take in a human child..."
+    },
+    {
+      "key": "EP04_S0115_0063",
+      "value": "...the fog lifts, the destruction ceases, and\nthe spaces swallowed up by the void return."
+    },
+    {
+      "key": "EP04_S0115_0064",
+      "value": "Uh... What are you all talking about? Human\nsacrifices? A fog that swallows things up?"
+    },
+    {
+      "key": "EP04_S0115_0065",
+      "value": "Right, I forgot. You still don’t know about\nthe fog."
+    },
+    {
+      "key": "EP04_S0115_0066",
+      "value": "So, what is it exactly?"
+    },
+    {
+      "key": "EP04_S0115_0067",
+      "value": "Nothing you need to worry—"
+    },
+    {
+      "key": "EP04_S0115_0068",
+      "value": "It is way scarier not really knowing what\nyou’re talking about! So just tell me!"
+    },
+    {
+      "key": "EP04_S0115_0069",
+      "value": "She has a point, Kaito. I think we should\ntell her what we can."
+    },
+    {
+      "key": "EP04_S0115_0070",
+      "value": "Fine. But it’s not like we know that much\nourselves."
+    },
+    {
+      "key": "EP04_S0115_0071",
+      "value": "All we know is if you get swallowed up by it,\nyou’re gone."
+    },
+    {
+      "key": "EP04_S0115_0072",
+      "value": "Gone? What do you mean gone?! Like, you die?"
+    },
+    {
+      "key": "EP04_S0115_0073",
+      "value": "Why?! That doesn’t make any sense!"
+    },
+    {
+      "key": "EP04_S0115_0074",
+      "value": "This is what we’ve been trying to tell you.\nThis world is a very dangerous place."
+    },
+    {
+      "key": "EP04_S0115_0075",
+      "value": "I...\nI didn’t know about anything like that..."
+    },
+    {
+      "key": "EP04_S0115_0076",
+      "value": "All we know is if the fog swallows you, or\na monster hand grabs you, you’re gone."
+    },
+    {
+      "key": "EP04_S0115_0077",
+      "value": "Gone? What do you mean gone?! Like, you die?"
+    },
+    {
+      "key": "EP04_S0115_0078",
+      "value": "Why?! That doesn’t make any sense!"
+    },
+    {
+      "key": "EP04_S0115_0079",
+      "value": "This is what we’ve been trying to tell you!\nThis world’s really dangerous."
+    },
+    {
+      "key": "EP04_S0115_0080",
+      "value": "I...\nI didn’t know about anything like that..."
+    },
+    {
+      "key": "EP04_S0115_0081",
+      "value": "(Miu looks completely horrified. Not that\nI blame her, having just learned about this.)"
+    },
+    {
+      "key": "EP04_S0115_0082",
+      "value": "(Honestly, I’m not sure I’m over it either.)"
+    },
+    {
+      "key": "EP04_S0115_0083",
+      "value": "(I remember the dark arms reaching for Ryo.\nCountless kids got grabbed by those things?)"
+    },
+    {
+      "key": "EP04_S0115_0084",
+      "value": "Why? What’s wrong with this place?! I don’t\nget it. They offer up children, and...what?"
+    },
+    {
+      "key": "EP04_S0115_0085",
+      "value": "I’m afraid I can offer you no explanation.\nYou might say it’s the work of our god."
+    },
+    {
+      "key": "EP04_S0115_0086",
+      "value": "However, there are of course many who object\nto such methods!"
+    },
+    {
+      "key": "EP04_S0115_0087",
+      "value": "Take myself, for instance, or any here in the\npark. Surely your partners feel similarly."
+    },
+    {
+      "key": "EP04_S0115_0088",
+      "value": "You better believe it! I’m not about to let\nthose losers get their hands on Takuma!"
+    },
+    {
+      "key": "EP04_S0115_0089",
+      "value": "I feel the same way about Aoi!"
+    },
+    {
+      "key": "EP04_S0115_0090",
+      "value": "And that’s how I feel about Kaito!"
+    },
+    {
+      "key": "EP04_S0115_0091",
+      "value": "But what you’re saying is... All the kids who\nwandered in here before..."
+    },
+    {
+      "key": "EP04_S0115_0092",
+      "value": "I can’t imagine any of them survived. Were\nthey all offered as sacrifices?"
+    },
+    {
+      "key": "EP04_S0115_0093",
+      "value": "As to that, I could not say."
+    },
+    {
+      "key": "EP04_S0115_0094",
+      "value": "Human children do not appear often. Some are\noffered as sacrifices, others just vanish..."
+    },
+    {
+      "key": "EP04_S0115_0095",
+      "value": "They...vanish?"
+    },
+    {
+      "key": "EP04_S0115_0096",
+      "value": "I hear in the past there were those who could\ncross between dimensions at will."
+    },
+    {
+      "key": "EP04_S0115_0097",
+      "value": "Is that true?!"
+    },
+    {
+      "key": "EP04_S0115_0098",
+      "value": "I’m telling you, I don’t know any specifics.\nI’ve never left the bounds of this world."
+    },
+    {
+      "key": "EP04_S0115_0099",
+      "value": "But, yeah, that makes sense!"
+    },
+    {
+      "key": "EP04_S0115_0100",
+      "value": "If the legends still exist in our world,\nthere must be kids who made it back, right?"
+    },
+    {
+      "key": "EP04_S0115_0101",
+      "value": "Oh, yeah!"
+    },
+    {
+      "key": "EP04_S0115_0102",
+      "value": "You’re right. Some kids may have made it back\nto our world. Maybe even some monsters, too."
+    },
+    {
+      "key": "EP04_S0115_0103",
+      "value": "If you think about the fact that legends of\nthe Kemonogami exist, that makes sense!"
+    },
+    {
+      "key": "EP04_S0115_0104",
+      "value": "In other words, depending on what happens,\nI could go to your world, Minoru?"
+    },
+    {
+      "key": "EP04_S0115_0105",
+      "value": "Hey, that sounds fun! I want to see what your\nworld is like, Saki!"
+    },
+    {
+      "key": "EP04_S0115_0106",
+      "value": "So...there may be a way back after all?!"
+    },
+    {
+      "key": "EP04_S0115_0107",
+      "value": "Indeed. In fact, I might even recall\nsomething that may help you."
+    },
+    {
+      "key": "EP04_S0115_0108",
+      "value": "This is something I once heard from a friend."
+    },
+    {
+      "key": "EP04_S0115_0109",
+      "value": "There’s a technique some humans know that can\nthin the boundary between worlds."
+    },
+    {
+      "key": "EP04_S0115_0110",
+      "value": "Using this technique, some children were able\nto return to the human world."
+    },
+    {
+      "key": "EP04_S0115_0111",
+      "value": "My friend who told me this saw the opening of\nthe door between worlds with his own eyes."
+    },
+    {
+      "key": "EP04_S0115_0112",
+      "value": "And they weren’t just taken in by something\nlike those strange ghostly hands?"
+    },
+    {
+      "key": "EP04_S0115_0113",
+      "value": "Indeed. Apparently this was something quite\ndifferent."
+    },
+    {
+      "key": "EP04_S0115_0114",
+      "value": "But how would this friend of yours know the\ndifference?"
+    },
+    {
+      "key": "EP04_S0115_0115",
+      "value": "Those who strengthened their bonds apparently\ngained a shared “sense” with their humans."
+    },
+    {
+      "key": "EP04_S0115_0116",
+      "value": "They knew where their partner was, how they\nwere feeling, and whether they still lived."
+    },
+    {
+      "key": "EP04_S0115_0117",
+      "value": "So they could sense that their friends were\nalive and well on the other side of the door."
+    },
+    {
+      "key": "EP04_S0115_0118",
+      "value": "Though apparently this sense did not continue\nforever."
+    },
+    {
+      "key": "EP04_S0115_0119",
+      "value": "So...this friend of yours didn’t stay with\nthe human child they bonded with?"
+    },
+    {
+      "key": "EP04_S0115_0120",
+      "value": "Sounds like they didn’t."
+    },
+    {
+      "key": "EP04_S0115_0121",
+      "value": "I wouldn’t want to be separated from Takuma\nlike that."
+    },
+    {
+      "key": "EP04_S0115_0122",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP04_S0115_0123",
+      "value": "Oh, not that I’m saying I don’t want Takuma\nto go home!"
+    },
+    {
+      "key": "EP04_S0115_0124",
+      "value": "If there is a way back, I want to go with\nTakuma to his world."
+    },
+    {
+      "key": "EP04_S0115_0125",
+      "value": "Yeah. I’d like it if we could go back\ntogether."
+    },
+    {
+      "key": "EP04_S0115_0126",
+      "value": "Well, in any case, that is the extent of my\nknowledge on the subject."
+    },
+    {
+      "key": "EP04_S0115_0127",
+      "value": "So, you’re saying that maybe, just maybe..."
+    },
+    {
+      "key": "EP04_S0115_0128",
+      "value": "...there’s a chance we’ll be able to go\nback?! Oh, what a relief!"
+    },
+    {
+      "key": "EP04_S0115_0129",
+      "value": "Yeah, man, this is great news!"
+    },
+    {
+      "key": "EP04_S0115_0130",
+      "value": "Miu, did you hear that? We might be able to\ngo back!"
+    },
+    {
+      "key": "EP04_S0115_0131",
+      "value": "Yeah..."
+    },
+    {
+      "key": "EP04_S0115_0132",
+      "value": "Don’t you think that’s good news?"
+    },
+    {
+      "key": "EP04_S0115_0133",
+      "value": "I guess. But this amusement park was way more\nfun than anything back in our world."
+    },
+    {
+      "key": "EP04_S0115_0134",
+      "value": "(Sounds like Miu has some things to work out\nstill.)"
+    },
+    {
+      "key": "EP04_S0115_0135",
+      "value": "(But at least now we have hope!)"
+    },
+    {
+      "key": "EP04_S0115_0136",
+      "value": "So...we really might be able to go back."
+    },
+    {
+      "key": "EP04_S0115_0137",
+      "value": "Well, I think it’s a little early to start\ncelebrating."
+    },
+    {
+      "key": "EP04_S0115_0138",
+      "value": "Huh? What makes you say that?"
+    },
+    {
+      "key": "EP04_S0115_0139",
+      "value": "Jijimon’s explanation has been nothing but\nhearsay!"
+    },
+    {
+      "key": "EP04_S0115_0140",
+      "value": "Well, I’ve told you all I know."
+    },
+    {
+      "key": "EP04_S0115_0141",
+      "value": "So you can’t say if it’s really true, and you\ndon’t have any kind of proof, do you?"
+    },
+    {
+      "key": "EP04_S0115_0142",
+      "value": "And I find this strange connection between\na human and a monster pretty hard to believe."
+    },
+    {
+      "key": "EP04_S0115_0143",
+      "value": "Shuuji..."
+    },
+    {
+      "key": "EP04_S0115_0144",
+      "value": "(Shuuji’s inability to connect with Lopmon\nprobably has something to do with that.)"
+    },
+    {
+      "key": "EP04_S0115_0145",
+      "value": "Your points are fair. However, there is some\nevidence. Some things I’ve seen for myself."
+    },
+    {
+      "key": "EP04_S0115_0146",
+      "value": "Many times I have witnessed the strong bond\nbetween my friend and their human child."
+    },
+    {
+      "key": "EP04_S0115_0147",
+      "value": "Though it was long ago, and my memories have\nfaded. Yet had that child been sacrificed..."
+    },
+    {
+      "key": "EP04_S0115_0148",
+      "value": "My friend would not have fared well. Those\nwith such strong bonds share the same fate."
+    },
+    {
+      "key": "EP04_S0115_0149",
+      "value": "That would be awful!"
+    },
+    {
+      "key": "EP04_S0115_0150",
+      "value": "Yet my friend still lives. This in itself is\nproof that the child is alive somewhere."
+    },
+    {
+      "key": "EP04_S0115_0151",
+      "value": "I thought that might be the case. That must\nbe why Kunemon vanished along with Ryo."
+    },
+    {
+      "key": "EP04_S0115_0152",
+      "value": "You’re right. I’ve been so focused on losing\nRyo that I never really thought about it..."
+    },
+    {
+      "key": "EP04_S0115_0153",
+      "value": "...but Kunemon went with him, didn’t he?"
+    },
+    {
+      "key": "EP04_S0115_0154",
+      "value": "Yeah. Poor thing."
+    },
+    {
+      "key": "EP04_S0115_0155",
+      "value": "So you were in danger too, Kunemon."
+    },
+    {
+      "key": "EP04_S0115_0156",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP04_S0115_0157",
+      "value": "No, shut up, it bothers me!"
+    },
+    {
+      "key": "EP04_S0115_0158",
+      "value": "I’m sorry, Kunemon. I’ll never let that\nhappen again."
+    },
+    {
+      "key": "EP04_S0115_0159",
+      "value": "Kewww!"
+    },
+    {
+      "key": "EP04_S0115_0160",
+      "value": "But does this “boundary-thinning technique”\nreally even exist? I don’t believe it!"
+    },
+    {
+      "key": "EP04_S0115_0161",
+      "value": "It...does sound too good to be true."
+    },
+    {
+      "key": "EP04_S0115_0162",
+      "value": "Human children using some special technique\nto thin the boundary between worlds? How?"
+    },
+    {
+      "key": "EP04_S0115_0163",
+      "value": "That is a question for one more familiar with\nthe sacrifices and the border between worlds."
+    },
+    {
+      "key": "EP04_S0115_0164",
+      "value": "Is there even anyone like that we can ask?"
+    },
+    {
+      "key": "EP04_S0115_0165",
+      "value": "The kidnappers likely know something. They\nhave ties to the being who rules this world."
+    },
+    {
+      "key": "EP04_S0115_0166",
+      "value": "You think we should ask the kidnappers?!\nNo way!"
+    },
+    {
+      "key": "EP04_S0115_0167",
+      "value": "Wait a minute. Who’s the one who rules this\nworld?"
+    },
+    {
+      "key": "EP04_S0115_0168",
+      "value": "An individual not quite the same as our god,\nor creator."
+    },
+    {
+      "key": "EP04_S0115_0169",
+      "value": "It’s little more than legend, but supposedly\nthere is a being who rules this world."
+    },
+    {
+      "key": "EP04_S0115_0170",
+      "value": "In other words, a caretaker of all creation.\nA being who protects and rules us all."
+    },
+    {
+      "key": "EP04_S0115_0171",
+      "value": "Perhaps if you were to appeal to that being,\nyou might just get your wish."
+    },
+    {
+      "key": "EP04_S0115_0172",
+      "value": "Look, stop filling us with false hope, okay?!\nThat story’s even crazier than the last one!"
+    },
+    {
+      "key": "EP04_S0115_0173",
+      "value": "Bringing up this god or whatever doesn’t help\nus at all!"
+    },
+    {
+      "key": "EP04_S0115_0174",
+      "value": "Perhaps not. But even if you can’t speak with\nthis ruler, what about the kidnappers?"
+    },
+    {
+      "key": "EP04_S0115_0175",
+      "value": "You want us to just ask a monster like\nArukenimon or Garurumon what’s going on?!"
+    },
+    {
+      "key": "EP04_S0115_0176",
+      "value": "At the very least, they know enough to offer\na child on an altar and summon the Kenzoku."
+    },
+    {
+      "key": "EP04_S0115_0177",
+      "value": "It doesn’t matter what they know! Asking them\nabout it might as well be suicide!"
+    },
+    {
+      "key": "EP04_S0115_0178",
+      "value": "I agree. We were lucky to live through what\nwe did today."
+    },
+    {
+      "key": "EP04_S0115_0179",
+      "value": "Maybe, but...didn’t it seem like that dog\nthing, Garurumon or whatever, might tell us?"
+    },
+    {
+      "key": "EP04_S0115_0180",
+      "value": "Minoru, are you seriously considering this?"
+    },
+    {
+      "key": "EP04_S0115_0181",
+      "value": "Can you somehow have already forgotten how\nfearsome he was?"
+    },
+    {
+      "key": "EP04_S0115_0182",
+      "value": "But...didn’t that Garurumon guy basically\nignore us?"
+    },
+    {
+      "key": "EP04_S0115_0183",
+      "value": "Yeah, and it seemed like he turned on the one\nwho was with him."
+    },
+    {
+      "key": "EP04_S0115_0184",
+      "value": "So you’re saying there may be some of them\nwho will hear us out?"
+    },
+    {
+      "key": "EP04_S0115_0185",
+      "value": "I believe that is a real possibility."
+    },
+    {
+      "key": "EP04_S0115_0186",
+      "value": "No way!"
+    },
+    {
+      "key": "EP04_S0115_0187",
+      "value": "(It’s easy to see why Shuuji would be\nconcerned about this.)"
+    },
+    {
+      "key": "EP04_S0115_0188",
+      "value": "(At the same time, though, it’s not like we\nhave any other leads on how to get home.)"
+    },
+    {
+      "key": "EP04_S0115_0189",
+      "value": "(So, do we approach Garurumon and the\nkidnappers in spite of the risks?)"
+    },
+    {
+      "key": "EP04_S0115_0190",
+      "value": "(Because it seems like the safest thing to do\nwould be to avoid them at all costs.)"
+    },
+    {
+      "key": "EP04_S0115_0191",
+      "value": "(Then again, if all we do is run and hide,\nwho knows if we’ll ever manage to get back?)"
+    },
+    {
+      "key": "EP04_S0115_0192",
+      "value": "(But are those really our only options? Maybe\nwe could come up with some alternative.)"
+    },
+    {
+      "key": "EP04_S0115_Q1",
+      "value": "(It’s tough, but I think we should...)"
+    },
+    {
+      "key": "EP04_S0115_Q1_A1",
+      "value": "...run and hide."
+    },
+    {
+      "key": "EP04_S0115_Q1_A2",
+      "value": "...ask the kidnappers."
+    },
+    {
+      "key": "EP04_S0115_Q1_A3",
+      "value": "...keep thinking."
+    },
+    {
+      "key": "EP04_S0115_0193",
+      "value": "...run and hide."
+    },
+    {
+      "key": "EP04_S0115_0194",
+      "value": "I think for everyone’s safety we should hide,\nand stay far away from the kidnappers."
+    },
+    {
+      "key": "EP04_S0115_0195",
+      "value": "I agree with Takuma. We shouldn’t take any\nunnecessary risks."
+    },
+    {
+      "key": "EP04_S0115_0196",
+      "value": "But then what? We wait and we hide... What’s\nthe next step?"
+    },
+    {
+      "key": "EP04_S0115_0197",
+      "value": "We...keep waiting until we get the chance to\ngo home."
+    },
+    {
+      "key": "EP04_S0115_0198",
+      "value": "Seriously? You want to just keep waiting?\nWhat if that chance never comes?"
+    },
+    {
+      "key": "EP04_S0115_0199",
+      "value": "Well, uh—"
+    },
+    {
+      "key": "EP04_S0115_0200",
+      "value": "(That is the big question, and honestly,\nI don’t have an answer.)"
+    },
+    {
+      "key": "EP04_S0115_0201",
+      "value": "Yeah, I don’t want to just wait around and\nhope."
+    },
+    {
+      "key": "EP04_S0115_0202",
+      "value": "Takuma, Shuuji, do you even want to go back?"
+    },
+    {
+      "key": "EP04_S0115_0203",
+      "value": "Of course I want to go back!"
+    },
+    {
+      "key": "EP04_S0115_0204",
+      "value": "Then don’t you think we gotta do something?"
+    },
+    {
+      "key": "EP04_S0115_0205",
+      "value": "I mean...yeah, but..."
+    },
+    {
+      "key": "EP04_S0115_0206",
+      "value": "What about you, Takuma?"
+    },
+    {
+      "key": "EP04_S0115_0207",
+      "value": "Sorry. I do want to go back. So..."
+    },
+    {
+      "key": "EP04_S0115_0208",
+      "value": "Yeah, let's do it."
+    },
+    {
+      "key": "EP04_S0115_0209",
+      "value": "...ask the kidnappers."
+    },
+    {
+      "key": "EP04_S0115_0210",
+      "value": "I know it’s risky, but I think we should try\nasking the kidnappers."
+    },
+    {
+      "key": "EP04_S0115_0211",
+      "value": "Takuma! You can’t be serious! What if we\nactually end up as sacrifices this time?!"
+    },
+    {
+      "key": "EP04_S0115_0212",
+      "value": "Shuuji, I realize it’s dangerous, but what\nother choice do we have?"
+    },
+    {
+      "key": "EP04_S0115_0213",
+      "value": "If they really know something about how we\nmight be able to get home..."
+    },
+    {
+      "key": "EP04_S0115_0214",
+      "value": "...then we should do anything we can to find\nout what that is."
+    },
+    {
+      "key": "EP04_S0115_0215",
+      "value": "...keep thinking."
+    },
+    {
+      "key": "EP04_S0115_0216",
+      "value": "Could there be there an alternative that\ndoesn’t involve confronting the kidnappers?"
+    },
+    {
+      "key": "EP04_S0115_0217",
+      "value": "An alternative? Like what?"
+    },
+    {
+      "key": "EP04_S0115_0218",
+      "value": "I don’t know, like, maybe we could talk to\nJijimon’s friend directly."
+    },
+    {
+      "key": "EP04_S0115_0219",
+      "value": "Unfortunately, I’ve no idea where my old\nfriend might be."
+    },
+    {
+      "key": "EP04_S0115_0220",
+      "value": "Guess that’s out."
+    },
+    {
+      "key": "EP04_S0115_0221",
+      "value": "Then maybe we could...start by asking any\nother monsters if they know anything?"
+    },
+    {
+      "key": "EP04_S0115_0222",
+      "value": "Isn’t that pretty risky too? Who knows what\nkind of monsters we might run into?"
+    },
+    {
+      "key": "EP04_S0115_0223",
+      "value": "Yeah, this world is full of all sorts of\nmonsters. Good, bad, peaceful, aggressive..."
+    },
+    {
+      "key": "EP04_S0115_0224",
+      "value": "I guess that’s true."
+    },
+    {
+      "key": "EP04_S0115_0225",
+      "value": "And since we don’t know if any of them know\nanything... That’s not a realistic option."
+    },
+    {
+      "key": "EP04_S0115_0226",
+      "value": "So it’s sounding like our only choice really is\nto go to Garurumon or the kidnappers."
+    },
+    {
+      "key": "EP04_S0115_0227",
+      "value": "Yeah, that’s pretty much it."
+    },
+    {
+      "key": "EP04_S0115_0228",
+      "value": "And Arukenimon did say something interesting\nyesterday."
+    },
+    {
+      "key": "EP04_S0115_0229",
+      "value": "You mean how she called us sacrifices?"
+    },
+    {
+      "key": "EP04_S0115_0230",
+      "value": "That was pretty hard to miss, wasn’t it?"
+    },
+    {
+      "key": "EP04_S0115_0231",
+      "value": "If this world’s destruction can be halted by\nsuch means, our ruler must be involved."
+    },
+    {
+      "key": "EP04_S0115_0232",
+      "value": "Therefore, the kidnappers may know much more\nabout this subject than I do."
+    },
+    {
+      "key": "EP04_S0115_0233",
+      "value": "Well, if they’re our only lead, we’ll just\nhave to make ’em talk, now won’t we?"
+    },
+    {
+      "key": "EP04_S0115_0234",
+      "value": "Would you give it a rest already? You’re\nalways so quick to pick a fight."
+    },
+    {
+      "key": "EP04_S0115_0235",
+      "value": "I know, right?"
+    },
+    {
+      "key": "EP04_S0115_0236",
+      "value": "Kaito’s such a thug."
+    },
+    {
+      "key": "EP04_S0115_0237",
+      "value": "What other option is there?"
+    },
+    {
+      "key": "EP04_S0115_0238",
+      "value": "Okay, they may be scary, and they may be up\nto no good, but we can still talk to them."
+    },
+    {
+      "key": "EP04_S0115_0239",
+      "value": "Maybe...we can negotiate?"
+    },
+    {
+      "key": "EP04_S0115_0240",
+      "value": "Or something? I don’t know!"
+    },
+    {
+      "key": "EP04_S0115_0241",
+      "value": "Nah, they ain’t the type to listen to reason.\nWe’ll have to beat the answers outta them."
+    },
+    {
+      "key": "EP04_S0115_0242",
+      "value": "You don’t know that."
+    },
+    {
+      "key": "EP04_S0115_0243",
+      "value": "Sorry, but I’m with Kaito on this one."
+    },
+    {
+      "key": "EP04_S0115_0244",
+      "value": "I just don’t know where we can find them, or\nhow we could deal with them."
+    },
+    {
+      "key": "EP04_S0115_0245",
+      "value": "All we have to do is wait. They’ll definitely\ntry and kidnap us again, right?"
+    },
+    {
+      "key": "EP04_S0115_0246",
+      "value": "But if we wait for them, don’t you think\nthey’ll have us at a disadvantage?"
+    },
+    {
+      "key": "EP04_S0115_0247",
+      "value": "Yes, that seems ill-advised."
+    },
+    {
+      "key": "EP04_S0115_0248",
+      "value": "Not how I like to do things anyway!"
+    },
+    {
+      "key": "EP04_S0115_0249",
+      "value": "And with Haru, Miyuki, and Miu with us, we\nshould try to minimize our risk."
+    },
+    {
+      "key": "EP04_S0115_0250",
+      "value": "My sister and I could wait in the school.\nWe’d be fine."
+    },
+    {
+      "key": "EP04_S0115_0251",
+      "value": "Fine..."
+    },
+    {
+      "key": "EP04_S0115_0252",
+      "value": "No! I will not allow that."
+    },
+    {
+      "key": "EP04_S0115_0253",
+      "value": "Well, what if we took the initiative?"
+    },
+    {
+      "key": "EP04_S0115_0254",
+      "value": "Uh, how do we do that? Do you even know where\nto find them?"
+    },
+    {
+      "key": "EP04_S0115_0255",
+      "value": "I’ve got a pretty good idea. They came in\nfrom the north, which leads to the sea."
+    },
+    {
+      "key": "EP04_S0115_0256",
+      "value": "And what do you think is beyond that?"
+    },
+    {
+      "key": "EP04_S0115_0257",
+      "value": "The sea? Oh, right! I forgot, this place is\nan island."
+    },
+    {
+      "key": "EP04_S0115_0258",
+      "value": "Wait, you can’t mean..."
+    },
+    {
+      "key": "EP04_S0115_0259",
+      "value": "Yeah! We just gotta cross the sea to attack!"
+    },
+    {
+      "key": "EP04_S0115_0260",
+      "value": "But how? It’s not like we’ve got a boat, let\nalone an airplane."
+    },
+    {
+      "key": "EP04_S0115_0261",
+      "value": "Hey, what are those?!"
+    },
+    {
+      "key": "EP04_S0115_0262",
+      "value": "They’re different types of vehicles. Boats\nfloat on the water, and airplanes can fly."
+    },
+    {
+      "key": "EP04_S0115_0263",
+      "value": "You mean you’ve never seen anything like them\nbefore?"
+    },
+    {
+      "key": "EP04_S0115_0264",
+      "value": "Nope! Never."
+    },
+    {
+      "key": "EP04_S0115_0265",
+      "value": "Unfortunately, I can’t say I have either.\nI doubt any of us has."
+    },
+    {
+      "key": "EP04_S0115_0266",
+      "value": "Yeah, that’s what I figured."
+    },
+    {
+      "key": "EP04_S0115_0267",
+      "value": "Between the cable car and this theme park,\nI thought there was a chance, but maybe not."
+    },
+    {
+      "key": "EP04_S0115_0268",
+      "value": "There are guys who can swim that stay by\nthe water, but I doubt they’d carry us."
+    },
+    {
+      "key": "EP04_S0115_0269",
+      "value": "Yes, that doesn’t seem very likely."
+    },
+    {
+      "key": "EP04_S0115_0270",
+      "value": "Unless maybe one of those guys was a\ngiant turtle that could carry us on its back."
+    },
+    {
+      "key": "EP04_S0115_0271",
+      "value": "Of course, if it was a monster that swam\nunderwater, we’d probably all drown."
+    },
+    {
+      "key": "EP04_S0115_0272",
+      "value": "So...what do we do?"
+    },
+    {
+      "key": "EP04_S0115_0273",
+      "value": "Aha! I’ve got it!"
+    },
+    {
+      "key": "EP04_S0115_0274",
+      "value": "Huh?! Minoru? What is it all of a sudden?"
+    },
+    {
+      "key": "EP04_S0115_0275",
+      "value": "I just had the best idea!"
+    },
+    {
+      "key": "EP04_S0115_0276",
+      "value": "What are you talking about?"
+    },
+    {
+      "key": "EP04_S0115_0277",
+      "value": "Remember how when we went to the dam, there\nwas that place that went underground?"
+    },
+    {
+      "key": "EP04_S0115_0278",
+      "value": "You know, the door that had that crazy design\non it?"
+    },
+    {
+      "key": "EP04_S0115_0279",
+      "value": "You think maybe if we went through there we’d\ncome out on the other side of the ocean?"
+    },
+    {
+      "key": "EP04_S0115_0280",
+      "value": "Oh yeah! The underground waterway!"
+    },
+    {
+      "key": "EP04_S0115_0281",
+      "value": "Right! That’s what you call it. Anyway, it’s\nbasically like an underwater tunnel."
+    },
+    {
+      "key": "EP04_S0115_0282",
+      "value": "And I believe the directions do line up."
+    },
+    {
+      "key": "EP04_S0115_0283",
+      "value": "However, that door was locked. Did you not\nsay it would not open?"
+    },
+    {
+      "key": "EP04_S0115_0284",
+      "value": "Hmm, in that case..."
+    },
+    {
+      "key": "EP04_S0115_0285",
+      "value": "I hope this might be of some use to you..."
+    },
+    {
+      "key": "EP04_S0115_0286",
+      "value": "Uh, Jijimon, what’s that? It looks like some\ntype of key."
+    },
+    {
+      "key": "EP04_S0115_0287",
+      "value": "And hey, this pattern looks just like the one\nwe saw on that door!"
+    },
+    {
+      "key": "EP04_S0115_0288",
+      "value": "The ones who attacked this place kept it\nconcealed on them."
+    },
+    {
+      "key": "EP04_S0115_0289",
+      "value": "I haven’t the foggiest idea what it might be\nused for, though."
+    },
+    {
+      "key": "EP04_S0115_0290",
+      "value": "This could be just what we need!"
+    },
+    {
+      "key": "EP04_S0115_0291",
+      "value": "Maybe. We’ll have to go check it out."
+    },
+    {
+      "key": "EP04_S0115_0292",
+      "value": "Yeah. Looks like we know what our next goal\nis now."
+    },
+    {
+      "key": "EP04_S0115_0293",
+      "value": "Yeah! Looks like it!"
+    },
+    {
+      "key": "EP04_S0115_0294",
+      "value": "First, we need to see if we can use this key\nto open the door to the underground waterway."
+    },
+    {
+      "key": "EP04_S0115_0295",
+      "value": "Then, if it works, we can take the waterway\nacross the ocean!"
+    }
+  ]
+}

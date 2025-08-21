@@ -1,0 +1,264 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1011_0001",
+      "value": "(It’s obvious how screwy things are between\nShuuji and Lopmon, even from the outside.)"
+    },
+    {
+      "key": "EP05_S1011_0002",
+      "value": "(How are Aoi and Labramon doing, I wonder?)"
+    },
+    {
+      "key": "EP05_S1011_0003",
+      "value": "Let’s see, with these ingredients... How\nabout grilled fish with a salad?"
+    },
+    {
+      "key": "EP05_S1011_0004",
+      "value": "Hmm, but the nutritional value will be off\nwithout some meat in there..."
+    },
+    {
+      "key": "EP05_S1011_0005",
+      "value": "Then...maybe a veggie stir-fry? But what\nseasoning would work?"
+    },
+    {
+      "key": "EP05_S1011_0006",
+      "value": "I’ll help out, Aoi!"
+    },
+    {
+      "key": "EP05_S1011_0007",
+      "value": "Thanks, Labramon. Could you carry the\nvegetables to that box over there?"
+    },
+    {
+      "key": "EP05_S1011_0008",
+      "value": "Leave it to me!"
+    },
+    {
+      "key": "EP05_S1011_0009",
+      "value": "What’re you doing, Aoi?"
+    },
+    {
+      "key": "EP05_S1011_0010",
+      "value": "Hey, Takuma. I’m just pondering over today’s\nmenu."
+    },
+    {
+      "key": "EP05_S1011_0011",
+      "value": "I want to help everyone, but this is about\nall I can do..."
+    },
+    {
+      "key": "EP05_S1011_0012",
+      "value": "Don’t sell yourself short. What you can do in\na kitchen is pretty awesome."
+    },
+    {
+      "key": "EP05_S1011_0013",
+      "value": "But I clam up in group discussions, and if\nI do end up talking, it’s always negative..."
+    },
+    {
+      "key": "EP05_S1011_0014",
+      "value": "And in the end, I just go along with other\nopinions. I can’t do a thing."
+    },
+    {
+      "key": "EP05_S1011_0015",
+      "value": "Oh, Takuma, what am I to this group?"
+    },
+    {
+      "key": "EP05_S1011_0016",
+      "value": "(Aoi’s gotten so negative. I have to do\nsomething to lift her spirits.)"
+    },
+    {
+      "key": "EP05_S1011_0017",
+      "value": "(She’s...kind, and good at cooking. Like\na mom, maybe? Naw, that’s weird.)"
+    },
+    {
+      "key": "EP05_S1011_0018",
+      "value": "(She’s serious and dependable, just like\na class president should be, right?)"
+    },
+    {
+      "key": "EP05_S1011_0019",
+      "value": "(She’s a mediator, or a coordinator... Oh?\nCoordinator’s sounds pretty cool, right?)"
+    },
+    {
+      "key": "EP05_S1011_Q1",
+      "value": "(To me, Aoi is...)"
+    },
+    {
+      "key": "EP05_S1011_Q1_A1",
+      "value": "A mom, in a good way."
+    },
+    {
+      "key": "EP05_S1011_Q1_A2",
+      "value": "Our class president."
+    },
+    {
+      "key": "EP05_S1011_Q1_A3",
+      "value": "Like a coordinator?"
+    },
+    {
+      "key": "EP05_S1011_0021",
+      "value": "A mom..."
+    },
+    {
+      "key": "EP05_S1011_0022",
+      "value": "What? Me, a mom?"
+    },
+    {
+      "key": "EP05_S1011_0023",
+      "value": "Oh, um! Maybe I’m oversimplifying..."
+    },
+    {
+      "key": "EP05_S1011_0024",
+      "value": "What’s a “mahm”?"
+    },
+    {
+      "key": "EP05_S1011_0025",
+      "value": "First I’ve heard of it."
+    },
+    {
+      "key": "EP05_S1011_0026",
+      "value": "A mom is...someone who gives birth to kids?\nNo, that’s not quite right..."
+    },
+    {
+      "key": "EP05_S1011_0027",
+      "value": "They’re kind, they protect everyone. Just\nhaving them around puts you at ease..."
+    },
+    {
+      "key": "EP05_S1011_0028",
+      "value": "Huh, puts you at ease..."
+    },
+    {
+      "key": "EP05_S1011_0029",
+      "value": "Um, so I’m just saying! Your kindness, the\nway you feed us, it’s like that!"
+    },
+    {
+      "key": "EP05_S1011_0030",
+      "value": "Hee-hee... Hee-hee-hee..."
+    },
+    {
+      "key": "EP05_S1011_0031",
+      "value": "Aoi?"
+    },
+    {
+      "key": "EP05_S1011_0032",
+      "value": "Heheh, sorry, it’s just... Ahaha..."
+    },
+    {
+      "key": "EP05_S1011_0033",
+      "value": "It makes me happy to know you think of me\nthat way, Takuma."
+    },
+    {
+      "key": "EP05_S1011_0034",
+      "value": "Yeah? Happy? Then that works for me..."
+    },
+    {
+      "key": "EP05_S1011_0035",
+      "value": "Heheh, Mama Aoi..."
+    },
+    {
+      "key": "EP05_S1011_0037",
+      "value": "You’re our class president through and\nthrough, Aoi."
+    },
+    {
+      "key": "EP05_S1011_0038",
+      "value": "You’re serious, and you take us to task when\nwe need it."
+    },
+    {
+      "key": "EP05_S1011_0039",
+      "value": "Huh... So I’m the same way over here, too?"
+    },
+    {
+      "key": "EP05_S1011_0040",
+      "value": "What?"
+    },
+    {
+      "key": "EP05_S1011_0041",
+      "value": "A good little girl. Inflexible and super\nserious."
+    },
+    {
+      "key": "EP05_S1011_0042",
+      "value": "Delegating all the difficult work to myself.\nTaking all the responsibility."
+    },
+    {
+      "key": "EP05_S1011_0043",
+      "value": "That’s... That’s just too..."
+    },
+    {
+      "key": "EP05_S1011_0044",
+      "value": "Um, Aoi? Was it something I said? You all\nright?"
+    },
+    {
+      "key": "EP05_S1011_0045",
+      "value": "Ah..."
+    },
+    {
+      "key": "EP05_S1011_0046",
+      "value": "Sorry. It’s nothing to worry about..."
+    },
+    {
+      "key": "EP05_S1011_0047",
+      "value": "Aoi, you’re white as a sheet! What’s wrong?!"
+    },
+    {
+      "key": "EP05_S1011_0048",
+      "value": "I’m fine, really..."
+    },
+    {
+      "key": "EP05_S1011_0049",
+      "value": "(I feel like I said something I shouldn’t\nhave.)"
+    },
+    {
+      "key": "EP05_S1011_0051",
+      "value": "You’re everyone’s coordinator, Aoi. You help\nmesh all our different opinions together."
+    },
+    {
+      "key": "EP05_S1011_0052",
+      "value": "Hmm. I feel like that role suits you more\nthan it suits me, don’t you think?"
+    },
+    {
+      "key": "EP05_S1011_0053",
+      "value": "Huh? Me?"
+    },
+    {
+      "key": "EP05_S1011_0054",
+      "value": "Yes. Someone who pulls people together, and\ngets everyone on the same page."
+    },
+    {
+      "key": "EP05_S1011_0055",
+      "value": "More of a leader than a coordinator, even."
+    },
+    {
+      "key": "EP05_S1011_0056",
+      "value": "Seriously? I don’t see that in myself at all,\nthough..."
+    },
+    {
+      "key": "EP05_S1011_0057",
+      "value": "If you’re not doing it on purpose, then it\nsuits you all the more."
+    },
+    {
+      "key": "EP05_S1011_0058",
+      "value": "I’d say I’m...more of a secretary, or an\naide. A support role, maybe."
+    },
+    {
+      "key": "EP05_S1011_0059",
+      "value": "At any rate, I just have to do what I can for\nnow. I’ll have time to worry later."
+    },
+    {
+      "key": "EP05_S1011_0060",
+      "value": "I’ll get back to work. Thanks for talking to\nme, Takuma."
+    },
+    {
+      "key": "EP05_S1011_0061",
+      "value": "(I had no idea Aoi was worrying about her own\nsense of identity...)"
+    },
+    {
+      "key": "EP05_S1011_0062",
+      "value": "(Still, I can’t stick to my preconceived\nnotions now.)"
+    },
+    {
+      "key": "EP05_S1011_0063",
+      "value": "(Aoi is just a girl one year older than me.\nI’ll have to remember that.)"
+    },
+    {
+      "key": "EP05_S1011_0064",
+      "value": "I’ll work hard on the things I can do at the\nmoment. Thank you, Takuma."
+    }
+  ]
+}

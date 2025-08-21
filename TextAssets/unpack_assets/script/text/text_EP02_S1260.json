@@ -1,0 +1,40 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1260_0001",
+      "value": "Is this a canal?"
+    },
+    {
+      "key": "EP02_S1260_0002",
+      "value": "Oh! Look there! Up there!"
+    },
+    {
+      "key": "EP02_S1260_0003",
+      "value": "Wow! It really is a dam!"
+    },
+    {
+      "key": "EP02_S1260_0004",
+      "value": "That’s the dam, then?"
+    },
+    {
+      "key": "EP02_S1260_0005",
+      "value": "It’s huge!"
+    },
+    {
+      "key": "EP02_S1260_0006",
+      "value": "Amazing..."
+    },
+    {
+      "key": "EP02_S1260_0007",
+      "value": "There was no canal or dam by the shrine...\nThis is completely unexpected..."
+    },
+    {
+      "key": "EP02_S1260_0008",
+      "value": "They were headed this way."
+    },
+    {
+      "key": "EP02_S1260_0009",
+      "value": "Let’s go!"
+    }
+  ]
+}

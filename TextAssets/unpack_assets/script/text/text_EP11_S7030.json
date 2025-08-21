@@ -1,0 +1,600 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S7030_0001",
+      "value": "Nnngh..."
+    },
+    {
+      "key": "EP11_S7030_0002",
+      "value": "All right, we beat him!"
+    },
+    {
+      "key": "EP11_S7030_0003",
+      "value": "Ungh..."
+    },
+    {
+      "key": "EP11_S7030_0004",
+      "value": "Oh no, Aoi!"
+    },
+    {
+      "key": "EP11_S7030_0005",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP11_S7030_0006",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7030_0007",
+      "value": "(Strange... I hear so many voices, but\nI can’t see anyone’s face...)"
+    },
+    {
+      "key": "EP11_S7030_0008",
+      "value": "Hey! Open your eyes! You’re safe now, okay?"
+    },
+    {
+      "key": "EP11_S7030_0009",
+      "value": "The enemy is gone! We came to save you! Hang\nin there!"
+    },
+    {
+      "key": "EP11_S7030_0010",
+      "value": "The wounds are deep. It looks like she’s..."
+    },
+    {
+      "key": "EP11_S7030_0011",
+      "value": "No! This can’t be happening! Don’t die, Aoi!"
+    },
+    {
+      "key": "EP11_S7030_0012",
+      "value": "Shit! Hey! Knock it off already, Aoi! What,\nare you asleep?"
+    },
+    {
+      "key": "EP11_S7030_0013",
+      "value": "Stop it, Dracmon! You’ll only make the wounds\nworse!"
+    },
+    {
+      "key": "EP11_S7030_0014",
+      "value": "But what are we supposed to...?"
+    },
+    {
+      "key": "EP11_S7030_0015",
+      "value": "(That’s strange... My body feels...so\nheavy...)"
+    },
+    {
+      "key": "EP11_S7030_0016",
+      "value": "Hey, somebody do something! Otherwise, Aoi’s\ngonna—!"
+    },
+    {
+      "key": "EP11_S7030_0017",
+      "value": "No... The light’s left her eyes. She’s\nalready..."
+    },
+    {
+      "key": "EP11_S7030_0018",
+      "value": "Pull yourself together, Labramon! You’re the\nonly one who can save Aoi!"
+    },
+    {
+      "key": "EP11_S7030_0019",
+      "value": "We can’t lose you both! We just...can’t!"
+    },
+    {
+      "key": "EP11_S7030_0020",
+      "value": "Ah... I’m so...sorry..."
+    },
+    {
+      "key": "EP11_S7030_0021",
+      "value": "No..."
+    },
+    {
+      "key": "EP11_S7030_0022",
+      "value": "I hate this... It’s too much! Can’t we do\nanything? Do we just have to watch her die?!"
+    },
+    {
+      "key": "EP11_S7030_0023",
+      "value": "...Ah...ahhh..."
+    },
+    {
+      "key": "EP11_S7030_0024",
+      "value": "(They’re saying something, and crying... It’s\ndark... I can’t see anything. Am I dying?)"
+    },
+    {
+      "key": "EP11_S7030_0025",
+      "value": "(Why? Was I wrong...? Please...teach me\nwhat’s right...)"
+    },
+    {
+      "key": "EP11_S7030_0026",
+      "value": "(I thought we could all work together... Make\nit through this together...)"
+    },
+    {
+      "key": "EP11_S7030_0027",
+      "value": "(It doesn’t matter if we’re human or not. We\njust have to understand each other...right?)"
+    },
+    {
+      "key": "EP11_S7030_0028",
+      "value": "(We all have to come together, become one...\nYes... I’d only just realized that...)"
+    },
+    {
+      "key": "EP11_S7030_0029",
+      "value": "(Where did I go wrong? Or was I wrong from\nthe very beginning...?)"
+    },
+    {
+      "key": "EP11_S7030_0030",
+      "value": "(Is that why I lost Saki? Lost everyone? Why\nI couldn’t even protect Labramon?)"
+    },
+    {
+      "key": "EP11_S7030_0031",
+      "value": "(I don’t...want to die!)"
+    },
+    {
+      "key": "EP11_S7030_0032",
+      "value": "Lab...ra...mon..."
+    },
+    {
+      "key": "EP11_S7030_0033",
+      "value": "Aoi..."
+    },
+    {
+      "key": "EP11_S7030_0034",
+      "value": "Labramon’s...trying to grab Aoi’s hand..."
+    },
+    {
+      "key": "EP11_S7030_0035",
+      "value": "Make it stop... This feels like the end...!"
+    },
+    {
+      "key": "EP11_S7030_0036",
+      "value": "Miu, let them be. They’re partners... Let\nthem hold hands."
+    },
+    {
+      "key": "EP11_S7030_0037",
+      "value": "Mwahahaha! I get to take one of your friends\nto the grave with me! What a deal!"
+    },
+    {
+      "key": "EP11_S7030_0038",
+      "value": "You just don’t shut up, do you?!"
+    },
+    {
+      "key": "EP11_S7030_0039",
+      "value": "(Ah... I can feel Labramon’s paw on my hand.\nMy partner... I...don’t want to die...)"
+    },
+    {
+      "key": "EP11_S7030_0040",
+      "value": "(I want to live...not die. Was I wrong this\nwhole time? What was I supposed to...?)"
+    },
+    {
+      "key": "EP11_S7030_0041",
+      "value": "(Idon’twanttodieIdon’twanttodieIdon’twantto\ndieIdon’twanttodieIdon’twanttoDIIIIIIE!)"
+    },
+    {
+      "key": "EP11_S7030_0042",
+      "value": "What the...? Takuma, what’s going on?!"
+    },
+    {
+      "key": "EP11_S7030_0043",
+      "value": "Black light...seeping out from between their\nhands!!!"
+    },
+    {
+      "key": "EP11_S7030_0044",
+      "value": "It looks like Aoi’s trying to hold on to\nLabramon..."
+    },
+    {
+      "key": "EP11_S7030_0045",
+      "value": "Uh, guys... Is this really okay?"
+    },
+    {
+      "key": "EP11_S7030_0046",
+      "value": "(I can feel something flowing into me. It’s\nLabramon’s...energy...)"
+    },
+    {
+      "key": "EP11_S7030_0047",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP11_S7030_0048",
+      "value": "...Huh?"
+    },
+    {
+      "key": "EP11_S7030_0049",
+      "value": "Who...who is that?"
+    },
+    {
+      "key": "EP11_S7030_0050",
+      "value": "*huff, huff...*"
+    },
+    {
+      "key": "EP11_S7030_0051",
+      "value": "Wh-what’s with this thing? Where’d it even\ncome from?"
+    },
+    {
+      "key": "EP11_S7030_0052",
+      "value": "Aoi and Labramon, they’re—!"
+    },
+    {
+      "key": "EP11_S7030_0053",
+      "value": "(What happened to them?!)"
+    },
+    {
+      "key": "EP11_S7030_0054",
+      "value": "(Aoi and Labramon held hands just before they\ndied, then there was all that black light...)"
+    },
+    {
+      "key": "EP11_S7030_0055",
+      "value": "(And now this thing’s standing here.)"
+    },
+    {
+      "key": "EP11_S7030_0056",
+      "value": "(Meanwhile, there’s no sign of either Aoi or\nLabramon. Does that mean... Could it be?)"
+    },
+    {
+      "key": "EP11_S7030_0057",
+      "value": "(But wait, is that even possible? Could this\nmonstrous thing actually be Aoi?)"
+    },
+    {
+      "key": "EP11_S7030_0058",
+      "value": "(Or this could be another attack by the\nenemy?!)"
+    },
+    {
+      "key": "EP11_S7030_Q1",
+      "value": "(This thing standing here, could it be...?)"
+    },
+    {
+      "key": "EP11_S7030_Q1_A1",
+      "value": "I think it’s her?"
+    },
+    {
+      "key": "EP11_S7030_Q1_A2",
+      "value": "Can’t be her."
+    },
+    {
+      "key": "EP11_S7030_Q1_A3",
+      "value": "A new enemy?!"
+    },
+    {
+      "key": "EP11_S7030_0059",
+      "value": "I think it’s her?"
+    },
+    {
+      "key": "EP11_S7030_0060",
+      "value": "Aoi? Is...is that you?"
+    },
+    {
+      "key": "EP11_S7030_0061",
+      "value": "Wha’?! Takuma, are you crazy?! You think...\nTHAT’S Aoi?! No way!"
+    },
+    {
+      "key": "EP11_S7030_0062",
+      "value": "Well, it could be... They were both enveloped\nin black light, and now this thing’s here."
+    },
+    {
+      "key": "EP11_S7030_0063",
+      "value": "So that really is...Aoi?"
+    },
+    {
+      "key": "EP11_S7030_0064",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7030_0065",
+      "value": "Can’t be her."
+    },
+    {
+      "key": "EP11_S7030_0066",
+      "value": "No, there’s just no way. That can’t be Aoi.\nIt’s completely unbelievable!"
+    },
+    {
+      "key": "EP11_S7030_0067",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7030_0068",
+      "value": "Takuma... I’m sensing Labramon..."
+    },
+    {
+      "key": "EP11_S7030_0069",
+      "value": "Yes...and Aoi, too."
+    },
+    {
+      "key": "EP11_S7030_0070",
+      "value": "But that makes no sense. How can they both be\npresent at the same time?"
+    },
+    {
+      "key": "EP11_S7030_0071",
+      "value": "I don’t know, but that’s definitely what I’m\nsensing. This thing is both Aoi and Labramon."
+    },
+    {
+      "key": "EP11_S7030_0072",
+      "value": "What?! You mean that really is Aoi?"
+    },
+    {
+      "key": "EP11_S7030_0073",
+      "value": "A new enemy?!"
+    },
+    {
+      "key": "EP11_S7030_0074",
+      "value": "Who the hell are you? Another enemy here to\nattack us?!"
+    },
+    {
+      "key": "EP11_S7030_0075",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7030_0076",
+      "value": "Takuma... This thing showed up out of\nnowhere. We all saw it."
+    },
+    {
+      "key": "EP11_S7030_0077",
+      "value": "And it appeared right where Aoi and Labramon\nwere lying, as if to replace them."
+    },
+    {
+      "key": "EP11_S7030_0078",
+      "value": "Do you understand what I’m getting at?"
+    },
+    {
+      "key": "EP11_S7030_0079",
+      "value": "So you’re telling me...this is Aoi?"
+    },
+    {
+      "key": "EP11_S7030_0080",
+      "value": "All right then..."
+    },
+    {
+      "key": "EP11_S7030_0081",
+      "value": "(What the—?! It just disappeared!)"
+    },
+    {
+      "key": "EP11_S7030_0082",
+      "value": "Takuma, look!"
+    },
+    {
+      "key": "EP11_S7030_0083",
+      "value": "Rrgh?!"
+    },
+    {
+      "key": "EP11_S7030_0084",
+      "value": "It reappeared next to Piedmon!"
+    },
+    {
+      "key": "EP11_S7030_0085",
+      "value": "Hmph..."
+    },
+    {
+      "key": "EP11_S7030_0086",
+      "value": "Ack! Ah...ah...AAAAAARGH..."
+    },
+    {
+      "key": "EP11_S7030_0087",
+      "value": "What the heck? Guys, what just happened?"
+    },
+    {
+      "key": "EP11_S7030_0088",
+      "value": "...He’s dead."
+    },
+    {
+      "key": "EP11_S7030_0089",
+      "value": "You...you mean to tell me Aoi did that with\na single blow?"
+    },
+    {
+      "key": "EP11_S7030_0090",
+      "value": "I...I don’t understand... Why would Aoi do\nthat?"
+    },
+    {
+      "key": "EP11_S7030_0091",
+      "value": "(It just doesn’t seem possible. How could\nthat strange monster actually be Aoi?)"
+    },
+    {
+      "key": "EP11_S7030_0092",
+      "value": "(It killed Piedmon without batting an eye.\nAoi would never do something so heartless!)"
+    },
+    {
+      "key": "EP11_S7030_0093",
+      "value": "But if she took out Piedmon, that means she’s\nstill on our side underneath all that, right?"
+    },
+    {
+      "key": "EP11_S7030_0094",
+      "value": "Who knows. It may have simply been\na destructive impulse. Stay vigilant."
+    },
+    {
+      "key": "EP11_S7030_0095",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7030_0096",
+      "value": "(I can’t tell... Is she still on our side, or\nnot? I have no clue.)"
+    },
+    {
+      "key": "EP11_S7030_0097",
+      "value": "Um... Aoi?"
+    },
+    {
+      "key": "EP11_S7030_0098",
+      "value": "I can feel Saki. She became part of this\nworld, and she’s cheering me on."
+    },
+    {
+      "key": "EP11_S7030_0099",
+      "value": "What?"
+    },
+    {
+      "key": "EP11_S7030_0100",
+      "value": "She says I can do anything now."
+    },
+    {
+      "key": "EP11_S7030_0101",
+      "value": "I can save the world. I can fix it. I can\nbring peace and harmony with my rule."
+    },
+    {
+      "key": "EP11_S7030_0102",
+      "value": "And to achieve this goal...I will remove\nanyone who tries to stop me!"
+    },
+    {
+      "key": "EP11_S7030_0103",
+      "value": "I see it all so clearly now, hehehe... This\nwas the right answer all along!"
+    },
+    {
+      "key": "EP11_S7030_0104",
+      "value": "Looks like I was never wrong after all!"
+    },
+    {
+      "key": "EP11_S7030_0105",
+      "value": "Hehe... My head feels so clear now! This is\namazing!"
+    },
+    {
+      "key": "EP11_S7030_0106",
+      "value": "(No, this doesn’t feel right! This is nothing\nlike the Aoi we knew...)"
+    },
+    {
+      "key": "EP11_S7030_0107",
+      "value": "Aoi? That’s you, right, Aoi? What happened to\nyou?"
+    },
+    {
+      "key": "EP11_S7030_0108",
+      "value": "Don’t tell me this is like with Shuuji...\nA dark evolution!?"
+    },
+    {
+      "key": "EP11_S7030_0109",
+      "value": "Aoi, you say? No, I’ve cast off that weak\npersona."
+    },
+    {
+      "key": "EP11_S7030_0110",
+      "value": "I am now called...Plutomon."
+    },
+    {
+      "key": "EP11_S7030_0111",
+      "value": "Plutomon? What are you talking ab—?"
+    },
+    {
+      "key": "EP11_S7030_0112",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7030_0113",
+      "value": "Holy crap!"
+    },
+    {
+      "key": "EP11_S7030_0114",
+      "value": "(I could FEEL the intensity of that glare!\nIs...is this really Aoi?!)"
+    },
+    {
+      "key": "EP11_S7030_0115",
+      "value": "No need to be afraid, Takuma."
+    },
+    {
+      "key": "EP11_S7030_0116",
+      "value": "Don’t worry, it’s still me. You can relax.\nI’ll save all of you."
+    },
+    {
+      "key": "EP11_S7030_0117",
+      "value": "Uh... You will?"
+    },
+    {
+      "key": "EP11_S7030_0118",
+      "value": "Then maybe this is for the best! I mean, if\nshe protects us and fights for us..."
+    },
+    {
+      "key": "EP11_S7030_0119",
+      "value": "Hah... Hahah! This is pretty awesome,\nactually!"
+    },
+    {
+      "key": "EP11_S7030_0120",
+      "value": "Chill, Minoru!"
+    },
+    {
+      "key": "EP11_S7030_0121",
+      "value": "No YOU chill! Why are you so scared, anyway?\nPlutomon is really Aoi, can’t you see?"
+    },
+    {
+      "key": "EP11_S7030_0122",
+      "value": "He’s right."
+    },
+    {
+      "key": "EP11_S7030_0123",
+      "value": "I’ll save you. We’re friends, after all."
+    },
+    {
+      "key": "EP11_S7030_0124",
+      "value": "I’ve become one with Labramon. And all of you\nshould do the same..."
+    },
+    {
+      "key": "EP11_S7030_0125",
+      "value": "Wait, what? Wh-what’s this about “becoming\none”?"
+    },
+    {
+      "key": "EP11_S7030_0126",
+      "value": "What do you mean, Aoi?"
+    },
+    {
+      "key": "EP11_S7030_0127",
+      "value": "Becoming one helps us understand each other\nbetter. No more selfish behavior."
+    },
+    {
+      "key": "EP11_S7030_0128",
+      "value": "Humans, monsters...all are to become one with\nme and share my feelings."
+    },
+    {
+      "key": "EP11_S7030_0129",
+      "value": "Labramon agrees, from deep down inside me."
+    },
+    {
+      "key": "EP11_S7030_0130",
+      "value": "It’s going to be all right. I will lead us on\nthe righteous path...of peace and harmony!"
+    },
+    {
+      "key": "EP11_S7030_0131",
+      "value": "Yes! For that, I need HIS power... The power\nto absorb everyone!"
+    },
+    {
+      "key": "EP11_S7030_0132",
+      "value": "Wait, what...?"
+    },
+    {
+      "key": "EP11_S7030_0133",
+      "value": "I think I’m missing something. Who is “he”?"
+    },
+    {
+      "key": "EP11_S7030_0134",
+      "value": "Yeah, what the hell? You’re not making any\nsense here, Aoi..."
+    },
+    {
+      "key": "EP11_S7030_0135",
+      "value": "“His power”...? The power to absorb everyone?"
+    },
+    {
+      "key": "EP11_S7030_0136",
+      "value": "She can’t mean..."
+    },
+    {
+      "key": "EP11_S7030_0137",
+      "value": "No, I’m afraid she does! She plans to..."
+    },
+    {
+      "key": "EP11_S7030_0138",
+      "value": "She plans to do what, Professor?"
+    },
+    {
+      "key": "EP11_S7030_0139",
+      "value": "We have to stop her, Takuma!"
+    },
+    {
+      "key": "EP11_S7030_0140",
+      "value": "Aoi intends to destroy the Master...and\neverything else along with him!"
+    },
+    {
+      "key": "EP11_S7030_0141",
+      "value": "Hahaha! So you would oppose me, Professor? In\nthat case..."
+    },
+    {
+      "key": "EP11_S7030_0142",
+      "value": "Aoi, no! Wait! We don’t have to fight!"
+    },
+    {
+      "key": "EP11_S7030_0143",
+      "value": "It’s no use, Takuma! You’re not going to\nchange her mind! We have to fight back!"
+    },
+    {
+      "key": "EP11_S7030_0144",
+      "value": "I’ll handle this, Takuma!"
+    },
+    {
+      "key": "EP11_S7030_0145",
+      "value": "(Damn it! How has it come to this? Do we\nseriously have to fight Aoi?)"
+    }
+  ]
+}

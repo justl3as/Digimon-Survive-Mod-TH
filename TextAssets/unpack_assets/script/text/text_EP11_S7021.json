@@ -1,0 +1,556 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP11_S7021_0001",
+      "value": "Where...are we?"
+    },
+    {
+      "key": "EP11_S7021_0002",
+      "value": "Oh no, did I get so lost in thought I forgot\nwhere I was going? What is wrong with me?"
+    },
+    {
+      "key": "EP11_S7021_0003",
+      "value": "Aoi, maybe we should rest a bit."
+    },
+    {
+      "key": "EP11_S7021_0004",
+      "value": "Oh, that’s okay, Labramon. Actually, I’m\nfeeling pretty good right now."
+    },
+    {
+      "key": "EP11_S7021_0005",
+      "value": "But you look so pale... I’m worried about\nyou, Aoi."
+    },
+    {
+      "key": "EP11_S7021_0006",
+      "value": "(Labramon is so nice to me.)"
+    },
+    {
+      "key": "EP11_S7021_0007",
+      "value": "(Always at my side, no matter what\nhappens...)"
+    },
+    {
+      "key": "EP11_S7021_0008",
+      "value": "(Actually... I’ve been ignoring Labramon’s\nfeelings because of my sadness, haven’t I?)"
+    },
+    {
+      "key": "EP11_S7021_0009",
+      "value": "I’m sorry."
+    },
+    {
+      "key": "EP11_S7021_0010",
+      "value": "I don’t know what’s gotten into me..."
+    },
+    {
+      "key": "EP11_S7021_0011",
+      "value": "Uhh, Aoi?"
+    },
+    {
+      "key": "EP11_S7021_0012",
+      "value": "I’ve been clinging to a past I can never get\nback, focused only on my own sadness."
+    },
+    {
+      "key": "EP11_S7021_0013",
+      "value": "Even though I talked about harmony and\ncooperation, I was more selfish than anyone."
+    },
+    {
+      "key": "EP11_S7021_0014",
+      "value": "(But all this has helped me see the light.\nI know how I can bring peace to this world.)"
+    },
+    {
+      "key": "EP11_S7021_0015",
+      "value": "Um, are you okay, Aoi?"
+    },
+    {
+      "key": "EP11_S7021_0016",
+      "value": "I wonder if everyone’s worried about me..."
+    },
+    {
+      "key": "EP11_S7021_0017",
+      "value": "(Just like I was worried about them...)"
+    },
+    {
+      "key": "EP11_S7021_0018",
+      "value": "Of course they are! They’re your friends!"
+    },
+    {
+      "key": "EP11_S7021_0019",
+      "value": "Yeah... I know."
+    },
+    {
+      "key": "EP11_S7021_0020",
+      "value": "(But then, why did they leave me all alone\nwhen I was so sad?)"
+    },
+    {
+      "key": "EP11_S7021_0021",
+      "value": "(If it was the other way around... If I was\nthem, I wouldn’t have turned a blind eye.)"
+    },
+    {
+      "key": "EP11_S7021_0022",
+      "value": "(I would’ve found a way to bring back whoever\nwas hurting, somehow...)"
+    },
+    {
+      "key": "EP11_S7021_0023",
+      "value": "(Wait a minute.)"
+    },
+    {
+      "key": "EP11_S7021_0024",
+      "value": "...Can I ask you something, Labramon?"
+    },
+    {
+      "key": "EP11_S7021_0025",
+      "value": "Why did you come with me? Were you too scared\nto try and stop me?"
+    },
+    {
+      "key": "EP11_S7021_0026",
+      "value": "Stop you? From doing what?"
+    },
+    {
+      "key": "EP11_S7021_0027",
+      "value": "(From doing what I’m trying to do...)"
+    },
+    {
+      "key": "EP11_S7021_0028",
+      "value": "(Bringing everyone together...for the greater\ngood.)"
+    },
+    {
+      "key": "EP11_S7021_0029",
+      "value": "(But how can I bring everyone together? How\ncan I make them feel what I feel?)"
+    },
+    {
+      "key": "EP11_S7021_0030",
+      "value": "No... This won’t work."
+    },
+    {
+      "key": "EP11_S7021_0031",
+      "value": "What are you talking about, Aoi?"
+    },
+    {
+      "key": "EP11_S7021_0032",
+      "value": "Sorry."
+    },
+    {
+      "key": "EP11_S7021_0033",
+      "value": "I’m not so sure myself. My mind feels cloudy,\nand my chest feels like it’s about to burst."
+    },
+    {
+      "key": "EP11_S7021_0034",
+      "value": "Who can I rely on now, Labramon? Who?"
+    },
+    {
+      "key": "EP11_S7021_0035",
+      "value": "(Saki’s gone. No one understands how I feel.\nI’m alone... I’m still so alone...)"
+    },
+    {
+      "key": "EP11_S7021_0036",
+      "value": "What about me? Am I not good enough to take\nSaki’s place?"
+    },
+    {
+      "key": "EP11_S7021_0037",
+      "value": "Do you feel sorry for me?"
+    },
+    {
+      "key": "EP11_S7021_0038",
+      "value": "No, that’s not it. I’m your partner, that’s\nall."
+    },
+    {
+      "key": "EP11_S7021_0039",
+      "value": "My partner, huh..."
+    },
+    {
+      "key": "EP11_S7021_0040",
+      "value": "Yeah, your partner! That’s why I’ll stick\nwith you no matter what!"
+    },
+    {
+      "key": "EP11_S7021_0041",
+      "value": "I’m not human so I don’t know how much help\nI can be, but even so..."
+    },
+    {
+      "key": "EP11_S7021_0042",
+      "value": "I’ll always be here by your side, wherever\nyou end up."
+    },
+    {
+      "key": "EP11_S7021_0043",
+      "value": "So tell me what you’re going through. I want\nto hear about your regrets, your sorrows,"
+    },
+    {
+      "key": "EP11_S7021_0044",
+      "value": "your fears...everything! I’m here for you,\nAoi, and all that’s in your heart."
+    },
+    {
+      "key": "EP11_S7021_0045",
+      "value": "(I... I’m not alone after all! Labramon is\nthe only one who understands me.)"
+    },
+    {
+      "key": "EP11_S7021_0046",
+      "value": "(And I never even noticed...)"
+    },
+    {
+      "key": "EP11_S7021_0047",
+      "value": "Sorry... I’m so sorry, Labramon..."
+    },
+    {
+      "key": "EP11_S7021_0048",
+      "value": "Come on, Aoi. A simple “thanks!” is enough!"
+    },
+    {
+      "key": "EP11_S7021_0049",
+      "value": "Right... Thanks, Labramon. With you at my\nside, I—"
+    },
+    {
+      "key": "EP11_S7021_0050",
+      "value": "Rrgh... *cough, cough*"
+    },
+    {
+      "key": "EP11_S7021_0051",
+      "value": "What was that? I heard something behind those\nbushes..."
+    },
+    {
+      "key": "EP11_S7021_0052",
+      "value": "Who’s there?!"
+    },
+    {
+      "key": "EP11_S7021_0053",
+      "value": "Ugh... Ngh!"
+    },
+    {
+      "key": "EP11_S7021_0054",
+      "value": "Oh my gosh... It’s you!"
+    },
+    {
+      "key": "EP11_S7021_0055",
+      "value": "Why’s Piedmon here?! Watch out, Aoi!"
+    },
+    {
+      "key": "EP11_S7021_0056",
+      "value": "He’s hurt really badly! He’ll die if we leave\nhim like this!"
+    },
+    {
+      "key": "EP11_S7021_0057",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP11_S7021_0058",
+      "value": "(Piedmon is the enemy. But then again, he was\ntricked by the Master just like us, so...)"
+    },
+    {
+      "key": "EP11_S7021_0059",
+      "value": "Labramon... Heal his wounds."
+    },
+    {
+      "key": "EP11_S7021_0060",
+      "value": "...What?"
+    },
+    {
+      "key": "EP11_S7021_0061",
+      "value": "Please."
+    },
+    {
+      "key": "EP11_S7021_0062",
+      "value": "Stay... Stay back!"
+    },
+    {
+      "key": "EP11_S7021_0063",
+      "value": "It’s your loss if you wanna be stubborn. You\ndon’t even have the strength to resist."
+    },
+    {
+      "key": "EP11_S7021_0064",
+      "value": "Human... Why would you... *huff, huff*\n...help me?"
+    },
+    {
+      "key": "EP11_S7021_0065",
+      "value": "You’re very strong. You really gave us a run\nfor our money."
+    },
+    {
+      "key": "EP11_S7021_0066",
+      "value": "You know this world is on the brink of\nannihilation, don’t you?"
+    },
+    {
+      "key": "EP11_S7021_0067",
+      "value": "Yeah... So what? *huff, huff* I don’t get\nhumans like you..."
+    },
+    {
+      "key": "EP11_S7021_0068",
+      "value": "Fighting us while the world falls apart won’t\nchange anything. And yet..."
+    },
+    {
+      "key": "EP11_S7021_0069",
+      "value": "If you work WITH us, we might be able to do\nsomething about it together."
+    },
+    {
+      "key": "EP11_S7021_0070",
+      "value": "(Yes. I’m sure we can all come to understand\none another, like Labramon and me...)"
+    },
+    {
+      "key": "EP11_S7021_0071",
+      "value": "(We all need to come together if we want this\nworld to be at peace. Not just the humans.)"
+    },
+    {
+      "key": "EP11_S7021_0072",
+      "value": "(The monsters must work together with us,\ntoo!)"
+    },
+    {
+      "key": "EP11_S7021_0073",
+      "value": "So you wanna join forces, eh?"
+    },
+    {
+      "key": "EP11_S7021_0074",
+      "value": "I’ll heal him... But keep your guard up, Aoi."
+    },
+    {
+      "key": "EP11_S7021_0075",
+      "value": "Okay, he’s better now. A little bit, at\nleast."
+    },
+    {
+      "key": "EP11_S7021_0076",
+      "value": "Good job. Now, Piedmon... What do you say\nabout my offer?"
+    },
+    {
+      "key": "EP11_S7021_0077",
+      "value": "The answer’s obvious, isn’t it?"
+    },
+    {
+      "key": "EP11_S7021_0078",
+      "value": "(I knew it. He wants to join forces with us!\nI even managed to get through to—!)"
+    },
+    {
+      "key": "EP11_S7021_0079",
+      "value": "Who the HELL would work with you?! After\neverything you humans have done!"
+    },
+    {
+      "key": "EP11_S7021_0080",
+      "value": "What?"
+    },
+    {
+      "key": "EP11_S7021_0081",
+      "value": "Agh... Nngh!"
+    },
+    {
+      "key": "EP11_S7021_0082",
+      "value": "Oh, no... Aoi!"
+    },
+    {
+      "key": "EP11_S7021_0083",
+      "value": "*cough, cough* What...is happening?"
+    },
+    {
+      "key": "EP11_S7021_0084",
+      "value": "My body hurts...all over..."
+    },
+    {
+      "key": "EP11_S7021_0085",
+      "value": "No! Aoi, no! This...this is terrible!"
+    },
+    {
+      "key": "EP11_S7021_0086",
+      "value": "Haha... Hahaha... Ahahahaha! You fool!"
+    },
+    {
+      "key": "EP11_S7021_0087",
+      "value": "You really thought a little human compassion\nwould win me over?!"
+    },
+    {
+      "key": "EP11_S7021_0088",
+      "value": "You...tricked me?"
+    },
+    {
+      "key": "EP11_S7021_0089",
+      "value": "I only wish I could see the looks on your\nfriends’ faces when they find you dead!"
+    },
+    {
+      "key": "EP11_S7021_0090",
+      "value": "Well done, human! Your pitiful kindness saved\nmy life!"
+    },
+    {
+      "key": "EP11_S7021_0091",
+      "value": "Perish with me, humans! Killed by your own\nkindness! Hahaha!"
+    },
+    {
+      "key": "EP11_S7021_0092",
+      "value": "...Unnngh... Agh..."
+    },
+    {
+      "key": "EP11_S7021_0093",
+      "value": "AOI!!"
+    },
+    {
+      "key": "EP11_S7021_0094",
+      "value": "(Ahh... Is this...my time to die?)"
+    },
+    {
+      "key": "EP11_S7021_0095",
+      "value": "(My heart... I can feel the beating getting\nweaker...)"
+    },
+    {
+      "key": "EP11_S7021_0096",
+      "value": "(Why? Where did I go wrong? Was it wrong to\nthink we could live in peace and harmony?)"
+    },
+    {
+      "key": "EP11_S7021_0097",
+      "value": "Aoi! No, wait! With my power, I’ll..."
+    },
+    {
+      "key": "EP11_S7021_0098",
+      "value": "Don’t you dare interfere!"
+    },
+    {
+      "key": "EP11_S7021_0099",
+      "value": "Augh!"
+    },
+    {
+      "key": "EP11_S7021_0100",
+      "value": "A...oi..."
+    },
+    {
+      "key": "EP11_S7021_0101",
+      "value": "Lab...ramon...!"
+    },
+    {
+      "key": "EP11_S7021_0102",
+      "value": "Aoi, my partner... I’m coming...to save\nyou..."
+    },
+    {
+      "key": "EP11_S7021_0103",
+      "value": "(No, not Labramon, too... Always trying...to\nhelp me...)"
+    },
+    {
+      "key": "EP11_S7021_0104",
+      "value": "(It’s like Saki all over again! After I’d\nfinally figured things out, too...)"
+    },
+    {
+      "key": "EP11_S7021_0105",
+      "value": "(I finally found the right answer!)"
+    },
+    {
+      "key": "EP11_S7021_0106",
+      "value": "Hahaha! How beautiful to watch a hated enemy\ndie!"
+    },
+    {
+      "key": "EP11_S7021_0107",
+      "value": "Why? I just wanted to understand you... Are\nharmony and cooperation...so wrong?"
+    },
+    {
+      "key": "EP11_S7021_0108",
+      "value": "You think a human like you could ever\nunderstand me? Don’t be stupid!"
+    },
+    {
+      "key": "EP11_S7021_0109",
+      "value": "This can’t be real... That means everything\nI realized, it was all...a lie?"
+    },
+    {
+      "key": "EP11_S7021_0110",
+      "value": "(Was I wrong this entire time? Is it possible\nfor me to save anyone...?)"
+    },
+    {
+      "key": "EP11_S7021_0111",
+      "value": "Someone...please... Tell me the right answer!"
+    },
+    {
+      "key": "EP11_S7021_0112",
+      "value": "Ao...i..."
+    },
+    {
+      "key": "EP11_S7021_0113",
+      "value": "(It’s cold... Save me, Labramon...\nSomeone...)"
+    },
+    {
+      "key": "EP11_S7021_0114",
+      "value": "Aoi!"
+    },
+    {
+      "key": "EP11_S7021_0115",
+      "value": "(That voice!)"
+    },
+    {
+      "key": "EP11_S7021_0116",
+      "value": "Aoi... Labramon!"
+    },
+    {
+      "key": "EP11_S7021_0117",
+      "value": "What the hell! What happened to you?!"
+    },
+    {
+      "key": "EP11_S7021_0118",
+      "value": "This is terrible..."
+    },
+    {
+      "key": "EP11_S7021_0119",
+      "value": "Hah! You were too late."
+    },
+    {
+      "key": "EP11_S7021_0120",
+      "value": "Did you do this, you bastard?!"
+    },
+    {
+      "key": "EP11_S7021_0121",
+      "value": "Aoi! Labramon! We’re here to save you!"
+    },
+    {
+      "key": "EP11_S7021_0122",
+      "value": "Not so fast! You think I’d let you anywhere\nnear them?"
+    },
+    {
+      "key": "EP11_S7021_0123",
+      "value": "Miu! Piedmon’s heading your way!"
+    },
+    {
+      "key": "EP11_S7021_0124",
+      "value": "Look out!"
+    },
+    {
+      "key": "EP11_S7021_0125",
+      "value": "Bah! Don’t you dare interfere!"
+    },
+    {
+      "key": "EP11_S7021_0126",
+      "value": "Kaito!"
+    },
+    {
+      "key": "EP11_S7021_0127",
+      "value": "Ugh! Miu... You all right?"
+    },
+    {
+      "key": "EP11_S7021_0128",
+      "value": "Yeah! I’m fine, thanks to you!"
+    },
+    {
+      "key": "EP11_S7021_0129",
+      "value": "But... But... Aoi! And Labramon!"
+    },
+    {
+      "key": "EP11_S7021_0130",
+      "value": "...Ungh...Ao...i..."
+    },
+    {
+      "key": "EP11_S7021_0131",
+      "value": "..."
+    },
+    {
+      "key": "EP11_S7021_0132",
+      "value": "Aoi! Labramon!"
+    },
+    {
+      "key": "EP11_S7021_0133",
+      "value": "Dammit! Outta my way, Piedmon!"
+    },
+    {
+      "key": "EP11_S7021_0134",
+      "value": "We...we have to hurry and treat Aoi’s\ninjuries, or she’ll...!"
+    },
+    {
+      "key": "EP11_S7021_0135",
+      "value": "Yes, YES! That’s it! Those are the faces\nI wanted to see!"
+    },
+    {
+      "key": "EP11_S7021_0136",
+      "value": "Watch as she takes her last breaths! Sad,\ndon’t you think? Hahaha!"
+    },
+    {
+      "key": "EP11_S7021_0137",
+      "value": "Shut up. We’re not gonna sit back and watch!"
+    },
+    {
+      "key": "EP11_S7021_0138",
+      "value": "(Everyone’s fighting...again...)"
+    }
+  ]
+}

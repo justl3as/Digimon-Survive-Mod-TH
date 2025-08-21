@@ -1,0 +1,160 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S4100_0001",
+      "value": "Sorry for the wait! Now Minoru’s on the case!\nNah, that’s no good. Maybe..."
+    },
+    {
+      "key": "EP99_S4100_0002",
+      "value": "Hey there, aren’t you forgetting someone?!\nNo, no, that’s too weak. Hmm..."
+    },
+    {
+      "key": "EP99_S4100_0003",
+      "value": "(Is that...Minoru? I wonder what he’s up to.)"
+    },
+    {
+      "key": "EP99_S4100_0004",
+      "value": "There’s no need to fear, for now Minoru has\narrived! ...Almost! Maybe something shorter."
+    },
+    {
+      "key": "EP99_S4100_0005",
+      "value": "Take this! Minoru Strike! No, no, that’s all\nwrong!"
+    },
+    {
+      "key": "EP99_S4100_0006",
+      "value": "It...lacks a certain charm. Hmm..."
+    },
+    {
+      "key": "EP99_S4100_0007",
+      "value": "Minoru?"
+    },
+    {
+      "key": "EP99_S4100_0008",
+      "value": "Uwah! T-Takuma! How long have you been\nthere?!"
+    },
+    {
+      "key": "EP99_S4100_0009",
+      "value": "Since, “Sorry for the wait! Now Minoru’s on\nthe case!”"
+    },
+    {
+      "key": "EP99_S4100_0010",
+      "value": "Oh... You heard that, did you? Man, talk\nabout embarrassing!"
+    },
+    {
+      "key": "EP99_S4100_0011",
+      "value": "So, Minoru...what’s this all about?"
+    },
+    {
+      "key": "EP99_S4100_0012",
+      "value": "You really want me to tell you? Well, I was\njust...you know..."
+    },
+    {
+      "key": "EP99_S4100_0013",
+      "value": "Practicing my catch phrase."
+    },
+    {
+      "key": "EP99_S4100_Q1",
+      "value": "Your catch phrase?!"
+    },
+    {
+      "key": "EP99_S4100_Q1_A1",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP99_S4100_Q1_A2",
+      "value": "Like you’re a hero?"
+    },
+    {
+      "key": "EP99_S4100_Q1_A3",
+      "value": "Let me try too!"
+    },
+    {
+      "key": "EP99_S4100_0014",
+      "value": "What do you mean your catch phrase?"
+    },
+    {
+      "key": "EP99_S4100_0015",
+      "value": "Oh, well...you know."
+    },
+    {
+      "key": "EP99_S4100_0016",
+      "value": "...\n...Heh."
+    },
+    {
+      "key": "EP99_S4100_0017",
+      "value": "Ahahahaha! Oh, quit taking it so seriously!\nI was just kidding!"
+    },
+    {
+      "key": "EP99_S4100_0018",
+      "value": "What? You think I’d actually have time for\na catch phrase in the middle of a fight?!"
+    },
+    {
+      "key": "EP99_S4100_0019",
+      "value": "You mean...like you’re a hero or something?"
+    },
+    {
+      "key": "EP99_S4100_0020",
+      "value": "And what’s wrong with that?! Man, why did you\nhave to overhear?!"
+    },
+    {
+      "key": "EP99_S4100_0021",
+      "value": "Anyway, look. I’m thinking maybe in this\nworld, I actually could be a hero."
+    },
+    {
+      "key": "EP99_S4100_0022",
+      "value": "I could save you if you’re ever in trouble,\nor if you get scared."
+    },
+    {
+      "key": "EP99_S4100_0023",
+      "value": "Or I could show up right when you’re about to\npee your pants. Wouldn’t that be cool?"
+    },
+    {
+      "key": "EP99_S4100_0024",
+      "value": "(Why is it always me who’s in trouble in\nthese scenarios?)"
+    },
+    {
+      "key": "EP99_S4100_0025",
+      "value": "Ooh, then let me try too!"
+    },
+    {
+      "key": "EP99_S4100_0026",
+      "value": "Hey! Don’t you go copying me! You’ll owe me\nroyalties if you do!"
+    },
+    {
+      "key": "EP99_S4100_0027",
+      "value": "Royalties? But it’s not like having money\nwill do you any good here."
+    },
+    {
+      "key": "EP99_S4100_0028",
+      "value": "And anyway, you’ve got it all wrong. Wouldn’t\nit be cooler if we had lines to say together?"
+    },
+    {
+      "key": "EP99_S4100_0029",
+      "value": "Oh, I get it. Yeah, you’re right! Great idea!"
+    },
+    {
+      "key": "EP99_S4100_0030",
+      "value": "You are the best, Takuma! This is why we’re\nbest friends! Partners! Real bros!"
+    },
+    {
+      "key": "EP99_S4100_0031",
+      "value": "But don’t tell any of the others about this\nyet, okay?"
+    },
+    {
+      "key": "EP99_S4100_0032",
+      "value": "We still need to work things out a little\nmore, make things seem effortless."
+    },
+    {
+      "key": "EP99_S4100_0033",
+      "value": "I know! We can start doing special training,\nstarting tomorrow! We meet here at 5:00 AM!"
+    },
+    {
+      "key": "EP99_S4100_0034",
+      "value": "5:00 AM?!"
+    },
+    {
+      "key": "EP99_S4100_0035",
+      "value": "(Is Minoru that serious about this?!)"
+    }
+  ]
+}

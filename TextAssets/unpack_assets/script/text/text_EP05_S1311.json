@@ -1,0 +1,232 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1311_0001",
+      "value": "(It’s obvious how screwy things are between\nShuuji and Lopmon, even from the outside.)"
+    },
+    {
+      "key": "EP05_S1311_0002",
+      "value": "(I wonder how Saki and Floramon are doing?)"
+    },
+    {
+      "key": "EP05_S1311_0003",
+      "value": "Hyaaah!"
+    },
+    {
+      "key": "EP05_S1311_0004",
+      "value": "Oof!"
+    },
+    {
+      "key": "EP05_S1311_0005",
+      "value": "Oh, good one, Floramon!"
+    },
+    {
+      "key": "EP05_S1311_0006",
+      "value": "(Those two are playing volleyball?)"
+    },
+    {
+      "key": "EP05_S1311_0007",
+      "value": "Yah! ...Ah, sorry! Didn’t mean to send it\nthat way!"
+    },
+    {
+      "key": "EP05_S1311_0008",
+      "value": "Leave it to me!"
+    },
+    {
+      "key": "EP05_S1311_0009",
+      "value": "Whoa, you can stretch your tendril! Nice one,\nFloramon!"
+    },
+    {
+      "key": "EP05_S1311_0010",
+      "value": "Ah, this is nothing."
+    },
+    {
+      "key": "EP05_S1311_0011",
+      "value": "You two look like you’re having fun."
+    },
+    {
+      "key": "EP05_S1311_0012",
+      "value": "Oh, it’s you, Takuma! And Agumon!"
+    },
+    {
+      "key": "EP05_S1311_0013",
+      "value": "Hidey-ho!"
+    },
+    {
+      "key": "EP05_S1311_0014",
+      "value": "Hey there, Agumon."
+    },
+    {
+      "key": "EP05_S1311_0015",
+      "value": "Just so you know, this isn’t a game we’re\nplaying here."
+    },
+    {
+      "key": "EP05_S1311_0016",
+      "value": "I didn’t say anything... What is this, then?"
+    },
+    {
+      "key": "EP05_S1311_0017",
+      "value": "Hmm, like a physical exam for Floramon? Just\nfigured I should know what she can do."
+    },
+    {
+      "key": "EP05_S1311_0018",
+      "value": "Huh. Can’t say I expected such a serious\nanswer."
+    },
+    {
+      "key": "EP05_S1311_0019",
+      "value": "Rude. I’m always serious!"
+    },
+    {
+      "key": "EP05_S1311_0020",
+      "value": "No telling what’s coming for us, so we should\nget ready however we can, right?"
+    },
+    {
+      "key": "EP05_S1311_0021",
+      "value": "Is it my imagination...or are you enjoying\nthis?"
+    },
+    {
+      "key": "EP05_S1311_0022",
+      "value": "Ha, saw right through me? I can’t keep\na thing from you."
+    },
+    {
+      "key": "EP05_S1311_0023",
+      "value": "If I’m being honest, it’s...enough for me\njust being here, alive and kicking."
+    },
+    {
+      "key": "EP05_S1311_0024",
+      "value": "Enough just being here..."
+    },
+    {
+      "key": "EP05_S1311_0025",
+      "value": "That may be a bit tactless of me, so I can’t\nsay it in front of the others."
+    },
+    {
+      "key": "EP05_S1311_0026",
+      "value": "(I can see that. If Shuuji or Aoi heard,\nI imagine they’d get mad or scold her.)"
+    },
+    {
+      "key": "EP05_S1311_0027",
+      "value": "(Minoru or Miu would agree, I bet. The three\nof them would get along like gangbusters.)"
+    },
+    {
+      "key": "EP05_S1311_0028",
+      "value": "(As for me, I’m not sure. I haven’t had time\nto consider if things are fun or scary.)"
+    },
+    {
+      "key": "EP05_S1311_Q1",
+      "value": "(I think Saki’s words seem...)"
+    },
+    {
+      "key": "EP05_S1311_Q1_A1",
+      "value": "Tactless, actually."
+    },
+    {
+      "key": "EP05_S1311_Q1_A2",
+      "value": "Fine, I think."
+    },
+    {
+      "key": "EP05_S1311_Q1_A3",
+      "value": "Hard to understand."
+    },
+    {
+      "key": "EP05_S1311_0030",
+      "value": "Yeah, it’s pretty tactless. You better not\nsay that in front of Shuuji or Aoi."
+    },
+    {
+      "key": "EP05_S1311_0031",
+      "value": "Right? Aoi might try to hear me out, but\nShuuji would totally blow his top I think."
+    },
+    {
+      "key": "EP05_S1311_0032",
+      "value": "Oh yeah, totally. You’ve got those two\npegged."
+    },
+    {
+      "key": "EP05_S1311_0033",
+      "value": "I really couldn’t deal! Straightlaced types\nare fine and all, but hear a girl out!"
+    },
+    {
+      "key": "EP05_S1311_0034",
+      "value": "All right, all right... I get it, you don’t\nneed to go that far."
+    },
+    {
+      "key": "EP05_S1311_0036",
+      "value": "What’s wrong with that? I bet Minoru or Miu\nwould say the same thing."
+    },
+    {
+      "key": "EP05_S1311_0037",
+      "value": "Oh, totally! Minoru’s dumb as a box of rocks,\nbut Miu seems like a kindred spirit."
+    },
+    {
+      "key": "EP05_S1311_0038",
+      "value": "Poor Minoru... What did you mean about Miu,\nthough?"
+    },
+    {
+      "key": "EP05_S1311_0039",
+      "value": "Hmm, how can I put it. Like we’re both\ncarrying a heavy burden?"
+    },
+    {
+      "key": "EP05_S1311_0040",
+      "value": "A burden? Like what?"
+    },
+    {
+      "key": "EP05_S1311_0041",
+      "value": "It’s fine. Don’t worry about it."
+    },
+    {
+      "key": "EP05_S1311_0042",
+      "value": "Yeah, if I get a chance I’d like to make\nfriends with that kid."
+    },
+    {
+      "key": "EP05_S1311_0044",
+      "value": "To be honest, I’m not really sure."
+    },
+    {
+      "key": "EP05_S1311_0045",
+      "value": "You’re not sure? What do you mean?"
+    },
+    {
+      "key": "EP05_S1311_0046",
+      "value": "Whether what you’re saying is tactless."
+    },
+    {
+      "key": "EP05_S1311_0047",
+      "value": "I’ve just been so preoccupied with my own\nstuff, I haven’t thought about my feelings."
+    },
+    {
+      "key": "EP05_S1311_0048",
+      "value": "Is that right... Sure, I can see that."
+    },
+    {
+      "key": "EP05_S1311_0049",
+      "value": "Not the answer you were looking for?"
+    },
+    {
+      "key": "EP05_S1311_0050",
+      "value": "Oh no, I get what you’re saying."
+    },
+    {
+      "key": "EP05_S1311_0051",
+      "value": "I might be in your position soon enough..."
+    },
+    {
+      "key": "EP05_S1311_0052",
+      "value": "Let’s see, what’s next on my list? And you,\nTakuma—what should you be doing?"
+    },
+    {
+      "key": "EP05_S1311_0053",
+      "value": "Now is all we have, right?"
+    },
+    {
+      "key": "EP05_S1311_0054",
+      "value": "Um, I guess..."
+    },
+    {
+      "key": "EP05_S1311_0055",
+      "value": "(Saki’s smiling, but why do I feel like she’s\nhiding something...?)"
+    },
+    {
+      "key": "EP05_S1311_0056",
+      "value": "Hey Takuma, don’t you think you have\nsomething you should be doing?"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S0031_0001",
+      "value": "There might be other people here.\nI wanna take a look around."
+    },
+    {
+      "key": "EP02_S0031_Q1",
+      "value": "(So, what do we do?)"
+    },
+    {
+      "key": "EP02_S0031_Q1_A1",
+      "value": "Agree with Minoru."
+    },
+    {
+      "key": "EP02_S0031_Q1_A2",
+      "value": "Disagree with Minoru."
+    },
+    {
+      "key": "EP02_S0031_0002",
+      "value": "I’ve got to agree with Minoru on this one."
+    },
+    {
+      "key": "EP02_S0031_0003",
+      "value": "I knew it! That’s what I’m talking about,\npartner!"
+    },
+    {
+      "key": "EP02_S0031_0004",
+      "value": "Partner!?"
+    },
+    {
+      "key": "EP02_S0031_0005",
+      "value": "It’s an honor to be called someone’s partner.\nI’d want to be called a partner too."
+    },
+    {
+      "key": "EP02_S0031_0006",
+      "value": "Me too!"
+    },
+    {
+      "key": "EP02_S0031_0007",
+      "value": "It’s not that easy! To be a partner, you have\nto pass some super intense tests..."
+    },
+    {
+      "key": "EP02_S0031_0008",
+      "value": "It’s not really that hard."
+    },
+    {
+      "key": "EP02_S0031_0009",
+      "value": "Okay, I’ll have a look around!\nYou keep an eye on everyone, Takuma!"
+    },
+    {
+      "key": "EP02_S0031_0010",
+      "value": "We have to come to a decision on this,\ntogether. I want to hear from everyone."
+    },
+    {
+      "key": "EP02_S0031_0011",
+      "value": "Really? Well, think hard on it, then."
+    },
+    {
+      "key": "EP02_S0031_0012",
+      "value": "This is an important decision. Please\nconsider your options carefully."
+    }
+  ]
+}

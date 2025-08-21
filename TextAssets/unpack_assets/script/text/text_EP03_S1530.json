@@ -1,0 +1,260 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S1530_0001",
+      "value": "Huh? What’s going on, Takuma?"
+    },
+    {
+      "key": "EP03_S1530_0002",
+      "value": "I was looking for you guys, since you all\ndisappeared."
+    },
+    {
+      "key": "EP03_S1530_0003",
+      "value": "Well, we didn’t exactly coordinate anything.\nHmm... Maybe the others are in the woods?"
+    },
+    {
+      "key": "EP03_S1530_0004",
+      "value": "I heard Agumon shouting and chasing\nsomething..."
+    },
+    {
+      "key": "EP03_S1530_0005",
+      "value": "Chasing...what?"
+    },
+    {
+      "key": "EP03_S1530_0006",
+      "value": "Beats me!"
+    },
+    {
+      "key": "EP03_S1530_0007",
+      "value": "Are you by yourself, Floramon?!"
+    },
+    {
+      "key": "EP03_S1530_0008",
+      "value": "Hm? What’s it look like to you, Takuma?"
+    },
+    {
+      "key": "EP03_S1530_0009",
+      "value": "It...looks like you’re on your own."
+    },
+    {
+      "key": "EP03_S1530_0010",
+      "value": "Aha, yes, how very observant. I came here all\nby myself."
+    },
+    {
+      "key": "EP03_S1530_0011",
+      "value": "Hey, are you teasing me?"
+    },
+    {
+      "key": "EP03_S1530_0012",
+      "value": "I don’t know, what do you think?"
+    },
+    {
+      "key": "EP03_S1530_0013",
+      "value": "(Why do I feel like she’s not giving me\na straight answer? She’s so hard to read.)"
+    },
+    {
+      "key": "EP03_S1530_0014",
+      "value": "(Could she be hiding something? Maybe she’s\na spy?)"
+    },
+    {
+      "key": "EP03_S1530_0015",
+      "value": "(No, no, I can’t let myself start questioning\nmy friends. But...)"
+    },
+    {
+      "key": "EP03_S1530_Q1",
+      "value": "(I wonder what she’d say if I asked her.)"
+    },
+    {
+      "key": "EP03_S1530_Q1_A1",
+      "value": "What are you doing?"
+    },
+    {
+      "key": "EP03_S1530_Q1_A2",
+      "value": "Are you a spy?"
+    },
+    {
+      "key": "EP03_S1530_Q1_A3",
+      "value": "Let’s head back."
+    },
+    {
+      "key": "EP03_S1530_0016",
+      "value": "What are you doing?"
+    },
+    {
+      "key": "EP03_S1530_0017",
+      "value": "What are you doing out here all by yourself?"
+    },
+    {
+      "key": "EP03_S1530_0018",
+      "value": "What? Can’t a girl have her privacy?\nHow dare you?!"
+    },
+    {
+      "key": "EP03_S1530_0019",
+      "value": "Would you just give me a straight answer?\nIt’s a serious question."
+    },
+    {
+      "key": "EP03_S1530_0020",
+      "value": "You’re the one who decided to abandon the\ngroup and go off on your own."
+    },
+    {
+      "key": "EP03_S1530_0021",
+      "value": "Honestly... You’re surprisingly uptight, you\nknow that?"
+    },
+    {
+      "key": "EP03_S1530_0022",
+      "value": "Now, what was the question? What am I doing\nout here? I’m...eating. Snacking? Hmm..."
+    },
+    {
+      "key": "EP03_S1530_0023",
+      "value": "How to put this? I like bathing in sunlight,\nand the air and soil are fresh here."
+    },
+    {
+      "key": "EP03_S1530_0024",
+      "value": "What? So...this is some kind of nature\ntherapy?"
+    },
+    {
+      "key": "EP03_S1530_0025",
+      "value": "Yes! Nature therapy! That’s it! I was\nrecovering in the fresh air and sunlight."
+    },
+    {
+      "key": "EP03_S1530_0026",
+      "value": "Oh, is that all..."
+    },
+    {
+      "key": "EP03_S1530_0027",
+      "value": "Um, I’m sorry. I shouldn’t have doubted you."
+    },
+    {
+      "key": "EP03_S1530_0028",
+      "value": "That’s all right. Besides, now you know\na little more about me."
+    },
+    {
+      "key": "EP03_S1530_0029",
+      "value": "Are you a spy?"
+    },
+    {
+      "key": "EP03_S1530_0030",
+      "value": "Don’t tell me... Floramon, you’re not a spy,\nare you?"
+    },
+    {
+      "key": "EP03_S1530_0031",
+      "value": "Huh? What’s that?"
+    },
+    {
+      "key": "EP03_S1530_0032",
+      "value": "Come to think of it, any of you could be\nspies!"
+    },
+    {
+      "key": "EP03_S1530_0033",
+      "value": "And who’s to say Aoi or Minoru or anyone else\nisn’t colluding with the enemy?"
+    },
+    {
+      "key": "EP03_S1530_0034",
+      "value": "Oh! So that’s what a spy is."
+    },
+    {
+      "key": "EP03_S1530_0035",
+      "value": "But if it’s true, and you’re a spy, I need to\nact!"
+    },
+    {
+      "key": "EP03_S1530_0036",
+      "value": "Wait, wait, stop! Don’t get so worked up!"
+    },
+    {
+      "key": "EP03_S1530_0037",
+      "value": "Heheh, hahaha! You actually think I’d betray\nSaki and the others? No way! Not a chance!"
+    },
+    {
+      "key": "EP03_S1530_0038",
+      "value": "What? Really? You wouldn’t?"
+    },
+    {
+      "key": "EP03_S1530_0039",
+      "value": "No! And it’s not just me. Agumon wouldn’t do\nthat, and neither would anyone else."
+    },
+    {
+      "key": "EP03_S1530_0040",
+      "value": "I can’t believe you would think that. Seems\nlike you really don’t get us yet, Takuma."
+    },
+    {
+      "key": "EP03_S1530_0041",
+      "value": "Oh, well, uh...sorry. I shouldn’t have jumped\nto such a horrible conclusion about you."
+    },
+    {
+      "key": "EP03_S1530_0042",
+      "value": "Well, as long as you’ve learned your lesson,\nI forgive you."
+    },
+    {
+      "key": "EP03_S1530_0043",
+      "value": "Let’s head back."
+    },
+    {
+      "key": "EP03_S1530_0044",
+      "value": "Well, I’m not sure what you’re doing here,\nbut let’s get back. Saki must be worried."
+    },
+    {
+      "key": "EP03_S1530_0045",
+      "value": "Oh, yes, let’s go. I’d hate to worry Saki."
+    },
+    {
+      "key": "EP03_S1530_0046",
+      "value": "Speaking of which... Did you come out here\nlooking for Agumon because you were worried?"
+    },
+    {
+      "key": "EP03_S1530_0047",
+      "value": "Yeah, pretty much. Only I guess he’s not\nhere."
+    },
+    {
+      "key": "EP03_S1530_0048",
+      "value": "The two of you are so close. Couldn’t be more\ndifferent than Shuuji and Lopmon."
+    },
+    {
+      "key": "EP03_S1530_0049",
+      "value": "Yeah, I feel bad for Lopmon, but I can’t help\nwondering..."
+    },
+    {
+      "key": "EP03_S1530_0050",
+      "value": "If Shuuji’s so hard on him, why doesn’t he\njust leave?"
+    },
+    {
+      "key": "EP03_S1530_0051",
+      "value": "He couldn’t do that. As far as Lopmon is\nconcerned, Shuuji is irreplaceable."
+    },
+    {
+      "key": "EP03_S1530_0052",
+      "value": "It’s the same with me, and with Agumon too,\nyou know? You humans are special to us."
+    },
+    {
+      "key": "EP03_S1530_0053",
+      "value": "We’re...special?"
+    },
+    {
+      "key": "EP03_S1530_0054",
+      "value": "Heheh, sounds like you still don’t really\nunderstand us yet, Takuma."
+    },
+    {
+      "key": "EP03_S1530_0055",
+      "value": "Anyway, I’m all set now. I think I’ll head\nback. You go on without me, Takuma."
+    },
+    {
+      "key": "EP03_S1530_0056",
+      "value": "You’ll be all right on your own?"
+    },
+    {
+      "key": "EP03_S1530_0057",
+      "value": "Better than you will be. Besides, weren’t you\nlooking for Agumon?"
+    },
+    {
+      "key": "EP03_S1530_0058",
+      "value": "Oh, right! You said you think he’s in the\nforest? Thanks, I’ll check it out."
+    },
+    {
+      "key": "EP03_S1530_0059",
+      "value": "Take care!"
+    },
+    {
+      "key": "EP03_S1530_0060",
+      "value": "Don’t worry, I’ll make it back just fine. You\nshould go find Agumon."
+    }
+  ]
+}

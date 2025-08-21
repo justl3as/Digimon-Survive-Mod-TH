@@ -1,0 +1,208 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S9120_0001",
+      "value": "Oh, Takuma. There doesn’t seem to be any\nghost here..."
+    },
+    {
+      "key": "EP12_S9120_0002",
+      "value": "Hey, no need to be so scared. I don’t think\nthe boy from the shrine wants to hurt us."
+    },
+    {
+      "key": "EP12_S9120_0003",
+      "value": "I...I know that, but..."
+    },
+    {
+      "key": "EP12_S9120_0004",
+      "value": "Being in an old school alone at night is\nscary enough without a ghost. This is creepy."
+    },
+    {
+      "key": "EP12_S9120_0005",
+      "value": "B-besides, it’s not like I doubt you, but...\nyou never know, it could be an angry ghost..."
+    },
+    {
+      "key": "EP12_S9120_0006",
+      "value": "(I guess I can see where they’re coming from.\nI’d be scared too if it weren’t for Agumon.)"
+    },
+    {
+      "key": "EP12_S9120_0007",
+      "value": "Listen, why don’t we all look around\ntogether? Wouldn’t that be safer?"
+    },
+    {
+      "key": "EP12_S9120_0008",
+      "value": "It would be much less efficient. Splitting up\nas much as we can saves time."
+    },
+    {
+      "key": "EP12_S9120_0009",
+      "value": "Oh... I know that, but..."
+    },
+    {
+      "key": "EP12_S9120_0010",
+      "value": "Hang in there, Saki. You’ve g-got me, d-don’t\nyou?"
+    },
+    {
+      "key": "EP12_S9120_0011",
+      "value": "(They both seem pretty scared. I should try\nand think of some way to cheer them up.)"
+    },
+    {
+      "key": "EP12_S9120_Q1",
+      "value": "(Who should I talk to?)"
+    },
+    {
+      "key": "EP12_S9120_Q1_A1",
+      "value": "I’ll talk to Aoi."
+    },
+    {
+      "key": "EP12_S9120_Q1_A2",
+      "value": "I’ll talk to Saki."
+    },
+    {
+      "key": "EP12_S9120_Q1_A3",
+      "value": "I’ll talk to Renamon."
+    },
+    {
+      "key": "EP12_S9120_0012",
+      "value": "Aoi"
+    },
+    {
+      "key": "EP12_S9120_0013",
+      "value": "Are you doing okay, Aoi?"
+    },
+    {
+      "key": "EP12_S9120_0014",
+      "value": "Well...to be honest, I’m anything but okay."
+    },
+    {
+      "key": "EP12_S9120_0015",
+      "value": "But...if I let that show, it’ll only make\nSaki more upset."
+    },
+    {
+      "key": "EP12_S9120_0016",
+      "value": "I get that, but don’t overdo it, okay? If it\nstarts to be too much, I’ll be here for you."
+    },
+    {
+      "key": "EP12_S9120_0017",
+      "value": "Really? You mean it?"
+    },
+    {
+      "key": "EP12_S9120_0018",
+      "value": "But wait!"
+    },
+    {
+      "key": "EP12_S9120_0019",
+      "value": "You can’t stay here. We need to find this\nghost as soon as possible."
+    },
+    {
+      "key": "EP12_S9120_0020",
+      "value": "Thanks, Takuma. Don’t worry about me, you\nneed to keep looking for the ghost."
+    },
+    {
+      "key": "EP12_S9120_0021",
+      "value": "B-but if things do get really bad, you’ll be\nthere to help, right?"
+    },
+    {
+      "key": "EP12_S9120_0022",
+      "value": "Of course. I’ll keep you safe no matter what."
+    },
+    {
+      "key": "EP12_S9120_0023",
+      "value": "Saki"
+    },
+    {
+      "key": "EP12_S9120_0024",
+      "value": "Saki...are you okay?"
+    },
+    {
+      "key": "EP12_S9120_0025",
+      "value": "D-do I look like I’m okay?"
+    },
+    {
+      "key": "EP12_S9120_0026",
+      "value": "Er, no, sorry. Would it help if I stayed with\nyou?"
+    },
+    {
+      "key": "EP12_S9120_0027",
+      "value": "Oh... Mmm..."
+    },
+    {
+      "key": "EP12_S9120_0028",
+      "value": "It would. It really, really would, but..."
+    },
+    {
+      "key": "EP12_S9120_0029",
+      "value": "That’d just make trouble for you and everyone\nelse. So...I got this."
+    },
+    {
+      "key": "EP12_S9120_0030",
+      "value": "Okay. That’s really impressive, Saki."
+    },
+    {
+      "key": "EP12_S9120_0031",
+      "value": "But if things do get really bad, you can call\nfor me. I’ll come running."
+    },
+    {
+      "key": "EP12_S9120_0032",
+      "value": "All right. Thanks, Takuma."
+    },
+    {
+      "key": "EP12_S9120_0033",
+      "value": "If I call for you, you’d better come quick!"
+    },
+    {
+      "key": "EP12_S9120_0034",
+      "value": "I will, don’t worry."
+    },
+    {
+      "key": "EP12_S9120_0035",
+      "value": "Renamon"
+    },
+    {
+      "key": "EP12_S9120_0036",
+      "value": "Listen, Renamon..."
+    },
+    {
+      "key": "EP12_S9120_0037",
+      "value": "What? Don’t tell me you think I’M scared."
+    },
+    {
+      "key": "EP12_S9120_0038",
+      "value": "No, it’s not that. I know you wouldn’t be."
+    },
+    {
+      "key": "EP12_S9120_0039",
+      "value": "But...would you mind staying with Aoi and\nSaki so they don’t get too upset?"
+    },
+    {
+      "key": "EP12_S9120_0040",
+      "value": "Hmph... I suppose as long as we’re all\nsearching this room, we’re sticking together."
+    },
+    {
+      "key": "EP12_S9120_0041",
+      "value": "I don’t know if it’s enough to keep them from\ngetting scared, but...I can stay here."
+    },
+    {
+      "key": "EP12_S9120_0042",
+      "value": "Thanks. That’ll be a big help."
+    },
+    {
+      "key": "EP12_S9120_0043",
+      "value": "You can leave this place to us, Takuma. You\nkeep looking around."
+    },
+    {
+      "key": "EP12_S9120_0044",
+      "value": "That’s right. We’ve g-got this."
+    },
+    {
+      "key": "EP12_S9120_0045",
+      "value": "(I’m still worried about those two, but...\nI guess I should listen to them.)"
+    },
+    {
+      "key": "EP12_S9120_0046",
+      "value": "D-don’t worry about us! We’re d-doing just\nfine."
+    },
+    {
+      "key": "EP12_S9120_0047",
+      "value": "Nnngh... I’m not scared, I’m not scared..."
+    }
+  ]
+}

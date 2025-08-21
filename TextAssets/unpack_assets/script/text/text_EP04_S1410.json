@@ -1,0 +1,360 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1410_0001",
+      "value": "Are you still not ready to go? What’s taking\nso long?"
+    },
+    {
+      "key": "EP04_S1410_0002",
+      "value": "I’m working on letting everyone know."
+    },
+    {
+      "key": "EP04_S1410_0003",
+      "value": "Besides, you said you’d wait until noon."
+    },
+    {
+      "key": "EP04_S1410_0004",
+      "value": "I’d rather not be waiting at all!"
+    },
+    {
+      "key": "EP04_S1410_0005",
+      "value": "And we all know that."
+    },
+    {
+      "key": "EP04_S1410_0006",
+      "value": "But don’t try to rush people too much."
+    },
+    {
+      "key": "EP04_S1410_0007",
+      "value": "You saw that thing last night too, didn’t\nyou?"
+    },
+    {
+      "key": "EP04_S1410_0008",
+      "value": "That creepy monster with the weird hands?"
+    },
+    {
+      "key": "EP04_S1410_0009",
+      "value": "After seein’ that thing, it’s no wonder the\nothers are scared. It sure freaked me out."
+    },
+    {
+      "key": "EP04_S1410_0010",
+      "value": "If the fog comes back, it might attack again.\nYou can see how that’d be upsetting, right?"
+    },
+    {
+      "key": "EP04_S1410_0011",
+      "value": "Sure, but...couldn’t that happen to Miu too?"
+    },
+    {
+      "key": "EP04_S1410_0012",
+      "value": "The fog could show up at any time, along with\nthat weird monster."
+    },
+    {
+      "key": "EP04_S1410_0013",
+      "value": "All that stuff with Ryo hit everyone harder\nthan I’d realized."
+    },
+    {
+      "key": "EP04_S1410_0014",
+      "value": "Makes sense to me."
+    },
+    {
+      "key": "EP04_S1410_0015",
+      "value": "They’ve probably all realized the same thing\ncould happen to any of them."
+    },
+    {
+      "key": "EP04_S1410_0016",
+      "value": "It’s not so easy to get over something like\nthat."
+    },
+    {
+      "key": "EP04_S1410_0017",
+      "value": "Until last night, none of us fully realized\njust how dangerous this place could be."
+    },
+    {
+      "key": "EP04_S1410_0018",
+      "value": "(Probably, deep down, none of us thought we’d\nactually die. We thought we’d be rescued.)"
+    },
+    {
+      "key": "EP04_S1410_0019",
+      "value": "And Miu’s out there right now, on her own, in\na dangerous place like this."
+    },
+    {
+      "key": "EP04_S1410_0020",
+      "value": "Miu..."
+    },
+    {
+      "key": "EP04_S1410_0021",
+      "value": "What am I doing? I don’t have time for this!"
+    },
+    {
+      "key": "EP04_S1410_0022",
+      "value": "Hey, wait! Are you just going to go charging\nout there again?"
+    },
+    {
+      "key": "EP04_S1410_0023",
+      "value": "Think about what happened yesterday. We can’t\nlet the same thing happen to Miu!"
+    },
+    {
+      "key": "EP04_S1410_0024",
+      "value": "So I’m going, even if it has to be alone!"
+    },
+    {
+      "key": "EP04_S1410_0025",
+      "value": "It’s like you haven’t learned anything!"
+    },
+    {
+      "key": "EP04_S1410_0026",
+      "value": "Kaito, wait!"
+    },
+    {
+      "key": "EP04_S1410_0027",
+      "value": "No! I’ve waited long enough!"
+    },
+    {
+      "key": "EP04_S1410_0028",
+      "value": "(This is bad! He might actually leave this\ntime. I need to convince him to stop!)"
+    },
+    {
+      "key": "EP04_S1410_0029",
+      "value": "(But it has to be good, or he won’t listen.\nShould I say we need his help too?)"
+    },
+    {
+      "key": "EP04_S1410_0030",
+      "value": "(Or should I try to stop him by force?)"
+    },
+    {
+      "key": "EP04_S1410_Q1",
+      "value": "(How can I convince Kaito?)"
+    },
+    {
+      "key": "EP04_S1410_Q1_A1",
+      "value": "Appeal for help!"
+    },
+    {
+      "key": "EP04_S1410_Q1_A2",
+      "value": "Persuade him."
+    },
+    {
+      "key": "EP04_S1410_Q1_A3",
+      "value": "By force, if need be!"
+    },
+    {
+      "key": "EP04_S1410_0031",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1410_0032",
+      "value": "Kaito, if you go, you’re putting us in danger\ntoo. Please, we need to stick together!"
+    },
+    {
+      "key": "EP04_S1410_0033",
+      "value": "I don’t see what difference having one less\nperson in the group makes."
+    },
+    {
+      "key": "EP04_S1410_0034",
+      "value": "But wasn’t the whole problem yesterday that\nwe didn’t work together?"
+    },
+    {
+      "key": "EP04_S1410_0035",
+      "value": "Uh... Well..."
+    },
+    {
+      "key": "EP04_S1410_0036",
+      "value": "Besides, in a world where anything could\nhappen, we could use all the help we can get."
+    },
+    {
+      "key": "EP04_S1410_0037",
+      "value": "I don’t know, how much help do you think this\nhothead could be?"
+    },
+    {
+      "key": "EP04_S1410_0038",
+      "value": "He’s stubborn, short-tempered, and totally\nfocused on Miu."
+    },
+    {
+      "key": "EP04_S1410_0039",
+      "value": "Shut up!"
+    },
+    {
+      "key": "EP04_S1410_0040",
+      "value": "Look, the important thing is we shouldn’t\nsplit up."
+    },
+    {
+      "key": "EP04_S1410_0041",
+      "value": "Kaito, please."
+    },
+    {
+      "key": "EP04_S1410_0042",
+      "value": "Oh, all right, fine. You don’t have to beg me\nlike that."
+    },
+    {
+      "key": "EP04_S1410_0043",
+      "value": "Besides, I guess having more help looking for\nMiu WOULD make things easier."
+    },
+    {
+      "key": "EP04_S1410_0044",
+      "value": "Thanks, Kaito."
+    },
+    {
+      "key": "EP04_S1410_0045",
+      "value": "Yeah. Sure."
+    },
+    {
+      "key": "EP04_S1410_0046",
+      "value": "Oh, what’s this? Your face is turning red."
+    },
+    {
+      "key": "EP04_S1410_0047",
+      "value": "It is not!"
+    },
+    {
+      "key": "EP04_S1410_0048",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1410_0049",
+      "value": "It’s like I said before."
+    },
+    {
+      "key": "EP04_S1410_0050",
+      "value": "Anything could happen out there. I can’t let\nyou go on your own. It’s not safe."
+    },
+    {
+      "key": "EP04_S1410_0051",
+      "value": "I can take care of myself, okay?"
+    },
+    {
+      "key": "EP04_S1410_0052",
+      "value": "Besides, I’ll have Dracmon with me."
+    },
+    {
+      "key": "EP04_S1410_0053",
+      "value": "(It sounds like Kaito trusts Dracmon more\nthan I realized.)"
+    },
+    {
+      "key": "EP04_S1410_0054",
+      "value": "(But wait, that’s a problem. If that’s how he\nfeels, how can I convince him to stay?)"
+    },
+    {
+      "key": "EP04_S1410_0055",
+      "value": "You should know, Kaito, I’m with Takuma on\nthis one."
+    },
+    {
+      "key": "EP04_S1410_0056",
+      "value": "What?! I thought you said before you’d come\nwith me!"
+    },
+    {
+      "key": "EP04_S1410_0057",
+      "value": "Only as a last resort if you rush out of\nhere."
+    },
+    {
+      "key": "EP04_S1410_0058",
+      "value": "Besides, you never know what you’ll find when\nyou’re looking for Miu. Better to have help."
+    },
+    {
+      "key": "EP04_S1410_0059",
+      "value": "Yeah, sure, but..."
+    },
+    {
+      "key": "EP04_S1410_0060",
+      "value": "(Looks like Kaito is starting to calm down\nagain thanks to Dracmon.)"
+    },
+    {
+      "key": "EP04_S1410_0061",
+      "value": "(One more point might do it.)"
+    },
+    {
+      "key": "EP04_S1410_0062",
+      "value": "Kaito, think of how Miu would feel if\nanything were to happen to you."
+    },
+    {
+      "key": "EP04_S1410_0063",
+      "value": "All right, fine!"
+    },
+    {
+      "key": "EP04_S1410_0064",
+      "value": "Besides, I did say I’d wait until noon.\nLeaving before then really wouldn’t be right."
+    },
+    {
+      "key": "EP04_S1410_0065",
+      "value": "Exactly! That’s some good thinking, for you."
+    },
+    {
+      "key": "EP04_S1410_0066",
+      "value": "Hey! You didn’t have to add that!"
+    },
+    {
+      "key": "EP04_S1410_0067",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1410_0068",
+      "value": "No! I’m not letting you go!"
+    },
+    {
+      "key": "EP04_S1410_0069",
+      "value": "I’ll keep you here by force if I have to."
+    },
+    {
+      "key": "EP04_S1410_0070",
+      "value": "What? You think you can stop me?!"
+    },
+    {
+      "key": "EP04_S1410_0071",
+      "value": "(Uh...to be honest, I don’t think I can. But\nstill...)"
+    },
+    {
+      "key": "EP04_S1410_0072",
+      "value": "If it means keeping you here, I’m not going\nto hold back."
+    },
+    {
+      "key": "EP04_S1410_0073",
+      "value": "Damn it! Why are you so desperate to stop me,\nanyway?"
+    },
+    {
+      "key": "EP04_S1410_0074",
+      "value": "Isn’t it obvious?"
+    },
+    {
+      "key": "EP04_S1410_0075",
+      "value": "Because I want us all to work together to\nfind Miu, then go back home."
+    },
+    {
+      "key": "EP04_S1410_0076",
+      "value": "And the only way to make that happen is to\ncooperate, so..."
+    },
+    {
+      "key": "EP04_S1410_0077",
+      "value": "If you’re so set on this, let’s go together.\nDon’t you think that’s the smart thing to do?"
+    },
+    {
+      "key": "EP04_S1410_0078",
+      "value": "What Takuma’s saying makes sense to me."
+    },
+    {
+      "key": "EP04_S1410_0079",
+      "value": "I know that, okay? I’m not stupid."
+    },
+    {
+      "key": "EP04_S1410_0080",
+      "value": "Let’s all work together to find Miu."
+    },
+    {
+      "key": "EP04_S1410_0081",
+      "value": "...You’re right, Takuma. Thanks."
+    },
+    {
+      "key": "EP04_S1410_0082",
+      "value": "I’m sorry, Takuma. Kaito tends to act without\nthinking."
+    },
+    {
+      "key": "EP04_S1410_0083",
+      "value": "Oh, shut up!"
+    },
+    {
+      "key": "EP04_S1410_0084",
+      "value": "Anyway, look, uh..."
+    },
+    {
+      "key": "EP04_S1410_0085",
+      "value": "Thanks, Takuma."
+    }
+  ]
+}

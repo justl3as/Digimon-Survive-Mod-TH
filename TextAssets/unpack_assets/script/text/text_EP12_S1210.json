@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1210_0001",
+      "value": "This is incredible!"
+    },
+    {
+      "key": "EP12_S1210_0002",
+      "value": "Amazing! Is this for real? No way!"
+    },
+    {
+      "key": "EP12_S1210_0003",
+      "value": "LOL there’s no way this is real. Someone’s\nusing fake footage to get likes. Heh."
+    },
+    {
+      "key": "EP12_S1210_0004",
+      "value": "Hey, this is on TV! They’re running this\nfootage on the news!"
+    },
+    {
+      "key": "EP12_S1210_0005",
+      "value": "It’s all just special effects."
+    },
+    {
+      "key": "EP12_S1210_0006",
+      "value": "This is totally real! I think it’s like an\nalien or a cryptid or something."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S1018_0001",
+      "value": "I sensed something over here, so I thought\nI’d go see what it was!"
+    },
+    {
+      "key": "EP03_S1018_0002",
+      "value": "So that’s what happened. You should’ve said\nsomething."
+    },
+    {
+      "key": "EP03_S1018_0003",
+      "value": "Sorry! It’s just, it didn’t seem dangerous."
+    },
+    {
+      "key": "EP03_S1018_0004",
+      "value": "Right, well, let’s see what it is."
+    },
+    {
+      "key": "EP03_S1018_0005",
+      "value": "Don’t worry. I don’t think it’s any kind of\nthreat."
+    }
+  ]
+}

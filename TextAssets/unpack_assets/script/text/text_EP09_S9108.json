@@ -1,0 +1,120 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S9108_0001",
+      "value": "What is this place?"
+    },
+    {
+      "key": "EP09_S9108_0002",
+      "value": "There’s a hole in the wall. It looked\nsuspicious to me, and when I checked it..."
+    },
+    {
+      "key": "EP09_S9108_0003",
+      "value": "It was connected to this area. Did you know\nabout this, Jijimon?"
+    },
+    {
+      "key": "EP09_S9108_0004",
+      "value": "I’m afraid this is the first I’ve heard of\nit."
+    },
+    {
+      "key": "EP09_S9108_0005",
+      "value": "Takuma... I felt something off about this\nplace last time we were here."
+    },
+    {
+      "key": "EP09_S9108_0006",
+      "value": "Oh yeah, you did mention that, didn’t you.\nAny idea what it could be?"
+    },
+    {
+      "key": "EP09_S9108_0007",
+      "value": "Umm... I dunno, but it’s super strong. I’m\nshaking just sensing it..."
+    },
+    {
+      "key": "EP09_S9108_0008",
+      "value": "It doesn’t feel hostile or anything, it’s\njust..."
+    },
+    {
+      "key": "EP09_S9108_0009",
+      "value": "(If we stick around here, the enemy’s bound\nto catch up with us.)"
+    },
+    {
+      "key": "EP09_S9108_Q1",
+      "value": "(What should we do?!)"
+    },
+    {
+      "key": "EP09_S9108_Q1_A1",
+      "value": "Look for other paths?"
+    },
+    {
+      "key": "EP09_S9108_Q1_A2",
+      "value": "Take them head-on!"
+    },
+    {
+      "key": "EP09_S9108_Q1_A3",
+      "value": "Keep going ahead."
+    },
+    {
+      "key": "EP09_S9108_0010",
+      "value": "Look for other paths?"
+    },
+    {
+      "key": "EP09_S9108_0011",
+      "value": "Are there any other paths?"
+    },
+    {
+      "key": "EP09_S9108_0012",
+      "value": "This is the only one we’ve found, at the very\nleast."
+    },
+    {
+      "key": "EP09_S9108_0013",
+      "value": "The bad guys might catch up while we look for\nanother way forward..."
+    },
+    {
+      "key": "EP09_S9108_0014",
+      "value": "Yeah, you’re probably right."
+    },
+    {
+      "key": "EP09_S9108_0015",
+      "value": "Take them head-on!"
+    },
+    {
+      "key": "EP09_S9108_0016",
+      "value": "If the enemy’s coming from behind, all the\nbetter. We’ll take them out here."
+    },
+    {
+      "key": "EP09_S9108_0017",
+      "value": "Hold on, we don’t know if there are any\nahead. We could get flanked on both sides."
+    },
+    {
+      "key": "EP09_S9108_0018",
+      "value": "Ah, that’s true..."
+    },
+    {
+      "key": "EP09_S9108_0019",
+      "value": "Keep going ahead."
+    },
+    {
+      "key": "EP09_S9108_0020",
+      "value": "The enemy’s following us, we should keep on\ngoing for now."
+    },
+    {
+      "key": "EP09_S9108_0021",
+      "value": "You sure about that? No telling if we got\nmore of ’em waiting on ahead."
+    },
+    {
+      "key": "EP09_S9108_0022",
+      "value": "If that’s true, we better hurry. It’ll be bad\nnews if we get sandwiched between them."
+    },
+    {
+      "key": "EP09_S9108_0023",
+      "value": "Ahh, yeah that’s true."
+    },
+    {
+      "key": "EP09_S9108_0024",
+      "value": "If we’re gonna get stuck between them either\nway, might as forge on ahead."
+    },
+    {
+      "key": "EP09_S9108_0025",
+      "value": "Let’s head out, everyone!"
+    }
+  ]
+}

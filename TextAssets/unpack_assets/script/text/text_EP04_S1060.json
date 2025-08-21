@@ -1,0 +1,408 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1060_0001",
+      "value": "Dammit, we’ve been through the whole park and\nnot a single clue!"
+    },
+    {
+      "key": "EP04_S1060_0002",
+      "value": "Where the hell could Miu have gone?"
+    },
+    {
+      "key": "EP04_S1060_0003",
+      "value": "Is there anywhere we haven’t checked?"
+    },
+    {
+      "key": "EP04_S1060_0004",
+      "value": "I’m pretty sure we looked everywhere."
+    },
+    {
+      "key": "EP04_S1060_0005",
+      "value": "Don’t forget how crazy this place can be,\nthough. We mighta missed some secret room."
+    },
+    {
+      "key": "EP04_S1060_0006",
+      "value": "Maybe, but without any clues, we may never\nfind it."
+    },
+    {
+      "key": "EP04_S1060_0007",
+      "value": "Man, what do we do now?!"
+    },
+    {
+      "key": "EP04_S1060_0008",
+      "value": "Hm? Does anyone else hear footsteps?"
+    },
+    {
+      "key": "EP04_S1060_0009",
+      "value": "Not me. Are you sure you’re not hearing\nthings?"
+    },
+    {
+      "key": "EP04_S1060_0010",
+      "value": "I hear them too. Sounds like they’re headed\nthis way."
+    },
+    {
+      "key": "EP04_S1060_0011",
+      "value": "Yeep?! Don’t tell me it’s that thing from\nyesterday!"
+    },
+    {
+      "key": "EP04_S1060_0012",
+      "value": "Oh no! Not again!"
+    },
+    {
+      "key": "EP04_S1060_0013",
+      "value": "Aoi, it’s okay. You don’t have to worry.\nThese footsteps sound more like—"
+    },
+    {
+      "key": "EP04_S1060_0014",
+      "value": "Intruders! There you are!"
+    },
+    {
+      "key": "EP04_S1060_0015",
+      "value": "Oh. These things again."
+    },
+    {
+      "key": "EP04_S1060_0016",
+      "value": "Again..."
+    },
+    {
+      "key": "EP04_S1060_0017",
+      "value": "How many times is this now?"
+    },
+    {
+      "key": "EP04_S1060_0018",
+      "value": "Seriously, don’t they ever learn?"
+    },
+    {
+      "key": "EP04_S1060_0019",
+      "value": "Thought you’d get away with what you did to\nus before, huh?"
+    },
+    {
+      "key": "EP04_S1060_0020",
+      "value": "Well, now we’re here for some payback!"
+    },
+    {
+      "key": "EP04_S1060_0021",
+      "value": "Look, could you please just leave us alone?"
+    },
+    {
+      "key": "EP04_S1060_0022",
+      "value": "Don’t think you can escape!"
+    },
+    {
+      "key": "EP04_S1060_0023",
+      "value": "This time, of all times, we’re really going\nto eliminate you like Her Majesty ordered!"
+    },
+    {
+      "key": "EP04_S1060_0024",
+      "value": "So much for trying to reason with them. They\nwon’t listen to anything I say."
+    },
+    {
+      "key": "EP04_S1060_0025",
+      "value": "Then...I guess I’ll have to try."
+    },
+    {
+      "key": "EP04_S1060_0026",
+      "value": "After all, I’d hate for us to have to waste\nany more of our time here."
+    },
+    {
+      "key": "EP04_S1060_0027",
+      "value": "What if we just don’t make eye contact or\nengage with them at all?"
+    },
+    {
+      "key": "EP04_S1060_0028",
+      "value": "I feel like that’s the best way to deal with\nthem."
+    },
+    {
+      "key": "EP04_S1060_0029",
+      "value": "We could ignore them, but I think I have\na better idea."
+    },
+    {
+      "key": "EP04_S1060_0030",
+      "value": "What’s that?"
+    },
+    {
+      "key": "EP04_S1060_0031",
+      "value": "We lie and tell them we’re fellow servants of\nthe queen!"
+    },
+    {
+      "key": "EP04_S1060_0032",
+      "value": "They seem like they’d be dumb enough to buy\nit."
+    },
+    {
+      "key": "EP04_S1060_0033",
+      "value": "Hey! What’re you whispering about over\nthere?!"
+    },
+    {
+      "key": "EP04_S1060_0034",
+      "value": "Just...going over our strategy!"
+    },
+    {
+      "key": "EP04_S1060_0035",
+      "value": "Well, enough of that! Let’s see what you got!"
+    },
+    {
+      "key": "EP04_S1060_0036",
+      "value": "Takuma, we need to decide on something fast!"
+    },
+    {
+      "key": "EP04_S1060_0037",
+      "value": "(We could have Shuuji try to reason with\nthem, or ignore them like Saki suggested.)"
+    },
+    {
+      "key": "EP04_S1060_0038",
+      "value": "(Or we could risk pretending to be fellow\nservants of the queen.)"
+    },
+    {
+      "key": "EP04_S1060_Q1",
+      "value": "(What’s our plan?)"
+    },
+    {
+      "key": "EP04_S1060_Q1_A1",
+      "value": "Keep trying to reason."
+    },
+    {
+      "key": "EP04_S1060_Q1_A2",
+      "value": "Pose as servants."
+    },
+    {
+      "key": "EP04_S1060_Q1_A3",
+      "value": "Completely ignore them."
+    },
+    {
+      "key": "EP04_S1060_0039",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1060_0040",
+      "value": "If you think you can reason with them,\nShuuji, go ahead and give it a shot."
+    },
+    {
+      "key": "EP04_S1060_0041",
+      "value": "It may not have worked before, but maybe you\ncan get through to them this time."
+    },
+    {
+      "key": "EP04_S1060_0042",
+      "value": "Right, leave it to me."
+    },
+    {
+      "key": "EP04_S1060_0043",
+      "value": "You sure that’s a good idea?"
+    },
+    {
+      "key": "EP04_S1060_0044",
+      "value": "Shuuji is smart and usually pretty level-\nheaded. It should be fine."
+    },
+    {
+      "key": "EP04_S1060_0045",
+      "value": "*ahem* If I could have your attention."
+    },
+    {
+      "key": "EP04_S1060_0046",
+      "value": "Wh-what do you want?! Why are you coming\ncloser?!"
+    },
+    {
+      "key": "EP04_S1060_0047",
+      "value": "I only want to talk."
+    },
+    {
+      "key": "EP04_S1060_0048",
+      "value": "Please retain your composure."
+    },
+    {
+      "key": "EP04_S1060_0049",
+      "value": "Retain our composure? Uh... Oh, you mean we\nshould stay calm!"
+    },
+    {
+      "key": "EP04_S1060_0050",
+      "value": "Hey! Why are you listening to him?!"
+    },
+    {
+      "key": "EP04_S1060_0051",
+      "value": "Last time we did that, they tried to trick\nus!"
+    },
+    {
+      "key": "EP04_S1060_0052",
+      "value": "D-do not worry, this is no trick!"
+    },
+    {
+      "key": "EP04_S1060_0053",
+      "value": "Don’t listen! It’s too dangerous! Run away\nbefore we get tricked!"
+    },
+    {
+      "key": "EP04_S1060_0054",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1060_0055",
+      "value": "Let’s take Minoru’s suggestion and pretend\nwe’re fellow servants of the queen."
+    },
+    {
+      "key": "EP04_S1060_0056",
+      "value": "All right! Leave this to me!"
+    },
+    {
+      "key": "EP04_S1060_0057",
+      "value": "Hey, come on, guys! Don’t get so worked up."
+    },
+    {
+      "key": "EP04_S1060_0058",
+      "value": "You there, large human! Don’t come any\ncloser! You’re highly suspicious!"
+    },
+    {
+      "key": "EP04_S1060_0059",
+      "value": "What’s there to be suspicious of? Don’t you\nknow we’re on the same side?"
+    },
+    {
+      "key": "EP04_S1060_0060",
+      "value": "Wait, we are?!"
+    },
+    {
+      "key": "EP04_S1060_0061",
+      "value": "Why?"
+    },
+    {
+      "key": "EP04_S1060_0062",
+      "value": "Isn’t it obvious? Because we’re also servants\nof Her Majesty the Queen!"
+    },
+    {
+      "key": "EP04_S1060_0063",
+      "value": "You?!"
+    },
+    {
+      "key": "EP04_S1060_0064",
+      "value": "Not just me, all of us!"
+    },
+    {
+      "key": "EP04_S1060_0065",
+      "value": "Really?! So they don’t need to be eliminated?"
+    },
+    {
+      "key": "EP04_S1060_0066",
+      "value": "Not if they’re servants of the queen."
+    },
+    {
+      "key": "EP04_S1060_0067",
+      "value": "So, you believe me? That’s good! I just know\nwe can all get along."
+    },
+    {
+      "key": "EP04_S1060_0068",
+      "value": "Hey, this is going pretty well."
+    },
+    {
+      "key": "EP04_S1060_0069",
+      "value": "By the way, if you happen to know where Miu\nis—"
+    },
+    {
+      "key": "EP04_S1060_0070",
+      "value": "Wait! You can’t fool me!"
+    },
+    {
+      "key": "EP04_S1060_0071",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP04_S1060_0072",
+      "value": "You could never be one of the queen’s\nservants!"
+    },
+    {
+      "key": "EP04_S1060_0073",
+      "value": "You were talking about beating her up before,\nyou big liar!"
+    },
+    {
+      "key": "EP04_S1060_0074",
+      "value": "Aw man, they figured it out."
+    },
+    {
+      "key": "EP04_S1060_0075",
+      "value": "Tch... Guess they’re not quite that stupid."
+    },
+    {
+      "key": "EP04_S1060_0076",
+      "value": "How dare you lie and try to trick us like\nthat! You must be terrible villains!"
+    },
+    {
+      "key": "EP04_S1060_0077",
+      "value": "We’ll have to put a stop to you right now!"
+    },
+    {
+      "key": "EP04_S1060_0078",
+      "value": "Yikes!"
+    },
+    {
+      "key": "EP04_S1060_0079",
+      "value": "Minoru! Fall back!"
+    },
+    {
+      "key": "EP04_S1060_0080",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1060_0081",
+      "value": "I think Saki has the right idea. Let’s just\nignore them completely."
+    },
+    {
+      "key": "EP04_S1060_0082",
+      "value": "Oh, all right. I’ll try."
+    },
+    {
+      "key": "EP04_S1060_0083",
+      "value": "Hey! Why are you all looking away?!"
+    },
+    {
+      "key": "EP04_S1060_0084",
+      "value": "(Don’t respond...just don’t respond...)"
+    },
+    {
+      "key": "EP04_S1060_0085",
+      "value": "What’s wrong? Can you not hear us?! Or are\nyou just not listening?!"
+    },
+    {
+      "key": "EP04_S1060_0086",
+      "value": "(Gotta ignore that too. No reaction!)"
+    },
+    {
+      "key": "EP04_S1060_0087",
+      "value": "Hey, maybe if we attack now, we can take\nthem!"
+    },
+    {
+      "key": "EP04_S1060_0088",
+      "value": "(I can hear them, but I’m not going to\nengage!)"
+    },
+    {
+      "key": "EP04_S1060_0089",
+      "value": "Haha! Take that!!!"
+    },
+    {
+      "key": "EP04_S1060_0090",
+      "value": "Wah?! Yeow!"
+    },
+    {
+      "key": "EP04_S1060_0091",
+      "value": "Hey, stop it! That stings!"
+    },
+    {
+      "key": "EP04_S1060_0092",
+      "value": "How’d you like that?! You learn your lesson?!"
+    },
+    {
+      "key": "EP04_S1060_0093",
+      "value": "(I’d better ignore that too!)"
+    },
+    {
+      "key": "EP04_S1060_0094",
+      "value": "Grr... Were our attacks so weak they’re not\nworth a response?!"
+    },
+    {
+      "key": "EP04_S1060_0095",
+      "value": "These humans are tough!"
+    },
+    {
+      "key": "EP04_S1060_0096",
+      "value": "There’s only one thing to do now..."
+    },
+    {
+      "key": "EP04_S1060_0097",
+      "value": "Retreat! Retreat!!!"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0111_0001",
+      "value": "Oh no! You opened it..."
+    },
+    {
+      "key": "EP04_S0111_0002",
+      "value": "(I...already knew this, but I’m still amazed\nshe really hid inside that treasure chest...)"
+    },
+    {
+      "key": "EP04_S0111_0003",
+      "value": "Miu! I finally found you! And you’re all\nright!"
+    },
+    {
+      "key": "EP04_S0111_0004",
+      "value": "Kaito, you came back?!"
+    },
+    {
+      "key": "EP04_S0111_0005",
+      "value": "’Course I did! You think I’d leave you on\nyour own with all this going on?!"
+    },
+    {
+      "key": "EP04_S0111_0006",
+      "value": "Not again! Why do you always have to act so\ntough?!"
+    },
+    {
+      "key": "EP04_S0111_0007",
+      "value": "What are you talking about?! I’ve just been\nworried about you!"
+    },
+    {
+      "key": "EP04_S0111_0008",
+      "value": "Kaito, try rephrasing."
+    },
+    {
+      "key": "EP04_S0111_0009",
+      "value": "Look, I’m sorry. I shouldn’t have yelled like\nthat. That was wrong."
+    },
+    {
+      "key": "EP04_S0111_0010",
+      "value": "But I need you to listen to me. We don’t have\ntime to argue right now."
+    },
+    {
+      "key": "EP04_S0111_0011",
+      "value": "What, are you trying to fool me by acting all\nnice?"
+    },
+    {
+      "key": "EP04_S0111_0012",
+      "value": "Well, I can see right through you!"
+    },
+    {
+      "key": "EP04_S0111_0013",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP04_S0111_0014",
+      "value": "Please, would you just listen to me?"
+    },
+    {
+      "key": "EP04_S0111_0015",
+      "value": "No! Besides, you’re just gonna tell me to\nstay with you because it’s SO dangerous,"
+    },
+    {
+      "key": "EP04_S0111_0016",
+      "value": "and try to take me away. Well I don’t wanna\ngo! I’m staying here with Syakomon forever!"
+    },
+    {
+      "key": "EP04_S0111_0017",
+      "value": "Miu, I don’t think you understand yet just\nhow dangerous this place can be."
+    },
+    {
+      "key": "EP04_S0111_0018",
+      "value": "Yeah! There’s enemies that kidnap children,\nand this weird fog that’s really scary..."
+    },
+    {
+      "key": "EP04_S0111_0019",
+      "value": "Well, I don’t know what it’s like anywhere\nelse, but this place is tons of fun."
+    },
+    {
+      "key": "EP04_S0111_0020",
+      "value": "Not like that boring hickville I was in\nbefore. Plus there aren’t any bossy adults!"
+    },
+    {
+      "key": "EP04_S0111_0021",
+      "value": "I’m surrounded by all these cute stuffed\nanimal things, and they do whatever I say."
+    },
+    {
+      "key": "EP04_S0111_0022",
+      "value": "You mean monsters like Jijimon and Palmon?"
+    },
+    {
+      "key": "EP04_S0111_0023",
+      "value": "Yeah! Jijimon actually listens to me, unlike\nmy brother, and the others are all cute."
+    },
+    {
+      "key": "EP04_S0111_0024",
+      "value": "I love it in this world!"
+    },
+    {
+      "key": "EP04_S0111_0025",
+      "value": "Boy, how deluded can you get?"
+    },
+    {
+      "key": "EP04_S0111_0026",
+      "value": "It may take some time to convince her of the\ntruth."
+    },
+    {
+      "key": "EP04_S0111_0027",
+      "value": "Harrumph. Perhaps I shouldn’t have humored\nher so much."
+    },
+    {
+      "key": "EP04_S0111_0028",
+      "value": "Miu, you don’t understand."
+    },
+    {
+      "key": "EP04_S0111_0029",
+      "value": "There you go, talking down to me again!\nYOU’RE the one who doesn’t understand, Kaito!"
+    },
+    {
+      "key": "EP04_S0111_0030",
+      "value": "You don’t know how I’ve felt about any of\nthis at all!"
+    },
+    {
+      "key": "EP04_S0111_0031",
+      "value": "Miu...you need to cut this out right now! Why\ncan’t you see I’m just worried about you?!"
+    },
+    {
+      "key": "EP04_S0111_0032",
+      "value": "There, you see! Why are you always so quick\nto yell at me?!"
+    },
+    {
+      "key": "EP04_S0111_0033",
+      "value": "Urgh... I... I’m sorry..."
+    },
+    {
+      "key": "EP04_S0111_0034",
+      "value": "This is why I can’t stand you, Kaito!"
+    },
+    {
+      "key": "EP04_S0111_0035",
+      "value": "There, there, Miu. You must have been very\nscared."
+    },
+    {
+      "key": "EP04_S0111_0036",
+      "value": "(Well, what now? We can’t just calmly work\nthis out, we have to get out of here!)"
+    },
+    {
+      "key": "EP04_S0111_0037",
+      "value": "Miu, I understand that you’re upset with\nKaito..."
+    },
+    {
+      "key": "EP04_S0111_0038",
+      "value": "...but I want you to understand that we all\njust want to take you somewhere safe."
+    },
+    {
+      "key": "EP04_S0111_0039",
+      "value": "Yeah, right! Why should you even care? None\nof you even know who I am!"
+    },
+    {
+      "key": "EP04_S0111_0040",
+      "value": "This has nothing to do with how well we know\nyou."
+    },
+    {
+      "key": "EP04_S0111_0041",
+      "value": "Now that really doesn’t make any sense."
+    },
+    {
+      "key": "EP04_S0111_0042",
+      "value": "And you go on and on about how dangerous this\nplace is, but everything here is just cute."
+    },
+    {
+      "key": "EP04_S0111_0043",
+      "value": "There’s lots of big, dangerous things in this\nworld, too."
+    },
+    {
+      "key": "EP04_S0111_0044",
+      "value": "Yeah, sure. At first I was pretty scared when\nthat spider lady showed up."
+    },
+    {
+      "key": "EP04_S0111_0045",
+      "value": "But then Syakomon came and saved me!"
+    },
+    {
+      "key": "EP04_S0111_0046",
+      "value": "Yes, dealing with someone like her was easy."
+    },
+    {
+      "key": "EP04_S0111_0047",
+      "value": "(So Syakomon didn’t have any trouble with\nArukenimon?)"
+    },
+    {
+      "key": "EP04_S0111_0048",
+      "value": "(That’s pretty impressive. Still, who knows\nwhat other monsters might be out there...)"
+    },
+    {
+      "key": "EP04_S0111_0049",
+      "value": "Anyway, I’m not going anywhere! As long as\nI have Syakomon and the others, I’ll be fine!"
+    },
+    {
+      "key": "EP04_S0111_0050",
+      "value": "Do you even know how much those cute little\nthings you like so much are suffering?"
+    },
+    {
+      "key": "EP04_S0111_0051",
+      "value": "What?"
+    },
+    {
+      "key": "EP04_S0111_0052",
+      "value": "They all got hurt trying to stop the enemies\nattacking the park from reaching you."
+    },
+    {
+      "key": "EP04_S0111_0053",
+      "value": "If this keeps up, those cute little servants\nof yours might not survive."
+    },
+    {
+      "key": "EP04_S0111_0054",
+      "value": "Saki, are you sure that’s not going a little\ntoo far?"
+    },
+    {
+      "key": "EP04_S0111_0055",
+      "value": "No, I think we need to be very clear about\nwhat staying here could mean."
+    },
+    {
+      "key": "EP04_S0111_0056",
+      "value": "After all, it’ll be too late once her monster\nfriends are dead."
+    },
+    {
+      "key": "EP04_S0111_0057",
+      "value": "I almost died just yesterday, myself!"
+    },
+    {
+      "key": "EP04_S0111_0058",
+      "value": "It’s not just Arukenimon. There’s also this\nfog, with monster hands that come out of it."
+    },
+    {
+      "key": "EP04_S0111_0059",
+      "value": "Fog? Monster hands?"
+    },
+    {
+      "key": "EP04_S0111_0060",
+      "value": "I almost got Kunemon killed because of them."
+    },
+    {
+      "key": "EP04_S0111_0061",
+      "value": "Are you really okay with all your friends\ndying like that?"
+    },
+    {
+      "key": "EP04_S0111_0062",
+      "value": "What do you mean, dying?"
+    },
+    {
+      "key": "EP04_S0111_0063",
+      "value": "Palmon and Patamon got taken out? I...\nI don’t believe you!"
+    },
+    {
+      "key": "EP04_S0111_0064",
+      "value": "It’s not true! It can’t be true!"
+    },
+    {
+      "key": "EP04_S0111_0065",
+      "value": "They’re lying, aren’t they, Jijimon?!\nEverybody’s fine, right?"
+    },
+    {
+      "key": "EP04_S0111_0066",
+      "value": "Ah, well..."
+    },
+    {
+      "key": "EP04_S0111_0067",
+      "value": "Miu, we’re not lying. That’s how dangerous\nthese enemies are."
+    },
+    {
+      "key": "EP04_S0111_0068",
+      "value": "No... It can’t be... This place is supposed\nto be fun. It’s supposed to be safe..."
+    },
+    {
+      "key": "EP04_S0111_0069",
+      "value": "Miu..."
+    },
+    {
+      "key": "EP04_S0111_0070",
+      "value": "What was that?!"
+    },
+    {
+      "key": "EP04_S0111_0071",
+      "value": "An enemy attack?!"
+    },
+    {
+      "key": "EP04_S0111_0072",
+      "value": "Wh-what’s going on?!"
+    },
+    {
+      "key": "EP04_S0111_0073",
+      "value": "The whole castle is shaking..."
+    },
+    {
+      "key": "EP04_S0111_0074",
+      "value": "Oh no... This can’t be happening! Is the\nceiling starting to fall down?!"
+    },
+    {
+      "key": "EP04_S0111_0075",
+      "value": "This is bad! Everybody outside!"
+    },
+    {
+      "key": "EP04_S0111_0076",
+      "value": "Miyuki, this way."
+    },
+    {
+      "key": "EP04_S0111_0077",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP04_S0111_0078",
+      "value": "We’d better get moving too!"
+    },
+    {
+      "key": "EP04_S0111_0079",
+      "value": "What?! No, wait!"
+    },
+    {
+      "key": "EP04_S0111_0080",
+      "value": "Miu, stop! Not that way!"
+    },
+    {
+      "key": "EP04_S0111_0081",
+      "value": "Look out!"
+    },
+    {
+      "key": "EP04_S0111_0082",
+      "value": "Saki?!"
+    },
+    {
+      "key": "EP04_S0111_0083",
+      "value": "Saki! Miu! Are you all right?!"
+    },
+    {
+      "key": "EP04_S0111_0084",
+      "value": "Oh... Hahaha, I’m okay. Though I think\nI sprained my leg."
+    },
+    {
+      "key": "EP04_S0111_0085",
+      "value": "What about you, Miu? Are you hurt anywhere?"
+    },
+    {
+      "key": "EP04_S0111_0086",
+      "value": "No... I’m fine..."
+    },
+    {
+      "key": "EP04_S0111_0087",
+      "value": "Get away from there, now! More pieces are\nfalling!"
+    },
+    {
+      "key": "EP04_S0111_0088",
+      "value": "But what about Saki?"
+    },
+    {
+      "key": "EP04_S0111_0089",
+      "value": "Just go! I’ll take care of Saki, okay?"
+    },
+    {
+      "key": "EP04_S0111_0090",
+      "value": "Right, we can’t stay here! Everybody outside!"
+    },
+    {
+      "key": "EP04_S0111_0091",
+      "value": "Okay!"
+    }
+  ]
+}

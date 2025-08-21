@@ -1,0 +1,264 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S0337_0001",
+      "value": "Oh, Miu! I’m so glad you’re with Takuma and\nAgumon."
+    },
+    {
+      "key": "EP05_S0337_0002",
+      "value": "Are you okay? You’re not hurt, are you?"
+    },
+    {
+      "key": "EP05_S0337_0003",
+      "value": "Oh jeez, Syako-mono became Syako-stereo?!"
+    },
+    {
+      "key": "EP05_S0337_0004",
+      "value": "She’s just a fake!"
+    },
+    {
+      "key": "EP05_S0337_0005",
+      "value": "She who smelt it, dealt it! You’re the fake!"
+    },
+    {
+      "key": "EP05_S0337_0006",
+      "value": "Takumaaa! How am I supposed to tell them\napart?!"
+    },
+    {
+      "key": "EP05_S0337_0007",
+      "value": "Hmm, let’s see..."
+    },
+    {
+      "key": "EP05_S0337_0008",
+      "value": "(There must be something like the others to\nhelp tell them apart.)"
+    },
+    {
+      "key": "EP05_S0337_Q1",
+      "value": "(The real Syakomon would...)"
+    },
+    {
+      "key": "EP05_S0337_Q1_A1",
+      "value": "Know Miu’s strong."
+    },
+    {
+      "key": "EP05_S0337_Q1_A2",
+      "value": "Not doubt her feelings."
+    },
+    {
+      "key": "EP05_S0337_Q1_A3",
+      "value": "Not call Miu a loner."
+    },
+    {
+      "key": "EP05_S0337_Q1_A4",
+      "value": "...Do what, I wonder?"
+    },
+    {
+      "key": "EP05_S0337_0010",
+      "value": "The real Syakomon would know how strong you\nare, Miu. That’s how you can tell them apart."
+    },
+    {
+      "key": "EP05_S0337_0011",
+      "value": "Huh, that’s true! Well then, how about\nthis..."
+    },
+    {
+      "key": "EP05_S0337_0012",
+      "value": "Hey Syakomon, you think I’m a tough kid?"
+    },
+    {
+      "key": "EP05_S0337_0013",
+      "value": "(Uh, that’s a weird question...)"
+    },
+    {
+      "key": "EP05_S0337_0014",
+      "value": "Yeah, you’re a tough kid!"
+    },
+    {
+      "key": "EP05_S0337_0015",
+      "value": "Oh yeah, super tough for sure!"
+    },
+    {
+      "key": "EP05_S0337_0016",
+      "value": "(I thought so.)"
+    },
+    {
+      "key": "EP05_S0337_0017",
+      "value": "Uh, huh? I still don’t get it, Takuma!"
+    },
+    {
+      "key": "EP05_S0337_0018",
+      "value": "This is like one of those exorcism deals,\nright, Miu? Pffft."
+    },
+    {
+      "key": "EP05_S0337_0019",
+      "value": "It’s nothing like that! Sheesh!"
+    },
+    {
+      "key": "EP05_S0337_0020",
+      "value": "Miu’s the type of strong girl who does all\nshe can, even when things are nuts!"
+    },
+    {
+      "key": "EP05_S0337_0021",
+      "value": "Ah... I think I might get it, now."
+    },
+    {
+      "key": "EP05_S0337_0023",
+      "value": "The real Syakomon wouldn’t doubt you. Your\nfeelings should get through to her, Miu!"
+    },
+    {
+      "key": "EP05_S0337_0024",
+      "value": "Oh, yeah! That works!"
+    },
+    {
+      "key": "EP05_S0337_0025",
+      "value": "Okay, Syakomon! You know, I..."
+    },
+    {
+      "key": "EP05_S0337_0026",
+      "value": "I friggin’ love youuu!"
+    },
+    {
+      "key": "EP05_S0337_0027",
+      "value": "Aw yeah! I love you too, Miuuu!"
+    },
+    {
+      "key": "EP05_S0337_0028",
+      "value": "Huh? Where’d that come from, Miu?"
+    },
+    {
+      "key": "EP05_S0337_0029",
+      "value": "...Um? Neither of those seemed off the mark."
+    },
+    {
+      "key": "EP05_S0337_0030",
+      "value": "Anyway, come with me now! Otherwise I’m gonna\nget yelled at by Arukenimon!"
+    },
+    {
+      "key": "EP05_S0337_0031",
+      "value": "I’ll be in trouble if I don’t sacrifice any\nhuman children!"
+    },
+    {
+      "key": "EP05_S0337_0032",
+      "value": "What?! This Syakomon’s giving me the heebie-\njeebies!"
+    },
+    {
+      "key": "EP05_S0337_0034",
+      "value": "The real Syakomon wouldn’t think you’re a\nloner. That should help you figure it out."
+    },
+    {
+      "key": "EP05_S0337_0035",
+      "value": "Oh, uh, you think? Let’s try it..."
+    },
+    {
+      "key": "EP05_S0337_0036",
+      "value": "Hey, Syakomon. You think I’m a loner?"
+    },
+    {
+      "key": "EP05_S0337_0037",
+      "value": "Of course I don’t! You’ve got your brother,\nafter all!"
+    },
+    {
+      "key": "EP05_S0337_0038",
+      "value": "Yeah, I second that!"
+    },
+    {
+      "key": "EP05_S0337_0039",
+      "value": "Wait, what? Which is it..."
+    },
+    {
+      "key": "EP05_S0337_0040",
+      "value": "Then you’ve got Takuma, Aoi, Agumon, and all\nthe rest!"
+    },
+    {
+      "key": "EP05_S0337_0041",
+      "value": "You’ve got tons of nice people around you!"
+    },
+    {
+      "key": "EP05_S0337_0042",
+      "value": "That’s not true! They’ll get sick of her and\nback off, just like the others!"
+    },
+    {
+      "key": "EP05_S0337_0043",
+      "value": "That’s not true! They’re all good people!"
+    },
+    {
+      "key": "EP05_S0337_0044",
+      "value": "Okay... Yeah, I’ve got it."
+    },
+    {
+      "key": "EP05_S0337_0046",
+      "value": "Sorry, I really don’t know."
+    },
+    {
+      "key": "EP05_S0337_0047",
+      "value": "Oh yeah... Well then! Eeny, meeny, miney, mo."
+    },
+    {
+      "key": "EP05_S0337_Q2",
+      "value": "The real Syakomon is..."
+    },
+    {
+      "key": "EP05_S0337_Q2_A1",
+      "value": "On the right!"
+    },
+    {
+      "key": "EP05_S0337_Q2_A2",
+      "value": "On the left!"
+    },
+    {
+      "key": "EP05_S0337_0049",
+      "value": "Hee hee, what an idiot..."
+    },
+    {
+      "key": "EP05_S0337_0050",
+      "value": "Wha’, what is this! Look at all this gas..."
+    },
+    {
+      "key": "EP05_S0337_0051",
+      "value": "(This is bad. My consciousness is fading...)"
+    },
+    {
+      "key": "EP05_S0337_0053",
+      "value": "This one!"
+    },
+    {
+      "key": "EP05_S0337_0054",
+      "value": "I knew you’d figure it out, Miu! Good job!"
+    },
+    {
+      "key": "EP05_S0337_0055",
+      "value": "Hmph..."
+    },
+    {
+      "key": "EP05_S0337_0056",
+      "value": "Ah, the fake one ran away!"
+    },
+    {
+      "key": "EP05_S0337_0057",
+      "value": "Dammit, we could’ve at least asked her where\nArukenimon is..."
+    },
+    {
+      "key": "EP05_S0337_0058",
+      "value": "Whoa! What’s that sound?!"
+    },
+    {
+      "key": "EP05_S0337_0059",
+      "value": "Someone must be fighting!"
+    },
+    {
+      "key": "EP05_S0337_0060",
+      "value": "I’m gonna go look. Miu, you head that way and\njoin up with Aoi."
+    },
+    {
+      "key": "EP05_S0337_0061",
+      "value": "Got it!"
+    },
+    {
+      "key": "EP05_S0337_0062",
+      "value": "Let’s go, Agumon!"
+    },
+    {
+      "key": "EP05_S0337_0063",
+      "value": "Yeah!"
+    }
+  ]
+}

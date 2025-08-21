@@ -1,0 +1,212 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S1040_0001",
+      "value": "Hurry, Takuma! We gotta save them all, right\naway!"
+    },
+    {
+      "key": "EP09_S1040_0002",
+      "value": "(I get how she feels, but I can see Miu’s on\npins and needles. She has to calm down.)"
+    },
+    {
+      "key": "EP09_S1040_0003",
+      "value": "(But well, we really do have to hurry here.\nI don’t want to hamper Miu’s momentum.)"
+    },
+    {
+      "key": "EP09_S1040_Q1",
+      "value": "(What should I do?)"
+    },
+    {
+      "key": "EP09_S1040_Q1_A1",
+      "value": "Suggest a breather."
+    },
+    {
+      "key": "EP09_S1040_Q1_A2",
+      "value": "Hurry on ahead!"
+    },
+    {
+      "key": "EP09_S1040_0004",
+      "value": "Take a deep breath."
+    },
+    {
+      "key": "EP09_S1040_0005",
+      "value": "Stop, Miu. Take a deep breath first."
+    },
+    {
+      "key": "EP09_S1040_0006",
+      "value": "Now’s not the time for—"
+    },
+    {
+      "key": "EP09_S1040_0007",
+      "value": "All right, now. Breathe in... Breathe out..."
+    },
+    {
+      "key": "EP09_S1040_0008",
+      "value": "B-breathe in... Breathe out..."
+    },
+    {
+      "key": "EP09_S1040_0009",
+      "value": "So? Calmed down a little?"
+    },
+    {
+      "key": "EP09_S1040_0010",
+      "value": "Um, yeah... Sorry, Takuma. I kinda freaked\nout there."
+    },
+    {
+      "key": "EP09_S1040_0011",
+      "value": "Hey, I totally get it. It’s just, if you\npanic and get hurt too, we’d all hate that."
+    },
+    {
+      "key": "EP09_S1040_0012",
+      "value": "Okay, I’ll keep my cool!"
+    },
+    {
+      "key": "EP09_S1040_0013",
+      "value": "You know just how to handle her, Takuma."
+    },
+    {
+      "key": "EP09_S1040_0014",
+      "value": "Hey! Don’t treat me like a kid!"
+    },
+    {
+      "key": "EP09_S1040_0015",
+      "value": "Ahaha! Come on, let’s head out."
+    },
+    {
+      "key": "EP09_S1040_0016",
+      "value": "Hurry on ahead!"
+    },
+    {
+      "key": "EP09_S1040_0017",
+      "value": "Yeah, you’re right. Let’s hurry!"
+    },
+    {
+      "key": "EP09_S1040_0018",
+      "value": "We’d better hustle, Miu, but don’t get ahead\nof yourself, okay?"
+    },
+    {
+      "key": "EP09_S1040_0019",
+      "value": "Yeah, I know. The enemy could be anywhere."
+    },
+    {
+      "key": "EP09_S1040_0020",
+      "value": "We have to hurry, but we gotta be smart about\nit."
+    },
+    {
+      "key": "EP09_S1040_0021",
+      "value": "Come on, Syakomon!"
+    },
+    {
+      "key": "EP09_S1040_0022",
+      "value": "Yeah, here we go!"
+    },
+    {
+      "key": "EP09_S1040_0023",
+      "value": "Hurry up! We’ve gotta save everyone!"
+    },
+    {
+      "key": "EP09_S1040_0031",
+      "value": "*sniff*... We couldn’t save them..."
+    },
+    {
+      "key": "EP09_S1040_0032",
+      "value": "It’s not your fault, Miu. Don’t beat yourself\nup over it."
+    },
+    {
+      "key": "EP09_S1040_0033",
+      "value": "But... But I..."
+    },
+    {
+      "key": "EP09_S1040_0034",
+      "value": "(Of course she’d be down about this... Still,\nI can’t ignore her here.)"
+    },
+    {
+      "key": "EP09_S1040_Q2",
+      "value": "(I gotta cheer her up. Tell her we have\nto...)"
+    },
+    {
+      "key": "EP09_S1040_Q2_A1",
+      "value": "Save others out there."
+    },
+    {
+      "key": "EP09_S1040_Q2_A2",
+      "value": "Work for the fallen."
+    },
+    {
+      "key": "EP09_S1040_0035",
+      "value": "Save others out there."
+    },
+    {
+      "key": "EP09_S1040_0036",
+      "value": "You have every right to grieve, Miu. But we\ncan’t get tripped up here."
+    },
+    {
+      "key": "EP09_S1040_0037",
+      "value": "There’s still lots of creatures hurt out\nthere. They’re waiting for your help."
+    },
+    {
+      "key": "EP09_S1040_0038",
+      "value": "*sniff*... Yeah, I know. If I stop here, even\nmore are gonna die..."
+    },
+    {
+      "key": "EP09_S1040_0039",
+      "value": "I can do this. Takuma, Syakomon. Let’s go!"
+    },
+    {
+      "key": "EP09_S1040_0040",
+      "value": "Roger!"
+    },
+    {
+      "key": "EP09_S1040_0041",
+      "value": "Work for the fallen."
+    },
+    {
+      "key": "EP09_S1040_0042",
+      "value": "Don’t cry, Miu. We have to look for the other\nlittle ones out there."
+    },
+    {
+      "key": "EP09_S1040_0043",
+      "value": "Work for the fallen."
+    },
+    {
+      "key": "EP09_S1040_0044",
+      "value": "The fallen ones... *sniff*..."
+    },
+    {
+      "key": "EP09_S1040_0045",
+      "value": "WAAAAAAH! It’s all my faaault...!"
+    },
+    {
+      "key": "EP09_S1040_0046",
+      "value": "Takuma! Don’t say stuff that makes her think\nabout it more!"
+    },
+    {
+      "key": "EP09_S1040_0047",
+      "value": "(Shoot. Bad choice of words.)"
+    },
+    {
+      "key": "EP09_S1040_0048",
+      "value": "I-I’m not saying it’s your fault! Don’t\nworry, we’ll save the others!"
+    },
+    {
+      "key": "EP09_S1040_0049",
+      "value": "*sob* *sniff*... Yeah, you’re right. We’ll\nsave them for sure..."
+    },
+    {
+      "key": "EP09_S1040_0050",
+      "value": "(Whew, okay. That seemed to calm her down.)"
+    },
+    {
+      "key": "EP09_S1040_0051",
+      "value": "I want to save as many as we can, Takuma. I’m\ngonna kick it up a notch!"
+    },
+    {
+      "key": "EP09_S1040_0052",
+      "value": "Great. It’s all you, Miu."
+    },
+    {
+      "key": "EP09_S1040_0053",
+      "value": "I’m gonna look around here a bit longer. You\nshould check somewhere else, Takuma."
+    }
+  ]
+}

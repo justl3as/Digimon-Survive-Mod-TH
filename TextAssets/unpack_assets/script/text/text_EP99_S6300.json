@@ -1,0 +1,168 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP99_S6300_0001",
+      "value": "Hm? Ryo, is that you?"
+    },
+    {
+      "key": "EP99_S6300_0002",
+      "value": "Oh, Takuma, it’s you."
+    },
+    {
+      "key": "EP99_S6300_0003",
+      "value": "I didn’t expect to find you here."
+    },
+    {
+      "key": "EP99_S6300_0004",
+      "value": "You weren’t waiting for me to come by or\nanything, were you?"
+    },
+    {
+      "key": "EP99_S6300_0005",
+      "value": "No way! I mean, why would I do that?"
+    },
+    {
+      "key": "EP99_S6300_0006",
+      "value": "Yeah, right. Okay, well, I’d better be going."
+    },
+    {
+      "key": "EP99_S6300_0007",
+      "value": "Hold on just a sec, would you?! Why are you\nalways in such a hurry to leave?!"
+    },
+    {
+      "key": "EP99_S6300_0008",
+      "value": "And anyway...uh... I wanted to ask you\nsomething!"
+    },
+    {
+      "key": "EP99_S6300_0009",
+      "value": "Again?"
+    },
+    {
+      "key": "EP99_S6300_0010",
+      "value": "Come on, don’t be like that. Listen..."
+    },
+    {
+      "key": "EP99_S6300_0011",
+      "value": "I want you to try some of this food I made."
+    },
+    {
+      "key": "EP99_S6300_0012",
+      "value": "Here, I brought it in this plastic container."
+    },
+    {
+      "key": "EP99_S6300_0013",
+      "value": "(Uh...what am I supposed to make of this,\nexactly?)"
+    },
+    {
+      "key": "EP99_S6300_0014",
+      "value": "(And how do I respond?)"
+    },
+    {
+      "key": "EP99_S6300_Q1",
+      "value": "What should I say to Ryo?"
+    },
+    {
+      "key": "EP99_S6300_Q1_A1",
+      "value": "Are you in love?"
+    },
+    {
+      "key": "EP99_S6300_Q1_A2",
+      "value": "Is it drugged?"
+    },
+    {
+      "key": "EP99_S6300_Q1_A3",
+      "value": "Why do this?"
+    },
+    {
+      "key": "EP99_S6300_0015",
+      "value": "Um, is this some sort of confession? Are you\nsaying you’re in love with me?!"
+    },
+    {
+      "key": "EP99_S6300_0016",
+      "value": "Ugh, no! Not even close!"
+    },
+    {
+      "key": "EP99_S6300_0017",
+      "value": "I mean, I guess I can see why you’d think\nthat..."
+    },
+    {
+      "key": "EP99_S6300_0018",
+      "value": "(The way Ryo is acting is really\nsuspicious...)"
+    },
+    {
+      "key": "EP99_S6300_0019",
+      "value": "But remember how I asked for your advice\nbefore?"
+    },
+    {
+      "key": "EP99_S6300_0020",
+      "value": "About how to get along better with Kunemon?\nWell, I thought I’d try cooking for him."
+    },
+    {
+      "key": "EP99_S6300_0021",
+      "value": "(I get it. Still, I’m surprised at Ryo’s\nmaternal instincts.)"
+    },
+    {
+      "key": "EP99_S6300_0022",
+      "value": "What? Did you drug this or something?"
+    },
+    {
+      "key": "EP99_S6300_0023",
+      "value": "Huh?!"
+    },
+    {
+      "key": "EP99_S6300_0024",
+      "value": "Are you trying to knock me out for some\nreason? Don’t tell me—"
+    },
+    {
+      "key": "EP99_S6300_0025",
+      "value": "No! It’s not like that at all!"
+    },
+    {
+      "key": "EP99_S6300_0026",
+      "value": "I mean, I’m flattered you feel that way, but\nshouldn’t we at least be friends first?"
+    },
+    {
+      "key": "EP99_S6300_0027",
+      "value": "Wha’?! What is wrong with you? Stop blushing!"
+    },
+    {
+      "key": "EP99_S6300_0028",
+      "value": "Why are you doing this?"
+    },
+    {
+      "key": "EP99_S6300_0029",
+      "value": "Well, remember how I asked you for advice\nbefore? About how to get along with Kunemon?"
+    },
+    {
+      "key": "EP99_S6300_0030",
+      "value": "That’s why I cooked that, but if I asked\nsomeone else to try it, they wouldn’t get it."
+    },
+    {
+      "key": "EP99_S6300_0031",
+      "value": "(I mean, I didn’t get it either. Still, I’m\nsurprised.)"
+    },
+    {
+      "key": "EP99_S6300_0032",
+      "value": "(Ryo really seems concerned for Kunemon’s\nfeelings.)"
+    },
+    {
+      "key": "EP99_S6300_0033",
+      "value": "Well, anyway, let me try it. *munch*"
+    },
+    {
+      "key": "EP99_S6300_0034",
+      "value": "So, how is it?"
+    },
+    {
+      "key": "EP99_S6300_0035",
+      "value": "Hmm..."
+    },
+    {
+      "key": "EP99_S6300_0036",
+      "value": "Well, it’s not bad, but it’s not great\neither... I’d say it’s right on the line."
+    },
+    {
+      "key": "EP99_S6300_0037",
+      "value": "Oh, come on! Make up your mind!"
+    }
+  ]
+}

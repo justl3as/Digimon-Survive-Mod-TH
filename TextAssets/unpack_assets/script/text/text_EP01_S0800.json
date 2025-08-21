@@ -1,0 +1,344 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0800_0001",
+      "value": "Oh man... There’s even webs here?"
+    },
+    {
+      "key": "EP01_S0800_0002",
+      "value": "Ewww, enough with the sticky-stick!"
+    },
+    {
+      "key": "EP01_S0800_0003",
+      "value": "This could get bad... We won’t be able to\ndefend ourselves if we’re attacked here."
+    },
+    {
+      "key": "EP01_S0800_0004",
+      "value": "Hey, I see light over there, Takuma!"
+    },
+    {
+      "key": "EP01_S0800_0005",
+      "value": "Oh, you’re right! I see it too."
+    },
+    {
+      "key": "EP01_S0800_0006",
+      "value": "Let’s go, Agumon, on the double!"
+    },
+    {
+      "key": "EP01_S0800_0007",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP01_S0800_0008",
+      "value": "Whew, we finally made it. You doing okay,\nAgumon?"
+    },
+    {
+      "key": "EP01_S0800_0009",
+      "value": "Awww, I’m all ooey-gooey..."
+    },
+    {
+      "key": "EP01_S0800_0010",
+      "value": "Uh...\nWell, at least you’re not hurt anywhere."
+    },
+    {
+      "key": "EP01_S0800_0011",
+      "value": "So then, where are we?"
+    },
+    {
+      "key": "EP01_S0800_0012",
+      "value": "A piano, sheet music... Is this the music room?"
+    },
+    {
+      "key": "EP01_S0800_0013",
+      "value": "(Hmm? I see a dark shadow over there...\nNo, there are two.)"
+    },
+    {
+      "key": "EP01_S0800_0014",
+      "value": "Someone’s here, Takuma!"
+    },
+    {
+      "key": "EP01_S0800_0015",
+      "value": "Whoa! Is it...the ghost?"
+    },
+    {
+      "key": "EP01_S0800_0016",
+      "value": "Guess you found us."
+    },
+    {
+      "key": "EP01_S0800_0017",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0800_0018",
+      "value": "Are you...human?"
+    },
+    {
+      "key": "EP01_S0800_0019",
+      "value": "(Well he’s talking, and I can’t see through\nhim...guess that rules out the ghost theory.)"
+    },
+    {
+      "key": "EP01_S0800_0020",
+      "value": "(Still, they don’t exactly feel like normal\npeople to me, either. What gives?)"
+    },
+    {
+      "key": "EP01_S0800_0021",
+      "value": "(Skin deathly pale against the moonlight,\nfaces without expression. They look unreal.)"
+    },
+    {
+      "key": "EP01_S0800_0022",
+      "value": "(What’s their deal...?)"
+    },
+    {
+      "key": "EP01_S0800_0023",
+      "value": "You two..."
+    },
+    {
+      "key": "EP01_S0800_0024",
+      "value": "You should leave this school quickly."
+    },
+    {
+      "key": "EP01_S0800_0025",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP01_S0800_0026",
+      "value": "You must not provoke them."
+    },
+    {
+      "key": "EP01_S0800_0027",
+      "value": "(The boy’s words have a certain bite to\nthem...)"
+    },
+    {
+      "key": "EP01_S0800_0028",
+      "value": "(He doesn’t seem to bear any ill will, but\nhe seems to think we’re a nuisance...)"
+    },
+    {
+      "key": "EP01_S0800_0029",
+      "value": "(And who are this “them” he’s talking about?)"
+    },
+    {
+      "key": "EP01_S0800_0030",
+      "value": "Are you talking about the monster?"
+    },
+    {
+      "key": "EP01_S0800_0031",
+      "value": "Yeah. If you get hunted down, you guys\nwon’t be able to even resist."
+    },
+    {
+      "key": "EP01_S0800_0032",
+      "value": "(There’s something in his words, even if he\nis a kid. Is the enemy that strong...?)"
+    },
+    {
+      "key": "EP01_S0800_0033",
+      "value": "(Well, I know one thing for sure...)"
+    },
+    {
+      "key": "EP01_S0800_0034",
+      "value": "We can’t just leave. Our friends have been\ntaken. I have to save them, no matter what."
+    },
+    {
+      "key": "EP01_S0800_0035",
+      "value": "If you know anything, would you please tell\nus?"
+    },
+    {
+      "key": "EP01_S0800_0036",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0800_0037",
+      "value": "Hmm? What is it?"
+    },
+    {
+      "key": "EP01_S0800_0038",
+      "value": "(That girl is...gesturing to the boy?)"
+    },
+    {
+      "key": "EP01_S0800_0039",
+      "value": "*sigh*... Fine."
+    },
+    {
+      "key": "EP01_S0800_0040",
+      "value": "I’ll tell you about them."
+    },
+    {
+      "key": "EP01_S0800_0041",
+      "value": "Really?!"
+    },
+    {
+      "key": "EP01_S0800_0042",
+      "value": "My sister told me to, so..."
+    },
+    {
+      "key": "EP01_S0800_0043",
+      "value": "(Sister... So these two are siblings? She\nseems more cooperative than her brother.)"
+    },
+    {
+      "key": "EP01_S0800_0044",
+      "value": "The one after you is a giant spider. It moved\nin recently out of the blue and poses as boss."
+    },
+    {
+      "key": "EP01_S0800_0045",
+      "value": "Ohhh, that must be Dokugumon.\nThat guy is nasty!"
+    },
+    {
+      "key": "EP01_S0800_0046",
+      "value": "Their den is in the gym, but it is gummed up\nwith webs."
+    },
+    {
+      "key": "EP01_S0800_0047",
+      "value": "Yeah, we couldn’t get in there."
+    },
+    {
+      "key": "EP01_S0800_0048",
+      "value": "They use the crawl space above the ceilings\nand under the floors to get around the school."
+    },
+    {
+      "key": "EP01_S0800_0049",
+      "value": "(We were right, the sound we heard up in the\ncrawl space was that thing.)"
+    },
+    {
+      "key": "EP01_S0800_0050",
+      "value": "There’s an entrance to the routes they use\nunder the cafeteria floor. Go look for it."
+    },
+    {
+      "key": "EP01_S0800_0051",
+      "value": "Oh! The cafeteria, huh? Thanks so much for\ntelling us!"
+    },
+    {
+      "key": "EP01_S0800_0052",
+      "value": "That thing doesn’t kill its prey right after\nabducting them."
+    },
+    {
+      "key": "EP01_S0800_0053",
+      "value": "But it sucks the life from its prey for\nsustenance, so over time they weaken and die."
+    },
+    {
+      "key": "EP01_S0800_0054",
+      "value": "(Die... Hearing someone else say it really\nmakes it hit home.)"
+    },
+    {
+      "key": "EP01_S0800_0055",
+      "value": "If you want to save them, I wouldn’t waste\ntime."
+    },
+    {
+      "key": "EP01_S0800_0056",
+      "value": "Okay, got it!"
+    },
+    {
+      "key": "EP01_S0800_0057",
+      "value": "Be careful. It won’t give up its prey without\na fight."
+    },
+    {
+      "key": "EP01_S0800_0058",
+      "value": "(Is he...worried about us?)"
+    },
+    {
+      "key": "EP01_S0800_0059",
+      "value": "(I should be fine, I have Agumon with me.\nStill...)"
+    },
+    {
+      "key": "EP01_S0800_Q1",
+      "value": "(What should I say to them?)"
+    },
+    {
+      "key": "EP01_S0800_Q1_A1",
+      "value": "Will you two be okay?"
+    },
+    {
+      "key": "EP01_S0800_Q1_A2",
+      "value": "Are you gonna fight?"
+    },
+    {
+      "key": "EP01_S0800_Q1_A3",
+      "value": "We’ll be just fine!"
+    },
+    {
+      "key": "EP01_S0800_0060",
+      "value": "Are you two going to be okay on your own?"
+    },
+    {
+      "key": "EP01_S0800_0061",
+      "value": "We’ll be fine. We’ve been in this school long\nbefore they came, so we know where to hide."
+    },
+    {
+      "key": "EP01_S0800_0062",
+      "value": "Is that right? Then you two stay here."
+    },
+    {
+      "key": "EP01_S0800_0063",
+      "value": "(Wait...“long before”? That doesn’t sound\nvery recent at all...)"
+    },
+    {
+      "key": "EP01_S0800_0064",
+      "value": "(Ah, but I need to focus on the rescue!)"
+    },
+    {
+      "key": "EP01_S0800_0065",
+      "value": "We may not be able to fight, but we’ll have\nno trouble hiding. We’ll be fine."
+    },
+    {
+      "key": "EP01_S0800_0066",
+      "value": "Are you sure?"
+    },
+    {
+      "key": "EP01_S0800_0067",
+      "value": "(I can’t see a boy and a girl surviving on\ntheir own. Are they...on the enemy’s side?)"
+    },
+    {
+      "key": "EP01_S0800_0068",
+      "value": "Who are you two? Why are you here?"
+    },
+    {
+      "key": "EP01_S0800_0069",
+      "value": "We just want to live in peace, that’s all..."
+    },
+    {
+      "key": "EP01_S0800_0070",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0800_0071",
+      "value": "(I guess they don’t feel like answering...)"
+    },
+    {
+      "key": "EP01_S0800_0072",
+      "value": "(At the very least, I don’t think they’re\nenemies after they gave us all that info.)"
+    },
+    {
+      "key": "EP01_S0800_0073",
+      "value": "Okay, I get it. Then you two stay here."
+    },
+    {
+      "key": "EP01_S0800_0074",
+      "value": "Don’t worry about us, we have strong friends\nlike Agumon here!"
+    },
+    {
+      "key": "EP01_S0800_0075",
+      "value": "Yeah, you can count on me!"
+    },
+    {
+      "key": "EP01_S0800_0076",
+      "value": "Huh... You don’t say?"
+    },
+    {
+      "key": "EP01_S0800_0077",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0800_0078",
+      "value": "(Neither of them are surprised to see Agumon.\nSomething definitely doesn’t add up...)"
+    },
+    {
+      "key": "EP01_S0800_0079",
+      "value": "We’re gonna go. Thanks again for your help!"
+    },
+    {
+      "key": "EP01_S0800_0080",
+      "value": "Let’s hurry to the cafeteria, Agumon!"
+    },
+    {
+      "key": "EP01_S0800_0081",
+      "value": "Got it!"
+    }
+  ]
+}

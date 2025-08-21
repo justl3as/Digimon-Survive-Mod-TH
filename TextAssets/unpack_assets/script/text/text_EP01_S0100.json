@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0100_Q1",
+      "value": "(What should I do?!)"
+    },
+    {
+      "key": "EP01_S0100_Q1_A1",
+      "value": "Run away!"
+    },
+    {
+      "key": "EP01_S0100_Q1_A2",
+      "value": "Stand and fight!"
+    },
+    {
+      "key": "EP01_S0100_Q1_A3",
+      "value": "Wait and see."
+    },
+    {
+      "key": "EP01_S0100_0001",
+      "value": "That thing isn’t taking its eyes off of me\nfor a second."
+    },
+    {
+      "key": "EP01_S0100_0002",
+      "value": "Still, it doesn’t look all that fast.\nOkay, if I can just bolt..."
+    },
+    {
+      "key": "EP01_S0100_0003",
+      "value": "...ARGH! It jumped at me again!"
+    },
+    {
+      "key": "EP01_S0100_0004",
+      "value": "Grrr, knock it off already!"
+    },
+    {
+      "key": "EP01_S0100_0005",
+      "value": "Looks pretty slow, so if I’m careful, maybe\nI can..."
+    },
+    {
+      "key": "EP01_S0100_0006",
+      "value": "Whoa! It just came right at me!"
+    },
+    {
+      "key": "EP01_S0100_007",
+      "value": "I can’t let my guard down. Maybe I should\njust...wait and see what it does?"
+    },
+    {
+      "key": "EP01_S0100_008",
+      "value": "Its body is made of stone... I have to watch\nout when it charges..."
+    },
+    {
+      "key": "EP01_S0100_009",
+      "value": "Still, when I look closely it doesn’t seem\nall that strong..."
+    },
+    {
+      "key": "EP01_S0100_010",
+      "value": "Aw, shoot, spoke too soon!\nUWAAAH!"
+    },
+    {
+      "key": "EP01_S0100_0011",
+      "value": "YYYOWCH!\nWhat the heck, man?!"
+    },
+    {
+      "key": "EP01_S0100_0012",
+      "value": "Sonuva... It looks like it’s gonna charge\nagain!"
+    },
+    {
+      "key": "EP01_S0100_0013",
+      "value": "Run!"
+    },
+    {
+      "key": "EP01_S0100_0014",
+      "value": "Is that...Koromon?!"
+    },
+    {
+      "key": "EP01_S0100_0015",
+      "value": "This thing’s got an ax to grind with ya!\nHurry up and get outta here!"
+    },
+    {
+      "key": "EP01_S0100_0016",
+      "value": "Aw jeez, my legs are..."
+    },
+    {
+      "key": "EP01_S0100_0017",
+      "value": "I’ll try to hold it off so you can get away!"
+    },
+    {
+      "key": "EP01_S0100_0018",
+      "value": "Here I goooooo!"
+    },
+    {
+      "key": "EP01_S0100_0019",
+      "value": "Gwahhh!"
+    },
+    {
+      "key": "EP01_S0100_0020",
+      "value": "Boy, you’re...weak. Like, super weak.\nYou’re the one that should be running!"
+    },
+    {
+      "key": "EP01_S0100_0021",
+      "value": "But...I’ve gotta protect you, Takuma..."
+    },
+    {
+      "key": "EP01_S0100_0022",
+      "value": "Aaaugh!"
+    },
+    {
+      "key": "EP01_S0100_0023",
+      "value": "Ungh... It’s no use..."
+    },
+    {
+      "key": "EP01_S0100_0024",
+      "value": "Oh man, this is bad!"
+    },
+    {
+      "key": "EP01_S0100_0025",
+      "value": "(Koromon will be in trouble if this keeps up.)"
+    },
+    {
+      "key": "EP01_S0100_0026",
+      "value": "(I can’t believe that tiny little thing’s\nrisking its life to protect me...)"
+    },
+    {
+      "key": "EP01_S0100_0027",
+      "value": "(...I know, I can’t just run off on my own\nand let it fight to the death!)"
+    },
+    {
+      "key": "EP01_S0100_0028",
+      "value": "(But what...)"
+    },
+    {
+      "key": "EP01_S0100_Q2",
+      "value": "(What should I do?!)"
+    },
+    {
+      "key": "EP01_S0100_Q2_A1",
+      "value": "Gotta attack!"
+    },
+    {
+      "key": "EP01_S0100_Q2_A2",
+      "value": "Protect Koromon!"
+    },
+    {
+      "key": "EP01_S0100_Q2_A3",
+      "value": "Yell to distract it."
+    },
+    {
+      "key": "EP01_S0100_0029",
+      "value": "(I’ll try one of these stones at my feet!)"
+    },
+    {
+      "key": "EP01_S0100_0030",
+      "value": "How do you like THIS?!"
+    },
+    {
+      "key": "EP01_S0100_0031",
+      "value": "Hey, you! Over here!"
+    },
+    {
+      "key": "EP01_S0100_0032",
+      "value": "Gyee gyee gyee..."
+    },
+    {
+      "key": "EP01_S0100_0033",
+      "value": "Yeah, that’s right! I’m the one you want!"
+    },
+    {
+      "key": "EP01_S0100_0034",
+      "value": "I won’t let you!"
+    },
+    {
+      "key": "EP01_S0100_0035",
+      "value": "Not bad, Takuma! But that might not be the\nbest idea..."
+    },
+    {
+      "key": "EP01_S0100_0036",
+      "value": "Hey, monster! Your opponent is over here!"
+    },
+    {
+      "key": "EP01_S0100_0037",
+      "value": "Gyee gyee gyeeeeee!"
+    },
+    {
+      "key": "EP01_S0100_0038",
+      "value": "Yeah! Come and get me!"
+    },
+    {
+      "key": "EP01_S0100_0039",
+      "value": "Koromon! Run while you can!"
+    },
+    {
+      "key": "EP01_S0100_0040",
+      "value": "Go, Koromon... At least one of us should\nescape!"
+    },
+    {
+      "key": "EP01_S0100_0041",
+      "value": "No way! I can’t just leave you behind,\nTakuma!"
+    },
+    {
+      "key": "EP01_S0100_0042",
+      "value": "Well I guess that makes two of us then, huh?"
+    },
+    {
+      "key": "EP01_S0100_0043",
+      "value": "Oh! Now that you mention it..."
+    },
+    {
+      "key": "EP01_S0100_0044",
+      "value": "Ha...ha ha ha!"
+    },
+    {
+      "key": "EP01_S0100_0045",
+      "value": "...We’re in a real pinch, so why do I laugh?\nI feel oddly calm..."
+    },
+    {
+      "key": "EP01_S0100_0046",
+      "value": "Yeah, me too... Suddenly I feel like I can\ndo it!"
+    },
+    {
+      "key": "EP01_S0100_0047",
+      "value": "I’m gonna go for it, Takuma!"
+    },
+    {
+      "key": "EP01_S0100_0048",
+      "value": "Huh? What’re you saying?!"
+    },
+    {
+      "key": "EP01_S0100_0049",
+      "value": "Just watch, Takuma! I told you I’d protect\nyou, and I meant it!"
+    },
+    {
+      "key": "EP01_S0100_0050",
+      "value": "Koromon, evolve tooo...!"
+    },
+    {
+      "key": "EP01_S0100_0051",
+      "value": "Agumon!"
+    }
+  ]
+}

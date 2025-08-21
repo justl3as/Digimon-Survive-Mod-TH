@@ -1,0 +1,40 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1721_0001",
+      "value": "Huh? Something’s weird."
+    },
+    {
+      "key": "EP02_S1721_0002",
+      "value": "Agumon? What’s wrong?"
+    },
+    {
+      "key": "EP02_S1721_0003",
+      "value": "Something’s staring at us.\nIt’s probably that thing."
+    },
+    {
+      "key": "EP02_S1721_0004",
+      "value": "Wait. Do you mean...?"
+    },
+    {
+      "key": "EP02_S1721_0005",
+      "value": "Look out!"
+    },
+    {
+      "key": "EP02_S1721_0006",
+      "value": "Damn... They noticed."
+    },
+    {
+      "key": "EP02_S1721_0007",
+      "value": "Takuma! You okay?!"
+    },
+    {
+      "key": "EP02_S1721_0008",
+      "value": "You saved me! Thanks!"
+    },
+    {
+      "key": "EP02_S1721_0009",
+      "value": "Whatever. Time for some fun."
+    }
+  ]
+}

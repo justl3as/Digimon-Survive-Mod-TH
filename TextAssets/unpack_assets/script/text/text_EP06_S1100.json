@@ -1,0 +1,240 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP06_S1100_0001",
+      "value": "Hey, man.\nAren’t you scared? "
+    },
+    {
+      "key": "EP06_S1100_0002",
+      "value": "You mean of Falcomon and the others?"
+    },
+    {
+      "key": "EP06_S1100_0003",
+      "value": "Yeah. Like Kaito said, that black fog that\ncame out of Lopmon was pretty scary."
+    },
+    {
+      "key": "EP06_S1100_0004",
+      "value": "(Agumon said the same,\ncome to think of it.)"
+    },
+    {
+      "key": "EP06_S1100_0005",
+      "value": "Did he just lose control?\nOr was he fighting back against Shuuji?"
+    },
+    {
+      "key": "EP06_S1100_0006",
+      "value": "If they decided to turn against us,\ncould we stop them?"
+    },
+    {
+      "key": "EP06_S1100_0007",
+      "value": "You mean of Agumon and Falcomon?"
+    },
+    {
+      "key": "EP06_S1100_0008",
+      "value": "Yeah, they might turn against us like\nLopmon did."
+    },
+    {
+      "key": "EP06_S1100_0009",
+      "value": "Think about it. If they attack when we’re\nalone with them..."
+    },
+    {
+      "key": "EP06_S1100_0010",
+      "value": "Our strength is nothing compared to theirs."
+    },
+    {
+      "key": "EP06_S1100_0011",
+      "value": "And more than one of them could turn against\nus at once."
+    },
+    {
+      "key": "EP06_S1100_0012",
+      "value": "Should we really team up with them just\nbecause it enables us to fight?"
+    },
+    {
+      "key": "EP06_S1100_0013",
+      "value": "Why are you trying to spread so much\nsuspicion, Minoru?  "
+    },
+    {
+      "key": "EP06_S1100_0014",
+      "value": "I’m talking to Takuma.\nYou need to back off."
+    },
+    {
+      "key": "EP06_S1100_0015",
+      "value": "(Minoru’s getting feistier by the minute.)"
+    },
+    {
+      "key": "EP06_S1100_0016",
+      "value": "(He’s already accepted that Falcomon\nand the others are traitors.)"
+    },
+    {
+      "key": "EP06_S1100_0017",
+      "value": "Be honest, Takuma.\nWhat do you think about those monsters?"
+    },
+    {
+      "key": "EP06_S1100_0018",
+      "value": "(What do I think?\nShould I tell him the truth?)"
+    },
+    {
+      "key": "EP06_S1100_0019",
+      "value": "(I trust Agumon.\nI can’t believe he’d hurt me.)"
+    },
+    {
+      "key": "EP06_S1100_0020",
+      "value": "(And Falcomon and the others have kept us\nsafe for so long...)"
+    },
+    {
+      "key": "EP06_S1100_0021",
+      "value": "(I’m scared it could be a trap, too, but...\nI feel like I want to trust them.)"
+    },
+    {
+      "key": "EP06_S1100_Q1",
+      "value": "(I should tell Minoru how I feel.)"
+    },
+    {
+      "key": "EP06_S1100_Q1_A1",
+      "value": "I trust Agumon."
+    },
+    {
+      "key": "EP06_S1100_Q1_A2",
+      "value": "You’re too worried."
+    },
+    {
+      "key": "EP06_S1100_Q1_A3",
+      "value": "I want to be trusting."
+    },
+    {
+      "key": "EP06_S1100_0023",
+      "value": "I trust Agumon.\nHe has protected me this far."
+    },
+    {
+      "key": "EP06_S1100_0024",
+      "value": "If you’d stop and think rationally, you’d\ntrust Falcomon for keeping you safe, too."
+    },
+    {
+      "key": "EP06_S1100_0025",
+      "value": "I wish you were as kind-hearted as Takuma."
+    },
+    {
+      "key": "EP06_S1100_0026",
+      "value": "Oh, shut it!\nI thought I told you to back off!"
+    },
+    {
+      "key": "EP06_S1100_0027",
+      "value": "I might trust you if you were a nice monster\nlike Agumon!"
+    },
+    {
+      "key": "EP06_S1100_0028",
+      "value": "Are you trying to say it’s my fault you don’t\ntrust me?!"
+    },
+    {
+      "key": "EP06_S1100_0029",
+      "value": "I sure am! Why’s it have to be me and you,\nanyway?"
+    },
+    {
+      "key": "EP06_S1100_0031",
+      "value": "You’re too worried, Minoru.\nAnd you’re making everyone else anxious."
+    },
+    {
+      "key": "EP06_S1100_0032",
+      "value": "That’s Takuma. Always one of the nice guys."
+    },
+    {
+      "key": "EP06_S1100_0033",
+      "value": "I guess..."
+    },
+    {
+      "key": "EP06_S1100_0034",
+      "value": "Then take it from the nice guy that you’re\njumping to conclusions."
+    },
+    {
+      "key": "EP06_S1100_0035",
+      "value": "Sure, there’s a lot we don’t know about\nFalcomon and the others. "
+    },
+    {
+      "key": "EP06_S1100_0036",
+      "value": "But being suspicious just adds more confusion\nto the mix. "
+    },
+    {
+      "key": "EP06_S1100_0037",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S1100_0038",
+      "value": "Okay, then spill it. Why are you protecting\nme, Falcomon?"
+    },
+    {
+      "key": "EP06_S1100_0039",
+      "value": "I mean, why me? Thought I was an easy target?\nDidn’t think I’d be so suspicious, did you?"
+    },
+    {
+      "key": "EP06_S1100_0041",
+      "value": "I want to believe them.\nAgumon and Falcomon both."
+    },
+    {
+      "key": "EP06_S1100_0042",
+      "value": "Why?"
+    },
+    {
+      "key": "EP06_S1100_0043",
+      "value": "I honestly don’t know."
+    },
+    {
+      "key": "EP06_S1100_0044",
+      "value": "I just feel like I should.\nI feel like I want to."
+    },
+    {
+      "key": "EP06_S1100_0045",
+      "value": "Aw, Takuma!\nI trust you, too!"
+    },
+    {
+      "key": "EP06_S1100_0046",
+      "value": "Well played.\nActing like you’re the hero."
+    },
+    {
+      "key": "EP06_S1100_0047",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP06_S1100_0048",
+      "value": "Nothing."
+    },
+    {
+      "key": "EP06_S1100_0049",
+      "value": "Alright, Agumon.\nWhy are you protecting Takuma then?"
+    },
+    {
+      "key": "EP06_S1100_0050",
+      "value": "Because...because of who he is!\nI just want to protect him!"
+    },
+    {
+      "key": "EP06_S1100_0051",
+      "value": "Seriously...?"
+    },
+    {
+      "key": "EP06_S1100_0052",
+      "value": "It’s in our very instinct. We always remain\nwith our partners, for better and for worse."
+    },
+    {
+      "key": "EP06_S1100_0053",
+      "value": "We wait for human children, and then protect\nthem with all our might. That’s all we know."
+    },
+    {
+      "key": "EP06_S1100_0054",
+      "value": "Who we go together with and why\nis beyond me."
+    },
+    {
+      "key": "EP06_S1100_0055",
+      "value": "That’s your answer?"
+    },
+    {
+      "key": "EP06_S1100_0056",
+      "value": "..."
+    },
+    {
+      "key": "EP06_S1100_0057",
+      "value": "Falcomon..."
+    },
+    {
+      "key": "EP06_S1100_0058",
+      "value": "It’s just hard to trust a monster that’s\nway stronger than I am..."
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1071_0001",
+      "value": "All right, we’re all here. Now, let’s discuss\nour current situation."
+    },
+    {
+      "key": "EP04_S1071_0002",
+      "value": "What’s there to discuss? We haven’t found\nanything! Not a single clue!"
+    },
+    {
+      "key": "EP04_S1071_0003",
+      "value": "Hey, no need to bite anyone’s head off. It’s\nnot like you’re the only one who’s upset."
+    },
+    {
+      "key": "EP04_S1071_0004",
+      "value": "Urgh... You’re right, I’m sorry. And here\nyou’re all trying to help me..."
+    },
+    {
+      "key": "EP04_S1071_0005",
+      "value": "But I just can’t stand this!"
+    },
+    {
+      "key": "EP04_S1071_0006",
+      "value": "Hey, don’t worry about it. We understand."
+    },
+    {
+      "key": "EP04_S1071_0007",
+      "value": "Though I’m not sure what more we can do.\nWhere else are we supposed to look?"
+    },
+    {
+      "key": "EP04_S1071_0008",
+      "value": "Beats me. Then again, I get the feeling we\nshouldn’t stand around here too long, either."
+    },
+    {
+      "key": "EP04_S1071_0009",
+      "value": "Why not?"
+    },
+    {
+      "key": "EP04_S1071_0010",
+      "value": "Well, it’s just a hunch, but whenever we get\ntogether like this, we also get company."
+    },
+    {
+      "key": "EP04_S1071_0011",
+      "value": "Oh, yeah. I see what you mean."
+    },
+    {
+      "key": "EP04_S1071_0012",
+      "value": "Right! How could I forget?"
+    },
+    {
+      "key": "EP04_S1071_0013",
+      "value": "Wait... I don’t get it..."
+    },
+    {
+      "key": "EP04_S1071_0014",
+      "value": "I’m saying if we stand around here talking\nfor too long, those pesky little things will—"
+    },
+    {
+      "key": "EP04_S1071_0015",
+      "value": "Looking for us?"
+    },
+    {
+      "key": "EP04_S1071_0016",
+      "value": "No way! They actually showed up!"
+    },
+    {
+      "key": "EP04_S1071_0017",
+      "value": "Seriously?! That’s like, instant\nforeshadowing!"
+    },
+    {
+      "key": "EP04_S1071_0018",
+      "value": "Hey, don’t act so surprised! You’re the ones\nwho called us out here!"
+    },
+    {
+      "key": "EP04_S1071_0019",
+      "value": "We didn’t call for anyone!"
+    },
+    {
+      "key": "EP04_S1071_0020",
+      "value": "You most certainly did! To settle things once\nand for all!"
+    },
+    {
+      "key": "EP04_S1071_0021",
+      "value": "That’s right! This time of all times, not any\nother time but this time, we’ll finish you!"
+    },
+    {
+      "key": "EP04_S1071_0022",
+      "value": "Because those are Her Majesty’s orders!"
+    },
+    {
+      "key": "EP04_S1071_0023",
+      "value": "What do we do, Takuma?"
+    },
+    {
+      "key": "EP04_S1071_0024",
+      "value": "Hmm, let me think..."
+    },
+    {
+      "key": "EP04_S1071_0025",
+      "value": "Why those stupid, blabbering, pesky little\nbrats..."
+    },
+    {
+      "key": "EP04_S1071_0026",
+      "value": "K-Kaito?"
+    },
+    {
+      "key": "EP04_S1071_0027",
+      "value": "I’ve HAD IT with you!!!"
+    },
+    {
+      "key": "EP04_S1071_0028",
+      "value": "Eep?!"
+    },
+    {
+      "key": "EP04_S1071_0029",
+      "value": "Yeep?!"
+    },
+    {
+      "key": "EP04_S1071_0030",
+      "value": "Cheep?!"
+    },
+    {
+      "key": "EP04_S1071_0031",
+      "value": "Looks like Kaito’s finally snapped..."
+    },
+    {
+      "key": "EP04_S1071_0032",
+      "value": "If you little twerps mess with me one more\ntime—"
+    },
+    {
+      "key": "EP04_S1071_0033",
+      "value": "Kaito, no! Stop! Please, calm down!"
+    },
+    {
+      "key": "EP04_S1071_0034",
+      "value": "Don’t you tell me to calm down! I am DONE\nwith this!"
+    },
+    {
+      "key": "EP04_S1071_0035",
+      "value": "But you’re terrifying them!"
+    },
+    {
+      "key": "EP04_S1071_0036",
+      "value": "*whimper* That big human is scary..."
+    },
+    {
+      "key": "EP04_S1071_0037",
+      "value": "*sniff* Oh, Her Majesty..."
+    },
+    {
+      "key": "EP04_S1071_0038",
+      "value": "I... I hate this..."
+    },
+    {
+      "key": "EP04_S1071_0039",
+      "value": "They’re crying..."
+    },
+    {
+      "key": "EP04_S1071_0040",
+      "value": "Crying..."
+    },
+    {
+      "key": "EP04_S1071_0041",
+      "value": "Okay, fine! Whatever! But what the hell are\nwe supposed to do?!"
+    },
+    {
+      "key": "EP04_S1071_0042",
+      "value": "I’ll go talk with them. You stay here, Kaito."
+    },
+    {
+      "key": "EP04_S1071_0043",
+      "value": "We tried that already, and it didn’t work!"
+    },
+    {
+      "key": "EP04_S1071_0044",
+      "value": "Just let me handle this!!!"
+    },
+    {
+      "key": "EP04_S1071_0045",
+      "value": "Ergh..."
+    },
+    {
+      "key": "EP04_S1071_0046",
+      "value": "Oh, great. Now Aoi’s getting mad."
+    },
+    {
+      "key": "EP04_S1071_0047",
+      "value": "It’s no more than Kaito deserves! Who does he\nthink he is, yelling like that?"
+    },
+    {
+      "key": "EP04_S1071_0048",
+      "value": "But are you sure about this, Aoi?"
+    },
+    {
+      "key": "EP04_S1071_0049",
+      "value": "Of course. It’s not like they’re really that\nbad."
+    },
+    {
+      "key": "EP04_S1071_0050",
+      "value": "Listen, I’m sorry we scared you like that."
+    },
+    {
+      "key": "EP04_S1071_0051",
+      "value": "..."
+    },
+    {
+      "key": "EP04_S1071_0052",
+      "value": "I’m just going to get a little bit closer,\nokay? I’m not going to try anything."
+    },
+    {
+      "key": "EP04_S1071_0053",
+      "value": "Hmph... Why’s she crouched down like that?"
+    },
+    {
+      "key": "EP04_S1071_0054",
+      "value": "To look them in the eyes?"
+    },
+    {
+      "key": "EP04_S1071_0055",
+      "value": "She’s treating them like you would if you\nwere talking to a little kid."
+    },
+    {
+      "key": "EP04_S1071_0056",
+      "value": "She doesn’t want them to feel threatened."
+    },
+    {
+      "key": "EP04_S1071_0057",
+      "value": "You know how kids can get scared when adults\nlook down at them?"
+    },
+    {
+      "key": "EP04_S1071_0058",
+      "value": "Oh, now I get it!"
+    },
+    {
+      "key": "EP04_S1071_0059",
+      "value": "Yeah, I think I know what that’s like."
+    },
+    {
+      "key": "EP04_S1071_0060",
+      "value": "What, are you criticizing me?"
+    },
+    {
+      "key": "EP04_S1071_0061",
+      "value": "I’m never scared when you look down at me,\nTakuma."
+    },
+    {
+      "key": "EP04_S1071_0062",
+      "value": "Shhh! Let’s focus on Aoi right now."
+    },
+    {
+      "key": "EP04_S1071_0063",
+      "value": "This place obviously means a lot to you, so\nwe’re sorry we came in without permission."
+    },
+    {
+      "key": "EP04_S1071_0064",
+      "value": "But we’re not here to do anything bad. We’re\nlooking for our friend’s little sister."
+    },
+    {
+      "key": "EP04_S1071_0065",
+      "value": "Does that sound okay to you?"
+    },
+    {
+      "key": "EP04_S1071_0066",
+      "value": "That’s...really all you’re here for?"
+    },
+    {
+      "key": "EP04_S1071_0067",
+      "value": "(Whoa! They’re actually listening to what Aoi\nhas to say!)"
+    },
+    {
+      "key": "EP04_S1071_0068",
+      "value": "That’s it. We’re looking for a young human\ngirl named Miu."
+    },
+    {
+      "key": "EP04_S1071_0069",
+      "value": "A young human girl? You mean like the queen?"
+    },
+    {
+      "key": "EP04_S1071_0070",
+      "value": "What...?! "
+    },
+    {
+      "key": "EP04_S1071_0071",
+      "value": "Is your queen a young human girl?"
+    },
+    {
+      "key": "EP04_S1071_0072",
+      "value": "That’s right! She is!"
+    },
+    {
+      "key": "EP04_S1071_0073",
+      "value": "Oh! So maybe the queen will know something\nabout your friend."
+    },
+    {
+      "key": "EP04_S1071_0074",
+      "value": "Really? Do you think she would tell us?"
+    },
+    {
+      "key": "EP04_S1071_0075",
+      "value": "We’d have to ask her to find out!"
+    },
+    {
+      "key": "EP04_S1071_0076",
+      "value": "Well then, why don’t we go ask?"
+    },
+    {
+      "key": "EP04_S1071_0077",
+      "value": "Sure! Let’s go to our secret hideout and\nsee what she says!"
+    },
+    {
+      "key": "EP04_S1071_0078",
+      "value": "Your...secret hideout?"
+    },
+    {
+      "key": "EP04_S1071_0079",
+      "value": "Okay, we’ll go ask!"
+    },
+    {
+      "key": "EP04_S1071_0080",
+      "value": "Wait! Oh, they ran off."
+    },
+    {
+      "key": "EP04_S1071_0081",
+      "value": "Their queen is...a young human girl?"
+    },
+    {
+      "key": "EP04_S1071_0082",
+      "value": "Yes, that’s what they said. A young human\ngirl just like Miu."
+    },
+    {
+      "key": "EP04_S1071_0083",
+      "value": "I don’t like this. Not one bit."
+    },
+    {
+      "key": "EP04_S1071_0084",
+      "value": "Huh? Why not?"
+    },
+    {
+      "key": "EP04_S1071_0085",
+      "value": "Come on! We gotta follow those little guys!"
+    },
+    {
+      "key": "EP04_S1071_0086",
+      "value": "But why?"
+    },
+    {
+      "key": "EP04_S1071_0087",
+      "value": "I got a feeling I know what we’ll find if we\ndo."
+    },
+    {
+      "key": "EP04_S1071_0088",
+      "value": "Don’t lose sight of them, okay? And don’t let\nthem catch on!"
+    },
+    {
+      "key": "EP04_S1071_0089",
+      "value": "Uh, okay! Come on, let’s do what Kaito says!"
+    },
+    {
+      "key": "EP04_S1071_0090",
+      "value": "We gotta follow them so they don’t catch on\nto us, right? I can do that!"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S1205_0001",
+      "value": "Ack! *huff* *huff* *huff*..."
+    },
+    {
+      "key": "EP12_S1205_0002",
+      "value": "Floramon, you look hurt!"
+    },
+    {
+      "key": "EP12_S1205_0003",
+      "value": "Damn it!\n*huff* *huff*..."
+    },
+    {
+      "key": "EP12_S1205_0004",
+      "value": "Vegiemon, you look hurt!"
+    },
+    {
+      "key": "EP12_S1205_0005",
+      "value": "*huff* *huff*..."
+    },
+    {
+      "key": "EP12_S1205_0006",
+      "value": "Blossomon, you look hurt!"
+    },
+    {
+      "key": "EP12_S1205_0007",
+      "value": "*huff* *huff*... I’m not...done...yet..."
+    },
+    {
+      "key": "EP12_S1205_0008",
+      "value": "Ceresmon, you look hurt!"
+    },
+    {
+      "key": "EP12_S1205_0009",
+      "value": "Aaaugh... *huff* *huff*..."
+    },
+    {
+      "key": "EP12_S1205_0010",
+      "value": "Ceresmon Medium, you look hurt!"
+    },
+    {
+      "key": "EP12_S1205_0011",
+      "value": "Grr... That smarts..."
+    },
+    {
+      "key": "EP12_S1205_0012",
+      "value": "Ebonwumon, you look hurt!"
+    },
+    {
+      "key": "EP12_S1205_0013",
+      "value": "Oh, this is not looking good! What am I gonna\ndo? What am I gonna do?!"
+    },
+    {
+      "key": "EP12_S1205_0014",
+      "value": "Is this the end?"
+    },
+    {
+      "key": "EP12_S1205_0015",
+      "value": "Saki!"
+    },
+    {
+      "key": "EP12_S1205_0016",
+      "value": "(Saki’s starting to panic!)"
+    },
+    {
+      "key": "EP12_S1205_0017",
+      "value": "(I have to calm her down somehow!)"
+    },
+    {
+      "key": "EP12_S1205_0018",
+      "value": "Saki! Snap out of it!"
+    },
+    {
+      "key": "EP12_S1205_0019",
+      "value": "If you don’t keep it together, Floramon is\ngoing to lose it too!"
+    },
+    {
+      "key": "EP12_S1205_0020",
+      "value": "If you don’t keep it together, Vegiemon is\ngoing to lose it too!"
+    },
+    {
+      "key": "EP12_S1205_0021",
+      "value": "If you don’t keep it together, Blossomon is\ngoing to lose it too!"
+    },
+    {
+      "key": "EP12_S1205_0022",
+      "value": "If you don’t keep it together, Ceresmon is\ngoing to lose it too!"
+    },
+    {
+      "key": "EP12_S1205_0023",
+      "value": "If you don’t keep it together, Ceresmon\nMedium is going to lose it too!"
+    },
+    {
+      "key": "EP12_S1205_0024",
+      "value": "If you don’t keep it together, Ebonwumon is\ngoing to lose it too!"
+    },
+    {
+      "key": "EP12_S1205_0025",
+      "value": "Wha...?! You’re right, I forgot!"
+    },
+    {
+      "key": "EP12_S1205_0026",
+      "value": "It’s not just Floramon fighting out there.\nI’m in this too!"
+    },
+    {
+      "key": "EP12_S1205_0027",
+      "value": "After all, our hearts are connected!"
+    },
+    {
+      "key": "EP12_S1205_0028",
+      "value": "Floramon!"
+    },
+    {
+      "key": "EP12_S1205_0029",
+      "value": "Hee hee! Feels like Saki’s ready to give this\nher all too!"
+    },
+    {
+      "key": "EP12_S1205_0030",
+      "value": "It’s not just Vegiemon fighting out there.\nI’m in this too!"
+    },
+    {
+      "key": "EP12_S1205_0031",
+      "value": "After all, our hearts are connected!"
+    },
+    {
+      "key": "EP12_S1205_0032",
+      "value": "Vegiemon!"
+    },
+    {
+      "key": "EP12_S1205_0033",
+      "value": "Kekeke! Seems like Saki’s really into this\nnow!"
+    },
+    {
+      "key": "EP12_S1205_0034",
+      "value": "It’s not just Blossomon fighting out there.\nI’m in this too!"
+    },
+    {
+      "key": "EP12_S1205_0035",
+      "value": "After all, our hearts are connected!"
+    },
+    {
+      "key": "EP12_S1205_0036",
+      "value": "Blossomon!"
+    },
+    {
+      "key": "EP12_S1205_0037",
+      "value": "Seems like Saki’s got her fighting spirit\nback."
+    },
+    {
+      "key": "EP12_S1205_0038",
+      "value": "It’s not just Ceresmon fighting out there.\nI’m in this too!"
+    },
+    {
+      "key": "EP12_S1205_0039",
+      "value": "After all, our hearts are connected!"
+    },
+    {
+      "key": "EP12_S1205_0040",
+      "value": "Ceresmon!"
+    },
+    {
+      "key": "EP12_S1205_0041",
+      "value": "Ah, such a rush of courage and strength!"
+    },
+    {
+      "key": "EP12_S1205_0042",
+      "value": "It’s not just Ceresmon Medium fighting out\nthere. I’m in this too!"
+    },
+    {
+      "key": "EP12_S1205_0043",
+      "value": "After all, our hearts are connected!"
+    },
+    {
+      "key": "EP12_S1205_0044",
+      "value": "Ceresmon Medium!"
+    },
+    {
+      "key": "EP12_S1205_0045",
+      "value": "I can feel it, feel my bond with Saki. It’s\nfull of warmth, and it gives me strength!"
+    },
+    {
+      "key": "EP12_S1205_0046",
+      "value": "It’s not just Ebonwumon fighting out there.\nI’m in this too!"
+    },
+    {
+      "key": "EP12_S1205_0047",
+      "value": "After all, our hearts are connected!"
+    },
+    {
+      "key": "EP12_S1205_0048",
+      "value": "Ebonwumon!"
+    },
+    {
+      "key": "EP12_S1205_0049",
+      "value": "Ah, Saki, what a beautiful smile."
+    },
+    {
+      "key": "EP12_S1205_0050",
+      "value": "Yeah. I am done getting pushed around!"
+    },
+    {
+      "key": "EP12_S1205_0051",
+      "value": "Just a little more, Floramon! And when this\nis over, I will give you the royal treatment!"
+    },
+    {
+      "key": "EP12_S1205_0052",
+      "value": "Right!"
+    },
+    {
+      "key": "EP12_S1205_0053",
+      "value": "Just a little more, Vegiemon! And when this\nis over, I will give you the royal treatment!"
+    },
+    {
+      "key": "EP12_S1205_0054",
+      "value": "Hurrah!"
+    },
+    {
+      "key": "EP12_S1205_0055",
+      "value": "Just a little more, Blossomon! And when this\nis over, I will give you the royal treatment!"
+    },
+    {
+      "key": "EP12_S1205_0056",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP12_S1205_0057",
+      "value": "Just a little more, Ceresmon! And when this\nis over, I will give you the royal treatment!"
+    },
+    {
+      "key": "EP12_S1205_0058",
+      "value": "I’m on it!"
+    },
+    {
+      "key": "EP12_S1205_0059",
+      "value": "Just a little more, Ceresmon Medium! And when\nthis is over, you get the royal treatment!"
+    },
+    {
+      "key": "EP12_S1205_0060",
+      "value": "Yes, I’ll be looking forward to it!"
+    },
+    {
+      "key": "EP12_S1205_0061",
+      "value": "Just a little more, Ebonwumon! And when this\nis over, I will give you the royal treatment!"
+    },
+    {
+      "key": "EP12_S1205_0062",
+      "value": "You don’t say! Ah, the pleasures of a long\nlife."
+    }
+  ]
+}

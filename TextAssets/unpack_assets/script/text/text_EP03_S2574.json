@@ -1,0 +1,372 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S2574_0001",
+      "value": "Takuma?"
+    },
+    {
+      "key": "EP03_S2574_0002",
+      "value": "Hm? Agumon?"
+    },
+    {
+      "key": "EP03_S2574_0003",
+      "value": "Takuma, are you all right? You seem kind of\nout of it."
+    },
+    {
+      "key": "EP03_S2574_0004",
+      "value": "I’ve...been thinking. About Ryo."
+    },
+    {
+      "key": "EP03_S2574_0005",
+      "value": "Okay..."
+    },
+    {
+      "key": "EP03_S2574_0006",
+      "value": "There must’ve been something we could’ve done\nto save him. Maybe if we’d started earlier..."
+    },
+    {
+      "key": "EP03_S2574_0007",
+      "value": "I knew. When he couldn’t open up to Kunemon,\nwhen he got so scared of Dokugumon,"
+    },
+    {
+      "key": "EP03_S2574_0008",
+      "value": "how he acted in that classroom, on the trail,\nor even just talking with him. It was clear."
+    },
+    {
+      "key": "EP03_S2574_0009",
+      "value": "I knew he was struggling. But I didn’t help\nhim."
+    },
+    {
+      "key": "EP03_S2574_0010",
+      "value": "I just...let him suffer."
+    },
+    {
+      "key": "EP03_S2574_0011",
+      "value": "What do you think might have changed things,\nTakuma?"
+    },
+    {
+      "key": "EP03_S2574_Q1",
+      "value": "(I just wish...)"
+    },
+    {
+      "key": "EP03_S2574_Q1_A1",
+      "value": "He’d talked with everyone."
+    },
+    {
+      "key": "EP03_S2574_Q1_A2",
+      "value": "He’d faced his fears."
+    },
+    {
+      "key": "EP03_S2574_Q1_A3",
+      "value": "I’d talked with him more."
+    },
+    {
+      "key": "EP03_S2574_0012",
+      "value": "He’d talked with us."
+    },
+    {
+      "key": "EP03_S2574_0013",
+      "value": "You know, I wish Ryo had talked more with the\nrest of us."
+    },
+    {
+      "key": "EP03_S2574_0014",
+      "value": "That way he wouldn’t have felt so alone."
+    },
+    {
+      "key": "EP03_S2574_0015",
+      "value": "He would’ve found a place with us."
+    },
+    {
+      "key": "EP03_S2574_0016",
+      "value": "He’d faced his fears."
+    },
+    {
+      "key": "EP03_S2574_0017",
+      "value": "I wish Ryo had been able to conquer some of\nhis fears."
+    },
+    {
+      "key": "EP03_S2574_0018",
+      "value": "If he hadn’t been so afraid, if he’d had the\ncourage to face up to things,"
+    },
+    {
+      "key": "EP03_S2574_0019",
+      "value": "he would’ve been able to find a place for\nhimself here."
+    },
+    {
+      "key": "EP03_S2574_0020",
+      "value": "We’d talked more."
+    },
+    {
+      "key": "EP03_S2574_0021",
+      "value": "I wish I’d talked with him more."
+    },
+    {
+      "key": "EP03_S2574_0022",
+      "value": "If we’d been able to talk things out, even if\nhe just wanted to whine or complain,"
+    },
+    {
+      "key": "EP03_S2574_0023",
+      "value": "I’m sure things would have ended differently."
+    },
+    {
+      "key": "EP03_S2574_0024",
+      "value": "But it’s not like I’ve got all the answers."
+    },
+    {
+      "key": "EP03_S2574_0025",
+      "value": "Who knows if what I did was right, or what\nI should’ve done differently?"
+    },
+    {
+      "key": "EP03_S2574_0026",
+      "value": "Not me, that’s for sure."
+    },
+    {
+      "key": "EP03_S2574_0027",
+      "value": "Takuma, I can tell that you’re hurting."
+    },
+    {
+      "key": "EP03_S2574_0028",
+      "value": "You’re right, Agumon. I hurt so much."
+    },
+    {
+      "key": "EP03_S2574_0029",
+      "value": "And what’s worse is that even after losing\nRyo, there’s no clear way out of this."
+    },
+    {
+      "key": "EP03_S2574_0030",
+      "value": "Arukenimon is still after us, and maybe that\namusement park is crawling with enemies."
+    },
+    {
+      "key": "EP03_S2574_0031",
+      "value": "Plus, if we have been transported to some\nother world, is there even a way back?"
+    },
+    {
+      "key": "EP03_S2574_0032",
+      "value": "I don’t know... I just don’t know."
+    },
+    {
+      "key": "EP03_S2574_0033",
+      "value": "What are we even supposed to do?"
+    },
+    {
+      "key": "EP03_S2574_0034",
+      "value": "Takuma..."
+    },
+    {
+      "key": "EP03_S2574_0035",
+      "value": "Takuma, listen. I may not know much, but I do\nknow one very important thing."
+    },
+    {
+      "key": "EP03_S2574_0036",
+      "value": "And it’s that if you try, Takuma, you can do\nanything."
+    },
+    {
+      "key": "EP03_S2574_0037",
+      "value": "Whether you team up with the others or just\nblindly press on, in the end, you’ll succeed."
+    },
+    {
+      "key": "EP03_S2574_0038",
+      "value": "Haha, where’s this coming from? I’m not that\nspecial."
+    },
+    {
+      "key": "EP03_S2574_0039",
+      "value": "But you are, Takuma. I know it."
+    },
+    {
+      "key": "EP03_S2574_0040",
+      "value": "And I believe in you."
+    },
+    {
+      "key": "EP03_S2574_0041",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP03_S2574_0042",
+      "value": "Thanks. That actually makes me feel better.\nMaybe now I’ll be able to get some sleep."
+    },
+    {
+      "key": "EP03_S2574_0043",
+      "value": "Really? Then I’m glad."
+    },
+    {
+      "key": "EP03_S2574_0044",
+      "value": "Good night, Agumon."
+    },
+    {
+      "key": "EP03_S2574_0045",
+      "value": "Good night, Takuma."
+    },
+    {
+      "key": "EP03_S2574_0501",
+      "value": "I’ve...been thinking. About what to do now."
+    },
+    {
+      "key": "EP03_S2574_0502",
+      "value": "Oh..."
+    },
+    {
+      "key": "EP03_S2574_0503",
+      "value": "After I met you, I thought if we all just\nworked together, we’d make it through this."
+    },
+    {
+      "key": "EP03_S2574_0504",
+      "value": "But this isn’t even our world. However long\nwe hold out, nobody’s gonna come save us."
+    },
+    {
+      "key": "EP03_S2574_0505",
+      "value": "Tell me, Agumon... What do I do now?"
+    },
+    {
+      "key": "EP03_S2574_0506",
+      "value": "Should I be like Shuuji and try to stay out\nof danger? Or hole up somewhere like Ryo?"
+    },
+    {
+      "key": "EP03_S2574_0507",
+      "value": "If the alternative is running around until\nI die, maybe it’s better to just give up."
+    },
+    {
+      "key": "EP03_S2574_0508",
+      "value": "Well, what do you want to do, Takuma?"
+    },
+    {
+      "key": "EP03_S2574_Q2",
+      "value": "(What I really want is...)"
+    },
+    {
+      "key": "EP03_S2574_Q2_A1",
+      "value": "for us all to live."
+    },
+    {
+      "key": "EP03_S2574_Q2_A2",
+      "value": "to find some way home."
+    },
+    {
+      "key": "EP03_S2574_Q2_A3",
+      "value": "to study this place."
+    },
+    {
+      "key": "EP03_S2574_0509",
+      "value": "I want everyone to make it through this.\nI don’t want to lose a single one of us!"
+    },
+    {
+      "key": "EP03_S2574_0510",
+      "value": "I know we have to do more than just stay out\nof danger, but I wish we had a safe place."
+    },
+    {
+      "key": "EP03_S2574_0511",
+      "value": "Even here, you never know when we might be\nattacked."
+    },
+    {
+      "key": "EP03_S2574_0512",
+      "value": "I want to go home. I want to find some way\nback if it’s the last thing I do."
+    },
+    {
+      "key": "EP03_S2574_0513",
+      "value": "I don’t care about Arukenimon, the fog, or\nanything else. I’ll beat any enemy."
+    },
+    {
+      "key": "EP03_S2574_0514",
+      "value": "But without knowing the way... I don’t even\nknow where to start."
+    },
+    {
+      "key": "EP03_S2574_0515",
+      "value": "I want to learn more about this world."
+    },
+    {
+      "key": "EP03_S2574_0516",
+      "value": "If I can find out what it is, what all of you\nare, maybe that’ll help me find a way back."
+    },
+    {
+      "key": "EP03_S2574_0517",
+      "value": "The problem is, I don’t how I’m supposed to\nlearn all that."
+    },
+    {
+      "key": "EP03_S2574_0518",
+      "value": "It’s not like I’ve got all the answers."
+    },
+    {
+      "key": "EP03_S2574_0519",
+      "value": "Who knows if what I did was right, or what\nI should’ve done differently?"
+    },
+    {
+      "key": "EP03_S2574_0520",
+      "value": "Not me, that’s for sure."
+    },
+    {
+      "key": "EP03_S2574_0521",
+      "value": "Takuma, I can tell that you’re hurting."
+    },
+    {
+      "key": "EP03_S2574_0522",
+      "value": "You’re right, Agumon. I hurt so much."
+    },
+    {
+      "key": "EP03_S2574_0523",
+      "value": "And what’s worse is that there’s no clear way\nout of this."
+    },
+    {
+      "key": "EP03_S2574_0524",
+      "value": "Arukenimon is still after us, and maybe that\namusement park is crawling with enemies."
+    },
+    {
+      "key": "EP03_S2574_0525",
+      "value": "Plus, if we have been transported to some\nother world, is there even a way back?"
+    },
+    {
+      "key": "EP03_S2574_0526",
+      "value": "I don’t know... I just don’t know."
+    },
+    {
+      "key": "EP03_S2574_0527",
+      "value": "What are we even supposed to do?"
+    },
+    {
+      "key": "EP03_S2574_0528",
+      "value": "...Hey, Takuma."
+    },
+    {
+      "key": "EP03_S2574_0529",
+      "value": "Takuma, listen. I may not know much, but I do\nknow one very important thing."
+    },
+    {
+      "key": "EP03_S2574_0530",
+      "value": "And it’s that if you try, Takuma, you can do\nanything."
+    },
+    {
+      "key": "EP03_S2574_0531",
+      "value": "Whether you team up with the others or just\nblindly press on, in the end, you’ll succeed."
+    },
+    {
+      "key": "EP03_S2574_0532",
+      "value": "Haha, where’s this coming from? I’m not that\nspecial!"
+    },
+    {
+      "key": "EP03_S2574_0533",
+      "value": "But you are, Takuma. I know it."
+    },
+    {
+      "key": "EP03_S2574_0534",
+      "value": "And I believe in you."
+    },
+    {
+      "key": "EP03_S2574_0535",
+      "value": "Agumon..."
+    },
+    {
+      "key": "EP03_S2574_0536",
+      "value": "Thanks. That actually makes me feel better.\nMaybe now I’ll be able to get some sleep."
+    },
+    {
+      "key": "EP03_S2574_0537",
+      "value": "Really? Then I’m glad."
+    },
+    {
+      "key": "EP03_S2574_0538",
+      "value": "Good night, Agumon."
+    },
+    {
+      "key": "EP03_S2574_0539",
+      "value": "Good night, Takuma."
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "DS_MapGuide": [
+    {
+      "key": "MAP_INFO_EP01_S03_01",
+      "value": "We’re supposed to go to that historic landmark, right? I’d better start by heading over to the cherry trees."
+    },
+    {
+      "key": "MAP_INFO_EP01_S04_01",
+      "value": "I should probably talk to Minoru, Saki, or some of the others."
+    },
+    {
+      "key": "MAP_INFO_EP01_S06_01",
+      "value": "Better make my way to the mountain road."
+    },
+    {
+      "key": "MAP_INFO_EP01_S07_01",
+      "value": "What happened here? Maybe I should ask that police officer."
+    },
+    {
+      "key": "MAP_INFO_EP01_S07_02",
+      "value": "I should touch base with Aoi."
+    },
+    {
+      "key": "MAP_INFO_EP01_S07_03",
+      "value": "I ought to talk to that police officer again."
+    },
+    {
+      "key": "MAP_INFO_EP01_S10_01",
+      "value": "Better head after Saki and the others."
+    },
+    {
+      "key": "MAP_INFO_EP01_S11_01",
+      "value": "So what do we do now? I feel like we should all talk this out."
+    },
+    {
+      "key": "MAP_INFO_EP01_S14_01",
+      "value": "I think the thing to do is to look around that weird forest."
+    },
+    {
+      "key": "MAP_INFO_EP01_S16_01",
+      "value": "I’m not sure what our next move should be. I’d better discuss this with the others."
+    },
+    {
+      "key": "MAP_INFO_EP01_S16_02",
+      "value": "I should try investigating with my camera."
+    },
+    {
+      "key": "MAP_INFO_EP01_S20_01",
+      "value": "I’d better talk to the professor."
+    },
+    {
+      "key": "MAP_INFO_EP01_S20_02",
+      "value": "There’s something about these murals. I kind of want to investigate them."
+    },
+    {
+      "key": "MAP_INFO_EP01_S21_01",
+      "value": "I feel like the first thing to do is to look around the area."
+    },
+    {
+      "key": "MAP_INFO_EP01_S23_01",
+      "value": "I should try investigating with my camera."
+    },
+    {
+      "key": "MAP_INFO_EP01_S32_01",
+      "value": "Find some medicine for Labramon."
+    },
+    {
+      "key": "MAP_INFO_EP01_S32_02",
+      "value": "Now that you’ve found the medicine, head back into the hall."
+    },
+    {
+      "key": "MAP_INFO_EP01_S35_01",
+      "value": "I should try investigating with my camera."
+    },
+    {
+      "key": "MAP_INFO_EP01_S37_01",
+      "value": "Aoi has to be in the school somewhere."
+    },
+    {
+      "key": "MAP_INFO_EP01_S38_01",
+      "value": "We’re trapped inside! We’d better find Aoi fast!"
+    },
+    {
+      "key": "MAP_INFO_EP01_S39_01",
+      "value": "Is this place really haunted? I should check out the hallway that leads to the music room."
+    },
+    {
+      "key": "MAP_INFO_EP01_S40_01",
+      "value": "Well, so much for getting into the music room. I’d better keep looking elsewhere."
+    },
+    {
+      "key": "MAP_INFO_EP01_S41_01",
+      "value": "I think Aoi might be in the gym. Which means there must be some way to get inside..."
+    },
+    {
+      "key": "MAP_INFO_EP01_S42_01",
+      "value": "Could there really be another child in here? I should try checking places a kid might hide."
+    },
+    {
+      "key": "MAP_INFO_EP02_S03_01",
+      "value": "I’d better talk with everyone here in the school."
+    },
+    {
+      "key": "MAP_INFO_EP02_S04_01",
+      "value": "First things first, we need food. I think I’ll see if I can find any nearby."
+    },
+    {
+      "key": "MAP_INFO_EP02_S05_01",
+      "value": "Well, we’ve got water, but we still might be in trouble. I should keep looking around for anything that might be useful."
+    },
+    {
+      "key": "MAP_INFO_EP02_S06_01",
+      "value": "This food should be enough to make do, but I ought to keep looking around for more useful stuff."
+    },
+    {
+      "key": "MAP_INFO_EP02_S07_01",
+      "value": "Looks like we can forget about electricity, but it wouldn’t hurt to do a little more searching."
+    },
+    {
+      "key": "MAP_INFO_EP02_S08_01",
+      "value": "I’m not getting a cell phone signal anywhere, either. Still, I guess I can keep looking for stuff."
+    },
+    {
+      "key": "MAP_INFO_EP02_S09_01",
+      "value": "Okay, this is enough to meet our basic needs. Time to regroup with the others."
+    },
+    {
+      "key": "MAP_INFO_EP02_S14_01",
+      "value": "The forest near the school seems like the best place to start. I should head there."
+    },
+    {
+      "key": "MAP_INFO_EP02_S14_02",
+      "value": "I’d better talk with Aoi and the others."
+    },
+    {
+      "key": "MAP_INFO_EP02_S18_01",
+      "value": "I should ask the professor about what happened."
+    },
+    {
+      "key": "MAP_INFO_EP02_S18_02",
+      "value": "I ought to discuss what to do next with Minoru and the others."
+    },
+    {
+      "key": "MAP_INFO_EP02_S18_03",
+      "value": "Now to try using my camera to see if I can find any clues."
+    },
+    {
+      "key": "MAP_INFO_EP02_S19_01",
+      "value": "There may be more footprints to find. I should keep looking around with my camera."
+    },
+    {
+      "key": "MAP_INFO_EP02_S20_01",
+      "value": "Where could Saki be? I’d better search the area."
+    },
+    {
+      "key": "MAP_INFO_EP02_S21_01",
+      "value": "Where could Saki be? I’d better keep searching the area."
+    },
+    {
+      "key": "MAP_INFO_EP02_S22_01",
+      "value": "We ought to head over to the canal that Gomamon described."
+    },
+    {
+      "key": "MAP_INFO_EP02_S22_02",
+      "value": "What do we do now? Maybe the professor will know."
+    },
+    {
+      "key": "MAP_INFO_EP02_S24_01",
+      "value": "Shuuji and Saki must be at the dam! We’d better get there quick!"
+    },
+    {
+      "key": "MAP_INFO_EP03_S04_01",
+      "value": "Seems like the group is divided over what we should do. Maybe talking to people one-on-one would help."
+    },
+    {
+      "key": "MAP_INFO_EP03_S08_01",
+      "value": "There’s still time before noon. I should keep talking with the others."
+    },
+    {
+      "key": "MAP_INFO_EP03_S12_01",
+      "value": "It’s almost noon. I’d better check in with the others one more time to make sure I didn’t forget anything."
+    },
+    {
+      "key": "MAP_INFO_EP03_S18_01",
+      "value": "If we’re headed to the radio tower, we’ll have to start by taking the trail to the mountain pass."
+    },
+    {
+      "key": "MAP_INFO_EP03_S19_01",
+      "value": "Kaito’s arguing with some woman I’ve never seen before. I’d better ask what happened."
+    },
+    {
+      "key": "MAP_INFO_EP03_S20_01",
+      "value": "I’m not sure what to do next. Maybe I should ask Kaito."
+    },
+    {
+      "key": "MAP_INFO_EP03_S21_01",
+      "value": "I’m not sure what to do next. Maybe I should ask Kaito."
+    },
+    {
+      "key": "MAP_INFO_EP04_S03_01",
+      "value": "At this rate, Kaito is going to go look for Miu by himself. I need to search the school and its surroundings to get everyone together first."
+    },
+    {
+      "key": "MAP_INFO_EP04_S16_01",
+      "value": "We’ll have to go through the forest if we want to reach the amusement park."
+    },
+    {
+      "key": "MAP_INFO_EP04_S17_01",
+      "value": "The mountain pass should give us a good view of the area. Let’s head there."
+    },
+    {
+      "key": "MAP_INFO_EP04_S17_02",
+      "value": "I ought to check in with the others."
+    },
+    {
+      "key": "MAP_INFO_EP04_S18_01",
+      "value": "We should head into the forest by the amusement park."
+    },
+    {
+      "key": "MAP_INFO_EP04_S20_01",
+      "value": "What do we do now? I think this calls for a group discussion."
+    },
+    {
+      "key": "MAP_INFO_EP04_S21_01",
+      "value": "Where could Miu have gone? She must be in this park somewhere."
+    },
+    {
+      "key": "MAP_INFO_EP04_S22_01",
+      "value": "Well, the Kemonogami ran away. Guess it’s back to searching the area."
+    },
+    {
+      "key": "MAP_INFO_EP04_S23_01",
+      "value": "The Kemonogami ran away again. We’ll have to try searching more thoroughly."
+    },
+    {
+      "key": "MAP_INFO_EP04_S24_01",
+      "value": "We need to stay on the Kemonogami’s trail! Let’s head down this castle corridor."
+    },
+    {
+      "key": "MAP_INFO_EP04_S25_01",
+      "value": "Now to take the next corridor and stay on the Kemonogami’s trail."
+    },
+    {
+      "key": "MAP_INFO_EP04_S26_01",
+      "value": "We can’t lose the trail now! Time to head down this third corridor."
+    },
+    {
+      "key": "MAP_INFO_EP04_S27_01",
+      "value": "We should be getting close to finding this “queen.” Let’s see if she’s down this new corridor we found."
+    },
+    {
+      "key": "MAP_INFO_EP04_S29_01",
+      "value": "We’ve been trapped in a cell, but I feel like if we look around we might be able to find a way out."
+    },
+    {
+      "key": "MAP_INFO_EP04_S34_01",
+      "value": "Where could Miu be hiding now? Guess we’ll just have to search the park again."
+    },
+    {
+      "key": "MAP_INFO_EP04_S35_01",
+      "value": "Where did Miu go? Maybe if I try talking with the others, we’ll be able to figure something out."
+    },
+    {
+      "key": "MAP_INFO_EP04_S36_01",
+      "value": "Just where is Miu hiding? I guess all we can do is keep searching."
+    },
+    {
+      "key": "MAP_INFO_EP05_S04_01",
+      "value": "Things are sure to get more dangerous from here on out. I’d better talk with the others now, before that happens."
+    },
+    {
+      "key": "MAP_INFO_EP05_S10_01",
+      "value": "I have no idea what our next move should be. Maybe if I talk with Minoru and the others, we’ll think of something."
+    },
+    {
+      "key": "MAP_INFO_EP05_S12_01",
+      "value": "How do we get into this underground waterway? Maybe I can learn something by searching the entrance."
+    },
+    {
+      "key": "MAP_INFO_EP05_S14_01",
+      "value": "This is terrible! We’ve all been separated! Where’s Agumon? I need to find him!"
+    },
+    {
+      "key": "MAP_INFO_EP05_S16_01",
+      "value": "I hope Aoi is okay. We’d better try and find her next!"
+    },
+    {
+      "key": "MAP_INFO_EP05_S16_02",
+      "value": "Okay, it turns out Aoi’s all right. Now to track down Labramon."
+    },
+    {
+      "key": "MAP_INFO_EP05_S17_01",
+      "value": "I hope Saki’s not hurt or anything. We should go meet up with her."
+    },
+    {
+      "key": "MAP_INFO_EP05_S17_02",
+      "value": "This is good. We’ve found Saki. Next is Floramon."
+    },
+    {
+      "key": "MAP_INFO_EP05_S19_01",
+      "value": "I hope Miu’s doing okay. We’d better go look for her."
+    },
+    {
+      "key": "MAP_INFO_EP05_S19_02",
+      "value": "Fortunately, Miu was unhurt. Now to look for the real Syakomon."
+    },
+    {
+      "key": "MAP_INFO_EP05_S22_01",
+      "value": "That just leaves Shuuji and Lopmon. I hope they’re all right."
+    },
+    {
+      "key": "MAP_INFO_EP05_S24_01",
+      "value": "Shuuji seems like he’s really losing it! I’m not sure what to do, though. I’d better ask Kaito and the others."
+    },
+    {
+      "key": "MAP_INFO_EP06_S02_01",
+      "value": "Everyone is exhausted. Maybe talking would help make them feel better."
+    },
+    {
+      "key": "MAP_INFO_EP06_S13_01",
+      "value": "Seems like everyone’s still on edge. I feel like we should try moving on for a change of pace."
+    },
+    {
+      "key": "MAP_INFO_EP06_S14_01",
+      "value": "Where could Falcomon have gone? I feel like he’s probably somewhere in either the shopping district or the apartment complex."
+    },
+    {
+      "key": "MAP_INFO_EP06_S14_02",
+      "value": "Falcomon’s gone off again. Guess we’ll have to track him down one more time."
+    },
+    {
+      "key": "MAP_INFO_EP06_S14_03",
+      "value": "There could be just about anything inside the apartment complexes. Maybe we should search those more."
+    },
+    {
+      "key": "MAP_INFO_EP06_S14_04",
+      "value": "We need to get Minoru and Falcomon to make up, even if that means searching the shopping district and residential area from top to bottom."
+    },
+    {
+      "key": "MAP_INFO_EP06_S14_05",
+      "value": "Minoru and Falcomon really aren’t getting along. I feel like the thing to do now is to give them some space."
+    },
+    {
+      "key": "MAP_INFO_EP07_S03_01",
+      "value": "It’s about time to head over to the enemy base. I’d better check in with everyone before we go."
+    },
+    {
+      "key": "MAP_INFO_EP07_S07_01",
+      "value": "There’s still some time before we need to leave. I should talk to Agumon and the others while I have the chance."
+    },
+    {
+      "key": "MAP_INFO_EP07_S15_01",
+      "value": "We’re finally coming up on the enemy base. It should be at the end of the underground waterway."
+    },
+    {
+      "key": "MAP_INFO_EP07_S18_01",
+      "value": "We’re getting close to the base now. We just need to get through this forest."
+    },
+    {
+      "key": "MAP_INFO_EP07_S18_02",
+      "value": "I feel like there’s something around here. I should check with my camera."
+    },
+    {
+      "key": "MAP_INFO_EP07_S19_01",
+      "value": "Hmm, looks like I might find something if I head to the shopping district."
+    },
+    {
+      "key": "MAP_INFO_EP07_S19_02",
+      "value": "There’s probably something around here, too. Maybe looking around with my camera will help me find it."
+    },
+    {
+      "key": "MAP_INFO_EP07_S20_01",
+      "value": "I should start by heading over to the residential area to see if I can learn something."
+    },
+    {
+      "key": "MAP_INFO_EP07_S20_02",
+      "value": "The air is tense. I bet I’ll find something if I use my camera."
+    },
+    {
+      "key": "MAP_INFO_EP07_S21_01",
+      "value": "What was that? I’d better go investigate the other area in the apartment complex."
+    },
+    {
+      "key": "MAP_INFO_EP07_S24_01",
+      "value": "This factory sure is strange. I’d better look around real carefully."
+    },
+    {
+      "key": "MAP_INFO_EP07_S25_01",
+      "value": "I’m not sure what to do next. Maybe talking with the professor will give me some idea."
+    },
+    {
+      "key": "MAP_INFO_EP07_S26_01",
+      "value": "I’ve really got to keep my eyes peeled looking around this factory."
+    },
+    {
+      "key": "MAP_INFO_EP07_S27_01",
+      "value": "Hmm, maybe if I talk with the professor again, he’ll know what to do."
+    },
+    {
+      "key": "MAP_INFO_EP07_S28_01",
+      "value": "Something’s going on in that building to the north! We should check it out."
+    },
+    {
+      "key": "MAP_INFO_EP07_S30_01",
+      "value": "We gotta get to the heart of this factory to save Miyuki!"
+    },
+    {
+      "key": "MAP_INFO_EP08_S05_01",
+      "value": "What is going on right now? Maybe talking to these people will help straighten things out."
+    },
+    {
+      "key": "MAP_INFO_EP08_S08_01",
+      "value": "I need more information. I’ll have to talk to some people inside."
+    },
+    {
+      "key": "MAP_INFO_EP09N_S04_01",
+      "value": "What did I miss? I should talk to the others to find out."
+    },
+    {
+      "key": "MAP_INFO_EP09N_S16_01",
+      "value": "We need to find Jijimon. We’ll have to search the park."
+    },
+    {
+      "key": "MAP_INFO_EP09L_S05_01",
+      "value": "What did I miss? I should talk to the others to find out."
+    },
+    {
+      "key": "MAP_INFO_EP09L_S16_01",
+      "value": "We need to find Jijimon. We’ll have to search the park."
+    },
+    {
+      "key": "MAP_INFO_EP09C_S05_01",
+      "value": "What did I miss? I should talk to the others to find out."
+    },
+    {
+      "key": "MAP_INFO_EP09C_S16_01",
+      "value": "We need to find Jijimon. We’ll have to search the park."
+    },
+    {
+      "key": "MAP_INFO_EP09T_S04_01",
+      "value": "What did I miss? I should talk to the others to find out."
+    },
+    {
+      "key": "MAP_INFO_EP09T_S15_01",
+      "value": "We need to find Jijimon. We’ll have to search the park."
+    },
+    {
+      "key": "MAP_INFO_EP10N_S02_01",
+      "value": "I’d better talk with the others about what to do next, so Jijimon’s death won’t have been in vain."
+    },
+    {
+      "key": "MAP_INFO_EP10N_S07_01",
+      "value": "While Aoi and Kaito are out gathering food, I should check in to see how the others are doing."
+    },
+    {
+      "key": "MAP_INFO_EP10N_S17_01",
+      "value": "I guess we’d better head to this library."
+    },
+    {
+      "key": "MAP_INFO_EP10N_S18_01",
+      "value": "Maybe there are some clues about where to find the others in the library."
+    },
+    {
+      "key": "MAP_INFO_EP10L_S04_01",
+      "value": "I should check in with everyone now that we’re all around the school."
+    },
+    {
+      "key": "MAP_INFO_EP10L_S09_01",
+      "value": "Kaito doesn’t seem up to talking right now. I’d better give him some space."
+    },
+    {
+      "key": "MAP_INFO_EP10L_S19_01",
+      "value": "How can I help Kaito and the others?! There must be some sort of clue in the library!"
+    },
+    {
+      "key": "MAP_INFO_EP10L_S20_01",
+      "value": "Looks like we’ve been separated. Guess I’d better search this library from top to bottom."
+    },
+    {
+      "key": "MAP_INFO_EP10C_S04_01",
+      "value": "I should check in with everyone now that we’re all around the school."
+    },
+    {
+      "key": "MAP_INFO_EP10C_S09_01",
+      "value": "I should check in with everyone now that we’re all around the school."
+    },
+    {
+      "key": "MAP_INFO_EP10C_S19_01",
+      "value": "Aoi’s in trouble! If I search the library, maybe I’ll find some clue about how to help her!"
+    },
+    {
+      "key": "MAP_INFO_EP10C_S20_01",
+      "value": "Looks like we’ve been separated. Guess I’d better search this library from top to bottom."
+    },
+    {
+      "key": "MAP_INFO_EP10T_S02_01",
+      "value": "I should talk with the others about what to do next as we search the amusement park."
+    },
+    {
+      "key": "MAP_INFO_EP10T_S14_01",
+      "value": "Where’s this shrine to one of the Four Sovereign Monsters? I’ll have to search this area very carefully."
+    },
+    {
+      "key": "MAP_INFO_EP10T_S17_01",
+      "value": "I think sticking with Minoru and the others is the best way to look for this Sovereign Monster shrine."
+    },
+    {
+      "key": "MAP_INFO_EP11N_S03_01",
+      "value": "I’d better touch base with my friends before we head into the shrine."
+    },
+    {
+      "key": "MAP_INFO_EP11N_S16_01",
+      "value": "Okay, time to set out for the shrine!"
+    },
+    {
+      "key": "MAP_INFO_EP11N_S16_02",
+      "value": "There’s no sign of Puppetmon. Maybe I should try searching another level."
+    },
+    {
+      "key": "MAP_INFO_EP11N_S16_03",
+      "value": "Now where might we find that Magatama? I’d better try looking outside."
+    },
+    {
+      "key": "MAP_INFO_EP11L_S04_01",
+      "value": "Where’d Kaito go? I’ll have to search the area to find him."
+    },
+    {
+      "key": "MAP_INFO_EP11_S12_01",
+      "value": "Where did Kaito get off to? I’d better look extra carefully."
+    },
+    {
+      "key": "MAP_INFO_EP11C_S04_01",
+      "value": "Where could Aoi have wandered off to? We should all split up to try and find her."
+    },
+    {
+      "key": "MAP_INFO_EP11T_S03_01",
+      "value": "We’ve got to be coming up on a major battle. I’d better check in with my friends to see how they’re doing."
+    },
+    {
+      "key": "MAP_INFO_EP11T_S11_01",
+      "value": "I think I’ll look around the northern end of the underground waterway. There should be some clue there about the next Sovereign Monster shrine."
+    },
+    {
+      "key": "MAP_INFO_EP11T_S13_01",
+      "value": "Maybe I ought to keep searching down at the southern end of the underground waterway."
+    },
+    {
+      "key": "MAP_INFO_EP11T_S14_01",
+      "value": "I’ll need to keep an eye out for Piedmon’s followers while I keep searching."
+    },
+    {
+      "key": "MAP_INFO_EP11T_S19_01",
+      "value": "I feel like I should see what’s going on with Piedmon’s followers."
+    },
+    {
+      "key": "MAP_INFO_EP12N_S05_01",
+      "value": "I’ve got to find the others! I’ll have to look around for clues."
+    },
+    {
+      "key": "MAP_INFO_EP12L_S02_01",
+      "value": "We need to find Kaito and Miyuki. They must be somewhere in the inner shrine."
+    },
+    {
+      "key": "MAP_INFO_EP12C_S02_01",
+      "value": "We need to find Aoi and Miyuki. They must be somewhere in the inner shrine."
+    },
+    {
+      "key": "MAP_INFO_EP12T_S03_01",
+      "value": "There’s still some time before dinner. I should go chat with the others."
+    },
+    {
+      "key": "MAP_INFO_EP12T_S06_01",
+      "value": "I don’t know about this ghost, but I’d better check in on the others."
+    },
+    {
+      "key": "MAP_INFO_EP12T_S09_01",
+      "value": "Did Ryo and Saki really both see a ghost? I’ll have to fill everyone in just in case."
+    },
+    {
+      "key": "MAP_INFO_EP12T_S14_01",
+      "value": "Can we actually get this ghost to show up? We’d better look around the school to make sure."
+    },
+    {
+      "key": "MAP_INFO_EP12T_S16_01",
+      "value": "I have to follow Agumon! Is he still in the hall?"
+    },
+    {
+      "key": "MAP_INFO_EP12T_S18_01",
+      "value": "Okay, now I just need to trace the noise using the camera on my cell phone."
+    },
+    {
+      "key": "MAP_INFO_EP12T_S20_01",
+      "value": "Looks like that passage at the bottom of the well is the only way forward."
+    },
+    {
+      "key": "MAP_INFO_EP13_S02_01",
+      "value": "Everyone’s getting ready for the final battle. I’d better see how they’re doing."
+    },
+    {
+      "key": "MAP_INFO_EP13_S13_01",
+      "value": "To get to the inner shrine, we’ll have to go through the forest first."
+    },
+    {
+      "key": "MAP_INFO_EP13_S14_01",
+      "value": "Okay, now we just head to the shrine."
+    },
+    {
+      "key": "MAP_INFO_EP13_S15_01",
+      "value": "On to the entrance to the inner shrine."
+    },
+    {
+      "key": "MAP_INFO_EP13_S18_01",
+      "value": "The Master’s in here somewhere!"
+    },
+    {
+      "key": "MAP_INFO_EP13_S20_01",
+      "value": "The Master must be in here. Let’s keep going deeper into the inner shrine."
+    },
+    {
+      "key": "MAP_INFO_EP13_S22_01",
+      "value": "We’re almost down to the lowest level of the inner shrine. Just a little farther."
+    },
+    {
+      "key": "MAP_INFO_EP13_S22_02",
+      "value": "I should talk with the others."
+    },
+    {
+      "key": "MAP_INFO_EP13_S22_03",
+      "value": "There’s definitely something about these murals. Let’s investigate them again."
+    },
+    {
+      "key": "MAP_INFO_EP13_S24_01",
+      "value": "This is it. We’re coming up on the final battle. Time for one last conversation with my friends."
+    }
+  ]
+}

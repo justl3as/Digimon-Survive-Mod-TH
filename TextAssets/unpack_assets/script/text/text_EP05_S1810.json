@@ -1,0 +1,32 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1810_0001",
+      "value": "That reminds me. I met someone in the forest\nI’ve never seen before."
+    },
+    {
+      "key": "EP05_S1810_0002",
+      "value": "Was that a friend of yours?"
+    },
+    {
+      "key": "EP05_S1810_0003",
+      "value": "Never seen before...? So it wasn’t one of the\nmonsters you see here?"
+    },
+    {
+      "key": "EP05_S1810_0004",
+      "value": "Right! So...does that mean it wasn’t one of\nyour group?"
+    },
+    {
+      "key": "EP05_S1810_0005",
+      "value": "All of our friends are right here!"
+    },
+    {
+      "key": "EP05_S1810_0006",
+      "value": "Then I wonder...who was it?"
+    },
+    {
+      "key": "EP05_S1810_0007",
+      "value": "Who was that guy, I wonder...?"
+    }
+  ]
+}

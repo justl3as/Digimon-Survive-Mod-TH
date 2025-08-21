@@ -1,0 +1,244 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP12_S7030_0001",
+      "value": "Um, Takuma..."
+    },
+    {
+      "key": "EP12_S7030_0002",
+      "value": "Yeah? What is it?"
+    },
+    {
+      "key": "EP12_S7030_0003",
+      "value": "Well...do you really think we’re going to\nmake it back home?"
+    },
+    {
+      "key": "EP12_S7030_0004",
+      "value": "Uh..."
+    },
+    {
+      "key": "EP12_S7030_0005",
+      "value": "(I shouldn’t say anything that’s going to\nupset Miu.)"
+    },
+    {
+      "key": "EP12_S7030_0006",
+      "value": "(I’d like to tell her I’m sure we will, and\npromise to go to an amusement park together,)"
+    },
+    {
+      "key": "EP12_S7030_0007",
+      "value": "(but I’ve got nothing to back that up, so\nsaying that might make her more worried.)"
+    },
+    {
+      "key": "EP12_S7030_0008",
+      "value": "(Maybe if I make light of it, that would\nhelp. Like I could suggest we flip a coin.)"
+    },
+    {
+      "key": "EP12_S7030_0009",
+      "value": "(Or I could try telling her there’s no way\nwe’ll make it, and get her to deny that.)"
+    },
+    {
+      "key": "EP12_S7030_Q1",
+      "value": "(What should I say to Miu?)"
+    },
+    {
+      "key": "EP12_S7030_Q1_A1",
+      "value": "Let’s flip a coin."
+    },
+    {
+      "key": "EP12_S7030_Q1_A2",
+      "value": "We’ll go to a park!"
+    },
+    {
+      "key": "EP12_S7030_Q1_A3",
+      "value": "There’s no way."
+    },
+    {
+      "key": "EP12_S7030_0010",
+      "value": "Let’s flip a coin."
+    },
+    {
+      "key": "EP12_S7030_0011",
+      "value": "I don’t know, but if you’re that worried\nabout it, we could try flipping a coin."
+    },
+    {
+      "key": "EP12_S7030_0012",
+      "value": "Flipping a coin?! What is wrong with you?!\nI’m serious about this!"
+    },
+    {
+      "key": "EP12_S7030_0013",
+      "value": "I can’t believe you’d make fun of me like\nthat!"
+    },
+    {
+      "key": "EP12_S7030_0014",
+      "value": "No... I’m sorry, I didn’t mean to make fun of\nyou."
+    },
+    {
+      "key": "EP12_S7030_0015",
+      "value": "What if this doesn’t work out, and none of us\ncan go home? What then?"
+    },
+    {
+      "key": "EP12_S7030_0016",
+      "value": "Uh... I guess we’ll just have to try and make\nsure that doesn’t happen?"
+    },
+    {
+      "key": "EP12_S7030_0017",
+      "value": "Yeah... I guess you’re right..."
+    },
+    {
+      "key": "EP12_S7030_0018",
+      "value": "We’ll go to a park!"
+    },
+    {
+      "key": "EP12_S7030_0019",
+      "value": "Look, I can’t promise you that we’ll make it,\nbut I do believe that things will be okay."
+    },
+    {
+      "key": "EP12_S7030_0020",
+      "value": "So how about this... When we do make it back,\nlet’s go to an amusement park. A real one."
+    },
+    {
+      "key": "EP12_S7030_0021",
+      "value": "You mean, you, me, and my brother?"
+    },
+    {
+      "key": "EP12_S7030_0022",
+      "value": "Right, and if you’re okay with it, we could\ninvite Minoru, Aoi, and everyone else too."
+    },
+    {
+      "key": "EP12_S7030_0023",
+      "value": "Yeah...that sounds nice! We’ll all go to an\namusement park. It’s a promise!"
+    },
+    {
+      "key": "EP12_S7030_0024",
+      "value": "And you’d better keep it! No matter what!"
+    },
+    {
+      "key": "EP12_S7030_0025",
+      "value": "I will. I promise, Miu."
+    },
+    {
+      "key": "EP12_S7030_0026",
+      "value": "There’s no way."
+    },
+    {
+      "key": "EP12_S7030_0027",
+      "value": "No. There’s no way."
+    },
+    {
+      "key": "EP12_S7030_0028",
+      "value": "What? Wh-why would you say that?!"
+    },
+    {
+      "key": "EP12_S7030_0029",
+      "value": "I...I was so sure you’d say we’d make it no\nmatter what."
+    },
+    {
+      "key": "EP12_S7030_0030",
+      "value": "I was convinced of it!"
+    },
+    {
+      "key": "EP12_S7030_0031",
+      "value": "Then everything’s fine."
+    },
+    {
+      "key": "EP12_S7030_0032",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP12_S7030_0033",
+      "value": "Because that means you’re really convinced\nwe’ll make it back, right?"
+    },
+    {
+      "key": "EP12_S7030_0034",
+      "value": "Which means everything’s fine."
+    },
+    {
+      "key": "EP12_S7030_0035",
+      "value": "So, you lied to me just now? Takuma, how\ncould you?!"
+    },
+    {
+      "key": "EP12_S7030_0036",
+      "value": "Haha, sorry!"
+    },
+    {
+      "key": "EP12_S7030_0037",
+      "value": "(But really, somewhere deep down, I can’t\nhelp but wonder if we’re not all doomed.)"
+    },
+    {
+      "key": "EP12_S7030_0038",
+      "value": "(That much is true.)"
+    },
+    {
+      "key": "EP12_S7030_0039",
+      "value": "Anyway, right now our number one priority is\nto find Aoi."
+    },
+    {
+      "key": "EP12_S7030_0040",
+      "value": "After that, it’ll be rescuing Miyuki. Those\nare what we should be focused on."
+    },
+    {
+      "key": "EP12_S7030_0041",
+      "value": "Everything else we can deal with later."
+    },
+    {
+      "key": "EP12_S7030_0042",
+      "value": "Yeah, you’re right. We can’t do anything if\nwe don’t find Aoi."
+    },
+    {
+      "key": "EP12_S7030_0043",
+      "value": "You know, you and Aoi are kind of similar."
+    },
+    {
+      "key": "EP12_S7030_0044",
+      "value": "Really? You think so?"
+    },
+    {
+      "key": "EP12_S7030_0045",
+      "value": "Yeah, well, whenever I started to feel like\nthis was all too much and wanted to cry,"
+    },
+    {
+      "key": "EP12_S7030_0046",
+      "value": "Aoi would tell me the same sort of thing.\nLike I should focus on eating, go to sleep,"
+    },
+    {
+      "key": "EP12_S7030_0047",
+      "value": "and save all the worrying for later. She was\nalways so nice about telling me what to do."
+    },
+    {
+      "key": "EP12_S7030_0048",
+      "value": "Yeah, Aoi always tried to get us to take care\nof ourselves, no matter how panicked we got."
+    },
+    {
+      "key": "EP12_S7030_0049",
+      "value": "Mm-hm, even though she had to have been\nreally scared too."
+    },
+    {
+      "key": "EP12_S7030_0050",
+      "value": "She was always looking out for us, taking\ncare of us..."
+    },
+    {
+      "key": "EP12_S7030_0051",
+      "value": "It felt like she was my real big sister, she\nwas so nice."
+    },
+    {
+      "key": "EP12_S7030_0052",
+      "value": "Kaito and Minoru said she must’ve been hiding\nhow she really felt..."
+    },
+    {
+      "key": "EP12_S7030_0053",
+      "value": "...but I don’t think her kindness was a lie.\nI think she meant it when she was nice to us."
+    },
+    {
+      "key": "EP12_S7030_0054",
+      "value": "You’re right. I think that much is true.\nThat’s how I feel too."
+    },
+    {
+      "key": "EP12_S7030_0055",
+      "value": "Yeah, that’s gotta be it!"
+    },
+    {
+      "key": "EP12_S7030_0056",
+      "value": "Aoi may have hidden things from us, but\nI don’t think her kindness was a lie."
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S0030_0001",
+      "value": "All of you have must have been desperate\nout here, huh?"
+    },
+    {
+      "key": "EP09_S0030_0002",
+      "value": "To hold out and survive in a world like\nthis...I have to admit I’m impressed."
+    },
+    {
+      "key": "EP09_S0030_0003",
+      "value": "(I wonder if I could have held on this long\nmyself...)"
+    },
+    {
+      "key": "EP09_S0030_0004",
+      "value": "(Well, no point in worrying about it.\nBest focus on the task at hand.)"
+    },
+    {
+      "key": "EP09_S0030_0005",
+      "value": "Yo, Takuma!"
+    },
+    {
+      "key": "EP09_S0030_0006",
+      "value": "Hey, Minoru."
+    },
+    {
+      "key": "EP09_S0030_0007",
+      "value": "You talked with everyone, right? How’d it go?"
+    },
+    {
+      "key": "EP09_S0030_0008",
+      "value": "I learned how awful these past ten days have\nbeen for everyone."
+    },
+    {
+      "key": "EP09_S0030_0009",
+      "value": "Yeah... First you and Agumon just vanish,\nthen Haru goes missing..."
+    },
+    {
+      "key": "EP09_S0030_0010",
+      "value": "The fog’s been getter thicker, and the\nenemies won’t let up on their attacks."
+    },
+    {
+      "key": "EP09_S0030_0011",
+      "value": "And then, there’s Miyuki..."
+    },
+    {
+      "key": "EP09_S0030_0012",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0030_0013",
+      "value": "Miyuki?"
+    },
+    {
+      "key": "EP09_S0030_0014",
+      "value": "Oh, uh... I mean..."
+    },
+    {
+      "key": "EP09_S0030_0015",
+      "value": "(Is it really that hard to talk about what’s\ngoing on with her?)"
+    },
+    {
+      "key": "EP09_S0030_0016",
+      "value": "(I want to ask him about it somehow, but...)"
+    },
+    {
+      "key": "EP09_S0030_Q1",
+      "value": "(How should I ask him?)"
+    },
+    {
+      "key": "EP09_S0030_Q1_A1",
+      "value": "Ask what’s wrong."
+    },
+    {
+      "key": "EP09_S0030_Q1_A2",
+      "value": "Ask him straight."
+    },
+    {
+      "key": "EP09_S0030_Q1_A3",
+      "value": "Tell him your side."
+    },
+    {
+      "key": "EP09_S0030_0017",
+      "value": "Ask what’s wrong."
+    },
+    {
+      "key": "EP09_S0030_0018",
+      "value": "Everyone’s been pretty evasive. What’s going\non? Why don’t they want to talk about Miyuki?"
+    },
+    {
+      "key": "EP09_S0030_0019",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0030_0020",
+      "value": "It’s just that...they don’t wanna talk about\nit. We’ve been friends for so long, so..."
+    },
+    {
+      "key": "EP09_S0030_0021",
+      "value": "So? So what?"
+    },
+    {
+      "key": "EP09_S0030_0022",
+      "value": "Ask him straight."
+    },
+    {
+      "key": "EP09_S0030_0023",
+      "value": "What did Kaito mean when he said that\nMiyuki’s “already done for”?"
+    },
+    {
+      "key": "EP09_S0030_0024",
+      "value": "Oh man... Just gonna rip the band-aid right\noff, then?"
+    },
+    {
+      "key": "EP09_S0030_0025",
+      "value": "Answer me, please. What is Miyuki doing now,\nand where is she?"
+    },
+    {
+      "key": "EP09_S0030_0026",
+      "value": "Yeah... All right."
+    },
+    {
+      "key": "EP09_S0030_0027",
+      "value": "Tell him your side."
+    },
+    {
+      "key": "EP09_S0030_0028",
+      "value": "Minoru. About Miyuki..."
+    },
+    {
+      "key": "EP09_S0030_0029",
+      "value": "Yeah, uh, right..."
+    },
+    {
+      "key": "EP09_S0030_0030",
+      "value": "I was with Miyuki back in our world."
+    },
+    {
+      "key": "EP09_S0030_0031",
+      "value": "I know I talked about her being the key to\ncreating a gate between worlds, but..."
+    },
+    {
+      "key": "EP09_S0030_0032",
+      "value": "She was a normal girl, shocked at how the\nworld had changed since she’d last seen it."
+    },
+    {
+      "key": "EP09_S0030_0033",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0030_0034",
+      "value": "C’mon, Minoru, tell me what’s going on\nwith her."
+    },
+    {
+      "key": "EP09_S0030_0035",
+      "value": "...Okay, man."
+    },
+    {
+      "key": "EP09_S0030_0036",
+      "value": "You’re right, Takuma... I gotta tell you\nwhat’s going on, don’t I?"
+    },
+    {
+      "key": "EP09_S0030_0037",
+      "value": "...Huh? Hey Takuma, don’t you think the fog’s\ngetting thicker again?"
+    },
+    {
+      "key": "EP09_S0030_0038",
+      "value": "...Yeah, you’re right."
+    },
+    {
+      "key": "EP09_S0030_0039",
+      "value": "Oh man... It’s coming this way!"
+    },
+    {
+      "key": "EP09_S0030_0040",
+      "value": "Hey, what...what’s that sound?!"
+    },
+    {
+      "key": "EP09_S0030_0041",
+      "value": "It came from the cafeteria!"
+    },
+    {
+      "key": "EP09_S0030_0042",
+      "value": "It’s Aoi’s signal that bad guys are comin’!\nLet’s roll!"
+    },
+    {
+      "key": "EP09_S0030_0043",
+      "value": "Hey guys, everyone get over here! Quick!"
+    },
+    {
+      "key": "EP09_S0030_0044",
+      "value": "Ah, Takuma!"
+    },
+    {
+      "key": "EP09_S0030_0045",
+      "value": "You guys’re late!"
+    },
+    {
+      "key": "EP09_S0030_0046",
+      "value": "Sooorry!"
+    },
+    {
+      "key": "EP09_S0030_0047",
+      "value": "What happened?!"
+    },
+    {
+      "key": "EP09_S0030_0048",
+      "value": "...I’m afraid the time has come to fulfill\nthat promise."
+    },
+    {
+      "key": "EP09_S0030_0049",
+      "value": "Promise?"
+    },
+    {
+      "key": "EP09_S0030_0050",
+      "value": "I told you I’d talk about Miyuki later,\ndidn’t I?"
+    },
+    {
+      "key": "EP09_S0030_0051",
+      "value": "But the truth is...she’s over there."
+    },
+    {
+      "key": "EP09_S0030_0052",
+      "value": "What?!"
+    },
+    {
+      "key": "EP09_S0030_0053",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0030_0054",
+      "value": "Miyuki...?!"
+    },
+    {
+      "key": "EP09_S0030_0055",
+      "value": "Don’t get any closer, Takuma!\nMiyuki is...leading the enemy?!"
+    },
+    {
+      "key": "EP09_S0030_0056",
+      "value": "...O pitiful offerings."
+    },
+    {
+      "key": "EP09_S0030_0057",
+      "value": "Life and death, creation itself, all bend to\nmy will. Your fates are already sealed."
+    },
+    {
+      "key": "EP09_S0030_0058",
+      "value": "Miyuki...? What the heck are you saying?!"
+    },
+    {
+      "key": "EP09_S0030_0059",
+      "value": "What happened to you, Miyuki?!"
+    },
+    {
+      "key": "EP09_S0030_0060",
+      "value": "Miyuki is channeling the Master."
+    },
+    {
+      "key": "EP09_S0030_0061",
+      "value": "Maybe it’s better to say she’s possessed?"
+    },
+    {
+      "key": "EP09_S0030_0062",
+      "value": "The Master... You don’t mean...!"
+    },
+    {
+      "key": "EP09_S0030_0063",
+      "value": "No way... It’s me, Takuma!\nDon’t you recognize me? Miyuki!"
+    },
+    {
+      "key": "EP09_S0030_0064",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0030_0065",
+      "value": "Answer me!\nPlease, Miyuki!!!"
+    },
+    {
+      "key": "EP09_S0030_0066",
+      "value": "It’s no use. Miyuki doesn’t react no matter what happens."
+    },
+    {
+      "key": "EP09_S0030_0067",
+      "value": "We need to face the enemy if we want to\nsurvive anyway!"
+    },
+    {
+      "key": "EP09_S0030_0068",
+      "value": "This...may come as a shock, Takuma, but we’ve\nhad to face this reality for a few days, now."
+    },
+    {
+      "key": "EP09_S0030_0069",
+      "value": "Go on, howl!"
+    },
+    {
+      "key": "EP09_S0030_0070",
+      "value": "Oh no, here they come!!!"
+    },
+    {
+      "key": "EP09_S0030_0071",
+      "value": "Let’s hold them off!"
+    }
+  ]
+}

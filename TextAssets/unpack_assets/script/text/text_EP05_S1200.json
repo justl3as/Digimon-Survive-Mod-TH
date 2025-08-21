@@ -1,0 +1,260 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP05_S1200_0001",
+      "value": "What should I do? At this rate..."
+    },
+    {
+      "key": "EP05_S1200_0002",
+      "value": "Don’t be so timid, Shuuji."
+    },
+    {
+      "key": "EP05_S1200_0003",
+      "value": "Who’s being timid?! I’m just trying to\nconsider the optimal strategy going forward."
+    },
+    {
+      "key": "EP05_S1200_0004",
+      "value": "We have to take the best course of action!\nThere can’t be any more sacrifices!"
+    },
+    {
+      "key": "EP05_S1200_0005",
+      "value": "Yeah, I guess that’s true..."
+    },
+    {
+      "key": "EP05_S1200_0006",
+      "value": "I...I have to do it. Otherwise..."
+    },
+    {
+      "key": "EP05_S1200_0007",
+      "value": "Shuuji..."
+    },
+    {
+      "key": "EP05_S1200_0008",
+      "value": "(This isn’t good. Responsibility is important\nand all, but taking on too much won’t help.)"
+    },
+    {
+      "key": "EP05_S1200_0009",
+      "value": "(Shuuji was never leadership material in the\nfirst place, anyway.)"
+    },
+    {
+      "key": "EP05_S1200_0010",
+      "value": "(Still, saying it straight won’t help. Maybe\nin a roundabout way? Or offer to help?)"
+    },
+    {
+      "key": "EP05_S1200_Q1",
+      "value": "(What should I do?)"
+    },
+    {
+      "key": "EP05_S1200_Q1_A1",
+      "value": "That doesn’t suit you."
+    },
+    {
+      "key": "EP05_S1200_Q1_A2",
+      "value": "You do your best."
+    },
+    {
+      "key": "EP05_S1200_Q1_A3",
+      "value": "Let me help, too."
+    },
+    {
+      "key": "EP05_S1200_0012",
+      "value": "You shouldn’t force yourself to do stuff that\ndoesn’t suit you, Shuuji."
+    },
+    {
+      "key": "EP05_S1200_0013",
+      "value": "...Um, excuse me?"
+    },
+    {
+      "key": "EP05_S1200_0014",
+      "value": "I’d say you should ask the others for help,\nand make things easy on your—"
+    },
+    {
+      "key": "EP05_S1200_0015",
+      "value": "Are you saying I can’t hack it?!"
+    },
+    {
+      "key": "EP05_S1200_0016",
+      "value": "What?"
+    },
+    {
+      "key": "EP05_S1200_0017",
+      "value": "You think I’m not good at leading, or\nrallying people together?! Is that it?!"
+    },
+    {
+      "key": "EP05_S1200_0018",
+      "value": "No, that’s not—"
+    },
+    {
+      "key": "EP05_S1200_0019",
+      "value": "You’re saying I should leave it to you—that\nyou can hack it?! That I’m, I’m—!"
+    },
+    {
+      "key": "EP05_S1200_0020",
+      "value": "Chill out, Shuuji!"
+    },
+    {
+      "key": "EP05_S1200_0021",
+      "value": "Shut up! I am “chill”!"
+    },
+    {
+      "key": "EP05_S1200_0022",
+      "value": "Hyeek..."
+    },
+    {
+      "key": "EP05_S1200_0023",
+      "value": "*huff*... *huff*..."
+    },
+    {
+      "key": "EP05_S1200_0024",
+      "value": "Um, so..."
+    },
+    {
+      "key": "EP05_S1200_0025",
+      "value": "...Sorry. I lost my head there for a second."
+    },
+    {
+      "key": "EP05_S1200_0026",
+      "value": "(Shuuji’s clearly upset. I really shouldn’t\nhave said that...)"
+    },
+    {
+      "key": "EP05_S1200_0028",
+      "value": "You do your best."
+    },
+    {
+      "key": "EP05_S1200_0029",
+      "value": "..."
+    },
+    {
+      "key": "EP05_S1200_0030",
+      "value": "It’s just that, your way of thinking’s a bit\ndifferent from the others, and—"
+    },
+    {
+      "key": "EP05_S1200_0031",
+      "value": "...Hey, could you lay off the concern? It’s\nweirding me out."
+    },
+    {
+      "key": "EP05_S1200_0032",
+      "value": "I can tell what you wanna say. “There’s no\npoint taking useless actions.”"
+    },
+    {
+      "key": "EP05_S1200_0033",
+      "value": "C-come on, that’s not..."
+    },
+    {
+      "key": "EP05_S1200_0034",
+      "value": "(Then again, I was thinking it.)"
+    },
+    {
+      "key": "EP05_S1200_0035",
+      "value": "If you have something to say, then give it to\nme straight."
+    },
+    {
+      "key": "EP05_S1200_0036",
+      "value": "...No, on second thought, don’t."
+    },
+    {
+      "key": "EP05_S1200_0038",
+      "value": "Let me help you out somehow, Shuuji. You’re\ntaking too much upon yourself."
+    },
+    {
+      "key": "EP05_S1200_0039",
+      "value": "Thank you... I appreciate the thought, but\nI can’t ask you to do more."
+    },
+    {
+      "key": "EP05_S1200_0040",
+      "value": "If I’m being honest, I already rely on you\ntoo much."
+    },
+    {
+      "key": "EP05_S1200_0041",
+      "value": "Huh, you think?"
+    },
+    {
+      "key": "EP05_S1200_0042",
+      "value": "I get it, Takuma..."
+    },
+    {
+      "key": "EP05_S1200_0043",
+      "value": "You think I’m unreliable, don’t you?"
+    },
+    {
+      "key": "EP05_S1200_0044",
+      "value": "Wha’? No, I don’t think that at all!"
+    },
+    {
+      "key": "EP05_S1200_0045",
+      "value": "It’s fine, I know it. I know everyone else\nthinks the same."
+    },
+    {
+      "key": "EP05_S1200_0046",
+      "value": "Even so, I have things I have to do."
+    },
+    {
+      "key": "EP05_S1200_0047",
+      "value": "The mission I inherited from the professor.\nAnd what’s more..."
+    },
+    {
+      "key": "EP05_S1200_0048",
+      "value": "Shuuji...?"
+    },
+    {
+      "key": "EP05_S1200_0049",
+      "value": "Ugh... I’m, I’m not worthless..."
+    },
+    {
+      "key": "EP05_S1200_0050",
+      "value": "(Oh no, he’s talking to himself again... Back\nin his own little world.)"
+    },
+    {
+      "key": "EP05_S1200_0051",
+      "value": "...Please leave me alone. I don’t feel like\nbeing around people right now."
+    },
+    {
+      "key": "EP05_S1200_0052",
+      "value": "Shuuji..."
+    },
+    {
+      "key": "EP05_S1200_0053",
+      "value": "Don’t worry, I’ll be right by his side."
+    },
+    {
+      "key": "EP05_S1200_0054",
+      "value": "That means you, too! Go on, leave me alone!"
+    },
+    {
+      "key": "EP05_S1200_0055",
+      "value": "...No way. I can’t leave you by yourself."
+    },
+    {
+      "key": "EP05_S1200_0056",
+      "value": "I said leave me alone!\nI... I just...!"
+    },
+    {
+      "key": "EP05_S1200_0057",
+      "value": "Shuuji... Look at me, Shuuji..."
+    },
+    {
+      "key": "EP05_S1200_0058",
+      "value": "Oh man, poor Lopmon!"
+    },
+    {
+      "key": "EP05_S1200_0059",
+      "value": "We should leave them alone, Agumon."
+    },
+    {
+      "key": "EP05_S1200_0060",
+      "value": "(That being said, I wonder if this is okay?)"
+    },
+    {
+      "key": "EP05_S1200_0061",
+      "value": "(This reminds me of that time with Ryo, but\nI don’t think yelling will do any good...)"
+    },
+    {
+      "key": "EP05_S1200_0062",
+      "value": "(Well, he’ll be fine with Lopmon there.\n...I’m sure of it.)"
+    },
+    {
+      "key": "EP05_S1200_0063",
+      "value": "Please, leave me alone..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S3000_0001",
+      "value": "Did you find anything?"
+    },
+    {
+      "key": "EP07_S3000_0002",
+      "value": "No, we just got here. Nothing yet..."
+    },
+    {
+      "key": "EP07_S3000_0003",
+      "value": "We both sense something suspicious here."
+    },
+    {
+      "key": "EP07_S3000_0004",
+      "value": "Piedmon?"
+    },
+    {
+      "key": "EP07_S3000_0005",
+      "value": "No... Something different."
+    },
+    {
+      "key": "EP07_S3000_0006",
+      "value": "Different? But we can’t see anything..."
+    },
+    {
+      "key": "EP07_S3000_0007",
+      "value": "Oh, yeah. Takuma! Check things out with the\n<color=#B41919>camera</color>!"
+    },
+    {
+      "key": "EP07_S3000_0008",
+      "value": "The camera might help us figure out what’s\nleaving those scary traces!"
+    }
+  ]
+}

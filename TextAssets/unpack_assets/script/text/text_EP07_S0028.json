@@ -1,0 +1,288 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP07_S0028_0001",
+      "value": "Where did she come from?\nDidn’t you check, Dracmon?!"
+    },
+    {
+      "key": "EP07_S0028_0002",
+      "value": "Hang on! She definitely wasn’t there in front\nof us! What magic is she using?"
+    },
+    {
+      "key": "EP07_S0028_0003",
+      "value": "My, my. Aren’t you cruel, putting all blame\non him like that?"
+    },
+    {
+      "key": "EP07_S0028_0004",
+      "value": "I can easily slip past your vision when I\nchoose to do so, don’t you understand?"
+    },
+    {
+      "key": "EP07_S0028_0005",
+      "value": "Arukenimon... You’ve finally decided to take\nus on directly?"
+    },
+    {
+      "key": "EP07_S0028_0006",
+      "value": "Hehehe, and perfect timing, too. I had just\nbeen thinking of heading your way."
+    },
+    {
+      "key": "EP07_S0028_0007",
+      "value": "Here you were, plodding along, coming to\nbe captured? How foolish in the extreme!"
+    },
+    {
+      "key": "EP07_S0028_0008",
+      "value": "What?! We’re being attacked?!"
+    },
+    {
+      "key": "EP07_S0028_0009",
+      "value": "As if! Get behind me, Miu!"
+    },
+    {
+      "key": "EP07_S0028_0010",
+      "value": "Let go of me, Kaito!"
+    },
+    {
+      "key": "EP07_S0028_0011",
+      "value": "Hang on, Arukenimon! You said you wanted to\ncapture us?"
+    },
+    {
+      "key": "EP07_S0028_0012",
+      "value": "You don’t want us dead? You plan to capture\nand use us in some way?"
+    },
+    {
+      "key": "EP07_S0028_0013",
+      "value": "That was perhaps a slip of the tongue, but\naren’t you clever, little child!"
+    },
+    {
+      "key": "EP07_S0028_0014",
+      "value": "You keep putting weird ideas in each\nother’s heads to befoul my plans!"
+    },
+    {
+      "key": "EP07_S0028_0015",
+      "value": "That’s not our fault! You only have yourself\nto blame!"
+    },
+    {
+      "key": "EP07_S0028_0016",
+      "value": "You attack indiscriminately and then deny\nresponsibility! That is why your plans fail!"
+    },
+    {
+      "key": "EP07_S0028_0017",
+      "value": "How very dare you!"
+    },
+    {
+      "key": "EP07_S0028_0018",
+      "value": "We won’t forgive you, Arukenimon!"
+    },
+    {
+      "key": "EP07_S0028_0019",
+      "value": "I’ll wipe that smirk off your face\npermanently!"
+    },
+    {
+      "key": "EP07_S0028_0020",
+      "value": "Kewww!!!"
+    },
+    {
+      "key": "EP07_S0028_0021",
+      "value": "Well, well... If it isn’t little sleepy head?\nAnd the lonely leader!"
+    },
+    {
+      "key": "EP07_S0028_0022",
+      "value": "Shall I show you another vision? Perhaps\na dream of happy bliss this time?"
+    },
+    {
+      "key": "EP07_S0028_0023",
+      "value": "Yeah, no. We ain’t scared of your tricks and\ntraps any more."
+    },
+    {
+      "key": "EP07_S0028_0024",
+      "value": "You’ve looked down on us long enough.\nYou’re just a coward, hiding in the shadows."
+    },
+    {
+      "key": "EP07_S0028_0025",
+      "value": "Get ready to die!"
+    },
+    {
+      "key": "EP07_S0028_0026",
+      "value": "You think it will be that easy? You are all\nabout to disappear!"
+    },
+    {
+      "key": "EP07_S0028_0027",
+      "value": "Just as the other two disappeared.\nBegging and crying as they went!"
+    },
+    {
+      "key": "EP07_S0028_0028",
+      "value": "I don’t think so."
+    },
+    {
+      "key": "EP07_S0028_0029",
+      "value": "You seem awfully calm about this."
+    },
+    {
+      "key": "EP07_S0028_0030",
+      "value": "You did take us by surprise."
+    },
+    {
+      "key": "EP07_S0028_0031",
+      "value": "But we are not yours to command! "
+    },
+    {
+      "key": "EP07_S0028_0032",
+      "value": "What... What is happening?"
+    },
+    {
+      "key": "EP07_S0028_0033",
+      "value": "But this was my last chance...\nMy very last chance!"
+    },
+    {
+      "key": "EP07_S0028_0034",
+      "value": "Your last chance?"
+    },
+    {
+      "key": "EP07_S0028_0035",
+      "value": "It’s all your fault!"
+    },
+    {
+      "key": "EP07_S0028_0036",
+      "value": "My life, my world! I cannot let you escape\nany longer!"
+    },
+    {
+      "key": "EP07_S0028_0037",
+      "value": "(Her life and world?)"
+    },
+    {
+      "key": "EP07_S0028_0038",
+      "value": "(Is there a reason why Arukenimon has\nattacked us?)"
+    },
+    {
+      "key": "EP07_S0028_0039",
+      "value": "(If so, then...maybe we can negotiate?)"
+    },
+    {
+      "key": "EP07_S0028_0040",
+      "value": "(We don’t have to be friends, but we might be\nable to avoid a battle...)"
+    },
+    {
+      "key": "EP07_S0028_0041",
+      "value": "(Should I try talking?)"
+    },
+    {
+      "key": "EP07_S0028_Q1",
+      "value": "(How to deal with Arukenimon...)"
+    },
+    {
+      "key": "EP07_S0028_Q1_A1",
+      "value": "Let’s fight!"
+    },
+    {
+      "key": "EP07_S0028_Q1_A2",
+      "value": "Ask for cooperation."
+    },
+    {
+      "key": "EP07_S0028_Q1_A3",
+      "value": "Find a way to escape."
+    },
+    {
+      "key": "EP07_S0028_0042",
+      "value": "Let’s fight."
+    },
+    {
+      "key": "EP07_S0028_0043",
+      "value": "(It’s no good. Making an ally of someone you\ncan’t trust is too risky.)"
+    },
+    {
+      "key": "EP07_S0028_0044",
+      "value": "Everyone look out! They’re coming!"
+    },
+    {
+      "key": "EP07_S0028_0045",
+      "value": "No matter what happens, you won’t be\nkidnapping these kids!"
+    },
+    {
+      "key": "EP07_S0028_0046",
+      "value": "Ask for cooperation."
+    },
+    {
+      "key": "EP07_S0028_0047",
+      "value": "So, would it help you if we found a way to\ncooperate?"
+    },
+    {
+      "key": "EP07_S0028_0048",
+      "value": "What are you talking about, Takuma?!"
+    },
+    {
+      "key": "EP07_S0028_0049",
+      "value": "If some kind of positive result could come\nfrom our joining forces..."
+    },
+    {
+      "key": "EP07_S0028_0050",
+      "value": "We could avoid a fight. Can’t you tell us\nmore about your situation?"
+    },
+    {
+      "key": "EP07_S0028_0051",
+      "value": "What’s this? How kind you are..."
+    },
+    {
+      "key": "EP07_S0028_0052",
+      "value": "Why don’t you come over here, then.\nOur Master has need of you all."
+    },
+    {
+      "key": "EP07_S0028_0053",
+      "value": "Wait! Don’t do it, Takuma!"
+    },
+    {
+      "key": "EP07_S0028_0054",
+      "value": "Wah!"
+    },
+    {
+      "key": "EP07_S0028_0055",
+      "value": "That was close! If Agumon hadn’t yelled,\nit would have captured you, Takuma."
+    },
+    {
+      "key": "EP07_S0028_0056",
+      "value": "Idiots! There’s no way we can negotiate with\nthat!"
+    },
+    {
+      "key": "EP07_S0028_0057",
+      "value": "Here she comes! Get ready!"
+    },
+    {
+      "key": "EP07_S0028_0058",
+      "value": "Find a way to escape."
+    },
+    {
+      "key": "EP07_S0028_0059",
+      "value": "Can you tell us what you’re after?"
+    },
+    {
+      "key": "EP07_S0028_0060",
+      "value": "Takuma? Are you thinking you can negotiate\nwith Arukenimon?"
+    },
+    {
+      "key": "EP07_S0028_0061",
+      "value": "Be quiet. When I draw her attention, all of\nyou are going to escape."
+    },
+    {
+      "key": "EP07_S0028_0062",
+      "value": "What?! But..."
+    },
+    {
+      "key": "EP07_S0028_0063",
+      "value": "Wasn’t it you who said you didn’t want to\nstay here?"
+    },
+    {
+      "key": "EP07_S0028_0064",
+      "value": "Arukenimon is tough. We need to fight from\na better tactical position..."
+    },
+    {
+      "key": "EP07_S0028_0065",
+      "value": "Aren’t we past the time for negotiations?"
+    },
+    {
+      "key": "EP07_S0028_0066",
+      "value": "I don’t know what you’re up to, but I have\nnothing to tell you!"
+    },
+    {
+      "key": "EP07_S0028_0067",
+      "value": "Damn, here it comes! Get ready!"
+    }
+  ]
+}

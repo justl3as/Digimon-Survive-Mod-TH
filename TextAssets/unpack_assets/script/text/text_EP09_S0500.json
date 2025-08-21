@@ -1,0 +1,448 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S0500_0001",
+      "value": "Hey, Aoi. Could you tell me more about what\nhappened before?"
+    },
+    {
+      "key": "EP09_S0500_0002",
+      "value": "Did something happen to Miyuki...? And\nspeaking of which, where’s Haru?"
+    },
+    {
+      "key": "EP09_S0500_0003",
+      "value": "Uhh..."
+    },
+    {
+      "key": "EP09_S0500_0004",
+      "value": "Do you remember how Haru fainted during the\nfight against Garurumon?"
+    },
+    {
+      "key": "EP09_S0500_0005",
+      "value": "Yeah, we left him in a corner of the factory\nfor safekeeping."
+    },
+    {
+      "key": "EP09_S0500_0006",
+      "value": "Right. So after things finished up, we\ngrabbed Haru and made it back here, somehow."
+    },
+    {
+      "key": "EP09_S0500_0007",
+      "value": "But then when he woke up, Haru was incredibly\nupset by Miyuki’s absence."
+    },
+    {
+      "key": "EP09_S0500_0008",
+      "value": "I can see that... Of course he’d be worried\nif his sister disappeared."
+    },
+    {
+      "key": "EP09_S0500_0009",
+      "value": "By the next morning, Haru had disappeared,\ntoo."
+    },
+    {
+      "key": "EP09_S0500_0010",
+      "value": "He did...?"
+    },
+    {
+      "key": "EP09_S0500_0011",
+      "value": "We think he went to look for Miyuki. His\nwounds hadn’t even mended..."
+    },
+    {
+      "key": "EP09_S0500_0012",
+      "value": "Oh no... Do you have any idea where he might\nhave gone?"
+    },
+    {
+      "key": "EP09_S0500_0013",
+      "value": "I’m afraid not. We looked everywhere for him,\nbut..."
+    },
+    {
+      "key": "EP09_S0500_0014",
+      "value": "Yeah, about that...\nRight now we have no idea where he is."
+    },
+    {
+      "key": "EP09_S0500_0015",
+      "value": "We looked everywhere for him, but to no\navail."
+    },
+    {
+      "key": "EP09_S0500_0016",
+      "value": "So Haru’s gone, too..."
+    },
+    {
+      "key": "EP09_S0500_0017",
+      "value": "Yes, we’re all quite worried. I hate to think\nof such a small child going off on his own."
+    },
+    {
+      "key": "EP09_S0500_0018",
+      "value": "Well yeah, but there’s nothing we can do by\nourselves, here."
+    },
+    {
+      "key": "EP09_S0500_0019",
+      "value": "To be honest, we’ve had our hands full just\ntaking care of ourselves."
+    },
+    {
+      "key": "EP09_S0500_0020",
+      "value": "Saki, that’s... Well, I guess there’s no\npoint in splitting hairs."
+    },
+    {
+      "key": "EP09_S0500_0021",
+      "value": "Like Saki says, it’s taken everything just to\nstay alive."
+    },
+    {
+      "key": "EP09_S0500_0022",
+      "value": "But Aoi kept us all together this whole time."
+    },
+    {
+      "key": "EP09_S0500_0023",
+      "value": "You saved me a bunch, too!"
+    },
+    {
+      "key": "EP09_S0500_0024",
+      "value": "No, that’s not..."
+    },
+    {
+      "key": "EP09_S0500_0025",
+      "value": "Come on, no need to be modest.\nAoi here’s amazing!"
+    },
+    {
+      "key": "EP09_S0500_0026",
+      "value": "What do you mean?"
+    },
+    {
+      "key": "EP09_S0500_0027",
+      "value": "You see how the pressure of this situation\nputs everyone on edge, right?"
+    },
+    {
+      "key": "EP09_S0500_0028",
+      "value": "That’s why everyone was always at each\nother’s throats. But Aoi..."
+    },
+    {
+      "key": "EP09_S0500_0029",
+      "value": "Aoi kept all of us together with her magic\ntouch."
+    },
+    {
+      "key": "EP09_S0500_0030",
+      "value": "Magic touch?"
+    },
+    {
+      "key": "EP09_S0500_0031",
+      "value": "What’s that?"
+    },
+    {
+      "key": "EP09_S0500_0032",
+      "value": "Mmm-hmm. What do you think I mean?"
+    },
+    {
+      "key": "EP09_S0500_0033",
+      "value": "(I wonder... Maybe she means like a healing\ntouch, treating everyone’s wounds?)"
+    },
+    {
+      "key": "EP09_S0500_0034",
+      "value": "(Or wait, did she awaken to some sort of\nmagical power while we were away?!)"
+    },
+    {
+      "key": "EP09_S0500_0035",
+      "value": "(I can hardly imagine, but you never know...)"
+    },
+    {
+      "key": "EP09_S0500_Q1",
+      "value": "(What’s this “magic touch” of hers?)"
+    },
+    {
+      "key": "EP09_S0500_Q1_A1",
+      "value": "She healed everyone?"
+    },
+    {
+      "key": "EP09_S0500_Q1_A2",
+      "value": "Aoi’s a wizard?!"
+    },
+    {
+      "key": "EP09_S0500_Q1_A3",
+      "value": "Not a clue, honestly."
+    },
+    {
+      "key": "EP09_S0500_0036",
+      "value": "She healed everyone?"
+    },
+    {
+      "key": "EP09_S0500_0037",
+      "value": "Did she treat everyone’s wounds? That’d\nexplain why everyone trusts her so much."
+    },
+    {
+      "key": "EP09_S0500_0038",
+      "value": "Oh, well I guess you have a point there."
+    },
+    {
+      "key": "EP09_S0500_0039",
+      "value": "Right? Aoi’s so, how do I put it... Devoted?\nMotherly?"
+    },
+    {
+      "key": "EP09_S0500_0040",
+      "value": "What?! T-Takuma, you think of me that way?"
+    },
+    {
+      "key": "EP09_S0500_0041",
+      "value": "Well yeah, that part of you’s always a big\nhelp to the rest of us."
+    },
+    {
+      "key": "EP09_S0500_0042",
+      "value": "Really? Me, motherly..."
+    },
+    {
+      "key": "EP09_S0500_0043",
+      "value": "Hehe, I admit I’m a little flustered..."
+    },
+    {
+      "key": "EP09_S0500_0044",
+      "value": "Oh, for sure! That’s our Mama Aoi over here!"
+    },
+    {
+      "key": "EP09_S0500_0045",
+      "value": "Just having her around gives everyone some\npeace of mind."
+    },
+    {
+      "key": "EP09_S0500_0046",
+      "value": "You too, Saki? Jeez..."
+    },
+    {
+      "key": "EP09_S0500_0047",
+      "value": "Still, that’s not the magic touch I was\ntalking about."
+    },
+    {
+      "key": "EP09_S0500_0048",
+      "value": "Wait, really?"
+    },
+    {
+      "key": "EP09_S0500_0049",
+      "value": "Aoi’s a wizard?!"
+    },
+    {
+      "key": "EP09_S0500_0050",
+      "value": "Don’t tell me... Aoi gained some kinda magic\npower?!"
+    },
+    {
+      "key": "EP09_S0500_0051",
+      "value": "What?!"
+    },
+    {
+      "key": "EP09_S0500_0052",
+      "value": "And like, she beat back an onslaught of\nmonsters, making her the de facto leader?"
+    },
+    {
+      "key": "EP09_S0500_0053",
+      "value": "Ahaha, I love it! And lightning rains down\nfrom the sky every time she scolds us!"
+    },
+    {
+      "key": "EP09_S0500_0054",
+      "value": "Aoi’s Lecture Lightning..."
+    },
+    {
+      "key": "EP09_S0500_0055",
+      "value": "Pffft hahaha, stop! You’re killing me!"
+    },
+    {
+      "key": "EP09_S0500_0056",
+      "value": "Or how about Aoi’s Rain On Your Parade\nattack?"
+    },
+    {
+      "key": "EP09_S0500_0057",
+      "value": "...You two giggling at my expense, are you?"
+    },
+    {
+      "key": "EP09_S0500_0058",
+      "value": "Sorry, sorry. Just a joke."
+    },
+    {
+      "key": "EP09_S0500_0059",
+      "value": "Ahaha, you sure get some funny ideas, Takuma."
+    },
+    {
+      "key": "EP09_S0500_0060",
+      "value": "Thanks, I guess..."
+    },
+    {
+      "key": "EP09_S0500_0061",
+      "value": "Not a clue, honestly."
+    },
+    {
+      "key": "EP09_S0500_0062",
+      "value": "Umm... I honestly don’t know."
+    },
+    {
+      "key": "EP09_S0500_0063",
+      "value": "Oh come on, you gotta at least guess."
+    },
+    {
+      "key": "EP09_S0500_0064",
+      "value": "I tried, really! Like maybe she takes care of\neveryone, or tends to their wounds..."
+    },
+    {
+      "key": "EP09_S0500_0065",
+      "value": "But she’s been like that since the beginning,\nso I’m stumped."
+    },
+    {
+      "key": "EP09_S0500_0066",
+      "value": "Laaame. You hardly know a thing about our\ngirl, do you?"
+    },
+    {
+      "key": "EP09_S0500_0067",
+      "value": "Um, Saki... You can hardly expect him to\nanswer a question like that out of the blue."
+    },
+    {
+      "key": "EP09_S0500_0068",
+      "value": "Sorry to disappoint... So then what’s the\nanswer?"
+    },
+    {
+      "key": "EP09_S0500_0069",
+      "value": "Cooking! I’m talking about her cooking!"
+    },
+    {
+      "key": "EP09_S0500_0070",
+      "value": "She kept our bellies full with her food, and\nour hearts at peace with her words."
+    },
+    {
+      "key": "EP09_S0500_0071",
+      "value": "Ahhh, so that’s what you meant."
+    },
+    {
+      "key": "EP09_S0500_0072",
+      "value": "Glad to hear how good her food is. Nothing\nsoothes the soul like a good meal."
+    },
+    {
+      "key": "EP09_S0500_0073",
+      "value": "Aoi sure knows her way around a stove!"
+    },
+    {
+      "key": "EP09_S0500_0074",
+      "value": "It’s not like I whipped up anything special.\nI just made due with what we had."
+    },
+    {
+      "key": "EP09_S0500_0075",
+      "value": "...She’s been so caring, too."
+    },
+    {
+      "key": "EP09_S0500_0076",
+      "value": "Did I tell you? I had planned to go to the\nhospital after camping."
+    },
+    {
+      "key": "EP09_S0500_0077",
+      "value": "Don’t say that, Saki!"
+    },
+    {
+      "key": "EP09_S0500_0078",
+      "value": "It’s fine, it’s fine."
+    },
+    {
+      "key": "EP09_S0500_0079",
+      "value": "...The hospital? Is something wrong?"
+    },
+    {
+      "key": "EP09_S0500_0080",
+      "value": "Nothing major."
+    },
+    {
+      "key": "EP09_S0500_0081",
+      "value": "The doctor was all, “I suggest you go at\nonce!” Blah blah blaaah, what a blowhard."
+    },
+    {
+      "key": "EP09_S0500_0082",
+      "value": "I honestly didn’t see what the big deal was,\nmyself."
+    },
+    {
+      "key": "EP09_S0500_0083",
+      "value": "Is that right...?"
+    },
+    {
+      "key": "EP09_S0500_0084",
+      "value": "(Now that I think about it, Saki’s always\nseemed to tire out pretty quickly.)"
+    },
+    {
+      "key": "EP09_S0500_0085",
+      "value": "(Did this illness of hers have anything to do\nwith it?)"
+    },
+    {
+      "key": "EP09_S0500_0086",
+      "value": "(Still, she talks about it like it’s nothing,\nso...can’t be that bad, right?)"
+    },
+    {
+      "key": "EP09_S0500_0087",
+      "value": "Hey now, why so serious? I’m fine, I swear. "
+    },
+    {
+      "key": "EP09_S0500_0088",
+      "value": "But when we came to this world, all my plans\nfor hospitals or surgery went up in smoke."
+    },
+    {
+      "key": "EP09_S0500_0089",
+      "value": "And yet...because of this, I feel like I can\ndo anything I want to, without holding back."
+    },
+    {
+      "key": "EP09_S0500_0090",
+      "value": "Do you have any idea what that feels like,\nTakuma?"
+    },
+    {
+      "key": "EP09_S0500_0091",
+      "value": "I told all this to Aoi, and she’s really\nsympathized with me ever since."
+    },
+    {
+      "key": "EP09_S0500_0092",
+      "value": "This may sound weird for me to say, but I’m\nglad I joined this camping trip."
+    },
+    {
+      "key": "EP09_S0500_0093",
+      "value": "You are?"
+    },
+    {
+      "key": "EP09_S0500_0094",
+      "value": "Sure! We got thrown into this world, and so\nmuch scary stuff has happened..."
+    },
+    {
+      "key": "EP09_S0500_0095",
+      "value": "But getting to spend time with you, Aoi and\nthe others..."
+    },
+    {
+      "key": "EP09_S0500_0096",
+      "value": "I feel like I’ve made memories to a last\na lifetime!"
+    },
+    {
+      "key": "EP09_S0500_0097",
+      "value": "Haha, like, as if, right? "
+    },
+    {
+      "key": "EP09_S0500_0098",
+      "value": "Saki..."
+    },
+    {
+      "key": "EP09_S0500_0099",
+      "value": "(To Saki, who had to worry about\nhospitalization and surgery...)"
+    },
+    {
+      "key": "EP09_S0500_0100",
+      "value": "(This treacherous world is a place where she\ncan move freely...)"
+    },
+    {
+      "key": "EP09_S0500_0101",
+      "value": "(If she’s been here supporting Aoi, I can see\nhow they’ve grown so close.)"
+    },
+    {
+      "key": "EP09_S0500_0102",
+      "value": "What can I do next, Aoi?"
+    },
+    {
+      "key": "EP09_S0500_0103",
+      "value": "Let’s see... Can you peel the veggies for me?"
+    },
+    {
+      "key": "EP09_S0500_0104",
+      "value": "(Just seeing those two together puts my heart\nat ease.)"
+    },
+    {
+      "key": "EP09_S0500_0105",
+      "value": "Don’t go giving me special treatment just\n’cuz you know the whole story now!"
+    },
+    {
+      "key": "EP09_S0500_0106",
+      "value": "Hee hee, I know, I know. Just don’t overdo\nit, okay?"
+    },
+    {
+      "key": "EP09_S0500_0107",
+      "value": "(Those two really are a pair...) "
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9210_0001",
+      "value": "Minoru, am I seeing things?"
+    },
+    {
+      "key": "EP13_S9210_0002",
+      "value": "Nope, I’m cleaning up."
+    },
+    {
+      "key": "EP13_S9210_0003",
+      "value": "It’s funny, isn’t it? I always used to do\nwhatever I could to get out of cleaning duty."
+    },
+    {
+      "key": "EP13_S9210_0004",
+      "value": "And now here I am, cleaning up even though\nwe’re about to leave."
+    },
+    {
+      "key": "EP13_S9210_0005",
+      "value": "But it just felt like the right thing to do.\nI guess living here really got to me."
+    },
+    {
+      "key": "EP13_S9210_0006",
+      "value": "Minoru..."
+    },
+    {
+      "key": "EP13_S9210_0007",
+      "value": "(I know what he means, but maybe the thing\nfor me to do is to try and lighten the mood.)"
+    },
+    {
+      "key": "EP13_S9210_Q1",
+      "value": "(What should I say?)"
+    },
+    {
+      "key": "EP13_S9210_Q1_A1",
+      "value": "So, why not stay here?"
+    },
+    {
+      "key": "EP13_S9210_Q1_A2",
+      "value": "I know how you feel."
+    },
+    {
+      "key": "EP13_S9210_0008",
+      "value": "So, why not stay here?"
+    },
+    {
+      "key": "EP13_S9210_0009",
+      "value": "So, why not stay here?"
+    },
+    {
+      "key": "EP13_S9210_0010",
+      "value": "A worthy suggestion. We would all welcome you\nhere."
+    },
+    {
+      "key": "EP13_S9210_0011",
+      "value": "Heheh, you know, it doesn’t sound half bad.\nBut it’s not really a possibility."
+    },
+    {
+      "key": "EP13_S9210_0012",
+      "value": "After all, there are people back in my world\nwho are waiting for me."
+    },
+    {
+      "key": "EP13_S9210_0013",
+      "value": "I know how you feel."
+    },
+    {
+      "key": "EP13_S9210_0014",
+      "value": "I know how you feel."
+    },
+    {
+      "key": "EP13_S9210_0015",
+      "value": "Yeah, I’m not really sure how it happened.\nEverything here has been so hard."
+    },
+    {
+      "key": "EP13_S9210_0016",
+      "value": "But I feel so sad to leave this place, even\nwhen we might finally be going home."
+    },
+    {
+      "key": "EP13_S9210_0017",
+      "value": "Allow me to give you a hand."
+    },
+    {
+      "key": "EP13_S9210_0018",
+      "value": "Sure. You can wipe off that hard-to-reach\nspot up there. And, uh..."
+    },
+    {
+      "key": "EP13_S9210_0019",
+      "value": "What is it?"
+    },
+    {
+      "key": "EP13_S9210_0020",
+      "value": "It’s kind of hard for me to say this, but..."
+    },
+    {
+      "key": "EP13_S9210_0021",
+      "value": "You needn’t worry. We’re partners, are we\nnot?"
+    },
+    {
+      "key": "EP13_S9210_0022",
+      "value": "Yeah, but it’s just so embarrassing..."
+    },
+    {
+      "key": "EP13_S9210_0023",
+      "value": "(I think I’ve got a pretty good idea of what\nMinoru wants to say.)"
+    },
+    {
+      "key": "EP13_S9210_Q2",
+      "value": "Minoru wants to..."
+    },
+    {
+      "key": "EP13_S9210_Q2_A1",
+      "value": "Say thanks."
+    },
+    {
+      "key": "EP13_S9210_Q2_A2",
+      "value": "Encourage Falcomon."
+    },
+    {
+      "key": "EP13_S9210_0024",
+      "value": "Say thanks."
+    },
+    {
+      "key": "EP13_S9210_0025",
+      "value": "You’re trying to say thanks, aren’t you?"
+    },
+    {
+      "key": "EP13_S9210_0026",
+      "value": "What?! Is that true?!"
+    },
+    {
+      "key": "EP13_S9210_0027",
+      "value": "Hey, not so loud!"
+    },
+    {
+      "key": "EP13_S9210_0028",
+      "value": "My apologies. I knew, of course, that you\nrelied on me, but..."
+    },
+    {
+      "key": "EP13_S9210_0029",
+      "value": "It’s still so nice that you would want to\nthank me properly. I could do a flip!"
+    },
+    {
+      "key": "EP13_S9210_0030",
+      "value": "Well, there you have it, Minoru."
+    },
+    {
+      "key": "EP13_S9210_0031",
+      "value": "Okay, okay. Yeah, you got it. Falcomon, thank\nyou."
+    },
+    {
+      "key": "EP13_S9210_0032",
+      "value": "Before I met you, I was nothing. Sure, I may\nhave acted cheerful, but..."
+    },
+    {
+      "key": "EP13_S9210_0033",
+      "value": "...that was just a way for me to avoid facing\nmy problems, with a joke and a laugh."
+    },
+    {
+      "key": "EP13_S9210_0034",
+      "value": "But you gave me the strength to fight when\nI only wanted to run. You changed my heart."
+    },
+    {
+      "key": "EP13_S9210_0035",
+      "value": "So, thank you, Falcomon."
+    },
+    {
+      "key": "EP13_S9210_0036",
+      "value": "No, I feel the same way about you. Thank you,\nMinoru."
+    },
+    {
+      "key": "EP13_S9210_0037",
+      "value": "Encourage Falcomon."
+    },
+    {
+      "key": "EP13_S9210_0038",
+      "value": "You’re trying to cheer him up before the\nfight, aren’t you?"
+    },
+    {
+      "key": "EP13_S9210_0039",
+      "value": "Heh, well, uh, yeah..."
+    },
+    {
+      "key": "EP13_S9210_0040",
+      "value": "Here we go! Time for us to do this thing,\nright, Falcomon?"
+    },
+    {
+      "key": "EP13_S9210_0041",
+      "value": "Indeed."
+    },
+    {
+      "key": "EP13_S9210_0042",
+      "value": "(Maybe I didn’t have to say anything, after\nall.)"
+    },
+    {
+      "key": "EP13_S9210_0043",
+      "value": "Anyway, not much time left now before this is\nall over."
+    },
+    {
+      "key": "EP13_S9210_0044",
+      "value": "Man, don’t remind me. I’ve been trying not to\nthink about it."
+    },
+    {
+      "key": "EP13_S9210_0045",
+      "value": "Oh?"
+    },
+    {
+      "key": "EP13_S9210_0046",
+      "value": "(Does that mean...he really has been worried\nabout the upcoming fight?)"
+    },
+    {
+      "key": "EP13_S9210_0047",
+      "value": "(Or maybe it’s going back to our world that\nscares him. Maybe he prefers it here.)"
+    },
+    {
+      "key": "EP13_S9210_Q3",
+      "value": "Minoru, are you afraid of..."
+    },
+    {
+      "key": "EP13_S9210_Q3_A1",
+      "value": "...the battle?"
+    },
+    {
+      "key": "EP13_S9210_Q3_A2",
+      "value": "...going back home?"
+    },
+    {
+      "key": "EP13_S9210_0048",
+      "value": "...the battle?"
+    },
+    {
+      "key": "EP13_S9210_0049",
+      "value": "...the battle?"
+    },
+    {
+      "key": "EP13_S9210_0050",
+      "value": "Yeah, a little."
+    },
+    {
+      "key": "EP13_S9210_0051",
+      "value": "Do not fear. I’m scared too..."
+    },
+    {
+      "key": "EP13_S9210_0052",
+      "value": "...but I’ll be there for you, and I know\nyou’ll be there for me."
+    },
+    {
+      "key": "EP13_S9210_0053",
+      "value": "Yeah, you’re right. I shouldn’t be worried."
+    },
+    {
+      "key": "EP13_S9210_0054",
+      "value": "...going back home?"
+    },
+    {
+      "key": "EP13_S9210_0055",
+      "value": "Do you not want to go back home?"
+    },
+    {
+      "key": "EP13_S9210_0056",
+      "value": "Well, no, it’s not like that."
+    },
+    {
+      "key": "EP13_S9210_0057",
+      "value": "Minoru, your family is waiting for you back\nin your world, are they not?"
+    },
+    {
+      "key": "EP13_S9210_0058",
+      "value": "Do not lose sight of that. You should go back\nto where you belong."
+    },
+    {
+      "key": "EP13_S9210_0059",
+      "value": "Yeah, right..."
+    },
+    {
+      "key": "EP13_S9210_0060",
+      "value": "Let’s give this final battle all we have."
+    },
+    {
+      "key": "EP13_S9210_0061",
+      "value": "Indeed."
+    },
+    {
+      "key": "EP13_S9210_0062",
+      "value": "Hey, don’t worry about me! I’m not feeling\nconflicted about anything!"
+    }
+  ]
+}

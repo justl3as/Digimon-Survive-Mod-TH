@@ -1,0 +1,204 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S0510_0001",
+      "value": "What is it, Takuma?"
+    },
+    {
+      "key": "EP09_S0510_0002",
+      "value": "Everyone’s acting all tense. What happened\nwhile I was gone?"
+    },
+    {
+      "key": "EP09_S0510_0003",
+      "value": "...Um, well... Let’s say it’s been a lot."
+    },
+    {
+      "key": "EP09_S0510_0004",
+      "value": "(Sounds like it’s something he doesn’t really\nwant to talk about.)"
+    },
+    {
+      "key": "EP09_S0510_0005",
+      "value": "Well, the important thing is, you’re back!"
+    },
+    {
+      "key": "EP09_S0510_0006",
+      "value": "We have hope again, all thanks to you!"
+    },
+    {
+      "key": "EP09_S0510_0007",
+      "value": "What do you think, Takuma?\nHas Minoru toughened up a bit?"
+    },
+    {
+      "key": "EP09_S0510_0008",
+      "value": "Aw, come on, Falcomon!"
+    },
+    {
+      "key": "EP09_S0510_0009",
+      "value": "I speak the truth, no need to be bashful."
+    },
+    {
+      "key": "EP09_S0510_0010",
+      "value": "Hold up, you’re talking like a parent fawning\nover their baby boy!"
+    },
+    {
+      "key": "EP09_S0510_0011",
+      "value": "If it hurts your feelings I’ll relent.\nIt was simply my honest opinion."
+    },
+    {
+      "key": "EP09_S0510_0012",
+      "value": "Why I oughta..."
+    },
+    {
+      "key": "EP09_S0510_0013",
+      "value": "(He’s definitely gotten stronger. He can act\nso cheerful without putting up a front.)"
+    },
+    {
+      "key": "EP09_S0510_0014",
+      "value": "(It feels more like something he’s always had\ninside of him has risen to the surface.)"
+    },
+    {
+      "key": "EP09_S0510_0015",
+      "value": "(From what I can tell, Falcomon’s done some\ngrowing of his own, too.)"
+    },
+    {
+      "key": "EP09_S0510_Q1",
+      "value": "(What should I say about it?)"
+    },
+    {
+      "key": "EP09_S0510_Q1_A1",
+      "value": "Minoru’s shaped up!"
+    },
+    {
+      "key": "EP09_S0510_Q1_A2",
+      "value": "He’s the same guy."
+    },
+    {
+      "key": "EP09_S0510_Q1_A3",
+      "value": "Falcomon’s changed."
+    },
+    {
+      "key": "EP09_S0510_0016",
+      "value": "Minoru’s shaped up!"
+    },
+    {
+      "key": "EP09_S0510_0017",
+      "value": "I think you’ve shaped up a bit too, Minoru."
+    },
+    {
+      "key": "EP09_S0510_0018",
+      "value": "Sheesh, not you too, man! Give me a break!"
+    },
+    {
+      "key": "EP09_S0510_0019",
+      "value": "I mean, instead of mouthing off the way you\nusually do, you seem somehow more cheerful..."
+    },
+    {
+      "key": "EP09_S0510_0020",
+      "value": "But it doesn’t feel forced, I guess? I’m\nhappy to see you acting like yourself."
+    },
+    {
+      "key": "EP09_S0510_0021",
+      "value": "Oh, uh, you think? Heh, well... Thanks, dude."
+    },
+    {
+      "key": "EP09_S0510_0022",
+      "value": "Hmph, it seems you understand my boy well,\nTakuma."
+    },
+    {
+      "key": "EP09_S0510_0023",
+      "value": "Who the heck said I’m your boy, man?!"
+    },
+    {
+      "key": "EP09_S0510_0024",
+      "value": "He’s the same guy."
+    },
+    {
+      "key": "EP09_S0510_0025",
+      "value": "Hmm, hasn’t Minoru always been this way?"
+    },
+    {
+      "key": "EP09_S0510_0026",
+      "value": "Oh? How do you figure?"
+    },
+    {
+      "key": "EP09_S0510_0027",
+      "value": "You always seem to mouth off, but you were\njust saying what’s on your mind."
+    },
+    {
+      "key": "EP09_S0510_0028",
+      "value": "It’s like the good stuff that was always\ninside you’s come to the surface now."
+    },
+    {
+      "key": "EP09_S0510_0029",
+      "value": "Um, that IS a compliment, right?"
+    },
+    {
+      "key": "EP09_S0510_0030",
+      "value": "Of course."
+    },
+    {
+      "key": "EP09_S0510_0031",
+      "value": "High praise, indeed!"
+    },
+    {
+      "key": "EP09_S0510_0032",
+      "value": "For real? Heheh... You’re making me blush,\nhere."
+    },
+    {
+      "key": "EP09_S0510_0033",
+      "value": "Even I could discern that much, Takuma. I’ve\nbecome a bit of an expert on our boy, here."
+    },
+    {
+      "key": "EP09_S0510_0034",
+      "value": "Aw c’mon, it’s like a competition to\nembarrass me!"
+    },
+    {
+      "key": "EP09_S0510_0035",
+      "value": "Falcomon’s changed."
+    },
+    {
+      "key": "EP09_S0510_0036",
+      "value": "If you think Minoru’s changed, I’d say it’s\nbecause you’ve changed too, Falcomon."
+    },
+    {
+      "key": "EP09_S0510_0037",
+      "value": "Me? Whatever do you mean?"
+    },
+    {
+      "key": "EP09_S0510_0038",
+      "value": "You realized Minoru’s good points... Or it’s\nmore like you learned to praise them."
+    },
+    {
+      "key": "EP09_S0510_0039",
+      "value": "And Minoru accepted you without question,\ntoo. That’s proof that you trust each other."
+    },
+    {
+      "key": "EP09_S0510_0040",
+      "value": "Hrmm... I hadn’t thought of it that way. I’ve\ngrown too, have I?"
+    },
+    {
+      "key": "EP09_S0510_0041",
+      "value": "I’d say so!"
+    },
+    {
+      "key": "EP09_S0510_0042",
+      "value": "Keep shoveling the praise on! I’m a flower\nthat needs watering, baby."
+    },
+    {
+      "key": "EP09_S0510_0043",
+      "value": "Hmph, I do believe you’re backsliding..."
+    },
+    {
+      "key": "EP09_S0510_0044",
+      "value": "Heheh, such an odd couple, those guys!"
+    },
+    {
+      "key": "EP09_S0510_0045",
+      "value": "(These two look like they’re getting along\njust fine...)"
+    },
+    {
+      "key": "EP09_S0510_0046",
+      "value": "Well, don’t worry about us. Whatever comes\nalong, we got this!"
+    }
+  ]
+}

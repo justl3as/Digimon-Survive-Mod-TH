@@ -1,0 +1,100 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1140_0001",
+      "value": "Is this...the entrance to an underground\nwaterway? Doesn’t look like we can go in."
+    },
+    {
+      "key": "EP02_S1140_0002",
+      "value": "Is it blocked with sand and dirt?"
+    },
+    {
+      "key": "EP02_S1140_0003",
+      "value": "No, it’s locked. See?"
+    },
+    {
+      "key": "EP02_S1140_0004",
+      "value": "It is... Just a regular old lock."
+    },
+    {
+      "key": "EP02_S1140_0005",
+      "value": "(But with this pattern...\nIt really stands out.)"
+    },
+    {
+      "key": "EP02_S1140_0006",
+      "value": "What an odd structure. You are certainly\nwell-versed in such matters, Minoru."
+    },
+    {
+      "key": "EP02_S1140_0007",
+      "value": "Heh heh... I guess you could say that."
+    },
+    {
+      "key": "EP02_S1140_0008",
+      "value": "Still, this place isn’t just some parallel\nworld, with all these buildings around."
+    },
+    {
+      "key": "EP02_S1140_0009",
+      "value": "Yeah, it’s as weird as you say.\nI wonder if we’ll ever solve the mystery..."
+    },
+    {
+      "key": "EP02_S1140_0010",
+      "value": "Who knows?"
+    },
+    {
+      "key": "EP02_S1140_0011",
+      "value": "Anyway, let me give you this.\nI picked it up back there."
+    },
+    {
+      "key": "EP02_S1140_0012",
+      "value": "No, you should keep it."
+    },
+    {
+      "key": "EP02_S1140_0013",
+      "value": "You would take better care of it."
+    },
+    {
+      "key": "EP02_S1140_0014",
+      "value": "That’s not much of a reason..."
+    },
+    {
+      "key": "EP02_S1140_0200",
+      "value": "Whoa, now!"
+    },
+    {
+      "key": "EP02_S1140_0201",
+      "value": "Oh, it’s just a text..."
+    },
+    {
+      "key": "EP02_S1140_0202",
+      "value": "Wait, a text?! How the heck did that get\nthrough?! And why is it all messed up?"
+    },
+    {
+      "key": "EP02_S1140_0203",
+      "value": "So you got one of those garbled messages,\ntoo..."
+    },
+    {
+      "key": "EP02_S1140_0204",
+      "value": "Too? You mean you got one, too? So like, does\nthat mean we can phone home, or...?"
+    },
+    {
+      "key": "EP02_S1140_0205",
+      "value": "...Nope, no good. Can’t get a signal."
+    },
+    {
+      "key": "EP02_S1140_0206",
+      "value": "Damn..."
+    },
+    {
+      "key": "EP02_S1140_0207",
+      "value": "Welp, no use whining about it. Let’s worry\nabout that later!"
+    },
+    {
+      "key": "EP02_S1140_0015",
+      "value": "’Sup, Takuma. Back again so soon? Guess\nyou’re curious about this spot, too."
+    },
+    {
+      "key": "EP02_S1140_0016",
+      "value": "Once we’ve looked around a bit more we’ll\nhead to another area. Later!"
+    }
+  ]
+}

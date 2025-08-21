@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0501_0001",
+      "value": "Wha...what the heck is that? Some kind of...\ncreature?"
+    },
+    {
+      "key": "EP01_S0501_0002",
+      "value": "Doesn’t seem like that rock thing from\nbefore... Hope it’s a bit friendlier."
+    },
+    {
+      "key": "EP01_S0501_0003",
+      "value": "Oh... It’s gone? Don’t tell me it plans to\nattack from the shadows somewhere?"
+    },
+    {
+      "key": "EP01_S0501_0004",
+      "value": "I’ll survey other spots with my <color=#B41919>camera</color>."
+    },
+    {
+      "key": "EP01_S0501_0005",
+      "value": "I’ll survey other spots with my camera."
+    }
+  ]
+}

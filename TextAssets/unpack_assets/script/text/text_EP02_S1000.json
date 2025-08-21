@@ -1,0 +1,28 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP02_S1000_0001",
+      "value": "Yikes! What was that?"
+    },
+    {
+      "key": "EP02_S1000_0002",
+      "value": "A voice? No, more like a song..."
+    },
+    {
+      "key": "EP02_S1000_0003",
+      "value": "And is that...a piano I hear?"
+    },
+    {
+      "key": "EP02_S1000_0004",
+      "value": "(Have we really found a ghost?)"
+    },
+    {
+      "key": "EP02_S1000_0005",
+      "value": "Something wrong, Takuma?"
+    },
+    {
+      "key": "EP02_S1000_0006",
+      "value": "No. It’s nothing.\nLet’s go."
+    }
+  ]
+}

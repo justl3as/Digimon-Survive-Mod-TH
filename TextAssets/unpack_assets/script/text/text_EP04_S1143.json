@@ -1,0 +1,168 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S1143_0001",
+      "value": "Hey, that’s Biyomon! Seems hurt too!"
+    },
+    {
+      "key": "EP04_S1143_0002",
+      "value": "Are you okay?!"
+    },
+    {
+      "key": "EP04_S1143_0003",
+      "value": "Ooohh... I’m sorry... Please... I don’t know\nwhere Her Majesty is... Please, no more..."
+    },
+    {
+      "key": "EP04_S1143_0004",
+      "value": "Biyomon! Hang in there!"
+    },
+    {
+      "key": "EP04_S1143_0005",
+      "value": "Huh?! Wh-what happened...to the enemies?"
+    },
+    {
+      "key": "EP04_S1143_0006",
+      "value": "Nobody else was around when we got here."
+    },
+    {
+      "key": "EP04_S1143_0007",
+      "value": "What happened?"
+    },
+    {
+      "key": "EP04_S1143_0008",
+      "value": "Bad guys attacked us out of nowhere! They\nwanted to know where to find the queen..."
+    },
+    {
+      "key": "EP04_S1143_0009",
+      "value": "And did you tell them?"
+    },
+    {
+      "key": "EP04_S1143_0010",
+      "value": "No... I don’t know where Her Majesty is...\nBut she should still be inside the castle."
+    },
+    {
+      "key": "EP04_S1143_0011",
+      "value": "Okay, got it! Thanks for telling us!"
+    },
+    {
+      "key": "EP04_S1143_0012",
+      "value": "Come on, Agumon!"
+    },
+    {
+      "key": "EP04_S1143_0013",
+      "value": "And Biyomon, stay safe!"
+    },
+    {
+      "key": "EP04_S1143_0014",
+      "value": "I...I will!"
+    },
+    {
+      "key": "EP04_S1143_0015",
+      "value": "Yeowch! Oh, that hurts..."
+    },
+    {
+      "key": "EP04_S1143_0016",
+      "value": "You’re hurt, Biyomon?!"
+    },
+    {
+      "key": "EP04_S1143_0017",
+      "value": "Oh yeah, look at that."
+    },
+    {
+      "key": "EP04_S1143_0018",
+      "value": "No... This is nothing! I’m fine, really!"
+    },
+    {
+      "key": "EP04_S1143_0019",
+      "value": "(What should I do? I’m pretty sure I have a\nsalve. Should I use it?)"
+    },
+    {
+      "key": "EP04_S1143_0020",
+      "value": "(Then again, Biyomon says it’s nothing. Maybe\nI shouldn’t force the issue.)"
+    },
+    {
+      "key": "EP04_S1143_Q1",
+      "value": "(Should I treat Biyomon?)"
+    },
+    {
+      "key": "EP04_S1143_Q1_A1",
+      "value": "Treat the injury."
+    },
+    {
+      "key": "EP04_S1143_Q1_A2",
+      "value": "Don’t use a salve."
+    },
+    {
+      "key": "EP04_S1143_0021",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1143_0022",
+      "value": "Biyomon, I can treat that wound. Let me take\na look at it."
+    },
+    {
+      "key": "EP04_S1143_0023",
+      "value": "But...!"
+    },
+    {
+      "key": "EP04_S1143_0024",
+      "value": "No buts!"
+    },
+    {
+      "key": "EP04_S1143_0025",
+      "value": "(Okay, good! A salve should be able to take\ncare of this.)"
+    },
+    {
+      "key": "EP04_S1143_0026",
+      "value": "Now this may hurt a bit, but bear with me."
+    },
+    {
+      "key": "EP04_S1143_0027",
+      "value": "Oof... That stings!"
+    },
+    {
+      "key": "EP04_S1143_0028",
+      "value": "There, now you should start feeling better."
+    },
+    {
+      "key": "EP04_S1143_0029",
+      "value": "Ooh... Thank you."
+    },
+    {
+      "key": "EP04_S1143_0030",
+      "value": ""
+    },
+    {
+      "key": "EP04_S1143_0031",
+      "value": "It really doesn’t hurt too much?"
+    },
+    {
+      "key": "EP04_S1143_0032",
+      "value": "You’re not just saying that?"
+    },
+    {
+      "key": "EP04_S1143_0033",
+      "value": "I’m fine, I swear! You hurry on ahead!"
+    },
+    {
+      "key": "EP04_S1143_0034",
+      "value": "...Yeah, okay!"
+    },
+    {
+      "key": "EP04_S1143_0035",
+      "value": "We’re going to get moving now, so take care\nof yourself, Biyomon!"
+    },
+    {
+      "key": "EP04_S1143_0036",
+      "value": "Yeah, leave the rest of this to us!"
+    },
+    {
+      "key": "EP04_S1143_0037",
+      "value": "Thank you, both of you!"
+    },
+    {
+      "key": "EP04_S1143_0038",
+      "value": "Don’t worry about me, you need to hurry! Her\nMajesty should still be in the castle!"
+    }
+  ]
+}

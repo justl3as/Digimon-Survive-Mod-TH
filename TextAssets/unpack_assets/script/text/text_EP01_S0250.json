@@ -1,0 +1,24 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0250_0001",
+      "value": "I see, that one definitely looks like it’s\non our side!"
+    },
+    {
+      "key": "EP01_S0250_0002",
+      "value": "I TOLD you! Falcomon’s a good guy!"
+    },
+    {
+      "key": "EP01_S0250_0003",
+      "value": "Still... I don’t think he’s a match for\nGotsumon..."
+    },
+    {
+      "key": "EP01_S0250_0004",
+      "value": "Can I join the fight, Takuma?!"
+    },
+    {
+      "key": "EP01_S0250_0005",
+      "value": "Yeah, we can’t just stand here and watch.\nPlease, go help him!"
+    }
+  ]
+}

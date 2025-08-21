@@ -1,0 +1,152 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0383_0001",
+      "value": "Huh? I hear a noise up ahead. Is someone\nthere?"
+    },
+    {
+      "key": "EP01_S0383_0002",
+      "value": "Wait, is it the enemy?!"
+    },
+    {
+      "key": "EP01_S0383_0003",
+      "value": "Don’t worry, that’s just Labramon."
+    },
+    {
+      "key": "EP01_S0383_0004",
+      "value": "Takuma, Agumon..."
+    },
+    {
+      "key": "EP01_S0383_0005",
+      "value": "Labramon! So that’s where you were."
+    },
+    {
+      "key": "EP01_S0383_0006",
+      "value": "Sorry, Takuma... I thought I’d find some kind\nof clue, but no luck..."
+    },
+    {
+      "key": "EP01_S0383_Q1",
+      "value": "(She’s pretty down... What should I say?)"
+    },
+    {
+      "key": "EP01_S0383_Q1_A1",
+      "value": "Comfort her gently."
+    },
+    {
+      "key": "EP01_S0383_Q1_A2",
+      "value": "Prioritize next steps."
+    },
+    {
+      "key": "EP01_S0383_Q1_A3",
+      "value": "Be cheerful!"
+    },
+    {
+      "key": "EP01_S0383_0007",
+      "value": "Calm down, now. Let’s try looking again."
+    },
+    {
+      "key": "EP01_S0383_0008",
+      "value": "If we give up here, we won’t be able to save\nAoi!"
+    },
+    {
+      "key": "EP01_S0383_0009",
+      "value": "...Yeah. Yeah, you’re right! I won’t give up!"
+    },
+    {
+      "key": "EP01_S0383_0010",
+      "value": "I’ll try looking someplace else!"
+    },
+    {
+      "key": "EP01_S0383_0011",
+      "value": "If we can’t find a door, why don’t we make\none? In the wall, or the floor or ceiling..."
+    },
+    {
+      "key": "EP01_S0383_0012",
+      "value": "We couldn’t even break a window, how can we\nbreak anything else?"
+    },
+    {
+      "key": "EP01_S0383_0013",
+      "value": "Ah, you’re right... Hmmm..."
+    },
+    {
+      "key": "EP01_S0383_0014",
+      "value": "...Oh! The ceiling! We heard a sound from the\nceiling before Aoi was taken, right?!"
+    },
+    {
+      "key": "EP01_S0383_0015",
+      "value": "That means the one who took her must’ve been\nmoving up in the crawl space..."
+    },
+    {
+      "key": "EP01_S0383_0016",
+      "value": "I’ll take a look!"
+    },
+    {
+      "key": "EP01_S0383_0017",
+      "value": "Don’t worry, there’s just gotta be a way in!"
+    },
+    {
+      "key": "EP01_S0383_0018",
+      "value": "Still, we better hurry! Who knows what Aoi is\ngoing through right now!"
+    },
+    {
+      "key": "EP01_S0383_0019",
+      "value": "She’s gotta be more scared than the rest of\nus! We have to go, and NOW!"
+    },
+    {
+      "key": "EP01_S0383_0020",
+      "value": "Labramon..."
+    },
+    {
+      "key": "EP01_S0383_0021",
+      "value": "I’ll look a bit more!"
+    },
+    {
+      "key": "EP01_S0383_0022",
+      "value": "Hey, wait, Labramon!"
+    },
+    {
+      "key": "EP01_S0383_0023",
+      "value": "Hmm? Who’s that child...?"
+    },
+    {
+      "key": "EP01_S0383_0024",
+      "value": "What are you talking about, Labramon?"
+    },
+    {
+      "key": "EP01_S0383_0025",
+      "value": "There’s a child walking in that hallway over\nthere."
+    },
+    {
+      "key": "EP01_S0383_0026",
+      "value": "Hold up, is that the ghost from before?!"
+    },
+    {
+      "key": "EP01_S0383_0027",
+      "value": "There’s a dead end up there! Let’s go!"
+    },
+    {
+      "key": "EP01_S0383_0028",
+      "value": "I’ll go ahead!"
+    },
+    {
+      "key": "EP01_S0383_0029",
+      "value": "Augh! Owww..."
+    },
+    {
+      "key": "EP01_S0383_0030",
+      "value": "Don’t push yourself with that injury! The two\nof us will go!"
+    },
+    {
+      "key": "EP01_S0383_0031",
+      "value": "Yeah!"
+    },
+    {
+      "key": "EP01_S0383_0032",
+      "value": "Okay, it’s up to you, then! I’ll wait here."
+    },
+    {
+      "key": "EP01_S0383_0033",
+      "value": "I’m fine, go after that child already!"
+    }
+  ]
+}

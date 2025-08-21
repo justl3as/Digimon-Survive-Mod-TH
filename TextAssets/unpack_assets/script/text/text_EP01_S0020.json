@@ -1,0 +1,40 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0020_0100",
+      "value": "..."
+    },
+    {
+      "key": "EP01_S0020_0101",
+      "value": "(...Nngh.)"
+    },
+    {
+      "key": "EP01_S0020_0001",
+      "value": "Unnngh..."
+    },
+    {
+      "key": "EP01_S0020_0013",
+      "value": "Owww... Am I...safe?"
+    },
+    {
+      "key": "EP01_S0020_0014",
+      "value": "Am I...below the shrine? It looks like I got\ncaught in a landslide or something."
+    },
+    {
+      "key": "EP01_S0020_0015",
+      "value": "...Oh hey, everyone! Is everyone okay?!"
+    },
+    {
+      "key": "EP01_S0020_0002",
+      "value": "Ouch! My head... It’s pounding..."
+    },
+    {
+      "key": "EP01_S0020_0003",
+      "value": "(I can’t see anyone. Looks like they aren’t\nhere...)"
+    },
+    {
+      "key": "EP01_S0020_0004",
+      "value": "(Maybe I should <color=#B41919>take a look around</color>...)"
+    }
+  ]
+}

@@ -1,0 +1,2932 @@
+{
+  "SLG_Negotiation": [
+    {
+      "key": "EM00_C0001_Q1",
+      "value": "(How should I respond...?)"
+    },
+    {
+      "key": "EM00_C0002_Q1_A1",
+      "value": "Be my friend!"
+    },
+    {
+      "key": "EM00_C0002_Q1_A2",
+      "value": "I want items!"
+    },
+    {
+      "key": "EM00_C0002_Q1_A3",
+      "value": "Heal me!"
+    },
+    {
+      "key": "EM00_C0002_Q1_A4",
+      "value": "Get out of here!"
+    },
+    {
+      "key": "EM01_C0001",
+      "value": "I won’t forgive anyone that disturbs the\npeace in this area!"
+    },
+    {
+      "key": "EM01_C0001_Q1_A1",
+      "value": "You got it all wrong."
+    },
+    {
+      "key": "EM01_C0001_Q1_A2",
+      "value": "Yeah, so?"
+    },
+    {
+      "key": "EM01_C0001_Q1_A3",
+      "value": "YOU’RE the bad guy!"
+    },
+    {
+      "key": "EM01_C0001_Q1_A4",
+      "value": "[Just stare at it.]"
+    },
+    {
+      "key": "EM01_C0002",
+      "value": "What do you believe is “right”?"
+    },
+    {
+      "key": "EM01_C0002_Q1_A1",
+      "value": "Power, of course."
+    },
+    {
+      "key": "EM01_C0002_Q1_A2",
+      "value": "Never considered it."
+    },
+    {
+      "key": "EM01_C0002_Q1_A3",
+      "value": "The answer’s in you."
+    },
+    {
+      "key": "EM01_C0002_Q1_A4",
+      "value": "Acting with kindness."
+    },
+    {
+      "key": "EM01_C0003",
+      "value": "If you saw a raging fire heading towards\na crying child, what would you do?"
+    },
+    {
+      "key": "EM01_C0003_Q1_A1",
+      "value": "Save the kid, duh!"
+    },
+    {
+      "key": "EM01_C0003_Q1_A2",
+      "value": "Nothing to be done..."
+    },
+    {
+      "key": "EM01_C0003_Q1_A3",
+      "value": "Depends, really."
+    },
+    {
+      "key": "EM01_C0003_Q1_A4",
+      "value": "Yell “save yourself!”"
+    },
+    {
+      "key": "EM01_C0004",
+      "value": "Do you think you can do anything by force?"
+    },
+    {
+      "key": "EM01_C0004_Q1_A1",
+      "value": "Strength is justice."
+    },
+    {
+      "key": "EM01_C0004_Q1_A2",
+      "value": "There are other ways."
+    },
+    {
+      "key": "EM01_C0004_Q1_A3",
+      "value": "That’s my line!"
+    },
+    {
+      "key": "EM01_C0004_Q1_A4",
+      "value": "Not at all."
+    },
+    {
+      "key": "EM01_C0005",
+      "value": "Do you think I’m uptight?"
+    },
+    {
+      "key": "EM01_C0005_Q1_A1",
+      "value": "You seem serious."
+    },
+    {
+      "key": "EM01_C0005_Q1_A2",
+      "value": "Yeah, a real bore."
+    },
+    {
+      "key": "EM01_C0005_Q1_A3",
+      "value": "So much so it hurts."
+    },
+    {
+      "key": "EM01_C0005_Q1_A4",
+      "value": "[Remain silent.]"
+    },
+    {
+      "key": "EM01_C0006",
+      "value": "Can I trust humans...?"
+    },
+    {
+      "key": "EM01_C0006_Q1_A1",
+      "value": "You can and should!"
+    },
+    {
+      "key": "EM01_C0006_Q1_A2",
+      "value": "Get to know us first."
+    },
+    {
+      "key": "EM01_C0006_Q1_A3",
+      "value": "They may betray you..."
+    },
+    {
+      "key": "EM01_C0006_Q1_A4",
+      "value": "Not sure what to say."
+    },
+    {
+      "key": "EM01_C0007",
+      "value": "Would you rather fight a weak enemy or\na strong enemy?"
+    },
+    {
+      "key": "EM01_C0007_Q1_A1",
+      "value": "A weak one’s easier!"
+    },
+    {
+      "key": "EM01_C0007_Q1_A2",
+      "value": "Gimme a strong one."
+    },
+    {
+      "key": "EM01_C0007_Q1_A3",
+      "value": "Does it matter?"
+    },
+    {
+      "key": "EM01_C0007_Q1_A4",
+      "value": "Fighting is barbaric."
+    },
+    {
+      "key": "EM01_C0008",
+      "value": "I see..."
+    },
+    {
+      "key": "EM01_C0009",
+      "value": "You’re not an enemy?\nWhat on earth...?"
+    },
+    {
+      "key": "EM01_C0010",
+      "value": "It’s good there’s people like this around..."
+    },
+    {
+      "key": "EM01_C0011",
+      "value": "...I can’t believe it."
+    },
+    {
+      "key": "EM01_C0012",
+      "value": "You can’t be serious..."
+    },
+    {
+      "key": "EM01_C0013",
+      "value": "The time for talk is over!\nI’ll smash you to bits!"
+    },
+    {
+      "key": "EM01_C0014",
+      "value": "I guess I can hear you out."
+    },
+    {
+      "key": "EM01_C0015",
+      "value": "Fine, I’ll go with you."
+    },
+    {
+      "key": "EM01_C0016",
+      "value": "Sure, if you need it I’ll give it to you."
+    },
+    {
+      "key": "EM01_C0017",
+      "value": "This should keep you in the fight."
+    },
+    {
+      "key": "EM01_C0018",
+      "value": "All right, until next time."
+    },
+    {
+      "key": "EM02_C0001",
+      "value": "Why do you wish to fight us?"
+    },
+    {
+      "key": "EM02_C0001_Q1_A1",
+      "value": "To return to my world."
+    },
+    {
+      "key": "EM02_C0001_Q1_A2",
+      "value": "I just like to fight!"
+    },
+    {
+      "key": "EM02_C0001_Q1_A3",
+      "value": "For the sake of peace."
+    },
+    {
+      "key": "EM02_C0001_Q1_A4",
+      "value": "I won’t tell you."
+    },
+    {
+      "key": "EM02_C0002",
+      "value": "Doesn’t the tranquil morning air just get\nyour motor running?"
+    },
+    {
+      "key": "EM02_C0002_Q1_A1",
+      "value": "Yeah, it’s refreshing."
+    },
+    {
+      "key": "EM02_C0002_Q1_A2",
+      "value": "I sleep until noon..."
+    },
+    {
+      "key": "EM02_C0002_Q1_A3",
+      "value": "I’m a night owl."
+    },
+    {
+      "key": "EM02_C0002_Q1_A4",
+      "value": "Good start to the day."
+    },
+    {
+      "key": "EM02_C0003",
+      "value": "I have something I must protect.\nCan you say the same?"
+    },
+    {
+      "key": "EM02_C0003_Q1_A1",
+      "value": "I have that, too."
+    },
+    {
+      "key": "EM02_C0003_Q1_A2",
+      "value": "Let me think about it."
+    },
+    {
+      "key": "EM02_C0003_Q1_A3",
+      "value": "It’s a secret."
+    },
+    {
+      "key": "EM02_C0003_Q1_A4",
+      "value": "I wonder...?"
+    },
+    {
+      "key": "EM02_C0004",
+      "value": "Facing a strong opponent sure gets your heart\nracing, doesn’t it?"
+    },
+    {
+      "key": "EM02_C0004_Q1_A1",
+      "value": "I’d have to disagree."
+    },
+    {
+      "key": "EM02_C0004_Q1_A2",
+      "value": "Yeah, so exciting!"
+    },
+    {
+      "key": "EM02_C0004_Q1_A3",
+      "value": "Gives me cold feet..."
+    },
+    {
+      "key": "EM02_C0004_Q1_A4",
+      "value": "Wish I felt the same."
+    },
+    {
+      "key": "EM02_C0005",
+      "value": "I sometimes get lost in thought by the river.\nI wouldn’t give up that time for the world!"
+    },
+    {
+      "key": "EM02_C0005_Q1_A1",
+      "value": "So much free time!"
+    },
+    {
+      "key": "EM02_C0005_Q1_A2",
+      "value": "Don’t think too much!"
+    },
+    {
+      "key": "EM02_C0005_Q1_A3",
+      "value": "I’d rather go swim."
+    },
+    {
+      "key": "EM02_C0005_Q1_A4",
+      "value": "Water sure is calming."
+    },
+    {
+      "key": "EM02_C0006",
+      "value": "I may seem tough, but I actually love to grow\nflowers... Is that strange?"
+    },
+    {
+      "key": "EM02_C0006_Q1_A1",
+      "value": "Yeah, a little bit."
+    },
+    {
+      "key": "EM02_C0006_Q1_A2",
+      "value": "Then just stop!"
+    },
+    {
+      "key": "EM02_C0006_Q1_A3",
+      "value": "I think it fits!"
+    },
+    {
+      "key": "EM02_C0006_Q1_A4",
+      "value": "Do whatever you like."
+    },
+    {
+      "key": "EM02_C0007",
+      "value": "A starry sky, or a blue sky.\nWhich do you prefer?"
+    },
+    {
+      "key": "EM02_C0007_Q1_A1",
+      "value": "A romantic starry sky!"
+    },
+    {
+      "key": "EM02_C0007_Q1_A2",
+      "value": "A clear blue sky!"
+    },
+    {
+      "key": "EM02_C0007_Q1_A3",
+      "value": "Ummm..."
+    },
+    {
+      "key": "EM02_C0007_Q1_A4",
+      "value": "It’s hard to choose."
+    },
+    {
+      "key": "EM02_C0008",
+      "value": "My... Now that’s interesting."
+    },
+    {
+      "key": "EM02_C0009",
+      "value": "What is this...\nI sense courage from this one..."
+    },
+    {
+      "key": "EM02_C0010",
+      "value": "Heh, I see... I think we’ll get along\njust fine."
+    },
+    {
+      "key": "EM02_C0011",
+      "value": "You’ve killed the mood."
+    },
+    {
+      "key": "EM02_C0012",
+      "value": "Hmph... Looks like we don’t see eye-to-eye."
+    },
+    {
+      "key": "EM02_C0013",
+      "value": "What a creep!\nI’ll bury you!"
+    },
+    {
+      "key": "EM02_C0014",
+      "value": "You wanted something, didn’t you?\nGo ahead, try me."
+    },
+    {
+      "key": "EM02_C0015",
+      "value": "You need my strength?\nAll right."
+    },
+    {
+      "key": "EM02_C0016",
+      "value": "Here, take it if it’ll help."
+    },
+    {
+      "key": "EM02_C0017",
+      "value": "Come now, stand and fight!"
+    },
+    {
+      "key": "EM02_C0018",
+      "value": "In that case, I’ll be seeing you."
+    },
+    {
+      "key": "EM03_C0001",
+      "value": "I’ll pulverize ya!\nGwaaahahahahaaa!"
+    },
+    {
+      "key": "EM03_C0001_Q1_A1",
+      "value": "Not if I beat you!"
+    },
+    {
+      "key": "EM03_C0001_Q1_A2",
+      "value": "Nice, a tough one!"
+    },
+    {
+      "key": "EM03_C0001_Q1_A3",
+      "value": "Scary! But I’ll win."
+    },
+    {
+      "key": "EM03_C0001_Q1_A4",
+      "value": "This’ll be your grave."
+    },
+    {
+      "key": "EM03_C0002",
+      "value": "Arrrrgh! Grraaaargh!\nAnyone else just gets in my way!"
+    },
+    {
+      "key": "EM03_C0002_Q1_A1",
+      "value": "Calm down already!"
+    },
+    {
+      "key": "EM03_C0002_Q1_A2",
+      "value": "We can’t live alone."
+    },
+    {
+      "key": "EM03_C0002_Q1_A3",
+      "value": "That’s crazy talk."
+    },
+    {
+      "key": "EM03_C0002_Q1_A4",
+      "value": "[Let it simmer down.]"
+    },
+    {
+      "key": "EM03_C0003",
+      "value": "Ain’t you a frail-looking thing.\nYou eating enough meat?"
+    },
+    {
+      "key": "EM03_C0003_Q1_A1",
+      "value": "Not really."
+    },
+    {
+      "key": "EM03_C0003_Q1_A2",
+      "value": "I prefer vegetables."
+    },
+    {
+      "key": "EM03_C0003_Q1_A3",
+      "value": "I eat everything!"
+    },
+    {
+      "key": "EM03_C0003_Q1_A4",
+      "value": "You look strong."
+    },
+    {
+      "key": "EM03_C0004",
+      "value": "This is my turf!\nLeave some food and get outta here!"
+    },
+    {
+      "key": "EM03_C0004_Q1_A1",
+      "value": "You give ME food!"
+    },
+    {
+      "key": "EM03_C0004_Q1_A2",
+      "value": "Hunt for yourself!"
+    },
+    {
+      "key": "EM03_C0004_Q1_A3",
+      "value": "I need this food."
+    },
+    {
+      "key": "EM03_C0004_Q1_A4",
+      "value": "I’ll think about it."
+    },
+    {
+      "key": "EM03_C0005",
+      "value": "I want to do nothing but fun things!\nYou too, right?"
+    },
+    {
+      "key": "EM03_C0005_Q1_A1",
+      "value": "I’m not like you."
+    },
+    {
+      "key": "EM03_C0005_Q1_A2",
+      "value": "You know your stuff!"
+    },
+    {
+      "key": "EM03_C0005_Q1_A3",
+      "value": "Grin and bear it."
+    },
+    {
+      "key": "EM03_C0005_Q1_A4",
+      "value": "Even more than you!"
+    },
+    {
+      "key": "EM03_C0006",
+      "value": "Uurrgh... Waiting around makes me wanna\ngo crazy!"
+    },
+    {
+      "key": "EM03_C0006_Q1_A1",
+      "value": "I know what you mean."
+    },
+    {
+      "key": "EM03_C0006_Q1_A2",
+      "value": "Can’t say the same..."
+    },
+    {
+      "key": "EM03_C0006_Q1_A3",
+      "value": "Have more patience!"
+    },
+    {
+      "key": "EM03_C0006_Q1_A4",
+      "value": "[Stare in amazement.]"
+    },
+    {
+      "key": "EM03_C0007",
+      "value": "Did you know? Taking a nap after stuffing\nyour face is just the best!"
+    },
+    {
+      "key": "EM03_C0007_Q1_A1",
+      "value": "Yeah, the best!"
+    },
+    {
+      "key": "EM03_C0007_Q1_A2",
+      "value": "It’s bad for your gut."
+    },
+    {
+      "key": "EM03_C0007_Q1_A3",
+      "value": "Really? I can’t sleep."
+    },
+    {
+      "key": "EM03_C0007_Q1_A4",
+      "value": "Thanks for the lesson!"
+    },
+    {
+      "key": "EM03_C0008",
+      "value": "Wahahaha, good, goood!"
+    },
+    {
+      "key": "EM03_C0009",
+      "value": "Hrrmph... Not bad!"
+    },
+    {
+      "key": "EM03_C0010",
+      "value": "Graaaargh! Yeah, that’s it!\nI know just what you mean!"
+    },
+    {
+      "key": "EM03_C0011",
+      "value": "Hmph... Yer so lame."
+    },
+    {
+      "key": "EM03_C0012",
+      "value": "Nrrrgh... All of your answers are boring!"
+    },
+    {
+      "key": "EM03_C0013",
+      "value": "RAAAARGH!\nYou’re in trouble now!"
+    },
+    {
+      "key": "EM03_C0014",
+      "value": "So, whaddaya want?\nGuess I’ll hear ya out."
+    },
+    {
+      "key": "EM03_C0015",
+      "value": "Oohhhh!\nNeed my help, do ya?!"
+    },
+    {
+      "key": "EM03_C0016",
+      "value": "Dunno if this’ll help, but take it."
+    },
+    {
+      "key": "EM03_C0017",
+      "value": "Hey now... Pull yerself together, already!"
+    },
+    {
+      "key": "EM03_C0018",
+      "value": "Man, what a letdown... Ah well, I’m out."
+    },
+    {
+      "key": "EM04_C0001",
+      "value": "I’d like to avoid a pointless battle,\nif possible..."
+    },
+    {
+      "key": "EM04_C0001_Q1_A1",
+      "value": "And yet fight we must."
+    },
+    {
+      "key": "EM04_C0001_Q1_A2",
+      "value": "There’s no such thing!"
+    },
+    {
+      "key": "EM04_C0001_Q1_A3",
+      "value": "Get ready."
+    },
+    {
+      "key": "EM04_C0001_Q1_A4",
+      "value": "Then let’s retreat."
+    },
+    {
+      "key": "EM04_C0002",
+      "value": "What would you do if someone told you an idea\nyou believed in was incorrect?"
+    },
+    {
+      "key": "EM04_C0002_Q1_A1",
+      "value": "Get annoyed!"
+    },
+    {
+      "key": "EM04_C0002_Q1_A2",
+      "value": "Thank that person."
+    },
+    {
+      "key": "EM04_C0002_Q1_A3",
+      "value": "I’d be embarrassed."
+    },
+    {
+      "key": "EM04_C0002_Q1_A4",
+      "value": "I’d claim I was right!"
+    },
+    {
+      "key": "EM04_C0003",
+      "value": "Sometimes you should act on emotion instead\nof logic, don’t you think?"
+    },
+    {
+      "key": "EM04_C0003_Q1_A1",
+      "value": "That sounds dangerous."
+    },
+    {
+      "key": "EM04_C0003_Q1_A2",
+      "value": "Leap before you look!"
+    },
+    {
+      "key": "EM04_C0003_Q1_A3",
+      "value": "Be true to yourself."
+    },
+    {
+      "key": "EM04_C0003_Q1_A4",
+      "value": "Efficiency is key."
+    },
+    {
+      "key": "EM04_C0004",
+      "value": "If your friend was off causing trouble,\nhow would you deal with it?"
+    },
+    {
+      "key": "EM04_C0004_Q1_A1",
+      "value": "With my fists!"
+    },
+    {
+      "key": "EM04_C0004_Q1_A2",
+      "value": "I’d protect my friend."
+    },
+    {
+      "key": "EM04_C0004_Q1_A3",
+      "value": "I’d scold them!"
+    },
+    {
+      "key": "EM04_C0004_Q1_A4",
+      "value": "Nothing to do with me."
+    },
+    {
+      "key": "EM04_C0005",
+      "value": "Is wanting quiet time to yourself such\na crime?"
+    },
+    {
+      "key": "EM04_C0005_Q1_A1",
+      "value": "No, but it’s not easy."
+    },
+    {
+      "key": "EM04_C0005_Q1_A2",
+      "value": "You should go for it!"
+    },
+    {
+      "key": "EM04_C0005_Q1_A3",
+      "value": "I prefer fun."
+    },
+    {
+      "key": "EM04_C0005_Q1_A4",
+      "value": "Yeah, shame on you!"
+    },
+    {
+      "key": "EM04_C0006",
+      "value": "How do clouds in the sky look to you?"
+    },
+    {
+      "key": "EM04_C0006_Q1_A1",
+      "value": "Fluffy and tasty."
+    },
+    {
+      "key": "EM04_C0006_Q1_A2",
+      "value": "I wanna ride one!"
+    },
+    {
+      "key": "EM04_C0006_Q1_A3",
+      "value": "Always transforming."
+    },
+    {
+      "key": "EM04_C0006_Q1_A4",
+      "value": "Makes you think, huh?"
+    },
+    {
+      "key": "EM04_C0007",
+      "value": "Looking at innocent monsters really puts your\nheart at ease, doesn’t it?"
+    },
+    {
+      "key": "EM04_C0007_Q1_A1",
+      "value": "Not for me, nope."
+    },
+    {
+      "key": "EM04_C0007_Q1_A2",
+      "value": "They’re so cute!"
+    },
+    {
+      "key": "EM04_C0007_Q1_A3",
+      "value": "Love the nice guy act."
+    },
+    {
+      "key": "EM04_C0007_Q1_A4",
+      "value": "What a gentle soul!"
+    },
+    {
+      "key": "EM04_C0008",
+      "value": "I see, it looks like we’re kindred spirits!"
+    },
+    {
+      "key": "EM04_C0009",
+      "value": "Whoa...\nIs this what it means to have common ground?"
+    },
+    {
+      "key": "EM04_C0010",
+      "value": "It looks like you and I can truly\nunderstand each other."
+    },
+    {
+      "key": "EM04_C0011",
+      "value": "I guess we don’t think alike."
+    },
+    {
+      "key": "EM04_C0012",
+      "value": "Don’t disappoint me."
+    },
+    {
+      "key": "EM04_C0013",
+      "value": "Perhaps it’s our destiny to fight..."
+    },
+    {
+      "key": "EM04_C0014",
+      "value": "What do you want from me?"
+    },
+    {
+      "key": "EM04_C0015",
+      "value": "You are worthy of my allegiance."
+    },
+    {
+      "key": "EM04_C0016",
+      "value": "Then I’ll give this to you."
+    },
+    {
+      "key": "EM04_C0017",
+      "value": "This power... May it provide you nourishment."
+    },
+    {
+      "key": "EM04_C0018",
+      "value": "I see... In that case, I bid you farewell."
+    },
+    {
+      "key": "EM05_C0001",
+      "value": "Inferior creature, surrender and you may\nyet live!"
+    },
+    {
+      "key": "EM05_C0001_Q1_A1",
+      "value": "Like I’d believe that!"
+    },
+    {
+      "key": "EM05_C0001_Q1_A2",
+      "value": "Humans ain’t inferior!"
+    },
+    {
+      "key": "EM05_C0001_Q1_A3",
+      "value": "Surrender’s an option."
+    },
+    {
+      "key": "EM05_C0001_Q1_A4",
+      "value": "How about YOU give up?"
+    },
+    {
+      "key": "EM05_C0002",
+      "value": "Supreme beings can’t be understood by others.\nBut that doesn’t mean I’m lonely or anything!"
+    },
+    {
+      "key": "EM05_C0002_Q1_A1",
+      "value": "Ah... You feel alone?"
+    },
+    {
+      "key": "EM05_C0002_Q1_A2",
+      "value": "A lone wolf, huh?"
+    },
+    {
+      "key": "EM05_C0002_Q1_A3",
+      "value": "I get it. Me too."
+    },
+    {
+      "key": "EM05_C0002_Q1_A4",
+      "value": "[Look on with pity.]"
+    },
+    {
+      "key": "EM05_C0003",
+      "value": "Some things in this world cannot be\noverturned... Do you know of what I speak?"
+    },
+    {
+      "key": "EM05_C0003_Q1_A1",
+      "value": "You mean power?"
+    },
+    {
+      "key": "EM05_C0003_Q1_A2",
+      "value": "Yeah, money!"
+    },
+    {
+      "key": "EM05_C0003_Q1_A3",
+      "value": "Talent, right?"
+    },
+    {
+      "key": "EM05_C0003_Q1_A4",
+      "value": "There’s no such thing!"
+    },
+    {
+      "key": "EM05_C0004",
+      "value": "It’s hard to believe there are monsters out\nthere that coexist with humans..."
+    },
+    {
+      "key": "EM05_C0004_Q1_A1",
+      "value": "Friends help friends!"
+    },
+    {
+      "key": "EM05_C0004_Q1_A2",
+      "value": "It’s a way to survive."
+    },
+    {
+      "key": "EM05_C0004_Q1_A3",
+      "value": "We needs servants!"
+    },
+    {
+      "key": "EM05_C0004_Q1_A4",
+      "value": "It’s common interests."
+    },
+    {
+      "key": "EM05_C0005",
+      "value": "Those whose positions waver from little more\nthan words do not amount to much."
+    },
+    {
+      "key": "EM05_C0005_Q1_A1",
+      "value": "I respect your spirit!"
+    },
+    {
+      "key": "EM05_C0005_Q1_A2",
+      "value": "Hearts will waver."
+    },
+    {
+      "key": "EM05_C0005_Q1_A3",
+      "value": "Never happened to me."
+    },
+    {
+      "key": "EM05_C0005_Q1_A4",
+      "value": "Maybe try listening?"
+    },
+    {
+      "key": "EM05_C0006",
+      "value": "Do you like the moon? The sight of a full\nmoon is so heartwarming, don’t you think?"
+    },
+    {
+      "key": "EM05_C0006_Q1_A1",
+      "value": "Reminds you of you?"
+    },
+    {
+      "key": "EM05_C0006_Q1_A2",
+      "value": "I wanna eat cheese."
+    },
+    {
+      "key": "EM05_C0006_Q1_A3",
+      "value": "Makes me feel alive!"
+    },
+    {
+      "key": "EM05_C0006_Q1_A4",
+      "value": "Its light is useful."
+    },
+    {
+      "key": "EM05_C0007",
+      "value": "What would you say is your favorite\nexpression?"
+    },
+    {
+      "key": "EM05_C0007_Q1_A1",
+      "value": "Two birds, one stone."
+    },
+    {
+      "key": "EM05_C0007_Q1_A2",
+      "value": "Survival of fittest."
+    },
+    {
+      "key": "EM05_C0007_Q1_A3",
+      "value": "Steady progress."
+    },
+    {
+      "key": "EM05_C0007_Q1_A4",
+      "value": "Can’t say I have one."
+    },
+    {
+      "key": "EM05_C0008",
+      "value": "Ho ho ho, your answers please me!"
+    },
+    {
+      "key": "EM05_C0009",
+      "value": "Hmph, I admit I’m impressed...\nYou are deserving of praise!"
+    },
+    {
+      "key": "EM05_C0010",
+      "value": "I see, so this is how humans are? \nFascinating..."
+    },
+    {
+      "key": "EM05_C0011",
+      "value": "...I see, so that’s what you amount to."
+    },
+    {
+      "key": "EM05_C0012",
+      "value": "It was pointless to expect anything of merit."
+    },
+    {
+      "key": "EM05_C0013",
+      "value": "Harumph! It seems I cannot understand\nsuch an inferior being after all!"
+    },
+    {
+      "key": "EM05_C0014",
+      "value": "I shall heed a single request.\nYou’ve earned it!"
+    },
+    {
+      "key": "EM05_C0015",
+      "value": "...Very well.\nBut do not disappoint me, you hear?"
+    },
+    {
+      "key": "EM05_C0016",
+      "value": "If you want it so badly, you can have it!"
+    },
+    {
+      "key": "EM05_C0017",
+      "value": "Very well, I suppose you deserve this\nhandout."
+    },
+    {
+      "key": "EM05_C0018",
+      "value": "Until we meet again, human."
+    },
+    {
+      "key": "EM06_C0001",
+      "value": "I don’t care how tough you are,\nI’m not gonna lose!"
+    },
+    {
+      "key": "EM06_C0001_Q1_A1",
+      "value": "I don’t want to fight."
+    },
+    {
+      "key": "EM06_C0001_Q1_A2",
+      "value": "I’m not gonna lose!"
+    },
+    {
+      "key": "EM06_C0001_Q1_A3",
+      "value": "Nice, so energetic!"
+    },
+    {
+      "key": "EM06_C0001_Q1_A4",
+      "value": "I’ll crush you, punk!"
+    },
+    {
+      "key": "EM06_C0002",
+      "value": "What do you do for fun?"
+    },
+    {
+      "key": "EM06_C0002_Q1_A1",
+      "value": "Climbing trees."
+    },
+    {
+      "key": "EM06_C0002_Q1_A2",
+      "value": "Hide and seek."
+    },
+    {
+      "key": "EM06_C0002_Q1_A3",
+      "value": "Tag!"
+    },
+    {
+      "key": "EM06_C0002_Q1_A4",
+      "value": "Who has time for fun?"
+    },
+    {
+      "key": "EM06_C0003",
+      "value": "Someday I’m gonna run this joint!"
+    },
+    {
+      "key": "EM06_C0003_Q1_A1",
+      "value": "Good to have goals."
+    },
+    {
+      "key": "EM06_C0003_Q1_A2",
+      "value": "Let me work for you!"
+    },
+    {
+      "key": "EM06_C0003_Q1_A3",
+      "value": "Not if I can help it."
+    },
+    {
+      "key": "EM06_C0003_Q1_A4",
+      "value": "Not a chance!"
+    },
+    {
+      "key": "EM06_C0004",
+      "value": "Why are leaves green?"
+    },
+    {
+      "key": "EM06_C0004_Q1_A1",
+      "value": "To make people calm."
+    },
+    {
+      "key": "EM06_C0004_Q1_A2",
+      "value": "Or yellow, or red..."
+    },
+    {
+      "key": "EM06_C0004_Q1_A3",
+      "value": "It’s the chlorophyll."
+    },
+    {
+      "key": "EM06_C0004_Q1_A4",
+      "value": "Can’t say, really."
+    },
+    {
+      "key": "EM06_C0005",
+      "value": "Have you ever told a lie?"
+    },
+    {
+      "key": "EM06_C0005_Q1_A1",
+      "value": "Once, for a friend."
+    },
+    {
+      "key": "EM06_C0005_Q1_A2",
+      "value": "Never ever."
+    },
+    {
+      "key": "EM06_C0005_Q1_A3",
+      "value": "Countless times."
+    },
+    {
+      "key": "EM06_C0005_Q1_A4",
+      "value": "I don’t want to say."
+    },
+    {
+      "key": "EM06_C0006",
+      "value": "What’s the most important thing to you?"
+    },
+    {
+      "key": "EM06_C0006_Q1_A1",
+      "value": "My friends."
+    },
+    {
+      "key": "EM06_C0006_Q1_A2",
+      "value": "Food!"
+    },
+    {
+      "key": "EM06_C0006_Q1_A3",
+      "value": "Health."
+    },
+    {
+      "key": "EM06_C0006_Q1_A4",
+      "value": "Myself."
+    },
+    {
+      "key": "EM06_C0007",
+      "value": "Whenever I meet a scary monster, I just start\napologizing. Weird, right?"
+    },
+    {
+      "key": "EM06_C0007_Q1_A1",
+      "value": "You’re a nice ’mon."
+    },
+    {
+      "key": "EM06_C0007_Q1_A2",
+      "value": "I guess it’s instinct?"
+    },
+    {
+      "key": "EM06_C0007_Q1_A3",
+      "value": "You don’t wanna fight."
+    },
+    {
+      "key": "EM06_C0007_Q1_A4",
+      "value": "You’re a scaredy-cat."
+    },
+    {
+      "key": "EM06_C0008",
+      "value": "Hey, you’re something special..."
+    },
+    {
+      "key": "EM06_C0009",
+      "value": "Well now, I think you and I can get along!"
+    },
+    {
+      "key": "EM06_C0010",
+      "value": "I like you! Today I found a new soul mate!"
+    },
+    {
+      "key": "EM06_C0011",
+      "value": "Boy, you’re a pain..."
+    },
+    {
+      "key": "EM06_C0012",
+      "value": "You’re trying to make me angry, aren’t you?"
+    },
+    {
+      "key": "EM06_C0013",
+      "value": "Now I’m mad! Get ready for some pain!"
+    },
+    {
+      "key": "EM06_C0014",
+      "value": "What’d you wanna ask me?"
+    },
+    {
+      "key": "EM06_C0015",
+      "value": "I’ll go with you!"
+    },
+    {
+      "key": "EM06_C0016",
+      "value": "I’ll give you this!"
+    },
+    {
+      "key": "EM06_C0017",
+      "value": "Feel better!"
+    },
+    {
+      "key": "EM06_C0018",
+      "value": "Later!"
+    },
+    {
+      "key": "EM07_C0001",
+      "value": "Hey, don’t you think I’m cute?"
+    },
+    {
+      "key": "EM07_C0001_Q1_A1",
+      "value": "Yeah, pretty cute."
+    },
+    {
+      "key": "EM07_C0001_Q1_A2",
+      "value": "Not cute at all."
+    },
+    {
+      "key": "EM07_C0001_Q1_A3",
+      "value": "Don’t ask me!"
+    },
+    {
+      "key": "EM07_C0001_Q1_A4",
+      "value": "[Say nothing.]"
+    },
+    {
+      "key": "EM07_C0002",
+      "value": "Why are you staring at me like that?\nDid I upset you...?"
+    },
+    {
+      "key": "EM07_C0002_Q1_A1",
+      "value": "You’re captivating!"
+    },
+    {
+      "key": "EM07_C0002_Q1_A2",
+      "value": "No, don’t be scared."
+    },
+    {
+      "key": "EM07_C0002_Q1_A3",
+      "value": "You better apologize."
+    },
+    {
+      "key": "EM07_C0002_Q1_A4",
+      "value": "Yeah, get outta here!"
+    },
+    {
+      "key": "EM07_C0003",
+      "value": "Watch your feet!\nThere’s a little bug down there!"
+    },
+    {
+      "key": "EM07_C0003_Q1_A1",
+      "value": "[Let the bug go.]"
+    },
+    {
+      "key": "EM07_C0003_Q1_A2",
+      "value": "[Don’t step on it.]"
+    },
+    {
+      "key": "EM07_C0003_Q1_A3",
+      "value": "[Step on the bug.]"
+    },
+    {
+      "key": "EM07_C0003_Q1_A4",
+      "value": "[You can’t see it.]"
+    },
+    {
+      "key": "EM07_C0004",
+      "value": "La la laaa laaaaa ♪\nCome on, sing with me!"
+    },
+    {
+      "key": "EM07_C0004_Q1_A1",
+      "value": "[Sing with it.]"
+    },
+    {
+      "key": "EM07_C0004_Q1_A2",
+      "value": "[Clap to the beat.]"
+    },
+    {
+      "key": "EM07_C0004_Q1_A3",
+      "value": "[Dance like crazy.]"
+    },
+    {
+      "key": "EM07_C0004_Q1_A4",
+      "value": "[Boo the song.]"
+    },
+    {
+      "key": "EM07_C0005",
+      "value": "If you could have any wish granted,\nwhat would it be?"
+    },
+    {
+      "key": "EM07_C0005_Q1_A1",
+      "value": "To fly in the sky!"
+    },
+    {
+      "key": "EM07_C0005_Q1_A2",
+      "value": "To make people happy!"
+    },
+    {
+      "key": "EM07_C0005_Q1_A3",
+      "value": "To defeat you!"
+    },
+    {
+      "key": "EM07_C0005_Q1_A4",
+      "value": "A pointless question."
+    },
+    {
+      "key": "EM07_C0006",
+      "value": "I’m sick of fighting.\nCan we play something else?"
+    },
+    {
+      "key": "EM07_C0006_Q1_A1",
+      "value": "Yeah, let’s do it!"
+    },
+    {
+      "key": "EM07_C0006_Q1_A2",
+      "value": "Want to take a break?"
+    },
+    {
+      "key": "EM07_C0006_Q1_A3",
+      "value": "You’ll just get bored."
+    },
+    {
+      "key": "EM07_C0006_Q1_A4",
+      "value": "No, let’s keep going!"
+    },
+    {
+      "key": "EM07_C0007",
+      "value": "I just adore that red thing on your head!"
+    },
+    {
+      "key": "EM07_C0007_Q1_A1",
+      "value": "You look cool, too!"
+    },
+    {
+      "key": "EM07_C0007_Q1_A2",
+      "value": "You want one?"
+    },
+    {
+      "key": "EM07_C0007_Q1_A3",
+      "value": "I’m handsome!"
+    },
+    {
+      "key": "EM07_C0007_Q1_A4",
+      "value": "Enough flattery."
+    },
+    {
+      "key": "EM07_C0008",
+      "value": "Wow, you’re more cool than I thought\nyou’d be!"
+    },
+    {
+      "key": "EM07_C0009",
+      "value": "Hee hee!\nNow I’m interested in you!"
+    },
+    {
+      "key": "EM07_C0010",
+      "value": "I think I like you!"
+    },
+    {
+      "key": "EM07_C0011",
+      "value": "Hmph, how rude!"
+    },
+    {
+      "key": "EM07_C0012",
+      "value": "Now that’s just mean!\nYou’re making me mad!"
+    },
+    {
+      "key": "EM07_C0013",
+      "value": "I haaaaaate people like you!"
+    },
+    {
+      "key": "EM07_C0014",
+      "value": "I’ll do whatever I can to help!\nJust name it. ♪"
+    },
+    {
+      "key": "EM07_C0015",
+      "value": "Let’s make beautiful music together!"
+    },
+    {
+      "key": "EM07_C0016",
+      "value": "Enjoy using this!"
+    },
+    {
+      "key": "EM07_C0017",
+      "value": "Go away, owwies!"
+    },
+    {
+      "key": "EM07_C0018",
+      "value": "Bye bye!"
+    },
+    {
+      "key": "EM08_C0001",
+      "value": "Hey, what kinda food do ya like?"
+    },
+    {
+      "key": "EM08_C0001_Q1_A1",
+      "value": "Love me some meat!"
+    },
+    {
+      "key": "EM08_C0001_Q1_A2",
+      "value": "Veggies all the way."
+    },
+    {
+      "key": "EM08_C0001_Q1_A3",
+      "value": "Fruit’s my favorite!"
+    },
+    {
+      "key": "EM08_C0001_Q1_A4",
+      "value": "Why should I tell you?"
+    },
+    {
+      "key": "EM08_C0002",
+      "value": "Whaddaya think’d be good as my next prank?"
+    },
+    {
+      "key": "EM08_C0002_Q1_A1",
+      "value": "A pit trap?"
+    },
+    {
+      "key": "EM08_C0002_Q1_A2",
+      "value": "Water balloons?"
+    },
+    {
+      "key": "EM08_C0002_Q1_A3",
+      "value": "Tripping someone?"
+    },
+    {
+      "key": "EM08_C0002_Q1_A4",
+      "value": "Pranks are bad!"
+    },
+    {
+      "key": "EM08_C0003_01",
+      "value": "I don’t feel so good... Someone, help..."
+    },
+    {
+      "key": "EM08_C0003_02",
+      "value": "...Pffft, ha ha ha, just kidding!\nDid I getcha?!"
+    },
+    {
+      "key": "EM08_C0003_Q1_A1",
+      "value": "Whoa, you scared me!"
+    },
+    {
+      "key": "EM08_C0003_Q1_A2",
+      "value": "I’m glad you’re okay."
+    },
+    {
+      "key": "EM08_C0003_Q1_A3",
+      "value": "What awful acting..."
+    },
+    {
+      "key": "EM08_C0003_Q1_A4",
+      "value": "That was lame!"
+    },
+    {
+      "key": "EM08_C0004",
+      "value": "Don’t you think every day’s just sooo boring?"
+    },
+    {
+      "key": "EM08_C0004_Q1_A1",
+      "value": "I’m too busy living."
+    },
+    {
+      "key": "EM08_C0004_Q1_A2",
+      "value": "Makes me wanna yawn."
+    },
+    {
+      "key": "EM08_C0004_Q1_A3",
+      "value": "Let’s go do something!"
+    },
+    {
+      "key": "EM08_C0004_Q1_A4",
+      "value": "Wanna fight for fun?"
+    },
+    {
+      "key": "EM08_C0005",
+      "value": "Go on... Try guessing what I think of ya!"
+    },
+    {
+      "key": "EM08_C0005_Q1_A1",
+      "value": "That I’m cool?"
+    },
+    {
+      "key": "EM08_C0005_Q1_A2",
+      "value": "That I’m easygoing?"
+    },
+    {
+      "key": "EM08_C0005_Q1_A3",
+      "value": "That I’m trouble..."
+    },
+    {
+      "key": "EM08_C0005_Q1_A4",
+      "value": "That I’m funny!"
+    },
+    {
+      "key": "EM08_C0006",
+      "value": "Boy, you’re a tough-lookin’ mug, aren’t ya?!\nI bet I’d lose if we threw down..."
+    },
+    {
+      "key": "EM08_C0006_Q1_A1",
+      "value": "Have more confidence!"
+    },
+    {
+      "key": "EM08_C0006_Q1_A2",
+      "value": "I’d definitely lose."
+    },
+    {
+      "key": "EM08_C0006_Q1_A3",
+      "value": "We’d probably tie."
+    },
+    {
+      "key": "EM08_C0006_Q1_A4",
+      "value": "Why don’t we find out?"
+    },
+    {
+      "key": "EM08_C0007",
+      "value": "I don’t care if you smile, or laugh, or\nwhatever! I ain’t gonna trust no human!"
+    },
+    {
+      "key": "EM08_C0007_Q1_A1",
+      "value": "I’ll earn your trust!"
+    },
+    {
+      "key": "EM08_C0007_Q1_A2",
+      "value": "I trust you."
+    },
+    {
+      "key": "EM08_C0007_Q1_A3",
+      "value": "What can I do, then?"
+    },
+    {
+      "key": "EM08_C0007_Q1_A4",
+      "value": "Fine by me."
+    },
+    {
+      "key": "EM08_C0008",
+      "value": "Huh.\nI get the feeling we’re on the same page."
+    },
+    {
+      "key": "EM08_C0009",
+      "value": "Nice, I’m all pumped up now!"
+    },
+    {
+      "key": "EM08_C0010",
+      "value": "Wah ha ha!\nSeriously, you’re the best!　"
+    },
+    {
+      "key": "EM08_C0011",
+      "value": "I don’t get you, man!"
+    },
+    {
+      "key": "EM08_C0012",
+      "value": "The heck?! What a lamebrain!"
+    },
+    {
+      "key": "EM08_C0013",
+      "value": "Enough already!\nDon’t you ever talk to me again, y’hear?!"
+    },
+    {
+      "key": "EM08_C0014",
+      "value": "So, what’s the word?\nG’wan, spit it out."
+    },
+    {
+      "key": "EM08_C0015",
+      "value": "Fiiine, fine, I’ll go along with you."
+    },
+    {
+      "key": "EM08_C0016",
+      "value": "Yo, think fast!"
+    },
+    {
+      "key": "EM08_C0017",
+      "value": "Those scratches ain’t nothing!"
+    },
+    {
+      "key": "EM08_C0018",
+      "value": "Peace out!"
+    },
+    {
+      "key": "EM09_C0001",
+      "value": "The goal of this battle is to test each\nother’s strength."
+    },
+    {
+      "key": "EM09_C0001_Q1_A1",
+      "value": "I’ll come out on top!"
+    },
+    {
+      "key": "EM09_C0001_Q1_A2",
+      "value": "Fighting sounds scary."
+    },
+    {
+      "key": "EM09_C0001_Q1_A3",
+      "value": "I’m the stronger one!"
+    },
+    {
+      "key": "EM09_C0001_Q1_A4",
+      "value": "Who has time for that?"
+    },
+    {
+      "key": "EM09_C0002",
+      "value": "Are there bonds stronger than the family?"
+    },
+    {
+      "key": "EM09_C0002_Q1_A1",
+      "value": "There must be."
+    },
+    {
+      "key": "EM09_C0002_Q1_A2",
+      "value": "I really can’t say."
+    },
+    {
+      "key": "EM09_C0002_Q1_A3",
+      "value": "Not a chance."
+    },
+    {
+      "key": "EM09_C0002_Q1_A4",
+      "value": "Why should I answer?"
+    },
+    {
+      "key": "EM09_C0003",
+      "value": "It’s better to take some sort of action than\njust sit idly by and worry."
+    },
+    {
+      "key": "EM09_C0003_Q1_A1",
+      "value": "Look before you leap!"
+    },
+    {
+      "key": "EM09_C0003_Q1_A2",
+      "value": "Clean your own messes."
+    },
+    {
+      "key": "EM09_C0003_Q1_A3",
+      "value": "Gotta move forward."
+    },
+    {
+      "key": "EM09_C0003_Q1_A4",
+      "value": "I’ll do the same!"
+    },
+    {
+      "key": "EM09_C0004",
+      "value": "By the way, why exactly are you here?"
+    },
+    {
+      "key": "EM09_C0004_Q1_A1",
+      "value": "To meet you."
+    },
+    {
+      "key": "EM09_C0004_Q1_A2",
+      "value": "I was guided here."
+    },
+    {
+      "key": "EM09_C0004_Q1_A3",
+      "value": "Trying to get home."
+    },
+    {
+      "key": "EM09_C0004_Q1_A4",
+      "value": "To defeat monsters."
+    },
+    {
+      "key": "EM09_C0005",
+      "value": "What kind of human are you?"
+    },
+    {
+      "key": "EM09_C0005_Q1_A1",
+      "value": "A friendly human!"
+    },
+    {
+      "key": "EM09_C0005_Q1_A2",
+      "value": "My own kind of human."
+    },
+    {
+      "key": "EM09_C0005_Q1_A3",
+      "value": "A cowardly human..."
+    },
+    {
+      "key": "EM09_C0005_Q1_A4",
+      "value": "I like to fight!"
+    },
+    {
+      "key": "EM09_C0006",
+      "value": "What do you think is the most important thing\nfor building trust?"
+    },
+    {
+      "key": "EM09_C0006_Q1_A1",
+      "value": "Trusting your partner."
+    },
+    {
+      "key": "EM09_C0006_Q1_A2",
+      "value": "Exchanging ideas."
+    },
+    {
+      "key": "EM09_C0006_Q1_A3",
+      "value": "Opening up..."
+    },
+    {
+      "key": "EM09_C0006_Q1_A4",
+      "value": "Just slug it out!"
+    },
+    {
+      "key": "EM09_C0007",
+      "value": "Is there something you’d like to say to me?\nGo on, don’t be shy."
+    },
+    {
+      "key": "EM09_C0007_Q1_A1",
+      "value": "You’re super cool!"
+    },
+    {
+      "key": "EM09_C0007_Q1_A2",
+      "value": "Thanks for being kind."
+    },
+    {
+      "key": "EM09_C0007_Q1_A3",
+      "value": "You’re in my way..."
+    },
+    {
+      "key": "EM09_C0007_Q1_A4",
+      "value": "Don’t kill me!"
+    },
+    {
+      "key": "EM09_C0008",
+      "value": "Hmph, how interesting..."
+    },
+    {
+      "key": "EM09_C0009",
+      "value": "Could this meeting be fate...?"
+    },
+    {
+      "key": "EM09_C0010",
+      "value": "There’s no question, you and I are comrades\nbound by a strong bond!"
+    },
+    {
+      "key": "EM09_C0011",
+      "value": "Well, it seems we cannot come to\na consensus..."
+    },
+    {
+      "key": "EM09_C0012",
+      "value": "I guess we’ll never understand each other..."
+    },
+    {
+      "key": "EM09_C0013",
+      "value": "I’ve reach the end of my rope.\nUnforgivable!"
+    },
+    {
+      "key": "EM09_C0014",
+      "value": "What is your wish?\nI shall grant it."
+    },
+    {
+      "key": "EM09_C0015",
+      "value": "Very well, I shall go with you."
+    },
+    {
+      "key": "EM09_C0016",
+      "value": "This should be useful."
+    },
+    {
+      "key": "EM09_C0017",
+      "value": "Has this eased your fatigue?"
+    },
+    {
+      "key": "EM09_C0018",
+      "value": "I’m happy to have met you. Many thanks."
+    },
+    {
+      "key": "EM10_C0001_01",
+      "value": "*gurgle*"
+    },
+    {
+      "key": "EM10_C0001_02",
+      "value": "(The monster seems to be pleading hungrily.)"
+    },
+    {
+      "key": "EM10_C0001_Q1_A1",
+      "value": "[Give it candy.]"
+    },
+    {
+      "key": "EM10_C0001_Q1_A2",
+      "value": "[Give it water.]"
+    },
+    {
+      "key": "EM10_C0001_Q1_A3",
+      "value": "[Give it fruit.]"
+    },
+    {
+      "key": "EM10_C0001_Q1_A4",
+      "value": "[Give it vegetables.]"
+    },
+    {
+      "key": "EM10_C0002_01",
+      "value": "Grrrrr..."
+    },
+    {
+      "key": "EM10_C0002_02",
+      "value": "(The monster has taken a threatening stance!)"
+    },
+    {
+      "key": "EM10_C0002_Q1_A1",
+      "value": "[Take a stance.]"
+    },
+    {
+      "key": "EM10_C0002_Q1_A2",
+      "value": "[Take a step back.]"
+    },
+    {
+      "key": "EM10_C0002_Q1_A3",
+      "value": "[Act harmless.]"
+    },
+    {
+      "key": "EM10_C0002_Q1_A4",
+      "value": "[Glare at it.]"
+    },
+    {
+      "key": "EM10_C0003_01",
+      "value": "Gawoooo...?"
+    },
+    {
+      "key": "EM10_C0003_02",
+      "value": "(The monster seems perplexed by the sight of\na human.)"
+    },
+    {
+      "key": "EM10_C0003_Q1_A1",
+      "value": "[Taunt it.]"
+    },
+    {
+      "key": "EM10_C0003_Q1_A2",
+      "value": "[Smile and wave.]"
+    },
+    {
+      "key": "EM10_C0003_Q1_A3",
+      "value": "[Sigh at it.]"
+    },
+    {
+      "key": "EM10_C0003_Q1_A4",
+      "value": "[Strut around.]"
+    },
+    {
+      "key": "EM10_C0004_01",
+      "value": "..."
+    },
+    {
+      "key": "EM10_C0004_02",
+      "value": "(The monster looks away, as if bored.)"
+    },
+    {
+      "key": "EM10_C0004_Q1_A1",
+      "value": "[Throw something.]"
+    },
+    {
+      "key": "EM10_C0004_Q1_A2",
+      "value": "[Keep talking to it.]"
+    },
+    {
+      "key": "EM10_C0004_Q1_A3",
+      "value": "[Lure it with food.]"
+    },
+    {
+      "key": "EM10_C0004_Q1_A4",
+      "value": "[Pretend to cry.]"
+    },
+    {
+      "key": "EM10_C0005_01",
+      "value": "Grraaawr!"
+    },
+    {
+      "key": "EM10_C0005_02",
+      "value": "(The monster thrashes about on the spot.)"
+    },
+    {
+      "key": "EM10_C0005_Q1_A1",
+      "value": "[Calm it down.]"
+    },
+    {
+      "key": "EM10_C0005_Q1_A2",
+      "value": "[Yell threateningly.]"
+    },
+    {
+      "key": "EM10_C0005_Q1_A3",
+      "value": "[Just wait.]"
+    },
+    {
+      "key": "EM10_C0005_Q1_A4",
+      "value": "[Stare coldly at it.]"
+    },
+    {
+      "key": "EM10_C0006",
+      "value": "Me...eat you...okay?"
+    },
+    {
+      "key": "EM10_C0006_Q1_A1",
+      "value": "I’m afraid not."
+    },
+    {
+      "key": "EM10_C0006_Q1_A2",
+      "value": "Try it, if you dare."
+    },
+    {
+      "key": "EM10_C0006_Q1_A3",
+      "value": "Yes, you eat now!"
+    },
+    {
+      "key": "EM10_C0006_Q1_A4",
+      "value": "Don’t make me mad."
+    },
+    {
+      "key": "EM10_C0007",
+      "value": "Human...no good!"
+    },
+    {
+      "key": "EM10_C0007_Q1_A1",
+      "value": "Please listen to me."
+    },
+    {
+      "key": "EM10_C0007_Q1_A2",
+      "value": "I wanna be friends!"
+    },
+    {
+      "key": "EM10_C0007_Q1_A3",
+      "value": "You’re in my way."
+    },
+    {
+      "key": "EM10_C0007_Q1_A4",
+      "value": "Sorry to bother you."
+    },
+    {
+      "key": "EM10_C0008_01",
+      "value": "Awoooo..."
+    },
+    {
+      "key": "EM10_C0008_02",
+      "value": "(The monster seems a bit calmer than before.)"
+    },
+    {
+      "key": "EM10_C0009_01",
+      "value": "Awoo-woooo..."
+    },
+    {
+      "key": "EM10_C0009_02",
+      "value": "(The monster calls out happily.)"
+    },
+    {
+      "key": "EM10_C0010_01",
+      "value": "Awoo-woo-WOOO!"
+    },
+    {
+      "key": "EM10_C0010_02",
+      "value": "(The monster seems pretty pleased!)"
+    },
+    {
+      "key": "EM10_C0011_01",
+      "value": "Grrrnngrrr..."
+    },
+    {
+      "key": "EM10_C0011_02",
+      "value": "(The monster seems hostile.)"
+    },
+    {
+      "key": "EM10_C0012_01",
+      "value": "Gaaaaargh..."
+    },
+    {
+      "key": "EM10_C0012_02",
+      "value": "(The monster is flying into a rage!)"
+    },
+    {
+      "key": "EM10_C0013_01",
+      "value": "KAAAAAAAHH!!!"
+    },
+    {
+      "key": "EM10_C0013_02",
+      "value": "(The monster seems mad enough to go crazy!)"
+    },
+    {
+      "key": "EM10_C0014_01",
+      "value": "Rar."
+    },
+    {
+      "key": "EM10_C0014_02",
+      "value": "(The monster seems to be waiting on you...\nMaybe it would hear you out?)"
+    },
+    {
+      "key": "EM10_C0015_01",
+      "value": "Gwarrr!"
+    },
+    {
+      "key": "EM10_C0015_02",
+      "value": "(Looks like the monster will go with you!)"
+    },
+    {
+      "key": "EM10_C0016_01",
+      "value": "Funnn-gah!"
+    },
+    {
+      "key": "EM10_C0016_02",
+      "value": "(The monster joyfully hands something\nto you.)"
+    },
+    {
+      "key": "EM10_C0017_01",
+      "value": "Hawoooo!"
+    },
+    {
+      "key": "EM10_C0017_02",
+      "value": "(The monster heals your wounds.)"
+    },
+    {
+      "key": "EM10_C0018_01",
+      "value": "Gwooohh..."
+    },
+    {
+      "key": "EM10_C0018_02",
+      "value": "(The monster leaves.)"
+    },
+    {
+      "key": "EM11_C0001_01",
+      "value": "..."
+    },
+    {
+      "key": "EM11_C0001_02",
+      "value": "(The monster looks warily in this direction.)"
+    },
+    {
+      "key": "EM11_C0001_Q1_A1",
+      "value": "[Try to soothe it.]"
+    },
+    {
+      "key": "EM11_C0001_Q1_A2",
+      "value": "[Prepare to fight.]"
+    },
+    {
+      "key": "EM11_C0001_Q1_A3",
+      "value": "[Chicken out.]"
+    },
+    {
+      "key": "EM11_C0001_Q1_A4",
+      "value": "[Smile back.]"
+    },
+    {
+      "key": "EM11_C0002_01",
+      "value": "..."
+    },
+    {
+      "key": "EM11_C0002_02",
+      "value": "(The monster just stands there.)"
+    },
+    {
+      "key": "EM11_C0002_Q1_A1",
+      "value": "[Make a lot of noise.]"
+    },
+    {
+      "key": "EM11_C0002_Q1_A2",
+      "value": "[Sing a song.]"
+    },
+    {
+      "key": "EM11_C0002_Q1_A3",
+      "value": "[Gesture.]"
+    },
+    {
+      "key": "EM11_C0002_Q1_A4",
+      "value": "[Stand silently.]"
+    },
+    {
+      "key": "EM11_C0003_01",
+      "value": "...!"
+    },
+    {
+      "key": "EM11_C0003_02",
+      "value": "(The monster seems interested in what the\nhumans are saying.)"
+    },
+    {
+      "key": "EM11_C0003_Q1_A1",
+      "value": "[Talk to it slowly.]"
+    },
+    {
+      "key": "EM11_C0003_Q1_A2",
+      "value": "[Rattle on and on.]"
+    },
+    {
+      "key": "EM11_C0003_Q1_A3",
+      "value": "[Howl like a beast.]"
+    },
+    {
+      "key": "EM11_C0003_Q1_A4",
+      "value": "[Stay quiet.]"
+    },
+    {
+      "key": "EM11_C0004_01",
+      "value": "...?"
+    },
+    {
+      "key": "EM11_C0004_02",
+      "value": "(The monster is staring in fascinated\nconfusion.)"
+    },
+    {
+      "key": "EM11_C0004_Q1_A1",
+      "value": "[Take a step forward.]"
+    },
+    {
+      "key": "EM11_C0004_Q1_A2",
+      "value": "[Stare right back.]"
+    },
+    {
+      "key": "EM11_C0004_Q1_A3",
+      "value": "[Look away.]"
+    },
+    {
+      "key": "EM11_C0004_Q1_A4",
+      "value": "[Grin and wave.]"
+    },
+    {
+      "key": "EM11_C0005_01",
+      "value": "Narrr..."
+    },
+    {
+      "key": "EM11_C0005_02",
+      "value": "(The monster is trying to say something.)"
+    },
+    {
+      "key": "EM11_C0005_Q1_A1",
+      "value": "[Show your confusion.]"
+    },
+    {
+      "key": "EM11_C0005_Q1_A2",
+      "value": "[Cock your head.]"
+    },
+    {
+      "key": "EM11_C0005_Q1_A3",
+      "value": "[Give it some food.]"
+    },
+    {
+      "key": "EM11_C0005_Q1_A4",
+      "value": "[Go “Nyooww” back.]"
+    },
+    {
+      "key": "EM11_C0006_01",
+      "value": "Nyooww?"
+    },
+    {
+      "key": "EM11_C0006_02",
+      "value": "(The monster shakes its head as it starts\nto leave.)"
+    },
+    {
+      "key": "EM11_C0006_Q1_A1",
+      "value": "[Shake your fist.]"
+    },
+    {
+      "key": "EM11_C0006_Q1_A2",
+      "value": "[Speak kindly to it.]"
+    },
+    {
+      "key": "EM11_C0006_Q1_A3",
+      "value": "[Shake your head.]"
+    },
+    {
+      "key": "EM11_C0006_Q1_A4",
+      "value": "[Nod your head.]"
+    },
+    {
+      "key": "EM11_C0007_01",
+      "value": "Nnngrrr..."
+    },
+    {
+      "key": "EM11_C0007_02",
+      "value": "(The monster bends forward, scowling at you.)"
+    },
+    {
+      "key": "EM11_C0007_Q1_A1",
+      "value": "[Jump aside.]"
+    },
+    {
+      "key": "EM11_C0007_Q1_A2",
+      "value": "[Mimic its posture.]"
+    },
+    {
+      "key": "EM11_C0007_Q1_A3",
+      "value": "[Clap vigorously.]"
+    },
+    {
+      "key": "EM11_C0007_Q1_A4",
+      "value": "[Look apologetic.]"
+    },
+    {
+      "key": "EM11_C0008_01",
+      "value": "Nngaaahh..."
+    },
+    {
+      "key": "EM11_C0008_02",
+      "value": "(The monster looks a bit calmer.)"
+    },
+    {
+      "key": "EM11_C0009_01",
+      "value": "Gaaangaaah..."
+    },
+    {
+      "key": "EM11_C0009_02",
+      "value": "(The monster seems even more relaxed.)"
+    },
+    {
+      "key": "EM11_C0010_01",
+      "value": "Gagagaaah!"
+    },
+    {
+      "key": "EM11_C0010_02",
+      "value": "(The monster is delighted!)"
+    },
+    {
+      "key": "EM11_C0011_01",
+      "value": "Hissss!"
+    },
+    {
+      "key": "EM11_C0011_02",
+      "value": "(The monster is even more on edge.)"
+    },
+    {
+      "key": "EM11_C0012_01",
+      "value": "Hissshaaaah!"
+    },
+    {
+      "key": "EM11_C0012_02",
+      "value": "(The monster is looking hostile.)"
+    },
+    {
+      "key": "EM11_C0013_01",
+      "value": "Kakaaah!"
+    },
+    {
+      "key": "EM11_C0013_02",
+      "value": "(The monster looks like it could attack\nat any moment!)"
+    },
+    {
+      "key": "EM11_C0014_01",
+      "value": "Haoooo..."
+    },
+    {
+      "key": "EM11_C0014_02",
+      "value": "(The monster seems to expect something from\nTakuma. You can ask for something now.)"
+    },
+    {
+      "key": "EM11_C0015_01",
+      "value": "Gwaaargh!"
+    },
+    {
+      "key": "EM11_C0015_02",
+      "value": "(The monster is ready to accompany you.)"
+    },
+    {
+      "key": "EM11_C0016_01",
+      "value": "Nyaaahaaah!"
+    },
+    {
+      "key": "EM11_C0016_02",
+      "value": "(The monster tries to give you something.)"
+    },
+    {
+      "key": "EM11_C0017_01",
+      "value": "Nngooooow..."
+    },
+    {
+      "key": "EM11_C0017_02",
+      "value": "(The monster gently heals you.)"
+    },
+    {
+      "key": "EM11_C0018_01",
+      "value": "..."
+    },
+    {
+      "key": "EM11_C0018_02",
+      "value": "(The monster leaves without a word.)"
+    },
+    {
+      "key": "EM12_C0001",
+      "value": "Hey now!\nGot time to hear me sing?"
+    },
+    {
+      "key": "EM12_C0001_Q1_A1",
+      "value": "You can sing? Wow!"
+    },
+    {
+      "key": "EM12_C0001_Q1_A2",
+      "value": "Sure, after we fight."
+    },
+    {
+      "key": "EM12_C0001_Q1_A3",
+      "value": "If I can sing, too!"
+    },
+    {
+      "key": "EM12_C0001_Q1_A4",
+      "value": "I’d prefer to fight!"
+    },
+    {
+      "key": "EM12_C0002",
+      "value": "What number am I?"
+    },
+    {
+      "key": "EM12_C0002_Q1_A1",
+      "value": "One!"
+    },
+    {
+      "key": "EM12_C0002_Q1_A2",
+      "value": "Two?"
+    },
+    {
+      "key": "EM12_C0002_Q1_A3",
+      "value": "None."
+    },
+    {
+      "key": "EM12_C0002_Q1_A4",
+      "value": "You’re something else."
+    },
+    {
+      "key": "EM12_C0003",
+      "value": "Well ain’t you cute! I wanna eat you up!"
+    },
+    {
+      "key": "EM12_C0003_Q1_A1",
+      "value": "Thanks, appreciate it!"
+    },
+    {
+      "key": "EM12_C0003_Q1_A2",
+      "value": "Don’t call me that."
+    },
+    {
+      "key": "EM12_C0003_Q1_A3",
+      "value": "No. Just...no."
+    },
+    {
+      "key": "EM12_C0003_Q1_A4",
+      "value": "What a cool ’mon!"
+    },
+    {
+      "key": "EM12_C0004",
+      "value": "Man, something’s bugging me real bad.\nCan you guess what it is?"
+    },
+    {
+      "key": "EM12_C0004_Q1_A1",
+      "value": "Love troubles?"
+    },
+    {
+      "key": "EM12_C0004_Q1_A2",
+      "value": "Your looks?"
+    },
+    {
+      "key": "EM12_C0004_Q1_A3",
+      "value": "Your crazy strength?"
+    },
+    {
+      "key": "EM12_C0004_Q1_A4",
+      "value": "That nothing bugs you?"
+    },
+    {
+      "key": "EM12_C0005",
+      "value": "I’ll teach you how to walk a mile in my\nshoes. Ya dig?"
+    },
+    {
+      "key": "EM12_C0005_Q1_A1",
+      "value": "Yes, pretty please!"
+    },
+    {
+      "key": "EM12_C0005_Q1_A2",
+      "value": "Sounds shady to me."
+    },
+    {
+      "key": "EM12_C0005_Q1_A3",
+      "value": "I’ll be the teacher."
+    },
+    {
+      "key": "EM12_C0005_Q1_A4",
+      "value": "I’ll pass."
+    },
+    {
+      "key": "EM12_C0006",
+      "value": "Hey now, you don’t think you can beat\nlil’ ole me, do ya?"
+    },
+    {
+      "key": "EM12_C0006_Q1_A1",
+      "value": "What? Not a chance."
+    },
+    {
+      "key": "EM12_C0006_Q1_A2",
+      "value": "Heh, easy-peasy."
+    },
+    {
+      "key": "EM12_C0006_Q1_A3",
+      "value": "Make love, not war!"
+    },
+    {
+      "key": "EM12_C0006_Q1_A4",
+      "value": "Can I just...go now?"
+    },
+    {
+      "key": "EM12_C0007",
+      "value": "Wanna know the secret to this bangin’ bod?"
+    },
+    {
+      "key": "EM12_C0007_Q1_A1",
+      "value": "By all means!"
+    },
+    {
+      "key": "EM12_C0007_Q1_A2",
+      "value": "You call that bangin’?"
+    },
+    {
+      "key": "EM12_C0007_Q1_A3",
+      "value": "I don’t wanna know."
+    },
+    {
+      "key": "EM12_C0007_Q1_A4",
+      "value": "Let’s keep it secret."
+    },
+    {
+      "key": "EM12_C0008",
+      "value": "Ain’t you a hoot!\nI think I like ya!"
+    },
+    {
+      "key": "EM12_C0009",
+      "value": "Oohhh baby, I’m stuck on you!"
+    },
+    {
+      "key": "EM12_C0010",
+      "value": "Whoaaa, daddy-o! Now that’s what I’m talkin’\nabout!"
+    },
+    {
+      "key": "EM12_C0011",
+      "value": "Don’t be cruel, man!"
+    },
+    {
+      "key": "EM12_C0012",
+      "value": "That’s it, pal!\nNow or never, knock it off!"
+    },
+    {
+      "key": "EM12_C0013",
+      "value": "Now I’m mad... A little less conversation.\nI’ll put you in traction!"
+    },
+    {
+      "key": "EM12_C0014",
+      "value": "Just name your game, brother, I’ll show\nya the love!"
+    },
+    {
+      "key": "EM12_C0015",
+      "value": "Hot dang! Let’s get in gear!"
+    },
+    {
+      "key": "EM12_C0016",
+      "value": "Fine, fine, just don’t tell the others,\nright? They’ll hound me, dog!"
+    },
+    {
+      "key": "EM12_C0017",
+      "value": "Pain, pain, go away!\nTime to go our separate ways!"
+    },
+    {
+      "key": "EM12_C0018",
+      "value": "Until we meet again, my friend!"
+    },
+    {
+      "key": "EM13_C0001",
+      "value": "Well then, would you do the honor of\nrevealing your impression of me?"
+    },
+    {
+      "key": "EM13_C0001_Q1_A1",
+      "value": "You’re a rival."
+    },
+    {
+      "key": "EM13_C0001_Q1_A2",
+      "value": "You’re a cute monster!"
+    },
+    {
+      "key": "EM13_C0001_Q1_A3",
+      "value": "You’re something else."
+    },
+    {
+      "key": "EM13_C0001_Q1_A4",
+      "value": "You’re pretty smart."
+    },
+    {
+      "key": "EM13_C0002",
+      "value": "Where’d you come from?"
+    },
+    {
+      "key": "EM13_C0002_Q1_A1",
+      "value": "From another world."
+    },
+    {
+      "key": "EM13_C0002_Q1_A2",
+      "value": "From far away."
+    },
+    {
+      "key": "EM13_C0002_Q1_A3",
+      "value": "I won’t tell."
+    },
+    {
+      "key": "EM13_C0002_Q1_A4",
+      "value": "Over there?"
+    },
+    {
+      "key": "EM13_C0003",
+      "value": "I may not look it, but I have many tales\nof daring-do under my belt!"
+    },
+    {
+      "key": "EM13_C0003_Q1_A1",
+      "value": "How admirable!"
+    },
+    {
+      "key": "EM13_C0003_Q1_A2",
+      "value": "Stop lying."
+    },
+    {
+      "key": "EM13_C0003_Q1_A3",
+      "value": "That sounds serious."
+    },
+    {
+      "key": "EM13_C0003_Q1_A4",
+      "value": "Not interested."
+    },
+    {
+      "key": "EM13_C0004",
+      "value": "Nothing ever comes for free, wouldn’t you\nagree?"
+    },
+    {
+      "key": "EM13_C0004_Q1_A1",
+      "value": "I take what I can get."
+    },
+    {
+      "key": "EM13_C0004_Q1_A2",
+      "value": "Exactly!"
+    },
+    {
+      "key": "EM13_C0004_Q1_A3",
+      "value": "You got free food?"
+    },
+    {
+      "key": "EM13_C0004_Q1_A4",
+      "value": "Trust your partner."
+    },
+    {
+      "key": "EM13_C0005",
+      "value": "I wasn’t born yesterday, you know?\nYou can’t fool me!"
+    },
+    {
+      "key": "EM13_C0005_Q1_A1",
+      "value": "Dang, that obvious?"
+    },
+    {
+      "key": "EM13_C0005_Q1_A2",
+      "value": "I didn’t say anything."
+    },
+    {
+      "key": "EM13_C0005_Q1_A3",
+      "value": "You have trust issues."
+    },
+    {
+      "key": "EM13_C0005_Q1_A4",
+      "value": "Everyone says as much."
+    },
+    {
+      "key": "EM13_C0006",
+      "value": "Things have gotten quite perilous around here\nlately."
+    },
+    {
+      "key": "EM13_C0006_Q1_A1",
+      "value": "Because you’re here?"
+    },
+    {
+      "key": "EM13_C0006_Q1_A2",
+      "value": "Because we’re here."
+    },
+    {
+      "key": "EM13_C0006_Q1_A3",
+      "value": "I’d better be careful."
+    },
+    {
+      "key": "EM13_C0006_Q1_A4",
+      "value": "Jerks better look out!"
+    },
+    {
+      "key": "EM13_C0007",
+      "value": "Isn’t it annoying when someone asks you for\na funny story out of the blue?"
+    },
+    {
+      "key": "EM13_C0007_Q1_A1",
+      "value": "Yeah, I totally bomb."
+    },
+    {
+      "key": "EM13_C0007_Q1_A2",
+      "value": "Gotta at least try!"
+    },
+    {
+      "key": "EM13_C0007_Q1_A3",
+      "value": "You’re just bad at it."
+    },
+    {
+      "key": "EM13_C0007_Q1_A4",
+      "value": "Just tell a good one!"
+    },
+    {
+      "key": "EM13_C0008",
+      "value": "You really get me, don’t you?"
+    },
+    {
+      "key": "EM13_C0009",
+      "value": "Looks like you and me are on the same\nwavelength."
+    },
+    {
+      "key": "EM13_C0010",
+      "value": "I am pleased to inform you that you have\ncurried my favor!"
+    },
+    {
+      "key": "EM13_C0011",
+      "value": "You’re an obstinate one, aren’t you?"
+    },
+    {
+      "key": "EM13_C0012",
+      "value": "I have concluded that cooperation with you\nis impossible."
+    },
+    {
+      "key": "EM13_C0013",
+      "value": "You and I have no relationship to speak of."
+    },
+    {
+      "key": "EM13_C0014",
+      "value": "Is there perhaps something I could do for\nyou?"
+    },
+    {
+      "key": "EM13_C0015",
+      "value": "If my abilities would be of assistance,\nallow me to make use of them."
+    },
+    {
+      "key": "EM13_C0016",
+      "value": "Well then, would something like this suffice?"
+    },
+    {
+      "key": "EM13_C0017",
+      "value": "An easy feat. Behold, your injuries\nare healed!"
+    },
+    {
+      "key": "EM13_C0018",
+      "value": "Until next we meet, some time, somewhere!"
+    },
+    {
+      "key": "EM14_C0001",
+      "value": "All...you need...is love..."
+    },
+    {
+      "key": "EM14_C0001_Q1_A1",
+      "value": "Love’s not enough."
+    },
+    {
+      "key": "EM14_C0001_Q1_A2",
+      "value": "An interesting idea!"
+    },
+    {
+      "key": "EM14_C0001_Q1_A3",
+      "value": "That’s a tough sell."
+    },
+    {
+      "key": "EM14_C0001_Q1_A4",
+      "value": "I’ve abandoned love."
+    },
+    {
+      "key": "EM14_C0002",
+      "value": "Mutual...understanding...would\nend...conflict..."
+    },
+    {
+      "key": "EM14_C0002_Q1_A1",
+      "value": "Right you are!"
+    },
+    {
+      "key": "EM14_C0002_Q1_A2",
+      "value": "But I LIKE conflict!"
+    },
+    {
+      "key": "EM14_C0002_Q1_A3",
+      "value": "That’s not enough."
+    },
+    {
+      "key": "EM14_C0002_Q1_A4",
+      "value": "What a coward."
+    },
+    {
+      "key": "EM14_C0003",
+      "value": "Do you...treasure...your comrades...?"
+    },
+    {
+      "key": "EM14_C0003_Q1_A1",
+      "value": "More than anything."
+    },
+    {
+      "key": "EM14_C0003_Q1_A2",
+      "value": "After my own life."
+    },
+    {
+      "key": "EM14_C0003_Q1_A3",
+      "value": "If interests align."
+    },
+    {
+      "key": "EM14_C0003_Q1_A4",
+      "value": "Don’t ask the obvious."
+    },
+    {
+      "key": "EM14_C0004",
+      "value": "Get...away from here..."
+    },
+    {
+      "key": "EM14_C0004_Q1_A1",
+      "value": "You got it."
+    },
+    {
+      "key": "EM14_C0004_Q1_A2",
+      "value": "Who made you boss?"
+    },
+    {
+      "key": "EM14_C0004_Q1_A3",
+      "value": "Don’t talk so big!"
+    },
+    {
+      "key": "EM14_C0004_Q1_A4",
+      "value": "Appreciate the advice!"
+    },
+    {
+      "key": "EM14_C0005",
+      "value": "Do you...wanna...fight...?"
+    },
+    {
+      "key": "EM14_C0005_Q1_A1",
+      "value": "Yes indeed!"
+    },
+    {
+      "key": "EM14_C0005_Q1_A2",
+      "value": "I don’t want to fight."
+    },
+    {
+      "key": "EM14_C0005_Q1_A3",
+      "value": "I’ll fight if I must."
+    },
+    {
+      "key": "EM14_C0005_Q1_A4",
+      "value": "I just want to talk."
+    },
+    {
+      "key": "EM14_C0006",
+      "value": "Stepping on...flowers...makes me...sad..."
+    },
+    {
+      "key": "EM14_C0006_Q1_A1",
+      "value": "Never considered it."
+    },
+    {
+      "key": "EM14_C0006_Q1_A2",
+      "value": "What a nice ’mon."
+    },
+    {
+      "key": "EM14_C0006_Q1_A3",
+      "value": "Don’t worry about it."
+    },
+    {
+      "key": "EM14_C0006_Q1_A4",
+      "value": "I feel the same way."
+    },
+    {
+      "key": "EM14_C0007",
+      "value": "Would you...use violence...to protect\nothers...?"
+    },
+    {
+      "key": "EM14_C0007_Q1_A1",
+      "value": "Violence is bad!"
+    },
+    {
+      "key": "EM14_C0007_Q1_A2",
+      "value": "Sometimes you have to."
+    },
+    {
+      "key": "EM14_C0007_Q1_A3",
+      "value": "If it’s fastest."
+    },
+    {
+      "key": "EM14_C0007_Q1_A4",
+      "value": "Try something else."
+    },
+    {
+      "key": "EM14_C0008",
+      "value": "...I...like you."
+    },
+    {
+      "key": "EM14_C0009",
+      "value": "...I...really like you."
+    },
+    {
+      "key": "EM14_C0010",
+      "value": "...I...really, really like you."
+    },
+    {
+      "key": "EM14_C0011",
+      "value": "...You’re...annoying."
+    },
+    {
+      "key": "EM14_C0012",
+      "value": "...You’re...awful."
+    },
+    {
+      "key": "EM14_C0013",
+      "value": "...You’re...the worst there is."
+    },
+    {
+      "key": "EM14_C0014",
+      "value": "Is there...something...you wanted?"
+    },
+    {
+      "key": "EM14_C0015",
+      "value": "Okay...I’ll go...with you..."
+    },
+    {
+      "key": "EM14_C0016",
+      "value": "Okay...here...take this..."
+    },
+    {
+      "key": "EM14_C0017",
+      "value": "Okay...there...all better..."
+    },
+    {
+      "key": "EM14_C0018",
+      "value": "...Bye."
+    },
+    {
+      "key": "EM15_C0001",
+      "value": "Let’s make a deal:\nThrow the fight and I’ll give you an item!"
+    },
+    {
+      "key": "EM15_C0001_Q1_A1",
+      "value": "I don’t believe you."
+    },
+    {
+      "key": "EM15_C0001_Q1_A2",
+      "value": "That sounds dodgy."
+    },
+    {
+      "key": "EM15_C0001_Q1_A3",
+      "value": "I’ll just beat you up."
+    },
+    {
+      "key": "EM15_C0001_Q1_A4",
+      "value": "Interesting proposal!"
+    },
+    {
+      "key": "EM15_C0002",
+      "value": "You sure like to puff out your chest around\na weak monster like myself."
+    },
+    {
+      "key": "EM15_C0002_Q1_A1",
+      "value": "Liar. You’re not weak."
+    },
+    {
+      "key": "EM15_C0002_Q1_A2",
+      "value": "Strength’s irrelevant."
+    },
+    {
+      "key": "EM15_C0002_Q1_A3",
+      "value": "How rude!"
+    },
+    {
+      "key": "EM15_C0002_Q1_A4",
+      "value": "Oh. My bad."
+    },
+    {
+      "key": "EM15_C0003",
+      "value": "Who do you think is worse? The deceiver,\nor the deceived?"
+    },
+    {
+      "key": "EM15_C0003_Q1_A1",
+      "value": "The deceiver, duh!"
+    },
+    {
+      "key": "EM15_C0003_Q1_A2",
+      "value": "It depends, I guess."
+    },
+    {
+      "key": "EM15_C0003_Q1_A3",
+      "value": "Only dupes get duped!"
+    },
+    {
+      "key": "EM15_C0003_Q1_A4",
+      "value": "I don’t like either."
+    },
+    {
+      "key": "EM15_C0004",
+      "value": "Trying to pick a fight with a peace-lover\nlike me... You humans sure are cruel."
+    },
+    {
+      "key": "EM15_C0004_Q1_A1",
+      "value": "You attacked me!"
+    },
+    {
+      "key": "EM15_C0004_Q1_A2",
+      "value": "So let’s call it off."
+    },
+    {
+      "key": "EM15_C0004_Q1_A3",
+      "value": "I love peace, myself."
+    },
+    {
+      "key": "EM15_C0004_Q1_A4",
+      "value": "You’ll say anything..."
+    },
+    {
+      "key": "EM15_C0005",
+      "value": "You may think of those around you as friends, \nbut perhaps you’re actually alone?"
+    },
+    {
+      "key": "EM15_C0005_Q1_A1",
+      "value": "That’s not true!"
+    },
+    {
+      "key": "EM15_C0005_Q1_A2",
+      "value": "I wouldn’t mind."
+    },
+    {
+      "key": "EM15_C0005_Q1_A3",
+      "value": "Do you have friends?"
+    },
+    {
+      "key": "EM15_C0005_Q1_A4",
+      "value": "Don’t mess with me!"
+    },
+    {
+      "key": "EM15_C0006",
+      "value": "I bet you’ve got some secrets, huh?\nGo on, tell me one! I dare you!"
+    },
+    {
+      "key": "EM15_C0006_Q1_A1",
+      "value": "You first..."
+    },
+    {
+      "key": "EM15_C0006_Q1_A2",
+      "value": "Secrets? I wonder..."
+    },
+    {
+      "key": "EM15_C0006_Q1_A3",
+      "value": "I’ve nothing to hide."
+    },
+    {
+      "key": "EM15_C0006_Q1_A4",
+      "value": "I’m not telling you."
+    },
+    {
+      "key": "EM15_C0007",
+      "value": "What do you think decides what’s right\nor wrong?"
+    },
+    {
+      "key": "EM15_C0007_Q1_A1",
+      "value": "Your own beliefs."
+    },
+    {
+      "key": "EM15_C0007_Q1_A2",
+      "value": "Reality itself."
+    },
+    {
+      "key": "EM15_C0007_Q1_A3",
+      "value": "Your preferences?"
+    },
+    {
+      "key": "EM15_C0007_Q1_A4",
+      "value": "Majority rule?"
+    },
+    {
+      "key": "EM15_C0008",
+      "value": "Heh, all right, I admit it.\nI had a little fun."
+    },
+    {
+      "key": "EM15_C0009",
+      "value": "Now you’ve got my motor running!"
+    },
+    {
+      "key": "EM15_C0010",
+      "value": "Heeee hee hee! It’s encounters like this\nthat make me keep fighting."
+    },
+    {
+      "key": "EM15_C0011",
+      "value": "Man, what a bore you turned out to be. Shame."
+    },
+    {
+      "key": "EM15_C0012",
+      "value": "You’re the type I just can’t take,\ny’know that?"
+    },
+    {
+      "key": "EM15_C0013",
+      "value": "Unacceptable!\nI’ll never give in to you, not ever!"
+    },
+    {
+      "key": "EM15_C0014",
+      "value": "So what do you want? Go on, I can tell..."
+    },
+    {
+      "key": "EM15_C0015",
+      "value": "You’ve got a good eye!\nI’ll make your wish come true."
+    },
+    {
+      "key": "EM15_C0016",
+      "value": "You want this, do you?\nFair enough, it’s all yours."
+    },
+    {
+      "key": "EM15_C0017",
+      "value": "Seriously, though?\nFine, but just this once."
+    },
+    {
+      "key": "EM15_C0018",
+      "value": "Heh. Later gator."
+    },
+    {
+      "key": "EM00_C0002",
+      "value": "Doesn’t seem to be in the mood to talk..."
+    },
+    {
+      "key": "EM00_C0003",
+      "value": "Shoot, almost had it! Now it’s off in\nthe wind somewhere."
+    }
+  ]
+}

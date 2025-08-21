@@ -1,0 +1,284 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP13_S9260_0001",
+      "value": "Hey, Ryo, what are you up to?"
+    },
+    {
+      "key": "EP13_S9260_0002",
+      "value": "Hey, Takuma. Nothing really."
+    },
+    {
+      "key": "EP13_S9260_0003",
+      "value": "Kew..."
+    },
+    {
+      "key": "EP13_S9260_0004",
+      "value": "(Hmm, I’m still curious. Then again, with the\nfight coming up, maybe I should let him be.)"
+    },
+    {
+      "key": "EP13_S9260_Q1",
+      "value": "(What should I tell Ryo?)"
+    },
+    {
+      "key": "EP13_S9260_Q1_A1",
+      "value": "Didn’t look that way."
+    },
+    {
+      "key": "EP13_S9260_Q1_A2",
+      "value": "If you say so..."
+    },
+    {
+      "key": "EP13_S9260_0005",
+      "value": "Didn’t look that way."
+    },
+    {
+      "key": "EP13_S9260_0006",
+      "value": "Really? Because it sure looked like you were\ndoing something to me."
+    },
+    {
+      "key": "EP13_S9260_0007",
+      "value": "Man, why do you always have to be so nosy?\nWhen did you turn into my old man?"
+    },
+    {
+      "key": "EP13_S9260_0008",
+      "value": "You don’t have to say if you don’t want to,\nbut if something’s bothering you, I’m here."
+    },
+    {
+      "key": "EP13_S9260_0009",
+      "value": "*sigh*... Right, sorry. But really, it’s\nnothing."
+    },
+    {
+      "key": "EP13_S9260_0010",
+      "value": "If you say so..."
+    },
+    {
+      "key": "EP13_S9260_0011",
+      "value": "All right, if you say so."
+    },
+    {
+      "key": "EP13_S9260_0012",
+      "value": "Well I do, so get lost!"
+    },
+    {
+      "key": "EP13_S9260_0013",
+      "value": "I’ll just stay here with Kunemon a bit\nlonger."
+    },
+    {
+      "key": "EP13_S9260_0014",
+      "value": "Kew..."
+    },
+    {
+      "key": "EP13_S9260_0015",
+      "value": "...Now I have to know. Why do you look so\ndown?"
+    },
+    {
+      "key": "EP13_S9260_0016",
+      "value": "What? I don’t even know what you’re talking\nabout!"
+    },
+    {
+      "key": "EP13_S9260_0017",
+      "value": "I was just..."
+    },
+    {
+      "key": "EP13_S9260_0018",
+      "value": "I wanted to spend some time alone with\nKunemon, okay? That’s all."
+    },
+    {
+      "key": "EP13_S9260_0019",
+      "value": "Kew..."
+    },
+    {
+      "key": "EP13_S9260_0020",
+      "value": "Time alone with Kunemon?"
+    },
+    {
+      "key": "EP13_S9260_0021",
+      "value": "You heard me. After all, if we lose this\nfinal battle, we die."
+    },
+    {
+      "key": "EP13_S9260_0022",
+      "value": "And if we win, we go back to our world.\nEither way, it’s goodbye."
+    },
+    {
+      "key": "EP13_S9260_0023",
+      "value": "So I just...want to spend as much time\ntogether as we can."
+    },
+    {
+      "key": "EP13_S9260_0024",
+      "value": "Kew, kew..."
+    },
+    {
+      "key": "EP13_S9260_0025",
+      "value": "(Ryo seems kind of embarrassed.)"
+    },
+    {
+      "key": "EP13_S9260_0026",
+      "value": "What? You got a problem with that?"
+    },
+    {
+      "key": "EP13_S9260_0027",
+      "value": "(Really, I’m surprised at how far Ryo has\ncome. He’s nothing like how he used to be.)"
+    },
+    {
+      "key": "EP13_S9260_0028",
+      "value": "(But if I say that, it might embarrass him\nagain. Maybe I should try to be more subtle.)"
+    },
+    {
+      "key": "EP13_S9260_Q2",
+      "value": "(Umm, what should I say to him?)"
+    },
+    {
+      "key": "EP13_S9260_Q2_A1",
+      "value": "I think it’s good."
+    },
+    {
+      "key": "EP13_S9260_Q2_A2",
+      "value": "I’m just surprised."
+    },
+    {
+      "key": "EP13_S9260_0029",
+      "value": "I think it’s good."
+    },
+    {
+      "key": "EP13_S9260_0030",
+      "value": "No, I think it’s good."
+    },
+    {
+      "key": "EP13_S9260_0031",
+      "value": "To be honest, I’m sad about having to say\ngoodbye to Agumon too."
+    },
+    {
+      "key": "EP13_S9260_0032",
+      "value": "Hmph."
+    },
+    {
+      "key": "EP13_S9260_0033",
+      "value": "We all owe these guys a lot. Anyone’d get\nchoked up about leaving them behind."
+    },
+    {
+      "key": "EP13_S9260_0034",
+      "value": "I’m just surprised."
+    },
+    {
+      "key": "EP13_S9260_0035",
+      "value": "I’m just surprised. It’s not really a bad\nthing, but it’s a huge change from before."
+    },
+    {
+      "key": "EP13_S9260_0036",
+      "value": "Oh, shut up! Just leave me alone, okay?! Get\nlost!"
+    },
+    {
+      "key": "EP13_S9260_0037",
+      "value": "Kewww! Kewkew!!!"
+    },
+    {
+      "key": "EP13_S9260_0038",
+      "value": "Kew? Kew, kewkew."
+    },
+    {
+      "key": "EP13_S9260_0039",
+      "value": "Yeah, you’re right."
+    },
+    {
+      "key": "EP13_S9260_0040",
+      "value": "I owe you so much, and I treated you pretty\nbadly."
+    },
+    {
+      "key": "EP13_S9260_0041",
+      "value": "Do you think... Kunemon, have I been a good\npartner to you?"
+    },
+    {
+      "key": "EP13_S9260_0042",
+      "value": "Kew."
+    },
+    {
+      "key": "EP13_S9260_0043",
+      "value": "(That sounded very kind. I’m sure Kunemon\nsaid yes.)"
+    },
+    {
+      "key": "EP13_S9260_0044",
+      "value": "(Of course, it’s not like I actually know\nthat. Ryo is really the expert on Kunemon.)"
+    },
+    {
+      "key": "EP13_S9260_Q3",
+      "value": "(What’s Kunemon saying?)"
+    },
+    {
+      "key": "EP13_S9260_Q3_A1",
+      "value": "A yes, I think?"
+    },
+    {
+      "key": "EP13_S9260_Q3_A2",
+      "value": "I don’t really know."
+    },
+    {
+      "key": "EP13_S9260_0045",
+      "value": "...that’s a yes."
+    },
+    {
+      "key": "EP13_S9260_0046",
+      "value": "That’s a yes. Kunemon clearly thinks you’ve\nbeen a good partner."
+    },
+    {
+      "key": "EP13_S9260_0047",
+      "value": "Oh, give it a rest! You’ve got no idea what\nKunemon’s saying. Don’t make stuff up."
+    },
+    {
+      "key": "EP13_S9260_0048",
+      "value": "Kewkew!"
+    },
+    {
+      "key": "EP13_S9260_0049",
+      "value": "Hmph."
+    },
+    {
+      "key": "EP13_S9260_0050",
+      "value": "You mean that? Thanks, Kunemon. I feel the\nsame way about you."
+    },
+    {
+      "key": "EP13_S9260_0051",
+      "value": "You’re the best partner I could ever have."
+    },
+    {
+      "key": "EP13_S9260_0052",
+      "value": "...what did he say?"
+    },
+    {
+      "key": "EP13_S9260_0053",
+      "value": "So, what did that mean just now? What did\nKunemon say?"
+    },
+    {
+      "key": "EP13_S9260_0054",
+      "value": "Oh, who knows? Kew just means kew. It’s not\nlike I speak the language."
+    },
+    {
+      "key": "EP13_S9260_0055",
+      "value": "Really?"
+    },
+    {
+      "key": "EP13_S9260_0056",
+      "value": "Yes, really! Now go on, get lost!"
+    },
+    {
+      "key": "EP13_S9260_0057",
+      "value": "Kew..."
+    },
+    {
+      "key": "EP13_S9260_0058",
+      "value": "Hmph."
+    },
+    {
+      "key": "EP13_S9260_0059",
+      "value": "Thanks, Kunemon."
+    },
+    {
+      "key": "EP13_S9260_0060",
+      "value": "Kew!"
+    },
+    {
+      "key": "EP13_S9260_0061",
+      "value": "I’m ready to head out any time. What’s taking\nyou so long?"
+    }
+  ]
+}

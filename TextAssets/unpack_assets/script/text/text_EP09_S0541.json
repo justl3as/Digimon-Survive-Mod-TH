@@ -1,0 +1,480 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP09_S0541_0001",
+      "value": "(Oh, Shuuji and the professor are analyzing\nthe murals.)"
+    },
+    {
+      "key": "EP09_S0541_0002",
+      "value": "Professor! This place... Could it be?"
+    },
+    {
+      "key": "EP09_S0541_0003",
+      "value": "Indeed. Well-noted, my boy."
+    },
+    {
+      "key": "EP09_S0541_0004",
+      "value": "(Heh... Shuuji’s like a professor-in-training\nover here.)"
+    },
+    {
+      "key": "EP09_S0541_0005",
+      "value": "Did you guys figure anything out from the\nmural?"
+    },
+    {
+      "key": "EP09_S0541_0006",
+      "value": "Oh. It’s you, Takuma."
+    },
+    {
+      "key": "EP09_S0541_0007",
+      "value": "Ho ho, were things that simple we would’ve\nbeen rescued long ago."
+    },
+    {
+      "key": "EP09_S0541_0008",
+      "value": "Well...yeah. Good point."
+    },
+    {
+      "key": "EP09_S0541_0009",
+      "value": "Still, I’ve noticed something interesting.\nWhat do you see when you look at this?"
+    },
+    {
+      "key": "EP09_S0541_0010",
+      "value": "Umm... Vicious monsters on a rampage?"
+    },
+    {
+      "key": "EP09_S0541_0011",
+      "value": "It’s more than that, Takuma. Can’t you see\nhouses and humans here?"
+    },
+    {
+      "key": "EP09_S0541_0012",
+      "value": "Still, I’ve noticed something interesting.\nWhat do you see when you look at this?"
+    },
+    {
+      "key": "EP09_S0541_0013",
+      "value": "Ah, you’re right... It’s almost like they’re\nrunning away from the monsters..."
+    },
+    {
+      "key": "EP09_S0541_0014",
+      "value": "Yes, I view it the same way."
+    },
+    {
+      "key": "EP09_S0541_0015",
+      "value": "Perhaps these are monsters that ran rampant\nin our world."
+    },
+    {
+      "key": "EP09_S0541_0016",
+      "value": "The professor also put together an\ninteresting hypothesis."
+    },
+    {
+      "key": "EP09_S0541_0017",
+      "value": "Ah, Shuuji, my boy. Perhaps now isn’t the\nbest time for such talk?"
+    },
+    {
+      "key": "EP09_S0541_0018",
+      "value": "What sort of hypothesis?"
+    },
+    {
+      "key": "EP09_S0541_0019",
+      "value": "Ah, well... It’s just, perhaps the Kemonogami\nhere were models for our creatures of legend—"
+    },
+    {
+      "key": "EP09_S0541_0020",
+      "value": "Wh-what?! Are you serious?!"
+    },
+    {
+      "key": "EP09_S0541_0021",
+      "value": "Merely a thought, my boy. Just a wild idea\ndrummed up from this mural’s data points."
+    },
+    {
+      "key": "EP09_S0541_0022",
+      "value": "*cough* Now, the next part is quite\nimportant. What does this look like to you?"
+    },
+    {
+      "key": "EP09_S0541_0023",
+      "value": "Ummm... This mural... It looks like a human\nsinging some sort of song."
+    },
+    {
+      "key": "EP09_S0541_0024",
+      "value": "And this thing drawn close to it...\nA woman... Maybe a priestess?"
+    },
+    {
+      "key": "EP09_S0541_0025",
+      "value": "In ancient times, young boys were taken from\nKamakura and offered to the Kemonogami."
+    },
+    {
+      "key": "EP09_S0541_0026",
+      "value": "Where did you hear that?"
+    },
+    {
+      "key": "EP09_S0541_0027",
+      "value": "I read something about that in the archives\nof the shrine back in our world."
+    },
+    {
+      "key": "EP09_S0541_0028",
+      "value": "Powers that be in the Kamakura era offered up\nfive youths to obtain the Kemonogami’s power."
+    },
+    {
+      "key": "EP09_S0541_0029",
+      "value": "Humans and Kemonogami coexisted?!"
+    },
+    {
+      "key": "EP09_S0541_0030",
+      "value": "Apparently, if this mural and the historical\narchives are to be trusted."
+    },
+    {
+      "key": "EP09_S0541_0031",
+      "value": "But of those offerings, one had a wicked\nmind, causing the Kemonogami to turn savage."
+    },
+    {
+      "key": "EP09_S0541_0032",
+      "value": "...From here, the world of the Kemonogami\nbegan its descent into madness."
+    },
+    {
+      "key": "EP09_S0541_0033",
+      "value": "Now, the four strongest Kemonogami seal those\nsavage beasts off from the four directions."
+    },
+    {
+      "key": "EP09_S0541_0034",
+      "value": "The...four strongest Kemonogami?"
+    },
+    {
+      "key": "EP09_S0541_0035",
+      "value": "The mural within has shed some light on the\nsubject. About this mural...and this maiden."
+    },
+    {
+      "key": "EP09_S0541_0036",
+      "value": "The maiden is drawn much more clearly than\nothers—indication that she’s special somehow."
+    },
+    {
+      "key": "EP09_S0541_0037",
+      "value": "The maiden..."
+    },
+    {
+      "key": "EP09_S0541_0038",
+      "value": "Professor?"
+    },
+    {
+      "key": "EP09_S0541_0039",
+      "value": "Ah, apologies. It’s nothing. Now then, on to\nthe next mural."
+    },
+    {
+      "key": "EP09_S0541_0040",
+      "value": "You see what this is, Takuma? These two\nseparate areas, with humans and monsters..."
+    },
+    {
+      "key": "EP09_S0541_0041",
+      "value": "This is...?"
+    },
+    {
+      "key": "EP09_S0541_0042",
+      "value": "This mural could delineate the two worlds—\nour world, and the one we’re in right now."
+    },
+    {
+      "key": "EP09_S0541_0043",
+      "value": "Oh okay, so the humans and Kemonogami each\nlive in their own world."
+    },
+    {
+      "key": "EP09_S0541_0044",
+      "value": "It’s not just about the worlds. There’s\nsomething connecting the two, isn’t there?"
+    },
+    {
+      "key": "EP09_S0541_0045",
+      "value": "Connecting the two... Could this be a gate?!"
+    },
+    {
+      "key": "EP09_S0541_0046",
+      "value": "Most likely... Piedmon opened this gate to\nlead an attack on our world, I’d guess."
+    },
+    {
+      "key": "EP09_S0541_0047",
+      "value": "My word, well done noticing that. When Shuuji\npointed it out, I was flabbergasted."
+    },
+    {
+      "key": "EP09_S0541_0048",
+      "value": "A gate... Does that mean there were others\nlike Miyuki who could connect the worlds?"
+    },
+    {
+      "key": "EP09_S0541_0049",
+      "value": "Perhaps, or perhaps it was a common\ntechnique... At any rate, now it is a lost art."
+    },
+    {
+      "key": "EP09_S0541_0050",
+      "value": "The evidence is in this mural."
+    },
+    {
+      "key": "EP09_S0541_0051",
+      "value": "What?! Humans and monsters are getting...\nsucked into the gate?"
+    },
+    {
+      "key": "EP09_S0541_0052",
+      "value": "I imagine the gate deteriorated over time,\nflinging unfortunate souls between worlds."
+    },
+    {
+      "key": "EP09_S0541_0053",
+      "value": "Takuma... Doesn’t that sound familiar?"
+    },
+    {
+      "key": "EP09_S0541_0054",
+      "value": "You mean...what happened to us?"
+    },
+    {
+      "key": "EP09_S0541_0055",
+      "value": "Indeed. No doubt some of the disappearances\noccurred when the gate malfunctioned."
+    },
+    {
+      "key": "EP09_S0541_0056",
+      "value": "The disappearances were caused by the gate?"
+    },
+    {
+      "key": "EP09_S0541_0057",
+      "value": "Well, best to think of it as just one source\nof information. Now, on to the next mural."
+    },
+    {
+      "key": "EP09_S0541_0058",
+      "value": "I was able to make some headway in my\ninvestigation with Shuuji’s help. Even so..."
+    },
+    {
+      "key": "EP09_S0541_0059",
+      "value": "This mural is quite indecipherable. The\nsituation depicted is too abstract."
+    },
+    {
+      "key": "EP09_S0541_0060",
+      "value": "Analyzing the top part here... This mural\nseems to depict some kind of disturbance."
+    },
+    {
+      "key": "EP09_S0541_0061",
+      "value": "Yeah... These humans and monsters, right?"
+    },
+    {
+      "key": "EP09_S0541_0062",
+      "value": "All of them seem to be freaking out."
+    },
+    {
+      "key": "EP09_S0541_0063",
+      "value": "Yes, many of them are upset due to some\nincredible power..."
+    },
+    {
+      "key": "EP09_S0541_0064",
+      "value": "That’s all I can tell from observation alone."
+    },
+    {
+      "key": "EP09_S0541_0065",
+      "value": "Each of the murals seems connected, but..."
+    },
+    {
+      "key": "EP09_S0541_0066",
+      "value": "The problem is the timeline, right? We can’t\ndo anything without a basis for linearity."
+    },
+    {
+      "key": "EP09_S0541_0067",
+      "value": "Well, no need to fret over the knowledge we\nlack. Come, let’s move on to the next mural."
+    },
+    {
+      "key": "EP09_S0541_0068",
+      "value": "Now, Takuma, do you recall the tale of beings\nwho suppressed the rampaging Kemonogami?"
+    },
+    {
+      "key": "EP09_S0541_0069",
+      "value": "Oh! The four strongest Kemonogami!"
+    },
+    {
+      "key": "EP09_S0541_0070",
+      "value": "Yes, exactly."
+    },
+    {
+      "key": "EP09_S0541_0071",
+      "value": "These Kemonogami share aspects of four god-\nlike beings in ancient legends..."
+    },
+    {
+      "key": "EP09_S0541_0072",
+      "value": "I believe those gods protected the north,\nsouth, east and west in ancient texts."
+    },
+    {
+      "key": "EP09_S0541_0073",
+      "value": "Four gods... If we can get Kemonogami like\nthat on our side, then..."
+    },
+    {
+      "key": "EP09_S0541_0074",
+      "value": "But we can’t exactly count on the power of\nthose whose very existence is up in the air."
+    },
+    {
+      "key": "EP09_S0541_0075",
+      "value": "...You speak truly, my boy."
+    },
+    {
+      "key": "EP09_S0541_0076",
+      "value": "Four gods... Four Kemonogami..."
+    },
+    {
+      "key": "EP09_S0541_0077",
+      "value": "(Hmm? I wonder if the professor’s caught on\nto something?)"
+    },
+    {
+      "key": "EP09_S0541_0078",
+      "value": "If only this story gave us some clue about\nhow to save Miyuki..."
+    },
+    {
+      "key": "EP09_S0541_0079",
+      "value": "Indeed... If only."
+    },
+    {
+      "key": "EP09_S0541_0080",
+      "value": "Well, that’s all we’ve gleaned from our\ninvestigation of this area."
+    },
+    {
+      "key": "EP09_S0541_0081",
+      "value": "The explanation was a bit rushed, I admit,\nbut what do you think? Any questions?"
+    },
+    {
+      "key": "EP09_S0541_0082",
+      "value": "Oh, um, questions? Hmm..."
+    },
+    {
+      "key": "EP09_S0541_0083",
+      "value": "(Oh right, I did have something to ask the\nprofessor, didn’t I?)"
+    },
+    {
+      "key": "EP09_S0541_0084",
+      "value": "(About the photo I saw back in the apartment\ncomplex, and his talk with Garurumon.)"
+    },
+    {
+      "key": "EP09_S0541_0085",
+      "value": "(Are the professor and Miyuki related\nsomehow? Will he even tell me if I ask?)"
+    },
+    {
+      "key": "EP09_S0541_Q1",
+      "value": "(What do I ask the professor about?)"
+    },
+    {
+      "key": "EP09_S0541_Q1_A1",
+      "value": "About the photo I saw."
+    },
+    {
+      "key": "EP09_S0541_Q1_A2",
+      "value": "About Garurumon."
+    },
+    {
+      "key": "EP09_S0541_Q1_A3",
+      "value": "About him and Miyuki."
+    },
+    {
+      "key": "EP09_S0541_0086",
+      "value": "About the photo I saw."
+    },
+    {
+      "key": "EP09_S0541_0087",
+      "value": "What’s the deal with that photo I saw of\nMiyuki and Haru in the apartment complex?"
+    },
+    {
+      "key": "EP09_S0541_0088",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0541_0089",
+      "value": "About Garurumon."
+    },
+    {
+      "key": "EP09_S0541_0090",
+      "value": "What did you talk about with Garurumon at the\napartment complex? You two looked tense..."
+    },
+    {
+      "key": "EP09_S0541_0091",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0541_0092",
+      "value": "About you and Miyuki."
+    },
+    {
+      "key": "EP09_S0541_0093",
+      "value": "Are you connected to Miyuki somehow? I mean,\nthere was that time at the apartments, and..."
+    },
+    {
+      "key": "EP09_S0541_0094",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0541_0095",
+      "value": "Oh, would you look at the time. We have to\nget back to the school building."
+    },
+    {
+      "key": "EP09_S0541_0096",
+      "value": "Hey, Professor!"
+    },
+    {
+      "key": "EP09_S0541_0097",
+      "value": "..."
+    },
+    {
+      "key": "EP09_S0541_0098",
+      "value": "I know you have questions, but the answers\nwould be paltry at best."
+    },
+    {
+      "key": "EP09_S0541_0099",
+      "value": "You should stick to knowledge that will aid\nin achieving our current goal."
+    },
+    {
+      "key": "EP09_S0541_0100",
+      "value": "...What was that all about?"
+    },
+    {
+      "key": "EP09_S0541_0101",
+      "value": "It’s...nothing."
+    },
+    {
+      "key": "EP09_S0541_0102",
+      "value": "(I guess that means I shouldn’t stick my nose\nwhere it doesn’t belong.)"
+    },
+    {
+      "key": "EP09_S0541_0103",
+      "value": "Whoa!!!"
+    },
+    {
+      "key": "EP09_S0541_0104",
+      "value": "Wh-what is it?!"
+    },
+    {
+      "key": "EP09_S0541_0105",
+      "value": "Oh, sorry. It’s just my phone."
+    },
+    {
+      "key": "EP09_S0541_0106",
+      "value": "Your phone... You got a text?!"
+    },
+    {
+      "key": "EP09_S0541_0107",
+      "value": "No, I just get some meaningless, garbled\ntexts from time to time."
+    },
+    {
+      "key": "EP09_S0541_0108",
+      "value": "Let’s see... Yep, just more gobbledygook."
+    },
+    {
+      "key": "EP09_S0541_0109",
+      "value": "Oh, I see..."
+    },
+    {
+      "key": "EP09_S0541_0110",
+      "value": "I got one myself a few days ago. Same garbage\nas you, though."
+    },
+    {
+      "key": "EP09_S0541_0111",
+      "value": "I see..."
+    },
+    {
+      "key": "EP09_S0541_0112",
+      "value": "(...Huh? Is it my imagination, or are more\nparts legible compared to last time?)"
+    },
+    {
+      "key": "EP09_S0541_0113",
+      "value": "If you can’t read it, you can’t read it.\nMight as well forget about it for now."
+    },
+    {
+      "key": "EP09_S0541_0114",
+      "value": "Come on, Takuma. We should head back to the\nschool ourselves."
+    },
+    {
+      "key": "EP09_S0541_0115",
+      "value": "Yeah, sure. Let’s go..."
+    }
+  ]
+}

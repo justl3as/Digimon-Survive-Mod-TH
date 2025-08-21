@@ -1,0 +1,412 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP03_S0040_0001",
+      "value": "(I quickly got everyone together, and they\nwere all thrilled by Agumon’s discovery.)"
+    },
+    {
+      "key": "EP03_S0040_0002",
+      "value": "Those towers send cell signals too, right? If\nwe go there, our phones might start working!"
+    },
+    {
+      "key": "EP03_S0040_0003",
+      "value": "And I bet from a tall building like that, we\ncould get a great view of our surroundings!"
+    },
+    {
+      "key": "EP03_S0040_0004",
+      "value": "Just how tall is it?"
+    },
+    {
+      "key": "EP03_S0040_0005",
+      "value": "It’s super tall!"
+    },
+    {
+      "key": "EP03_S0040_0006",
+      "value": "Falcomon, you saw it too, right? How tall\nwould you say it was?"
+    },
+    {
+      "key": "EP03_S0040_0007",
+      "value": "Well, it’s hard to say with no comparison,\nbut it was taller than this school. "
+    },
+    {
+      "key": "EP03_S0040_0008",
+      "value": "If it’s that big, then there’s no doubt."
+    },
+    {
+      "key": "EP03_S0040_0009",
+      "value": "Do you think it’s working?"
+    },
+    {
+      "key": "EP03_S0040_0010",
+      "value": "That I do not know. After all, none of us\nhave even heard of these towers before. "
+    },
+    {
+      "key": "EP03_S0040_0011",
+      "value": "Well, if we went there we could find out. Who\nknows, maybe there’s someone there."
+    },
+    {
+      "key": "EP03_S0040_0012",
+      "value": "Yeah, sitting around talking about it isn’t\ngoing to do us much good."
+    },
+    {
+      "key": "EP03_S0040_0013",
+      "value": "Then it sounds like we’re in for a hike!\nLet’s do this, Aoi!"
+    },
+    {
+      "key": "EP03_S0040_0014",
+      "value": "A hike? What do you mean? What kind of hike?"
+    },
+    {
+      "key": "EP03_S0040_0015",
+      "value": "Oh, did we forget to tell you?"
+    },
+    {
+      "key": "EP03_S0040_0016",
+      "value": "The tower is on top of a mountain, through\nthe forest and over a mountain pass."
+    },
+    {
+      "key": "EP03_S0040_0017",
+      "value": "Wait, you mean we need to go through the\nforest?! You can’t be serious!"
+    },
+    {
+      "key": "EP03_S0040_0018",
+      "value": "This place is crawling with monsters! Just\nexploring around here would be risky,"
+    },
+    {
+      "key": "EP03_S0040_0019",
+      "value": "but you want to go climb a mountain? There’s\nno way! We should stay here!"
+    },
+    {
+      "key": "EP03_S0040_0020",
+      "value": "Shuuji, you don’t have to get so upset."
+    },
+    {
+      "key": "EP03_S0040_0021",
+      "value": "Shut up! I don’t want to hear another word\nfrom you!"
+    },
+    {
+      "key": "EP03_S0040_0022",
+      "value": "*sniff*... *sniff*..."
+    },
+    {
+      "key": "EP03_S0040_0023",
+      "value": "It doesn’t matter... Nothing we do matters..."
+    },
+    {
+      "key": "EP03_S0040_0024",
+      "value": "Kew..."
+    },
+    {
+      "key": "EP03_S0040_0025",
+      "value": "Say what you want, Shuuji, but nothing’s\ngoing to change if we just stay here."
+    },
+    {
+      "key": "EP03_S0040_0026",
+      "value": "What can a bunch of kids do? We need to wait\nfor the adults to come rescue us!"
+    },
+    {
+      "key": "EP03_S0040_0027",
+      "value": "As if anyone’s even coming... *mumble*\n*mumble*"
+    },
+    {
+      "key": "EP03_S0040_0028",
+      "value": "Yeah... Shuuji, you said it yourself.\nNobody’s coming for us."
+    },
+    {
+      "key": "EP03_S0040_0029",
+      "value": "I never said that! Not out loud! If I did,\nthat might make it come true..."
+    },
+    {
+      "key": "EP03_S0040_0030",
+      "value": "(Even knowing there wasn’t much chance of\na rescue, none really, Shuuji still hoped.)"
+    },
+    {
+      "key": "EP03_S0040_0031",
+      "value": "I’m... I’m going with you. Labramon, will you\ncome with me?"
+    },
+    {
+      "key": "EP03_S0040_0032",
+      "value": "You bet I will, Aoi!"
+    },
+    {
+      "key": "EP03_S0040_0033",
+      "value": "Wait, Aoi?! I thought you agreed we should\nstay here!"
+    },
+    {
+      "key": "EP03_S0040_0034",
+      "value": "If... If that tower has a cell signal..."
+    },
+    {
+      "key": "EP03_S0040_0035",
+      "value": "That would mean we could contact a teacher\nor someone else and call for help."
+    },
+    {
+      "key": "EP03_S0040_0036",
+      "value": "C-call for help?"
+    },
+    {
+      "key": "EP03_S0040_0037",
+      "value": "Yes, and then wait to be rescued. Are you\nreally still against this, Shuuji?"
+    },
+    {
+      "key": "EP03_S0040_0038",
+      "value": "You tell him, Aoi! And hey, that means now\na majority of us want to go explore!"
+    },
+    {
+      "key": "EP03_S0040_0039",
+      "value": "I’m interested in this tower too. That puts\nme, Minoru, Saki, and Aoi in favor of going."
+    },
+    {
+      "key": "EP03_S0040_0040",
+      "value": "You can’t be serious!"
+    },
+    {
+      "key": "EP03_S0040_0041",
+      "value": "So, what now, Shuuji?"
+    },
+    {
+      "key": "EP03_S0040_0042",
+      "value": "But...no..."
+    },
+    {
+      "key": "EP03_S0040_0043",
+      "value": "(Shuuji must really not want to go back out\nthere if he’s still not convinced.)"
+    },
+    {
+      "key": "EP03_S0040_0044",
+      "value": "(If only there were some way to win him\nover...)"
+    },
+    {
+      "key": "EP03_S0040_Q1",
+      "value": "(Why was he so opposed to exploration again?)"
+    },
+    {
+      "key": "EP03_S0040_Q1_A1",
+      "value": "We’ll run low on food?"
+    },
+    {
+      "key": "EP03_S0040_Q1_A2",
+      "value": "We might get lost?"
+    },
+    {
+      "key": "EP03_S0040_Q1_A3",
+      "value": "He has to get his way?"
+    },
+    {
+      "key": "EP03_S0040_Q1_A4",
+      "value": "We might be attacked?"
+    },
+    {
+      "key": "EP03_S0040_0045",
+      "value": "We’ll run low on food?"
+    },
+    {
+      "key": "EP03_S0040_0046",
+      "value": "Don’t worry Shuuji, it might not be much, but\nwe can bring some food with us."
+    },
+    {
+      "key": "EP03_S0040_0047",
+      "value": "Is that what you were worried about? I could\nteach you about edible plants if you want."
+    },
+    {
+      "key": "EP03_S0040_0048",
+      "value": "The food was never the issue!"
+    },
+    {
+      "key": "EP03_S0040_0049",
+      "value": "We might get lost?"
+    },
+    {
+      "key": "EP03_S0040_0050",
+      "value": "Is it far from here to the tower?"
+    },
+    {
+      "key": "EP03_S0040_0051",
+      "value": "Uhhh... It might be a bit of a walk?"
+    },
+    {
+      "key": "EP03_S0040_0052",
+      "value": "It is not far. We could explore the area and\nbe back before sundown."
+    },
+    {
+      "key": "EP03_S0040_0053",
+      "value": "Well, there you have it. I don’t think we\nneed to worry about getting lost."
+    },
+    {
+      "key": "EP03_S0040_0054",
+      "value": "Yeah... I guess not..."
+    },
+    {
+      "key": "EP03_S0040_0055",
+      "value": "He has to get his way?"
+    },
+    {
+      "key": "EP03_S0040_0056",
+      "value": "Shuuji, stubbornly opposing us because you\ncan’t get your way isn’t going to help."
+    },
+    {
+      "key": "EP03_S0040_0057",
+      "value": "What?! That’s...that’s not the issue here!"
+    },
+    {
+      "key": "EP03_S0040_0058",
+      "value": "It’s really not, Takuma. Shuuji isn’t that\npetty."
+    },
+    {
+      "key": "EP03_S0040_0059",
+      "value": "That’s right."
+    },
+    {
+      "key": "EP03_S0040_0060",
+      "value": "We might be attacked?"
+    },
+    {
+      "key": "EP03_S0040_0061",
+      "value": "Agumon, did you spot anything that seemed\ndangerous or that might attack us on the way?"
+    },
+    {
+      "key": "EP03_S0040_0062",
+      "value": "Not to worry! We didn’t get attacked once!"
+    },
+    {
+      "key": "EP03_S0040_0063",
+      "value": "I didn’t catch a whiff of anything suspicious\neither!"
+    },
+    {
+      "key": "EP03_S0040_0064",
+      "value": "So it’s not dangerous? Sounds like a no-\nbrainer!"
+    },
+    {
+      "key": "EP03_S0040_0065",
+      "value": "You really think it’s safe?"
+    },
+    {
+      "key": "EP03_S0040_0066",
+      "value": "I guess, in that case..."
+    },
+    {
+      "key": "EP03_S0040_0067",
+      "value": "*sigh* Well, when you put it that way,\nI guess I have no reason to stop you."
+    },
+    {
+      "key": "EP03_S0040_0068",
+      "value": "And it doesn’t make sense for me to stay\nhere by myself... Okay, let’s go."
+    },
+    {
+      "key": "EP03_S0040_0069",
+      "value": "Great! That’s all of us!"
+    },
+    {
+      "key": "EP03_S0040_0070",
+      "value": "Hey!"
+    },
+    {
+      "key": "EP03_S0040_0071",
+      "value": "Okay everybody, bye!"
+    },
+    {
+      "key": "EP03_S0040_0072",
+      "value": "Bye..."
+    },
+    {
+      "key": "EP03_S0040_0073",
+      "value": "What are you two talking about? You’re coming\nwith us."
+    },
+    {
+      "key": "EP03_S0040_0074",
+      "value": "Huh?"
+    },
+    {
+      "key": "EP03_S0040_0075",
+      "value": "Agreed. Especially considering what happened\nyesterday, it’s too dangerous to split up."
+    },
+    {
+      "key": "EP03_S0040_0076",
+      "value": "No, we’ll be fine. We both want to stay here."
+    },
+    {
+      "key": "EP03_S0040_0077",
+      "value": "Here..."
+    },
+    {
+      "key": "EP03_S0040_0078",
+      "value": "What will you do if a monster attacks and\nit’s just the two of you?"
+    },
+    {
+      "key": "EP03_S0040_0079",
+      "value": "A...monster?"
+    },
+    {
+      "key": "EP03_S0040_0080",
+      "value": "Before you two got here, this place was\na giant spider’s nest. It’s not safe either."
+    },
+    {
+      "key": "EP03_S0040_0081",
+      "value": "A...a spider?!"
+    },
+    {
+      "key": "EP03_S0040_0082",
+      "value": "And let’s not forget, neither of you have\na partner monster."
+    },
+    {
+      "key": "EP03_S0040_0083",
+      "value": "Well...uh...maybe not, but..."
+    },
+    {
+      "key": "EP03_S0040_0084",
+      "value": "Don’t worry! Falcomon and me have got your\nbacks!"
+    },
+    {
+      "key": "EP03_S0040_0085",
+      "value": "Indeed. We will not let any harm come to you."
+    },
+    {
+      "key": "EP03_S0040_0086",
+      "value": "And I’ll help keep you safe, too!"
+    },
+    {
+      "key": "EP03_S0040_0087",
+      "value": "Never one to be left out, are you?"
+    },
+    {
+      "key": "EP03_S0040_0088",
+      "value": "Yeah, Agumon’s like this all the time. "
+    },
+    {
+      "key": "EP03_S0040_0089",
+      "value": "All right, that makes all of us. We’ll leave\nas soon as we’re packed, okay?"
+    },
+    {
+      "key": "EP03_S0040_0090",
+      "value": "Oh, and Ryo, you’ll look after the place\nwhile we’re gone, won’t you?"
+    },
+    {
+      "key": "EP03_S0040_0091",
+      "value": "W-wait! Don’t you go leaving me behind!\nI’m going too, okay?!"
+    },
+    {
+      "key": "EP03_S0040_0092",
+      "value": "Why would you take those brats, and not me?!"
+    },
+    {
+      "key": "EP03_S0040_0093",
+      "value": "Oh, come on, Ryo. How’re you so uncooperative\nif you can’t handle being on your own?"
+    },
+    {
+      "key": "EP03_S0040_0094",
+      "value": "Aw, it’s all right... At least he’s finally\nback to being the Ryo we know."
+    },
+    {
+      "key": "EP03_S0040_0095",
+      "value": "He’s been a little off lately, but the guy’s\nsupposed to be bitter and crabby."
+    },
+    {
+      "key": "EP03_S0040_0096",
+      "value": "If you say so..."
+    },
+    {
+      "key": "EP03_S0040_0097",
+      "value": "Tch... Damn it... I... I’m... *mumble*\n*mumble*"
+    }
+  ]
+}

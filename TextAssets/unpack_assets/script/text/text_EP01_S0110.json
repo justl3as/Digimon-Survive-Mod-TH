@@ -1,0 +1,236 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0110_0101",
+      "value": "(So this is camp, huh?)"
+    },
+    {
+      "key": "EP01_S0110_0002",
+      "value": "(I say “camp,” but we’re holed up in an\nabandoned school in the mountains here.)"
+    },
+    {
+      "key": "EP01_S0110_0003",
+      "value": "(Leave it to us to spend our school break\ngoing to another school...)"
+    },
+    {
+      "key": "EP01_S0110_0004",
+      "value": "(Not that this school is anything like the\none we usually go to.)"
+    },
+    {
+      "key": "EP01_S0110_0102",
+      "value": "(Not that this school is anything like the\none we usually go to.)"
+    },
+    {
+      "key": "EP01_S0110_0103",
+      "value": "’Sup, Takuma! Today we’re checking out that\ncrusty old <color=#B41919>landmark</color>? Sounds laaame..."
+    },
+    {
+      "key": "EP01_S0110_0104",
+      "value": "Come on, don’t say that, Minoru!\nNot like I disagree, but still."
+    },
+    {
+      "key": "EP01_S0110_0105",
+      "value": "Hey, you two, don’t talk like that!\nDidn’t you hear? This isn’t a vacation."
+    },
+    {
+      "key": "EP01_S0110_0106",
+      "value": "Yeah, yeah, sooo sorry, Your Highness."
+    },
+    {
+      "key": "EP01_S0110_0107",
+      "value": "*sigh* Again with that kind of talk..."
+    },
+    {
+      "key": "EP01_S0110_0008",
+      "value": "(That knucklehead over there is Minoru,\nand the girl lecturing him is Aoi.)"
+    },
+    {
+      "key": "EP01_S0110_0109",
+      "value": "(I didn’t talk to him much at school. Aoi’s\ncool; she came here from a different school.)"
+    },
+    {
+      "key": "EP01_S0110_0010",
+      "value": "(We got to know each other more here at camp,\nand that’s mostly thanks to Minoru.)"
+    },
+    {
+      "key": "EP01_S0110_0011",
+      "value": "(The three of us ended up doing our\nextracurricular activities together.)"
+    },
+    {
+      "key": "EP01_S0110_Q1",
+      "value": "(Maybe I should break things up here...)"
+    },
+    {
+      "key": "EP01_S0110_Q1_A1",
+      "value": "Just wait and see."
+    },
+    {
+      "key": "EP01_S0110_Q1_A2",
+      "value": "Ask Aoi about our plan."
+    },
+    {
+      "key": "EP01_S0110_0112",
+      "value": "Is Minoru all right?"
+    },
+    {
+      "key": "EP01_S0110_0012",
+      "value": "You’d better review today’s course, or you’ll\nend up getting lost again."
+    },
+    {
+      "key": "EP01_S0110_0013",
+      "value": "Why you treating me like a little kid here?!\nI ain’t gonna go crying to mama, you know!"
+    },
+    {
+      "key": "EP01_S0110_0014",
+      "value": "(Well to her, he must look like a kid. Still,\nAoi’s pretty patient with that mouth of his.)"
+    },
+    {
+      "key": "EP01_S0110_0113",
+      "value": "(Well to her, he must look like a kid. Still,\nAoi’s pretty patient with that mouth of his.)"
+    },
+    {
+      "key": "EP01_S0110_0015",
+      "value": "(Calm, gentle and cute to boot... Even\nI forget about the age difference sometimes.)"
+    },
+    {
+      "key": "EP01_S0110_0016",
+      "value": "(She doesn’t get annoyed by the younger kids,\nwhich makes her a perfect match for Minoru.)"
+    },
+    {
+      "key": "EP01_S0110_0114",
+      "value": "I’ll ask Aoi about the course."
+    },
+    {
+      "key": "EP01_S0110_0115",
+      "value": "What’s today’s route, Aoi? We’re starting at\nthe cherry blossom trees, right?"
+    },
+    {
+      "key": "EP01_S0110_0017",
+      "value": "...Today we’re going here, and then I think\nover here. And do you know why, Minoru?"
+    },
+    {
+      "key": "EP01_S0110_0018",
+      "value": "Something about local legends or religion,\nright? They say there’s some weird stuff!"
+    },
+    {
+      "key": "EP01_S0110_0019",
+      "value": "Not that it matters to me! I’m just here for\nfun in the sun!"
+    },
+    {
+      "key": "EP01_S0110_0020",
+      "value": "*sigh* You’re the only one I can rely on,\nTakuma. Keep an eye on him, would you?"
+    },
+    {
+      "key": "EP01_S0110_0021",
+      "value": "Uh, it’s not like I’m Minoru’s babysitter..."
+    },
+    {
+      "key": "EP01_S0110_0022",
+      "value": "Oh, WOW!"
+    },
+    {
+      "key": "EP01_S0110_0023",
+      "value": "Huh? What is it?"
+    },
+    {
+      "key": "EP01_S0110_0200",
+      "value": "(Looks like Minoru’s noticed something on his\nphone.)"
+    },
+    {
+      "key": "EP01_S0110_0024",
+      "value": "Check it out! There’s another story about a rockslide!"
+    },
+    {
+      "key": "EP01_S0110_0025",
+      "value": "That’s several days in a row, now. I hope it\ndoesn’t mean an earthquake’s coming..."
+    },
+    {
+      "key": "EP01_S0110_0026",
+      "value": "Not just that, but look here. Isn’t this\nclose to where we’re supposed to go today?"
+    },
+    {
+      "key": "EP01_S0110_0027",
+      "value": "Wait, really? I wonder if our plans for the\nday are still on?"
+    },
+    {
+      "key": "EP01_S0110_0028",
+      "value": "(You can feel the tension in the air around\nhere. Someone must have shared the news.)"
+    },
+    {
+      "key": "EP01_S0110_0029",
+      "value": "All right, everyone, CALM DOWN!\nEverything’s going to be JUST FINE!"
+    },
+    {
+      "key": "EP01_S0110_0030",
+      "value": "The teachers gave us CLEAR INSTRUCTIONS\nfor dealing with ANY emergency!"
+    },
+    {
+      "key": "EP01_S0110_0031",
+      "value": "Ho boy, there goes Shuuji again."
+    },
+    {
+      "key": "EP01_S0110_0032",
+      "value": "His voice is the loudest of all. He’s the one\nwho needs to take a chill pill."
+    },
+    {
+      "key": "EP01_S0110_0033",
+      "value": "Come on now, don’t talk about him like that."
+    },
+    {
+      "key": "EP01_S0110_0034",
+      "value": "Well, I guess seeing someone that freaked out\nmakes you feel calmer by comparison, right?"
+    },
+    {
+      "key": "EP01_S0110_0035",
+      "value": "...You might have a point."
+    },
+    {
+      "key": "EP01_S0110_0116",
+      "value": "(Shuuji is an alumnus of Aoi’s school, so he\ncame to help chaperone.)"
+    },
+    {
+      "key": "EP01_S0110_0117",
+      "value": "(We just met yesterday, but I get the feeling\nhis “enthusiasm” hurts more than it helps...)"
+    },
+    {
+      "key": "EP01_S0110_0044",
+      "value": "The teachers and chaperones are ensuring our\nsafety, so there is NOTHING to WORRY ABOUT!"
+    },
+    {
+      "key": "EP01_S0110_0045",
+      "value": "Fear not, fellow students! Our destination is\nthis historic <color=#B41919>landmark</color>. OFF WE GO!"
+    },
+    {
+      "key": "EP01_S0110_0049",
+      "value": "There he goes, at it again! That Shuuji is\ntoo straight-laced for his own good..."
+    },
+    {
+      "key": "EP01_S0110_0050",
+      "value": "Is that any way to talk about someone two\nyears older than you?"
+    },
+    {
+      "key": "EP01_S0110_0051",
+      "value": "Right you are, my little Aoi!"
+    },
+    {
+      "key": "EP01_S0110_0052",
+      "value": "And do I have to remind you, Minoru, that I’m\nactually in a grade above yours?"
+    },
+    {
+      "key": "EP01_S0110_0053",
+      "value": "I mean, shouldn’t you act like it then,\nor something?"
+    },
+    {
+      "key": "EP01_S0110_0054",
+      "value": "You should be more of a nag, like...\n“I told you to knock that off!”"
+    },
+    {
+      "key": "EP01_S0110_0055",
+      "value": "Does that sound like something I would say?\nLet’s go before we’re left behind. Takuma?"
+    },
+    {
+      "key": "EP01_S0110_0056",
+      "value": "Yeah, c’mon, Takuma! Let’s hit it!"
+    }
+  ]
+}

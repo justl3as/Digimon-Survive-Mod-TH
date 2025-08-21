@@ -1,0 +1,452 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP04_S0087_0001",
+      "value": "Very good now, the exit’s over this way."
+    },
+    {
+      "key": "EP04_S0087_0002",
+      "value": "(We all left the cell as the old man\nsuggested, but...)"
+    },
+    {
+      "key": "EP04_S0087_0003",
+      "value": "Hey, should we really just be following this\nguy? It could be another trap."
+    },
+    {
+      "key": "EP04_S0087_0004",
+      "value": "What’s that? Am I so suspicious?"
+    },
+    {
+      "key": "EP04_S0087_0005",
+      "value": "Yikes! He heard me!"
+    },
+    {
+      "key": "EP04_S0087_0006",
+      "value": "How can you expect us to trust a monster like\nyou?"
+    },
+    {
+      "key": "EP04_S0087_0007",
+      "value": "Shuuji, you don’t have to put it like that."
+    },
+    {
+      "key": "EP04_S0087_0008",
+      "value": "Yeah! If nothing else, he at least let us out\nof that cell, didn’t he?"
+    },
+    {
+      "key": "EP04_S0087_0009",
+      "value": "But how do you know he’s not taking us\nsomeplace even worse?"
+    },
+    {
+      "key": "EP04_S0087_0010",
+      "value": "Have you all forgotten what happened\nyesterday?!"
+    },
+    {
+      "key": "EP04_S0087_0011",
+      "value": "Remember how Arukenimon tricked us? How much\nwe suffered because we trusted her?"
+    },
+    {
+      "key": "EP04_S0087_0012",
+      "value": "Shuuji’s right. I could’ve died out there.\nI don’t think we can be too careful."
+    },
+    {
+      "key": "EP04_S0087_0013",
+      "value": "Well, no, but—"
+    },
+    {
+      "key": "EP04_S0087_0014",
+      "value": "(Shuuji does have a point.)"
+    },
+    {
+      "key": "EP04_S0087_0015",
+      "value": "(We did get tricked by Arukenimon yesterday,\nand the results were terrible.)"
+    },
+    {
+      "key": "EP04_S0087_0016",
+      "value": "(But should we let that make us paranoid?)"
+    },
+    {
+      "key": "EP04_S0087_0017",
+      "value": "Well, I won’t force you to come with me. What\nis it you propose to do?"
+    },
+    {
+      "key": "EP04_S0087_0018",
+      "value": "(We don’t have many options. If we want to\nleave, I feel like we’ll have to trust him.)"
+    },
+    {
+      "key": "EP04_S0087_0019",
+      "value": "(But Shuuji could be right about this being\na trap.)"
+    },
+    {
+      "key": "EP04_S0087_0020",
+      "value": "(In which case, should we find our own way\nout? Or wait until Miu’s in a better mood?)"
+    },
+    {
+      "key": "EP04_S0087_Q1",
+      "value": "(How should we get out of here?)"
+    },
+    {
+      "key": "EP04_S0087_Q1_A1",
+      "value": "Follow along!"
+    },
+    {
+      "key": "EP04_S0087_Q1_A2",
+      "value": "Find our own way."
+    },
+    {
+      "key": "EP04_S0087_Q1_A3",
+      "value": "Try to wait on Miu?"
+    },
+    {
+      "key": "EP04_S0087_0021",
+      "value": "Follow along."
+    },
+    {
+      "key": "EP04_S0087_0022",
+      "value": "Well, I think we should trust this guy and\nfollow his lead."
+    },
+    {
+      "key": "EP04_S0087_0023",
+      "value": "Takuma! How can you decide that so easily?!"
+    },
+    {
+      "key": "EP04_S0087_0024",
+      "value": "Nothing about the decision was easy."
+    },
+    {
+      "key": "EP04_S0087_0025",
+      "value": "But don’t you think his letting us out of\nthat cell without telling Miu and Syakomon..."
+    },
+    {
+      "key": "EP04_S0087_0026",
+      "value": "...earns him some trust?"
+    },
+    {
+      "key": "EP04_S0087_0027",
+      "value": "But you can’t prove this isn’t a trap!"
+    },
+    {
+      "key": "EP04_S0087_0028",
+      "value": "Maybe not."
+    },
+    {
+      "key": "EP04_S0087_0029",
+      "value": "I... I just feel like we can trust this guy."
+    },
+    {
+      "key": "EP04_S0087_0030",
+      "value": "I think so too."
+    },
+    {
+      "key": "EP04_S0087_0031",
+      "value": "Too..."
+    },
+    {
+      "key": "EP04_S0087_0032",
+      "value": "It’s unusual for those children to offer an\nopinion without being asked."
+    },
+    {
+      "key": "EP04_S0087_0033",
+      "value": "Kids can be pretty good at intuiting this\nsort of thing. I think I’m convinced."
+    },
+    {
+      "key": "EP04_S0087_0034",
+      "value": "Grr... If... If anything happens, be ready to\nrun for it."
+    },
+    {
+      "key": "EP04_S0087_0035",
+      "value": "Find our own way."
+    },
+    {
+      "key": "EP04_S0087_0036",
+      "value": "Well, now that we’re out of the cell, we can\nlook for the exit ourselves."
+    },
+    {
+      "key": "EP04_S0087_0037",
+      "value": "You mean...you don’t trust this guy?"
+    },
+    {
+      "key": "EP04_S0087_0038",
+      "value": "No, I’m just saying that might be the safest\nthing to do."
+    },
+    {
+      "key": "EP04_S0087_0039",
+      "value": "Because you don’t trust him."
+    },
+    {
+      "key": "EP04_S0087_0040",
+      "value": "Really? Even though he’s the one who let us\nout?"
+    },
+    {
+      "key": "EP04_S0087_0041",
+      "value": "(Wait, why’s everybody ganging up on me all\nof a sudden?)"
+    },
+    {
+      "key": "EP04_S0087_0042",
+      "value": "You’re all welcome to find your own way if\nyou want, but this place is kind of a maze."
+    },
+    {
+      "key": "EP04_S0087_0043",
+      "value": "Should you get lost, you may never see the\nsurface again."
+    },
+    {
+      "key": "EP04_S0087_0044",
+      "value": "What?! You mean we’d be stuck wandering\naround underground forever?"
+    },
+    {
+      "key": "EP04_S0087_0045",
+      "value": "Never mind! Let’s stick with this guy!\nYeah, I’m sure that’s for the best!"
+    },
+    {
+      "key": "EP04_S0087_0046",
+      "value": "Right. Let’s do that."
+    },
+    {
+      "key": "EP04_S0087_0047",
+      "value": "I... I guess we have to."
+    },
+    {
+      "key": "EP04_S0087_0048",
+      "value": "Wait on Miu."
+    },
+    {
+      "key": "EP04_S0087_0049",
+      "value": "What if we went back into the cell and waited\nfor Miu to change her mind?"
+    },
+    {
+      "key": "EP04_S0087_0050",
+      "value": "What?! But we just got out of there!"
+    },
+    {
+      "key": "EP04_S0087_0051",
+      "value": "I...don’t really want to be locked up again."
+    },
+    {
+      "key": "EP04_S0087_0052",
+      "value": "But I’m sure Miu doesn’t mean us any real\nharm."
+    },
+    {
+      "key": "EP04_S0087_0053",
+      "value": "After she’s calmed down, don’t you think\nshe’ll come talk with—"
+    },
+    {
+      "key": "EP04_S0087_0054",
+      "value": "You don’t know what you’re talking about."
+    },
+    {
+      "key": "EP04_S0087_0055",
+      "value": "If we wait for her to change her mind, we\ncould be in there for days."
+    },
+    {
+      "key": "EP04_S0087_0056",
+      "value": "You...really think so?"
+    },
+    {
+      "key": "EP04_S0087_0057",
+      "value": "She’s extremely stubborn. Plus..."
+    },
+    {
+      "key": "EP04_S0087_0058",
+      "value": "She’s always been the type to forget about\neverything else once she’s into something."
+    },
+    {
+      "key": "EP04_S0087_0059",
+      "value": "Well, I’d hate to rot away in that cell until\nMiu decides to free my mummified remains."
+    },
+    {
+      "key": "EP04_S0087_0060",
+      "value": "Which may well be a real possibility. Why not\njust follow along with me for now?"
+    },
+    {
+      "key": "EP04_S0087_0061",
+      "value": "Yeah...let’s do that."
+    },
+    {
+      "key": "EP04_S0087_0062",
+      "value": "Now then, shall I resume escorting you out of\nthis place?"
+    },
+    {
+      "key": "EP04_S0087_0063",
+      "value": "Yes, please."
+    },
+    {
+      "key": "EP04_S0087_0064",
+      "value": "But...would you mind telling us about\nyourself as we go?"
+    },
+    {
+      "key": "EP04_S0087_0065",
+      "value": "Yeah, I’d feel safer if we knew more about\nyou."
+    },
+    {
+      "key": "EP04_S0087_0066",
+      "value": "Very well, then. I suppose I can tell you\nabout myself along the way."
+    },
+    {
+      "key": "EP04_S0087_0067",
+      "value": "Oh, start with your name! Tell us your name!"
+    },
+    {
+      "key": "EP04_S0087_0068",
+      "value": "I am Jijimon."
+    },
+    {
+      "key": "EP04_S0087_0069",
+      "value": "So, Jijimon, sorry to ask this again, but...\nwhy did you let us out of that cell?"
+    },
+    {
+      "key": "EP04_S0087_0070",
+      "value": "Yeah, aren’t you one of Miu’s servants or\nwhatever?"
+    },
+    {
+      "key": "EP04_S0087_0071",
+      "value": "Hoho!"
+    },
+    {
+      "key": "EP04_S0087_0072",
+      "value": "I’m actually the one who was more or less in\ncharge here until recently."
+    },
+    {
+      "key": "EP04_S0087_0073",
+      "value": "You mean...you’re like the old king?"
+    },
+    {
+      "key": "EP04_S0087_0074",
+      "value": "Oh no, I simply tried to ensure that small\nand weak creatures could live here in peace."
+    },
+    {
+      "key": "EP04_S0087_0075",
+      "value": "But then, why is Miu the queen?"
+    },
+    {
+      "key": "EP04_S0087_0076",
+      "value": "All the little monsters we ran into here were\nscared of her."
+    },
+    {
+      "key": "EP04_S0087_0077",
+      "value": "I’m afraid those I looked after are rather\nsimple-minded and gullible."
+    },
+    {
+      "key": "EP04_S0087_0078",
+      "value": "They were easily taken in."
+    },
+    {
+      "key": "EP04_S0087_0079",
+      "value": "Yeah, I can see that."
+    },
+    {
+      "key": "EP04_S0087_0080",
+      "value": "Her Rowdiness’s companion is quite sharp. She\npretended to have been turned into a rock..."
+    },
+    {
+      "key": "EP04_S0087_0081",
+      "value": "...then faked her recovery. The others now\nbelieve Her Rowdiness to be a sorceress."
+    },
+    {
+      "key": "EP04_S0087_0082",
+      "value": "Wait, you mean all Syakomon did was open and\nclose her shell?"
+    },
+    {
+      "key": "EP04_S0087_0083",
+      "value": "That’s what they meant when they said she\ncould turn things to stone?"
+    },
+    {
+      "key": "EP04_S0087_0084",
+      "value": "It wasn’t even some powerful monster ability?"
+    },
+    {
+      "key": "EP04_S0087_0085",
+      "value": "Wow, are the monsters that live here really\nthat dense?"
+    },
+    {
+      "key": "EP04_S0087_0086",
+      "value": "And why didn’t you do something? Weren’t you\nthe one who’d been taking care of them?"
+    },
+    {
+      "key": "EP04_S0087_0087",
+      "value": "Well, they all seemed like they were having\nso much fun, I didn’t see the harm in it."
+    },
+    {
+      "key": "EP04_S0087_0088",
+      "value": "I took it as an opportunity to retire."
+    },
+    {
+      "key": "EP04_S0087_0089",
+      "value": "Meanwhile, look at how things turned out!"
+    },
+    {
+      "key": "EP04_S0087_0090",
+      "value": "You should’ve stepped up earlier, right,\nKaito?"
+    },
+    {
+      "key": "EP04_S0087_0091",
+      "value": "Nah, if anything, I feel like I owe this guy\nan apology."
+    },
+    {
+      "key": "EP04_S0087_0092",
+      "value": "I’m sorry my little sister’s caused you so\nmuch trouble."
+    },
+    {
+      "key": "EP04_S0087_0093",
+      "value": "Well, I hardly even know what to say to that."
+    },
+    {
+      "key": "EP04_S0087_0094",
+      "value": "Don’t worry about it."
+    },
+    {
+      "key": "EP04_S0087_0095",
+      "value": "No, you don’t understand. You see, I was\nrather enjoying myself too."
+    },
+    {
+      "key": "EP04_S0087_0096",
+      "value": "You were?"
+    },
+    {
+      "key": "EP04_S0087_0097",
+      "value": "Yes. You see, Her Rowdiness doesn’t do any\nsort of cleaning or picking up after herself."
+    },
+    {
+      "key": "EP04_S0087_0098",
+      "value": "It’s given me the perfect excuse to help care\nfor the others even more."
+    },
+    {
+      "key": "EP04_S0087_0099",
+      "value": "What?! It’s like you’re the stereotype of\nsome kindly old man!"
+    },
+    {
+      "key": "EP04_S0087_0100",
+      "value": "Well, sorry, but she’s my little sister, and\nI’m gonna get her to come back with me."
+    },
+    {
+      "key": "EP04_S0087_0101",
+      "value": "Yes, yes, I understand. That I will leave to\nyou. I’m sure you’ll think of something."
+    },
+    {
+      "key": "EP04_S0087_0102",
+      "value": "What? You’re not going to offer to help us or\nanything?"
+    },
+    {
+      "key": "EP04_S0087_0103",
+      "value": "Am I not taking you to the exit as we speak?"
+    },
+    {
+      "key": "EP04_S0087_0104",
+      "value": "Oh, yeah. I mean, I appreciate that..."
+    },
+    {
+      "key": "EP04_S0087_0105",
+      "value": "And would you look at that. We talked for so\nlong now that we’ve reached the next path."
+    },
+    {
+      "key": "EP04_S0087_0106",
+      "value": "Is it still a long way to the surface?"
+    },
+    {
+      "key": "EP04_S0087_0107",
+      "value": "Oh, it’s not much farther, but I’d better\nstay with you to be sure you don’t get lost."
+    },
+    {
+      "key": "EP04_S0087_0108",
+      "value": "(Wow, having Jijimon lead the way was\ndefinitely the right choice.)"
+    }
+  ]
+}

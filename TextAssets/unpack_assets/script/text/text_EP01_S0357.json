@@ -1,0 +1,60 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0357_0001",
+      "value": "Huh... Something doesn’t feel right..."
+    },
+    {
+      "key": "EP01_S0357_0002",
+      "value": "You too? So I’m not the only one."
+    },
+    {
+      "key": "EP01_S0357_Q1",
+      "value": "(Aoi’s not here... What should I do?)"
+    },
+    {
+      "key": "EP01_S0357_Q1_A1",
+      "value": "Warn Minoru."
+    },
+    {
+      "key": "EP01_S0357_Q1_A2",
+      "value": "Take Minoru and go."
+    },
+    {
+      "key": "EP01_S0357_0003",
+      "value": "Be careful, Minoru. That thing that grabbed\nAoi might be lurking around here."
+    },
+    {
+      "key": "EP01_S0357_0004",
+      "value": "I got it, I got it. If anyone shows up, me\nand Falcomon’ll take them out!"
+    },
+    {
+      "key": "EP01_S0357_0005",
+      "value": "(I appreciate his determination, but I hope\nhe doesn’t do anything risky...)"
+    },
+    {
+      "key": "EP01_S0357_0006",
+      "value": "I feel it, too... This place is dangerous.\nLet’s get out of here."
+    },
+    {
+      "key": "EP01_S0357_0007",
+      "value": "Hold on, let’s see what happens first."
+    },
+    {
+      "key": "EP01_S0357_0008",
+      "value": "It’ll be fine. Falcomon’s with me, and if\nthings get bad we can always just run away."
+    },
+    {
+      "key": "EP01_S0357_0009",
+      "value": "Rightly so. Leave this to Minoru."
+    },
+    {
+      "key": "EP01_S0357_0010",
+      "value": "Fair enough. Just don’t do anything too\nrisky, okay?"
+    },
+    {
+      "key": "EP01_S0357_0011",
+      "value": "I’m gonna look around here a little more. Why\ndon’t you cover another spot?"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "scenario_text": [
+    {
+      "key": "EP01_S0681_0001",
+      "value": "Looks like the gym is up ahead."
+    },
+    {
+      "key": "EP01_S0681_0002",
+      "value": "Hnnnnnngh! Boy, I can’t get this door to move\nan inch!"
+    },
+    {
+      "key": "EP01_S0681_0003",
+      "value": "It’s no good, we can’t figure out the source\nof the sound unless we open the door."
+    },
+    {
+      "key": "EP01_S0681_0004",
+      "value": "Let’s check other places for now."
+    },
+    {
+      "key": "EP01_S0681_0005",
+      "value": "Is there anywhere else we can look?"
+    },
+    {
+      "key": "EP01_S0681_0006",
+      "value": "Aoi is in there! I can feel it!"
+    },
+    {
+      "key": "EP01_S0681_0007",
+      "value": "Really?!"
+    },
+    {
+      "key": "EP01_S0681_0008",
+      "value": "No doubt about it! I’d never mistake her\npresence for someone else!"
+    },
+    {
+      "key": "EP01_S0681_0009",
+      "value": "Okay, so we know she’s in there at least!\nHold on, Aoi, we’re coming to save you!"
+    },
+    {
+      "key": "EP01_S0681_0010",
+      "value": "...Damn, the door won’t budge!"
+    },
+    {
+      "key": "EP01_S0681_0011",
+      "value": "I don’t see a lock anywhere.\nIs it those spiderwebs?!"
+    },
+    {
+      "key": "EP01_S0681_0012",
+      "value": "What should we do, Takuma?!"
+    },
+    {
+      "key": "EP01_S0681_0013",
+      "value": "What do I do... What do I do?! She’s just on\nthe other side of this, and yet..."
+    },
+    {
+      "key": "EP01_S0681_0014",
+      "value": "I have to protect her... Why can’t I protect\nher...?!"
+    },
+    {
+      "key": "EP01_S0681_0015",
+      "value": "(Poor Labramon... Her precious person is so\nclose, and she can’t do anything about it.)"
+    },
+    {
+      "key": "EP01_S0681_Q1",
+      "value": "(What should I do for Labramon?)"
+    },
+    {
+      "key": "EP01_S0681_Q1_A1",
+      "value": "I should talk to her."
+    },
+    {
+      "key": "EP01_S0681_Q1_A2",
+      "value": "Maybe I’ll keep quiet."
+    },
+    {
+      "key": "EP01_S0681_0016",
+      "value": "It’ll be okay, Labramon. If we work together,\nwe’ll definitely rescue her."
+    },
+    {
+      "key": "EP01_S0681_0017",
+      "value": "B-but how? We can’t get past this door..."
+    },
+    {
+      "key": "EP01_S0681_0018",
+      "value": "That’s...hmm. Well, the enemy has to get out\nof there, so maybe there’s another path?"
+    },
+    {
+      "key": "EP01_S0681_0019",
+      "value": "Oh! Yeah, that makes sense!"
+    },
+    {
+      "key": "EP01_S0681_0020",
+      "value": "There must be another way in! I’ll try and\nsniff it out!"
+    },
+    {
+      "key": "EP01_S0681_0021",
+      "value": "(Shoot, I don’t know how to comfort her.\nI think anything I say will make her sad.)"
+    },
+    {
+      "key": "EP01_S0681_0022",
+      "value": "(I should think of a way to get over there...)"
+    },
+    {
+      "key": "EP01_S0681_0023",
+      "value": "Hmm... I think this has been blocked off for\na while. Maybe there’s another way in?"
+    },
+    {
+      "key": "EP01_S0681_0024",
+      "value": "What? You think so?!"
+    },
+    {
+      "key": "EP01_S0681_0025",
+      "value": "Really?! Okay, I’ll go sniff it out!"
+    },
+    {
+      "key": "EP01_S0681_0026",
+      "value": "Ah, wait, Labramon!"
+    },
+    {
+      "key": "EP01_S0681_0200",
+      "value": "Wah?!"
+    },
+    {
+      "key": "EP01_S0681_0201",
+      "value": "(Huh, I got a message? But how? I thought the\ncamera was the only thing working.)"
+    },
+    {
+      "key": "EP01_S0681_0202",
+      "value": "(What the—? This doesn’t make any sense.\nIt’s just a string of random symbols.)"
+    },
+    {
+      "key": "EP01_S0681_0203",
+      "value": "Something wrong, Takuma?"
+    },
+    {
+      "key": "EP01_S0681_0204",
+      "value": "Uh, nope! Just forget about it."
+    },
+    {
+      "key": "EP01_S0681_0205",
+      "value": "(Who’d send a message like this? I’d better\nput it on the back burner for now.)"
+    },
+    {
+      "key": "EP01_S0681_0027",
+      "value": "Let’s go look too, Agumon!"
+    },
+    {
+      "key": "EP01_S0681_0028",
+      "value": "Way ahead of you!"
+    }
+  ]
+}

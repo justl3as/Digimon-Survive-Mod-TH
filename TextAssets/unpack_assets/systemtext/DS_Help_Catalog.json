@@ -1,0 +1,1064 @@
+{
+  "DS_Help_Catalog": [
+    {
+      "key": "HELP_NAME_ADV_01",
+      "value": "Decisions"
+    },
+    {
+      "key": "HELP_NAME_ADV_02",
+      "value": "Karma"
+    },
+    {
+      "key": "HELP_NAME_ADV_03",
+      "value": "Karma and Evolution"
+    },
+    {
+      "key": "HELP_NAME_ADV_04",
+      "value": "Affinity"
+    },
+    {
+      "key": "HELP_NAME_ADV_05",
+      "value": "Unlocking Evolutions"
+    },
+    {
+      "key": "HELP_NAME_ADV_06",
+      "value": "Free Actions"
+    },
+    {
+      "key": "HELP_NAME_ADV_07",
+      "value": "Free Action Move Limit"
+    },
+    {
+      "key": "HELP_NAME_ADV_08",
+      "value": "Using Moves"
+    },
+    {
+      "key": "HELP_NAME_ADV_09",
+      "value": "Free Battles"
+    },
+    {
+      "key": "HELP_NAME_ADV_10",
+      "value": "Exploration"
+    },
+    {
+      "key": "HELP_NAME_ADV_11",
+      "value": "Exploration Control & Progress"
+    },
+    {
+      "key": "HELP_NAME_ADV_12",
+      "value": "Exploration Control & Progress"
+    },
+    {
+      "key": "HELP_NAME_ADV_13",
+      "value": "Exploration Control & Progress"
+    },
+    {
+      "key": "HELP_NAME_ADV_14",
+      "value": "Investigation"
+    },
+    {
+      "key": "HELP_NAME_ADV_15",
+      "value": "Camera Mode"
+    },
+    {
+      "key": "HELP_NAME_ADV_16",
+      "value": "Camera Mode"
+    },
+    {
+      "key": "HELP_NAME_ADV_17",
+      "value": "Camera Mode"
+    },
+    {
+      "key": "HELP_NAME_ADV_18",
+      "value": "Enemy Encounters"
+    },
+    {
+      "key": "HELP_NAME_ADV_19",
+      "value": "Opening the Pause Menu"
+    },
+    {
+      "key": "HELP_NAME_ADV_20",
+      "value": "Opening the Pause Menu"
+    },
+    {
+      "key": "HELP_NAME_ADV_21",
+      "value": "Opening the Pause Menu"
+    },
+    {
+      "key": "HELP_NAME_ADV_22",
+      "value": "Shortcut Controls"
+    },
+    {
+      "key": "HELP_NAME_ADV_23",
+      "value": "Shortcut Controls"
+    },
+    {
+      "key": "HELP_NAME_ADV_24",
+      "value": "Shortcut Controls"
+    },
+    {
+      "key": "HELP_DETAIL_ADV_01",
+      "value": "Decisions will have to be made at certain points in the story. The player can select one of the options displayed on-screen. Depending on your choices, your Karma or Affinity to the target character may change."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_02",
+      "value": "Karma is a value showing the player’s dispositional tendencies, and changes with your decisions. You can check your current status on the Profile screen in the menu. There are three types of Karma: Harmonious, Wrathful, and Moral. This value changes how the story unfolds."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_03",
+      "value": "Karma will affect Agumon’s evolution."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_04",
+      "value": "Affinity is a value showing your intimacy with other characters, and changes with your decisions. You can check your current status on the Profile screen in the menu. Affinity affects the evolution of other characters’ monsters, the frequency of battle backup in combat, and more."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_05",
+      "value": "Special destinations for partner monsters of characters with a certain level of Affinity will be added to the Map after specific chapters. Moving to one of these destinations will trigger an evolution event, unlocking a new evolution for that character."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_06",
+      "value": "A situation referred to as Free Action can occur during the story. Free Action is basically like Exploration, but has limited moves, and acts mainly to raise Affinity with other characters."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_07",
+      "value": "You have a limited number of moves during Free Action. This limit is displayed at the top-right corner of the Map screen (remaining moves/total moves). Free Action ends when you run out of moves. When that happens, you must speak to the character whose Affinity you want to raise."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_08",
+      "value": "Moves are consumed by talking with characters, or by triggering certain events. Conversations and events that consume moves have a <sprite index=4> displayed on the map list or focused target."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_09",
+      "value": "During Free Action, entering spots on the map with a <sprite index=1> mark will trigger a Free Battle. Battles against Free Monsters (monsters that aren’t main character partner monsters) are opportunities to gain experience and items, and to persuade enemies into becoming allies through conversation. You can take these on as many times as you want, and they are an excellent option for bolstering your battle strength."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_10",
+      "value": "During the story, a situation known as Exploration can occur. Choose destinations on the map, then talk to characters or investigate each area. This lets you obtain items and find clues to advance the plot."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_11",
+      "value": "In Exploration, control the cursor with <sprite index=16> to start a conversation or investigate the target. You can focus directly on targets with <sprite index=12>/<sprite index=13>. When an important event occurs, <sprite index=6> will appear on the focused target."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_12",
+      "value": "In Exploration, control the cursor with <sprite index=28> to start a conversation or investigate the target. You can focus directly on targets with <sprite index=24>/<sprite index=25>. When an important event occurs, <sprite index=6> will appear on the focused target."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_13",
+      "value": "In Exploration, control the cursor with <sprite index=40> to start a conversation or investigate the target. You can focus directly on targets with <sprite index=36>/<sprite index=37>. When an important event occurs, <sprite index=6> will appear on the focused target."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_14",
+      "value": "During Exploration you can also focus on areas other than characters. Investigate such places and you may discover hidden items."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_15",
+      "value": "During Exploration, you can switch to Camera Mode with <sprite index=15>. Looking around in Camera Mode may cause distortion to appear on the screen. Investigating that distortion may progress the story, or let you obtain items. *The camera icon is displayed in the upper-left corner for events where camera use is important."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_16",
+      "value": "During Exploration, you can switch to Camera Mode with <sprite index=27>. Looking around in Camera Mode may cause distortion to appear on the screen. Investigating that distortion may progress the story, or let you obtain items. *The camera icon is displayed in the upper-left corner for events where camera use is important."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_17",
+      "value": "During Exploration, you can switch to Camera Mode with <sprite index=39>. Looking around in Camera Mode may cause distortion to appear on the screen. Investigating that distortion may progress the story, or let you obtain items. *The camera icon is displayed in the upper-left corner for events where camera use is important."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_18",
+      "value": "You may encounter enemies whenever you investigate distortion in Camera Mode. For these battles, you can either fight or avoid them altogether. And just as in Free Battles, you have the option to persuade foes through conversation."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_19",
+      "value": "During the story or on the Map screen, you can open the Pause Menu with the OPTIONS button. From the Pause Menu, you can access Stats, Profiles, Items, Field Guide, Help, Settings and Data (Save/Load) functions."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_20",
+      "value": "During the story or on the Map screen, you can open the Pause Menu with the + Button. From the Pause Menu, you can access Stats, Profiles, Items, Field Guide, Help, Settings and Data (Save/Load) functions."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_21",
+      "value": "During the story or on the Map screen, you can open the Pause Menu with the Menu button. From the Pause Menu, you can access Stats, Profiles, Items, Field Guide, Help, Settings and Data (Save/Load) functions."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_22",
+      "value": "During the story, you save/load data with <sprite index=10>, check the backlog with <sprite index=11>, use auto-play with <sprite index=93>, and skip playback with <sprite index=91>."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_23",
+      "value": "During the story, you save/load data with <sprite index=22>, check the backlog with <sprite index=23>, use auto-play with <sprite index=96>, and skip playback with <sprite index=94>."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_24",
+      "value": "During the story, you save/load data with <sprite index=35>, check the backlog with <sprite index=34>, use auto-play with <sprite index=99>, and skip playback with <sprite index=97>."
+    },
+    {
+      "key": "HELP_NAME_MAP_01",
+      "value": "Map Movement"
+    },
+    {
+      "key": "HELP_NAME_MAP_02",
+      "value": "Event Points"
+    },
+    {
+      "key": "HELP_NAME_MAP_03",
+      "value": "Other Icons"
+    },
+    {
+      "key": "HELP_DETAIL_MAP_01",
+      "value": "During Free Action or Exploration, you can select optional points on the map to progress the story. Places you can go change with story progression. Info on each location is displayed in the lower part of the Map screen."
+    },
+    {
+      "key": "HELP_DETAIL_MAP_02",
+      "value": "Important events will occur in places marked with <sprite index=0> or <sprite index=2> on the map list as the story progresses (and may trigger during exploration of these places)."
+    },
+    {
+      "key": "HELP_DETAIL_MAP_03",
+      "value": "<sprite index=3> shows the characters in that location. You can check which characters are where with the character icons in the lower-right part of the Map screen. Agumon is usually with you and isn’t shown. A character may appear in multiple locations when you split up or when certain events occur. <sprite index=1> shows places where Free Battles will occur. <sprite index=4> displays areas that will use up moves during Free Action."
+    },
+    {
+      "key": "HELP_NAME_SLG_01",
+      "value": "Victory and Defeat Conditions"
+    },
+    {
+      "key": "HELP_NAME_SLG_02",
+      "value": "Victory and Defeat Conditions"
+    },
+    {
+      "key": "HELP_NAME_SLG_03",
+      "value": "Victory and Defeat Conditions"
+    },
+    {
+      "key": "HELP_NAME_SLG_04",
+      "value": "Difficulty Selection"
+    },
+    {
+      "key": "HELP_NAME_SLG_05",
+      "value": "Difficulty Selection"
+    },
+    {
+      "key": "HELP_NAME_SLG_06",
+      "value": "Difficulty Selection"
+    },
+    {
+      "key": "HELP_NAME_SLG_07",
+      "value": "Free Cursor & Camera Controls"
+    },
+    {
+      "key": "HELP_NAME_SLG_08",
+      "value": "Free Cursor & Camera Controls"
+    },
+    {
+      "key": "HELP_NAME_SLG_09",
+      "value": "Free Cursor & Camera Controls"
+    },
+    {
+      "key": "HELP_NAME_SLG_10",
+      "value": "Basic Abilities"
+    },
+    {
+      "key": "HELP_NAME_SLG_11",
+      "value": "Basic Abilities"
+    },
+    {
+      "key": "HELP_NAME_SLG_12",
+      "value": "Basic Abilities"
+    },
+    {
+      "key": "HELP_NAME_SLG_13",
+      "value": "Passive Skills"
+    },
+    {
+      "key": "HELP_NAME_SLG_14",
+      "value": "Passive Skills"
+    },
+    {
+      "key": "HELP_NAME_SLG_15",
+      "value": "Passive Skills"
+    },
+    {
+      "key": "HELP_NAME_SLG_16",
+      "value": "Turn Order"
+    },
+    {
+      "key": "HELP_NAME_SLG_17",
+      "value": "Move Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_18",
+      "value": "Move Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_19",
+      "value": "Move Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_20",
+      "value": "Elevation and Movement"
+    },
+    {
+      "key": "HELP_NAME_SLG_21",
+      "value": "Elevation and Movement"
+    },
+    {
+      "key": "HELP_NAME_SLG_22",
+      "value": "Elevation and Movement"
+    },
+    {
+      "key": "HELP_NAME_SLG_23",
+      "value": "Attack Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_24",
+      "value": "Attack Effect Predictions"
+    },
+    {
+      "key": "HELP_NAME_SLG_25",
+      "value": "Affinity Effects in Battle"
+    },
+    {
+      "key": "HELP_NAME_SLG_26",
+      "value": "Skill Attribute Resistance"
+    },
+    {
+      "key": "HELP_NAME_SLG_27",
+      "value": "Orientation in Battle"
+    },
+    {
+      "key": "HELP_NAME_SLG_28",
+      "value": "Elevation in Battle"
+    },
+    {
+      "key": "HELP_NAME_SLG_29",
+      "value": "Battle Backup with Friends"
+    },
+    {
+      "key": "HELP_NAME_SLG_30",
+      "value": "Battle Backup - Encouragement"
+    },
+    {
+      "key": "HELP_NAME_SLG_31",
+      "value": "Battle Backup - Team Attack"
+    },
+    {
+      "key": "HELP_NAME_SLG_32",
+      "value": "Battle Backup - Support"
+    },
+    {
+      "key": "HELP_NAME_SLG_33",
+      "value": "Item Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_34",
+      "value": "Evolve Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_35",
+      "value": "Evolution and SP Use"
+    },
+    {
+      "key": "HELP_NAME_SLG_36",
+      "value": "Talk Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_37",
+      "value": "Talking with Friends"
+    },
+    {
+      "key": "HELP_NAME_SLG_38",
+      "value": "Talking with Enemies"
+    },
+    {
+      "key": "HELP_NAME_SLG_39",
+      "value": "End Turn Command"
+    },
+    {
+      "key": "HELP_NAME_SLG_40",
+      "value": "Defense"
+    },
+    {
+      "key": "HELP_NAME_SLG_41",
+      "value": "End Turn SP Recovery"
+    },
+    {
+      "key": "HELP_NAME_SLG_42",
+      "value": "Battle Menu"
+    },
+    {
+      "key": "HELP_NAME_SLG_43",
+      "value": "Auto-Battle"
+    },
+    {
+      "key": "HELP_NAME_SLG_44",
+      "value": "Auto-Battle"
+    },
+    {
+      "key": "HELP_NAME_SLG_45",
+      "value": "Auto-Battle"
+    },
+    {
+      "key": "HELP_NAME_SLG_46",
+      "value": "Suspending Battles"
+    },
+    {
+      "key": "HELP_NAME_SLG_47",
+      "value": "Help"
+    },
+    {
+      "key": "HELP_NAME_SLG_48",
+      "value": "Settings"
+    },
+    {
+      "key": "HELP_NAME_SLG_49",
+      "value": "Unit Monster Types"
+    },
+    {
+      "key": "HELP_NAME_SLG_50",
+      "value": "Karma and Monster Types"
+    },
+    {
+      "key": "HELP_DETAIL_SLG_01",
+      "value": "Victory and defeat conditions are displayed at the start of battle. You can check victory conditions at any time during battle from the Battle Menu. *Victory conditions are displayed when you open the Battle Menu with the OPTIONS button."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_02",
+      "value": "Victory and defeat conditions are displayed at the start of battle. You can check victory conditions at any time during battle from the Battle Menu. *Victory conditions are displayed when you open the Battle Menu with the + Button."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_03",
+      "value": "Victory and defeat conditions are displayed at the start of battle. You can check victory conditions at any time during battle from the Battle Menu. *Victory conditions are displayed when you open the Battle Menu with the Menu button."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_04",
+      "value": "Press <sprite index=11> at the start of battle to select a difficulty. There are four difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_05",
+      "value": "Press <sprite index=23> at the start of battle to select a difficulty. There are three difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_06",
+      "value": "Press <sprite index=34> at the start of battle to select a difficulty. There are three difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_07",
+      "value": "When selecting a command in battle, press <sprite index=9> to switch to the free cursor, which lets you move freely around the battle map. You can also press <sprite index=12>/<sprite index=13> to rotate the camera, and <sprite index=14>/<sprite index=15> to adjust the camera distance. *Press <sprite index=10> to move the cursor to a unit (monster)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_08",
+      "value": "When selecting a command in battle, press <sprite index=21> to switch to the free cursor, which lets you move freely around the battle map. You can also press <sprite index=24>/<sprite index=25> to rotate the camera, and <sprite index=26>/<sprite index=27> to adjust the camera distance. *Press <sprite index=22> to move the cursor to a unit (monster)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_09",
+      "value": "When selecting a command in battle, press <sprite index=32> to switch to the free cursor, which lets you move freely around the battle map. You can also press <sprite index=36>/<sprite index=37> to rotate the camera, and <sprite index=38>/<sprite index=39> to adjust the camera distance. *Press <sprite index=35> to move the cursor to a unit (monster)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_10",
+      "value": "Monsters that take part in battles are referred to as “units.” In addition to basic stats like HP, SP and Attribute, each unit has various abilities such as speed and mobility, as well as different resistances. You can check individual stats on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=11> to display their stats."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_11",
+      "value": "Monsters that take part in battles are referred to as “units.” In addition to basic stats like HP, SP and Attribute, each unit has various abilities such as speed and mobility, as well as different resistances. You can check individual stats on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=23> to display their stats."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_12",
+      "value": "Monsters that take part in battles are referred to as “units.” In addition to basic stats like HP, SP and Attribute, each unit has various abilities such as speed and mobility, as well as different resistances. You can check individual stats on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=34> to display their stats."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_13",
+      "value": "Each unit has their own Passive Skills, unique abilities that remain active during the entire battle. You can check these abilities on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=11> to display their Passive Skills."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_14",
+      "value": "Each unit has their own Passive Skills, unique abilities that remain active during the entire battle. You can check these abilities on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=23> to display their Passive Skills."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_15",
+      "value": "Each unit has their own Passive Skills, unique abilities that remain active during the entire battle. You can check these abilities on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=34> to display their Passive Skills."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_16",
+      "value": "Unit turn order is determined by the Speed of enemy and ally units. Status abnormalities and buffs alter Speed in battle. Such changes in Speed, in turn, alter turn order in battle."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_17",
+      "value": "A cursor will appear when you select Move from the Command Menu. Use <sprite index=16>/<sprite index=44> to select a point in the blue grid (your movement range), then confirm your choice to move. Units with high <sprite index=112> Movement (MOVE AMT) values on their Stats page can move farther. After moving, you can move back to your original position with <sprite index=9> before you take actions like Attack."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_18",
+      "value": "A cursor will appear when you select Move from the Command Menu. Use <sprite index=28>/<sprite index=45> to select a point in the blue grid (your movement range), then confirm your choice to move. Units with high <sprite index=112> Movement (MOVE AMT) values on their Stats page can move farther. After moving, you can move back to your original position with <sprite index=21> before you take actions like Attack."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_19",
+      "value": "A cursor will appear when you select Move from the Command Menu. Use <sprite index=40>/<sprite index=46> to select a point in the blue grid (your movement range), then confirm your choice to move. Units with high <sprite index=112> Movement (MOVE AMT) values on their Stats page can move farther. After moving, you can move back to your original position with <sprite index=32> before you take actions like Attack."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_20",
+      "value": "Each unit has their own ability to climb (and descend) differences in elevation. They cannot climb or descend an elevation that exceeds this ability. You can check this ability under <sprite index=113> Vertical Movement (VERT MOVE) on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=11> to display this ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_21",
+      "value": "Each unit has their own ability to climb (and descend) differences in elevation. They cannot climb or descend an elevation that exceeds this ability. You can check this ability under <sprite index=113> Vertical Movement (VERT MOVE) on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=23> to display this ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_22",
+      "value": "Each unit has their own ability to climb (and descend) differences in elevation. They cannot climb or descend an elevation that exceeds this ability. You can check this ability under <sprite index=113> Vertical Movement (VERT MOVE) on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=34> to display this ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_23",
+      "value": "Select the Attack command to show the Skill List. Select a skill from the Skill List to use it. You can also check the effect, attribute, range and effect area of any skills in your possession. *This command cannot be used with items in a single turn."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_24",
+      "value": "After you choose an attack skill and select a target, the prediction of that attack’s effect is displayed. In addition to basic info such as attribute-related corrections, damage, accuracy and counterattack rate, you can also check supplementary info such as rear attack damage. The higher a target’s counterattack %, the more likely you are to get countered by the enemy after your attack."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_25",
+      "value": "All monsters belong to one of three types: Moral, Chaotic, or Harmonious. These have a rock-paper-scissors relationship with each other, boosting attack against weak types and reducing it against strong types."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_26",
+      "value": "Units have individual resistances to <sprite index=114> Fire, <sprite index=115> Water, <sprite index=116> Wind, <sprite index=117> Earth, <sprite index=118> Light and <sprite index=119> Dark element skills. The higher the resistance, the less damage they receive from a corresponding skill. Also, equipping certain Enhancement items can boost these resistances."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_27",
+      "value": "The direction from which you attack your opponent will affect attack strength. Side attacks are stronger and more accurate than frontal attacks, and rear attacks are stronger and more accurate than side attacks. Also, attacks from the side or rear are not affected by a opponent defending."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_28",
+      "value": "Attacks from higher elevations increase the chance of a critical hit. The greater the difference in elevation between the attacker and the target attacked, the greater this chance becomes."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_29",
+      "value": "When attacking, you may receive Battle Backup from a friend. The three types of Battle Backup are: Encouragement, Team Attack, and Support. Backup rates change depending on your Affinity with your friends, as well as unit positions on the battle map. The three types of Battle Backup trigger at different rates for each friend."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_30",
+      "value": "Encouragement has a set chance to occur before an attack, as a friend cheers on the attacking unit and raises their attack power for that attack only."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_31",
+      "value": "Team Attack has a set chance to occur after an attack, and automatically adds an Attack after the attacking unit. This attack does not use the attacker’s turn. Also, Team Attacks only occur when a friend is close to the target of the Team Attack."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_32",
+      "value": "Support has a set chance to occur after a unit action. A friend cheers on a unit after their attack, helping them recover a certain amount of HP and SP."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_33",
+      "value": "Select the Item command to open a list of Recovery items in your possession. Like skills, each items has its own range and area. Select an item from the list, then select a target to use it. *This command cannot be used with attacks in a single turn."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_34",
+      "value": "When Takuma and friends use the Evolve command on a partner unit, an evolution chart will appear. Evolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Evolution carries over."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_35",
+      "value": "Evolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (devolve them) voluntarily to conserve SP."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_36",
+      "value": "Use the Talk command on a main character partner unit to see targets you can talk to. Subjects of conversation are divided into enemies and allies, and you can only talk to enemies in Free Battles or during encounters while exploring."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_37",
+      "value": "Talk with allies to receive Encouragement for your unit and gain a variety of effects. The effects of these talks vary by friend, and are shown under the list of conversation subjects. Also, you can only use the Talk command once per friend in battle."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_38",
+      "value": "Conversations with enemies progress as you answer questions from a list of options. The answers change suitably for each enemy, and garnering a certain amount of sympathy with your answers will make them hear you out. Also, the outcome of the “Be my friend!” request is determined at a set rate. Monsters of the same type with the highest Karma and same Karma type have higher rates of success (e.g. when Moral Karma is highest, attempts with <sprite index=102> Moral monsters will be more successful)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_39",
+      "value": "After you’ve completed your move, or if you just want to move on to the next turn, select the End Turn command to end that unit’s actions. You can pick the direction you want that unit to face when you end their turn."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_40",
+      "value": "Units that end a turn without attacking or using items will automatically take a defensive stance. While the unit is defending, any frontal attacks it receives inflict half damage until the next turn. Units automatically stop defending in one turn."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_41",
+      "value": "While a unit is in Rookie form (and for all Rookie-level Free Monster units), ending a turn without attacking, using items or talking will recover 10% of their SP. If said unit also does not move, they recover 30% of their SP instead."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_42",
+      "value": "You can open the Battle Menu with the + Button at any time, other than during animations such as movements or attacks. You can use the following functions from the Battle Menu: Victory Conditions, Auto, Suspend, Give Up, Retry, Help and Settings."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_43",
+      "value": "Select one of five strategies with different characteristics, then leave battles to the AI. A summary of each strategy is shown under the Strategies list. Also, you can suspend a strategy at any time by pressing <sprite index=9> during auto-battle."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_44",
+      "value": "Select one of five strategies with different characteristics, then leave battles to the AI. A summary of each strategy is shown under the Strategies list. Also, you can suspend a strategy at any time by pressing <sprite index=21> during auto-battle."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_45",
+      "value": "Select one of five strategies with different characteristics, then leave battles to the AI. A summary of each strategy is shown under the Strategies list. Also, you can suspend a strategy at any time by pressing <sprite index=32> during auto-battle."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_46",
+      "value": "Suspend a battle, save, and return to the Title screen. Suspended battle data is only a temporary save, and is lost if not used in subsequent play."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_47",
+      "value": "Display the Help screen. During battle, you can open this from Help in the Battle Menu."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_48",
+      "value": "Display the Settings screen. During battle, you can open this from Settings in the Battle Menu."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_49",
+      "value": "Units fall into one of the following monster types: <sprite index=102> Moral (Vaccine), <sprite index=100> Wrathful (Virus), and <sprite index=101> Harmonious (Data). Some units lack a type (<sprite index=103>)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_50",
+      "value": "Agumon’s evolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Moral (Vaccine), Harmonious (Data), and Wrathful (Virus)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_42_p4",
+      "value": "You can open the Battle Menu with the OPTIONS button at any time, other than during animations such as movements or attacks. You can use the following functions from the Battle Menu: Victory Conditions, Auto, Suspend, Give Up, Retry, Help and Settings."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_42_xb",
+      "value": "You can open the Battle Menu with the Menu button at any time, other than during animations such as movements or attacks. You can use the following functions from the Battle Menu: Victory Conditions, Auto, Suspend, Give Up, Retry, Help and Settings."
+    },
+    {
+      "key": "HELP_NAME_MENU_01",
+      "value": "Stats"
+    },
+    {
+      "key": "HELP_NAME_MENU_02",
+      "value": "Stats"
+    },
+    {
+      "key": "HELP_NAME_MENU_03",
+      "value": "Stats"
+    },
+    {
+      "key": "HELP_NAME_MENU_04",
+      "value": "Checking Skills"
+    },
+    {
+      "key": "HELP_NAME_MENU_05",
+      "value": "Changing Equipment"
+    },
+    {
+      "key": "HELP_NAME_MENU_06",
+      "value": "Training Monsters"
+    },
+    {
+      "key": "HELP_NAME_MENU_07",
+      "value": "Monster Evolution"
+    },
+    {
+      "key": "HELP_NAME_MENU_08",
+      "value": "Profiles"
+    },
+    {
+      "key": "HELP_NAME_MENU_09",
+      "value": "Character Info & Episodes"
+    },
+    {
+      "key": "HELP_NAME_MENU_10",
+      "value": "Items"
+    },
+    {
+      "key": "HELP_NAME_MENU_11",
+      "value": "Adventure Controls"
+    },
+    {
+      "key": "HELP_NAME_MENU_12",
+      "value": "Battle Controls"
+    },
+    {
+      "key": "HELP_DETAIL_MENU_01",
+      "value": "You can check the stats of ally Monsters. Use <sprite index=11> to organize Monsters by individual stats, and <sprite index=10> to release Free Monsters. You can’t release Monsters essential to the story."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_02",
+      "value": "You can check the stats of ally Monsters. Use <sprite index=23> to organize Monsters by individual stats, and <sprite index=22> to release Free Monsters. You can’t release Monsters essential to the story."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_03",
+      "value": "You can check the stats of ally Monsters. Use <sprite index=34> to organize Monsters by individual stats, and <sprite index=35> to release Free Monsters. You can’t release Monsters essential to the story."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_04",
+      "value": "After choosing any monster on the Stats screen, you can check their skills from the top tabs. Original or equipped skills are displayed. Here, you can check each skill’s effect, SP used, range, and effect area."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_05",
+      "value": "After choosing any monster on the Stats screen, you can check their equipment from the top tabs. All monsters have two equipment slots, letting you equip Skill or Enhancement items. Pressing Change lets you choose and equip items from held equipment, or remove equipment."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_06",
+      "value": "After choosing any monster on the Stats screen, you can check their growth from the top tabs. Select and give held Training items from the list to raise monster stats. Training effects differ for each item."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_07",
+      "value": "After choosing any monster on the Stats screen, you can check evolutions from the top tabs. Evolution trees are displayed for each monster, letting you check their evolution paths. *When a Free Monster evolves, their level is maintained but the EXP to their next level is reset."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_08",
+      "value": "You can check the profiles of each main character. Here you can see Takuma’s Karma and his Affinity with each friend. Select any character besides Takuma to check their Battle Backup rates in battle. Each Battle Backup rate is altered by current Affinity."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_09",
+      "value": "After selecting any character from the Profile screen, you can check episode and ally monster information in the top tabs. Episodes are unlocked through story progression or monster evolution."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_10",
+      "value": "You can check items obtained through battles or exploration. Enhancement and Skill items can be equipped to and used by monsters. Recovery and Training items are one-use consumables. Key items are necessary for story progression."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_11",
+      "value": "These are the basic controls for Adventure scenes."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_12",
+      "value": "These are the basic controls for Battle scenes."
+    },
+    {
+      "key": "HELP_CONTROL_01",
+      "value": "Adventure Control List"
+    },
+    {
+      "key": "HELP_CONTROL_02",
+      "value": "Decision control (decisions shown)"
+    },
+    {
+      "key": "HELP_CONTROL_03",
+      "value": "Open Profile screen"
+    },
+    {
+      "key": "HELP_CONTROL_04",
+      "value": "Start Auto Play"
+    },
+    {
+      "key": "HELP_CONTROL_05",
+      "value": "Open Backlog screen"
+    },
+    {
+      "key": "HELP_CONTROL_06",
+      "value": "Start Skip Play"
+    },
+    {
+      "key": "HELP_CONTROL_07",
+      "value": "Decision/cursor/camera control"
+    },
+    {
+      "key": "HELP_CONTROL_08",
+      "value": "Open Pause Menu"
+    },
+    {
+      "key": "HELP_CONTROL_09",
+      "value": "Confirm/dialogue speed"
+    },
+    {
+      "key": "HELP_CONTROL_10",
+      "value": "Return/cancel auto-skip"
+    },
+    {
+      "key": "HELP_CONTROL_11",
+      "value": "*During searches/Free Actions"
+    },
+    {
+      "key": "HELP_CONTROL_12",
+      "value": "Auto-focus"
+    },
+    {
+      "key": "HELP_CONTROL_13",
+      "value": "Open Map screen"
+    },
+    {
+      "key": "HELP_CONTROL_14",
+      "value": "Battle Control List"
+    },
+    {
+      "key": "HELP_CONTROL_15",
+      "value": "Select command/move cursor"
+    },
+    {
+      "key": "HELP_CONTROL_16",
+      "value": "Select command/move cursor"
+    },
+    {
+      "key": "HELP_CONTROL_17",
+      "value": "Open Battle Menu"
+    },
+    {
+      "key": "HELP_CONTROL_18",
+      "value": "Confirm/speed up animations (hold)"
+    },
+    {
+      "key": "HELP_CONTROL_19",
+      "value": "Return/switch to free cursor"
+    },
+    {
+      "key": "HELP_CONTROL_20",
+      "value": "Rotate camera"
+    },
+    {
+      "key": "HELP_CONTROL_21",
+      "value": "Switch camera distance"
+    },
+    {
+      "key": "HELP_CONTROL_22",
+      "value": "*When cursor highlights a target"
+    },
+    {
+      "key": "HELP_CONTROL_23",
+      "value": "Open Stats screen"
+    },
+    {
+      "key": "HELP_CONTROL_24",
+      "value": "*With multiple attack targets in range"
+    },
+    {
+      "key": "HELP_CONTROL_25",
+      "value": "Switch Units"
+    },
+    {
+      "key": "HELP_CONTROL_26",
+      "value": "*During auto-battle"
+    },
+    {
+      "key": "HELP_CONTROL_27",
+      "value": "Stop auto-battle"
+    },
+    {
+      "key": "HELP_CONTROL_28",
+      "value": "Activate camera"
+    },
+    {
+      "key": "HELP_CONTROL_29",
+      "value": "Open Data Screen"
+    },
+    {
+      "key": "HELP_DETAIL_ADV_13_kb",
+      "value": "In Exploration, control the cursor with <sprite index=40> (the mouse) to start a conversation or investigate the target. You can focus directly on targets with <sprite index=36>/<sprite index=37> (<sprite index=81>/<sprite index=69>). Focused targets are marked with <sprite index=6> when they will trigger important events."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_17_kb",
+      "value": "During Exploration, you can switch to Camera Mode with <sprite index=39> (<sprite index=51>). Searching an area in Camera Mode may cause distortion to appear on the screen. Investigating that distortion may progress the story, or let you obtain items. *The camera icon is displayed in the upper-left corner for events where camera use is important."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_24_kb",
+      "value": "During the story, you open the map with <sprite index=38> (<sprite index=49>), move the camera with <sprite index=39> (<sprite index=51>), save/load data with <sprite index=35> (<sprite index=67>), check the backlog with <sprite index=34> (<sprite index=86>), use auto-play with <sprite index=99> (<sprite index=65>), and skip playback with <sprite index=97> (<sprite index=68>)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_06_kb",
+      "value": "Press <sprite index=34> (<sprite index=86>) at the start of battle to select a difficulty. There are four difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_09_kb",
+      "value": "When selecting a command in battle, press <sprite index=32> (<sprite index=88>/<sprite index=47>) to switch to the free cursor, which lets you move freely around the battle map. You can also press <sprite index=36>/<sprite index=37> (<sprite index=81>/<sprite index=69>) to rotate the camera, and <sprite index=38>/<sprite index=39> (<sprite index=49>/<sprite index=51>) to adjust the camera distance. *Press <sprite index=35>(<sprite index=67>) to move the cursor to a unit (monster)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_12_kb",
+      "value": "Monsters that take part in battles are referred to as “units.” In addition to basic stats like HP, SP and Attribute, each unit has various abilities such as speed and mobility, as well as different resistances. You can check individual stats on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=34> (<sprite index=86>) to display their stats."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_15_kb",
+      "value": "Each unit has their own Passive Skills, unique abilities that remain active during the entire battle. You can check these abilities on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=34> (<sprite index=86>) to display their Passive Skills."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_19_kb",
+      "value": "A cursor will appear when you select Move from the Command Menu. Use <sprite index=40>/<sprite index=46> (<sprite index=87>/<sprite index=83>/<sprite index=65>/<sprite index=68>) to select a point in the blue grid (your movement range), then confirm your choice to move. Units with high Movement (<sprite index=112> MOVE AMT) values on their Stats page can move farther. After moving, you can move back to your original position with <sprite index=32> (<sprite index=88>/<sprite index=47>) before you take actions like Attack."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_22_kb",
+      "value": "Each unit has their own ability to climb (and descend) differences in elevation. They cannot climb or descend an elevation that exceeds this ability. You can check this ability under <sprite index=113> Vertical Movement (VERT MOVE) on the Stats page for each unit. *Highlight the desired unit with your cursor and press <sprite index=34> (<sprite index=86>) to display this ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_45_kb",
+      "value": "Select one of five strategies with different characteristics, then leave battles to the AI. A summary of each strategy is shown under the Strategies list. Also, you can suspend a strategy at any time by pressing <sprite index=32> (<sprite index=88>/<sprite index=47>) during auto-battle."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_03_kb",
+      "value": "You can check the stats of ally monsters. Use <sprite index=34> (<sprite index=86>) to organize monsters by individual stats, and <sprite index=35> (<sprite index=67>) to release Free monsters. You can’t release monsters essential to the story."
+    },
+    {
+      "key": "HELP_NAME_SLG_51",
+      "value": "Type Strengths & Weaknesses"
+    },
+    {
+      "key": "HELP_NAME_SLG_52",
+      "value": "Movement and Move Type"
+    },
+    {
+      "key": "HELP_NAME_SLG_53",
+      "value": "Skills"
+    },
+    {
+      "key": "HELP_NAME_SLG_54",
+      "value": "Skills and SP"
+    },
+    {
+      "key": "HELP_NAME_SLG_55",
+      "value": "Skill Range and Area"
+    },
+    {
+      "key": "HELP_NAME_SLG_56",
+      "value": "Status Abnormalities"
+    },
+    {
+      "key": "HELP_NAME_SLG_57",
+      "value": "Status Abnormality Types"
+    },
+    {
+      "key": "HELP_NAME_SLG_58",
+      "value": "Give Up and Retry"
+    },
+    {
+      "key": "HELP_NAME_SLG_59",
+      "value": "Skill Attributes"
+    },
+    {
+      "key": "HELP_DETAIL_SLG_51",
+      "value": "The three monster types have a rock-paper-scissors relationship with each other, boosting attack damage against weak types and reducing it against strong types. <sprite index=102> Moral (Vaccine) is strong against <sprite index=100> Wrathful (Virus), <sprite index=100> Wrathful (Virus) is strong against <sprite index=101> Harmonious (Data), and <sprite index=101> Harmonious (Data) is strong against <sprite index=102> Moral (Vaccine)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_52",
+      "value": "Units have one of two Move Types: <sprite index=110> Land or <sprite index=111> Air. Air Move Types can even move over disconnected ground. *Highlight the desired unit with your cursor and press <sprite index=11> to display its ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_52_sw",
+      "value": "Units have one of two Move Types: <sprite index=110> Land or <sprite index=111> Air. Air Move Types can even move over disconnected ground. *Highlight the desired unit with your cursor and press <sprite index=23> to display its ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_52_xb",
+      "value": "Units have one of two Move Types: <sprite index=110> Land or <sprite index=111> Air. Air Move Types can even move over disconnected ground. *Highlight the desired unit with your cursor and press <sprite index=34> to display its ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_52_kb",
+      "value": "Units have one of two Move Types: <sprite index=110> Land or <sprite index=111> Air. Air Move Types can even move over disconnected ground. *Highlight the desired unit with your cursor and press <sprite index=34> ( <sprite index=86> ) to display its ability."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_53",
+      "value": "Skills are moves unique to each unit, and are classified as <sprite index=105> Physical Attacks (PHYS ATK) or <sprite index=107> Special Attacks (SP ATK). Unit stats include <sprite index=106> Physical Defense (PHYS DEF) and <sprite index=108> Special Defense (SP DEF), affecting the damage received from each type of skill."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_54",
+      "value": "When units use skills, each one consumes a set amount of SP. Each unit always has the Attack skill, which doesn’t consume SP."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_55",
+      "value": "A skill’s Range is shows the places said skill can target. Area shows how far a skill’s effect spreads around the point of impact."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_56",
+      "value": "Gaining a status abnormality restricts a unit somehow, preventing them from moving, using skills and more. Said monster will recover after a set number of turns, or by using a Recovery item. Stunned, Frozen and Confused abnormalities are canceled when the afflicted unit gets attacked. Also, equipping certain Enhancement items can raise your resistance to status abnormalities."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_57",
+      "value": "<sprite index=120> Stunned, <sprite index=121> Frozen, and <sprite index=123> Paralyzed states render a unit unable to move. <sprite index=122> Poisoned inflicts a set amount of damage every turn, and <sprite index=124> Sealed prevents a unit from using skills. <sprite index=125> Confused renders a unit uncontrollable, causing it to attack itself and its allies."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_58",
+      "value": "The Give Up option ends the current battle and returns you to the game’s title screen. In Free Battles, you return back to the Map screen. Retry returns you to the start of the current battle. *Note that all items obtained or consumed during the battle are reset."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_59",
+      "value": "Skills are divided into different Skill Attributes: <sprite index=114> Fire, <sprite index=115> Water, <sprite index=116> Wind, <sprite index=117> Earth, <sprite index=118> Light and <sprite index=119> Dark. (There are non-elemental skills as well). The color of the <sprite index=105> or <sprite index=107> icon next to a skill name represents its attribute."
+    },
+    {
+      "key": "HELP_NAME_MENU_13",
+      "value": "Field Guide"
+    },
+    {
+      "key": "HELP_NAME_MENU_14",
+      "value": "Data (Save/Load)"
+    },
+    {
+      "key": "HELP_DETAIL_MENU_13",
+      "value": "Display the Field Guide. This allows you to view ally monsters and obtained items."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_14",
+      "value": "Display the Data screen. Save or load with <sprite index=12> or <sprite index=13>."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_14_sw",
+      "value": "Display the Data screen. Save or load with <sprite index=24> or <sprite index=25>."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_14_xb",
+      "value": "Display the Data screen. Save or load with <sprite index=36> or <sprite index=37>."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_14_kb",
+      "value": "Display the Data screen. Save or load with <sprite index=36> (<sprite index=81>) or <sprite index=37> (<sprite index=69>)."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_21_kb",
+      "value": "During the story or on the Map screen, you can open the Pause Menu with the Menu button (<sprite index=57>). From the Pause Menu, you can access Stats, Profiles, Items, Field Guide, Help, Settings and Data (Save/Load) functions."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_03_kb",
+      "value": "Victory and defeat conditions are displayed at the start of battle. You can check victory conditions at any time during battle from the Battle Menu. *Victory conditions are displayed when you open the Battle Menu with the Menu button (<sprite index=57>)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_42_kb",
+      "value": "You can open the Battle Menu with the Menu button (<sprite index=57>) at any time, other than during animations such as movements or attacks. You can use the following functions from the Battle Menu: Victory Conditions, Auto, Suspend, Give Up, Retry, Help and Settings."
+    },
+    {
+      "key": "HELP_DETAIL_MAP_04",
+      "value": "During Free Action or Exploration, you can select any point on the map to advance the story. The map is divided into areas, and the places you can go change with story progression. Info on each location is displayed in the lower-right part of the Map screen. *The Map can be opened with <sprite index=14> during Exploration or Free Actions."
+    },
+    {
+      "key": "HELP_DETAIL_MAP_04_sw",
+      "value": "During Free Action or Exploration, you can select any point on the map to advance the story. The map is divided into areas, and the places you can go change with story progression. Info on each location is displayed in the lower-right part of the Map screen. *The Map can be opened with <sprite index=26> during Exploration or Free Actions."
+    },
+    {
+      "key": "HELP_DETAIL_MAP_04_xb",
+      "value": "During Free Action or Exploration, you can select any point on the map to advance the story. Places you can go change with story progression. Info on each location is displayed in the lower-right part of the Map screen. *The Map can be opened with <sprite index=38> during Exploration or Free Actions."
+    },
+    {
+      "key": "HELP_DETAIL_MAP_04_kb",
+      "value": "During Free Action or Exploration, you can select any point on the map to advance the story. The map is divided into areas, and the places you can go change with story progression. Info on each location is displayed in the lower-right part of the Map screen. *The Map can be opened with <sprite index=38> (<sprite index=49>) during Exploration or Free Actions."
+    },
+    {
+      "key": "HELP_NAME_MENU_15",
+      "value": "Stats Tendencies"
+    },
+    {
+      "key": "HELP_DETAIL_MENU_15",
+      "value": "Monster stats are broadly divided into classes like All-Rounder and Mobility. All-Rounder types are balanced overall, while Mobility types are specialized in MOVE AMT and VERT MOVE. Attack types have high PHYS ATK, Special Attack types have high SP ATK, and Defense types have high PHYS DEF and SP DEF."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_13_kb_f",
+      "value": "In Exploration, control the cursor with <sprite index=40> (the mouse) to start a conversation or investigate the target. You can focus directly on targets with <sprite index=36>/<sprite index=37> (<sprite index=65>/<sprite index=69>). Focused targets are marked with <sprite index=6> when they will trigger important events."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_09_kb_f",
+      "value": "When selecting a command in battle, press <sprite index=32> (<sprite index=88>/<sprite index=47>) to switch to the free cursor, which lets you move freely around the battle map. You can also press <sprite index=36>/<sprite index=37> (<sprite index=65>/<sprite index=69>) to rotate the camera, or <sprite index=38>/<sprite index=39> (<sprite index=49>/<sprite index=51>) to adjust the camera distance. *Press <sprite index=35> (<sprite index=67>) to move the cursor to a unit."
+    },
+    {
+      "key": "HELP_DETAIL_MENU_14_kb_f",
+      "value": "Display the Data screen. Save or load with <sprite index=36> or <sprite index=37> (<sprite index=65> or <sprite index=69>)."
+    },
+    {
+      "key": "HELP_DETAIL_SLG_19_kb_f",
+      "value": "A cursor will appear when you select Move from the Command Menu. Use <sprite index=40>/<sprite index=46> (<sprite index=90>/<sprite index=83>/<sprite index=81>/<sprite index=68>) to select a point in the blue grid (your movement range), then confirm your choice to move. Units with high Movement (<sprite index=112> MOVE AMT) values on their Stats page can move farther. After moving, you can move back to your original position with <sprite index=32> (<sprite index=88>/<sprite index=47>) before you take actions like Attack."
+    },
+    {
+      "key": "HELP_DETAIL_ADV_24_kb_f",
+      "value": "During the story, you can save/load data with <sprite index=35> (<sprite index=67>), check the backlog with <sprite index=34> (<sprite index=86>), use auto-play with <sprite index=99> (<sprite index=81>), and skip playback with <sprite index=97> (<sprite index=68>)."
+    },
+    {
+      "key": "HELP_NAME_SLG_60",
+      "value": "Defeat in Battle"
+    },
+    {
+      "key": "HELP_DETAIL_SLG_60",
+      "value": "You’re given four options when you lose an Event Battle: Retry, Restart from Map, Load, or Return to Title. Choosing Load or Return to Title lets you return to the Adventure scene prior to the battle. Choosing Restart from Map lets you train in Free Battles before retrying the Event Battle."
+    },
+    {
+      "key": "HELP_INFO_st",
+      "value": "*For default control settings"
+    }
+  ]
+}
