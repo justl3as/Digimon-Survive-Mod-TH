@@ -2,47 +2,47 @@
   "scenario_text": [
     {
       "key": "EP01_S0011_0001",
-      "value": "Ah, Miyuki?!"
+      "value": "พี่มิยูกิ?!"
     },
     {
       "key": "EP01_S0011_0101",
-      "value": "I’m okay! Go, head for that light!"
+      "value": "พี่ไม่เป็นไร! ไปซะ, ไปทางแสงนั่นเร็วเข้า!"
     },
     {
       "key": "EP01_S0011_0002",
-      "value": "Unngh...\nRun, Haru... Get out of here!"
+      "value": "อึ่ก...\nหนีไป, ฮารุ... ออกไปจากที่นี่ซะ!"
     },
     {
       "key": "EP01_S0011_0003",
-      "value": "No way!\nI’m not leaving you behind!"
+      "value": "ไม่มีทาง!\nผมไม่ทิ้งพี่ไว้คนเดียวหรอก!"
     },
     {
       "key": "EP01_S0011_0004",
-      "value": "What are you doing?! Go on, hurry!"
+      "value": "มัวทำอะไรอยู่?! ไปได้แล้ว, เร็วเข้า!"
     },
     {
       "key": "EP01_S0011_0005",
-      "value": "It’s no good...\nI can’t hold it back anymore!"
+      "value": "ไม่ไหวแล้ว...\nฉันต้านมันไม่อยู่แล้ว!"
     },
     {
       "key": "EP01_S0011_0006",
-      "value": "Look out!!!"
+      "value": "ระวัง!!!"
     },
     {
       "key": "EP01_S0011_0007",
-      "value": "Yeep!!!"
+      "value": "อ๊ะ!!!"
     },
     {
       "key": "EP01_S0011_0017",
-      "value": "What the—?!\nIt’s sucking me in..."
+      "value": "อะไรเนี่ย—?!\nมันกำลังดูดผมเข้าไป..."
     },
     {
       "key": "EP01_S0011_0008",
-      "value": "Unngh!\nIf you disappear, what will I—!"
+      "value": "อึ่ก!\nถ้ามีอะไรเกิดขึ้นกับเธอ... ฉันคง—!"
     },
     {
       "key": "EP01_S0011_0014",
-      "value": "You have to get back safe. Please!"
+      "value": "เธอต้องกลับไปให้ได้อย่างปลอดภัยนะ"
     },
     {
       "key": "EP01_S0011_0015",
@@ -50,27 +50,27 @@
     },
     {
       "key": "EP01_S0011_0010",
-      "value": "Aaaaaah!!!"
+      "value": "อ๊าาาาาา!!!"
     },
     {
       "key": "EP01_S0011_0018",
-      "value": "Miyukiii!"
+      "value": "พี่มิยูกิ—!"
     },
     {
       "key": "EP01_S0011_0019",
-      "value": "I gotta save her... But I...\nI can’t..."
+      "value": "ต้องช่วยพี่... แต่ว่าผม...\nผม... ทำไม่ได้..."
     },
     {
       "key": "EP01_S0011_0009",
-      "value": "Miyukiii!"
+      "value": "พี่ครับ—!"
     },
     {
       "key": "EP01_S0011_0011",
-      "value": "Wait for me..."
+      "value": "รอผมก่อนนะ..."
     },
     {
       "key": "EP01_S0011_0012",
-      "value": "I’ll rescue you, Miyuki...\nNo matter what!"
+      "value": "ผมจะช่วยพี่ให้ได้...\nไม่ว่าจะยังไงก็ตาม!"
     }
   ]
 }

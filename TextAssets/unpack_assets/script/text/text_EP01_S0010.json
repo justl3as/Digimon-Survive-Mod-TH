@@ -2,39 +2,39 @@
   "scenario_text": [
     {
       "key": "EP01_S0010_0001",
-      "value": "*huff* *huff* *puff*"
+      "value": "แฮ่ก แฮ่ก แฮ่ก"
     },
     {
       "key": "EP01_S0010_0002",
-      "value": "I’m scared..."
+      "value": "ผมกลัว"
     },
     {
       "key": "EP01_S0010_0003",
-      "value": "Don’t worry, we’re okay!\nCome on, over here..."
+      "value": "ไม่ต้องห่วงนะ พวกเราจะไม่เป็นไร!\nมาเร็วทางนี้..."
     },
     {
       "key": "EP01_S0010_0004",
-      "value": "Yeep!"
+      "value": "ว้าย!"
     },
     {
       "key": "EP01_S0010_0005",
-      "value": "Oh no!\nThey made it over here already!"
+      "value": "ไม่นะ!\nพวกมันตามมาถึงนี่แล้ว!"
     },
     {
       "key": "EP01_S0010_0006",
-      "value": "Get away from there!"
+      "value": "ถอยออกไปจากตรงนั้น!"
     },
     {
       "key": "EP01_S0010_0007",
-      "value": "I won’t let you lay a hand on them!"
+      "value": "ฉันไม่ยอมให้แกแตะต้องพวกเค้าเด็ดขาด!"
     },
     {
       "key": "EP01_S0010_0008",
-      "value": "You guys...!"
+      "value": "พวกเธอ..."
     },
     {
       "key": "EP01_S0010_0009",
-      "value": "I’m so scared..."
+      "value": "ผมกลัวมาก..."
     }
   ]
 }

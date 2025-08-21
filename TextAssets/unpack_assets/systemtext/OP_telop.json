@@ -2,199 +2,199 @@
   "OP_telop": [
     {
       "key": "OP_000_01",
-      "value": "Morning!"
+      "value": "อรุณสวัสดิ์!"
     },
     {
       "key": "OP_000_02",
-      "value": "You get any sleep last night?"
+      "value": "เมื่อคืนหลับสบายดีไหม?"
     },
     {
       "key": "OP_000_03",
-      "value": "How about that quake this morning?"
+      "value": "เมื่อเช้ามีแผ่นดินไหวด้วยนี่เนอะ?"
     },
     {
       "key": "OP_000_04",
-      "value": "Sure woke me up!"
+      "value": "อื้ม ใจหายหมดเลย"
     },
     {
       "key": "OP_000_05",
-      "value": "Where are these ruins we’re going to again?"
+      "value": "โบราณสถานที่จะไปวันนี้ อยู่แถวไหนเหรอ?"
     },
     {
       "key": "OP_000_06",
-      "value": "Hold on. I have a map in here somewhere..."
+      "value": "รอเดี๋ยวนะ ฉันขอดูแผนที่ก่อน..."
     },
     {
       "key": "OP_000_07",
-      "value": "Gooooood mornin’!"
+      "value": "อารุนซาหวัดดดดด!"
     },
     {
       "key": "OP_000_08",
-      "value": "Minoru! Don’t scare me like that!"
+      "value": "โธ่ มิโนรุ อย่าทำให้ตกใจสิ!"
     },
     {
       "key": "OP_000_09",
-      "value": "Ahahaha!"
+      "value": "อะฮะฮะฮ่า!"
     },
     {
       "key": "OP_000_10",
-      "value": "Yeah, my bad."
+      "value": "โทษทีๆ"
     },
     {
       "key": "OP_000_11",
-      "value": "Hahaha!"
+      "value": "ฮ่าๆ!"
     },
     {
       "key": "OP_000_12",
-      "value": "Off to an early start, huh?"
+      "value": "คึกคักแต่เช้าเลยนะ"
     },
     {
       "key": "OP_000_13",
-      "value": "*sigh*"
+      "value": "เฮ้อ..."
     },
     {
       "key": "OP_000_14",
-      "value": "Miu."
+      "value": "มิอุ"
     },
     {
       "key": "OP_000_15",
-      "value": "Time to get up."
+      "value": "ตื่นได้แล้ว"
     },
     {
       "key": "OP_000_16",
-      "value": "Come on."
+      "value": "นี่ มิอุ"
     },
     {
       "key": "OP_000_17",
-      "value": "Your food’s gonna get cold."
+      "value": "เดี๋ยวข้าวก็เย็นหมดหรอก"
     },
     {
       "key": "OP_000_18",
-      "value": "Oh no, she went by herself again!"
+      "value": "โธ่เอ๊ย ยั่ยนั่นไปคนไหนเดียวอีกแล้ว!"
     },
     {
       "key": "OP_000_19",
-      "value": "Heheheh..."
+      "value": "ฮิฮิฮิ..."
     },
     {
       "key": "OP_000_20",
-      "value": "Nyah nyah!"
+      "value": "แบร่!"
     },
     {
       "key": "OP_000_21",
-      "value": "It’s...snowing?"
+      "value": "หิมะ...ตกเหรอ?"
     },
     {
       "key": "OP_000_22",
-      "value": "Okay... Three, two, one..."
+      "value": "เอาล่ะ...สาม สอง หนึ่ง..."
     },
     {
       "key": "OP_000_23",
-      "value": "Hey, move it."
+      "value": "เฮ้หลีกทางหน่อย"
     },
     {
       "key": "OP_000_24",
-      "value": "Sorry!"
+      "value": "ข-ขอโทษ"
     },
     {
       "key": "OP_000_25",
-      "value": "Tch!"
+      "value": "ชิ!"
     },
     {
       "key": "OP_000_26",
-      "value": "Wow, you’re such a charmer."
+      "value": "โหเสน่ห์แรงจริงนะนายเนี่ย"
     },
     {
       "key": "OP_000_27",
-      "value": "No wonder all the girls love you."
+      "value": "มิน่าล่ะ สาวๆ ถึงได้ติดกันตรึม"
     },
     {
       "key": "OP_000_28",
-      "value": "Oh, shut up."
+      "value": "หนวกหูน่า"
     },
     {
       "key": "OP_000_29",
-      "value": "Which brings us to the news."
+      "value": "ต่อไปเป็นรายงานข่าวค่ะ"
     },
     {
       "key": "OP_000_30",
-      "value": "At roughly five o’clock this morning,"
+      "value": "เมื่อเวลาประมาณตีห้าของเช้าวันนี้"
     },
     {
       "key": "OP_000_31",
-      "value": "a magnitude 3 earthquake hit Kanobe City."
+      "value": "ได้เกิดเหตุแผ่นดินไหวขนาด 3 แมกนิจูด ที่เมืองคาโนเบะ"
     },
     {
       "key": "OP_000_32",
-      "value": "Wait, isn’t that here?"
+      "value": "เดี๋ยวนะ นั่นมันที่นี่ไม่ใช่เหรอ?"
     },
     {
       "key": "OP_000_33",
-      "value": "It caused a landslide in part of the region,"
+      "value": "ส่งผลให้เกิดดินถล่มในบางพื้นที่"
     },
     {
       "key": "OP_000_34",
-      "value": "and police and fire departments urge caution."
+      "value": "เจ้าหน้าที่ตำรวจและหน่วยดับเพลิง\nเตือนให้ใช้ความระมัดระวัง"
     },
     {
       "key": "OP_000_35",
-      "value": "Ooh..."
+      "value": "อึก..."
     },
     {
       "key": "OP_000_36",
-      "value": "Where...am I?"
+      "value": "ที่นี่...ที่ไหน?"
     },
     {
       "key": "OP_000_37",
-      "value": "Due to the risk of further seismic activity,"
+      "value": "เนื่องจากมีความเสี่ยงที่จะเกิดแผ่นดินไหวตามมาอีก"
     },
     {
       "key": "OP_000_38",
-      "value": "everyone in the Kanobe area is encouraged..."
+      "value": "จึงขอให้ทุกคนในเขตคาโนะเบะ..."
     },
     {
       "key": "OP_000_39",
-      "value": "This is crazy."
+      "value": "นี่มันบ้าไปแล้ว."
     },
     {
       "key": "OP_000_40",
-      "value": "Is it really safe for us to go on this trip?"
+      "value": "ไปทัศนศึกษากันแบบนี้จะปลอดภัยจริงๆ เหรอ?"
     },
     {
       "key": "OP_000_41",
-      "value": "All right, everyone."
+      "value": "เอาล่ะ ทุกคน"
     },
     {
       "key": "OP_000_42",
-      "value": "It’s time for us to head out."
+      "value": "ได้เวลาออกเดินทางกันแล้ว"
     },
     {
       "key": "OP_000_43",
-      "value": "Make sure you listen to your group leaders."
+      "value": "ตั้งใจฟังที่หัวหน้ากลุ่มพูดด้วยละ"
     },
     {
       "key": "OP_000_44",
-      "value": "Remember, this isn’t a vacation."
+      "value": "จำไว้ว่านี่ไม่ใช่การมาเที่ยวเล่น"
     },
     {
       "key": "OP_000_45",
-      "value": "Make sure you stick to the schedule."
+      "value": "ต้องทำตามกำหนดการอย่างเคร่งครัดด้วย"
     },
     {
       "key": "OP_000_46",
-      "value": "This sucks..."
+      "value": "น่ารำคาญชะมัด..."
     },
     {
       "key": "OP_000_47",
-      "value": "Takuma?"
+      "value": "ทาคุมะ?"
     },
     {
       "key": "OP_000_48",
-      "value": "Ah, sorry."
+      "value": "อ๊ะ โทษที"
     },
     {
       "key": "OP_000_49",
-      "value": "Just got a little distracted."
+      "value": "พอดีเหม่อไปหน่อย"
     }
   ]
 }
